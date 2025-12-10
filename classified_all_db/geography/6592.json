@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of Pakistan's total area is occupied by Punjab?",
+      "options": {
+        "a": "18%",
+        "b": "25.8%",
+        "c": "30%",
+        "d": "None of these"
+      },
+      "one_liner": "Punjab occupies **25.8%** of Pakistan's total area.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

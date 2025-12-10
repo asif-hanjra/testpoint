@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'calamity':",
+      "options": {
+        "a": "fortune",
+        "b": "disaster",
+        "c": "blessing",
+        "d": "luck"
+      },
+      "one_liner": "'Calamity' refers to a disaster or catastrophe, which are words that convey a similar sense of severe misfortune.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

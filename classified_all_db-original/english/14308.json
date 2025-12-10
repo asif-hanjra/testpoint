@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'strict':",
+      "options": {
+        "a": "lenient",
+        "b": "stringent",
+        "c": "flexible",
+        "d": "permissive"
+      },
+      "one_liner": "'Strict' implies rigidity and inflexibility, much like the word 'stringent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

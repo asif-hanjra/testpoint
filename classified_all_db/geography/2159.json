@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which hills are considered part of the Kirthar Range?",
+      "options": {
+        "a": "Shiwalik and Pir Punjal",
+        "b": "Salt Range and Margalla",
+        "c": "Hindu Kush and Karakoram",
+        "d": "None of these"
+      },
+      "one_liner": "The Shiwalik and Pir Punjal hills are considered part of the **Kirthar Range**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

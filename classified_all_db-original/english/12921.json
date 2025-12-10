@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'perennial':",
+      "options": {
+        "a": "enduring",
+        "b": "temporary",
+        "c": "chronic",
+        "d": "lasting"
+      },
+      "one_liner": "An antonym of 'perennial' is 'temporary', indicating something that does not last long.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'subside':",
+      "options": {
+        "a": "escalate",
+        "b": "intensify",
+        "c": "abate",
+        "d": "increase"
+      },
+      "one_liner": "'Subside' means to become less intense or severe, similar to 'abate'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'imbibe':",
+      "options": {
+        "a": "quaff:refrain",
+        "b": "gulp:consume",
+        "c": "drink:imbibe",
+        "d": "absorb:release"
+      },
+      "one_liner": "A synonym for 'imbibe' is 'quaff', and an antonym is 'refrain'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the Soviet Union officially end?",
+      "options": {
+        "a": "25 December 1991",
+        "b": "26 December 1991",
+        "c": "27 December 1991",
+        "d": "28 December 1991"
+      },
+      "one_liner": "The Soviet Union officially ceased to exist on **26 December 1991**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Vladimir Lenin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Joseph Stalin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Khyber Pass links Peshawar in Pakistan with which city in Afghanistan?",
+      "options": {
+        "a": "Kabul",
+        "b": "Kandahar",
+        "c": "Jalalabad",
+        "d": "Herat"
+      },
+      "one_liner": "Khyber Pass links Peshawar in Pakistan with **Jalalabad** in Afghanistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

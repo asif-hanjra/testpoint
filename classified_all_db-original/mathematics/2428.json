@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The factor of a² - 2a + 1 - b² is _____?",
+      "options": {
+        "a": "(a−1−b)(a−1+b)",
+        "b": "(a+1−b)(a−1+b)",
+        "c": "(a−1−b)(a+1+b)",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

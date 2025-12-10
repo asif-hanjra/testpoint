@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'admonish':",
+      "options": {
+        "a": "chide:approve",
+        "b": "rebuke:praise",
+        "c": "reprimand:commend",
+        "d": "warn:disapprove"
+      },
+      "one_liner": "'Chide' is a synonym of 'admonish', while 'approve' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

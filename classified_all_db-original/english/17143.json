@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'digress':",
+      "options": {
+        "a": "wander:focus",
+        "b": "deviate:adhere",
+        "c": "stray:converge",
+        "d": "diverge:comply"
+      },
+      "one_liner": "'Wander' is a synonym of 'digress', while 'focus' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

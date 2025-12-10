@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'uproar':",
+      "options": {
+        "a": "silence",
+        "b": "commotion",
+        "c": "tranquility",
+        "d": "peace"
+      },
+      "one_liner": "'Uproar' means a loud and impassioned noise or disturbance, similar to 'commotion' or 'tumult'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

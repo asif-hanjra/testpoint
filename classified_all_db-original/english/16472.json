@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'irritate':",
+      "options": {
+        "a": "vex:pacify",
+        "b": "annoy:aggravate",
+        "c": "bother:comfort",
+        "d": "exasperate:irritate"
+      },
+      "one_liner": "'Vex' is a synonym of 'irritate', while 'pacify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'confidential':",
+      "options": {
+        "a": "public",
+        "b": "secretive",
+        "c": "open",
+        "d": "transparent"
+      },
+      "one_liner": "'Confidential' means intended to be kept secret, similar to 'private' or 'secretive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

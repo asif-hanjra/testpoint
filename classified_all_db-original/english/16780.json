@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'recline':",
+      "options": {
+        "a": "stand",
+        "b": "lounge",
+        "c": "erect",
+        "d": "rise"
+      },
+      "one_liner": "'Recline' means to lean back or lie down, similar to 'lounge' or 'rest'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

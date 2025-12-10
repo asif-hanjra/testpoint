@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'astute':",
+      "options": {
+        "a": "obtuse",
+        "b": "shrewd",
+        "c": "ignorant",
+        "d": "careless"
+      },
+      "one_liner": "'Astute' describes someone who is very clever and perceptive, similar to 'shrewd'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

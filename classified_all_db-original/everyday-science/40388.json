@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "To which species does the penguin belong?",
+      "options": {
+        "a": "Mammal",
+        "b": "Reptile",
+        "c": "Bird",
+        "d": "Fish"
+      },
+      "one_liner": "The penguin is classified as a species of **bird**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

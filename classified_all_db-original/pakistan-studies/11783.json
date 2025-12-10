@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the State of Kalat accede to Pakistan?",
+      "options": {
+        "a": "1946",
+        "b": "1947",
+        "c": "1948",
+        "d": "1950"
+      },
+      "one_liner": "The State of Kalat officially acceded to Pakistan in **1947**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

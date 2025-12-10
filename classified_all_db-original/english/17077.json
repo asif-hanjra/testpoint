@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'judicious':",
+      "options": {
+        "a": "prudent:unwise",
+        "b": "sensible:foolish",
+        "c": "wise:careful",
+        "d": "rational:irrational"
+      },
+      "one_liner": "'Prudent' is a synonym of 'judicious', while 'unwise' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

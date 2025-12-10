@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'selfish':",
+      "options": {
+        "a": "narcissistic:benevolent",
+        "b": "generous:charitable",
+        "c": "self-absorbed:selfless",
+        "d": "egotistic:altruistic"
+      },
+      "one_liner": "'Narcissistic' is a synonym of 'selfish', while 'benevolent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

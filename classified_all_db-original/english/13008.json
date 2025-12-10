@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dedication':",
+      "options": {
+        "a": "commitment",
+        "b": "devotion",
+        "c": "negligence",
+        "d": "loyalty"
+      },
+      "one_liner": "The opposite of 'dedication', which suggests a strong commitment, would be 'negligence' or lack of commitment.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

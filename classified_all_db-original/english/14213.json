@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fraud':",
+      "options": {
+        "a": "honesty",
+        "b": "deceit",
+        "c": "scam",
+        "d": "cheat"
+      },
+      "one_liner": "The opposite of 'fraud' is 'honesty', which denotes truthfulness and sincerity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

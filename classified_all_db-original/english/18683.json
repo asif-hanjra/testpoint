@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I think there ___ not only one dry cleaner; another is next to our college.",
+      "options": {
+        "a": "at",
+        "b": "is",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "I think there 'is' not only one dry cleaner; another is next to our college.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

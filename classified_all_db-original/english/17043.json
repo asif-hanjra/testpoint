@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adamant':",
+      "options": {
+        "a": "flexible",
+        "b": "yielding",
+        "c": "uncompromising",
+        "d": "compliant"
+      },
+      "one_liner": "'Adamant' means unyielding or inflexible, similar to 'uncompromising'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

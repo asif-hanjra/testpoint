@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following countries is not a member of OPEC?",
+      "options": {
+        "a": "Malaysia",
+        "b": "Saudi Arabia",
+        "c": "Kuwait",
+        "d": "Iraq"
+      },
+      "one_liner": "Despite being a significant oil producer, **Malaysia** is not a member of OPEC.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

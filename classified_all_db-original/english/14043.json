@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'Don't put all your eggs in one basket' advise?",
+      "options": {
+        "a": "To focus all efforts on a single task",
+        "b": "To distribute your resources or efforts among various places",
+        "c": "To save resources for the future",
+        "d": "To cook everything at once"
+      },
+      "one_liner": "The idiom 'Don't put all your eggs in one basket' suggests that one should not concentrate all efforts or resources in one area as one could lose everything.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

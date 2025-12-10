@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dichotomy':",
+      "options": {
+        "a": "contrast",
+        "b": "division",
+        "c": "similarity",
+        "d": "difference"
+      },
+      "one_liner": "An antonym of 'dichotomy' would be 'similarity', which implies a lack of division or contrast.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

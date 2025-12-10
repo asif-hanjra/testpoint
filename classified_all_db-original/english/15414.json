@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "They decided to buy the house ___ its location would allow them to work easily.",
+      "options": {
+        "a": "although",
+        "b": "because",
+        "c": "despite",
+        "d": "unless"
+      },
+      "one_liner": "They decided to buy the house 'because' its location would allow them to work easily.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

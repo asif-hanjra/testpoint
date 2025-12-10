@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organization operates the Chashma Nuclear Power Plant (CHASNUPP)?",
+      "options": {
+        "a": "WAPDA",
+        "b": "Pakistan Atomic Energy Commission",
+        "c": "K-Electric",
+        "d": "None of these"
+      },
+      "one_liner": "The Chashma Nuclear Power Plant (CHASNUPP) is operated by the **Pakistan Atomic Energy Commission**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nuclear Power Plants",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Nuclear Power Plants",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

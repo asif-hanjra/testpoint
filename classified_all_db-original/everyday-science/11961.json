@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented a system of writing and printing for the blind?",
+      "options": {
+        "a": "Louis Braille",
+        "b": "Alexander Graham Bell",
+        "c": "Thomas Edison",
+        "d": "Isaac Newton"
+      },
+      "one_liner": "The system of writing and printing for the blind was invented by **Louis Braille**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

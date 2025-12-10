@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the new name of Zaire?",
+      "options": {
+        "a": "Sudan",
+        "b": "Congo",
+        "c": "Ghana",
+        "d": "None of these"
+      },
+      "one_liner": "Zaire was renamed as the **Congo**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

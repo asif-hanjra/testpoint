@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conspire':",
+      "options": {
+        "a": "disagree",
+        "b": "collude",
+        "c": "separate",
+        "d": "reveal"
+      },
+      "one_liner": "'Conspire' means to secretly plan with others, similar to 'collude' or 'plot'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

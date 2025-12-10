@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal is an integral component of chlorophyll?",
+      "options": {
+        "a": "Magnesium",
+        "b": "Calcium",
+        "c": "Iron",
+        "d": "Copper"
+      },
+      "one_liner": "The essential element found at the core of chlorophyll molecules is **magnesium**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Jinnah Barrage constructed?",
+      "options": {
+        "a": "Near Kalabagh",
+        "b": "Near Sukkur",
+        "c": "Near Hyderabad",
+        "d": "Near Kashmore"
+      },
+      "one_liner": "Jinnah Barrage is constructed on the River Indus near **Kalabagh**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

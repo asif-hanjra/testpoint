@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'immature':",
+      "options": {
+        "a": "juvenile:adult",
+        "b": "childish:ripe",
+        "c": "young:old",
+        "d": "underdeveloped:developed"
+      },
+      "one_liner": "'Juvenile' is a synonym for 'immature', while 'adult' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

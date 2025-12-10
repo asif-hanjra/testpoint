@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'jamb':",
+      "options": {
+        "a": "center",
+        "b": "pillar",
+        "c": "beam",
+        "d": "frame"
+      },
+      "one_liner": "While 'jamb' is a part of a structure, an antonym would be something unrelated to structural components, like 'center'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

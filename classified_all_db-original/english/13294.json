@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'glad':",
+      "options": {
+        "a": "joyful",
+        "b": "pleased",
+        "c": "unhappy",
+        "d": "delighted"
+      },
+      "one_liner": "The opposite of 'glad' is 'unhappy', which means not pleased or content.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

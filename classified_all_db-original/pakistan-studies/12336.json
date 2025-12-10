@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was interest free banking introduced in Pakistan?",
+      "options": {
+        "a": "1980",
+        "b": "1981",
+        "c": "1982",
+        "d": "1983"
+      },
+      "one_liner": "Interest free banking was introduced in Pakistan in **1981**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

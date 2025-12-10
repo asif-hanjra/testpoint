@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'libertine':",
+      "options": {
+        "a": "rake:ascetic",
+        "b": "degenerate:monk",
+        "c": "hedonist:puritan",
+        "d": "profligate:prude"
+      },
+      "one_liner": "'Rake' is a synonym of 'libertine', while 'ascetic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

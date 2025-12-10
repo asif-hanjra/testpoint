@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is located to the west of Pakistan?",
+      "options": {
+        "a": "India",
+        "b": "China",
+        "c": "Iran",
+        "d": "Afghanistan"
+      },
+      "one_liner": "Iran shares its western border with **Pakistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Iran",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Iran",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

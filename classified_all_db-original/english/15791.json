@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prescience':",
+      "options": {
+        "a": "hindsight",
+        "b": "insight",
+        "c": "foresight",
+        "d": "clairvoyance"
+      },
+      "one_liner": "The opposite of 'prescience', which is the knowledge of events before they happen, would be 'hindsight', which is understanding of events after they have happened.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

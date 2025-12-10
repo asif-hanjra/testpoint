@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which kingdom consists of simple eukaryotic organisms that are usually composed of a single cell or a colony of similar cells?",
+      "options": {
+        "a": "Fungi",
+        "b": "Protista",
+        "c": "Plantae",
+        "d": "Animalia"
+      },
+      "one_liner": "The kingdom that includes simple eukaryotic organisms, often single-celled or forming colonies, is known as **Protista**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

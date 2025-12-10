@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'peer':",
+      "options": {
+        "a": "superior",
+        "b": "counterpart",
+        "c": "inferior",
+        "d": "leader"
+      },
+      "one_liner": "'Peer' can mean an equal or contemporary, so 'counterpart' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

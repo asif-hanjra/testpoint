@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who founded the Arya Samaj in 1875?",
+      "options": {
+        "a": "Swami Vivekananda",
+        "b": "Dayananda Saraswati",
+        "c": "Raja Ram Mohan Roy",
+        "d": "Bal Gangadhar Tilak"
+      },
+      "one_liner": "The Arya Samaj was founded by **Dayananda Saraswati** in 1875.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

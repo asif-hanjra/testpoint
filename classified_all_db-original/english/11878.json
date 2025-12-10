@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "This secret is ___ you and me.",
+      "options": {
+        "a": "among",
+        "b": "between",
+        "c": "beside",
+        "d": "within"
+      },
+      "one_liner": "It is 'between' you and me.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

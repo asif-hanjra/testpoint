@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cavern':",
+      "options": {
+        "a": "den:plateau",
+        "b": "grotto:peak",
+        "c": "subterrane:valley",
+        "d": "chamber:hill"
+      },
+      "one_liner": "'Den' is a synonym of 'cavern', while 'plateau' is its antonym, representing a flat elevated landform.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

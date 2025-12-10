@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'permanent':",
+      "options": {
+        "a": "immutable:ephemeral",
+        "b": "enduring:lasting",
+        "c": "constant:variable",
+        "d": "stable:unstable"
+      },
+      "one_liner": "'Immutable' is a synonym of 'permanent', while 'ephemeral' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

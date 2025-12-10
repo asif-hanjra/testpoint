@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is glaucoma caused by?",
+      "options": {
+        "a": "Decrease in blood pressure",
+        "b": "Increase in pressure within eyeball",
+        "c": "Infection in the ear",
+        "d": "None of these"
+      },
+      "one_liner": "Glaucoma is a condition that occurs due to an increase in pressure within the **eyeball**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Cross your bridges ___ you come to them.",
+      "options": {
+        "a": "by",
+        "b": "when",
+        "c": "at",
+        "d": "after"
+      },
+      "one_liner": "Cross your bridges 'when' you come to them.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

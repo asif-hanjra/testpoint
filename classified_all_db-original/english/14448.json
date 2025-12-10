@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'homeopathy':",
+      "options": {
+        "a": "allopathy",
+        "b": "naturopathy",
+        "c": "orthopedics",
+        "d": "psychiatry"
+      },
+      "one_liner": "'Homeopathy' is a form of alternative medicine, similar to 'naturopathy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

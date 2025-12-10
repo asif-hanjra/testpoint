@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'drawl':",
+      "options": {
+        "a": "mumble",
+        "b": "articulate",
+        "c": "stammer",
+        "d": "slur"
+      },
+      "one_liner": "An antonym of 'drawl' is 'articulate', which means speaking clearly and fluently.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

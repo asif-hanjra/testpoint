@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which decade was designated by the United Nations as the Decade for Deserts and the Fight against Desertification?",
+      "options": {
+        "a": "2000-2010",
+        "b": "2010-2020",
+        "c": "2020-2030",
+        "d": "1990-2000"
+      },
+      "one_liner": "The United Nations designated the years from **2010 to 2020** as the Decade for Deserts and the Fight against Desertification.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

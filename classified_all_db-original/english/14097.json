@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'infer':",
+      "options": {
+        "a": "deduce:consider",
+        "b": "conclude:overlook",
+        "c": "surmise:note",
+        "d": "assume:observe"
+      },
+      "one_liner": "'Conclude' is a synonym of 'infer', while 'overlook' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

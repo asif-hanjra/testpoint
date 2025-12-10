@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Why do phases of the moon occur?",
+      "options": {
+        "a": "Because the moon emits its own light",
+        "b": "Because the moon reflects sunlight towards us",
+        "c": "Because the moon is always fully visible",
+        "d": "None of these"
+      },
+      "one_liner": "Phases of the moon occur because we can see only the part of the moon that reflects light towards us, making the visible portion change shape over time.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

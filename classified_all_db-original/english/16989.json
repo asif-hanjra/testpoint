@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of speech expresses strong feelings or sudden emotion?",
+      "options": {
+        "a": "Adjective",
+        "b": "Verb",
+        "c": "Noun",
+        "d": "Interjection"
+      },
+      "one_liner": "An interjection expresses strong feeling or emotion.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

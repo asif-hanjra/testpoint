@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: Have you finished your job?",
+      "options": {
+        "a": "Has your job been finished by you?",
+        "b": "Have you finished the job?",
+        "c": "Do you have finished the job?",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "VOLUME : STANZAS :: POEM : ________?",
+      "options": {
+        "a": "Chapters",
+        "b": "Verses",
+        "c": "Encyclopedia",
+        "d": "Lines"
+      },
+      "one_liner": "A volume contains sections, similar to how a poem contains stanzas; an encyclopedia is a compilation of information.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

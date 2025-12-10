@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term for a narrow piece of land that connects two larger land areas and separates two seas?",
+      "options": {
+        "a": "Peninsula",
+        "b": "Isthmus",
+        "c": "Archipelago",
+        "d": "Delta"
+      },
+      "one_liner": "A narrow piece of land connecting larger land areas and separating seas is known as an **Isthmus**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Isthmuses",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Isthmuses",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

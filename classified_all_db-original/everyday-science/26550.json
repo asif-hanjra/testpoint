@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the patella located in the human body?",
+      "options": {
+        "a": "Elbow",
+        "b": "Knee",
+        "c": "Shoulder",
+        "d": "Ankle"
+      },
+      "one_liner": "The patella, also known as the kneecap, is located in the **knee** of the human body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

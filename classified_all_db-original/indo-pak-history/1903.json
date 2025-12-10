@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city did Moinuddin Chishti establish the Chishtiyya order in North India?",
+      "options": {
+        "a": "Delhi",
+        "b": "Ajmer",
+        "c": "Lahore",
+        "d": "Multan"
+      },
+      "one_liner": "The Chishtiyya order was established by Moinuddin Chishti in the city of **Ajmer** in North India.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

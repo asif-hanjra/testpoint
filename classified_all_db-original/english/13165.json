@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abolish':",
+      "options": {
+        "a": "eradicate",
+        "b": "eliminate",
+        "c": "establish",
+        "d": "annul"
+      },
+      "one_liner": "The antonym of 'abolish' is 'establish', which means to set up or create something on a firm or permanent basis.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

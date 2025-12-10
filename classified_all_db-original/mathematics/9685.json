@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "The average income of A and B is 50000 and average income of B and C is 60000 and Average income of A and C is 55000. What is the income of B?",
+      "options": {
+        "a": "55000",
+        "b": "45000",
+        "c": "75000",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2022
+}

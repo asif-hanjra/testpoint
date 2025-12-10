@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'birth':",
+      "options": {
+        "a": "death",
+        "b": "nativity",
+        "c": "end",
+        "d": "conclusion"
+      },
+      "one_liner": "'Birth' refers to the start of life, similar to 'nativity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element's presence in excess is commonly associated with causing tooth decay?",
+      "options": {
+        "a": "Calcium",
+        "b": "Fluoride",
+        "c": "Iron",
+        "d": "Magnesium"
+      },
+      "one_liner": "Tooth decay can be caused by an excessive amount of **fluoride**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

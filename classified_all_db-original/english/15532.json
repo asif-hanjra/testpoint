@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'striate':",
+      "options": {
+        "a": "smooth",
+        "b": "furrow",
+        "c": "fill",
+        "d": "expand"
+      },
+      "one_liner": "'Striate' means to mark with stripes or grooves, similar to 'furrow' which also means to make grooves or lines.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "FIRST : LAST :: MOST : ________?",
+      "options": {
+        "a": "Many",
+        "b": "Few",
+        "c": "Least",
+        "d": "Some"
+      },
+      "one_liner": "First is the opposite of last, just as most is the opposite of least.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

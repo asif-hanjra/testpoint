@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'facetious':",
+      "options": {
+        "a": "serious",
+        "b": "jocular",
+        "c": "respectful",
+        "d": "solemn"
+      },
+      "one_liner": "'Facetious' means treating serious issues with deliberately inappropriate humor, similar to 'jocular'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

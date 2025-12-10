@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'taciturn':",
+      "options": {
+        "a": "laconic:voluble",
+        "b": "silent:reserved",
+        "c": "reticent:talkative",
+        "d": "reserved:outspoken"
+      },
+      "one_liner": "'Laconic' is a synonym of 'taciturn', while 'voluble' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

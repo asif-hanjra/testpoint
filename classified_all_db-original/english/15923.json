@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'imperfect':",
+      "options": {
+        "a": "deficient:immaculate",
+        "b": "flawless:defective",
+        "c": "faulty:flawless",
+        "d": "imperfect:perfect"
+      },
+      "one_liner": "'Deficient' is a synonym of 'imperfect', while 'immaculate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

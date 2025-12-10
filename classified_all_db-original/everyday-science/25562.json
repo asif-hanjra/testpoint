@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first scientist to find that the speed of light is far greater than the speed of sound?",
+      "options": {
+        "a": "Al-Biruni",
+        "b": "Ibn Sina",
+        "c": "Al-Khwarizmi",
+        "d": "None of these"
+      },
+      "one_liner": "Al-Biruni was the first scientist to discover that the speed of light is much greater than the speed of sound.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

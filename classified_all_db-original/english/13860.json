@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin term 'Ante meridiem' (a.m.) refer to in timekeeping?",
+      "options": {
+        "a": "Afternoon",
+        "b": "Before noon",
+        "c": "Midnight",
+        "d": "Evening"
+      },
+      "one_liner": "'Ante meridiem' (a.m.) is a Latin term used to denote the time from midnight to noon.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

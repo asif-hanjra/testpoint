@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'profane':",
+      "options": {
+        "a": "holy",
+        "b": "blasphemous",
+        "c": "sacred",
+        "d": "reverent"
+      },
+      "one_liner": "'Profane' refers to something irreverent or sacrilegious, similar to the word 'blasphemous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

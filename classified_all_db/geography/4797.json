@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Whitehaven Beach located?",
+      "options": {
+        "a": "Queensland, Australia",
+        "b": "California, USA",
+        "c": "Cape Town, South Africa",
+        "d": "None of these"
+      },
+      "one_liner": "Whitehaven Beach is located in **Queensland, Australia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Islands",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Islands",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

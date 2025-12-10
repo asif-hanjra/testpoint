@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which rivers is Ganji Bar located?",
+      "options": {
+        "a": "Sutlej and Hakra",
+        "b": "Ravi and Chenab",
+        "c": "Chenab and Jhelum",
+        "d": "None of these"
+      },
+      "one_liner": "Ganji Bar is located between the **Sutlej and the dry riverbed of the Hakra**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

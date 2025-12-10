@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'petulant':",
+      "options": {
+        "a": "fretful:affable",
+        "b": "cheerful:grumpy",
+        "c": "sullen:friendly",
+        "d": "testy:amiable"
+      },
+      "one_liner": "'Fretful' is a synonym of 'petulant', while 'affable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

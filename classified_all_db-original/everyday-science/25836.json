@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented bifocal spectacles?",
+      "options": {
+        "a": "Isaac Newton",
+        "b": "Benjamin Franklin",
+        "c": "Thomas Edison",
+        "d": "Alexander Graham Bell"
+      },
+      "one_liner": "Bifocal spectacles were invented by **Benjamin Franklin**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

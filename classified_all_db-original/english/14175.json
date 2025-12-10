@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'plausible':",
+      "options": {
+        "a": "credible:unbelievable",
+        "b": "likely:improbable",
+        "c": "probable:impossible",
+        "d": "convincing:plausible"
+      },
+      "one_liner": "'Credible' is a synonym for 'plausible', while 'unbelievable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

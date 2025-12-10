@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'penchant':",
+      "options": {
+        "a": "dislike",
+        "b": "predilection",
+        "c": "aversion",
+        "d": "indifference"
+      },
+      "one_liner": "'Penchant' means a strong inclination or liking, similar to 'predilection'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

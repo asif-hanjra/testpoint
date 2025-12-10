@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'delicacy':",
+      "options": {
+        "a": "crudeness",
+        "b": "elegance",
+        "c": "finesse",
+        "d": "delight"
+      },
+      "one_liner": "The word 'delicacy' implies fineness, whereas 'crudeness' suggests a lack of refinement.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

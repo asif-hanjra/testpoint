@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who ordered the troops to fire on unarmed civilians during the Jallianwala Bagh massacre in 1919?",
+      "options": {
+        "a": "Lord Mountbatten",
+        "b": "Brigadier General Reginald Dyer",
+        "c": "Lord Curzon",
+        "d": "None of these"
+      },
+      "one_liner": "The Jallianwala Bagh massacre in 1919 was ordered by **Brigadier General Reginald Dyer**, who commanded troops to fire on unarmed civilians.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

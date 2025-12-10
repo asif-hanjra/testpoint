@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'relevant':",
+      "options": {
+        "a": "related",
+        "b": "applicable",
+        "c": "irrelevant",
+        "d": "significant"
+      },
+      "one_liner": "The word 'irrelevant' is an antonym of 'relevant', indicating something not applicable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

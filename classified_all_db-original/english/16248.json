@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'wreck':",
+      "options": {
+        "a": "ravage:reconstruct",
+        "b": "demolish:build",
+        "c": "destroy:repair",
+        "d": "ruin:restore"
+      },
+      "one_liner": "'Ravage' is a synonym for 'wreck', while 'reconstruct' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

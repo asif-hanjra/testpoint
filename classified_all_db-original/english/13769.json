@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'invincible':",
+      "options": {
+        "a": "indomitable:defeatable",
+        "b": "unbeatable:strong",
+        "c": "invulnerable:weak",
+        "d": "unconquerable:invulnerable"
+      },
+      "one_liner": "'Indomitable' is a synonym of 'invincible', while 'defeatable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

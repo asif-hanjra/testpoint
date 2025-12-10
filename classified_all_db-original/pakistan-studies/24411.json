@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who set the world record score of 194 runs in an ODI against India in 1997?",
+      "options": {
+        "a": "Inzamam-ul-Haq",
+        "b": "Saeed Anwar",
+        "c": "Shahid Afridi",
+        "d": "Wasim Akram"
+      },
+      "one_liner": "Saeed Anwar set the world record score of **194 runs** in an ODI against India in 1997.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

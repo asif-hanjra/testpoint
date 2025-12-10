@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which sea is the Port of Aqaba located?",
+      "options": {
+        "a": "Mediterranean Sea",
+        "b": "Red Sea",
+        "c": "Arabian Sea",
+        "d": "Black Sea"
+      },
+      "one_liner": "The Port of Aqaba is located on the **Red Sea**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

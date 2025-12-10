@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the leader of Vietnam?",
+      "options": {
+        "a": "Ho Chi Minh",
+        "b": "Pol Pot",
+        "c": "Mao Zedong",
+        "d": "Sukarno"
+      },
+      "one_liner": "The leader of Vietnam was **Ho Chi Minh**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

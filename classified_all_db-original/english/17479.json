@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'devoid':",
+      "options": {
+        "a": "empty:replete",
+        "b": "bereft:filled",
+        "c": "vacant:full",
+        "d": "lacking:abundant"
+      },
+      "one_liner": "'Bereft' is a synonym of 'devoid', while 'filled' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the strongest, longest, and largest bone in the human body?",
+      "options": {
+        "a": "Humerus",
+        "b": "Femur",
+        "c": "Tibia",
+        "d": "Radius"
+      },
+      "one_liner": "The **femur** is the strongest, longest, and largest bone found in the human body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

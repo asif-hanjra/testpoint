@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where does the South Temperate Zone lie?",
+      "options": {
+        "a": "Tropic of Cancer and Arctic Circle",
+        "b": "Tropic of Capricorn and Antarctic Circle",
+        "c": "Arctic Circle and North Pole",
+        "d": "Equator and Tropic of Cancer"
+      },
+      "one_liner": "The South Temperate Zone lies between the **Tropic of Capricorn and the Antarctic Circle**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

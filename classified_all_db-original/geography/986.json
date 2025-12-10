@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which area separates Pakistan from Tajikistan?",
+      "options": {
+        "a": "Wakhan Corridor",
+        "b": "Khyber Pass",
+        "c": "Silk Route",
+        "d": "Karakoram Range"
+      },
+      "one_liner": "The area that acts as a geographical barrier between Pakistan and Tajikistan is the **Wakhan Corridor**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Central Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

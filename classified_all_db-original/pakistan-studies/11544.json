@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which regiment did Major Tufail Mohammad serve in?",
+      "options": {
+        "a": "2nd Punjab Regiment",
+        "b": "16th Punjab Regiment",
+        "c": "Azad Kashmir Regiment",
+        "d": "12th Northern Light Infantry"
+      },
+      "one_liner": "Major Tufail Mohammad served in the **16th Punjab Regiment**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'assent':",
+      "options": {
+        "a": "approval:rejection",
+        "b": "consent:dissent",
+        "c": "agreement:objection",
+        "d": "acquiescence:acceptance"
+      },
+      "one_liner": "'Approval' is a synonym of 'assent', while 'rejection' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stipulate':",
+      "options": {
+        "a": "ignore",
+        "b": "specify",
+        "c": "neglect",
+        "d": "disregard"
+      },
+      "one_liner": "'Stipulate' means to demand or specify a requirement, typically as part of an agreement—words like 'specify' and 'require' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

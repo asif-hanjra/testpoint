@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which article of the 1973 Constitution of Pakistan deals with High Treason?",
+      "options": {
+        "a": "Article 4",
+        "b": "Article 6",
+        "c": "Article 9",
+        "d": "Article 12"
+      },
+      "one_liner": "Article 6 of the 1973 Constitution of Pakistan specifically addresses the issue of **High Treason**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

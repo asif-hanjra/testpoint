@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is Nagorno Karabakh internationally recognized as a part of?",
+      "options": {
+        "a": "Armenia",
+        "b": "Azerbaijan",
+        "c": "Georgia",
+        "d": "None of these"
+      },
+      "one_liner": "Nagorno Karabakh is internationally recognized as part of **Azerbaijan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

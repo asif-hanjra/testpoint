@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'thrive':",
+      "options": {
+        "a": "prosper",
+        "b": "succeed",
+        "c": "wither",
+        "d": "bloom"
+      },
+      "one_liner": "The antonym of 'thrive' is 'wither', which means to deteriorate or decline.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

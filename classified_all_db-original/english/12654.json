@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The book ___ the table belongs to Sarah.",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "The book 'on' the table belongs to Sarah.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

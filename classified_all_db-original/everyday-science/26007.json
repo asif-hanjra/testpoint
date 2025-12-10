@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which bone is considered the longest and strongest in the human body?",
+      "options": {
+        "a": "Femur",
+        "b": "Tibia",
+        "c": "Humerus",
+        "d": "Radius"
+      },
+      "one_liner": "The femur is recognized as the **longest and strongest bone** in the human body.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

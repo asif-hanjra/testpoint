@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pardon':",
+      "options": {
+        "a": "condemn",
+        "b": "excuse",
+        "c": "absolve",
+        "d": "acquit"
+      },
+      "one_liner": "The opposite of 'pardon', which means to forgive, would be to 'condemn' or to express complete disapproval.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

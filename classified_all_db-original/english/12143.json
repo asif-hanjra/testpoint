@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'keep one's word' mean?",
+      "options": {
+        "a": "To remain silent",
+        "b": "To fulfill a promise",
+        "c": "To keep a secret",
+        "d": "To continue talking"
+      },
+      "one_liner": "The idiom 'keep one's word' means to fulfill a promise or to do what one has assured someone else they would do.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

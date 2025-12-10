@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gaffe':",
+      "options": {
+        "a": "blunder",
+        "b": "error",
+        "c": "triumph",
+        "d": "mishap"
+      },
+      "one_liner": "A 'gaffe' is a mistake, so its antonym would be something like 'success' or 'triumph'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

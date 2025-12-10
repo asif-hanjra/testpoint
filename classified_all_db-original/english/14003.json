@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "One cannot ___ be the best.",
+      "options": {
+        "a": "at",
+        "b": "always",
+        "c": "in",
+        "d": "by"
+      },
+      "one_liner": "One cannot 'always' be the best.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

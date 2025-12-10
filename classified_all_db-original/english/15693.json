@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "ADD : SUBTRACT :: EXPAND : ________?",
+      "options": {
+        "a": "Increase",
+        "b": "Enlarge",
+        "c": "Diminish",
+        "d": "Grow"
+      },
+      "one_liner": "Add is the opposite of subtract, just as expand is the opposite of diminish.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

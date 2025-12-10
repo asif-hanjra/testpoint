@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intermittent':",
+      "options": {
+        "a": "occasional:steady",
+        "b": "regular:sporadic",
+        "c": "frequent:constant",
+        "d": "periodic:uninterrupted"
+      },
+      "one_liner": "'Occasional' is a synonym of 'intermittent', while 'steady' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'foe':",
+      "options": {
+        "a": "enemy",
+        "b": "rival",
+        "c": "nemesis",
+        "d": "ally"
+      },
+      "one_liner": "Antonyms of 'foe' include 'ally' and 'friend', both implying a supportive relationship.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

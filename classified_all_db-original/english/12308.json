@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which preposition correctly completes the sentence: 'I fear ___ his health.'?",
+      "options": {
+        "a": "about",
+        "b": "for",
+        "c": "of",
+        "d": "with"
+      },
+      "one_liner": "I fear 'for' his health.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

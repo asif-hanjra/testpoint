@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'immutable':",
+      "options": {
+        "a": "variable",
+        "b": "permanent",
+        "c": "flexible",
+        "d": "transient"
+      },
+      "one_liner": "'Immutable' means unchanging over time or unable to be changed—words like 'permanent' and 'fixed' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

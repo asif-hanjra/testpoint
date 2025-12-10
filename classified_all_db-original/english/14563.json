@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'destroy':",
+      "options": {
+        "a": "raze:construct",
+        "b": "build:demolish",
+        "c": "obliterate:create",
+        "d": "annihilate:preserve"
+      },
+      "one_liner": "'Raze' is a synonym of 'destroy', while 'construct' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'parquetry':",
+      "options": {
+        "a": "ornate flooring",
+        "b": "decorative tiling",
+        "c": "plain flooring",
+        "d": "mosaic"
+      },
+      "one_liner": "An antonym for 'parquetry' could be 'plain flooring', as it lacks the decorative aspect.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

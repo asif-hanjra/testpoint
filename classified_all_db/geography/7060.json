@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Guru Nanak Darbar, the biggest gurdwara in the Gulf region, located?",
+      "options": {
+        "a": "Abu Dhabi, UAE",
+        "b": "Dubai, UAE",
+        "c": "Doha, Qatar",
+        "d": "Muscat, Oman"
+      },
+      "one_liner": "The Guru Nanak Darbar, recognized as the largest gurdwara in the Gulf region, is situated in **Dubai, UAE**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

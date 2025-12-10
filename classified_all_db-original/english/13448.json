@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'orthography':",
+      "options": {
+        "a": "calligraphy",
+        "b": "mispronunciation",
+        "c": "syntax",
+        "d": "etymology"
+      },
+      "one_liner": "While 'orthography' is about correct spelling, 'mispronunciation' refers to incorrect speaking, making it an antonym in the context of language correctness.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

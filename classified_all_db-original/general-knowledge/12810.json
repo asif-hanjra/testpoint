@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "At what age did Emmanuel Macron become the president of France?",
+      "options": {
+        "a": "35 years",
+        "b": "37 years",
+        "c": "39 years",
+        "d": "41 years"
+      },
+      "one_liner": "Emmanuel Macron became the president of France at the young age of **39 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pan':",
+      "options": {
+        "a": "praise",
+        "b": "censure",
+        "c": "applaud",
+        "d": "commend"
+      },
+      "one_liner": "'Pan' can mean to criticize severely, similar to 'censure' or 'condemn'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

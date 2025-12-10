@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'assiduous':",
+      "options": {
+        "a": "meticulous:energetic",
+        "b": "industrious:sluggish",
+        "c": "diligent:active",
+        "d": "persistent:quick"
+      },
+      "one_liner": "'Industrious' is a synonym of 'assiduous', while 'sluggish' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

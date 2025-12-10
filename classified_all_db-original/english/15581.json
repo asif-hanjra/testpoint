@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abundant':",
+      "options": {
+        "a": "plentiful",
+        "b": "copious",
+        "c": "scarce",
+        "d": "ample"
+      },
+      "one_liner": "Antonyms of 'abundant' include 'scarce' and 'limited', both suggesting a lack of quantity or availability.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

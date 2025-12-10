@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does velocity measure in physics?",
+      "options": {
+        "a": "Rate of change of position with time",
+        "b": "Amount of force applied",
+        "c": "Mass of the body",
+        "d": "None of these"
+      },
+      "one_liner": "Velocity is defined as the rate of change of a body's position in a particular direction with respect to time, making it a vector quantity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

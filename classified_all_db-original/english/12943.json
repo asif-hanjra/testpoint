@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'delicate':",
+      "options": {
+        "a": "sturdy",
+        "b": "gentle",
+        "c": "tender",
+        "d": "soft"
+      },
+      "one_liner": "The word 'delicate' implies fragility, making 'sturdy' its antonym, which suggests strength.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

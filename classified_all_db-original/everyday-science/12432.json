@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What causes a liquid drop to contract and occupy the minimum possible area?",
+      "options": {
+        "a": "Viscosity",
+        "b": "Surface tension",
+        "c": "Adhesion",
+        "d": "Cohesion"
+      },
+      "one_liner": "The tendency of a liquid drop to contract and occupy the minimum area is due to **surface tension**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

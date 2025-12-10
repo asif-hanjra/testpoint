@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stoop':",
+      "options": {
+        "a": "stand",
+        "b": "lean",
+        "c": "kneel",
+        "d": "bow"
+      },
+      "one_liner": "The antonym of 'stoop' is 'stand', which means to be in an upright position.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

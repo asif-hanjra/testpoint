@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abase':",
+      "options": {
+        "a": "demean:glorify",
+        "b": "exalt:humiliate",
+        "c": "degrade:praise",
+        "d": "belittle:elevate"
+      },
+      "one_liner": "'Demean' is a synonym of 'abase', while 'glorify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'see red' mean?",
+      "options": {
+        "a": "To notice something important",
+        "b": "To become very angry",
+        "c": "To start feeling embarrassed",
+        "d": "To detect financial problems"
+      },
+      "one_liner": "The idiom 'see red' means to become very angry or enraged.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

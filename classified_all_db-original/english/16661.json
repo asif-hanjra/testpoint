@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'latent':",
+      "options": {
+        "a": "evident",
+        "b": "dormant",
+        "c": "manifest",
+        "d": "apparent"
+      },
+      "one_liner": "'Latent' refers to something that is present but not visible or active, similar to 'dormant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Bermuda Triangle located?",
+      "options": {
+        "a": "Indian Ocean",
+        "b": "Pacific Ocean",
+        "c": "Atlantic Ocean",
+        "d": "Arctic Ocean"
+      },
+      "one_liner": "The mysterious Bermuda Triangle is situated in the **Atlantic Ocean**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

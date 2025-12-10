@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the British Prime Minister that sent a naval force to regain control of the Falkland Islands and South Georgia Islands in 1982?",
+      "options": {
+        "a": "Winston Churchill",
+        "b": "Theresa May",
+        "c": "Margaret Thatcher",
+        "d": "Tony Blair"
+      },
+      "one_liner": "**Margaret Thatcher** was the British Prime Minister who sent a naval force to regain control of the Falkland Islands and South Georgia Islands in 1982.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Falkland and South Georgia Islands",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Falkland and South Georgia Islands",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

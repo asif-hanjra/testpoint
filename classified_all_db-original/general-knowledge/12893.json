@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who did Adolf Hitler marry before his death?",
+      "options": {
+        "a": "Eva Braun",
+        "b": "Magda Goebbels",
+        "c": "Clara Petacci",
+        "d": "None of these"
+      },
+      "one_liner": "Adolf Hitler married his lover **Eva Braun** before his death.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

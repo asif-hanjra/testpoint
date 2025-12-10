@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the value of 1³ + 2³ + 3³ + ... + n³ if 1 + 2 + ... + n = 15?",
+      "options": {
+        "a": "125",
+        "b": "150",
+        "c": "225",
+        "d": "250"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

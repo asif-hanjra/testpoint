@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'occult':",
+      "options": {
+        "a": "manifest",
+        "b": "hidden",
+        "c": "mysterious",
+        "d": "secret"
+      },
+      "one_liner": "The opposite of 'occult', which is hidden or secret, would be something 'manifest' or clearly revealed.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which district in Pakistan is known for its huge deposits of copper?",
+      "options": {
+        "a": "Chaghi",
+        "b": "Swat",
+        "c": "Larkana",
+        "d": "Multan"
+      },
+      "one_liner": "The district of **Chaghi** in Pakistan is renowned for its substantial copper deposits.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "More Facts about Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

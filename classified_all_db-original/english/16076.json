@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'frigid':",
+      "options": {
+        "a": "warm",
+        "b": "icy",
+        "c": "mild",
+        "d": "balmy"
+      },
+      "one_liner": "'Frigid' describes something very cold, similar to 'icy' or 'frozen'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

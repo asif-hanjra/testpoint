@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'before' in the sentence 'He arrived before the others'?",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Adjective",
+        "d": "Preposition"
+      },
+      "one_liner": "In the sentence 'He arrived before the others', the word 'before' is a preposition because it shows the time relationship between 'arrived' and 'others'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

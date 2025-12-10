@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ominous':",
+      "options": {
+        "a": "auspicious",
+        "b": "menacing",
+        "c": "foreboding",
+        "d": "intimidating"
+      },
+      "one_liner": "An antonym for 'ominous' is 'auspicious', which suggests a positive or favorable outcome.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

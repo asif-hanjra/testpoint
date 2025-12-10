@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'felicity':",
+      "options": {
+        "a": "euphoria:anguish",
+        "b": "bliss:joy",
+        "c": "happiness:satisfaction",
+        "d": "contentment:despair"
+      },
+      "one_liner": "'Euphoria' is a synonym of 'felicity', while 'anguish' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

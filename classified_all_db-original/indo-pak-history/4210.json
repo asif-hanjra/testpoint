@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to the recommendations, how should the Governor of a province be chosen?",
+      "options": {
+        "a": "By the Governor General",
+        "b": "By the elected assembly of the province",
+        "c": "By the British Parliament",
+        "d": "None of these"
+      },
+      "one_liner": "The recommendation stated that the Governor of a province should be elected through the **elected assembly of the province** instead of being appointed by the Governor General.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

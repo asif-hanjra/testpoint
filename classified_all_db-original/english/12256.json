@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'premeditated':",
+      "options": {
+        "a": "spontaneous",
+        "b": "intentional",
+        "c": "deliberate",
+        "d": "calculated"
+      },
+      "one_liner": "The opposite of 'premeditated' is 'spontaneous', which means occurring without prior planning.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

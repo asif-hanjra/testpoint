@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dubious':",
+      "options": {
+        "a": "suspect:indisputable",
+        "b": "unclear:obvious",
+        "c": "questionable:unquestionable",
+        "d": "ambiguous:unambiguous"
+      },
+      "one_liner": "'Suspect' is a synonym of 'dubious', while 'indisputable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

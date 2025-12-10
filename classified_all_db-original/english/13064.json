@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fidget':",
+      "options": {
+        "a": "relax",
+        "b": "wriggle",
+        "c": "calm",
+        "d": "steady"
+      },
+      "one_liner": "'Fidget' implies restlessness or unease, similar to 'squirm' or 'wriggle'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

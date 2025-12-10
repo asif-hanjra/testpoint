@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'disburse':",
+      "options": {
+        "a": "accumulate",
+        "b": "spend",
+        "c": "distribute",
+        "d": "allocate"
+      },
+      "one_liner": "An antonym of 'disburse' is 'accumulate', which means to gather or collect rather than pay out.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

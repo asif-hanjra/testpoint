@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "If the villi of the small intestine were laid out flat, approximately how much area would they cover?",
+      "options": {
+        "a": "A football field",
+        "b": "A tennis court",
+        "c": "A basketball court",
+        "d": "A classroom"
+      },
+      "one_liner": "If the villi of the small intestine were spread out flat, they would cover an area about the size of a **tennis court**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

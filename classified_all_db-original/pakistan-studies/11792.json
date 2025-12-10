@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which constitution was the institution of Senate established in Pakistan?",
+      "options": {
+        "a": "Constitution of 1956",
+        "b": "Constitution of 1962",
+        "c": "Constitution of 1973",
+        "d": "None of these"
+      },
+      "one_liner": "The institution of Senate was established in Pakistan under the **Constitution of 1973**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

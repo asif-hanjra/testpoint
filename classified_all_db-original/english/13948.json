@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'foreclosure':",
+      "options": {
+        "a": "acquisition",
+        "b": "repossession",
+        "c": "investment",
+        "d": "conservation"
+      },
+      "one_liner": "'Foreclosure' refers to the legal process by which a lender takes control of a property, similar to 'repossession'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

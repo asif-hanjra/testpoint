@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For any subsets A and B of U, (A ∩ B)' =",
+      "options": {
+        "a": "A′∩B′",
+        "b": "A∪B′",
+        "c": "A′∪B′",
+        "d": "A∩B′"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

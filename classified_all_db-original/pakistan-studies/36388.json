@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the tenure of Shaukat Aziz as Prime Minister of Pakistan?",
+      "options": {
+        "a": "2001–2004",
+        "b": "2008–2011",
+        "c": "August 28, 2004 – November 15, 2007",
+        "d": "None of these"
+      },
+      "one_liner": "Shaukat Aziz served as the Prime Minister of Pakistan from **August 28, 2004 to November 15, 2007**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

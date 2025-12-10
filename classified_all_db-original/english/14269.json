@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'your guess is as good as mine' imply?",
+      "options": {
+        "a": "You are better at guessing than I am",
+        "b": "I have no idea, and neither do you",
+        "c": "You should try to guess",
+        "d": "I am certain about the answer"
+      },
+      "one_liner": "The idiom 'your guess is as good as mine' is used to express that the speaker is as uncertain about an answer as the person they are speaking to.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

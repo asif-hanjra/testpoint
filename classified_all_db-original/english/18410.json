@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'portion':",
+      "options": {
+        "a": "whole",
+        "b": "segment",
+        "c": "entirety",
+        "d": "total"
+      },
+      "one_liner": "'Portion' refers to a part or segment of something, similar to 'segment' or 'fraction'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

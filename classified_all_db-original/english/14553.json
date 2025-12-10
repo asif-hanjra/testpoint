@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The condemned man appealed to the court ___ mercy.",
+      "options": {
+        "a": "at",
+        "b": "for",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "The condemned man appealed to the court 'for' mercy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

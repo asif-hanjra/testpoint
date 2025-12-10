@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is obtained when fibrinogen is removed from plasma?",
+      "options": {
+        "a": "Plasma",
+        "b": "Serum",
+        "c": "Lymph",
+        "d": "None of these"
+      },
+      "one_liner": "When fibrinogen is removed from plasma, the remaining liquid is called **serum**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

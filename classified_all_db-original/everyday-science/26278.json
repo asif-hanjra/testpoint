@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following statements about cadmium is correct?",
+      "options": {
+        "a": "Cadmium is a radioactive element",
+        "b": "Cadmium is not a radioactive element",
+        "c": "Cadmium is always radioactive",
+        "d": "None of these"
+      },
+      "one_liner": "Unlike some other elements, **cadmium is not a radioactive element**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

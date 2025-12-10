@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'combine':",
+      "options": {
+        "a": "merge:split",
+        "b": "integrate:disassemble",
+        "c": "blend:connect",
+        "d": "unify:attach"
+      },
+      "one_liner": "'Integrate' is a synonym of 'combine', while 'disassemble' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

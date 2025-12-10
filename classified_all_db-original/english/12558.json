@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'insolent':",
+      "options": {
+        "a": "impudent:deferential",
+        "b": "respectful:disrespectful",
+        "c": "rude:courteous",
+        "d": "arrogant:polite"
+      },
+      "one_liner": "'Impudent' is a synonym of 'insolent', while 'deferential' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

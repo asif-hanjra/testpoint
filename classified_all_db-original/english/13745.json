@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sad':",
+      "options": {
+        "a": "melancholy:cheerful",
+        "b": "joyful:gloomy",
+        "c": "sorrowful:happy",
+        "d": "dejected:elated"
+      },
+      "one_liner": "'Melancholy' is a synonym of 'sad', while 'cheerful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

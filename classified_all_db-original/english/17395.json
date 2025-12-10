@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'flout':",
+      "options": {
+        "a": "honor",
+        "b": "defy",
+        "c": "observe",
+        "d": "respect"
+      },
+      "one_liner": "'Flout' means to openly disregard a rule or convention—words like 'defy' and 'disregard' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

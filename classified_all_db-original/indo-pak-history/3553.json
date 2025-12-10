@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose reign was Bishandas sent to Persia on a diplomatic mission?",
+      "options": {
+        "a": "Akbar",
+        "b": "Aurangzeb",
+        "c": "Jahangir",
+        "d": "Shah Jahan"
+      },
+      "one_liner": "It was during the reign of **Emperor Jahangir** that Bishandas was sent to Persia on a diplomatic mission.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

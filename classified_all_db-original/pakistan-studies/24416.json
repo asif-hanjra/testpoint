@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was Pakistan's first cabinet sworn in?",
+      "options": {
+        "a": "14th August, 1947",
+        "b": "15th August, 1947",
+        "c": "16th August, 1947",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan's first cabinet took oath on **15th August, 1947**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

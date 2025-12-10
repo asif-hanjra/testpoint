@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "IDENTIFY THE TYPE OF FOLLOWING MATRIX?   [0  0 0  0]",
+      "options": {
+        "a": "Identity Matrix",
+        "b": "Diagonal Matrix",
+        "c": "Zero Matrix",
+        "d": "Scalar Matrix"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

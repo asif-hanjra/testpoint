@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'eschew':",
+      "options": {
+        "a": "avoid:adopt",
+        "b": "shun:embrace",
+        "c": "dodge:accept",
+        "d": "evade:welcome"
+      },
+      "one_liner": "'Avoid' is a synonym of 'eschew', while 'adopt' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

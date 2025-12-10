@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "These essays are intellectually superior and represent various levels ___ complexity.",
+      "options": {
+        "a": "by",
+        "b": "of",
+        "c": "with",
+        "d": "for"
+      },
+      "one_liner": "These essays are intellectually superior and represent various levels 'of' complexity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

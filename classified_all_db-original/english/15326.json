@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'damage':",
+      "options": {
+        "a": "harm",
+        "b": "wreck",
+        "c": "repair",
+        "d": "injure"
+      },
+      "one_liner": "The antonym of 'damage' is 'repair', which means to fix or restore.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

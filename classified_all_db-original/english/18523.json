@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'at' in the sentence 'She is good at math'?",
+      "options": {
+        "a": "Conjunction",
+        "b": "Adjective",
+        "c": "Verb",
+        "d": "Preposition"
+      },
+      "one_liner": "In the sentence 'She is good at math', the word 'at' is a preposition because it shows the relationship between 'good' and 'math'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

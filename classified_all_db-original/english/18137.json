@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ranger':",
+      "options": {
+        "a": "guardian:trespasser",
+        "b": "warden:visitor",
+        "c": "protector:ally",
+        "d": "custodian:friend"
+      },
+      "one_liner": "'Guardian' is a synonym of 'ranger', while 'trespasser' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

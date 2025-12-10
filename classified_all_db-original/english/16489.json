@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'squalid':",
+      "options": {
+        "a": "dirty",
+        "b": "grimy",
+        "c": "clean",
+        "d": "foul"
+      },
+      "one_liner": "The opposite of 'squalid', which means dirty and unpleasant, would be 'clean' or 'spotless'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

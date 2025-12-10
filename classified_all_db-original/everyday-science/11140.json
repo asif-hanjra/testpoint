@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the average volume of blood in the human body?",
+      "options": {
+        "a": "3 liters",
+        "b": "4 liters",
+        "c": "5 liters",
+        "d": "6 liters"
+      },
+      "one_liner": "The average volume of blood present in the human body is about **5 liters**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

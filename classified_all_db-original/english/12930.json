@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Many a soldier lost his life ___ war.",
+      "options": {
+        "a": "than",
+        "b": "in",
+        "c": "on",
+        "d": "at"
+      },
+      "one_liner": "Many a soldier lost his life 'in' war.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

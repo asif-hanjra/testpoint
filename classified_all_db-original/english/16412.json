@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rebate':",
+      "options": {
+        "a": "surcharge",
+        "b": "discount",
+        "c": "premium",
+        "d": "markup"
+      },
+      "one_liner": "'Rebate' is a synonym for 'discount' as both refer to a reduction in price.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

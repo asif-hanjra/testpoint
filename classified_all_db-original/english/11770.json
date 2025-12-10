@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rational':",
+      "options": {
+        "a": "illogical",
+        "b": "sensible",
+        "c": "irrational",
+        "d": "unreasonable"
+      },
+      "one_liner": "'Rational' means logical or reasonable, so words like 'logical' and 'sensible' are synonyms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

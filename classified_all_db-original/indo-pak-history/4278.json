@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose tenure as Governor-General was the railway line established in India?",
+      "options": {
+        "a": "Lord Dalhousie",
+        "b": "Lord Canning",
+        "c": "Lord Cornwallis",
+        "d": "Lord Lytton"
+      },
+      "one_liner": "The railway line in India was established during the tenure of **Lord Dalhousie** as Governor-General.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

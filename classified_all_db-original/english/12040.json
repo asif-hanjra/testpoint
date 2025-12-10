@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'seize':",
+      "options": {
+        "a": "release",
+        "b": "grasp",
+        "c": "ignore",
+        "d": "avoid"
+      },
+      "one_liner": "'Seize' means to take hold of suddenly and forcibly, similar to 'grasp' or 'grab'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

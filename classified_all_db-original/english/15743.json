@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Ali and I will play after school today; will you go ___ us?",
+      "options": {
+        "a": "by",
+        "b": "with",
+        "c": "for",
+        "d": "to"
+      },
+      "one_liner": "Will you go 'with' us after school today?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two cities are connected by the Salang Tunnel located in the Hindu Kush Mountains?",
+      "options": {
+        "a": "Kabul and Herat",
+        "b": "Kabul and Kandahar",
+        "c": "Kabul and Mazar-i-Sharif",
+        "d": "Kabul and Jalalabad"
+      },
+      "one_liner": "The Salang Tunnel in the Hindu Kush Mountains serves as a vital link between **Kabul** and **Mazar-i-Sharif**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

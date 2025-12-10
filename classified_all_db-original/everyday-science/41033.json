@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two colors can a color-blind person not distinguish?",
+      "options": {
+        "a": "Red and Blue",
+        "b": "Red and Green",
+        "c": "Green and Blue",
+        "d": "None of these"
+      },
+      "one_liner": "A person with color-blindness is unable to distinguish between **red and green** colors.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

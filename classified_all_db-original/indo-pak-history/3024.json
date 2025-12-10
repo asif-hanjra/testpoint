@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the wife of Muhammad Ali Johar?",
+      "options": {
+        "a": "Amiadi Bano Begum",
+        "b": "Fatima Jinnah",
+        "c": "Begum Ra'ana Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The wife of Muhammad Ali Johar was **Amiadi Bano Begum**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

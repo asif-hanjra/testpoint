@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "cosecθ − cotθ = ?",
+      "options": {
+        "a": "1 / (sinθ + cosθ)",
+        "b": "(1 - cosθ) / sinθ",
+        "c": "(sinθ − cosθ) / (sinθ cosθ)",
+        "d": "(sinθ + cosθ) / (sinθ cosθ)"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

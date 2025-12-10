@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the 17th MENA (Middle East and North Africa) World Economic Forum held?",
+      "options": {
+        "a": "Egypt",
+        "b": "Jordan",
+        "c": "UAE",
+        "d": "Saudi Arabia"
+      },
+      "one_liner": "The 17th MENA World Economic Forum was hosted in **Jordan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

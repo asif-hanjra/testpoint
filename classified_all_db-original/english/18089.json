@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'encroach':",
+      "options": {
+        "a": "intrude:vacate",
+        "b": "trespass:occupy",
+        "c": "invade:withdraw",
+        "d": "infringe:enter"
+      },
+      "one_liner": "'Intrude' is a synonym of 'encroach', while 'vacate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

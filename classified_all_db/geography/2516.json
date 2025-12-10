@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which two rivers is the Bari Doab located?",
+      "options": {
+        "a": "Bias and Ravi",
+        "b": "Jhelum and Chenab",
+        "c": "Chenab and Ravi",
+        "d": "None of these"
+      },
+      "one_liner": "The Bari Doab is the region situated between the rivers **Bias** and **Ravi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

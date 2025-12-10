@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exorbitant':",
+      "options": {
+        "a": "reasonable",
+        "b": "modest",
+        "c": "outrageous",
+        "d": "affordable"
+      },
+      "one_liner": "'Exorbitant' refers to something that is excessively high or expensive, similar to 'outrageous'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

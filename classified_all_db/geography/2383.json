@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the length of the Durand Line, the border between Pakistan and Afghanistan?",
+      "options": {
+        "a": "2200 KM",
+        "b": "2430 KM",
+        "c": "2600 KM",
+        "d": "None of these"
+      },
+      "one_liner": "The Durand Line, which serves as the border between Pakistan and Afghanistan, is **2430 KM** long.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

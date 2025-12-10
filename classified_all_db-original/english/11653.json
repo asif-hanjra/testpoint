@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'omnipresent':",
+      "options": {
+        "a": "ubiquitous",
+        "b": "common",
+        "c": "rare",
+        "d": "frequent"
+      },
+      "one_liner": "An antonym of 'omnipresent' would be 'rare', indicating something not found in many places.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

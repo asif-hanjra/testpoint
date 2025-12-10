@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which river does Beas join before the formation of Panjnad?",
+      "options": {
+        "a": "Jhelum",
+        "b": "Chenab",
+        "c": "Sutlej",
+        "d": "Ravi"
+      },
+      "one_liner": "The river **Beas joins the Sutlej** before the formation of Panjnad.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

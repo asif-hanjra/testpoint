@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'amnesty':",
+      "options": {
+        "a": "penalty",
+        "b": "forgiveness",
+        "c": "retribution",
+        "d": "vengeance"
+      },
+      "one_liner": "'Amnesty' refers to an official pardon for people who have been convicted of political offenses, similar to 'pardon' or 'forgiveness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

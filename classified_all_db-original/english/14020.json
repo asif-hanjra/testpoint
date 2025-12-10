@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which word describes a disease that can be spread from person to person?",
+      "options": {
+        "a": "Incurable",
+        "b": "Contagious",
+        "c": "Chronic",
+        "d": "Terminal"
+      },
+      "one_liner": "'Contagious' refers to a disease that is easily transmissible from one person to another.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "One Word Substitutions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

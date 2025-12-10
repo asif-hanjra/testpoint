@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "PIERCING : HUSHED :: WHISPER : ________?",
+      "options": {
+        "a": "Shout",
+        "b": "Listen",
+        "c": "Speak",
+        "d": "Silent"
+      },
+      "one_liner": "Piercing suggests a sharp, loud sound, while hushed suggests quiet; a whisper is a quiet sound, but its relation to listen is about action and sound.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'perpetual':",
+      "options": {
+        "a": "everlasting:ephemeral",
+        "b": "enduring:permanent",
+        "c": "constant:intermittent",
+        "d": "infinite:unlimited"
+      },
+      "one_liner": "'Everlasting' is a synonym of 'perpetual', while 'ephemeral' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

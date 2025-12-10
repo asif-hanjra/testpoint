@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The lecture delivered yesterday was really impressive ___ many aspects.",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "The lecture delivered yesterday was really impressive 'on' many aspects.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

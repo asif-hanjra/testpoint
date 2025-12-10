@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nocturnal':",
+      "options": {
+        "a": "nightly:diurnal",
+        "b": "daily:twilight",
+        "c": "evening:midnight",
+        "d": "crepuscular:matutinal"
+      },
+      "one_liner": "'Nightly' is a synonym of 'nocturnal', while 'diurnal' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

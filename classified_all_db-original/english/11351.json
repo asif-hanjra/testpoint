@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'deplete':",
+      "options": {
+        "a": "diminish",
+        "b": "reduce",
+        "c": "replenish",
+        "d": "waste"
+      },
+      "one_liner": "Antonyms of 'deplete' include 'replenish' and 'refill', both implying the restoration of a supply.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

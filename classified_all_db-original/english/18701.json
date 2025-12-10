@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'on purpose' mean?",
+      "options": {
+        "a": "By accident",
+        "b": "Intentionally",
+        "c": "In a hurry",
+        "d": "Without delay"
+      },
+      "one_liner": "The idiom 'on purpose' means to do something intentionally, not by accident.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

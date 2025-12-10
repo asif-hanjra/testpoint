@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the purpose of a Scotograph?",
+      "options": {
+        "a": "To measure temperature",
+        "b": "To aid the blind to write",
+        "c": "To record sound",
+        "d": "To test eyesight"
+      },
+      "one_liner": "A Scotograph is specifically designed as an instrument to help the **blind write**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country has the most volcanic activities in the world?",
+      "options": {
+        "a": "Japan",
+        "b": "Indonesia",
+        "c": "Italy",
+        "d": "Philippines"
+      },
+      "one_liner": "Indonesia is recognized as the country with the **most volcanic activities** in the world.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

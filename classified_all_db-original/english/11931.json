@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lull':",
+      "options": {
+        "a": "flurry",
+        "b": "quietude",
+        "c": "tranquility",
+        "d": "serenity"
+      },
+      "one_liner": "An antonym of 'lull' is 'flurry', which indicates a sudden brief period of activity or excitement.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

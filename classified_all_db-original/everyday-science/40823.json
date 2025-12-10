@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of vision problem can be corrected using a concave lens?",
+      "options": {
+        "a": "Farsightedness",
+        "b": "Nearsightedness",
+        "c": "Astigmatism",
+        "d": "None of these"
+      },
+      "one_liner": "A **concave lens** is used to correct nearsightedness, also known as myopia.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

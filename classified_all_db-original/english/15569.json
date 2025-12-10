@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'encomium':",
+      "options": {
+        "a": "praise",
+        "b": "commendation",
+        "c": "condemnation",
+        "d": "compliment"
+      },
+      "one_liner": "An antonym of 'encomium' is 'condemnation', which means expressing strong disapproval instead of praise.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

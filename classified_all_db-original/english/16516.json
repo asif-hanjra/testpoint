@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct preposition: She needs to pull her socks ___ before the big exam.",
+      "options": {
+        "a": "in",
+        "b": "up",
+        "c": "on",
+        "d": "off"
+      },
+      "one_liner": "She needs to pull her socks 'up' before the big exam.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

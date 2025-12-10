@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who proposed the Vernacular Press Act in British India?",
+      "options": {
+        "a": "Lord Lytton",
+        "b": "Lord Dalhousie",
+        "c": "Lord Willingdon",
+        "d": "Lord Cornwallis"
+      },
+      "one_liner": "The Vernacular Press Act was proposed by **Lord Lytton** in British India.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

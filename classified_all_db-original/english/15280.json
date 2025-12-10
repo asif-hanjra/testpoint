@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'This is a red apple,' what part of speech is 'red'?",
+      "options": {
+        "a": "Verb",
+        "b": "Adjective",
+        "c": "Noun",
+        "d": "Pronoun"
+      },
+      "one_liner": "In the sentence 'This is a red apple', the word 'red' is an adjective because it describes the noun 'apple'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Through which type of blood vessels does blood leave the heart?",
+      "options": {
+        "a": "Veins",
+        "b": "Capillaries",
+        "c": "Arteries",
+        "d": "Venules"
+      },
+      "one_liner": "Blood exits the heart through vessels known as **arteries**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

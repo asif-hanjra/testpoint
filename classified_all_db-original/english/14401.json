@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'corroborate':",
+      "options": {
+        "a": "refute",
+        "b": "substantiate",
+        "c": "contradict",
+        "d": "disprove"
+      },
+      "one_liner": "'Corroborate' means to confirm or give support to a statement, theory, or finding—words like 'confirm' and 'substantiate' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

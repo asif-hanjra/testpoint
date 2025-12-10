@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The driver lived ___ the ground floor of an old house ___ Davis Road.",
+      "options": {
+        "a": "in, at",
+        "b": "on, on",
+        "c": "at, in",
+        "d": "over, at"
+      },
+      "one_liner": "The driver lived 'on' the ground floor of an old house on the Davis Road.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

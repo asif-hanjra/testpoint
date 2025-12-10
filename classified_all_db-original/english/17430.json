@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was sorry ___ his failure.",
+      "options": {
+        "a": "about",
+        "b": "for",
+        "c": "of",
+        "d": "with"
+      },
+      "one_liner": "He was sorry 'for' his failure.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which word refers to a person who attacks and robs ships at sea?",
+      "options": {
+        "a": "Sailor",
+        "b": "Pirate",
+        "c": "Captain",
+        "d": "Mariner"
+      },
+      "one_liner": "A 'pirate' is someone who attacks and steals from ships at sea.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "One Word Substitutions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

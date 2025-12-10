@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "A carpenter lays x bricks per hour for y hours and then lays x/2 bricks per hour for 2y more hours. In terms of x and y, how many bricks did he lay in total?",
+      "options": {
+        "a": "3xy",
+        "b": "2xy",
+        "c": "5xy",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2022
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Leukemia is a disease affecting which part of the human body?",
+      "options": {
+        "a": "Liver",
+        "b": "Blood",
+        "c": "Lungs",
+        "d": "Kidneys"
+      },
+      "one_liner": "Leukemia is classified as a disease that specifically affects the **blood**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'orifice':",
+      "options": {
+        "a": "aperture:barrier",
+        "b": "opening:closure",
+        "c": "vent:wall",
+        "d": "gap:seal"
+      },
+      "one_liner": "'Aperture' is a synonym for 'orifice', while 'barrier' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

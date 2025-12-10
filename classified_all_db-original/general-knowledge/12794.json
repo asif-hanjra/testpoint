@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book \"India Wins Freedom\"?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Abdul Kalam Azad",
+        "c": "Sardar Patel",
+        "d": "Subhas Chandra Bose"
+      },
+      "one_liner": "The book \"India Wins Freedom\" was authored by **Abdul Kalam Azad**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

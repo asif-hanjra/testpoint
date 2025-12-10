@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He cannot stop you ___ coming here.",
+      "options": {
+        "a": "to",
+        "b": "from",
+        "c": "of",
+        "d": "by"
+      },
+      "one_liner": "He cannot stop you 'from' coming here.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

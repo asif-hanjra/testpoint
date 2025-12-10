@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the average weight of a male's heart?",
+      "options": {
+        "a": "340 gm",
+        "b": "250 gm",
+        "c": "400 gm",
+        "d": "None of these"
+      },
+      "one_liner": "The average weight of a male's heart is approximately **340 grams**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

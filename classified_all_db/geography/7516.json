@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the official position of Sir Mortimer Durand when the Durand Line agreement was made?",
+      "options": {
+        "a": "Governor-General of India",
+        "b": "Viceroy of India",
+        "c": "Foreign Secretary of British India",
+        "d": "Prime Minister of Britain"
+      },
+      "one_liner": "Sir Mortimer Durand was serving as the **foreign secretary of British India** when the Durand Line agreement was signed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

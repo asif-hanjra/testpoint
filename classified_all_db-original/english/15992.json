@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'luminous':",
+      "options": {
+        "a": "dull",
+        "b": "radiant",
+        "c": "opaque",
+        "d": "dim"
+      },
+      "one_liner": "'Luminous' means emitting or reflecting light, glowing or shining—words like 'radiant' and 'bright' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

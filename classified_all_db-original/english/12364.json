@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "PILFER : STEAL :: RETURN : ________?",
+      "options": {
+        "a": "Equip",
+        "b": "Give",
+        "c": "Send",
+        "d": "Receive"
+      },
+      "one_liner": "Pilfer is a synonym for steal, while return and equip are not directly analogous.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

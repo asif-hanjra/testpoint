@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'persona non grata' mean when referring to a person in a foreign country?",
+      "options": {
+        "a": "A welcome guest",
+        "b": "An unwelcome person",
+        "c": "A person of great importance",
+        "d": "A non-existent person"
+      },
+      "one_liner": "The phrase 'persona non grata' refers to an individual who is not accepted or welcome, typically in a diplomatic context.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

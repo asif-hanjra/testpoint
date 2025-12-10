@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A jar has 5 marbles, 1 of each of the colors red, white, blue, green, and yellow. If 4 marbles are removed from the jar, what is the probability that the yellow one was removed?",
+      "options": {
+        "a": "1/20",
+        "b": "1/5",
+        "c": "1/4",
+        "d": "4/5"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

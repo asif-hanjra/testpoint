@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sorrow':",
+      "options": {
+        "a": "grief:happiness",
+        "b": "misery:joy",
+        "c": "anguish:delight",
+        "d": "sadness:pleasure"
+      },
+      "one_liner": "'Grief' is a synonym of 'sorrow', while 'happiness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

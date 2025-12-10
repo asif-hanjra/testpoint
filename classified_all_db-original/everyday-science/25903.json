@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the effect of burning coal without sufficient air supply?",
+      "options": {
+        "a": "Production of oxygen",
+        "b": "Production of carbon monoxide",
+        "c": "Production of nitrogen",
+        "d": "None of these"
+      },
+      "one_liner": "Burning coal without sufficient air supply results in the production of **carbon monoxide**, a poisonous gas.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

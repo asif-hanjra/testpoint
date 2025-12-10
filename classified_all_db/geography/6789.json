@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Khyber Pass is the widest and lowest of all the mountain passes. True or False?",
+      "options": {
+        "a": "True",
+        "b": "False",
+        "c": "None of these",
+        "d": "All of these"
+      },
+      "one_liner": "The **Khyber Pass** is indeed the widest and lowest of all the mountain passes in the region.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

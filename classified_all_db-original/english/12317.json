@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Quickly ___ an adverb.",
+      "options": {
+        "a": "at",
+        "b": "is",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "Quickly 'is' an adverb.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

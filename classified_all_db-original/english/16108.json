@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'neuralgia':",
+      "options": {
+        "a": "discomfort",
+        "b": "agony",
+        "c": "comfort",
+        "d": "suffering"
+      },
+      "one_liner": "An antonym of 'neuralgia' would be 'comfort', as neuralgia is a type of pain.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

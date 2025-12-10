@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which battle marked Babar's victory over Ibrahim Lodhi?",
+      "options": {
+        "a": "First battle of Panipat",
+        "b": "Second battle of Panipat",
+        "c": "Battle of Khanwa",
+        "d": "Battle of Ghagra"
+      },
+      "one_liner": "The first battle of Panipat was significant as it marked Babar's victory over **Ibrahim Lodhi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

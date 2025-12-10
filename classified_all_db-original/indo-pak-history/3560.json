@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who hosted the Muhammadan Education Conference in 1906?",
+      "options": {
+        "a": "Sir Syed Ahmed Khan",
+        "b": "Nawab Khwaja Salimullah",
+        "c": "Sir Agha Khan III",
+        "d": "Maulana Mohammad Ali Jauhar"
+      },
+      "one_liner": "The Muhammadan Education Conference in 1906 was hosted by **Nawab Khwaja Salimullah of Dhaka**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

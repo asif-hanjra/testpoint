@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'suppress':",
+      "options": {
+        "a": "encourage",
+        "b": "quash",
+        "c": "promote",
+        "d": "advance"
+      },
+      "one_liner": "'Suppress' means to put an end to the activities of something, similar to 'quash' or 'subdue'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

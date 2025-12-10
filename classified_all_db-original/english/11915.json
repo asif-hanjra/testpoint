@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'He is very tall', what part of speech is 'very'?",
+      "options": {
+        "a": "Verb",
+        "b": "Adverb",
+        "c": "Adjective",
+        "d": "Conjunction"
+      },
+      "one_liner": "'Very' is an adverb because it modifies the adjective 'tall'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

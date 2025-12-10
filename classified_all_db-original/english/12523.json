@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Could you abandon the pencil ___ me?",
+      "options": {
+        "a": "at",
+        "b": "for",
+        "c": "to",
+        "d": "with"
+      },
+      "one_liner": "Could you abandon the pencil 'for' me?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

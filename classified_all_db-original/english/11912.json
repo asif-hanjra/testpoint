@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'foolhardy':",
+      "options": {
+        "a": "rash:wise",
+        "b": "reckless:careful",
+        "c": "bold:timid",
+        "d": "daring:prudent"
+      },
+      "one_liner": "'Rash' is a synonym of 'foolhardy', while 'wise' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

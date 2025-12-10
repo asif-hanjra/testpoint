@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'spell':",
+      "options": {
+        "a": "interval:eternity",
+        "b": "duration:continuity",
+        "c": "stint:permanence",
+        "d": "stretch:pause"
+      },
+      "one_liner": "'Interval' is a synonym for 'spell', and 'eternity' is its antonym, indicating an unending duration.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

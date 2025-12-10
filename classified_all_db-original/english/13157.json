@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Ipso facto' mean?",
+      "options": {
+        "a": "By that very fact",
+        "b": "In good faith",
+        "c": "With each passing day",
+        "d": "For the time being"
+      },
+      "one_liner": "'Ipso facto' translates to 'By that very fact' and is used to convey that something is the direct result of the fact just mentioned.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

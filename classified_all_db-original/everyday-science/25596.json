@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the speed of light in miles per second?",
+      "options": {
+        "a": "150,000 miles per second",
+        "b": "186,000 miles per second",
+        "c": "200,000 miles per second",
+        "d": "None of these"
+      },
+      "one_liner": "The speed of light is approximately **186,000 miles per second**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

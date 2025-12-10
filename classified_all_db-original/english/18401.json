@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'orison':",
+      "options": {
+        "a": "curse",
+        "b": "prayer",
+        "c": "shout",
+        "d": "whisper"
+      },
+      "one_liner": "'Orison' is another term for 'prayer', both referring to a reverent petition made to a deity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

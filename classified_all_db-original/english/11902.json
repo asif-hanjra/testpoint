@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'a baker's dozen' refer to?",
+      "options": {
+        "a": "A group of 12 items",
+        "b": "A group of 13 items",
+        "c": "A very small quantity",
+        "d": "A collection of baked goods"
+      },
+      "one_liner": "The idiom 'a baker's dozen' refers to a group of 13 items, traditionally one more than the standard dozen.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

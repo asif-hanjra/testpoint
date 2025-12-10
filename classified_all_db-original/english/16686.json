@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cryptic':",
+      "options": {
+        "a": "obvious",
+        "b": "enigmatic",
+        "c": "clear",
+        "d": "explicit"
+      },
+      "one_liner": "'Cryptic' means mysterious or obscure, similar to the word 'enigmatic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

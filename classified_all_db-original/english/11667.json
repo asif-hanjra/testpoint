@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'imply':",
+      "options": {
+        "a": "infer:declare",
+        "b": "suggest:reveal",
+        "c": "hint:clarify",
+        "d": "allude:state"
+      },
+      "one_liner": "'Infer' is a synonym of 'imply', while 'declare' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

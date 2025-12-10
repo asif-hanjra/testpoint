@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exhilarated':",
+      "options": {
+        "a": "joyful",
+        "b": "ecstatic",
+        "c": "depressed",
+        "d": "excited"
+      },
+      "one_liner": "An antonym of 'exhilarated' is 'depressed', which means feeling unhappy and without hope.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

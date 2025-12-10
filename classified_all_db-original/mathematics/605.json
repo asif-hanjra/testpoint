@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "log 3 + log 6 - log 5 =?",
+      "options": {
+        "a": "log(18/5)",
+        "b": "B. log(9/5)",
+        "c": "log(6)",
+        "d": "log(15/2)"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

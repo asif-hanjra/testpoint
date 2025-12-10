@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which cities are connected by the M3 motorway?",
+      "options": {
+        "a": "Lahore to Abdul Hakeem",
+        "b": "Pindi Bhatian to Abdul Hakeem",
+        "c": "Multan to Sukkur",
+        "d": "Sukkur to Hyderabad"
+      },
+      "one_liner": "The M3 motorway links **Lahore (end of the M2) to Abdul Hakeem**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

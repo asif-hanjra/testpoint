@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which aspect of the thyroid gland are the parathyroid glands located?",
+      "options": {
+        "a": "Ventral aspect",
+        "b": "Dorsal aspect",
+        "c": "Lateral aspect",
+        "d": "None of these"
+      },
+      "one_liner": "The parathyroid glands are positioned on the **dorsal aspect** of the thyroid gland.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

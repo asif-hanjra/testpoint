@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'insipid':",
+      "options": {
+        "a": "tasteless:zesty",
+        "b": "bland:flavorful",
+        "c": "dull:spicy",
+        "d": "vapid:savory"
+      },
+      "one_liner": "'Tasteless' is a synonym of 'insipid', while 'zesty' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

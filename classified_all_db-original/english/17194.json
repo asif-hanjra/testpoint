@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "They will be back ___ the end of the month.",
+      "options": {
+        "a": "at",
+        "b": "by",
+        "c": "in",
+        "d": "on"
+      },
+      "one_liner": "They will be back 'by' the end of the month.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

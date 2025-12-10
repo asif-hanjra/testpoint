@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fix':",
+      "options": {
+        "a": "break",
+        "b": "repair",
+        "c": "damage",
+        "d": "worsen"
+      },
+      "one_liner": "'Fix' can mean to repair or mend, similar to 'repair'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

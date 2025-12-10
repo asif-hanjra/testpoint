@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'kick the bucket' signify?",
+      "options": {
+        "a": "To start a new project",
+        "b": "To make a lot of noise",
+        "c": "To die",
+        "d": "To throw something away"
+      },
+      "one_liner": "The idiom 'kick the bucket' is a colloquial way to refer to someone's death.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

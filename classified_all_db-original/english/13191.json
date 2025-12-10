@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hobble':",
+      "options": {
+        "a": "stumble",
+        "b": "limp",
+        "c": "stride",
+        "d": "falter"
+      },
+      "one_liner": "An antonym of 'hobble' is 'stride', which means to walk with long, decisive steps.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

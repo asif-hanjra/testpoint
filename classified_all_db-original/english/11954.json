@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gird':",
+      "options": {
+        "a": "fortify:unclasp",
+        "b": "tighten:release",
+        "c": "brace:attach",
+        "d": "encircle:bind"
+      },
+      "one_liner": "'Fortify' is a synonym of 'gird', while 'unclasp' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

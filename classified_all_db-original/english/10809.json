@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Change voice: I want to buy car.",
+      "options": {
+        "a": "I want a car to be buy.",
+        "b": "I want a car to be bought by mine.",
+        "c": "I want a car to be bought by me.",
+        "d": "I want a car to be bought."
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

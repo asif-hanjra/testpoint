@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rapid':",
+      "options": {
+        "a": "speedy:gradual",
+        "b": "brisk:fast",
+        "c": "hasty:snappy",
+        "d": "fleet:swift"
+      },
+      "one_liner": "'Speedy' is a synonym of 'rapid', while 'gradual' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

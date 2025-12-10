@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'paucity':",
+      "options": {
+        "a": "scarceness:plenty",
+        "b": "abundance:lack",
+        "c": "shortage:surplus",
+        "d": "insufficiency:excess"
+      },
+      "one_liner": "'Scarceness' is a synonym of 'paucity', while 'plenty' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

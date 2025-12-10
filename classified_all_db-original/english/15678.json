@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Caveat emptor' mean?",
+      "options": {
+        "a": "Seize the day",
+        "b": "Let the buyer beware",
+        "c": "With faithful heart",
+        "d": "After this, therefore because of this"
+      },
+      "one_liner": "The phrase 'Caveat emptor' translates to 'Let the buyer beware', implying that the buyer is responsible for checking the quality and suitability of goods before a purchase is made.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

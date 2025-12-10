@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of the military operation launched by Pakistan Army in Swat Valley in 2009?",
+      "options": {
+        "a": "Operation Zarb-e-Azb",
+        "b": "Operation Rah-e-Rast",
+        "c": "Operation Black Thunderstorm",
+        "d": "Operation Silence"
+      },
+      "one_liner": "In 2009, the Pakistan Army launched **Operation Rah-e-Rast** to clear militants from Swat Valley.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

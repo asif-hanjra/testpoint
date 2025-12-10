@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Rh factor determine in blood typing?",
+      "options": {
+        "a": "Color of blood",
+        "b": "Clotting ability",
+        "c": "Positive or negative blood type",
+        "d": "None of these"
+      },
+      "one_liner": "The Rh factor determines whether a person's blood type is **positive or negative**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

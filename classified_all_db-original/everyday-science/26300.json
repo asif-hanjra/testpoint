@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the chemical formula of nitrous oxide, also known as laughing gas?",
+      "options": {
+        "a": "CO2",
+        "b": "N2O",
+        "c": "NO2",
+        "d": "O2"
+      },
+      "one_liner": "The chemical formula of nitrous oxide, commonly called laughing gas, is **N2O**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

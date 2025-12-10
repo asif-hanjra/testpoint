@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Everyone is ignorant ___ something.",
+      "options": {
+        "a": "at",
+        "b": "of",
+        "c": "about",
+        "d": "in"
+      },
+      "one_liner": "Everyone is ignorant 'of' something.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

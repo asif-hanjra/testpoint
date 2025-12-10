@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the sixth biological kingdom?",
+      "options": {
+        "a": "Plantae",
+        "b": "Fungi",
+        "c": "Animalia",
+        "d": "Protista"
+      },
+      "one_liner": "The sixth biological kingdom is called **Animalia**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

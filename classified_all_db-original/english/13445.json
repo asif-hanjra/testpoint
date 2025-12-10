@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hate':",
+      "options": {
+        "a": "despise",
+        "b": "loathe",
+        "c": "adore",
+        "d": "abhor"
+      },
+      "one_liner": "The opposite of 'hate' is 'love', which signifies a deep affection.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "In an oscillating LC circuit, the total stored energy is U. The maximum energy stored in the capacitor during one cycle is?",
+      "options": {
+        "a": "U/2",
+        "b": "U/√2",
+        "c": "U",
+        "d": "U/(2π)"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

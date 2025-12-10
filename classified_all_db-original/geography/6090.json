@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which river flows through Gilgit Valley?",
+      "options": {
+        "a": "Indus River",
+        "b": "Gilgit River",
+        "c": "Swat River",
+        "d": "Kunhar River"
+      },
+      "one_liner": "The **Gilgit River** flows through the Gilgit Valley.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

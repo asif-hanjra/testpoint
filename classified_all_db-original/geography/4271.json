@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the second largest province of Pakistan by area?",
+      "options": {
+        "a": "Sindh",
+        "b": "Punjab",
+        "c": "Khyber Pakhtunkhwa",
+        "d": "None of these"
+      },
+      "one_liner": "Punjab is the second largest province of Pakistan by area, following **Balochistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

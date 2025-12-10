@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'virtue':",
+      "options": {
+        "a": "integrity",
+        "b": "honesty",
+        "c": "corruption",
+        "d": "honor"
+      },
+      "one_liner": "The opposite of 'virtue', which implies moral goodness, would be 'corruption', indicating moral decay.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

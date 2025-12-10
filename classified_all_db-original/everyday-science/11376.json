@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is common to all acids?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Hydrogen",
+        "c": "Nitrogen",
+        "d": "Carbon"
+      },
+      "one_liner": "All acids have the element **hydrogen** in common.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

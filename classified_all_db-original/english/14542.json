@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nascent':",
+      "options": {
+        "a": "emergent:obsolete",
+        "b": "developing:thriving",
+        "c": "incipient:prospering",
+        "d": "budding:flourishing"
+      },
+      "one_liner": "'Emergent' is a synonym of 'nascent', while 'obsolete' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

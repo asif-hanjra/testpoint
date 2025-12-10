@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many years are the judges of the International Court of Justice appointed?",
+      "options": {
+        "a": "5 years",
+        "b": "7 years",
+        "c": "9 years",
+        "d": "15 years"
+      },
+      "one_liner": "Judges of the International Court of Justice are appointed for a period of **9 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

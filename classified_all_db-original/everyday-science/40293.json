@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Deficiency of which vitamin leads to the development of Rickets?",
+      "options": {
+        "a": "Vitamin A",
+        "b": "Vitamin B",
+        "c": "Vitamin D",
+        "d": "Vitamin C"
+      },
+      "one_liner": "A deficiency of **Vitamin D** can lead to the development of Rickets.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Don't judge a book ___ its cover.",
+      "options": {
+        "a": "at",
+        "b": "by",
+        "c": "with",
+        "d": "on"
+      },
+      "one_liner": "Don't judge a book 'by' its cover.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

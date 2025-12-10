@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'preserve':",
+      "options": {
+        "a": "maintain:destroy",
+        "b": "sustain:deplete",
+        "c": "conserve:waste",
+        "d": "protect:preserve"
+      },
+      "one_liner": "'Sustain' is a synonym of 'preserve', while 'deplete' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

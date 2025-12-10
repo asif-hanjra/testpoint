@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'scattered':",
+      "options": {
+        "a": "dispersed:concentrated",
+        "b": "spread:collected",
+        "c": "distributed:united",
+        "d": "separated:assembled"
+      },
+      "one_liner": "'Dispersed' is a synonym of 'scattered', while 'concentrated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

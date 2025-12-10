@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sumptuous':",
+      "options": {
+        "a": "lavish:spartan",
+        "b": "grandiose:opulent",
+        "c": "magnificent:luxurious",
+        "d": "rich:wealthy"
+      },
+      "one_liner": "'Lavish' is a synonym of 'sumptuous', while 'spartan' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

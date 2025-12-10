@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for the Kyrgyzstan Revolution?",
+      "options": {
+        "a": "Orange Revolution",
+        "b": "Tulip Revolution",
+        "c": "Rose Revolution",
+        "d": "None of these"
+      },
+      "one_liner": "The Kyrgyzstan Revolution is also known as the **Tulip Revolution**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

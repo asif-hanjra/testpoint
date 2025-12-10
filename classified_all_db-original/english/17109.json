@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'meddle':",
+      "options": {
+        "a": "intrude:disregard",
+        "b": "interfere:assist",
+        "c": "tamper:support",
+        "d": "involve:ignore"
+      },
+      "one_liner": "'Intrude' is a synonym of 'meddle', while 'disregard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

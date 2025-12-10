@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vulgar':",
+      "options": {
+        "a": "crass:sophisticated",
+        "b": "tasteful:coarse",
+        "c": "uncouth:cultivated",
+        "d": "graceful:crude"
+      },
+      "one_liner": "'Crass' is a synonym of 'vulgar', while 'sophisticated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

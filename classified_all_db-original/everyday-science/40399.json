@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are metacarpal bones located in the human body?",
+      "options": {
+        "a": "Feet",
+        "b": "Hands",
+        "c": "Skull",
+        "d": "Ribs"
+      },
+      "one_liner": "Metacarpal bones are specifically found in the **hands** of the human body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

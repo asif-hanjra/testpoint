@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pique':",
+      "options": {
+        "a": "stimulate:pacify",
+        "b": "interest:bore",
+        "c": "arouse:calm",
+        "d": "excite:soothe"
+      },
+      "one_liner": "'Stimulate' is a synonym of 'pique', while 'pacify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

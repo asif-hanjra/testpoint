@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which date has been officially declared by the UN as Nelson Mandela International Day?",
+      "options": {
+        "a": "18 July",
+        "b": "5 December",
+        "c": "10 October",
+        "d": "21 March"
+      },
+      "one_liner": "The United Nations has officially designated **18 July** as Nelson Mandela International Day.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

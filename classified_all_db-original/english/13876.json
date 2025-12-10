@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fathom':",
+      "options": {
+        "a": "ignore",
+        "b": "grasp",
+        "c": "neglect",
+        "d": "overlook"
+      },
+      "one_liner": "'Fathom' means to understand or comprehend, similar to 'grasp' or 'apprehend'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

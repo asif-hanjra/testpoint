@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fathom':",
+      "options": {
+        "a": "penetrate:clarify",
+        "b": "comprehend:misinterpret",
+        "c": "grasp:confound",
+        "d": "understand:comprehend"
+      },
+      "one_liner": "'Penetrate' is a synonym of 'fathom', while 'confound' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

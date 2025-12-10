@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "COIF : HAIR :: SCORE : ________?",
+      "options": {
+        "a": "Book",
+        "b": "Musical",
+        "c": "Dance",
+        "d": "Stage"
+      },
+      "one_liner": "To coif means to arrange hair, just as a score is the written form of a musical piece.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

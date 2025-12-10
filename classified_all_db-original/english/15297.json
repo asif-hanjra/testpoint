@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'concur':",
+      "options": {
+        "a": "disagree",
+        "b": "differ",
+        "c": "assent",
+        "d": "clash"
+      },
+      "one_liner": "'Concur' means to agree or be of the same opinion, similar to 'agree' or 'assent'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

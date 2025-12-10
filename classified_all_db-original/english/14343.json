@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'acumen':",
+      "options": {
+        "a": "skill",
+        "b": "expertise",
+        "c": "incompetence",
+        "d": "capability"
+      },
+      "one_liner": "The opposite of 'acumen', which is the ability to make good decisions, would be 'incompetence'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

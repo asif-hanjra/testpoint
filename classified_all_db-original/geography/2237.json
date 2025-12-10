@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two countries dispute the region known as the Golan Heights?",
+      "options": {
+        "a": "Egypt and Israel",
+        "b": "Syria and Israel",
+        "c": "Jordan and Syria",
+        "d": "Lebanon and Israel"
+      },
+      "one_liner": "The Golan Heights is a region disputed between **Syria** and **Israel**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

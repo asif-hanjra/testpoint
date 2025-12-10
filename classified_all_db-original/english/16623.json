@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'articulate':",
+      "options": {
+        "a": "mumbled",
+        "b": "eloquent",
+        "c": "incoherent",
+        "d": "vague"
+      },
+      "one_liner": "'Articulate' means expressing oneself clearly and effectively, similar to 'eloquent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

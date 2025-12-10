@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'appraise':",
+      "options": {
+        "a": "evaluate",
+        "b": "acknowledge",
+        "c": "ignore",
+        "d": "praise"
+      },
+      "one_liner": "An antonym for 'appraise' would be 'ignore', as it means to not assess or acknowledge the value of something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

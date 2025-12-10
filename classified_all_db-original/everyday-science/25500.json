@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which process is the widely used method for producing nuclear energy?",
+      "options": {
+        "a": "Fusion",
+        "b": "Fission",
+        "c": "Both equally",
+        "d": "None of these"
+      },
+      "one_liner": "The **fission process** is the widely used method for producing nuclear energy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

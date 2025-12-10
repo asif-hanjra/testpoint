@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I have known him ___ a long time.",
+      "options": {
+        "a": "since",
+        "b": "for",
+        "c": "during",
+        "d": "from"
+      },
+      "one_liner": "I have known him 'for' a long time.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

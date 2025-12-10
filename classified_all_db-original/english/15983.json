@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'bizarre':",
+      "options": {
+        "a": "weird",
+        "b": "peculiar",
+        "c": "normal",
+        "d": "uncommon"
+      },
+      "one_liner": "The word 'bizarre' has antonyms like 'normal', which signify something that is usual or expected.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

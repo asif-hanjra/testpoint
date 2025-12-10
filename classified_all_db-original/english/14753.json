@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the phrase 'feel blue':",
+      "options": {
+        "a": "feel desolate:feel jubilant",
+        "b": "feel happy:feel sad",
+        "c": "feel blue:feel elated",
+        "d": "feel down:feel up"
+      },
+      "one_liner": "'Feel desolate' is a synonym for 'feel blue', while 'feel jubilant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

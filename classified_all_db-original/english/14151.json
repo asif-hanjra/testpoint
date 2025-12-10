@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She is interested ___ learning new languages.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "for"
+      },
+      "one_liner": "She is interested 'in' learning new languages.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

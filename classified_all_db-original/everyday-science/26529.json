@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the speed of sound in air?",
+      "options": {
+        "a": "1235 km/h",
+        "b": "343 km/h",
+        "c": "1500 km/h",
+        "d": "None of these"
+      },
+      "one_liner": "The speed of sound in air is approximately **1235 km/h**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

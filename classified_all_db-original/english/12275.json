@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'relentless':",
+      "options": {
+        "a": "unstoppable",
+        "b": "persistent",
+        "c": "yielding",
+        "d": "determined"
+      },
+      "one_liner": "The antonym of 'relentless' is 'yielding', which implies giving way or being lenient.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

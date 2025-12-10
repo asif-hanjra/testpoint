@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'least':",
+      "options": {
+        "a": "maximum",
+        "b": "minimal",
+        "c": "abundant",
+        "d": "plentiful"
+      },
+      "one_liner": "'Least' means the smallest in size, amount, or degree, similar to 'minimal'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

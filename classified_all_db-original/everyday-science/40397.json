@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who developed the theory of relativity?",
+      "options": {
+        "a": "Albert Einstein",
+        "b": "Isaac Newton",
+        "c": "Galileo Galilei",
+        "d": "None of these"
+      },
+      "one_liner": "The theory of relativity was developed by **Albert Einstein**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

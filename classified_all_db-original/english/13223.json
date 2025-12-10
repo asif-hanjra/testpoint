@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "We should not jeer ___ the defeated enemy.",
+      "options": {
+        "a": "on",
+        "b": "at",
+        "c": "to",
+        "d": "for"
+      },
+      "one_liner": "We should not jeer 'at' the defeated enemy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

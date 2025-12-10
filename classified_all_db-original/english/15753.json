@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quiet':",
+      "options": {
+        "a": "tranquil:boisterous",
+        "b": "silent:noisy",
+        "c": "hushed:loud",
+        "d": "calm:raucous"
+      },
+      "one_liner": "'Tranquil' is a synonym of 'quiet', while 'boisterous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

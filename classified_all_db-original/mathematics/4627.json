@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "When in-order traversing a tree resulted in E A C K F H D B G; the preorder traversal would return?",
+      "options": {
+        "a": "FAEKCDHGB",
+        "b": "FAEKCDBHG",
+        "c": "EAFKHDCBG",
+        "d": "FEAKDCHBG"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

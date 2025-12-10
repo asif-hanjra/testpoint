@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'espy':",
+      "options": {
+        "a": "miss",
+        "b": "notice",
+        "c": "observe",
+        "d": "see"
+      },
+      "one_liner": "The antonym of 'espy' is 'miss', as it means to fail to notice or perceive.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

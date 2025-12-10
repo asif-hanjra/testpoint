@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which isotope of uranium is capable of sustaining a fission chain reaction?",
+      "options": {
+        "a": "U-235",
+        "b": "U-238",
+        "c": "U-234",
+        "d": "None of these"
+      },
+      "one_liner": "The isotope of uranium that can sustain a fission chain reaction is **U-235**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

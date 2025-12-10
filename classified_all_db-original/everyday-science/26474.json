@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is the large intestine referred to as 'large'?",
+      "options": {
+        "a": "It is longer than the small intestine",
+        "b": "It is heavier than the small intestine",
+        "c": "It is wider than the small intestine",
+        "d": "None of these"
+      },
+      "one_liner": "The large intestine is called 'large' because it is **wider than the small intestine**, not because of its length.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

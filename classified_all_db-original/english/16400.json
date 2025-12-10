@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fraction':",
+      "options": {
+        "a": "segment",
+        "b": "slice",
+        "c": "entirety",
+        "d": "piece"
+      },
+      "one_liner": "An antonym for 'fraction' is 'entirety', which refers to the whole, as opposed to a part.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

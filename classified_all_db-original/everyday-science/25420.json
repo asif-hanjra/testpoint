@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which disease did Dr. Ruth Pfau work against in Pakistan?",
+      "options": {
+        "a": "Polio",
+        "b": "Leprosy",
+        "c": "Malaria",
+        "d": "Tuberculosis"
+      },
+      "one_liner": "Dr. Ruth Pfau dedicated her efforts in Pakistan to fighting **Leprosy**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

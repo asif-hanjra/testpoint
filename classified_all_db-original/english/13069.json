@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pernicious':",
+      "options": {
+        "a": "destructive",
+        "b": "deadly",
+        "c": "beneficial",
+        "d": "toxic"
+      },
+      "one_liner": "An antonym of 'pernicious' is 'beneficial', which means having a good effect.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

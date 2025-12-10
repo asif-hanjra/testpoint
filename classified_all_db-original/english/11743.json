@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'undeniable':",
+      "options": {
+        "a": "indubitable:questionable",
+        "b": "incontestable:indisputable",
+        "c": "irrefutable:doubtful",
+        "d": "unquestionable:undeniable"
+      },
+      "one_liner": "'Indubitable' is a synonym of 'undeniable', while 'questionable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

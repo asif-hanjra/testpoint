@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Trains are getting faster ___ more comfortable.",
+      "options": {
+        "a": "but",
+        "b": "and",
+        "c": "or",
+        "d": "so"
+      },
+      "one_liner": "Trains are getting faster 'and' more comfortable.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

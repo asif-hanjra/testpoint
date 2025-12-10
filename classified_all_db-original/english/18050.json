@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'concede':",
+      "options": {
+        "a": "deny",
+        "b": "acknowledge",
+        "c": "dispute",
+        "d": "refuse"
+      },
+      "one_liner": "'Concede' means to admit or acknowledge, often reluctantly—words like 'acknowledge' and 'admit' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

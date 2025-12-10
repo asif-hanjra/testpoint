@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dilettante':",
+      "options": {
+        "a": "hobbyist",
+        "b": "professional",
+        "c": "enthusiast",
+        "d": "aficionado"
+      },
+      "one_liner": "An antonym of 'dilettante' is 'professional', indicating someone who is engaged in an activity as a paid occupation rather than as a pastime.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'congruent':",
+      "options": {
+        "a": "harmonious",
+        "b": "incongruent",
+        "c": "coherent",
+        "d": "consonant"
+      },
+      "one_liner": "An antonym of 'congruent' is 'incongruent', which means not in agreement or harmony.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

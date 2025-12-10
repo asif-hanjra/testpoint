@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sporadic':",
+      "options": {
+        "a": "constant",
+        "b": "intermittent",
+        "c": "steady",
+        "d": "regular"
+      },
+      "one_liner": "'Sporadic' means occurring at irregular intervals, similar to 'intermittent' or 'infrequent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

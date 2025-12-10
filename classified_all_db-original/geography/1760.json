@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Chaj Doab is located between which two rivers?",
+      "options": {
+        "a": "Chenab and Ravi",
+        "b": "Chenab and Jhelum",
+        "c": "Jhelum and Sutlej",
+        "d": "Ravi and Sutlej"
+      },
+      "one_liner": "Chaj Doab is the region situated between the rivers **Chenab** and **Jhelum**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

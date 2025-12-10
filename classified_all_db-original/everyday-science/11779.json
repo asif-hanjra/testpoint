@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a class of vertebrates shown in the images: Mammal, Fish, Bird, Amphibian, or Reptile?",
+      "options": {
+        "a": "Mollusk",
+        "b": "Amphibian",
+        "c": "Bird",
+        "d": "Fish"
+      },
+      "one_liner": "The main classes of vertebrates depicted in the images include **Mammal, Fish, Bird, Amphibian, and Reptile**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Introduction to Everyday Science",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

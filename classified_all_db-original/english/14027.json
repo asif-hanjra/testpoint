@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'however' in the sentence 'However, he passed the test.'?",
+      "options": {
+        "a": "Conjunction",
+        "b": "Adverb",
+        "c": "Adjective",
+        "d": "Noun"
+      },
+      "one_liner": "'However' is an adverbial conjunction or conjunctive adverb, used to connect and contrast two ideas.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

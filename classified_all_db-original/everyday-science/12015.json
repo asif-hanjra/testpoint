@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many satellites does Mars have?",
+      "options": {
+        "a": "One",
+        "b": "Two",
+        "c": "Three",
+        "d": "Four"
+      },
+      "one_liner": "Mars is distinguished in the solar system for having **two satellites** orbiting it.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

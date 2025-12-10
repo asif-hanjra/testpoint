@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dally':",
+      "options": {
+        "a": "hurry",
+        "b": "linger",
+        "c": "rush",
+        "d": "speed"
+      },
+      "one_liner": "'Dally' means to waste time or loiter, similar to 'linger' or 'tarry'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

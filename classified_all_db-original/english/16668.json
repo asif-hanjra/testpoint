@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'immutable':",
+      "options": {
+        "a": "permanent:alterable",
+        "b": "fixed:variable",
+        "c": "enduring:changeable",
+        "d": "unalterable:alterable"
+      },
+      "one_liner": "'Unalterable' is a synonym of 'immutable', while 'alterable' is its antonym.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

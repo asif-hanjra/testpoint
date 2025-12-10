@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mediocre':",
+      "options": {
+        "a": "adequate:exceptional",
+        "b": "poor:rich",
+        "c": "ordinary:unusual",
+        "d": "common:unique"
+      },
+      "one_liner": "'Adequate' is a synonym of 'mediocre', while 'exceptional' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

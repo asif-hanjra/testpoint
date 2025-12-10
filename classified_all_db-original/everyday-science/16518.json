@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The formula for gravitational acceleration at height h above the Earth's surface is",
+      "options": {
+        "a": "gₕ = g × (R + h)² / R²",
+        "b": "gₕ = g × (R / (R + h))²",
+        "c": "gₕ = g × (R - h)² / R²",
+        "d": "gₕ = g × (R / h)²"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'propriety':",
+      "options": {
+        "a": "chaos",
+        "b": "decorum",
+        "c": "disorder",
+        "d": "impropriety"
+      },
+      "one_liner": "'Propriety' refers to correct or appropriate behavior, similar to 'decorum'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

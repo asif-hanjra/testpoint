@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'charter':",
+      "options": {
+        "a": "warrant:abolish",
+        "b": "permit:validate",
+        "c": "license:confirm",
+        "d": "authorization:deny"
+      },
+      "one_liner": "'Warrant' is a synonym for 'charter', while 'abolish' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

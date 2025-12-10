@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'complex':",
+      "options": {
+        "a": "simple",
+        "b": "intricate",
+        "c": "straightforward",
+        "d": "easy"
+      },
+      "one_liner": "'Complex' means composed of many interconnected parts, similar to 'complicated' or 'intricate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

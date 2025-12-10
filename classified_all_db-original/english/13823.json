@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'loom':",
+      "options": {
+        "a": "emerge:withdraw",
+        "b": "advance:recede",
+        "c": "tower:shrink",
+        "d": "appear:vanish"
+      },
+      "one_liner": "'Emerge' is a synonym for 'loom', while 'withdraw' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

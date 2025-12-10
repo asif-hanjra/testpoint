@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are cyclones?",
+      "options": {
+        "a": "System of violent winds",
+        "b": "System of gentle breezes",
+        "c": "System of calm weather",
+        "d": "None of these"
+      },
+      "one_liner": "Cyclones are defined as systems of **violent winds**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet in our solar system revolves around the Sun in a clockwise direction as seen from Earth?",
+      "options": {
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Jupiter",
+        "d": "Saturn"
+      },
+      "one_liner": "Venus is unique among planets in our solar system because it revolves around the Sun in a **clockwise** direction as seen from Earth.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

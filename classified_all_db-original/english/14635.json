@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rational':",
+      "options": {
+        "a": "logical",
+        "b": "sensible",
+        "c": "irrational",
+        "d": "reasonable"
+      },
+      "one_liner": "Antonyms of 'rational' include 'illogical' and 'irrational', both implying a lack of reason.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

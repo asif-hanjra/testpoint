@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hastened':",
+      "options": {
+        "a": "rushed",
+        "b": "expedited",
+        "c": "delayed",
+        "d": "hurried"
+      },
+      "one_liner": "The antonym of 'hastened' is 'delayed', which means to slow down or postpone.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

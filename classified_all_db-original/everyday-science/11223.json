@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How do insects breathe?",
+      "options": {
+        "a": "Lungs",
+        "b": "Gills",
+        "c": "Spiracles",
+        "d": "Skin"
+      },
+      "one_liner": "Insects breathe through specialized openings called **spiracles**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the height of the Christ the Redeemer statue excluding its pedestal?",
+      "options": {
+        "a": "40 metres",
+        "b": "30 metres",
+        "c": "20 metres",
+        "d": "None of these"
+      },
+      "one_liner": "Excluding its pedestal, the Christ the Redeemer statue stands **30 metres (98 ft) high**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Christ the Redeemer",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Christ the Redeemer",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

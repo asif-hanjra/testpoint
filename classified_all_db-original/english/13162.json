@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The cat ran ___ by a bus.",
+      "options": {
+        "a": "over",
+        "b": "across",
+        "c": "under",
+        "d": "beside"
+      },
+      "one_liner": "The cat ran 'over' by a bus.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

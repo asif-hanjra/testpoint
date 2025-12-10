@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered the relationship between electricity and magnetism?",
+      "options": {
+        "a": "James Clerk Maxwell",
+        "b": "Michael Faraday",
+        "c": "Isaac Newton",
+        "d": "Albert Einstein"
+      },
+      "one_liner": "The relationship between electricity and magnetism was discovered by **Michael Faraday**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

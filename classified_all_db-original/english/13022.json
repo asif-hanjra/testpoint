@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "If you have a finger ___ the pie, you are involved in something.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "with"
+      },
+      "one_liner": "If you have a finger 'in' the pie, you are involved in something.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

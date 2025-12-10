@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gloat':",
+      "options": {
+        "a": "lament",
+        "b": "crow",
+        "c": "console",
+        "d": "sympathize"
+      },
+      "one_liner": "'Gloat' means to express one's success or another's misfortune with smugness or malignant pleasure—words like 'boast' and 'crow' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are all UN Member States obligated to do under the Charter regarding Security Council decisions?",
+      "options": {
+        "a": "Ignore Council decisions",
+        "b": "Comply with Council decisions",
+        "c": "Propose amendments",
+        "d": "None of these"
+      },
+      "one_liner": "All UN Member States are obligated to **comply with Security Council decisions** under the Charter.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

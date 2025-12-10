@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Neither the student ___ the teacher has kept their promise.",
+      "options": {
+        "a": "or",
+        "b": "nor",
+        "c": "and",
+        "d": "but"
+      },
+      "one_liner": "Neither the student 'nor' the teacher has kept their promise.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

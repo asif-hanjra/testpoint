@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'phlegmatic':",
+      "options": {
+        "a": "excitable",
+        "b": "stoic",
+        "c": "agitated",
+        "d": "restless"
+      },
+      "one_liner": "'Phlegmatic' describes someone who is calm and unemotional, similar to 'stoic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

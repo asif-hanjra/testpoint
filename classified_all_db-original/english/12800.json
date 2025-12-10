@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'evict':",
+      "options": {
+        "a": "displace:accommodate",
+        "b": "expel:invite",
+        "c": "oust:harbor",
+        "d": "eject:welcome"
+      },
+      "one_liner": "'Displace' is a synonym of 'evict', while 'accommodate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

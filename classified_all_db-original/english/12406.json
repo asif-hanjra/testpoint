@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pristine':",
+      "options": {
+        "a": "deteriorated",
+        "b": "immaculate",
+        "c": "sullied",
+        "d": "defiled"
+      },
+      "one_liner": "'Pristine' refers to something in its original, unspoiled condition—similar to 'immaculate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

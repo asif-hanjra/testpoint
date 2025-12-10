@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'defend':",
+      "options": {
+        "a": "protect",
+        "b": "preserve",
+        "c": "attack",
+        "d": "support"
+      },
+      "one_liner": "The opposite of 'defend' is 'attack', as one implies protection while the other implies aggression.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

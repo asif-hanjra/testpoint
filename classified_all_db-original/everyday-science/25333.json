@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what basis are blood groups categorized?",
+      "options": {
+        "a": "Shape of red blood cells",
+        "b": "Antibodies and antigens in the cell",
+        "c": "Blood pressure",
+        "d": "None of these"
+      },
+      "one_liner": "Blood groups are categorized based on the presence of specific **antibodies and antigens** in the blood cells.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

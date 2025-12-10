@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change voice: Someone has picked my pocket.",
+      "options": {
+        "a": "Someone's pocket has been picked.",
+        "b": "My pocket was picked.",
+        "c": "My pocket has been picked.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

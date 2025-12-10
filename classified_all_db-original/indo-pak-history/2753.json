@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "To which country was Duleep Singh exiled after the Second Anglo-Sikh War?",
+      "options": {
+        "a": "France",
+        "b": "Afghanistan",
+        "c": "Britain",
+        "d": "None of these"
+      },
+      "one_liner": "After his defeat, Duleep Singh was exiled to **Britain**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

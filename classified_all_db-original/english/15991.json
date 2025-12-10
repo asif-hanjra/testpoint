@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Please speak ___ plain English so everyone can understand.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "Please speak 'in' plain English so everyone can understand.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

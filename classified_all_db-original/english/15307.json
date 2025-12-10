@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'swindle':",
+      "options": {
+        "a": "compensate",
+        "b": "deceive",
+        "c": "defraud",
+        "d": "cheat"
+      },
+      "one_liner": "The antonym of 'swindle' is 'compensate', as it implies giving someone what is due rather than cheating them.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

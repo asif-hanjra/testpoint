@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are the Great Sandy Desert and Great Victoria Desert located?",
+      "options": {
+        "a": "Africa",
+        "b": "Australia",
+        "c": "Asia",
+        "d": "South America"
+      },
+      "one_liner": "Both the **Great Sandy Desert** and **Great Victoria Desert** are located in **Australia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

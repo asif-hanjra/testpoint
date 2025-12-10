@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following countries does NOT share a boundary with Syria?",
+      "options": {
+        "a": "Iran",
+        "b": "Iraq",
+        "c": "Turkey",
+        "d": "Lebanon"
+      },
+      "one_liner": "Iran does not share a boundary with **Syria**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Iran",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Pakistan-Iran",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

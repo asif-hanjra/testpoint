@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'always' in the sentence 'He always tells the truth'?",
+      "options": {
+        "a": "Noun",
+        "b": "Pronoun",
+        "c": "Adverb",
+        "d": "Verb"
+      },
+      "one_liner": "'Always' is an adverb, explaining how often he tells the truth.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fret':",
+      "options": {
+        "a": "brood:unwind",
+        "b": "worry:relieve",
+        "c": "stress:calm",
+        "d": "agonize:delight"
+      },
+      "one_liner": "'Brood' is a synonym for 'fret', while 'unwind' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

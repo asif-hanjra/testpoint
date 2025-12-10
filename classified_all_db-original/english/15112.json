@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'handy':",
+      "options": {
+        "a": "cumbersome",
+        "b": "practical",
+        "c": "unwieldy",
+        "d": "inefficient"
+      },
+      "one_liner": "'Handy' means convenient or useful, similar to 'practical'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

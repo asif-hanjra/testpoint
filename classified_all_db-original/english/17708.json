@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stop':",
+      "options": {
+        "a": "start",
+        "b": "cease",
+        "c": "end",
+        "d": "pause"
+      },
+      "one_liner": "The antonym of 'stop' is 'start', which means to begin movement or activity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

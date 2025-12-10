@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pungent':",
+      "options": {
+        "a": "mild",
+        "b": "sharp",
+        "c": "intense",
+        "d": "acrid"
+      },
+      "one_liner": "A scent that is 'pungent' is the opposite of one that is 'mild' or 'faint'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

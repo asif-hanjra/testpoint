@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tender':",
+      "options": {
+        "a": "harsh",
+        "b": "compassionate",
+        "c": "cruel",
+        "d": "rough"
+      },
+      "one_liner": "'Tender' means gentle or caring, similar to 'compassionate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following food groups does not naturally contain Vitamin B12?",
+      "options": {
+        "a": "Meat",
+        "b": "Dairy",
+        "c": "Fruits and vegetables",
+        "d": "Fish"
+      },
+      "one_liner": "Fruits and vegetables do not naturally contain **Vitamin B12**, which is why vegetarians may need supplements.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

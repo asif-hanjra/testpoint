@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Please _______ while I transfer your call to the manager.",
+      "options": {
+        "a": "run out",
+        "b": "hold on",
+        "c": "break up",
+        "d": "give in"
+      },
+      "one_liner": "Please 'hold on' while I transfer your call to the manager.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

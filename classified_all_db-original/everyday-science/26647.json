@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which cell organelle contains its own DNA?",
+      "options": {
+        "a": "Mitochondria",
+        "b": "Ribosome",
+        "c": "Golgi apparatus",
+        "d": "Lysosome"
+      },
+      "one_liner": "The cell organelle known as the mitochondrion contains its own genetic material, specifically **DNA**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

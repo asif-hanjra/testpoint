@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prevaricate':",
+      "options": {
+        "a": "clarify",
+        "b": "equivocate",
+        "c": "reveal",
+        "d": "elucidate"
+      },
+      "one_liner": "'Prevaricate' means to speak or act evasively, similar to how 'equivocate' implies avoiding a direct answer.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

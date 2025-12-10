@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: \"We are collecting donations for the flood victims.\"",
+      "options": {
+        "a": "Donations have been collected by us for the flood victims.",
+        "b": "For the flood victims we have been collecting donations.",
+        "c": "Donations are being collected by us for flood victims.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

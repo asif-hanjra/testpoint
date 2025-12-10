@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "___ the cap fits, wear it.",
+      "options": {
+        "a": "In",
+        "b": "If",
+        "c": "On",
+        "d": "At"
+      },
+      "one_liner": "The correct phrase is 'If' the cap fits, wear it.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

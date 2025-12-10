@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Gomal Pass takes its name from which river?",
+      "options": {
+        "a": "Indus River",
+        "b": "Gomal River",
+        "c": "Kabul River",
+        "d": "Swat River"
+      },
+      "one_liner": "Gomal Pass takes its name from the **Gomal River**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

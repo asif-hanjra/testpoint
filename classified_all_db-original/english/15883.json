@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'redeem':",
+      "options": {
+        "a": "salvage:waste",
+        "b": "reclaim:preserve",
+        "c": "recover:retain",
+        "d": "restore:deplete"
+      },
+      "one_liner": "'Redeem' is synonymous with 'salvage', and its antonym is 'waste'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

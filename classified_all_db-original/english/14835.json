@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impugn':",
+      "options": {
+        "a": "agree",
+        "b": "dispute",
+        "c": "accept",
+        "d": "concur"
+      },
+      "one_liner": "'Impugn' means to challenge or question, similar to 'dispute' or 'contest'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many countries, apart from the European Union, are members of the G-20 forum?",
+      "options": {
+        "a": "15",
+        "b": "17",
+        "c": "19",
+        "d": "21"
+      },
+      "one_liner": "The G-20 forum is composed of **19 countries** in addition to the European Union.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

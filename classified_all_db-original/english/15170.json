@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cry':",
+      "options": {
+        "a": "laugh",
+        "b": "whisper",
+        "c": "weep",
+        "d": "smile"
+      },
+      "one_liner": "'Cry' means to shed tears or call out loudly, similar to 'weep' or 'shout'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

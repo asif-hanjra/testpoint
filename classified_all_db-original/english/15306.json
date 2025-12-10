@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tenable':",
+      "options": {
+        "a": "defensible",
+        "b": "justifiable",
+        "c": "untenable",
+        "d": "credible"
+      },
+      "one_liner": "Antonyms of 'tenable' include 'untenable' and 'indefensible', both suggesting that something cannot be justified or defended.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'skiff':",
+      "options": {
+        "a": "dinghy:vessel",
+        "b": "yacht:canoe",
+        "c": "rowboat:raft",
+        "d": "paddleboat:kayak"
+      },
+      "one_liner": "A 'dinghy' is a synonym for 'skiff', while 'vessel' can be an antonym when referring to a much larger boat.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

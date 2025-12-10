@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "One of the runners dropped out ___ an accident.",
+      "options": {
+        "a": "because",
+        "b": "due to",
+        "c": "for",
+        "d": "by"
+      },
+      "one_liner": "One of the runners dropped out 'due to' an accident.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

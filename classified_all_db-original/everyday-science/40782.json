@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which form of carbon is one of the hardest substances?",
+      "options": {
+        "a": "Graphite",
+        "b": "Diamond",
+        "c": "Buckyballs",
+        "d": "Charcoal"
+      },
+      "one_liner": "**Diamond** is a naturally occurring form of carbon and is one of the hardest substances known.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

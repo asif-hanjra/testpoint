@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city is the Pakistan Military Academy located?",
+      "options": {
+        "a": "Rawalpindi",
+        "b": "Karachi",
+        "c": "Abbottabad",
+        "d": "Lahore"
+      },
+      "one_liner": "The Pakistan Military Academy is situated in the city of **Abbottabad**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

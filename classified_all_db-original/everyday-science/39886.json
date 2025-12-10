@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the role of the pancreas in digestion and metabolism?",
+      "options": {
+        "a": "Stores bile",
+        "b": "Produces insulin and digestive juice for fats and proteins",
+        "c": "Absorbs nutrients",
+        "d": "Pushes waste to rectum"
+      },
+      "one_liner": "The pancreas produces a juice that helps digest fats and proteins and also secretes insulin into the bloodstream to regulate the body's glucose or sugar level.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

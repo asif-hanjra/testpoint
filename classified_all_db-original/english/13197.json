@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'despair':",
+      "options": {
+        "a": "hope",
+        "b": "sorrow",
+        "c": "gloom",
+        "d": "misery"
+      },
+      "one_liner": "An antonym of 'despair' is 'hope', which signifies optimism and expectation of positive outcomes.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

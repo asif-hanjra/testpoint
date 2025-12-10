@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Asian Development Bank headquartered?",
+      "options": {
+        "a": "Beijing, China",
+        "b": "Shanghai, China",
+        "c": "Manila, Philippines",
+        "d": "New York, USA"
+      },
+      "one_liner": "The Asian Development Bank has its headquarters in **Manila, Philippines**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

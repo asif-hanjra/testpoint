@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stable':",
+      "options": {
+        "a": "steady",
+        "b": "constant",
+        "c": "unstable",
+        "d": "fixed"
+      },
+      "one_liner": "An antonym for 'stable' is 'unstable', which means not steady or likely to change.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

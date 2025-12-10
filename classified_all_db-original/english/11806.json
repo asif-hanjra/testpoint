@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exonerate':",
+      "options": {
+        "a": "vindicate:implicate",
+        "b": "absolve:accuse",
+        "c": "clear:incriminate",
+        "d": "discharge:condemn"
+      },
+      "one_liner": "'Vindicate' is a synonym of 'exonerate', while 'implicate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

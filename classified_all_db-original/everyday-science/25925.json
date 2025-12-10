@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the graphical representation of data commonly called?",
+      "options": {
+        "a": "Pie chart",
+        "b": "Histogram",
+        "c": "Bar graph",
+        "d": "None of these"
+      },
+      "one_liner": "The graphical representation of data is known as a **Pie chart**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

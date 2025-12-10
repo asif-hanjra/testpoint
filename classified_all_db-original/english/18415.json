@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abbreviate':",
+      "options": {
+        "a": "shorten",
+        "b": "reduce",
+        "c": "lengthen",
+        "d": "compress"
+      },
+      "one_liner": "The antonym of 'abbreviate' is 'lengthen', which means to make longer.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

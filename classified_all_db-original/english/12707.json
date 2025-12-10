@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'affinity':",
+      "options": {
+        "a": "kinship:antipathy",
+        "b": "attraction:dislike",
+        "c": "fondness:detachment",
+        "d": "rapport:aversion"
+      },
+      "one_liner": "'Kinship' is a synonym of 'affinity', while 'antipathy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

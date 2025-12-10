@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which district is the Chashma Barrage located?",
+      "options": {
+        "a": "Dera Ghazi Khan",
+        "b": "Mianwali",
+        "c": "Sukkur",
+        "d": "Jamshoro"
+      },
+      "one_liner": "Chashma Barrage is located in **Mianwali District** near the village of Chashma.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

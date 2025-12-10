@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mosaic':",
+      "options": {
+        "a": "collage:plain",
+        "b": "patchwork:variegated",
+        "c": "composite:uniform",
+        "d": "montage:monolithic"
+      },
+      "one_liner": "'Collage' is a synonym of 'mosaic', while 'plain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'remorse':",
+      "options": {
+        "a": "guilt",
+        "b": "regret",
+        "c": "indifference",
+        "d": "shame"
+      },
+      "one_liner": "The opposite of 'remorse', which is a sense of guilt, would be 'indifference', a lack of concern.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

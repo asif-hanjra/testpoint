@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the heart disease in which the blood supply to the heart is inadequate?",
+      "options": {
+        "a": "Angina",
+        "b": "Hypertension",
+        "c": "Arrhythmia",
+        "d": "None of these"
+      },
+      "one_liner": "A form of heart disease where the blood supply to the heart is inadequate is called **Angina**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

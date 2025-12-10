@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the proposed electricity generation capacity of Kalabagh Dam?",
+      "options": {
+        "a": "4,500 MW",
+        "b": "2,000 MW",
+        "c": "3,600 MW",
+        "d": "5,000 MW"
+      },
+      "one_liner": "Kalabagh Dam is proposed to generate **3,600 MW** of electricity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

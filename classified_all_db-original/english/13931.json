@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'Utopia':",
+      "options": {
+        "a": "heaven:hell",
+        "b": "paradise:dystopia",
+        "c": "bliss:chaos",
+        "d": "eden:slum"
+      },
+      "one_liner": "A 'heaven' can be seen as a synonym for 'Utopia', while 'hell' would be its antonym, representing the extremes of good and bad places.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

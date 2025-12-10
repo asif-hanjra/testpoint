@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which region did Allama Iqbal propose the creation of a separate Muslim state in his Allahabad address?",
+      "options": {
+        "a": "South India",
+        "b": "East India",
+        "c": "North West India",
+        "d": "Central India"
+      },
+      "one_liner": "Allama Iqbal proposed the creation of a separate Muslim state in **North West India** during his Allahabad address.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Allahabad Address 1930",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Allahabad Address 1930",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

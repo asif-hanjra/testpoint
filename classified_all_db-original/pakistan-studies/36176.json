@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How did Zia-ul-Haq die in 1988?",
+      "options": {
+        "a": "Car accident",
+        "b": "Natural causes",
+        "c": "Plane crash near Bahawalpur",
+        "d": "Assassination"
+      },
+      "one_liner": "Zia-ul-Haq died in a **plane crash near Bahawalpur** in 1988.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

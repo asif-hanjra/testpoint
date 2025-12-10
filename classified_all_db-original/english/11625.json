@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'overt':",
+      "options": {
+        "a": "covert",
+        "b": "clear",
+        "c": "noticeable",
+        "d": "obvious"
+      },
+      "one_liner": "The antonym of 'overt' is 'covert', which means not openly acknowledged or displayed.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

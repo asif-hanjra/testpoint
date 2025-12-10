@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'Curiosity killed the cat' imply?",
+      "options": {
+        "a": "Cats are often harmed by their own curiosity",
+        "b": "Being inquisitive can lead to dangerous situations",
+        "c": "Curiosity can solve complex problems",
+        "d": "Learning new things is always beneficial"
+      },
+      "one_liner": "The idiom 'Curiosity killed the cat' suggests that excessive curiosity can lead to trouble or danger.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

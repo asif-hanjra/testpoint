@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin legal term 'habeas corpus' refer to?",
+      "options": {
+        "a": "The right to remain silent",
+        "b": "The right to a fair trial",
+        "c": "The requirement to bring a detained person before a court",
+        "d": "The principle of double jeopardy"
+      },
+      "one_liner": "'Habeas corpus' is a legal term that requires a person under arrest to be brought before a judge or into court.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

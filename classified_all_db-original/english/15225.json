@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'chubby':",
+      "options": {
+        "a": "slender",
+        "b": "plump",
+        "c": "gaunt",
+        "d": "lean"
+      },
+      "one_liner": "'Chubby' means slightly overweight, similar to 'plump'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

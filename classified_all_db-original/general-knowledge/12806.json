@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country gives the Victoria Cross of Canada as its highest military honor?",
+      "options": {
+        "a": "Canada",
+        "b": "Australia",
+        "c": "United Kingdom",
+        "d": "France"
+      },
+      "one_liner": "The **Victoria Cross of Canada** is the highest military award in **Canada**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

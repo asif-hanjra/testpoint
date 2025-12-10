@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the All-India Muslim League observe Deliverance Day?",
+      "options": {
+        "a": "15 August 1947",
+        "b": "23 March 1940",
+        "c": "22 December 1939",
+        "d": "14 August 1947"
+      },
+      "one_liner": "The All-India Muslim League observed Deliverance Day on **22 December 1939**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Day of Deliverance",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

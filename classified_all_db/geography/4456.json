@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Khanpur Dam is constructed on which river?",
+      "options": {
+        "a": "Indus",
+        "b": "Haro",
+        "c": "Jhelum",
+        "d": "Ravi"
+      },
+      "one_liner": "Khanpur Dam is constructed on the **Haro River**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

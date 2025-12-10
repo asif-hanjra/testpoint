@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dirge':",
+      "options": {
+        "a": "requiem:ode",
+        "b": "lament:anthem",
+        "c": "elegy:paean",
+        "d": "threnody:ballad"
+      },
+      "one_liner": "'Requiem' is a synonym of 'dirge', while 'ode' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

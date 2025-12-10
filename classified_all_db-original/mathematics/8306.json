@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following property doesn't satisfied by the matrices?",
+      "options": {
+        "a": "Matrix multiplication is associate",
+        "b": "Matrix addition is associated",
+        "c": "Matrix multiplication is commutative",
+        "d": "Matrix addition is commutative"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

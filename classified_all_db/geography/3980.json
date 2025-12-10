@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the planned generation capacity of the Sukki Kinari Hydropower Project?",
+      "options": {
+        "a": "500 MW",
+        "b": "650 MW",
+        "c": "870 MW",
+        "d": "1200 MW"
+      },
+      "one_liner": "The Sukki Kinari Hydropower Project is designed to generate approximately **870 MW** of electricity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

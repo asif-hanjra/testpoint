@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which component is present in the cell wall of Eubacteria when a cell wall exists?",
+      "options": {
+        "a": "Cellulose",
+        "b": "Chitin",
+        "c": "Peptidoglycan",
+        "d": "None of these"
+      },
+      "one_liner": "When present, the cell wall of Eubacteria contains **peptidoglycan** as a key structural component.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

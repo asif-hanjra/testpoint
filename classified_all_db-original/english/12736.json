@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rookie':",
+      "options": {
+        "a": "expert",
+        "b": "novice",
+        "c": "veteran",
+        "d": "professional"
+      },
+      "one_liner": "'Rookie' refers to a newcomer or beginner, similar to 'novice'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

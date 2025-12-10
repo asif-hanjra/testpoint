@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'coagulant':",
+      "options": {
+        "a": "clotter:blood thinner",
+        "b": "thickener:diluent",
+        "c": "coagulant:anticoagulant",
+        "d": "clotting agent:solvent"
+      },
+      "one_liner": "'Clotter' is a synonym for 'coagulant', while 'blood thinner' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

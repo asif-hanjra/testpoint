@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'contingent':",
+      "options": {
+        "a": "dependent",
+        "b": "absolute",
+        "c": "probable",
+        "d": "likely"
+      },
+      "one_liner": "An antonym of 'contingent' is 'absolute', which means not subject to any conditions.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

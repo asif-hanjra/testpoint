@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the Kunar River called in Pakistan?",
+      "options": {
+        "a": "Indus River",
+        "b": "Chitral River",
+        "c": "Swat River",
+        "d": "None of these"
+      },
+      "one_liner": "In Pakistan, the Kunar River is known as the **Chitral River**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

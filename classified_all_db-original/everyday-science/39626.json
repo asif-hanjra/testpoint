@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which vision problem can be corrected using a convex lens?",
+      "options": {
+        "a": "Nearsightedness",
+        "b": "Farsightedness",
+        "c": "Astigmatism",
+        "d": "None of these"
+      },
+      "one_liner": "A **convex lens** is used to correct farsightedness, also known as hyperopia.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

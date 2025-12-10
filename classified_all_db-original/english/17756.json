@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'din':",
+      "options": {
+        "a": "commotion:serenity",
+        "b": "noise:quiet",
+        "c": "pandemonium:peace",
+        "d": "clatter:silence"
+      },
+      "one_liner": "'Commotion' is a synonym of 'din', while 'serenity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

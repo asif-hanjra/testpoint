@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'observe':",
+      "options": {
+        "a": "notice:disregard",
+        "b": "see:observe",
+        "c": "perceive:heed",
+        "d": "watch:look"
+      },
+      "one_liner": "'Notice' is a synonym of 'observe', while 'disregard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

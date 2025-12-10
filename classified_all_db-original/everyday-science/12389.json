@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the pineal gland located in the human body?",
+      "options": {
+        "a": "Neck",
+        "b": "Brain",
+        "c": "Chest",
+        "d": "Abdomen"
+      },
+      "one_liner": "The pineal gland is situated within the **brain**, making it one of the endocrine organs found in the cranial cavity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

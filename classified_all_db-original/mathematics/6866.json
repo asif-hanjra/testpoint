@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A bus with 32 data line can transport how many bits at a time?",
+      "options": {
+        "a": "8 bits",
+        "b": "16 bits",
+        "c": "32 bits",
+        "d": "1024 bits"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

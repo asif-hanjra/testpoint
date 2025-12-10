@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which was the first metal used by man?",
+      "options": {
+        "a": "Iron",
+        "b": "Copper",
+        "c": "Gold",
+        "d": "Silver"
+      },
+      "one_liner": "The earliest metal utilized by humans was **Copper**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

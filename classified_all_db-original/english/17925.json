@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ridiculous':",
+      "options": {
+        "a": "absurd",
+        "b": "ludicrous",
+        "c": "sensible",
+        "d": "foolish"
+      },
+      "one_liner": "The word 'ridiculous' has antonyms like 'sensible' and 'reasonable', which imply sound judgment.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

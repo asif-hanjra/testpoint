@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main cause of a rainbow?",
+      "options": {
+        "a": "Rain drops",
+        "b": "Wind",
+        "c": "Sunlight alone",
+        "d": "Clouds"
+      },
+      "one_liner": "Rainbows are formed due to the presence of **rain drops**, which cause the dispersion of light.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

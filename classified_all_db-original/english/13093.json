@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cruel':",
+      "options": {
+        "a": "vicious",
+        "b": "humane",
+        "c": "savage",
+        "d": "merciless"
+      },
+      "one_liner": "The opposite of 'cruel' is 'humane', which means showing compassion or benevolence.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'modify':",
+      "options": {
+        "a": "alter",
+        "b": "transform",
+        "c": "maintain",
+        "d": "revise"
+      },
+      "one_liner": "The antonym of 'modify' is 'maintain', as it means to keep something unchanged.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

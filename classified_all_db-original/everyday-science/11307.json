@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How can tetanus be prevented?",
+      "options": {
+        "a": "Antibiotics",
+        "b": "Vaccination",
+        "c": "Hydration",
+        "d": "Isolation"
+      },
+      "one_liner": "Tetanus can be prevented by **vaccination**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

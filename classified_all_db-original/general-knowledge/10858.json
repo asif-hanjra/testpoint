@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the real name of Ibn Taymiyyah?",
+      "options": {
+        "a": "Abu Hamid",
+        "b": "Taqi-ud-din",
+        "c": "Jalal-ud-din",
+        "d": "Shams-ud-din"
+      },
+      "one_liner": "Ibn Taymiyyah's real name was **Taqi-ud-din**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

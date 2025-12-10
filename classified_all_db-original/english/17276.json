@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obtuse':",
+      "options": {
+        "a": "perceptive",
+        "b": "dull",
+        "c": "slow",
+        "d": "stupid"
+      },
+      "one_liner": "An antonym of 'obtuse', when referring to a person's understanding, would be 'perceptive' or 'quick-witted'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

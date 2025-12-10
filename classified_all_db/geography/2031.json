@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following was NOT a sub-headline in the Los Angeles Times article about the bombing of Hawaii?",
+      "options": {
+        "a": "City Springs to Attention",
+        "b": "FDR Will Ask Congress About Aid Today",
+        "c": "Victory in Europe",
+        "d": "Fleet Speeds Out to Battle Invader"
+      },
+      "one_liner": "Among the sub-headlines in the Los Angeles Times article about the bombing of Hawaii, 'City Springs to Attention' was included, while 'Victory in Europe' was not.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

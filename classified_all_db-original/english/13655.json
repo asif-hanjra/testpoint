@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'certain':",
+      "options": {
+        "a": "absolute:ambiguous",
+        "b": "sure:clear",
+        "c": "positive:positive",
+        "d": "definite:indefinite"
+      },
+      "one_liner": "'Absolute' is a synonym of 'certain', while 'ambiguous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

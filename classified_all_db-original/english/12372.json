@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'flaw':",
+      "options": {
+        "a": "deficiency:perfection",
+        "b": "blemish:excellence",
+        "c": "fault:virtue",
+        "d": "imperfection:flaw"
+      },
+      "one_liner": "'Deficiency' is a synonym of 'flaw', while 'perfection' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

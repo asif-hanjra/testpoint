@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'colossal':",
+      "options": {
+        "a": "tiny",
+        "b": "gigantic",
+        "c": "minute",
+        "d": "small"
+      },
+      "one_liner": "'Colossal' means extremely large or huge, similar to 'gigantic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

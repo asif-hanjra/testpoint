@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inextricable':",
+      "options": {
+        "a": "intertwined:detachable",
+        "b": "separable:connected",
+        "c": "linked:distinct",
+        "d": "entangled:separable"
+      },
+      "one_liner": "'Intertwined' is a synonym of 'inextricable', while 'detachable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

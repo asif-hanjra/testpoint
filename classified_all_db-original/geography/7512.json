@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country initiated the One Belt One Road project?",
+      "options": {
+        "a": "Russia",
+        "b": "China",
+        "c": "Pakistan",
+        "d": "Turkey"
+      },
+      "one_liner": "The One Belt One Road initiative was started by **China**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

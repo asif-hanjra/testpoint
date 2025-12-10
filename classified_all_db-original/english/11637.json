@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'valiant':",
+      "options": {
+        "a": "gallant:craven",
+        "b": "courageous:heroic",
+        "c": "brave:fearless",
+        "d": "bold:timid"
+      },
+      "one_liner": "'Gallant' is a synonym of 'valiant', while 'craven' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which organism is penicillin obtained?",
+      "options": {
+        "a": "Bacteria",
+        "b": "Virus",
+        "c": "Penicillium fungus",
+        "d": "Algae"
+      },
+      "one_liner": "**Penicillin** is obtained from a fungus called Penicillium.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

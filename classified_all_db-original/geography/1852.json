@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Until which major event were the Balkan states part of the Ottoman Empire?",
+      "options": {
+        "a": "World War II",
+        "b": "World War I",
+        "c": "The Cold War",
+        "d": "The Napoleonic Wars"
+      },
+      "one_liner": "The Balkan states remained part of the Ottoman Empire until **World War I**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

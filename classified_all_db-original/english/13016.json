@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'imbecile':",
+      "options": {
+        "a": "fool",
+        "b": "dullard",
+        "c": "genius",
+        "d": "moron"
+      },
+      "one_liner": "The word 'imbecile' implies a lack of intelligence, whereas 'genius' indicates an exceptional intellectual ability.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

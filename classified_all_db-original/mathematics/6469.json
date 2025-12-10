@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Kyle bought a $2000 government bond that yields 6% in simple interest each year. Write the equation that gives the total amount A, in dollars, Kyle will receive when he sells the bond after t years.",
+      "options": {
+        "a": "A = 2,000 + (1 + .06 t)",
+        "b": "A = 2,000 (1 + 60)t",
+        "c": "A = 2,000 (1+ 06)t",
+        "d": "A = 2,000 (1+ 06)t"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2023
+}

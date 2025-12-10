@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a topology condition?",
+      "options": {
+        "a": "Union of open sets is open",
+        "b": "Intersection of any open sets is open",
+        "c": "Empty set is open",
+        "d": "Arbitrary union of closed sets is closed"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

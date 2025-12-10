@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'steep':",
+      "options": {
+        "a": "shallow",
+        "b": "gradual",
+        "c": "level",
+        "d": "precipitous"
+      },
+      "one_liner": "'Steep' can be synonymous with 'precipitous', both indicating a sharp rise or fall.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

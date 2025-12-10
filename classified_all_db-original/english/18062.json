@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "My information does not accord ___ the report which has just been presented.",
+      "options": {
+        "a": "to",
+        "b": "with",
+        "c": "by",
+        "d": "for"
+      },
+      "one_liner": "My information does not accord 'with' the report which has just been presented.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ingenious':",
+      "options": {
+        "a": "dull",
+        "b": "innovative",
+        "c": "unimaginative",
+        "d": "ordinary"
+      },
+      "one_liner": "'Ingenious' refers to something clever or inventive, similar to 'innovative'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

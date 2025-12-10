@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'epistle':",
+      "options": {
+        "a": "dialogue",
+        "b": "conversation",
+        "c": "monologue",
+        "d": "missive"
+      },
+      "one_liner": "While an 'epistle' is a written communication, a 'conversation' is an oral exchange of ideas, making it an antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

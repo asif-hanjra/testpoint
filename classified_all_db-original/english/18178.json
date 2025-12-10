@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'contented':",
+      "options": {
+        "a": "satisfied",
+        "b": "happy",
+        "c": "dissatisfied",
+        "d": "pleased"
+      },
+      "one_liner": "Antonyms of 'contented' include 'dissatisfied' and 'unhappy', both indicating a lack of satisfaction.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

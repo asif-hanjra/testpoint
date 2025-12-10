@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin term 'ibid.' or 'ibidem' signify when used in citations?",
+      "options": {
+        "a": "The same author, different work",
+        "b": "The same source as the previous citation",
+        "c": "A work of unknown origin",
+        "d": "An important work"
+      },
+      "one_liner": "'Ibid.' or 'ibidem' is used in footnotes or bibliographies to refer to the same source that was cited immediately before.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

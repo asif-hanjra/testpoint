@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'heretic':",
+      "options": {
+        "a": "nonconformist",
+        "b": "rebel",
+        "c": "conformist",
+        "d": "maverick"
+      },
+      "one_liner": "The antonym of 'heretic' is 'conformist', which describes someone who follows established standards or beliefs.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

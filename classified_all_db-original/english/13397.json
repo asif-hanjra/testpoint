@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'coerce':",
+      "options": {
+        "a": "persuade",
+        "b": "compel",
+        "c": "suggest",
+        "d": "encourage"
+      },
+      "one_liner": "'Coerce' means to compel or force someone to do something, similar to 'compel' or 'pressure'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

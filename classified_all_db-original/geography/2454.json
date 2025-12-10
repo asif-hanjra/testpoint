@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major Pakistani port is located near the city of Karachi?",
+      "options": {
+        "a": "Gwadar",
+        "b": "Port Qasim",
+        "c": "Port Sudan",
+        "d": "None of these"
+      },
+      "one_liner": "Port Qasim is situated near the city of **Karachi** in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Arabian Sea",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

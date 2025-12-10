@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "It is fifteen years ___ I left him.",
+      "options": {
+        "a": "for",
+        "b": "since",
+        "c": "from",
+        "d": "after"
+      },
+      "one_liner": "It is fifteen years 'since' I left him.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

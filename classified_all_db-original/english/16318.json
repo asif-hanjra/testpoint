@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'board':",
+      "options": {
+        "a": "plank",
+        "b": "panel",
+        "c": "ball",
+        "d": "cube"
+      },
+      "one_liner": "An antonym for 'board' in the context of a flat piece of wood could be 'ball', which is round and not flat.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

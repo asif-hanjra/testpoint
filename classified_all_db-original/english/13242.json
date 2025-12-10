@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is the word 'happy' in the sentence 'She felt happy after the test'?",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Verb",
+        "d": "Adverb"
+      },
+      "one_liner": "In the sentence 'She felt happy after the test', the word 'happy' is an adjective because it describes the pronoun 'She'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

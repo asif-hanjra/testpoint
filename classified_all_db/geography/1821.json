@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Gota Canal located?",
+      "options": {
+        "a": "Norway",
+        "b": "Sweden",
+        "c": "Finland",
+        "d": "Denmark"
+      },
+      "one_liner": "The Gota Canal is located in **Sweden**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

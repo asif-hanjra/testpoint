@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'strenuous':",
+      "options": {
+        "a": "effortless",
+        "b": "arduous",
+        "c": "lazy",
+        "d": "easy"
+      },
+      "one_liner": "'Strenuous' activities require significant effort or energy, similar to 'arduous' tasks.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

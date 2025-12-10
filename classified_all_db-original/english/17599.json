@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'brave':",
+      "options": {
+        "a": "valiant:fearful",
+        "b": "courageous:heroic",
+        "c": "intrepid:intrepid",
+        "d": "fearless:brave"
+      },
+      "one_liner": "'Valiant' is a synonym of 'brave', while 'fearful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

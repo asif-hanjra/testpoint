@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "∫sinxsinx=?",
+      "options": {
+        "a": "1 ​/2 x+   1/4 sin(2x)+C",
+        "b": "−cosx⋅sinx+C",
+        "c": "1 ​/2 x -   1/4 sin(2x)+C",
+        "d": "- 1 ​/2 x+   1/4 sin(2x)+C"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

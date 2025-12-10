@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The path ___ success is very difficult.",
+      "options": {
+        "a": "to",
+        "b": "for",
+        "c": "of",
+        "d": "in"
+      },
+      "one_liner": "The path 'for' success is very difficult.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

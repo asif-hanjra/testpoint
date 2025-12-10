@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nebulous':",
+      "options": {
+        "a": "ambiguous:explicit",
+        "b": "clear:obscure",
+        "c": "vague:distinct",
+        "d": "foggy:sharp"
+      },
+      "one_liner": "'Murky' is a synonym of 'nebulous', while 'explicit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

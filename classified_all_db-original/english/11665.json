@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'profane':",
+      "options": {
+        "a": "irreverent:reverent",
+        "b": "sacred:secular",
+        "c": "blasphemous:pious",
+        "d": "impious:holy"
+      },
+      "one_liner": "'Irreverent' is a synonym of 'profane', while 'reverent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

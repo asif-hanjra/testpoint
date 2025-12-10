@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'generous':",
+      "options": {
+        "a": "altruistic:greedy",
+        "b": "selfless:selfish",
+        "c": "philanthropic:miserly",
+        "d": "kind:mean"
+      },
+      "one_liner": "'Altruistic' is a synonym of 'generous', while 'greedy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'Eat is Verb,' which preposition correctly completes the phrase: 'He also likes to eat strawberries. Eat ___ a verb.'?",
+      "options": {
+        "a": "at",
+        "b": "is",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "Eat 'is' a verb.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

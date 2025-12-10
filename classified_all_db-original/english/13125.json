@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'recreation':",
+      "options": {
+        "a": "leisure:labor",
+        "b": "fun:joy",
+        "c": "amusement:entertainment",
+        "d": "rest:activity"
+      },
+      "one_liner": "'Leisure' is a synonym of 'recreation', while 'labor' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

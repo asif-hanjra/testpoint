@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is King Edward Medical College, University located?",
+      "options": {
+        "a": "Karachi",
+        "b": "Lahore",
+        "c": "Islamabad",
+        "d": "Peshawar"
+      },
+      "one_liner": "King Edward Medical College, University is situated in the city of **Lahore**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

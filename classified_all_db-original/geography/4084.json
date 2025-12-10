@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which river is the Poonch River a tributary of?",
+      "options": {
+        "a": "Indus River",
+        "b": "Chenab River",
+        "c": "Jhelum River",
+        "d": "Ravi River"
+      },
+      "one_liner": "The Poonch River is a tributary of the **Jhelum River**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

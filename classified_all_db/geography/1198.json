@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Hispar Glacier located?",
+      "options": {
+        "a": "Himalayas, Nepal",
+        "b": "Karakoram mountains of Gilgit-Baltistan",
+        "c": "Hindu Kush, Chitral",
+        "d": "None of these"
+      },
+      "one_liner": "The Hispar Glacier is found in the **Karakoram mountains of Gilgit-Baltistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

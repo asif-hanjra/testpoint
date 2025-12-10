@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which river is referred to as the 'Nile of Pakistan'?",
+      "options": {
+        "a": "Indus River",
+        "b": "Jhelum River",
+        "c": "Ravi River",
+        "d": "Chenab River"
+      },
+      "one_liner": "The Indus River is famously known as the **Nile of Pakistan** due to its vital role in the country's agriculture and civilization.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

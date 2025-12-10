@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Timur, the paternal ancestor of the Mughals, died in which year?",
+      "options": {
+        "a": "1227",
+        "b": "1404",
+        "c": "1500",
+        "d": "1605"
+      },
+      "one_liner": "Timur, the paternal ancestor of the Mughals, died in **1404**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Alexander’s Invasion",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

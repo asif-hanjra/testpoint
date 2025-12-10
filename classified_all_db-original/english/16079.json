@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'defeat':",
+      "options": {
+        "a": "victory",
+        "b": "loss",
+        "c": "failure",
+        "d": "downfall"
+      },
+      "one_liner": "The opposite of 'defeat' is 'victory', which signifies winning or success.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

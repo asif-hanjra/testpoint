@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The plural of sheep ___ sheep.",
+      "options": {
+        "a": "at",
+        "b": "is",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "The plural of sheep 'is' sheep.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

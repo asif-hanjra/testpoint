@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "MAIN : PRIMARY :: LABOR : ________?",
+      "options": {
+        "a": "Rest",
+        "b": "Work",
+        "c": "Play",
+        "d": "Break"
+      },
+      "one_liner": "Main is a synonym for primary, just as labor is a synonym for work.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

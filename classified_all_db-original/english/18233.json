@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'antithesis':",
+      "options": {
+        "a": "similarity",
+        "b": "contrary",
+        "c": "agreement",
+        "d": "concord"
+      },
+      "one_liner": "'Antithesis' means direct opposite, so 'contrary' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

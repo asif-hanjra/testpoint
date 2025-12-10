@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'onus':",
+      "options": {
+        "a": "freedom",
+        "b": "obligation",
+        "c": "advantage",
+        "d": "right"
+      },
+      "one_liner": "'Onus' refers to a burden or responsibility, similar to 'obligation'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

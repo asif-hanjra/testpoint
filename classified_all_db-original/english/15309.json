@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'compress':",
+      "options": {
+        "a": "expand",
+        "b": "condense",
+        "c": "enlarge",
+        "d": "stretch"
+      },
+      "one_liner": "'Compress' means to press together or reduce in size, similar to 'condense'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

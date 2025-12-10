@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does it mean to learn something 'by heart'?",
+      "options": {
+        "a": "To learn it with great emotion",
+        "b": "To memorize it completely",
+        "c": "To understand it deeply",
+        "d": "To learn it reluctantly"
+      },
+      "one_liner": "Learning something 'by heart' means to memorize it so well that it can be recited without thinking.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

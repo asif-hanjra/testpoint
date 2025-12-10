@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which small town in Sindh is famous for its Fish Harbour?",
+      "options": {
+        "a": "Keti Bunder",
+        "b": "Sukkur",
+        "c": "Larkana",
+        "d": "Hyderabad"
+      },
+      "one_liner": "Keti Bunder is a small town in Sindh that is well-known for its Fish Harbour.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Arabian Sea",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

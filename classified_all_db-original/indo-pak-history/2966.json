@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Partition of Bengal annulled?",
+      "options": {
+        "a": "1905",
+        "b": "1911",
+        "c": "1947",
+        "d": "1935"
+      },
+      "one_liner": "The Partition of Bengal, which had caused significant unrest, was annulled in **1911**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Calcutta to Delhi Shift / Annulment of Partition (1911)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Calcutta to Delhi Shift / Annulment of Partition (1911)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

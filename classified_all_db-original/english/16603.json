@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ask':",
+      "options": {
+        "a": "answer",
+        "b": "inquire",
+        "c": "question",
+        "d": "speak"
+      },
+      "one_liner": "The opposite of 'ask' is 'answer', as one involves requesting information while the other involves providing it.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'intrepid':",
+      "options": {
+        "a": "timid",
+        "b": "brave",
+        "c": "hesitant",
+        "d": "cowardly"
+      },
+      "one_liner": "'Intrepid' means fearless or adventurous, similar to 'brave'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of Babur's autobiography?",
+      "options": {
+        "a": "Ain-i-Akbari",
+        "b": "Baburnama",
+        "c": "Akbarnama",
+        "d": "Tuzk-e-Jahangiri"
+      },
+      "one_liner": "Babur wrote his famous autobiography known as **Baburnama** or **Tuzk-e-Babri**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

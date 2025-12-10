@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Nazare is a beach located in which country?",
+      "options": {
+        "a": "Spain",
+        "b": "Italy",
+        "c": "Portugal",
+        "d": "France"
+      },
+      "one_liner": "Nazare is a famous beach situated in **Portugal**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

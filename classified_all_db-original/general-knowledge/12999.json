@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the diameter of a standard table tennis ball?",
+      "options": {
+        "a": "38 mm",
+        "b": "40 mm",
+        "c": "42 mm",
+        "d": "None of these"
+      },
+      "one_liner": "The diameter of a standard table tennis ball is **40 mm**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

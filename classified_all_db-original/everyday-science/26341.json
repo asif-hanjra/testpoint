@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of turbines in a hydroelectric power plant?",
+      "options": {
+        "a": "Store water",
+        "b": "Move generators to produce electricity",
+        "c": "Heat water",
+        "d": "Absorb sunlight"
+      },
+      "one_liner": "The main function of turbines in a hydroelectric power plant is to **move generators to produce electricity**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

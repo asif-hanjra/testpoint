@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deposition':",
+      "options": {
+        "a": "withdrawal",
+        "b": "testimony",
+        "c": "ascension",
+        "d": "retraction"
+      },
+      "one_liner": "'Deposition' refers to the process of depositing something or giving sworn evidence, similar to 'testimony' in a legal context.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

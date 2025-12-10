@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quit':",
+      "options": {
+        "a": "desist:persevere",
+        "b": "cease:continue",
+        "c": "abandon:persist",
+        "d": "resign:endure"
+      },
+      "one_liner": "'Desist' is a synonym of 'quit', while 'persevere' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

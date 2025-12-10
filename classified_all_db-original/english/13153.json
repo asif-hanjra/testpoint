@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bashful':",
+      "options": {
+        "a": "shy:extroverted",
+        "b": "timid:confident",
+        "c": "reserved:outgoing",
+        "d": "reticent:brazen"
+      },
+      "one_liner": "'Shy' is a synonym of 'bashful', while 'extroverted' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

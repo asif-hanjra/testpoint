@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "At what age does an adult typically reach their full height?",
+      "options": {
+        "a": "Teens",
+        "b": "20s",
+        "c": "30s",
+        "d": "40s"
+      },
+      "one_liner": "Most adults reach their full height in their **20s**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

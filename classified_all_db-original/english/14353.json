@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impatient':",
+      "options": {
+        "a": "anxious:composed",
+        "b": "restless:relaxed",
+        "c": "eager:calm",
+        "d": "hasty:patient"
+      },
+      "one_liner": "'Anxious' is a synonym of 'impatient', while 'composed' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

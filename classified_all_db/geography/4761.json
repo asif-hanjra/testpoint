@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are the Petronas Towers located?",
+      "options": {
+        "a": "Bangkok",
+        "b": "Jakarta",
+        "c": "Kuala Lumpur",
+        "d": "Singapore"
+      },
+      "one_liner": "The famous Petronas Towers are located in **Kuala Lumpur**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

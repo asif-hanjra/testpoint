@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal is present in photo films?",
+      "options": {
+        "a": "Gold",
+        "b": "Silver",
+        "c": "Copper",
+        "d": "Iron"
+      },
+      "one_liner": "Photo films contain the metal **silver** as a key component.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

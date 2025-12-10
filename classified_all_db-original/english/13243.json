@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'manoeuvre':",
+      "options": {
+        "a": "freeze",
+        "b": "advance",
+        "c": "navigate",
+        "d": "execute"
+      },
+      "one_liner": "The antonym of 'manoeuvre', which involves careful planning, would be 'freeze', indicating a lack of movement or action.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

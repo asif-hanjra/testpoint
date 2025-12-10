@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dwarf':",
+      "options": {
+        "a": "tiny",
+        "b": "short",
+        "c": "giant",
+        "d": "small"
+      },
+      "one_liner": "The antonym of 'dwarf' is 'giant', indicating something much larger than usual.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

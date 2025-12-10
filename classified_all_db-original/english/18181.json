@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gouge':",
+      "options": {
+        "a": "flatten",
+        "b": "excavate",
+        "c": "fill",
+        "d": "smooth"
+      },
+      "one_liner": "'Gouge' means to scoop or dig out, so 'excavate' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

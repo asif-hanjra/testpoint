@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the scientific study of birds called?",
+      "options": {
+        "a": "Entomology",
+        "b": "Ornithology",
+        "c": "Ichthyology",
+        "d": "Herpetology"
+      },
+      "one_liner": "The scientific study of birds is known as **Ornithology**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

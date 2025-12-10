@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which geographical features border Eastern Europe?",
+      "options": {
+        "a": "Black Sea, Caucasus Mountains, Western Europe",
+        "b": "Mediterranean Sea, Alps, Western Europe",
+        "c": "Baltic Sea, Ural Mountains, Northern Europe",
+        "d": "None of these"
+      },
+      "one_liner": "Eastern Europe is historically situated between the **Black Sea**, the **Caucasus Mountains**, and **Western Europe**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

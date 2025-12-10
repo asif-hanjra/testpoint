@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sociable':",
+      "options": {
+        "a": "reclusive",
+        "b": "gregarious",
+        "c": "introverted",
+        "d": "antisocial"
+      },
+      "one_liner": "'Sociable' refers to someone who is friendly and enjoys being in company, similar to 'gregarious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

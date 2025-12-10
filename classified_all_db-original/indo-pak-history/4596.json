@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the state of politico-military tension between the US and Russia after World War II called?",
+      "options": {
+        "a": "World War I",
+        "b": "The Great Game",
+        "c": "Cold War",
+        "d": "None of these"
+      },
+      "one_liner": "The period of politico-military tension between the US and Russia after World War II is known as the **Cold War**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

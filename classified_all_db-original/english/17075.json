@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The monkey jumped ___ the wall to get to the other side.",
+      "options": {
+        "a": "on",
+        "b": "over",
+        "c": "under",
+        "d": "across"
+      },
+      "one_liner": "The monkey jumped 'over' the wall to get to the other side.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

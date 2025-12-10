@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'migrant':",
+      "options": {
+        "a": "traveler",
+        "b": "nomad",
+        "c": "resident",
+        "d": "wanderer"
+      },
+      "one_liner": "The opposite of a 'migrant', who moves around, would be a 'resident', who stays in one place.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

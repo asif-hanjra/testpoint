@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'migrant':",
+      "options": {
+        "a": "emigrant:settler",
+        "b": "immigrant:native",
+        "c": "traveler:resident",
+        "d": "nomad:local"
+      },
+      "one_liner": "'Emigrant' is a synonym of 'migrant', while 'settler' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conscript':",
+      "options": {
+        "a": "volunteer",
+        "b": "draftee",
+        "c": "professional",
+        "d": "mercenary"
+      },
+      "one_liner": "'Conscript' refers to someone who is drafted into military service, similar to a 'draftee'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are solar panels mostly used for?",
+      "options": {
+        "a": "Producing wind energy",
+        "b": "Heating water",
+        "c": "Running turbines",
+        "d": "Generating tidal power"
+      },
+      "one_liner": "Solar panels are mostly used in **solar water heating systems**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

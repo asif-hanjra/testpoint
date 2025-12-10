@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'withhold':",
+      "options": {
+        "a": "dispense",
+        "b": "retain",
+        "c": "distribute",
+        "d": "release"
+      },
+      "one_liner": "'Withhold' means to hold back or refuse to give—words like 'reserve' and 'retain' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

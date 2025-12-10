@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mend':",
+      "options": {
+        "a": "heal:break",
+        "b": "repair:improve",
+        "c": "restore:destroy",
+        "d": "fix:heal"
+      },
+      "one_liner": "'Heal' is a synonym of 'mend', while 'break' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

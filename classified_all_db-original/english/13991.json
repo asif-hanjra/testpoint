@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mundane':",
+      "options": {
+        "a": "common",
+        "b": "extraordinary",
+        "c": "normal",
+        "d": "familiar"
+      },
+      "one_liner": "An antonym of 'mundane' is 'extraordinary', which means beyond the ordinary or exceptional.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

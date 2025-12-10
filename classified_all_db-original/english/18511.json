@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prior':",
+      "options": {
+        "a": "previous",
+        "b": "preceding",
+        "c": "subsequent",
+        "d": "before"
+      },
+      "one_liner": "The antonym of 'prior' is 'subsequent', which refers to coming after in time.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

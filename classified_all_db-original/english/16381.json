@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'molt':",
+      "options": {
+        "a": "grow",
+        "b": "shed",
+        "c": "maintain",
+        "d": "expand"
+      },
+      "one_liner": "'Molt' refers to the shedding of old feathers, hair, or skin to make way for new growth, similar to 'shed'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

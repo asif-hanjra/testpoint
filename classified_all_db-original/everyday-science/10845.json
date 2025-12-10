@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which fibre is least prone to catch fire?",
+      "options": {
+        "a": "Cotton",
+        "b": "Nylon",
+        "c": "Polyester",
+        "d": "Silk"
+      },
+      "one_liner": "Among various fibres, **cotton** is considered the least prone to catching fire.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

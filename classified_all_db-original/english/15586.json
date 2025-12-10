@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She has been in Faisalabad ___ 1995.",
+      "options": {
+        "a": "for",
+        "b": "since",
+        "c": "from",
+        "d": "at"
+      },
+      "one_liner": "She has been in Faisalabad 'since' 1995.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

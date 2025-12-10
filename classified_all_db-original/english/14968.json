@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Health is preferable ___ riches.",
+      "options": {
+        "a": "than",
+        "b": "to",
+        "c": "over",
+        "d": "from"
+      },
+      "one_liner": "Health is preferable 'to' riches.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

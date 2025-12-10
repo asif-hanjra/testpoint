@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the first constitution of Pakistan promulgated?",
+      "options": {
+        "a": "14th August 1947",
+        "b": "23rd March 1956",
+        "c": "8th June 1962",
+        "d": "None of these"
+      },
+      "one_liner": "The first constitution of Pakistan was promulgated on **23rd March 1956**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "1956 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which blood vessels are the tiniest in the human body and act as a transition link between arteries and veins?",
+      "options": {
+        "a": "Arteries",
+        "b": "Veins",
+        "c": "Capillaries",
+        "d": "None of these"
+      },
+      "one_liner": "Capillaries are the **tiniest blood vessels in the body and serve as a transition link between arteries and veins**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

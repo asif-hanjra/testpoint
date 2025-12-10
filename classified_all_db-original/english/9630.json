@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "How many books does she study?",
+      "options": {
+        "a": "How many books are studied by her?",
+        "b": "How many books were studied by her?",
+        "c": "How many books should be studied by her?",
+        "d": "How many books will be studied by her?"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

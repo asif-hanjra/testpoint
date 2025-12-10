@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'attentive':",
+      "options": {
+        "a": "negligent",
+        "b": "observant",
+        "c": "indifferent",
+        "d": "unaware"
+      },
+      "one_liner": "'Attentive' means paying close attention to something—words like 'observant' and 'alert' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

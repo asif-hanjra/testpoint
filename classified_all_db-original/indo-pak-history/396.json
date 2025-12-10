@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who built the Badshahi Mosque in Lahore?",
+      "options": {
+        "a": "Akbar",
+        "b": "Aurangzeb",
+        "c": "Shah Jahan",
+        "d": "Jahangir"
+      },
+      "one_liner": "The Badshahi Mosque in Lahore was constructed by **Aurangzeb**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

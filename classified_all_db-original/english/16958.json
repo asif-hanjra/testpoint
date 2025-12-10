@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'artificial':",
+      "options": {
+        "a": "synthetic",
+        "b": "natural",
+        "c": "fabricated",
+        "d": "fictitious"
+      },
+      "one_liner": "The antonym of 'artificial' is 'natural', which means existing in or derived from nature; not made or caused by humankind.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

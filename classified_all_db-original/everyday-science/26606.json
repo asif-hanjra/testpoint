@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is the most abundant in the universe?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Carbon",
+        "c": "Hydrogen",
+        "d": "Helium"
+      },
+      "one_liner": "Hydrogen is considered the **most abundant element in the universe**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'omniscient':",
+      "options": {
+        "a": "informed:uninformed",
+        "b": "all-knowing:unaware",
+        "c": "knowledgeable:ignorant",
+        "d": "aware:unknowing"
+      },
+      "one_liner": "'All-knowing' is a synonym of 'omniscient', while 'unaware' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

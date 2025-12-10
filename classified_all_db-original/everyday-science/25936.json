@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the science of treatment of the muscular and skeletal system called?",
+      "options": {
+        "a": "Cardiology",
+        "b": "Orthopedics",
+        "c": "Neurology",
+        "d": "Dermatology"
+      },
+      "one_liner": "The science that deals with the treatment of the muscular and skeletal system is known as **orthopedics**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

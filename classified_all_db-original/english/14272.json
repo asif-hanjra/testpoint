@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'joyfully' in the sentence 'She danced joyfully at the party'?",
+      "options": {
+        "a": "Verb",
+        "b": "Adjective",
+        "c": "Adverb",
+        "d": "Noun"
+      },
+      "one_liner": "In the sentence 'She danced joyfully at the party', the word 'joyfully' is an adverb because it modifies the verb 'danced'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

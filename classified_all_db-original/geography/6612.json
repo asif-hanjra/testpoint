@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Kam Shrine located?",
+      "options": {
+        "a": "Tokyo, Japan",
+        "b": "Kyoto, Japan",
+        "c": "Osaka, Japan",
+        "d": "None of these"
+      },
+      "one_liner": "The Kam Shrine is located in **Kyoto, Japan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

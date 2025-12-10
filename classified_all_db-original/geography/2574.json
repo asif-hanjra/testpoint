@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which town is located in Gilgit Valley?",
+      "options": {
+        "a": "Gilgit",
+        "b": "Skardu",
+        "c": "Hunza",
+        "d": "Bagh"
+      },
+      "one_liner": "The town of **Gilgit** is located in Gilgit Valley.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

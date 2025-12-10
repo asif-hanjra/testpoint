@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fidget':",
+      "options": {
+        "a": "twitch:settle",
+        "b": "wriggle:steady",
+        "c": "jitter:relax",
+        "d": "squirm:calm"
+      },
+      "one_liner": "'Twitch' is a synonym of 'fidget', while 'settle' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

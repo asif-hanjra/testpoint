@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'onomatopoeia':",
+      "options": {
+        "a": "alliteration",
+        "b": "echoic",
+        "c": "metaphor",
+        "d": "simile"
+      },
+      "one_liner": "'Onomatopoeia' refers to words that imitate sounds, much like 'echoic' does.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

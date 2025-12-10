@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many pairs of ribs are present in the human body?",
+      "options": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "14"
+      },
+      "one_liner": "The human body contains a total of **12 pairs of ribs**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

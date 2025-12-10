@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prodigal':",
+      "options": {
+        "a": "lavish",
+        "b": "generous",
+        "c": "thrifty",
+        "d": "spendthrift"
+      },
+      "one_liner": "An antonym of 'prodigal' is 'thrifty', which means being careful with money.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

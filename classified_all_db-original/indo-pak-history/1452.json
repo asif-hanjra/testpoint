@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are the famous books of Sheikh Abdul Qadir Jilani?",
+      "options": {
+        "a": "Ghuniyat Attalibeen and Fatoohul Ghaib",
+        "b": "Kashf-ul-Mahjub and Fatoohul Ghaib",
+        "c": "Ghuniyat Attalibeen and Tazkira-e-Auliya",
+        "d": "None of these"
+      },
+      "one_liner": "Sheikh Abdul Qadir Jilani is renowned for his famous books, namely **Ghuniyat Attalibeen** and **Fatoohul Ghaib**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

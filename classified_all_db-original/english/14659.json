@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fervid':",
+      "options": {
+        "a": "lukewarm",
+        "b": "zealous",
+        "c": "fiery",
+        "d": "eager"
+      },
+      "one_liner": "The word 'fervid' suggests intense passion, making 'lukewarm' an appropriate antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

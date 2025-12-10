@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is responsible for the yellow colour of urine?",
+      "options": {
+        "a": "Urochrome",
+        "b": "Hemoglobin",
+        "c": "Chlorophyll",
+        "d": "Bilirubin"
+      },
+      "one_liner": "The yellow colour of urine is due to the presence of **urochrome**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

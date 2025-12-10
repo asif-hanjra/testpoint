@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'moderate':",
+      "options": {
+        "a": "balanced",
+        "b": "mild",
+        "c": "extreme",
+        "d": "fair"
+      },
+      "one_liner": "Antonyms of 'moderate' include 'extreme' and 'excessive', both implying a high degree or intensity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

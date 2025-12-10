@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'imprimatur':",
+      "options": {
+        "a": "rejection",
+        "b": "sanction",
+        "c": "disapproval",
+        "d": "veto"
+      },
+      "one_liner": "'Imprimatur' signifies official approval, similar to 'sanction' or 'endorsement'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

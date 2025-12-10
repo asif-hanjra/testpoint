@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Tahir is going ___ have the mechanic fix his car.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "Tahir is going 'to' have the mechanic fix his car.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

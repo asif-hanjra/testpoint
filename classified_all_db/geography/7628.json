@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which line of latitude is found north of the Equator and is significant for marking the northern boundary of the Earth's tropical zone?",
+      "options": {
+        "a": "Tropic of Capricorn",
+        "b": "Tropic of Cancer",
+        "c": "Antarctic Circle",
+        "d": "Prime Meridian"
+      },
+      "one_liner": "The **Tropic of Cancer** is the line of latitude located north of the Equator, marking the northern edge of the Earth's tropical region.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "CONGEAL : SOLIDIFY :: CHAR : ________?",
+      "options": {
+        "a": "Melt",
+        "b": "Freeze",
+        "c": "Singe",
+        "d": "Burn"
+      },
+      "one_liner": "Congeal is a synonym for solidify, just as char is a synonym for singe.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

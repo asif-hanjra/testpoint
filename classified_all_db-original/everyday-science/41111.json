@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which gas mixture is required in gas welding?",
+      "options": {
+        "a": "Hydrogen and oxygen",
+        "b": "Acetylene and oxygen",
+        "c": "Nitrogen and oxygen",
+        "d": "None of these"
+      },
+      "one_liner": "Gas welding requires a mixture of **acetylene and oxygen** to produce the high temperatures needed for welding metals.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

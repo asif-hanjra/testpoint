@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'regular':",
+      "options": {
+        "a": "extraordinary",
+        "b": "standard",
+        "c": "peculiar",
+        "d": "uncommon"
+      },
+      "one_liner": "'Regular' means consistent or normal, similar to 'ordinary' and 'standard'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

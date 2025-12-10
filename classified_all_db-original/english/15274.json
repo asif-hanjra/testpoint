@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exactness':",
+      "options": {
+        "a": "accuracy",
+        "b": "precision",
+        "c": "inaccuracy",
+        "d": "exactitude"
+      },
+      "one_liner": "An antonym for 'exactness' is 'inaccuracy', which denotes a lack of precision.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

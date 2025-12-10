@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'levy':",
+      "options": {
+        "a": "impose",
+        "b": "initiate",
+        "c": "abolish",
+        "d": "enforce"
+      },
+      "one_liner": "Antonyms of 'levy' include 'repeal' and 'abolish', both implying the removal or end of a charge or tax.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

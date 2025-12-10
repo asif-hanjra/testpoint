@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two regions are connected by the Lowari Pass?",
+      "options": {
+        "a": "Dir and Chitral",
+        "b": "Swat and Gilgit",
+        "c": "Abbottabad and Hunza",
+        "d": "None of these"
+      },
+      "one_liner": "Lowari Pass serves as a vital link between **Dir** and **Chitral** in Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

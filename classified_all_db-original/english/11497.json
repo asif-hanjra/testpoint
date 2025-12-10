@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "CUSHION : SOFA :: SHELF : ________?",
+      "options": {
+        "a": "Table",
+        "b": "Bookcase",
+        "c": "Chair",
+        "d": "Desk"
+      },
+      "one_liner": "A cushion is found on a sofa, just as a shelf is found in a bookcase.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

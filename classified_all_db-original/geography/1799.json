@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mountain range is situated between the Hindu Kush and Karakoram ranges?",
+      "options": {
+        "a": "Himalayas",
+        "b": "Hindu Raj",
+        "c": "Safed Koh",
+        "d": "Waziristan Hills"
+      },
+      "one_liner": "The **Hindu Raj** mountain range is situated between the Hindu Kush and Karakoram ranges.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

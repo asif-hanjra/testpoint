@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'kill two birds with one stone' mean?",
+      "options": {
+        "a": "To cause trouble",
+        "b": "To do something harmful",
+        "c": "To achieve two goals with a single action",
+        "d": "To fail at an attempt"
+      },
+      "one_liner": "The idiom 'kill two birds with one stone' means to achieve two objectives with just one action or effort.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

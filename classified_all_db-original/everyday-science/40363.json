@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of veins in the circulatory system?",
+      "options": {
+        "a": "Carry oxygenated blood to organs",
+        "b": "Transport deoxygenated blood to the heart",
+        "c": "Transfer nutrients to tissues",
+        "d": "None of these"
+      },
+      "one_liner": "Veins are blood vessels that **transport deoxygenated blood from the organs to the heart** so it can be re-oxygenated.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

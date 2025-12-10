@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ravage':",
+      "options": {
+        "a": "repair",
+        "b": "devastate",
+        "c": "build",
+        "d": "improve"
+      },
+      "one_liner": "'Ravage' means to cause severe and extensive damage to something, similar to 'devastate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

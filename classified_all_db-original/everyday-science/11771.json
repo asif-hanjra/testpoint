@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the average weight of the human heart?",
+      "options": {
+        "a": "200 g",
+        "b": "250 g",
+        "c": "300 g",
+        "d": "350 g"
+      },
+      "one_liner": "The average weight of the human heart is approximately **300 grams**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

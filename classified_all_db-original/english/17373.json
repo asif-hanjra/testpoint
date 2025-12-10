@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'candid':",
+      "options": {
+        "a": "deceitful",
+        "b": "truthful",
+        "c": "transparent",
+        "d": "sincere"
+      },
+      "one_liner": "The antonym of 'candid' is 'deceitful', which means dishonest or misleading.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

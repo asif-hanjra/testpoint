@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'caprice':",
+      "options": {
+        "a": "constancy",
+        "b": "impulse",
+        "c": "fickleness",
+        "d": "whimsicality"
+      },
+      "one_liner": "The antonym of 'caprice' is 'constancy', which signifies steadiness and lack of change.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

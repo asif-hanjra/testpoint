@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is suffering ___ cancer.",
+      "options": {
+        "a": "of",
+        "b": "from",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "He is suffering 'from' cancer.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

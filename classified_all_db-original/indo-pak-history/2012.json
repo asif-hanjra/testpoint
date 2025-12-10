@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What legislative power did Indians demand regarding the Adjournment Bill?",
+      "options": {
+        "a": "Right to vote only",
+        "b": "Power to present Adjournment Bill",
+        "c": "Power to dissolve assembly",
+        "d": "None of these"
+      },
+      "one_liner": "Indians demanded that they should be **granted the power to present the Adjournment Bill**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

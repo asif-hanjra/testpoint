@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'modicum':",
+      "options": {
+        "a": "scarcity",
+        "b": "deficiency",
+        "c": "abundance",
+        "d": "shortage"
+      },
+      "one_liner": "An antonym of 'modicum' is 'abundance', which means a large quantity as opposed to a small one.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

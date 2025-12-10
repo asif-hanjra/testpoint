@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The Romans triumphed ___ the Greeks.",
+      "options": {
+        "a": "on",
+        "b": "over",
+        "c": "against",
+        "d": "with"
+      },
+      "one_liner": "The Romans triumphed 'over' the Greeks.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

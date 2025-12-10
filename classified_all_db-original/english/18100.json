@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'earnest':",
+      "options": {
+        "a": "frivolous",
+        "b": "sincere",
+        "c": "joking",
+        "d": "playful"
+      },
+      "one_liner": "'Earnest' describes someone who is sincere and serious, much like 'sincere' itself.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

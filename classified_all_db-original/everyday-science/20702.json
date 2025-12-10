@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is correct? n produces nothing, n produces 2n, 2n produces 2n, n produces n",
+      "options": {
+        "a": "n produces nothing",
+        "b": "n produces 2n",
+        "c": "2n produces 2n",
+        "d": "n produces n"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

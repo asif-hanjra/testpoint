@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'indigent':",
+      "options": {
+        "a": "wealthy",
+        "b": "impoverished",
+        "c": "affluent",
+        "d": "prosperous"
+      },
+      "one_liner": "'Indigent' refers to someone who is very poor, similar to 'impoverished'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

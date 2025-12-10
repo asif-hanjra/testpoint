@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Baba Farid, also known as Farid-ud-Din Masood Ganjshakar, born?",
+      "options": {
+        "a": "Kothewal village, Multan",
+        "b": "Ajmer",
+        "c": "Delhi",
+        "d": "Lahore"
+      },
+      "one_liner": "Baba Farid, whose full name is Farid-ud-Din Masood Ganjshakar, was born in **Kothewal village, Multan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

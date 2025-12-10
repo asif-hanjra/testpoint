@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Until which war did the Marathas remain in power before losing to the East India Company?",
+      "options": {
+        "a": "First Anglo-Maratha War",
+        "b": "Second Anglo-Maratha War",
+        "c": "Third Anglo-Maratha War",
+        "d": "Battle of Plassey"
+      },
+      "one_liner": "The Marathas remained in power until their defeat in the **Third Anglo-Maratha War**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

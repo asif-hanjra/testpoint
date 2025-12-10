@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main objective of OPEC?",
+      "options": {
+        "a": "To co-ordinate and unify petroleum policies among Member Countries",
+        "b": "To regulate gold prices",
+        "c": "To promote tourism",
+        "d": "None of these"
+      },
+      "one_liner": "The main objective of OPEC is to **co-ordinate and unify petroleum policies among Member Countries**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

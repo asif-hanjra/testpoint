@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mollify':",
+      "options": {
+        "a": "placate:provoke",
+        "b": "soothe:calm",
+        "c": "appease:anger",
+        "d": "pacify:agitate"
+      },
+      "one_liner": "'Placate' is a synonym of 'mollify', while 'provoke' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

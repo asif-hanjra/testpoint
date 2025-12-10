@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'chubby':",
+      "options": {
+        "a": "slim",
+        "b": "bulky",
+        "c": "heavy",
+        "d": "stout"
+      },
+      "one_liner": "An antonym of 'chubby' is 'slim', which means not fat or thick.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

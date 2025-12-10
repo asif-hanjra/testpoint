@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'monotonous':",
+      "options": {
+        "a": "boring",
+        "b": "repetitive",
+        "c": "diverse",
+        "d": "dull"
+      },
+      "one_liner": "The word 'monotonous' implies a lack of variety, making 'diverse' its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

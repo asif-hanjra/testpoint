@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dainty':",
+      "options": {
+        "a": "delicate:coarse",
+        "b": "fragile:sturdy",
+        "c": "elegant:awkward",
+        "d": "refined:clumsy"
+      },
+      "one_liner": "'Delicate' is a synonym of 'dainty', while 'coarse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

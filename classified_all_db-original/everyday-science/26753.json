@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of the flower develops into a fruit after fertilization?",
+      "options": {
+        "a": "Ovary",
+        "b": "Stigma",
+        "c": "Petal",
+        "d": "Anther"
+      },
+      "one_liner": "After fertilization, the fruit develops from the **ovary** of the flower.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

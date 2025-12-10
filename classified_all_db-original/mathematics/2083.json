@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If  𝑎 𝑏 𝑐 = 𝑎^2   and  𝑎 𝑐 = 2 , what is the value of b?",
+      "options": {
+        "a": "a ^2",
+        "b": "𝑎^2 /2",
+        "c": "2/ 𝑎^2",
+        "d": "2a"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

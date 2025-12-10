@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'thaw':",
+      "options": {
+        "a": "freeze",
+        "b": "harden",
+        "c": "unfreeze",
+        "d": "cool"
+      },
+      "one_liner": "'Thaw' means to melt or soften from cold, similar to 'unfreeze'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

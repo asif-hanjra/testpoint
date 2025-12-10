@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'indolent':",
+      "options": {
+        "a": "lethargic:active",
+        "b": "slothful:energetic",
+        "c": "idle:industrious",
+        "d": "lazy:diligent"
+      },
+      "one_liner": "'Lethargic' is a synonym of 'indolent', while 'active' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

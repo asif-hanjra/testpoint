@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'shunt':",
+      "options": {
+        "a": "divert:merge",
+        "b": "reroute:align",
+        "c": "redirect:converge",
+        "d": "eject:join"
+      },
+      "one_liner": "'Divert' is a synonym of 'shunt', while 'merge' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

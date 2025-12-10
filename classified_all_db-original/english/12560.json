@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'facsimile':",
+      "options": {
+        "a": "duplicate",
+        "b": "replica",
+        "c": "original",
+        "d": "imitation"
+      },
+      "one_liner": "An antonym of 'facsimile' is 'original', which refers to the first or authentic version.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'austere':",
+      "options": {
+        "a": "lenient",
+        "b": "harsh",
+        "c": "indulgent",
+        "d": "gentle"
+      },
+      "one_liner": "'Austere' means severe or strict in manner—words like 'stern' and 'harsh' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

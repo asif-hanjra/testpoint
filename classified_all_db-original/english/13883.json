@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'extensive':",
+      "options": {
+        "a": "limited",
+        "b": "comprehensive",
+        "c": "narrow",
+        "d": "insignificant"
+      },
+      "one_liner": "'Extensive' means large in amount or scale—words like 'comprehensive' and 'expansive' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

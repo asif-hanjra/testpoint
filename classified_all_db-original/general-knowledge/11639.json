@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which years did Dwight D. Eisenhower serve as president of the United States?",
+      "options": {
+        "a": "1945-1953",
+        "b": "1953-1961",
+        "c": "1961-1969",
+        "d": "1950-1958"
+      },
+      "one_liner": "Dwight D. Eisenhower was president of the United States from **1953 to 1961**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

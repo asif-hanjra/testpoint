@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many legs do all arachnids, such as spiders, possess?",
+      "options": {
+        "a": "Six",
+        "b": "Eight",
+        "c": "Ten",
+        "d": "Twelve"
+      },
+      "one_liner": "A defining feature of arachnids, including spiders, is that they all have **eight legs**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

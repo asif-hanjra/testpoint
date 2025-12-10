@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the biggest library in the world?",
+      "options": {
+        "a": "British Library (UK)",
+        "b": "Library of Congress (USA)",
+        "c": "National Library of China",
+        "d": "Russian State Library"
+      },
+      "one_liner": "The largest library in the world is the **Library of Congress (USA)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

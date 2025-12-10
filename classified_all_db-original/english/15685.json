@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Let’s see which way ___ wind blows.",
+      "options": {
+        "a": "in",
+        "b": "the",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "Let’s see which way 'the' wind blows.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

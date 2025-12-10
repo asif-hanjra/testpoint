@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'odorous':",
+      "options": {
+        "a": "scented:unscented",
+        "b": "flavorful:tasteless",
+        "c": "loud:quiet",
+        "d": "bright:dim"
+      },
+      "one_liner": "'Scented' is a synonym of 'odorous', while 'unscented' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct preposition to complete the sentence: We had ___ our dinner when it started raining last night.",
+      "options": {
+        "a": "in",
+        "b": "had",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "We 'had' our dinner when it started raining last night.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

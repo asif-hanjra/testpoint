@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of tree's wood is commonly used for making cricket bats?",
+      "options": {
+        "a": "Oak",
+        "b": "Willow",
+        "c": "Pine",
+        "d": "Teak"
+      },
+      "one_liner": "The wood from the **Willow** tree is widely used in the manufacturing of cricket bats.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

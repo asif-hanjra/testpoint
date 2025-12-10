@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If f(x) = x³ - (1/x³), then f(x) + f(1/x) is equal to ____?",
+      "options": {
+        "a": "0",
+        "b": "2/x³",
+        "c": "2x³",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

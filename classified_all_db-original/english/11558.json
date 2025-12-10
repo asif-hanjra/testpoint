@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pledge':",
+      "options": {
+        "a": "commitment:faithfulness",
+        "b": "oath:betrayal",
+        "c": "promise:loyalty",
+        "d": "vow:devotion"
+      },
+      "one_liner": "'Oath' is a synonym of 'pledge', while 'betrayal' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

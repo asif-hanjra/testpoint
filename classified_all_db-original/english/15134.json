@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'slur':",
+      "options": {
+        "a": "articulate",
+        "b": "mumble",
+        "c": "shout",
+        "d": "whisper"
+      },
+      "one_liner": "'Slur' can mean to speak indistinctly, making it synonymous with 'mumble'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

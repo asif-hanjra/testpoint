@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'perish':",
+      "options": {
+        "a": "demise:thrive",
+        "b": "expire:endure",
+        "c": "decay:flourish",
+        "d": "wither:survive"
+      },
+      "one_liner": "'Demise' is a synonym for 'perish', while 'thrive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

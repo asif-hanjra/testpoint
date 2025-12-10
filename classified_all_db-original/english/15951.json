@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin abbreviation 'e.g.' (exempli gratia) stand for in English?",
+      "options": {
+        "a": "For example",
+        "b": "In other words",
+        "c": "That is to say",
+        "d": "And so forth"
+      },
+      "one_liner": "The abbreviation 'e.g.' stands for 'for example' and is used to introduce one or more examples.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

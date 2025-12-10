@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who abrogated the 1956 Constitution of Pakistan?",
+      "options": {
+        "a": "Iskandar Mirza",
+        "b": "Ayub Khan",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The 1956 Constitution of Pakistan was abrogated by **Iskandar Mirza**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "1956 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

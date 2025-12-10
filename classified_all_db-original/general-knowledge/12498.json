@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is not a member of the United Nations?",
+      "options": {
+        "a": "Vatican City",
+        "b": "France",
+        "c": "Japan",
+        "d": "Brazil"
+      },
+      "one_liner": "Among all countries, **Vatican City** is not a member of the United Nations.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

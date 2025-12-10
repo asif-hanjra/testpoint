@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did the Black Lives Matter (BLM) Movement originate?",
+      "options": {
+        "a": "United Kingdom",
+        "b": "South Africa",
+        "c": "United States",
+        "d": "Canada"
+      },
+      "one_liner": "The Black Lives Matter (BLM) Movement began in the **United States**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

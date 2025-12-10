@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which chemical is manufactured using the Solvay process?",
+      "options": {
+        "a": "Sodium Carbonate",
+        "b": "Calcium Chloride",
+        "c": "Potassium Nitrate",
+        "d": "Ammonium Sulphate"
+      },
+      "one_liner": "The Solvay process is specifically used for the industrial manufacture of **Sodium Carbonate**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

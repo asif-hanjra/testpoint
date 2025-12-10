@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obsolete':",
+      "options": {
+        "a": "ancient",
+        "b": "outdated",
+        "c": "modern",
+        "d": "old-fashioned"
+      },
+      "one_liner": "The antonym of 'obsolete' is 'modern', which means current and in use.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

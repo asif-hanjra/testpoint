@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'explicate':",
+      "options": {
+        "a": "obscure",
+        "b": "elucidate",
+        "c": "complicate",
+        "d": "muddle"
+      },
+      "one_liner": "'Explicate' means to explain or clarify something—words like 'elucidate' and 'clarify' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is known as the Earth's Twin?",
+      "options": {
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Jupiter",
+        "d": "None of these"
+      },
+      "one_liner": "Venus is commonly referred to as the Earth's Twin due to its similar size and composition to our planet, making **Venus** the correct answer.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

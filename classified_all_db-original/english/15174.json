@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'infer':",
+      "options": {
+        "a": "deduce",
+        "b": "acknowledge",
+        "c": "disregard",
+        "d": "consider"
+      },
+      "one_liner": "An antonym of 'infer' is 'disregard', which means to pay no attention to or ignore the information.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

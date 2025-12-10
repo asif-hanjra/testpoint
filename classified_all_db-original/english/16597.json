@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'pull a rabbit out of a hat' mean?",
+      "options": {
+        "a": "To perform a magic trick",
+        "b": "To do something unexpected that seems impossible",
+        "c": "To solve a problem by cheating",
+        "d": "To reveal a secret"
+      },
+      "one_liner": "The idiom 'pull a rabbit out of a hat' refers to doing something surprising and seemingly impossible, often solving a problem in a creative way.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens to the volume of water when it is heated from 0°C to 10°C?",
+      "options": {
+        "a": "It only increases",
+        "b": "It only decreases",
+        "c": "It first decreases then increases",
+        "d": "It remains constant"
+      },
+      "one_liner": "When water is heated from 0°C to 10°C, its volume first decreases and then increases due to the anomalous expansion of water, with the minimum volume at around **4°C**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

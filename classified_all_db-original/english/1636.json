@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: When will you buy a car?",
+      "options": {
+        "a": "When a car will be bought by you?",
+        "b": "When will be a car bought by you?",
+        "c": "When will a car be bought by you?",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

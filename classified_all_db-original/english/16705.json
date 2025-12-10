@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the phrase 'buying something on credit' mean?",
+      "options": {
+        "a": "Purchasing with immediate payment",
+        "b": "Purchasing with a promise to pay later",
+        "c": "Buying at a discounted price",
+        "d": "Buying something with cash"
+      },
+      "one_liner": "The phrase 'buying something on credit' means making a purchase with the promise to pay for it at a later date.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

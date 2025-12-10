@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hamper':",
+      "options": {
+        "a": "inhibit:promote",
+        "b": "encumber:assist",
+        "c": "hinder:expedite",
+        "d": "block:advance"
+      },
+      "one_liner": "'Inhibit' is a synonym of 'hamper', while 'promote' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

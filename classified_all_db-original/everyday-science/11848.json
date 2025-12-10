@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of infections do coronaviruses cause in humans and birds?",
+      "options": {
+        "a": "Digestive infections",
+        "b": "Respiratory tract infections",
+        "c": "Skin infections",
+        "d": "None of these"
+      },
+      "one_liner": "In both humans and birds, coronaviruses can lead to **respiratory tract infections**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

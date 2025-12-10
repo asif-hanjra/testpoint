@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is an example of the law of conservation of energy?",
+      "options": {
+        "a": "Electricity into coal",
+        "b": "Coal into electricity",
+        "c": "Water into coal",
+        "d": "None of these"
+      },
+      "one_liner": "A power plant converting chemical energy stored in coal into **electricity** is a practical example of the law of conservation of energy in action.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

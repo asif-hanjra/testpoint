@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'foster':",
+      "options": {
+        "a": "support:inhibit",
+        "b": "nurture:encourage",
+        "c": "promote:advance",
+        "d": "cultivate:develop"
+      },
+      "one_liner": "'Support' is a synonym of 'foster', while 'inhibit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

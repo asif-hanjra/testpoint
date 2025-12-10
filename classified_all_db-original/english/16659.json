@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'naughty':",
+      "options": {
+        "a": "impish:angelic",
+        "b": "rude:polite",
+        "c": "bad:good",
+        "d": "disobedient:obedient"
+      },
+      "one_liner": "'Impish' is a synonym of 'naughty', while 'angelic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

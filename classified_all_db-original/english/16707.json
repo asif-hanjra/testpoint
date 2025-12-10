@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'We will leave after lunch', what part of speech is 'after'?",
+      "options": {
+        "a": "Preposition",
+        "b": "Verb",
+        "c": "Conjunction",
+        "d": "Adjective"
+      },
+      "one_liner": "'After' is a preposition showing the relationship between 'leave' and 'lunch'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

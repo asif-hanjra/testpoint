@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'confine':",
+      "options": {
+        "a": "liberate",
+        "b": "enclose",
+        "c": "expand",
+        "d": "release"
+      },
+      "one_liner": "'Confine' means to restrict or limit, similar to 'enclose' or 'imprison'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

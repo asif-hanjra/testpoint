@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major river does not form a delta before falling into the sea?",
+      "options": {
+        "a": "Amazon River",
+        "b": "Nile River",
+        "c": "Ganges River",
+        "d": "Mississippi River"
+      },
+      "one_liner": "Unlike many other large rivers, the **Amazon River** does not form a delta before it empties into the sea.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which unit is an analog signal typically measured?",
+      "options": {
+        "a": "Volts",
+        "b": "Amperes",
+        "c": "Hertz",
+        "d": "Ohms"
+      },
+      "one_liner": "An analog signal is typically measured in **volts**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

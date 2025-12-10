@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gratitude':",
+      "options": {
+        "a": "indifference",
+        "b": "appreciation",
+        "c": "disregard",
+        "d": "neglect"
+      },
+      "one_liner": "'Gratitude' is a feeling of thankfulness, similar to 'appreciation' and 'thankfulness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

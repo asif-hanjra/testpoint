@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dormant':",
+      "options": {
+        "a": "active",
+        "b": "latent",
+        "c": "vibrant",
+        "d": "dynamic"
+      },
+      "one_liner": "'Dormant' refers to something inactive or in a state of rest, similar to 'latent' or 'quiescent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

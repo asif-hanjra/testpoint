@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who played a leading role in conducting Pakistan's first nuclear tests?",
+      "options": {
+        "a": "Dr. Samar Mubarakmand",
+        "b": "Dr. Abdul Salam",
+        "c": "Abdul Qadeer Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Abdul Qadeer Khan, with the help of other Pakistani scientists, played a leading role in conducting Pakistan's **first nuclear tests**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

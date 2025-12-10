@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pertinent':",
+      "options": {
+        "a": "appropriate:inappropriate",
+        "b": "relevant:extraneous",
+        "c": "suitable:unsuitable",
+        "d": "connected:disconnected"
+      },
+      "one_liner": "'Appropriate' is a synonym of 'pertinent', while 'inappropriate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

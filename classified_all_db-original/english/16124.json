@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pudgy':",
+      "options": {
+        "a": "plump",
+        "b": "bulky",
+        "c": "slim",
+        "d": "heavy"
+      },
+      "one_liner": "An antonym of 'pudgy' would be 'slim', which means not fat or thick.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

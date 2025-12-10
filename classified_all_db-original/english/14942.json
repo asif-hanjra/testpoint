@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "A dash tag ___ not a punctuation mark.",
+      "options": {
+        "a": "at",
+        "b": "is",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "A dash tag 'is' not a punctuation mark.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

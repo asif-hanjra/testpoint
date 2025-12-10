@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'et al.' commonly used in academic citations stand for?",
+      "options": {
+        "a": "And others",
+        "b": "And the rest",
+        "c": "And the leader",
+        "d": "And the following"
+      },
+      "one_liner": "The phrase 'et al.' is an abbreviation for 'et alii,' which means 'and others' and is used to refer to additional authors in scholarly articles.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

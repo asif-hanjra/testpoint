@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following mediums cannot transmit sound?",
+      "options": {
+        "a": "Air",
+        "b": "Water",
+        "c": "Vacuum",
+        "d": "Iron"
+      },
+      "one_liner": "Sound cannot travel through a **vacuum**, as it requires a material medium for transmission.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

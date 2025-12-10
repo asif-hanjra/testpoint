@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'insipid':",
+      "options": {
+        "a": "flavorful",
+        "b": "dull",
+        "c": "vapid",
+        "d": "flat"
+      },
+      "one_liner": "An antonym of 'insipid' is 'flavorful', which means full of flavor or taste.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

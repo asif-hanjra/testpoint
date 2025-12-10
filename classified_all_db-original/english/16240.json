@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "We have absolute trust ___ you.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "to"
+      },
+      "one_liner": "We have absolute trust 'in' you.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

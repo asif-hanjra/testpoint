@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'akin':",
+      "options": {
+        "a": "unrelated",
+        "b": "analogous",
+        "c": "dissimilar",
+        "d": "distinct"
+      },
+      "one_liner": "'Akin' means similar or related, so words like 'analogous' and 'comparable' are synonyms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wild':",
+      "options": {
+        "a": "domestic",
+        "b": "tame",
+        "c": "feral",
+        "d": "cultivated"
+      },
+      "one_liner": "'Wild' refers to something untamed or natural, similar to 'savage' or 'feral'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

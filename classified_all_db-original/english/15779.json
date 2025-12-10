@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'limpid':",
+      "options": {
+        "a": "transparent:opaque",
+        "b": "clear:murky",
+        "c": "lucid:cloudy",
+        "d": "crystal clear:transparent"
+      },
+      "one_liner": "'Transparent' is a synonym of 'limpid', while 'opaque' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

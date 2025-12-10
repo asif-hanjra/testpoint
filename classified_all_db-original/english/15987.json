@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "ORNITHOLOGY : BIRDS :: CRYPTOGRAPHY : ________?",
+      "options": {
+        "a": "Numbers",
+        "b": "Codes",
+        "c": "Languages",
+        "d": "Books"
+      },
+      "one_liner": "Ornithology is the study of birds, just as cryptography is the study of codes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

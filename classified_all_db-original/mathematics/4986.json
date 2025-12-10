@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The sum of the roots of a quadratic equation is 2 and the sum of the cubes of the roots is 98. The equation is?",
+      "options": {
+        "a": "x² - 4x + 15 = 0",
+        "b": "x² - 4x - 15 = 0",
+        "c": "x² - 2x - 15 = 0",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

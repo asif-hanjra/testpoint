@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What types of routes does the 'One Belt One Road' initiative refer to?",
+      "options": {
+        "a": "Road routes only",
+        "b": "Sea routes only",
+        "c": "Road, rail, and sea routes",
+        "d": "None of these"
+      },
+      "one_liner": "The 'One Belt One Road' initiative refers to **overland road, rail, and sea routes** for global trade.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is one of the 12 gates within the Walled City of Lahore?",
+      "options": {
+        "a": "Roshnai Gate",
+        "b": "Delhi Gate",
+        "c": "Shalimar Gate",
+        "d": "None of these"
+      },
+      "one_liner": "Roshnai Gate is one of the **12 gates** within the Walled City of Lahore.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

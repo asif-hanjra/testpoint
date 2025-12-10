@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was the first to recognize Pakistan after its independence?",
+      "options": {
+        "a": "Iran",
+        "b": "Afghanistan",
+        "c": "Turkey",
+        "d": "Saudi Arabia"
+      },
+      "one_liner": "Iran was the first country to recognize the newly independent state of **Pakistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term duration of the National Assembly of Pakistan?",
+      "options": {
+        "a": "3 years",
+        "b": "4 years",
+        "c": "5 years",
+        "d": "6 years"
+      },
+      "one_liner": "The National Assembly of Pakistan has a constitutional term of **5 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

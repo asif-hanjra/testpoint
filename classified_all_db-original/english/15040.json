@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the phrase 'to emphasize a point':",
+      "options": {
+        "a": "to accentuate a point:to trivialize a point",
+        "b": "to stress a point:to highlight a point",
+        "c": "to underscore a point:to stress a point",
+        "d": "to downplay a point:to overlook a point"
+      },
+      "one_liner": "'To accentuate a point' is a synonym for 'to emphasize a point', while 'to trivialize a point' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

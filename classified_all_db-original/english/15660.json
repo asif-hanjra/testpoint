@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'opponent':",
+      "options": {
+        "a": "enemy",
+        "b": "rival",
+        "c": "ally",
+        "d": "competitor"
+      },
+      "one_liner": "The antonym of 'opponent' is 'ally', which means a friend or someone on the same side.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

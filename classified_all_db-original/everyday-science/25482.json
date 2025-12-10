@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which blood group is known as the universal recipient?",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "O",
+        "d": "AB"
+      },
+      "one_liner": "The AB blood group is called the **universal recipient** as it can receive blood from all other groups.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

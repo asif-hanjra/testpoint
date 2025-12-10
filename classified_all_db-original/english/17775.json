@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Please don't _______ the controls while the machine is running.",
+      "options": {
+        "a": "run into",
+        "b": "fiddle with",
+        "c": "break down",
+        "d": "give away"
+      },
+      "one_liner": "Please don't 'fiddle with' the controls while the machine is running.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

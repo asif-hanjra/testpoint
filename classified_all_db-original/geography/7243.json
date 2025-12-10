@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is closest to Earth?",
+      "options": {
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Mercury",
+        "d": "Jupiter"
+      },
+      "one_liner": "The planet that is closest to Earth is **Mercury**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

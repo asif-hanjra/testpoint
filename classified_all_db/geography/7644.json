@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which district in Pakistan is the only one that borders all four provinces?",
+      "options": {
+        "a": "Dera Ghazi Khan",
+        "b": "Rahim Yar Khan",
+        "c": "Multan",
+        "d": "Bahawalpur"
+      },
+      "one_liner": "Dera Ghazi Khan is unique as it is the only district in Pakistan that shares borders with all four provinces, making it a significant geographical junction.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

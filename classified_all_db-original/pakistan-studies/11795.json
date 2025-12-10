@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was elected as Prime Minister of Pakistan after the 2008 elections?",
+      "options": {
+        "a": "Shaukat Aziz",
+        "b": "Yousaf Raza Gilani",
+        "c": "Asif Ali Zardari",
+        "d": "Nawaz Sharif"
+      },
+      "one_liner": "After the 2008 elections in Pakistan, **Yousaf Raza Gilani** was elected as Prime Minister.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is the Earth's core denser than other layers?",
+      "options": {
+        "a": "Because of its temperature",
+        "b": "Because of its composition",
+        "c": "Due to whole pressure or burden",
+        "d": "None of these"
+      },
+      "one_liner": "The Earth's core is denser than other layers due to the **whole pressure or burden** exerted on it.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

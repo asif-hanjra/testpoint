@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gentle':",
+      "options": {
+        "a": "harsh",
+        "b": "tender",
+        "c": "rough",
+        "d": "severe"
+      },
+      "one_liner": "'Gentle' means soft or mild, similar to 'tender' in its connotations.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

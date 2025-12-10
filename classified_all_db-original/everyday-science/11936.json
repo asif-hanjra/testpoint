@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which source is carbon most commonly obtained?",
+      "options": {
+        "a": "Coal deposits",
+        "b": "Air",
+        "c": "Water",
+        "d": "Soil"
+      },
+      "one_liner": "**Coal deposits** are the most common source from which carbon is obtained for commercial use.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

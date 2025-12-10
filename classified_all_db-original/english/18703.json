@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'capricious':",
+      "options": {
+        "a": "fickle",
+        "b": "volatile",
+        "c": "stable",
+        "d": "erratic"
+      },
+      "one_liner": "The word 'capricious' implies unpredictability, making 'stable' its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

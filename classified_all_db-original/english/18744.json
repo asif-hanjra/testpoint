@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conifer':",
+      "options": {
+        "a": "deciduous",
+        "b": "evergreen",
+        "c": "flowering",
+        "d": "palm"
+      },
+      "one_liner": "'Conifer' refers to cone-bearing trees, so 'evergreen' is a synonym as many conifers are evergreen.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

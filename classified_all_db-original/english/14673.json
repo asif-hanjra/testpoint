@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vibrate':",
+      "options": {
+        "a": "stabilize",
+        "b": "quiver",
+        "c": "freeze",
+        "d": "steady"
+      },
+      "one_liner": "'Vibrate' means to move back and forth or to and fro quickly—words like 'quiver' and 'oscillate' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

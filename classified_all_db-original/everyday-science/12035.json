@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the gravitational force on a body commonly called?",
+      "options": {
+        "a": "Mass",
+        "b": "Weight",
+        "c": "Density",
+        "d": "Volume"
+      },
+      "one_liner": "The gravitational force acting on a body is referred to as its **weight**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

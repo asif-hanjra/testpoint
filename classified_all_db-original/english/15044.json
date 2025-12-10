@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'elicit':",
+      "options": {
+        "a": "conceal",
+        "b": "suppress",
+        "c": "extract",
+        "d": "hide"
+      },
+      "one_liner": "'Elicit' means to draw out or evoke, similar to 'extract' or 'obtain'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

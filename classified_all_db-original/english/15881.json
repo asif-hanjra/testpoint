@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dumb':",
+      "options": {
+        "a": "mute",
+        "b": "silent",
+        "c": "articulate",
+        "d": "speechless"
+      },
+      "one_liner": "An antonym of 'dumb' is 'articulate', which means able to express oneself clearly and effectively.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'charter':",
+      "options": {
+        "a": "restriction",
+        "b": "license",
+        "c": "prohibition",
+        "d": "limitation"
+      },
+      "one_liner": "'Charter' can mean a formal document granting rights, similar to a 'license' or 'permit'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

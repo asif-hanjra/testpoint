@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following cannot be connected in parallel because KVL (Kirchhoff's Voltage Law) is not valid?",
+      "options": {
+        "a": "Capacitors",
+        "b": "Inductors",
+        "c": "Resistors",
+        "d": "Batteries with different EMF"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

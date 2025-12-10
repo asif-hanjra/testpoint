@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does OGRA stand for?",
+      "options": {
+        "a": "Oil and Gas Regulatory Authority",
+        "b": "Oil and Government Regulatory Agency",
+        "c": "Organization of Gas Regulation Authority",
+        "d": "None of these"
+      },
+      "one_liner": "OGRA is the abbreviation for the **Oil and Gas Regulatory Authority** in Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

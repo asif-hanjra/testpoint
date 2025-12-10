@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'shrill':",
+      "options": {
+        "a": "mellow",
+        "b": "loud",
+        "c": "screaming",
+        "d": "deafening"
+      },
+      "one_liner": "The antonym of 'shrill' is 'mellow', which refers to a sound that is pleasantly smooth and soft.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

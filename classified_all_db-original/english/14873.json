@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'infuse':",
+      "options": {
+        "a": "extract",
+        "b": "imbue",
+        "c": "deplete",
+        "d": "empty"
+      },
+      "one_liner": "'Infuse' means to fill or pervade, so 'imbue' is a synonym as it also means to inspire or permeate.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'flimsy':",
+      "options": {
+        "a": "sturdy",
+        "b": "weak",
+        "c": "fragile",
+        "d": "feeble"
+      },
+      "one_liner": "An antonym of 'flimsy' would be 'sturdy', which means strong and not easily broken or damaged.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

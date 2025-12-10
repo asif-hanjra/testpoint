@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'doubt':",
+      "options": {
+        "a": "uncertainty:conviction",
+        "b": "skepticism:belief",
+        "c": "mistrust:faith",
+        "d": "question:certainty"
+      },
+      "one_liner": "'Uncertainty' is a synonym of 'doubt', while 'conviction' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

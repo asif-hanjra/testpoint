@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who founded the Central National Muhammadan Association in 1877?",
+      "options": {
+        "a": "Sir Syed Ahmed Khan",
+        "b": "Syed Amir Ali",
+        "c": "Allama Iqbal",
+        "d": "None of these"
+      },
+      "one_liner": "The Central National Muhammadan Association was established in **1877** by **Syed Amir Ali**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who built the Sukkur Barrage and when?",
+      "options": {
+        "a": "British, 1923-1932",
+        "b": "Pakistan Government, 1950-1960",
+        "c": "Mughals, 1700-1720",
+        "d": "None of these"
+      },
+      "one_liner": "Sukkur Barrage was built by the **British from 1923 to 1932**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

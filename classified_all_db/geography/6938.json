@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which river's drainage area was dammed by the landslide that formed Attabad Lake?",
+      "options": {
+        "a": "Indus River",
+        "b": "Gilgit River",
+        "c": "Hunza River",
+        "d": "Shyok River"
+      },
+      "one_liner": "The landslide that created Attabad Lake dammed the **Hunza River**'s drainage area.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Denudation (Weathering, Erosion, Mass Wasting)",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

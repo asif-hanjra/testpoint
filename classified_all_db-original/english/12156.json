@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Wait ___ me by the school gate at 4 O' Clock.",
+      "options": {
+        "a": "to",
+        "b": "for",
+        "c": "with",
+        "d": "at"
+      },
+      "one_liner": "Wait 'for' me by the school gate at 4 O' Clock.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

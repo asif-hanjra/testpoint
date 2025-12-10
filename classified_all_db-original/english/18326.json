@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'majestic':",
+      "options": {
+        "a": "humble",
+        "b": "grand",
+        "c": "impressive",
+        "d": "splendid"
+      },
+      "one_liner": "The word 'majestic' connotes magnificence, whereas 'humble' suggests modesty.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

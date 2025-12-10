@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'calisthenics':",
+      "options": {
+        "a": "exercise",
+        "b": "movement",
+        "c": "inactivity",
+        "d": "activity"
+      },
+      "one_liner": "The antonym of 'calisthenics', which involves physical activity, would be 'inactivity' or 'sedentariness'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

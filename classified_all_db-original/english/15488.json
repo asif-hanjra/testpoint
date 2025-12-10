@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'scarce':",
+      "options": {
+        "a": "abundant",
+        "b": "limited",
+        "c": "sparse",
+        "d": "infrequent"
+      },
+      "one_liner": "An antonym of 'scarce' is 'abundant', which means present in large quantities.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

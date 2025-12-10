@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'waylay':",
+      "options": {
+        "a": "proceed",
+        "b": "ambush",
+        "c": "continue",
+        "d": "advance"
+      },
+      "one_liner": "'Waylay' means to stop or interrupt someone unexpectedly, similar to 'ambush'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

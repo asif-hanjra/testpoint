@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'elucidate':",
+      "options": {
+        "a": "expound:muddle",
+        "b": "clarify:enlighten",
+        "c": "explain:clarify",
+        "d": "illuminate:muddle"
+      },
+      "one_liner": "'Illuminate' is a synonym of 'elucidate', while 'muddle' is its antonym.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'profit':",
+      "options": {
+        "a": "loss",
+        "b": "earnings",
+        "c": "debt",
+        "d": "expense"
+      },
+      "one_liner": "'Profit' refers to financial gain, making 'earnings' a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

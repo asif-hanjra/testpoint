@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pessimist':",
+      "options": {
+        "a": "optimist",
+        "b": "nihilist",
+        "c": "skeptic",
+        "d": "cynic"
+      },
+      "one_liner": "An 'optimist' is the antonym of a 'pessimist', as they tend to expect the best outcomes.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

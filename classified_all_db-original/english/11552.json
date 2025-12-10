@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You cannot always go ___ appearance.",
+      "options": {
+        "a": "in",
+        "b": "by",
+        "c": "with",
+        "d": "at"
+      },
+      "one_liner": "You cannot always go 'by' appearance.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

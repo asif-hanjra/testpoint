@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change voice. Light the lamp.",
+      "options": {
+        "a": "The lamp be lighted",
+        "b": "Let the lamp be lighted.",
+        "c": "The lamp has been lighted",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'neglect':",
+      "options": {
+        "a": "overlook:attend to",
+        "b": "disregard:care for",
+        "c": "ignore:maintain",
+        "d": "forget:cherish"
+      },
+      "one_liner": "'Overlook' is a synonym of 'neglect', while 'attend to' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

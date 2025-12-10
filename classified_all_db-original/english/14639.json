@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'still' in the sentence 'He is still waiting'?",
+      "options": {
+        "a": "Adjective",
+        "b": "Noun",
+        "c": "Conjunction",
+        "d": "Adverb"
+      },
+      "one_liner": "'Still' is an adverb indicating that the action continues.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

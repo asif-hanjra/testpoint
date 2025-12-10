@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Near which corridor is Hunza Valley located?",
+      "options": {
+        "a": "Khyber Corridor",
+        "b": "Wakhan Corridor",
+        "c": "Silk Route",
+        "d": "None of these"
+      },
+      "one_liner": "Hunza Valley is located near the **Wakhan Corridor**, a narrow strip in Afghanistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

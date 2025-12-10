@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "TACIT : IMPLIED :: INFERIOR : ________?",
+      "options": {
+        "a": "Superior",
+        "b": "Subtlety",
+        "c": "Obvious",
+        "d": "Explicit"
+      },
+      "one_liner": "Tacit is a synonym for implied, but the relationship between inferior and subtility is not directly analogous.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

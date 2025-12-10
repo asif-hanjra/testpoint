@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'precarious':",
+      "options": {
+        "a": "risky",
+        "b": "dangerous",
+        "c": "secure",
+        "d": "uncertain"
+      },
+      "one_liner": "Antonyms of 'precarious' include 'stable' and 'secure', both suggesting safety and certainty.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

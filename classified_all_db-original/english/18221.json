@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the phrase 'A terrible sudden accident':",
+      "options": {
+        "a": "celebration",
+        "b": "catastrophe",
+        "c": "fortune",
+        "d": "success"
+      },
+      "one_liner": "'A terrible sudden accident' can be described as a 'catastrophe', which also implies a disastrous event.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

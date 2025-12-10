@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which regions are the Sulaiman Mountains located?",
+      "options": {
+        "a": "Sindh and Punjab",
+        "b": "Afghanistan, northern Balochistan, southern Khyber Pakhtunkhwa, and Punjab",
+        "c": "Only Balochistan",
+        "d": "None of these"
+      },
+      "one_liner": "The Sulaiman Mountains are spread across **Afghanistan, northern Balochistan, southern Khyber Pakhtunkhwa, and Punjab**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

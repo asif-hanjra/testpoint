@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times wider is Jupiter compared to Earth?",
+      "options": {
+        "a": "5",
+        "b": "7",
+        "c": "11",
+        "d": "15"
+      },
+      "one_liner": "Jupiter is known to be **11 times wider than Earth**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

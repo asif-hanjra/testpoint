@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which greenhouse gas is considered to be 25 times more potent than carbon dioxide (CO2) in terms of its impact on global warming?",
+      "options": {
+        "a": "Methane",
+        "b": "Ozone",
+        "c": "Nitrous oxide",
+        "d": "Sulphur dioxide"
+      },
+      "one_liner": "Methane gas is considered to be **25 times more potent than carbon dioxide (CO2)** as a greenhouse gas.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

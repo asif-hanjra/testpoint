@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which educational institute did Muhammad Ali Johar attend as a student?",
+      "options": {
+        "a": "Deoband",
+        "b": "Ali Garh Institute",
+        "c": "Nadwa",
+        "d": "None of these"
+      },
+      "one_liner": "Muhammad Ali Johar was a student of **Ali Garh Institute** during his educational career.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

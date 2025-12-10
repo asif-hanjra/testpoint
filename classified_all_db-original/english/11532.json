@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I have no pride ___ my qualification.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "with"
+      },
+      "one_liner": "I have no pride 'in' my qualification.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

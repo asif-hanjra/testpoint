@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Fourth Anglo-Mysore War begin?",
+      "options": {
+        "a": "1789",
+        "b": "1798",
+        "c": "1805",
+        "d": "1775"
+      },
+      "one_liner": "The Fourth Anglo-Mysore War began in **1798**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

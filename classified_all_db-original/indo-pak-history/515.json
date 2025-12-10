@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Mughal emperor's reign saw the construction of the Shalimar Gardens in Lahore?",
+      "options": {
+        "a": "Akbar",
+        "b": "Jahangir",
+        "c": "Shah Jahan",
+        "d": "Aurangzeb"
+      },
+      "one_liner": "The Shalimar Gardens in Lahore were constructed during the reign of **Shah Jahan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

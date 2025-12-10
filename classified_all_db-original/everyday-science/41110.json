@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of rocks commonly contain fossils?",
+      "options": {
+        "a": "Igneous rocks",
+        "b": "Metamorphic rocks",
+        "c": "Sedimentary rocks",
+        "d": "None of these"
+      },
+      "one_liner": "Fossils are most commonly found in **Sedimentary rocks**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did South Korea conduct its second nuclear test?",
+      "options": {
+        "a": "2007",
+        "b": "2008",
+        "c": "2009",
+        "d": "2010"
+      },
+      "one_liner": "South Korea conducted its second nuclear test in **2009**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

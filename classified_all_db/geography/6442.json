@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which line of latitude is labeled south of the Equator on a world map?",
+      "options": {
+        "a": "Tropic of Cancer",
+        "b": "Tropic of Capricorn",
+        "c": "Arctic Circle",
+        "d": "Prime Meridian"
+      },
+      "one_liner": "The **Tropic of Capricorn** is the line of latitude situated south of the Equator, marking the southern boundary of the Earth's tropical zone.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

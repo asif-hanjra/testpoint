@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'detached':",
+      "options": {
+        "a": "engaged",
+        "b": "connected",
+        "c": "disconnected",
+        "d": "attached"
+      },
+      "one_liner": "'Detached' implies being disengaged or aloof, similar to 'disconnected'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

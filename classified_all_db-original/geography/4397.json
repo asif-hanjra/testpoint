@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mountain pass connects Quetta with Sibi both by road and railway?",
+      "options": {
+        "a": "Bolan Pass",
+        "b": "Khyber Pass",
+        "c": "Lowari Pass",
+        "d": "Gomal Pass"
+      },
+      "one_liner": "The mountain pass that connects Quetta with Sibi by both road and railway is the **Bolan Pass**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

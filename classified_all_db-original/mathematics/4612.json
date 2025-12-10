@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following expression is true for a number greater than -2 but less than 7?",
+      "options": {
+        "a": "{x|-2 < x < 7}",
+        "b": "{x|-2 > x > 7}",
+        "c": "{x|-2 ≥ x ≥ 7}",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

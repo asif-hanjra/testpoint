@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which preposition best completes the sentence: The teacher turned ___ the lights before leaving the classroom?",
+      "options": {
+        "a": "up",
+        "b": "off",
+        "c": "in",
+        "d": "over"
+      },
+      "one_liner": "The teacher turned 'off' the lights before leaving the classroom.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nostalgic':",
+      "options": {
+        "a": "retrospective",
+        "b": "reminiscent",
+        "c": "forward-looking",
+        "d": "yearning"
+      },
+      "one_liner": "An antonym for 'nostalgic' is 'forward-looking', which focuses on the future rather than the past.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

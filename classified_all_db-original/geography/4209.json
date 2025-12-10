@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the location of Shri Darbar Sahib?",
+      "options": {
+        "a": "Lahore, Pakistan",
+        "b": "Delhi, India",
+        "c": "Amritsar, India",
+        "d": "Karachi, Pakistan"
+      },
+      "one_liner": "Shri Darbar Sahib is situated in the city of **Amritsar, India**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

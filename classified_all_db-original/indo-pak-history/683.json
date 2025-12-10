@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was Nizam Khan known for during his reign as Sultan?",
+      "options": {
+        "a": "Constructing mosques",
+        "b": "Building forts",
+        "c": "Writing poetry",
+        "d": "None of these"
+      },
+      "one_liner": "Nizam Khan, as Sultan, was particularly known for his fondness for **constructing mosques**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

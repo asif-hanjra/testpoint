@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who organized the branch of the Muslim League in London in 1908?",
+      "options": {
+        "a": "Sir Agha Khan III",
+        "b": "Syed Ameer Ali",
+        "c": "Muhammad Ali Jinnah",
+        "d": "Adamji Peer Bhai"
+      },
+      "one_liner": "Syed Ameer Ali organized the branch of the Muslim League in **London in 1908**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

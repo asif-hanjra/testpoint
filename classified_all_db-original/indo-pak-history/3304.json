@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the Mughal period in India especially known for?",
+      "options": {
+        "a": "Muslim architecture, literature and religious reforms",
+        "b": "Only military conquests",
+        "c": "Only trade expansion",
+        "d": "None of these"
+      },
+      "one_liner": "The Mughal era in India is especially renowned for its contributions to **Muslim architecture, literature, and religious reforms**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

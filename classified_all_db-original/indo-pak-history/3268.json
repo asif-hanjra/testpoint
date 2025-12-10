@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invaded Delhi in 1398, leading to the decline of the Tughlaq dynasty?",
+      "options": {
+        "a": "Babur",
+        "b": "Nadir Shah",
+        "c": "Amir Timur (Tamerlane)",
+        "d": "Chengiz Khan"
+      },
+      "one_liner": "The invasion of Delhi in 1398 by **Amir Timur (Tamerlane)** led to the decline of the Tughlaq dynasty.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

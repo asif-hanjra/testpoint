@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hoax':",
+      "options": {
+        "a": "truth",
+        "b": "fraud",
+        "c": "reality",
+        "d": "fact"
+      },
+      "one_liner": "'Hoax' refers to a deceptive act or trick, much like a 'fraud' or 'sham'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

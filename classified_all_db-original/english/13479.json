@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'audacious':",
+      "options": {
+        "a": "bold:cowardly",
+        "b": "timid:brave",
+        "c": "daring:timid",
+        "d": "fearless:shy"
+      },
+      "one_liner": "'Brave' is a synonym of 'audacious', while 'cowardly' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

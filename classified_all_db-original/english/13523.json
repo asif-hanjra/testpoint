@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'feign':",
+      "options": {
+        "a": "pretend:admit",
+        "b": "disguise:reveal",
+        "c": "simulate:acknowledge",
+        "d": "mask:confess"
+      },
+      "one_liner": "'Pretend' is a synonym of 'feign', while 'admit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'arduous':",
+      "options": {
+        "a": "easy",
+        "b": "laborious",
+        "c": "effortless",
+        "d": "simple"
+      },
+      "one_liner": "'Arduous' tasks require a lot of effort and hard work, similar to 'laborious' tasks.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

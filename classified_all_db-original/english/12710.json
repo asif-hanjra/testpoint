@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'Notion':",
+      "options": {
+        "a": "fact",
+        "b": "theory",
+        "c": "hypothesis",
+        "d": "belief"
+      },
+      "one_liner": "An antonym of 'Notion' is 'fact', which represents something proven or actual, as opposed to a mere idea.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Great Dividing Range is also known by which of the following names?",
+      "options": {
+        "a": "Australian Alps",
+        "b": "Blue Mountains",
+        "c": "Snowy Mountains",
+        "d": "Flinders Range"
+      },
+      "one_liner": "The Great Dividing Range is also called the **Australian Alps**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

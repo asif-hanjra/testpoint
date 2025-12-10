@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The beginning of the Mughal Empire is marked by which significant event?",
+      "options": {
+        "a": "Babur's defeat by Ibrahim Lodhi",
+        "b": "Babur's victory over Ibrahim Lodhi",
+        "c": "Akbar's accession to the throne",
+        "d": "Aurangzeb's conquest of Deccan"
+      },
+      "one_liner": "The Mughal Empire is considered to have started with Babur's victory over **Ibrahim Lodhi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

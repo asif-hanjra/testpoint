@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Sayyid Ahmad Shaheed born?",
+      "options": {
+        "a": "Delhi",
+        "b": "Rai Barelli",
+        "c": "Lahore",
+        "d": "None of these"
+      },
+      "one_liner": "The birthplace of Sayyid Ahmad Shaheed is **Rai Barelli**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

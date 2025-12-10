@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which instrument did Ustad Rais excel in playing?",
+      "options": {
+        "a": "Tabla",
+        "b": "Sitar",
+        "c": "Harmonium",
+        "d": "Sarangi"
+      },
+      "one_liner": "Ustad Rais was renowned for his exceptional skill in playing the **sitar**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the real name of Hazrat Data Ganj Bakhsh?",
+      "options": {
+        "a": "Syed Ali bin Usman Hajweri",
+        "b": "Khawaja Moinuddin Chishti",
+        "c": "Bahauddin Zakariya",
+        "d": "None of these"
+      },
+      "one_liner": "The real name of Hazrat Data Ganj Bakhsh was **Syed Ali bin Usman Hajweri**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

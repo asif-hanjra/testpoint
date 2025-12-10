@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'be broke' mean?",
+      "options": {
+        "a": "To be physically damaged",
+        "b": "To have no money",
+        "c": "To end a relationship",
+        "d": "To be very tired"
+      },
+      "one_liner": "The idiom 'be broke' refers to the state of having no money or being penniless.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

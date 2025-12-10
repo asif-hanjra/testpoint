@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is true? sin² 60⁰ + cos² 60⁰ = 1, sin² 45⁰ + cos² 45⁰ = 1, sin² 45⁰ − cos² 45⁰ = 0, All of these",
+      "options": {
+        "a": "sin² 60⁰ + cos² 60⁰ = 1",
+        "b": "sin² 45⁰ + cos² 45⁰ = 1",
+        "c": "sin² 45⁰ − cos² 45⁰ = 0",
+        "d": "All of these"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

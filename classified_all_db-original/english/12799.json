@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'orientation':",
+      "options": {
+        "a": "disorientation",
+        "b": "clarity",
+        "c": "awareness",
+        "d": "certainty"
+      },
+      "one_liner": "While 'orientation' is about understanding one's position or direction, 'disorientation' signifies a loss of this sense.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

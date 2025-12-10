@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He travels ___ foot towards his destination.",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "by",
+        "d": "at"
+      },
+      "one_liner": "He travels 'on' foot towards his destination.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

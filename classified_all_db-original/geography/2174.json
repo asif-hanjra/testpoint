@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ancient trade route connected East Asia and Southeast Asia with South Asia, the Arabian Peninsula, Africa, and Europe?",
+      "options": {
+        "a": "Silk Road",
+        "b": "Spice Route",
+        "c": "Amber Road",
+        "d": "None of these"
+      },
+      "one_liner": "The **Silk Road** was the ancient network that linked East Asia and Southeast Asia with South Asia, the Arabian Peninsula, Africa, and Europe.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

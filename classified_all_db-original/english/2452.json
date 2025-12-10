@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Find the error: Your books are nice but thees are old.",
+      "options": {
+        "a": "Are",
+        "b": "Thees",
+        "c": "Your",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

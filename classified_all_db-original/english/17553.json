@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'narcotic':",
+      "options": {
+        "a": "stimulant",
+        "b": "sedative",
+        "c": "tonic",
+        "d": "antidote"
+      },
+      "one_liner": "'Narcotic' refers to substances that induce sleep or stupor, similar to 'sedative'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

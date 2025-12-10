@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obtrude':",
+      "options": {
+        "a": "impose",
+        "b": "intrude",
+        "c": "retreat",
+        "d": "advance"
+      },
+      "one_liner": "An antonym of 'obtrude' is 'retreat', which means to withdraw or pull back.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

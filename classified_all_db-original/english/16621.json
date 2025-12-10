@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'John and Mary are friends', what part of speech is 'and'?",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Adverb",
+        "d": "Conjunction"
+      },
+      "one_liner": "'And' is a conjunction because it connects the nouns 'John' and 'Mary'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

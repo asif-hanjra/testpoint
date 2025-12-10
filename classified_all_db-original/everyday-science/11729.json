@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the thyroid gland situated in the human body?",
+      "options": {
+        "a": "Front part of the lower neck",
+        "b": "Base of the brain",
+        "c": "On top of the kidneys",
+        "d": "Middle of the brain"
+      },
+      "one_liner": "The thyroid gland is situated in the front part of the lower neck, where it plays a vital role in metabolism and development.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

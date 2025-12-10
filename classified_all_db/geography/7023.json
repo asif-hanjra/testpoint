@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Antarctica located?",
+      "options": {
+        "a": "North Pole",
+        "b": "South Pole",
+        "c": "Equator",
+        "d": "None of these"
+      },
+      "one_liner": "Antarctica is geographically situated at the **South Pole**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

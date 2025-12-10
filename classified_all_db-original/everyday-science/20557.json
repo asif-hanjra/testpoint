@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Calculate the moment of inertia of the earth about its diameter, taking it to be a sphere of 10^25kg and diameter 12800 km?",
+      "options": {
+        "a": "0",
+        "b": "1.64 × 10^38kgm^3",
+        "c": "1.64 kgm^3",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

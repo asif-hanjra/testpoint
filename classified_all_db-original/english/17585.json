@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'over' in the sentence 'The plane flew over the mountains'?",
+      "options": {
+        "a": "Adverb",
+        "b": "Preposition",
+        "c": "Verb",
+        "d": "Conjunction"
+      },
+      "one_liner": "'Over' is a preposition showing relationship between 'flew' and 'mountains'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

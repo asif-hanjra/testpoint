@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following body parts are absent in all arachnids, distinguishing them from insects?",
+      "options": {
+        "a": "Wings",
+        "b": "Antennae",
+        "c": "Legs",
+        "d": "Eyes"
+      },
+      "one_liner": "Unlike insects, arachnids are characterized by the absence of **antennae**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

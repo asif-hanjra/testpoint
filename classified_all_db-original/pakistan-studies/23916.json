@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country invaded Afghanistan on 24 December 1979?",
+      "options": {
+        "a": "United States",
+        "b": "Soviet Union",
+        "c": "United Kingdom",
+        "d": "None of these"
+      },
+      "one_liner": "It was the **Soviet Union** that invaded Afghanistan on 24 December 1979.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

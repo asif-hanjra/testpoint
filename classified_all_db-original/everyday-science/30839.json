@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A NAND gate is a combination of an?",
+      "options": {
+        "a": "AND gate and NOT gate",
+        "b": "OR gate and NOT gate",
+        "c": "AND gate and OR gate",
+        "d": "OR gate and XOR gate"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

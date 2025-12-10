@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "QUIXOTIC : PRAGMATIC :: MURKY : ________?",
+      "options": {
+        "a": "Clear",
+        "b": "Cloudy",
+        "c": "Bright",
+        "d": "Transparent"
+      },
+      "one_liner": "Quixotic means idealistic and impractical, which is the opposite of pragmatic; murky is a synonym for cloudy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

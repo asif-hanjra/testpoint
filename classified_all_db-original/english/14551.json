@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wealth':",
+      "options": {
+        "a": "riches",
+        "b": "abundance",
+        "c": "poverty",
+        "d": "prosperity"
+      },
+      "one_liner": "An antonym for 'wealth' is 'poverty', which signifies a lack of material possessions or money.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

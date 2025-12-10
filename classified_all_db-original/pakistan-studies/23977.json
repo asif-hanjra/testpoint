@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which was the largest princely state by area at the time of Partition of India in 1947?",
+      "options": {
+        "a": "Hyderabad",
+        "b": "Jammu and Kashmir",
+        "c": "Bahawalpur",
+        "d": "Junagadh"
+      },
+      "one_liner": "At the time of Partition in 1947, the largest princely state by area was **Jammu and Kashmir**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

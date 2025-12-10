@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inferior':",
+      "options": {
+        "a": "lesser:greater",
+        "b": "subordinate:superior",
+        "c": "inferior:excellent",
+        "d": "poor:rich"
+      },
+      "one_liner": "'Lesser' is a synonym of 'inferior', while 'greater' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

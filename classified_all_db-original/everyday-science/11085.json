@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is known to have capped mountains?",
+      "options": {
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Pluto",
+        "d": "Mercury"
+      },
+      "one_liner": "Pluto is notable for having **capped mountains** on its surface.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

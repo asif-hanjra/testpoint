@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'onerous':",
+      "options": {
+        "a": "laborious:undemanding",
+        "b": "easy:difficult",
+        "c": "burdensome:light",
+        "d": "simple:complex"
+      },
+      "one_liner": "'Laborious' is a synonym of 'onerous', while 'undemanding' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

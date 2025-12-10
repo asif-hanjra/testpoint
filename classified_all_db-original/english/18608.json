@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prudent':",
+      "options": {
+        "a": "reckless",
+        "b": "judicious",
+        "c": "hasty",
+        "d": "impulsive"
+      },
+      "one_liner": "'Prudent' means showing care and thought for the future, similar to being 'wise' or 'judicious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

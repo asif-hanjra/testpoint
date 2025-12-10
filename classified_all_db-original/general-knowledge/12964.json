@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For what event was the Eiffel Tower constructed?",
+      "options": {
+        "a": "Olympic Games",
+        "b": "1889 World's Fair",
+        "c": "French Revolution",
+        "d": "None of these"
+      },
+      "one_liner": "The Eiffel Tower was constructed as the centerpiece of the **1889 World's Fair**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Sydney Opera House",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Eiffel Tower",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

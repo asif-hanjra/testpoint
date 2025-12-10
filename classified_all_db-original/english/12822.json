@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'calm':",
+      "options": {
+        "a": "agitated",
+        "b": "peaceful",
+        "c": "quiet",
+        "d": "relaxed"
+      },
+      "one_liner": "The opposite of 'calm' is 'agitated', indicating a state of nervousness or unrest.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

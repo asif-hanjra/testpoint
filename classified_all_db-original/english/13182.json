@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'malingerer':",
+      "options": {
+        "a": "worker",
+        "b": "shirker",
+        "c": "diligent",
+        "d": "enthusiast"
+      },
+      "one_liner": "A 'malingerer' is someone who pretends to be ill to avoid duty or work, similar to a 'shirker'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

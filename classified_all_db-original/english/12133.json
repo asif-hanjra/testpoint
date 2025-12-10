@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Aslam is senior ___ me.",
+      "options": {
+        "a": "than",
+        "b": "to",
+        "c": "from",
+        "d": "with"
+      },
+      "one_liner": "Aslam is senior 'to' me.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

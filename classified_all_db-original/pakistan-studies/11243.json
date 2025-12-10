@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who led the funeral prayer of Quaid-e-Azam Muhammad Ali Jinnah?",
+      "options": {
+        "a": "Maulana Shabir Ahmed Usmani",
+        "b": "Allama Iqbal",
+        "c": "Liaquat Ali Khan",
+        "d": "Maulana Maududi"
+      },
+      "one_liner": "The funeral prayer of Quaid-e-Azam Muhammad Ali Jinnah was led by **Maulana Shabir Ahmed Usmani**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

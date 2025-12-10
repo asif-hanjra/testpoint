@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'filthy':",
+      "options": {
+        "a": "dirty",
+        "b": "soiled",
+        "c": "clean",
+        "d": "grimy"
+      },
+      "one_liner": "The word 'filthy' is the opposite of 'clean', which means free from dirt or pollution.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

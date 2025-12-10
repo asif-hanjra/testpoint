@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: \"I killed a snake.\"",
+      "options": {
+        "a": "A snake was killed by me.",
+        "b": "A snake was kill by me.",
+        "c": "A snake is killed by me.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

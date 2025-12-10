@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hold':",
+      "options": {
+        "a": "grasp",
+        "b": "clench",
+        "c": "release",
+        "d": "retain"
+      },
+      "one_liner": "The opposite of 'hold', which means to keep or possess, is 'release' or 'let go'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

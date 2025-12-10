@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times did Jansher Khan win the British Open squash championship?",
+      "options": {
+        "a": "Five",
+        "b": "Six",
+        "c": "Seven",
+        "d": "Eight"
+      },
+      "one_liner": "Jansher Khan claimed the prestigious British Open squash title **six times** in his career.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Squash",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Squash",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

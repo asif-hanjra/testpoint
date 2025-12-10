@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is amnesia primarily associated with?",
+      "options": {
+        "a": "Loss of vision",
+        "b": "Loss of hearing",
+        "c": "Loss of memory",
+        "d": "Loss of speech"
+      },
+      "one_liner": "Amnesia is a condition that is primarily associated with the loss of **memory**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

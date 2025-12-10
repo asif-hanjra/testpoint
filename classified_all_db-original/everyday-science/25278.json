@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens after recovery from Hepatitis A?",
+      "options": {
+        "a": "No immunity develops",
+        "b": "Antibodies develop providing protection",
+        "c": "Chronic infection occurs",
+        "d": "None of these"
+      },
+      "one_liner": "After recovering from Hepatitis A, the body develops **antibodies that protect against HAV reinfection**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

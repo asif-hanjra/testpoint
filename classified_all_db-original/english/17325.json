@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'arable':",
+      "options": {
+        "a": "barren",
+        "b": "cultivable",
+        "c": "infertile",
+        "d": "desolate"
+      },
+      "one_liner": "'Arable' refers to land suitable for growing crops, similar to 'cultivable' or 'farmable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

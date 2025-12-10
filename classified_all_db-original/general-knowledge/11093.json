@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why did Liz Truss resign as UK Prime Minister?",
+      "options": {
+        "a": "Health reasons",
+        "b": "Failed budget and market turmoil",
+        "c": "Personal reasons",
+        "d": "None of these"
+      },
+      "one_liner": "Liz Truss resigned as UK Prime Minister following a **failed budget and market turmoil** during her short tenure.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

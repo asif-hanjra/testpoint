@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'emissary':",
+      "options": {
+        "a": "opponent",
+        "b": "envoy",
+        "c": "stranger",
+        "d": "resident"
+      },
+      "one_liner": "'Emissary' refers to a representative sent on a mission, similar to an 'envoy' or 'delegate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

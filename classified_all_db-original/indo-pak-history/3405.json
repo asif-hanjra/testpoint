@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the gateway to the garden built for Princess Zeb-un-Nisa located in Lahore?",
+      "options": {
+        "a": "Shalimar",
+        "b": "Chaubujri",
+        "c": "Badshahi Mosque",
+        "d": "None of these"
+      },
+      "one_liner": "The gateway to the garden built for Princess Zeb-un-Nisa was situated at **Chaubujri in Lahore**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

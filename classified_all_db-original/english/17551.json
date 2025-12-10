@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'offal':",
+      "options": {
+        "a": "giblets:prime cut",
+        "b": "trimmings:delicacy",
+        "c": "variety meats:gourmet",
+        "d": "innards:produce"
+      },
+      "one_liner": "'Giblets' is a synonym of 'offal', while 'prime cut' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

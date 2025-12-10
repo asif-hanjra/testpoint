@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which areas are shown as insets on the map of Pakistan?",
+      "options": {
+        "a": "Junagadh & Manavadar, and Sir Creek",
+        "b": "Kashmir and Siachen",
+        "c": "Gwadar and Karachi",
+        "d": "Lahore and Islamabad"
+      },
+      "one_liner": "The map of Pakistan includes insets for **Junagadh & Manavadar, and Sir Creek**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Arabian Sea",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cumbersome':",
+      "options": {
+        "a": "effortless",
+        "b": "heavy",
+        "c": "awkward",
+        "d": "clumsy"
+      },
+      "one_liner": "The opposite of 'cumbersome' is 'effortless', which means requiring little to no effort.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

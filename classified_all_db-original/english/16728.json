@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'molt':",
+      "options": {
+        "a": "retain",
+        "b": "discard",
+        "c": "remove",
+        "d": "release"
+      },
+      "one_liner": "An antonym for 'molt' would be 'retain', as it means to keep rather than shed.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

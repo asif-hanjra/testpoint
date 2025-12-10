@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'capture':",
+      "options": {
+        "a": "apprehend:liberate",
+        "b": "grasp:hold",
+        "c": "seize:release",
+        "d": "snatch:retain"
+      },
+      "one_liner": "'Apprehend' is a synonym of 'capture', while 'liberate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

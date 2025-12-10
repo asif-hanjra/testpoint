@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'brisk':",
+      "options": {
+        "a": "rapid",
+        "b": "energetic",
+        "c": "sluggish",
+        "d": "quick"
+      },
+      "one_liner": "Antonyms of 'brisk' include 'sluggish' and 'slow', both suggesting a lack of speed or energy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

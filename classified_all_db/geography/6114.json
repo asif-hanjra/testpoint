@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country lies at the northern corner of South America among the five west coastal countries mentioned?",
+      "options": {
+        "a": "Chile",
+        "b": "Peru",
+        "c": "Ecuador",
+        "d": "Colombia"
+      },
+      "one_liner": "Among the five west coastal countries of South America, **Colombia** is located at the northern corner.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Andes Mountains",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Andes Mountains",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

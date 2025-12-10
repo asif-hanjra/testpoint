@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'realm':",
+      "options": {
+        "a": "confusion",
+        "b": "domain",
+        "c": "disorder",
+        "d": "chaos"
+      },
+      "one_liner": "'Realm' refers to a kingdom or domain, similar to 'domain' and 'territory'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

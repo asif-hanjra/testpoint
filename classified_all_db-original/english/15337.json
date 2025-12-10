@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'scent':",
+      "options": {
+        "a": "aroma:stench",
+        "b": "fragrance:aroma",
+        "c": "odor:perfume",
+        "d": "smell:scent"
+      },
+      "one_liner": "'Aroma' is a synonym of 'scent', while 'stench' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

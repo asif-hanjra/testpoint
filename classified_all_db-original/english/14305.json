@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ponderous':",
+      "options": {
+        "a": "light",
+        "b": "cumbersome",
+        "c": "swift",
+        "d": "nimble"
+      },
+      "one_liner": "'Ponderous' means heavy and slow, similar to 'cumbersome'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

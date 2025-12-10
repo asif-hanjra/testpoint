@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pith':",
+      "options": {
+        "a": "nucleus:margin",
+        "b": "essence:core",
+        "c": "kernel:center",
+        "d": "heart:heart"
+      },
+      "one_liner": "'Nucleus' is a synonym of 'pith', while 'margin' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

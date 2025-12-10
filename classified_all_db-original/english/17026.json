@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conspire':",
+      "options": {
+        "a": "collude:reveal",
+        "b": "scheme:disclose",
+        "c": "plot:expose",
+        "d": "concoct:inform"
+      },
+      "one_liner": "'Scheme' is a synonym of 'conspire', while 'disclose' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

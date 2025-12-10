@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'manoeuvre':",
+      "options": {
+        "a": "stagnate",
+        "b": "strategize",
+        "c": "halt",
+        "d": "rest"
+      },
+      "one_liner": "'Manoeuvre' means a strategic movement or plan, similar to 'manipulate' or 'strategize'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

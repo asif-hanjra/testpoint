@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nonchalant':",
+      "options": {
+        "a": "apathetic:interested",
+        "b": "indifferent:involved",
+        "c": "unconcerned:concerned",
+        "d": "detached:engaged"
+      },
+      "one_liner": "A synonym for 'nonchalant' is 'apathetic', while 'interested' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

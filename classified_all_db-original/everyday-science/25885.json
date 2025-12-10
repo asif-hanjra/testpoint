@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "At which university was Stephen Hawking serving at the time of his death?",
+      "options": {
+        "a": "University of Oxford",
+        "b": "Harvard University",
+        "c": "University of Cambridge",
+        "d": "Stanford University"
+      },
+      "one_liner": "At the time of his death, Stephen Hawking was serving at the **University of Cambridge**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

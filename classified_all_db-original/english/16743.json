@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pucker':",
+      "options": {
+        "a": "gather:flatten",
+        "b": "crease:smooth",
+        "c": "contract:extend",
+        "d": "wrinkle:stretch"
+      },
+      "one_liner": "'Gather' is a synonym for 'pucker', while 'flatten' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

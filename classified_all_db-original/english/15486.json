@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'friend':",
+      "options": {
+        "a": "ally",
+        "b": "foe",
+        "c": "partner",
+        "d": "associate"
+      },
+      "one_liner": "An antonym of 'friend' is 'foe', which means an enemy or adversary.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

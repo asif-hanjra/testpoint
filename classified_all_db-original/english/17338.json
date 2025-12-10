@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'skiff':",
+      "options": {
+        "a": "canoe",
+        "b": "raft",
+        "c": "ship",
+        "d": "kayak"
+      },
+      "one_liner": "An antonym for 'skiff', a small boat, would be a 'ship', which is much larger.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

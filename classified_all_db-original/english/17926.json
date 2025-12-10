@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conflagration':",
+      "options": {
+        "a": "inferno",
+        "b": "blaze",
+        "c": "trickle",
+        "d": "flame"
+      },
+      "one_liner": "An antonym of 'conflagration' would be 'trickle', which suggests a small, slow flow rather than a large fire.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

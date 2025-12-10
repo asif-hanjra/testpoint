@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'Notion':",
+      "options": {
+        "a": "fact",
+        "b": "concept",
+        "c": "reality",
+        "d": "certainty"
+      },
+      "one_liner": "'Notion' refers to an idea or belief, similar to 'concept' or 'perception'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

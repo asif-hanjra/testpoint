@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following countries are included among the historical Balkan states?",
+      "options": {
+        "a": "Bosnia-Herzegovina, Slovenia, Serbia, Romania, Bulgaria, Albania",
+        "b": "France, Germany, Italy, Spain",
+        "c": "Poland, Ukraine, Belarus, Lithuania",
+        "d": "None of these"
+      },
+      "one_liner": "Countries such as **Bosnia-Herzegovina, Slovenia, Serbia, Romania, Bulgaria, and Albania** are included among the historical Balkan states.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

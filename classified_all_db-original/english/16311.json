@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'saturnine':",
+      "options": {
+        "a": "dour:jovial",
+        "b": "gloomy:cheerful",
+        "c": "morose:gleeful",
+        "d": "sullen:sprightly"
+      },
+      "one_liner": "'Dour' is a synonym of 'saturnine', while 'jovial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

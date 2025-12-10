@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Neither Ali nor Aasim has taken ___ test.",
+      "options": {
+        "a": "her",
+        "b": "his",
+        "c": "their",
+        "d": "our"
+      },
+      "one_liner": "Neither Ali nor Aasim has taken 'his' test.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

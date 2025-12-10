@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the SI unit of pressure?",
+      "options": {
+        "a": "Joule",
+        "b": "Newton",
+        "c": "Pascal",
+        "d": "Watt"
+      },
+      "one_liner": "The SI unit used to measure pressure is the **Pascal**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

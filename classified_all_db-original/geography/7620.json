@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of plant is best suited to grow under drought conditions?",
+      "options": {
+        "a": "Hydrophyte",
+        "b": "Mesophyte",
+        "c": "Xerophyte",
+        "d": "None of these"
+      },
+      "one_liner": "A xerophyte plant is specifically adapted to survive and thrive in environments with drought conditions, making **xerophyte** the correct answer.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Deserts",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Deserts",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

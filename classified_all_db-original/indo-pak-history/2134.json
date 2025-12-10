@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many seats were open for competition among the elected Indian members in the Imperial Legislative Council as per the Indian Councils Act of 1909?",
+      "options": {
+        "a": "6",
+        "b": "12",
+        "c": "21",
+        "d": "27"
+      },
+      "one_liner": "Out of the 27 elected Indian members in the Imperial Legislative Council, **21 seats were open for competition** as per the Indian Councils Act of 1909.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Indian Councils Act (1892)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dislodge':",
+      "options": {
+        "a": "oust:anchor",
+        "b": "eject:attach",
+        "c": "expel:bind",
+        "d": "remove:secure"
+      },
+      "one_liner": "'Oust' is a synonym of 'dislodge', while 'anchor' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "SEGREGATE : UNIFY :: REPAIR : ________?",
+      "options": {
+        "a": "Fix",
+        "b": "Mend",
+        "c": "Damage",
+        "d": "Improve"
+      },
+      "one_liner": "Segregate is the opposite of unify, just as repair is the opposite of damage.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

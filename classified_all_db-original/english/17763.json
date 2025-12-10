@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'neglect':",
+      "options": {
+        "a": "cherish",
+        "b": "disregard",
+        "c": "appreciate",
+        "d": "embrace"
+      },
+      "one_liner": "'Neglect' means to fail to care for something properly, similar to 'disregard' or 'ignore'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

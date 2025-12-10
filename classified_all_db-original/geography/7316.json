@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Hunza Valley situated?",
+      "options": {
+        "a": "Northern Punjab",
+        "b": "Extreme northern Gilgit-Baltistan",
+        "c": "Southern KPK",
+        "d": "Central Sindh"
+      },
+      "one_liner": "Hunza Valley is a famous mountainous valley situated in the **extreme northern part of Gilgit-Baltistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ocean lies around Antarctica and is located east of the Indian Ocean?",
+      "options": {
+        "a": "Arctic Ocean",
+        "b": "Atlantic Ocean",
+        "c": "Southern Ocean",
+        "d": "Pacific Ocean"
+      },
+      "one_liner": "The **Southern Ocean** or Antarctic Ocean lies around Antarctica and is located to the east of the Indian Ocean.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

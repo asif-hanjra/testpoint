@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vulnerable':",
+      "options": {
+        "a": "exposed",
+        "b": "defenseless",
+        "c": "protected",
+        "d": "susceptible"
+      },
+      "one_liner": "Antonyms of 'vulnerable' include 'safe' and 'protected', both implying security from harm.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "My brother is weak ___ mathematics.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "with"
+      },
+      "one_liner": "My brother is weak 'in' mathematics.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

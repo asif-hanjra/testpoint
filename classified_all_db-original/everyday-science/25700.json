@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal is most commonly used in batteries?",
+      "options": {
+        "a": "Lithium",
+        "b": "Sodium",
+        "c": "Magnesium",
+        "d": "Potassium"
+      },
+      "one_liner": "**Lithium** is most commonly known for its use in batteries.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

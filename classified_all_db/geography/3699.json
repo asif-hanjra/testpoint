@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Tirch Mir is part of which mountain range?",
+      "options": {
+        "a": "Himalayas",
+        "b": "Karakoram",
+        "c": "Hindu Kush",
+        "d": "Sulaiman"
+      },
+      "one_liner": "Tirch Mir, the highest peak in the Hindu Kush, is indeed part of the **Hindu Kush** mountain range.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

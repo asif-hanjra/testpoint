@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "Who are the notable poets of Balochi language mentioned in the data?",
+      "options": {
+        "a": "Atta Shad and Isha Shamin",
+        "b": "Faiz Ahmed Faiz and Ahmed Faraz",
+        "c": "Allama Iqbal and Mirza Ghalib",
+        "d": "None of these"
+      },
+      "one_liner": "Among the prominent poets of Balochi language are **Atta Shad** and **Isha Shamin**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

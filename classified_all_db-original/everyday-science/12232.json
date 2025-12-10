@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "By what factor is the energy value of fats and oils greater than that of carbohydrates and proteins?",
+      "options": {
+        "a": "1.5 times",
+        "b": "2.25 times",
+        "c": "3 times",
+        "d": "None of these"
+      },
+      "one_liner": "The energy value of fats and oils is **2.25 times** greater than that of carbohydrates and proteins.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

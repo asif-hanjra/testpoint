@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first to develop the binomial theorem?",
+      "options": {
+        "a": "Isaac Newton",
+        "b": "Omar Khayyam",
+        "c": "Euclid",
+        "d": "Al-Khwarizmi"
+      },
+      "one_liner": "The mathematician **Omar Khayyam** is recognized as the first to develop the binomial theorem.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'banter':",
+      "options": {
+        "a": "dispute",
+        "b": "dialogue",
+        "c": "monologue",
+        "d": "conversation"
+      },
+      "one_liner": "While 'banter' is light-hearted, 'dispute' is serious and involves disagreement.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

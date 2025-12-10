@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is home to the Golden Temple, a sacred site for Sikhs?",
+      "options": {
+        "a": "Delhi",
+        "b": "Amritsar",
+        "c": "Lahore",
+        "d": "Mumbai"
+      },
+      "one_liner": "The Golden Temple, which is sacred to Sikhs, is located in **Amritsar, India**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Famous Landmarks",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

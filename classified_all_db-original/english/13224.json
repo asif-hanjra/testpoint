@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tangential':",
+      "options": {
+        "a": "peripheral:integral",
+        "b": "relevant:irrelevant",
+        "c": "digressive:essential",
+        "d": "related:unrelated"
+      },
+      "one_liner": "'Peripheral' is a synonym of 'tangential', while 'integral' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

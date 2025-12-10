@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impound':",
+      "options": {
+        "a": "sequester:discharge",
+        "b": "confiscate:retain",
+        "c": "detain:liberate",
+        "d": "arrest:release"
+      },
+      "one_liner": "'Sequester' is a synonym of 'impound', while 'discharge' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

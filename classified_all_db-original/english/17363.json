@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'penury':",
+      "options": {
+        "a": "wealth",
+        "b": "destitution",
+        "c": "prosperity",
+        "d": "abundance"
+      },
+      "one_liner": "'Penury' refers to extreme poverty, similar to 'destitution'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

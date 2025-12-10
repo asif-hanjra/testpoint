@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pestilence':",
+      "options": {
+        "a": "harmony",
+        "b": "plague",
+        "c": "health",
+        "d": "serenity"
+      },
+      "one_liner": "'Pestilence' refers to a fatal epidemic disease, similar to 'plague'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

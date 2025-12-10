@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which continent is the second smallest in the world after Antarctica?",
+      "options": {
+        "a": "Europe",
+        "b": "Asia",
+        "c": "Australia",
+        "d": "Africa"
+      },
+      "one_liner": "Europe holds the distinction of being the **second smallest continent** after Antarctica.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

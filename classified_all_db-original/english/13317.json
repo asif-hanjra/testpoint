@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gavel':",
+      "options": {
+        "a": "scepter",
+        "b": "hammer",
+        "c": "baton",
+        "d": "wand"
+      },
+      "one_liner": "'Gavel' refers to a small mallet used by a judge or an auctioneer, similar to a 'hammer'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

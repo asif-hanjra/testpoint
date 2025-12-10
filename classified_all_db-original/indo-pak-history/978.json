@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which addition did Aurangzeb make to the Lahore Fort that was later named after him?",
+      "options": {
+        "a": "Shalimar Gate",
+        "b": "Alamgiri Gate",
+        "c": "Delhi Gate",
+        "d": "Roshnai Gate"
+      },
+      "one_liner": "Aurangzeb constructed one of the thirteen gates of the Lahore Fort, which was later named the **Alamgiri Gate** after him.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'none' in the sentence 'None of the apples were ripe'?",
+      "options": {
+        "a": "Verb",
+        "b": "Pronoun",
+        "c": "Adjective",
+        "d": "Noun"
+      },
+      "one_liner": "'None' is a pronoun standing for no apples.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

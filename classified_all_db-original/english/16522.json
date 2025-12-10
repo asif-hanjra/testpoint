@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'craven':",
+      "options": {
+        "a": "fearful",
+        "b": "timorous",
+        "c": "valiant",
+        "d": "spineless"
+      },
+      "one_liner": "While 'craven' refers to someone who is cowardly, 'valiant' describes someone with courage.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

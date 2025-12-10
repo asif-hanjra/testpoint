@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'untoward':",
+      "options": {
+        "a": "favorable",
+        "b": "adverse",
+        "c": "fortunate",
+        "d": "beneficial"
+      },
+      "one_liner": "'Untoward' means inappropriate or inconvenient, similar to 'adverse'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

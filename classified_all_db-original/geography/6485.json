@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Sind separated from Bombay?",
+      "options": {
+        "a": "1932",
+        "b": "1935",
+        "c": "1940",
+        "d": "1947"
+      },
+      "one_liner": "Sind was separated from Bombay in the year **1935**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

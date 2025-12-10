@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abbreviation':",
+      "options": {
+        "a": "contraction",
+        "b": "reduction",
+        "c": "expansion",
+        "d": "shortening"
+      },
+      "one_liner": "The antonym of 'abbreviation' is 'expansion', which refers to something made larger or more extensive.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

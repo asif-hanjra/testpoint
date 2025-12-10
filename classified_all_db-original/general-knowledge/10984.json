@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Russia invade Afghanistan?",
+      "options": {
+        "a": "1977",
+        "b": "1978",
+        "c": "1979",
+        "d": "1980"
+      },
+      "one_liner": "Russia invaded Afghanistan in the year **1979**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Great Recession",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

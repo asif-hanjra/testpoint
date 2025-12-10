@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'aspersion':",
+      "options": {
+        "a": "defamation:tribute",
+        "b": "calumny:accolade",
+        "c": "slander:compliment",
+        "d": "malign:praise"
+      },
+      "one_liner": "'Calumny' is a synonym of 'aspersion', while 'accolade' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'decree':",
+      "options": {
+        "a": "suggestion",
+        "b": "edict",
+        "c": "proposal",
+        "d": "opinion"
+      },
+      "one_liner": "'Decree' refers to an official order, similar to an 'edict' or 'mandate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

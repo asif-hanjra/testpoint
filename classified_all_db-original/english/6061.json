@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the sentence that is grammatically correct from the options provided: These are the best restaurants in town, but those are too",
+      "options": {
+        "a": "These are the best restaurants in town, but those are too expensive.",
+        "b": "This are the best restaurants in town, but those are too expensive.",
+        "c": "These is the best restaurant in town, but those are too expensive.",
+        "d": "This is the best restaurant in town, but those are too expensive."
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

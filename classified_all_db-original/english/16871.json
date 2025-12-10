@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cumbersome':",
+      "options": {
+        "a": "clunky:handy",
+        "b": "simple:complex",
+        "c": "bulky:lightweight",
+        "d": "unwieldy:manageable"
+      },
+      "one_liner": "'Clunky' is a synonym of 'cumbersome', while 'handy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

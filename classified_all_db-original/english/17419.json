@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'filthy':",
+      "options": {
+        "a": "pristine",
+        "b": "squalid",
+        "c": "spotless",
+        "d": "immaculate"
+      },
+      "one_liner": "'Filthy' means extremely dirty, similar to 'squalid' or 'unclean'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

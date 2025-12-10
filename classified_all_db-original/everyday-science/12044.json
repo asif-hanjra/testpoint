@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many books comprise the encyclopedia 'Al-Qanun fi-at-tibb'?",
+      "options": {
+        "a": "Three",
+        "b": "Four",
+        "c": "Five",
+        "d": "Six"
+      },
+      "one_liner": "The encyclopedia 'Al-Qanun fi-at-tibb' is composed of **five books**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

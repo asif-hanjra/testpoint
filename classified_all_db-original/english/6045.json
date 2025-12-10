@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the sentence with semantic error. The new policy has been implemented to increase the company's profits, but it has had a detrimental effect on the employees' morale, which has subsequently led to a decrease in productivity, thereby negating the initial purpose of the policy.",
+      "options": {
+        "a": "The new policy has been implemented to increase the company's profits, but it has had a detrimental effect on the employees' morale, which has subsequently led to a decrease in productivity, thereby negating the initial purpose of the policy.",
+        "b": "The research paper argues that climate change is a myth perpetuated by scientists to secure funding for their research, but the data presented in the paper actually contradicts this claim and supports the reality of climate change.",
+        "c": "The company's mission statement emphasizes its commitment to sustainability, but its business practices reveal a disregard for environmental concerns",
+        "d": "The politician's speech advocated for increased funding for education, but the proposed budget actually allocates fewer resources to schools."
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

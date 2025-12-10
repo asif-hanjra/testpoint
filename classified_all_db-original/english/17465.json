@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'opportunist':",
+      "options": {
+        "a": "self-serving:philanthropist",
+        "b": "benefactor:self-seeker",
+        "c": "exploiter:altruist",
+        "d": "self-seeker:benefactor"
+      },
+      "one_liner": "'Self-serving' is a synonym of 'opportunist', while 'philanthropist' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

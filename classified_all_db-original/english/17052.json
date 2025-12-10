@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I am annoyed ___ the students.",
+      "options": {
+        "a": "by",
+        "b": "with",
+        "c": "at",
+        "d": "to"
+      },
+      "one_liner": "I am annoyed 'with' the students.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'intricate':",
+      "options": {
+        "a": "complex",
+        "b": "detailed",
+        "c": "simple",
+        "d": "convoluted"
+      },
+      "one_liner": "The antonym of 'intricate' is 'simple', which means not complex or elaborate.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

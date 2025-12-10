@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two countries are separated by the Wakhan Corridor?",
+      "options": {
+        "a": "Afghanistan and China",
+        "b": "Tajikistan and Pakistan",
+        "c": "Pakistan and China",
+        "d": "Afghanistan and Tajikistan"
+      },
+      "one_liner": "The Wakhan Corridor separates **Tajikistan from Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Central Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

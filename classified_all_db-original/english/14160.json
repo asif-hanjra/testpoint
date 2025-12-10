@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obstinate':",
+      "options": {
+        "a": "flexible",
+        "b": "intransigent",
+        "c": "compliant",
+        "d": "yielding"
+      },
+      "one_liner": "'Obstinate' means stubborn or unyielding, similar to 'intransigent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

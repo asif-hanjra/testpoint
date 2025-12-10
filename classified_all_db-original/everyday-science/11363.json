@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the chemical composition of dry ice?",
+      "options": {
+        "a": "Zinc Sulphate",
+        "b": "Solid Carbon Dioxide",
+        "c": "Calcium Carbonate",
+        "d": "None of these"
+      },
+      "one_liner": "Despite common misconceptions, dry ice is actually composed of **solid carbon dioxide (CO₂)** and not Zinc Sulphate.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

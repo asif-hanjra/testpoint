@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which lake is known for its high salt content that makes swimming similar to floating?",
+      "options": {
+        "a": "Dead Sea",
+        "b": "Caspian Sea",
+        "c": "Lake Superior",
+        "d": "Lake Victoria"
+      },
+      "one_liner": "The **Dead Sea** is known for its high salt content, making swimming similar to floating.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

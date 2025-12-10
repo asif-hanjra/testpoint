@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abandon':",
+      "options": {
+        "a": "discard",
+        "b": "forsake",
+        "c": "retain",
+        "d": "neglect"
+      },
+      "one_liner": "The opposite of 'abandon' is to 'retain', which means to keep possession of something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

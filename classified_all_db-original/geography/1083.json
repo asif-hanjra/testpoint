@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which years was the Tarbela Dam constructed?",
+      "options": {
+        "a": "1960-1965",
+        "b": "1968-1976",
+        "c": "1978-1982",
+        "d": "1985-1990"
+      },
+      "one_liner": "The construction of Tarbela Dam took place from **1968 to 1976**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

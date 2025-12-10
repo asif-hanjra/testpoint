@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sonorous':",
+      "options": {
+        "a": "shrill",
+        "b": "resonant",
+        "c": "silent",
+        "d": "faint"
+      },
+      "one_liner": "'Sonorous' describes a sound that is rich and full, much like 'resonant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mercurial':",
+      "options": {
+        "a": "fickle:constant",
+        "b": "volatile:stable",
+        "c": "capricious:steady",
+        "d": "erratic:unchanging"
+      },
+      "one_liner": "'Fickle' is a synonym for 'mercurial', while 'constant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

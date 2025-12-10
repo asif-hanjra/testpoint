@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'great':",
+      "options": {
+        "a": "magnificent:mediocre",
+        "b": "large:small",
+        "c": "grand:unremarkable",
+        "d": "impressive:impressive"
+      },
+      "one_liner": "'Magnificent' is a synonym of 'great', while 'mediocre' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

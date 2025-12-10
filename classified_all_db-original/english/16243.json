@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fine':",
+      "options": {
+        "a": "clumsy",
+        "b": "elegant",
+        "c": "coarse",
+        "d": "rough"
+      },
+      "one_liner": "'Fine' can mean delicate or refined, similar to 'elegant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

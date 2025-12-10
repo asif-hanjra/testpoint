@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How far is the penalty spot from the goal in hockey?",
+      "options": {
+        "a": "7.5 m",
+        "b": "6.47 m",
+        "c": "5.5 m",
+        "d": "8.0 m"
+      },
+      "one_liner": "The penalty spot in hockey is **6.47 meters** from the goal.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

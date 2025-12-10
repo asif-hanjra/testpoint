@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'above':",
+      "options": {
+        "a": "below",
+        "b": "overhead",
+        "c": "aloft",
+        "d": "atop"
+      },
+      "one_liner": "The antonym of 'above' is 'below', indicating a lower position.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

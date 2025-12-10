@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adult':",
+      "options": {
+        "a": "childish",
+        "b": "mature",
+        "c": "juvenile",
+        "d": "infantile"
+      },
+      "one_liner": "'Adult' refers to someone who is mature or grown-up, similar to 'mature'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

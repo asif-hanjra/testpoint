@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country took the Kashmir dispute to the United Nations?",
+      "options": {
+        "a": "Pakistan",
+        "b": "India",
+        "c": "China",
+        "d": "None of these"
+      },
+      "one_liner": "The Kashmir dispute was taken to the United Nations by **India**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

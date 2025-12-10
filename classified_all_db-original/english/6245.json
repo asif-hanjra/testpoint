@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change Voice: Daniel is singing a song.",
+      "options": {
+        "a": "A song is being sung by Danial.",
+        "b": "A song had being sung by Danial.",
+        "c": "A song was being sung by Danial.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

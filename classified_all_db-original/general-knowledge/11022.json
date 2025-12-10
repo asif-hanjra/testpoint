@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is known as the 'King of Pop'?",
+      "options": {
+        "a": "Elvis Presley",
+        "b": "Freddie Mercury",
+        "c": "Michael Jackson",
+        "d": "Prince"
+      },
+      "one_liner": "The legendary artist widely recognized as the 'King of Pop' is **Michael Jackson**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adverse':",
+      "options": {
+        "a": "inimical:propitious",
+        "b": "beneficial:detrimental",
+        "c": "favorable:harmful",
+        "d": "helpful:injurious"
+      },
+      "one_liner": "'Inimical' is a synonym of 'adverse', while 'propitious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'malarkey':",
+      "options": {
+        "a": "deception",
+        "b": "truth",
+        "c": "nonsense",
+        "d": "gibberish"
+      },
+      "one_liner": "The antonym of 'malarkey' is 'truth', which signifies accuracy and reality.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

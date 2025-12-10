@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which town is considered the main town of Bajaur Agency?",
+      "options": {
+        "a": "Khar",
+        "b": "Parachinar",
+        "c": "Miramshah",
+        "d": "Tank"
+      },
+      "one_liner": "The main town of Bajaur Agency is **Khar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

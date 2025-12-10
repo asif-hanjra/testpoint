@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which two countries does the Aral Sea lie?",
+      "options": {
+        "a": "Kazakhstan and Uzbekistan",
+        "b": "Kazakhstan and Russia",
+        "c": "Russia and Azerbaijan",
+        "d": "Uzbekistan and Turkmenistan"
+      },
+      "one_liner": "The Aral Sea lies between **Kazakhstan and Uzbekistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

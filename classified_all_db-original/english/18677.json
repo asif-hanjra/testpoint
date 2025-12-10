@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'confuse':",
+      "options": {
+        "a": "perplex:enlighten",
+        "b": "mystify:clarify",
+        "c": "disorient:explain",
+        "d": "bewilder:illuminate"
+      },
+      "one_liner": "'Perplex' is a synonym of 'confuse', while 'enlighten' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

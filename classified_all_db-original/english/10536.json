@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Change voice \" Did you visit a zoo\"?",
+      "options": {
+        "a": "Was a zoo visited by you?",
+        "b": "Did a zoo visited by you?",
+        "c": "Is a zoo visited by you?",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2022
+}

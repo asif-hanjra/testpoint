@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "QUEEN : KING :: COBRA : ________?",
+      "options": {
+        "a": "Snake",
+        "b": "Royal",
+        "c": "Venom",
+        "d": "Crown"
+      },
+      "one_liner": "Queen is the female counterpart to king; a cobra is a type of snake, but royal refers to royalty. The connection is not clear.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was Quaid-i-Azam sworn in as the Governor General of Pakistan?",
+      "options": {
+        "a": "10th August 1947",
+        "b": "11th August 1947",
+        "c": "14th August 1947",
+        "d": "15th August 1947"
+      },
+      "one_liner": "Quaid-i-Azam was sworn in as the Governor General of Pakistan on **15th August 1947**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

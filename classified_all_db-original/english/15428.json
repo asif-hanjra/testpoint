@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dogmatic':",
+      "options": {
+        "a": "authoritarian:undogmatic",
+        "b": "flexible:rigid",
+        "c": "doctrinaire:tolerant",
+        "d": "opinionated:unbiased"
+      },
+      "one_liner": "'Authoritarian' is a synonym of 'dogmatic', while 'undogmatic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

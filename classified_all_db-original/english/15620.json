@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'optional':",
+      "options": {
+        "a": "elective:obligatory",
+        "b": "compulsory:voluntary",
+        "c": "discretionary:required",
+        "d": "arbitrary:mandatory"
+      },
+      "one_liner": "'Elective' is a synonym of 'optional', while 'obligatory' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

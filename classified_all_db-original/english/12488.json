@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dormant':",
+      "options": {
+        "a": "active",
+        "b": "latent",
+        "c": "quiescent",
+        "d": "inactive"
+      },
+      "one_liner": "The word 'dormant' is the opposite of 'active', which means engaged in action or full of energy.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

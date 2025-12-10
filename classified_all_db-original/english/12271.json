@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'worn':",
+      "options": {
+        "a": "new",
+        "b": "pristine",
+        "c": "threadbare",
+        "d": "fresh"
+      },
+      "one_liner": "'Worn' refers to something that has been used a lot and shows it, similar to 'threadbare' or 'frayed'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

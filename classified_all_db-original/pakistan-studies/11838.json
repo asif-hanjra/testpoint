@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the final destination of the TAPI gas pipeline?",
+      "options": {
+        "a": "Turkmenistan",
+        "b": "Afghanistan",
+        "c": "Pakistan",
+        "d": "India"
+      },
+      "one_liner": "The TAPI gas pipeline is planned to end in **India**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

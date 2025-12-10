@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'determination':",
+      "options": {
+        "a": "indifference",
+        "b": "resolve",
+        "c": "hesitation",
+        "d": "uncertainty"
+      },
+      "one_liner": "'Determination' implies a firmness of purpose, similar to 'resolve'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'N.B.' (nota bene) instruct the reader to do?",
+      "options": {
+        "a": "Compare with caution",
+        "b": "Note well",
+        "c": "It is necessary",
+        "d": "In the same place"
+      },
+      "one_liner": "The phrase 'N.B.' (nota bene) is used to draw the reader's attention to an important detail.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

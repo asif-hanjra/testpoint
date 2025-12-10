@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the distance between the water diversion point at Ghazi and the power complex at Barotha in the Ghazi-Barotha Hydropower Project?",
+      "options": {
+        "a": "25 km",
+        "b": "52 km",
+        "c": "100 km",
+        "d": "75 km"
+      },
+      "one_liner": "The distance between Ghazi and Barotha, where the Ghazi-Barotha Hydropower Project operates, is **52 km**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

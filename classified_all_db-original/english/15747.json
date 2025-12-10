@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin term 'Erratum' refer to in a published work?",
+      "options": {
+        "a": "A dedication page",
+        "b": "An error or correction",
+        "c": "A table of contents",
+        "d": "An index"
+      },
+      "one_liner": "The term 'Erratum' refers to an error or correction typically listed in a published work.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

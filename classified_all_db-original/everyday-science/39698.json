@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element comes first in the periodic table?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Hydrogen",
+        "c": "Helium",
+        "d": "Carbon"
+      },
+      "one_liner": "Hydrogen is the element that comes first in the periodic table, making it the lightest and simplest element with atomic number **1**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

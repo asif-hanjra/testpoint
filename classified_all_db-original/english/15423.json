@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mirth':",
+      "options": {
+        "a": "misery",
+        "b": "merriment",
+        "c": "melancholy",
+        "d": "mourning"
+      },
+      "one_liner": "'Mirth' refers to amusement or laughter, making 'merriment' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

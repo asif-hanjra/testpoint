@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "REIN : HORSE :: CONTROL : ________?",
+      "options": {
+        "a": "Saddle",
+        "b": "Bit",
+        "c": "Rider",
+        "d": "Whip"
+      },
+      "one_liner": "A rein is used to control a horse, just as a bit is part of a bridle used for control.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

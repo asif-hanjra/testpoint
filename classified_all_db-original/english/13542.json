@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'anger':",
+      "options": {
+        "a": "fury",
+        "b": "calm",
+        "c": "irritation",
+        "d": "wrath"
+      },
+      "one_liner": "The antonym of 'anger' is 'calm', which denotes a state of peace and tranquility.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which material is commonly used to coat nonstick PVC cooking utensils?",
+      "options": {
+        "a": "Teflon",
+        "b": "Silicone",
+        "c": "Copper",
+        "d": "Aluminum"
+      },
+      "one_liner": "Nonstick PVC cooking utensils are typically coated with **Teflon** to prevent food from sticking.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

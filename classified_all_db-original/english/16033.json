@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'The cake tastes delicious,' what part of speech is 'delicious'?",
+      "options": {
+        "a": "Noun",
+        "b": "Adverb",
+        "c": "Verb",
+        "d": "Adjective"
+      },
+      "one_liner": "In the sentence 'The cake tastes delicious', the word 'delicious' is an adjective because it describes the noun 'cake'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

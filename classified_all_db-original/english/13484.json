@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'refute':",
+      "options": {
+        "a": "confirm",
+        "b": "rebut",
+        "c": "agree",
+        "d": "accept"
+      },
+      "one_liner": "'Refute' means to disprove or reject, similar to 'discredit' or 'rebut'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

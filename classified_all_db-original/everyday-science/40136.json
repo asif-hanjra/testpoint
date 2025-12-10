@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What term is used to describe the Earth's slightly flattened shape at the poles?",
+      "options": {
+        "a": "Sphere",
+        "b": "Geoid",
+        "c": "Cylinder",
+        "d": "None of these"
+      },
+      "one_liner": "The Earth is described as a **Geoid** because it is slightly flattened at the poles.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

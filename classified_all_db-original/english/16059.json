@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obstinate':",
+      "options": {
+        "a": "stubborn",
+        "b": "headstrong",
+        "c": "amenable",
+        "d": "inflexible"
+      },
+      "one_liner": "An antonym of 'obstinate' is 'amenable', which means open and responsive to suggestion.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

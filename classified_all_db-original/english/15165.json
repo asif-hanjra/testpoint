@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "EGREGIOUS : BAD :: MINISCULE : ________?",
+      "options": {
+        "a": "Tiny",
+        "b": "Large",
+        "c": "Small",
+        "d": "Huge"
+      },
+      "one_liner": "Egregious means remarkably bad, and minuscule means extremely small. Both describe an extreme degree.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

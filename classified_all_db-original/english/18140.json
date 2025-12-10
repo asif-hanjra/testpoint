@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pledge':",
+      "options": {
+        "a": "breach",
+        "b": "promise",
+        "c": "oath",
+        "d": "guarantee"
+      },
+      "one_liner": "Antonyms of 'pledge' include 'breach' and 'violation', both implying a failure to keep a promise.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

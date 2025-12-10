@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A^T = A, then matrix A is called a ______?",
+      "options": {
+        "a": "Diagonal Matrix",
+        "b": "Symmetric Matrix",
+        "c": "Skew-Symmetric Matrix",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

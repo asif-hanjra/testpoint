@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'piquant':",
+      "options": {
+        "a": "flavorful:tasteless",
+        "b": "savory:bland",
+        "c": "zesty:flavorful",
+        "d": "sharp:dull"
+      },
+      "one_liner": "'Spicy' is a synonym of 'piquant', while 'tasteless' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

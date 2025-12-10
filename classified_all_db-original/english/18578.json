@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'special':",
+      "options": {
+        "a": "exceptional:mundane",
+        "b": "common:unique",
+        "c": "distinctive:ordinary",
+        "d": "extraordinary:common"
+      },
+      "one_liner": "'Exceptional' is a synonym of 'special', while 'mundane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is an invertebrate?",
+      "options": {
+        "a": "An animal with a backbone",
+        "b": "An animal without a backbone",
+        "c": "A plant",
+        "d": "A type of mineral"
+      },
+      "one_liner": "An invertebrate is defined as an animal that lacks a **backbone**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Introduction to Everyday Science",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You cannot prevent people ___ talking about such a serious matter.",
+      "options": {
+        "a": "of",
+        "b": "from",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "You cannot prevent people 'from' talking about such a serious matter.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

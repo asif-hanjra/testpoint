@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'smooth':",
+      "options": {
+        "a": "coarse",
+        "b": "sleek",
+        "c": "jagged",
+        "d": "uneven"
+      },
+      "one_liner": "'Smooth' can be synonymous with 'sleek', both suggesting a surface free of roughness or bumps.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

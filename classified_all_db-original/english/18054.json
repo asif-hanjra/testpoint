@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'She sang sweetly', what part of speech is 'sweetly'?",
+      "options": {
+        "a": "Verb",
+        "b": "Noun",
+        "c": "Adverb",
+        "d": "Adjective"
+      },
+      "one_liner": "'Sweetly' is an adverb as it describes how she sang.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

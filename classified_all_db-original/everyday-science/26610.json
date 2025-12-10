@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are non-allotropic (manmade) forms of carbon?",
+      "options": {
+        "a": "Graphite and diamond",
+        "b": "Charcoal and soot",
+        "c": "Graphite and buckyballs",
+        "d": "Diamond and buckyballs"
+      },
+      "one_liner": "**Charcoal and soot** are considered non-allotropic, manmade forms of carbon.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

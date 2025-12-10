@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'latent':",
+      "options": {
+        "a": "active",
+        "b": "hidden",
+        "c": "concealed",
+        "d": "inert"
+      },
+      "one_liner": "An antonym of 'latent' is 'active', which means something is currently in action or operation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following body components are made up of proteins?",
+      "options": {
+        "a": "Muscles",
+        "b": "Tissues",
+        "c": "Blood",
+        "d": "All of these"
+      },
+      "one_liner": "Muscles, tissues, and blood in the human body are all composed of significant amounts of **proteins**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

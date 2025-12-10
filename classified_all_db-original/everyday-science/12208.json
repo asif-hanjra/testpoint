@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the basic physical and functional unit of heredity?",
+      "options": {
+        "a": "Chromosome",
+        "b": "Gene",
+        "c": "Protein",
+        "d": "Enzyme"
+      },
+      "one_liner": "The basic physical and functional unit of heredity is the **gene**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

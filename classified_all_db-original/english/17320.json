@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'affinity':",
+      "options": {
+        "a": "aversion",
+        "b": "rapport",
+        "c": "dislike",
+        "d": "detachment"
+      },
+      "one_liner": "'Affinity' means a natural liking or sympathy for someone or something, similar to 'rapport' or 'fondness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

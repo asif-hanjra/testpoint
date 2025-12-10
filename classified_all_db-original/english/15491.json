@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "We should take a taxi ___ it is more expensive.",
+      "options": {
+        "a": "even though",
+        "b": "even if",
+        "c": "unless",
+        "d": "because"
+      },
+      "one_liner": "We should take a taxi 'even if' it is more expensive.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

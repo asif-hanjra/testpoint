@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He does not know the answer ___ I've told him several times.",
+      "options": {
+        "a": "since",
+        "b": "even though",
+        "c": "because",
+        "d": "unless"
+      },
+      "one_liner": "He does not know the answer 'even though' I've told him several times.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

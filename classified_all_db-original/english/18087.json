@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tranquil':",
+      "options": {
+        "a": "chaotic",
+        "b": "serene",
+        "c": "loud",
+        "d": "boisterous"
+      },
+      "one_liner": "'Tranquil' means peaceful or calm, similar to 'serene'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

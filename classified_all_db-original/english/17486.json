@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dedication':",
+      "options": {
+        "a": "indifference",
+        "b": "commitment",
+        "c": "neglect",
+        "d": "apathy"
+      },
+      "one_liner": "'Dedication' implies a strong commitment or devotion, similar to 'commitment' itself.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

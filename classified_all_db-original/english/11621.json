@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'Non-Religious':",
+      "options": {
+        "a": "spiritual",
+        "b": "secular",
+        "c": "pious",
+        "d": "devout"
+      },
+      "one_liner": "'Non-Religious' refers to something not affiliated with religion, similar to 'secular'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

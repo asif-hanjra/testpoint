@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following best describes a bay?",
+      "options": {
+        "a": "A narrow river opening",
+        "b": "A broad, recessed coastal inlet where the land curves inward",
+        "c": "A mountain valley",
+        "d": "None of these"
+      },
+      "one_liner": "A bay is characterized as a **broad, recessed coastal inlet where the land curves inward**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

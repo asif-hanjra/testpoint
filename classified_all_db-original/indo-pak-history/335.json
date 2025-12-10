@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city was affected by the earthquake in 1935?",
+      "options": {
+        "a": "Lahore",
+        "b": "Karachi",
+        "c": "Quetta",
+        "d": "Peshawar"
+      },
+      "one_liner": "The city that was struck by an earthquake in 1935 was **Quetta**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

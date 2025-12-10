@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of company is Airbus?",
+      "options": {
+        "a": "Car manufacturing",
+        "b": "Aircraft manufacturing",
+        "c": "Ship building",
+        "d": "Electronics"
+      },
+      "one_liner": "Airbus is known as an **aircraft manufacturing company**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

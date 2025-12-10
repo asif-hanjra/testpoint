@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stupid':",
+      "options": {
+        "a": "wise",
+        "b": "foolish",
+        "c": "clever",
+        "d": "shrewd"
+      },
+      "one_liner": "'Stupid' means lacking intelligence or common sense, similar to 'foolish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

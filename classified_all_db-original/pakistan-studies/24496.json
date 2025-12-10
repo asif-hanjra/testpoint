@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did the cabinet approve the text of the new constitution after examining the Constitution Commission's report?",
+      "options": {
+        "a": "December 1961",
+        "b": "January 1962",
+        "c": "March 1962",
+        "d": "June 1962"
+      },
+      "one_liner": "The cabinet approved the text of the new constitution in **January 1962** after examining the Constitution Commission's report.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

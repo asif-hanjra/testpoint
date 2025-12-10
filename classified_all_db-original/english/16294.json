@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You cannot succeed ___ you work hard.",
+      "options": {
+        "a": "on",
+        "b": "unless",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "You cannot succeed 'unless' you work hard.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

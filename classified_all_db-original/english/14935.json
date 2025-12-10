@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'flamboyant':",
+      "options": {
+        "a": "gaudy:plain",
+        "b": "flashy:dull",
+        "c": "vibrant:colorless",
+        "d": "showy:subtle"
+      },
+      "one_liner": "'Gaudy' is a synonym of 'flamboyant', while 'plain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

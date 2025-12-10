@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'retaliation':",
+      "options": {
+        "a": "forgiveness",
+        "b": "revenge",
+        "c": "pardon",
+        "d": "mercy"
+      },
+      "one_liner": "'Retaliation' refers to the act of returning like for like, especially evil for evil, similar to 'revenge'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

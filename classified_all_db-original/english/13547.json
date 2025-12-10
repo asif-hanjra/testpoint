@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'The baby is asleep', what part of speech is 'asleep'?",
+      "options": {
+        "a": "Verb",
+        "b": "Noun",
+        "c": "Adjective",
+        "d": "Adverb"
+      },
+      "one_liner": "'Asleep' is an adjective describing the state of the noun 'baby'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

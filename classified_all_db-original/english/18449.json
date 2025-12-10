@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Hell hath no fury ___ a woman scorned.",
+      "options": {
+        "a": "as",
+        "b": "like",
+        "c": "than",
+        "d": "with"
+      },
+      "one_liner": "Hell hath no fury 'like' a woman scorned.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

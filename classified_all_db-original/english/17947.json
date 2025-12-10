@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'minor':",
+      "options": {
+        "a": "major",
+        "b": "significant",
+        "c": "trivial",
+        "d": "vital"
+      },
+      "one_liner": "'Minor' means less important or smaller in size, similar to 'trivial' or 'insignificant'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

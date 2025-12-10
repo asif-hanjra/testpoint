@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'magniloquent':",
+      "options": {
+        "a": "grandiloquent:plain",
+        "b": "verbose:concise",
+        "c": "rhetorical:simple",
+        "d": "florid:plain"
+      },
+      "one_liner": "'Florid' is a synonym of 'magniloquent', while 'plain' is its antonym, indicating a difference in speech complexity.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

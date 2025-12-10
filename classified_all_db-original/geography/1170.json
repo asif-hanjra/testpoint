@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Dover Strait is the narrowest part of which channel?",
+      "options": {
+        "a": "Dover Strait",
+        "b": "Palk Strait",
+        "c": "Bering Strait",
+        "d": "Davis Strait"
+      },
+      "one_liner": "The Dover Strait is the narrowest part of the **English Channel**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

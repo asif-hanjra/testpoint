@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'The Military and Politics in Pakistan'?",
+      "options": {
+        "a": "Hassan Askari Rizvi",
+        "b": "Ayesha Jalal",
+        "c": "Pervez Hoodbhoy",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'The Military and Politics in Pakistan' was authored by **Hassan Askari Rizvi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

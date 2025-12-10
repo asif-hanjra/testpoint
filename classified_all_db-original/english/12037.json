@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mend':",
+      "options": {
+        "a": "destroy",
+        "b": "repair",
+        "c": "worsen",
+        "d": "ignore"
+      },
+      "one_liner": "'Mend' means to repair or fix, similar to 'patch up' or 'restore'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

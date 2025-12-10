@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'defiant':",
+      "options": {
+        "a": "compliant",
+        "b": "obedient",
+        "c": "insubordinate",
+        "d": "submissive"
+      },
+      "one_liner": "'Defiant' means resistant or challenging authority, similar to 'insubordinate'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

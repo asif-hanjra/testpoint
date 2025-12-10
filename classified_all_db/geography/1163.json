@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following power projects are not included in the WAPDA Hydroelectric Generation License?",
+      "options": {
+        "a": "Neelum Jhelum and Satpara",
+        "b": "Mangla and Tarbela",
+        "c": "Ghazi Barotha and Warsak",
+        "d": "All of these"
+      },
+      "one_liner": "The Neelum Jhelum (969 MW) and Satpara (17.4 MW) power projects are not included in the **WAPDA Hydroelectric Generation License** and are managed individually.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

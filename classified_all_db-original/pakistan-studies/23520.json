@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries will jointly host the FIFA World Cup in 2026?",
+      "options": {
+        "a": "USA, Canada, and Mexico",
+        "b": "Qatar, UAE, and Saudi Arabia",
+        "c": "France, Germany, and Italy",
+        "d": "None of these"
+      },
+      "one_liner": "The FIFA World Cup in 2026 will be jointly hosted by **Canada, the United States, and Mexico**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

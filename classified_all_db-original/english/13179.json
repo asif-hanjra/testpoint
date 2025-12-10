@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'covert':",
+      "options": {
+        "a": "overt",
+        "b": "clandestine",
+        "c": "public",
+        "d": "open"
+      },
+      "one_liner": "'Covert' means hidden or secret, similar to 'clandestine'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

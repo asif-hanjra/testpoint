@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'invoke':",
+      "options": {
+        "a": "ignore",
+        "b": "conjure",
+        "c": "disregard",
+        "d": "neglect"
+      },
+      "one_liner": "'Invoke' means to call upon or to summon, similar to 'summon' or 'conjure'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

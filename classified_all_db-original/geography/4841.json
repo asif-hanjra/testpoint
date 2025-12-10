@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Tugela waterfall, the second highest waterfall in the world, located?",
+      "options": {
+        "a": "United States",
+        "b": "South Africa",
+        "c": "India",
+        "d": "China"
+      },
+      "one_liner": "Tugela waterfall, ranking as the second highest in the world, is situated in **South Africa**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

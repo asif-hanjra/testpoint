@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'perfect':",
+      "options": {
+        "a": "flawless",
+        "b": "ideal",
+        "c": "flawed",
+        "d": "excellent"
+      },
+      "one_liner": "An antonym of 'perfect' is 'flawed', which means having imperfections.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

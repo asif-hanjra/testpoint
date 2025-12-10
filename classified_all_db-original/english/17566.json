@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'foment':",
+      "options": {
+        "a": "quell",
+        "b": "provoke",
+        "c": "instigate",
+        "d": "encourage"
+      },
+      "one_liner": "An antonym of 'foment' is 'quell', which means to suppress or put an end to something.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

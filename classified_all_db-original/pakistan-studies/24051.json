@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the average annual real GDP growth rate of Pakistan in the 1980s?",
+      "options": {
+        "a": "4.8%",
+        "b": "5.5%",
+        "c": "6.8%",
+        "d": "6.5%"
+      },
+      "one_liner": "In the 1980s, Pakistan achieved an average annual real GDP growth rate of **6.5%**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

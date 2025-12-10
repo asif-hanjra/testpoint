@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The children were all at the table waiting for the mother to dish ___.",
+      "options": {
+        "a": "out",
+        "b": "up",
+        "c": "in",
+        "d": "off"
+      },
+      "one_liner": "The children were all at the table waiting for the mother to dish 'up.'",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

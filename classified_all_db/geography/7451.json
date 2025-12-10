@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following processes are included in denudation?",
+      "options": {
+        "a": "Weathering, erosion, and mass wasting",
+        "b": "Only weathering and erosion",
+        "c": "Only erosion and mass wasting",
+        "d": "None of these"
+      },
+      "one_liner": "Denudation is a collective term that includes the processes of **weathering, erosion, and mass wasting**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Denudation (Weathering, Erosion, Mass Wasting)",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Denudation (Weathering, Erosion, Mass Wasting)",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'The book on the table is mine,' what part of speech is 'on'?",
+      "options": {
+        "a": "Adjective",
+        "b": "Preposition",
+        "c": "Adverb",
+        "d": "Noun"
+      },
+      "one_liner": "In the sentence 'The book on the table is mine', the word 'on' is a preposition because it shows the spatial relationship between 'book' and 'table'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

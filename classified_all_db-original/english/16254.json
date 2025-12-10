@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rookie':",
+      "options": {
+        "a": "neophyte:expert",
+        "b": "beginner:professional",
+        "c": "novice:veteran",
+        "d": "amateur:expert"
+      },
+      "one_liner": "'Neophyte' is a synonym of 'rookie', while 'expert' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

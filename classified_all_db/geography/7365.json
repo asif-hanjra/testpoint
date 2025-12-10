@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which important buildings are located to the north of the Supreme Court Building in Islamabad?",
+      "options": {
+        "a": "Prime Minister's Office",
+        "b": "Aiwan-e-Sadr and Parliament House",
+        "c": "National Library",
+        "d": "None of these"
+      },
+      "one_liner": "To the north of the Supreme Court Building in Islamabad are **Aiwan-e-Sadr and the Parliament House**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

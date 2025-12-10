@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What physical quantity is measured in decibels?",
+      "options": {
+        "a": "Pressure",
+        "b": "Temperature",
+        "c": "Intensity of sound",
+        "d": "Length"
+      },
+      "one_liner": "The intensity of sound is commonly measured in **decibels**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'doubt':",
+      "options": {
+        "a": "uncertainty",
+        "b": "skepticism",
+        "c": "certainty",
+        "d": "mistrust"
+      },
+      "one_liner": "The opposite of 'doubt' is 'certainty', which implies having no questions or reservations.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gamut':",
+      "options": {
+        "a": "range:fraction",
+        "b": "scope:totality",
+        "c": "spectrum:part",
+        "d": "series:whole"
+      },
+      "one_liner": "'Range' is a synonym of 'gamut', while 'fraction' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

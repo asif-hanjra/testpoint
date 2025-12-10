@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the chemical composition of Compressed Natural Gas (CNG) compared to Sui Gas?",
+      "options": {
+        "a": "It is different",
+        "b": "It is the same",
+        "c": "It is partially similar",
+        "d": "None of these"
+      },
+      "one_liner": "Compressed Natural Gas (CNG) shares the **same chemical composition** as Sui Gas, making them chemically identical.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

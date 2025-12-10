@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'indolent':",
+      "options": {
+        "a": "lazy",
+        "b": "idle",
+        "c": "industrious",
+        "d": "inactive"
+      },
+      "one_liner": "An antonym of 'indolent' is 'industrious', which means hard-working.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

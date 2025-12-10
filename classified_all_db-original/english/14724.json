@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'queer':",
+      "options": {
+        "a": "ordinary",
+        "b": "peculiar",
+        "c": "familiar",
+        "d": "standard"
+      },
+      "one_liner": "'Queer' often refers to something strange or odd, similar to 'peculiar'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

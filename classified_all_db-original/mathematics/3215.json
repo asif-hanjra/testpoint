@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Which logic unit gives 0 output if all inputs are 1?",
+      "options": {
+        "a": "NOR",
+        "b": "NAND",
+        "c": "Both A and B",
+        "d": "NOT"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

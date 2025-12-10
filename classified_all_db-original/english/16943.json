@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Whatever he does is always contrary ___ my wishes.",
+      "options": {
+        "a": "with",
+        "b": "to",
+        "c": "for",
+        "d": "at"
+      },
+      "one_liner": "Whatever he does is always contrary 'to' my wishes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

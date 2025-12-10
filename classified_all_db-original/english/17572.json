@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Salma has been ill ___ fever.",
+      "options": {
+        "a": "by",
+        "b": "with",
+        "c": "from",
+        "d": "of"
+      },
+      "one_liner": "Salma has been ill 'with' fever.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

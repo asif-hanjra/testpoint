@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'enigma':",
+      "options": {
+        "a": "clarity",
+        "b": "conundrum",
+        "c": "explanation",
+        "d": "answer"
+      },
+      "one_liner": "'Enigma' refers to something mysterious or puzzling—words like 'mystery' and 'conundrum' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

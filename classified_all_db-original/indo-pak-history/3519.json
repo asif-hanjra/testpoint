@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the consequence for Tipu Sultan after the Treaty of Seringapatam?",
+      "options": {
+        "a": "He gained territory",
+        "b": "He surrendered half of his kingdom",
+        "c": "He became a British ally",
+        "d": "None of these"
+      },
+      "one_liner": "As a result of the Treaty of Seringapatam, **Tipu Sultan surrendered half of his kingdom**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

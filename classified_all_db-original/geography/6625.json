@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Indian Peninsula is located between which two major geographical features?",
+      "options": {
+        "a": "Andes and Atlantic Ocean",
+        "b": "Himalayan mountains and Indian Ocean",
+        "c": "Alps and Mediterranean Sea",
+        "d": "Rocky Mountains and Pacific Ocean"
+      },
+      "one_liner": "The **Indian Peninsula** is situated between the Himalayan mountains and the Indian Ocean.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Peninsulas",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Peninsulas",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

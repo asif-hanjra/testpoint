@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I have no desire ___ name and fame.",
+      "options": {
+        "a": "of",
+        "b": "for",
+        "c": "to",
+        "d": "with"
+      },
+      "one_liner": "I have no desire 'for' name and fame.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

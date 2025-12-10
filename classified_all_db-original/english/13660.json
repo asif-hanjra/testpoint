@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'efface':",
+      "options": {
+        "a": "destroy",
+        "b": "erase",
+        "c": "preserve",
+        "d": "remove"
+      },
+      "one_liner": "An antonym of 'efface' is 'preserve', which means to maintain or protect something from being erased or destroyed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

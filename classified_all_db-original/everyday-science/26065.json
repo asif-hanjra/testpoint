@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is the atmosphere important for life on Earth?",
+      "options": {
+        "a": "It provides water",
+        "b": "It supports plant growth only",
+        "c": "It protects and helps life survive",
+        "d": "None of these"
+      },
+      "one_liner": "The **atmosphere** is crucial for life on Earth as it protects and supports all living organisms in various ways.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

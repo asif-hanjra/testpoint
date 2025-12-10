@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: Please help me.",
+      "options": {
+        "a": "You are requested to help me.",
+        "b": "You are being requested to help me.",
+        "c": "You were requested to help me.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

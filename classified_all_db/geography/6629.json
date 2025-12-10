@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the imaginary line that divides the earth into the Northern and Southern Hemispheres?",
+      "options": {
+        "a": "Equator",
+        "b": "Prime Meridian",
+        "c": "Tropic of Cancer",
+        "d": "Tropic of Capricorn"
+      },
+      "one_liner": "The imaginary line that divides the earth into the Northern and Southern Hemispheres is called the **Equator**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'infiltrate':",
+      "options": {
+        "a": "separate",
+        "b": "penetrate",
+        "c": "reveal",
+        "d": "disconnect"
+      },
+      "one_liner": "'Infiltrate' means to secretly enter or join something, similar to 'penetrate' or 'permeate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

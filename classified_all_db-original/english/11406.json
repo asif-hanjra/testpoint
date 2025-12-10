@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin term 'Corrigendum' refer to in the context of publishing?",
+      "options": {
+        "a": "A book's preface",
+        "b": "An error to be corrected",
+        "c": "A chapter summary",
+        "d": "An author's pseudonym"
+      },
+      "one_liner": "The term 'Corrigendum' refers to an error in a printed work that needs to be corrected.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

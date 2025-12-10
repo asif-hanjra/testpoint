@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If x = t and y = m, then what is the value of (y − x)ⁿ?",
+      "options": {
+        "a": "(t − m)ⁿ   . (m + t)ⁿ",
+        "b": "(m − t)ⁿ",
+        "c": "(t + m)/n",
+        "d": ""
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

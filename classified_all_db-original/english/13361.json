@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'alas' in the sentence 'Alas! He missed the train.'",
+      "options": {
+        "a": "Adverb",
+        "b": "Noun",
+        "c": "Interjection",
+        "d": "Verb"
+      },
+      "one_liner": "'Alas' is an interjection, used to express sorrow or regret.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

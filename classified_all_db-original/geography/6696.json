@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is known as the seaport of Japan?",
+      "options": {
+        "a": "Osaka",
+        "b": "Nagoya",
+        "c": "Tokyo",
+        "d": "Sapporo"
+      },
+      "one_liner": "The Japanese city recognized as a major seaport is **Nagoya**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Islands",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

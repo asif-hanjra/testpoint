@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: \"Did you catch the fly?\"",
+      "options": {
+        "a": "Was the fly caught by you?",
+        "b": "Is fly was caught by me?",
+        "c": "Was the fly caught?",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

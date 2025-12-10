@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "At room temperature, what is the physical state of most metals?",
+      "options": {
+        "a": "Solid",
+        "b": "Liquid",
+        "c": "Gas",
+        "d": "Plasma"
+      },
+      "one_liner": "Most metals exist as **solids** at room temperature, distinguishing them from nonmetals like mercury which is liquid.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

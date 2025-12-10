@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'plethora':",
+      "options": {
+        "a": "abundance",
+        "b": "excess",
+        "c": "scarcity",
+        "d": "surplus"
+      },
+      "one_liner": "An antonym of 'plethora' is 'scarcity', which signifies a shortage or insufficiency.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

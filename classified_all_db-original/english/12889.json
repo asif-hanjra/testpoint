@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conjure':",
+      "options": {
+        "a": "ignore",
+        "b": "summon",
+        "c": "disperse",
+        "d": "bury"
+      },
+      "one_liner": "'Conjure' means to make something appear as if by magic, similar to 'summon'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'advocate':",
+      "options": {
+        "a": "proponent:adversary",
+        "b": "champion:ally",
+        "c": "supporter:critic",
+        "d": "defender:opponent"
+      },
+      "one_liner": "'Proponent' is a synonym of 'advocate', while 'adversary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

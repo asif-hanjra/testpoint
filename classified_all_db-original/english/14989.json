@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'anxious':",
+      "options": {
+        "a": "worried",
+        "b": "uneasy",
+        "c": "calm",
+        "d": "tense"
+      },
+      "one_liner": "The opposite of feeling 'anxious' is feeling 'calm' or at ease.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

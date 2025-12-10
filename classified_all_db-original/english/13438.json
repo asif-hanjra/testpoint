@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dispute':",
+      "options": {
+        "a": "contention:accord",
+        "b": "controversy:agreement",
+        "c": "debate:consent",
+        "d": "argument:harmony"
+      },
+      "one_liner": "'Controversy' is a synonym of 'dispute', while 'agreement' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

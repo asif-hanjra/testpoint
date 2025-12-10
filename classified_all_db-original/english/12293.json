@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'poverty':",
+      "options": {
+        "a": "wealth",
+        "b": "destitution",
+        "c": "prosperity",
+        "d": "abundance"
+      },
+      "one_liner": "'Poverty' refers to the state of being extremely poor, similar to 'destitution'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

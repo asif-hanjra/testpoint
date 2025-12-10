@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are drugs called that calm the nervous system and prevent worry and tension?",
+      "options": {
+        "a": "Antibiotics",
+        "b": "Analgesics",
+        "c": "Tranquillizers",
+        "d": "None of these"
+      },
+      "one_liner": "Drugs that calm the nervous system and prevent worry and tension are known as **Tranquillizers**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

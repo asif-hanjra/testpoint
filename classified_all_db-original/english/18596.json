@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The Huntsman aimed ___ the lion.",
+      "options": {
+        "a": "on",
+        "b": "at",
+        "c": "to",
+        "d": "in"
+      },
+      "one_liner": "The Huntsman aimed 'at' the lion.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

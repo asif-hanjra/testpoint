@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'precipitate':",
+      "options": {
+        "a": "delay",
+        "b": "accelerate",
+        "c": "halt",
+        "d": "postpone"
+      },
+      "one_liner": "'Precipitate' can mean to hasten or speed up, similar to 'accelerate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

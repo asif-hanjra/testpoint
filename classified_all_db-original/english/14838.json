@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "There are a series ___ questions.",
+      "options": {
+        "a": "in",
+        "b": "of",
+        "c": "for",
+        "d": "at"
+      },
+      "one_liner": "There are a series 'of' questions.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

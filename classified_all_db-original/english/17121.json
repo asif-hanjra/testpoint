@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'alter':",
+      "options": {
+        "a": "preserve",
+        "b": "modify",
+        "c": "fix",
+        "d": "maintain"
+      },
+      "one_liner": "'Alter' means to change or modify, so 'modify' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

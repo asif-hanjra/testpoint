@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does LNG stand for?",
+      "options": {
+        "a": "Liquid Nitrogen Gas",
+        "b": "Liquefied Natural Gas",
+        "c": "Low Nitrogen Gas",
+        "d": "None of these"
+      },
+      "one_liner": "The abbreviation LNG refers to **Liquefied Natural Gas**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name given to the headquarters of the Democratic Party in Washington?",
+      "options": {
+        "a": "Watergate",
+        "b": "Capitol Hill",
+        "c": "White House",
+        "d": "Pentagon"
+      },
+      "one_liner": "The headquarters of the Democratic Party in Washington is known as the **Watergate**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

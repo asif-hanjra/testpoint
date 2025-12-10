@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Since when has the Lahore-Sialkot Motorway (M11) been operational?",
+      "options": {
+        "a": "2018",
+        "b": "2019",
+        "c": "2020",
+        "d": "2021"
+      },
+      "one_liner": "The M11 Lahore-Sialkot Motorway has been operational since **2020**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

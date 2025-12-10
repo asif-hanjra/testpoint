@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pitch':",
+      "options": {
+        "a": "hurl:receive",
+        "b": "throw:hold",
+        "c": "toss:catch",
+        "d": "fling:drop"
+      },
+      "one_liner": "'Hurl' is a synonym for 'pitch', while 'receive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

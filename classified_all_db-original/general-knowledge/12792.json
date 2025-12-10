@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the current president of France?",
+      "options": {
+        "a": "Emmanuel Macron",
+        "b": "Nicolas Sarkozy",
+        "c": "Francois Hollande",
+        "d": "None of these"
+      },
+      "one_liner": "As of now, the president of France is **Emmanuel Macron**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

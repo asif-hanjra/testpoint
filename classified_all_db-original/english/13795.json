@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'beneficial':",
+      "options": {
+        "a": "advantageous:harmful",
+        "b": "favorable:harmful",
+        "c": "helpful:detrimental",
+        "d": "useful:unfavorable"
+      },
+      "one_liner": "'Favorable' is a synonym of 'beneficial', while 'harmful' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

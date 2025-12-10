@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest volcano in the world?",
+      "options": {
+        "a": "Mount Etna",
+        "b": "Mount Fuji",
+        "c": "Mauna Loa",
+        "d": "Mount Vesuvius"
+      },
+      "one_liner": "The world's largest volcano is **Mauna Loa**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Mountains",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

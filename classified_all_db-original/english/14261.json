@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rear':",
+      "options": {
+        "a": "back",
+        "b": "hind",
+        "c": "front",
+        "d": "bottom"
+      },
+      "one_liner": "The antonym of 'rear' is 'front', referring to the opposite end or the foremost part.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

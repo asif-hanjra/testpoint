@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'amenable':",
+      "options": {
+        "a": "defiant",
+        "b": "compliant",
+        "c": "unwilling",
+        "d": "stubborn"
+      },
+      "one_liner": "'Amenable' means willing to follow advice or authority, similar to 'compliant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

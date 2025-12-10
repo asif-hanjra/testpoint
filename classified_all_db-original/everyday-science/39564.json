@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the cell called that results from the union of an ovum and a spermatozoon?",
+      "options": {
+        "a": "Zygote",
+        "b": "Embryo",
+        "c": "Gamete",
+        "d": "None of these"
+      },
+      "one_liner": "The cell formed by the union of an ovum and a spermatozoon is known as a **zygote**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

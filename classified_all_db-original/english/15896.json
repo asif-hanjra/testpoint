@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pertinent':",
+      "options": {
+        "a": "irrelevant",
+        "b": "germane",
+        "c": "unrelated",
+        "d": "extraneous"
+      },
+      "one_liner": "'Pertinent' means relevant or applicable, similar to 'germane'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

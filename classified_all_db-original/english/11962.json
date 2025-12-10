@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'palliate':",
+      "options": {
+        "a": "aggravate",
+        "b": "mitigate",
+        "c": "intensify",
+        "d": "worsen"
+      },
+      "one_liner": "'Palliate' means to alleviate or lessen without curing, similar to 'mitigate' or 'alleviate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

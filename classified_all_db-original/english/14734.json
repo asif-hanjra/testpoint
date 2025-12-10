@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hoax':",
+      "options": {
+        "a": "deception",
+        "b": "sham",
+        "c": "truth",
+        "d": "fraud"
+      },
+      "one_liner": "The opposite of a 'hoax', which is a falsehood, would be the 'truth' or 'reality'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

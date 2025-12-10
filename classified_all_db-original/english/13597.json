@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'trifle':",
+      "options": {
+        "a": "importance",
+        "b": "triviality",
+        "c": "significance",
+        "d": "magnitude"
+      },
+      "one_liner": "'Trifle' can mean something of little importance or value, similar to 'triviality'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

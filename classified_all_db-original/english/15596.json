@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prevent':",
+      "options": {
+        "a": "allow",
+        "b": "hinder",
+        "c": "encourage",
+        "d": "permit"
+      },
+      "one_liner": "'Prevent' means to stop something from happening, similar to 'inhibit' or 'hinder'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

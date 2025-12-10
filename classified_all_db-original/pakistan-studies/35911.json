@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which traditional dance is popular in Pashtun cultures?",
+      "options": {
+        "a": "Attan",
+        "b": "Bhangra",
+        "c": "Kathak",
+        "d": "None of these"
+      },
+      "one_liner": "The traditional dance known as **Attan** is especially popular among Pashtun cultures.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

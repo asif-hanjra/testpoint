@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'approve':",
+      "options": {
+        "a": "accept",
+        "b": "consent",
+        "c": "reject",
+        "d": "agree"
+      },
+      "one_liner": "The opposite of 'approve' is 'reject', which means to dismiss or refuse acceptance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

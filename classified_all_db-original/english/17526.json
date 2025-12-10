@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'guilty':",
+      "options": {
+        "a": "blameworthy:blameless",
+        "b": "responsible:irresponsible",
+        "c": "liable:unaccountable",
+        "d": "culpable:innocuous"
+      },
+      "one_liner": "'Blameworthy' is a synonym of 'guilty', while 'blameless' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

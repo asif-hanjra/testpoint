@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of rocks mainly make up the Himalaya mountain range?",
+      "options": {
+        "a": "Igneous rock",
+        "b": "Sedimentary and metamorphic rock",
+        "c": "Volcanic rock",
+        "d": "None of these"
+      },
+      "one_liner": "The Himalaya mountain range is mainly made up of **uplifted sedimentary and metamorphic rock**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Denudation (Weathering, Erosion, Mass Wasting)",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

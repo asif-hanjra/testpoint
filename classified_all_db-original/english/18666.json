@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'alter':",
+      "options": {
+        "a": "adjust:retain",
+        "b": "modify:change",
+        "c": "transform:preserve",
+        "d": "vary:keep"
+      },
+      "one_liner": "'Adjust' is a synonym of 'alter', while 'retain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

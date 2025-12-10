@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'facetious':",
+      "options": {
+        "a": "humorous",
+        "b": "witty",
+        "c": "serious",
+        "d": "amusing"
+      },
+      "one_liner": "An antonym of 'facetious' is 'serious', which means sincere or earnest.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

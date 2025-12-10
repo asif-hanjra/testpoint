@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pedant':",
+      "options": {
+        "a": "quibbler:free spirit",
+        "b": "scholar:amateur",
+        "c": "expert:novice",
+        "d": "stickler:enthusiast"
+      },
+      "one_liner": "'Quibbler' is a synonym of 'pedant', while 'free spirit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

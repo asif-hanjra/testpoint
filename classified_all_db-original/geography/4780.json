@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Khunjerab Pass is the highest-paved international border crossing in the world. True or False?",
+      "options": {
+        "a": "True",
+        "b": "False",
+        "c": "None of these",
+        "d": "All of these"
+      },
+      "one_liner": "Khunjerab Pass holds the distinction of being the **highest-paved international border crossing in the world**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

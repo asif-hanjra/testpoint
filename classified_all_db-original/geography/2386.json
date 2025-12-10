@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the height of Nanga Parbat?",
+      "options": {
+        "a": "8126 metres",
+        "b": "8611 metres",
+        "c": "8047 metres",
+        "d": "7284 metres"
+      },
+      "one_liner": "Nanga Parbat stands at a height of **8126 metres**, making it one of the tallest mountains in the world.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

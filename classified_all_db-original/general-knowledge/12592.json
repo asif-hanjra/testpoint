@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following countries is not a member of ASEAN (The Association of South East Asian Nations)?",
+      "options": {
+        "a": "Republic of Korea",
+        "b": "Indonesia",
+        "c": "Malaysia",
+        "d": "Thailand"
+      },
+      "one_liner": "The Republic of Korea is not a member of **ASEAN (The Association of South East Asian Nations)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

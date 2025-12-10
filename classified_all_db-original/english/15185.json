@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'meandering':",
+      "options": {
+        "a": "direct",
+        "b": "curved",
+        "c": "twisting",
+        "d": "zigzag"
+      },
+      "one_liner": "The antonym of 'meandering', which means winding or indirect, is 'direct', indicating a straight and clear path.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

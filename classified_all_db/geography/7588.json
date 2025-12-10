@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The majority of the Arabian Desert is located in which country?",
+      "options": {
+        "a": "Iraq",
+        "b": "Saudi Arabia",
+        "c": "Oman",
+        "d": "Yemen"
+      },
+      "one_liner": "A large part of the **Arabian Desert** lies within modern **Saudi Arabia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

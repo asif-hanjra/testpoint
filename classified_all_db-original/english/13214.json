@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dichotomy':",
+      "options": {
+        "a": "contrast:harmony",
+        "b": "division:unity",
+        "c": "difference:similarity",
+        "d": "separation:connection"
+      },
+      "one_liner": "'Division' is a synonym of 'dichotomy', while 'unity' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

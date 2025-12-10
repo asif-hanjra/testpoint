@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the ship attacked by pirates as it passed through the Arabian Sea?",
+      "options": {
+        "a": "Bay of Bengal",
+        "b": "Arabian Sea",
+        "c": "Red Sea",
+        "d": "Indian Ocean"
+      },
+      "one_liner": "The ship sent by the king of Ceylon was attacked by pirates in the **Arabian Sea** as it passed the mouth of Indus.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Arrival of Muhammad bin Qasim to Subcontinent (712)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Arrival of Muhammad bin Qasim to Subcontinent (712)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

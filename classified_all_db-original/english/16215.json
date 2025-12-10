@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'asylum':",
+      "options": {
+        "a": "refuge:threat",
+        "b": "sanctuary:security",
+        "c": "haven:harbor",
+        "d": "shelter:safety"
+      },
+      "one_liner": "'Refuge' is a synonym of 'asylum', while 'threat' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

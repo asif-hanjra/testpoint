@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin legal phrase 'Ei incumbit probatio qui' imply in the context of a legal burden?",
+      "options": {
+        "a": "The proof lies in the pudding",
+        "b": "The burden of proof lies on who asserts, not on who denies",
+        "c": "To each his own",
+        "d": "In the presence of the people, the laws are silent"
+      },
+      "one_liner": "'Ei incumbit probatio qui' means that the person who declares something must prove it, not the person who denies.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

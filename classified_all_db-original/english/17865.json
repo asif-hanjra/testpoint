@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Anwar sped ___ around the block in his new car.",
+      "options": {
+        "a": "in",
+        "b": "up",
+        "c": "by",
+        "d": "on"
+      },
+      "one_liner": "Anwar sped 'up' around the block in his new car.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

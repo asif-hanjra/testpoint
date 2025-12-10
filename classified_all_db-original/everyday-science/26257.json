@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which three parts make up the small intestine?",
+      "options": {
+        "a": "Duodenum, jejunum, and ileum",
+        "b": "Cecum, colon, and rectum",
+        "c": "Esophagus, stomach, and colon",
+        "d": "None of these"
+      },
+      "one_liner": "The small intestine is composed of three main sections: the **duodenum**, the **jejunum**, and the **ileum**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

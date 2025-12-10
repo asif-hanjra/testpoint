@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which non-EU countries are part of the Schengen Area?",
+      "options": {
+        "a": "Iceland, Norway, Switzerland, Liechtenstein",
+        "b": "Switzerland, Turkey, Norway, Iceland",
+        "c": "Norway, Switzerland, Serbia, Iceland",
+        "d": "Liechtenstein, Norway, Switzerland, Albania"
+      },
+      "one_liner": "The non-EU countries Iceland, Norway, Switzerland, and Liechtenstein are also part of the **Schengen Area**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

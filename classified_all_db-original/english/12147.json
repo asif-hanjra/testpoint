@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "My uncle is wiser ___ my siblings because he is older ___ them.",
+      "options": {
+        "a": "to",
+        "b": "than",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "My uncle is wiser 'than' my siblings because he is older 'than' them.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

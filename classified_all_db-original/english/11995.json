@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'foment':",
+      "options": {
+        "a": "instigate:suppress",
+        "b": "agitate:calm",
+        "c": "provoke:encourage",
+        "d": "stir:soothe"
+      },
+      "one_liner": "'Instigate' is a synonym of 'foment', while 'suppress' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

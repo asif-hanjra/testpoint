@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'frank':",
+      "options": {
+        "a": "evasive",
+        "b": "honest",
+        "c": "forthright",
+        "d": "open"
+      },
+      "one_liner": "The antonym of 'frank' is 'evasive', which means not straightforward or candid.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

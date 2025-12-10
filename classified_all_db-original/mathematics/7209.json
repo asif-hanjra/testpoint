@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The normal line to the circle x² + y² = 25 at (2, 3) is?",
+      "options": {
+        "a": "3x + 2y = 0",
+        "b": "3x - 2y = 0",
+        "c": "3x + 2y + 1 = 2",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

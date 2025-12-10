@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the phrase 'eye wash':",
+      "options": {
+        "a": "transparency",
+        "b": "smokescreen",
+        "c": "clarity",
+        "d": "honesty"
+      },
+      "one_liner": "'Eye wash' is a phrase that means something intended to deceive or mislead, similar to 'smokescreen' or 'camouflage'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

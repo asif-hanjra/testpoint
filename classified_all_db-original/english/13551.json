@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lenient':",
+      "options": {
+        "a": "permissive:rigorous",
+        "b": "tolerant:indulgent",
+        "c": "merciful:compassionate",
+        "d": "flexible:inflexible"
+      },
+      "one_liner": "'Permissive' is a synonym of 'lenient', while 'rigorous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

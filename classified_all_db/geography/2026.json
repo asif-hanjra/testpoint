@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main town of Baltistan?",
+      "options": {
+        "a": "Gilgit",
+        "b": "Skardu",
+        "c": "Hunza",
+        "d": "Bagh"
+      },
+      "one_liner": "The main town of Baltistan is **Skardu**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

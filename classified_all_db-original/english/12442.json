@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fervor':",
+      "options": {
+        "a": "apathy",
+        "b": "ardor",
+        "c": "disinterest",
+        "d": "indifference"
+      },
+      "one_liner": "'Fervor' is often associated with intense passion or zeal, making 'ardor' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

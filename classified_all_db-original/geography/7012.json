@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which two rivers does the Bari Doab lie?",
+      "options": {
+        "a": "Ravi and Beas",
+        "b": "Chenab and Ravi",
+        "c": "Beas and Sutlej",
+        "d": "Jhelum and Chenab"
+      },
+      "one_liner": "The Bari Doab lies between the **Ravi and Beas rivers**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

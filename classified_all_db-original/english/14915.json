@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'The cat sat on the mat,' what part of speech is 'cat'?",
+      "options": {
+        "a": "Adjective",
+        "b": "Noun",
+        "c": "Verb",
+        "d": "Pronoun"
+      },
+      "one_liner": "In the sentence 'The cat sat on the mat', the word 'cat' is a noun because it names an animal.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

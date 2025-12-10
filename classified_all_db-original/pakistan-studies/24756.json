@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country's testing of the Agni-II missile initiated the missile-race in Asia?",
+      "options": {
+        "a": "Pakistan",
+        "b": "China",
+        "c": "India",
+        "d": "None of these"
+      },
+      "one_liner": "The missile race in Asia was initiated by **India** when it tested its Agni-II missile.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

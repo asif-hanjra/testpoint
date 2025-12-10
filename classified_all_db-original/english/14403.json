@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'unequivocal':",
+      "options": {
+        "a": "equivocal",
+        "b": "clear",
+        "c": "explicit",
+        "d": "distinct"
+      },
+      "one_liner": "An antonym of 'unequivocal' is 'equivocal', which means open to more than one interpretation or unclear.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is ignorant ___ his demerits.",
+      "options": {
+        "a": "about",
+        "b": "of",
+        "c": "for",
+        "d": "with"
+      },
+      "one_liner": "He is ignorant 'of' his demerits.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

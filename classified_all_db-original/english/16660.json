@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'optometrist':",
+      "options": {
+        "a": "dentist",
+        "b": "ophthalmologist",
+        "c": "pediatrician",
+        "d": "dermatologist"
+      },
+      "one_liner": "'Optometrist' refers to an eye doctor, similar to an 'ophthalmologist', though the latter can perform surgeries.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

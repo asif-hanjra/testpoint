@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'observe':",
+      "options": {
+        "a": "ignore",
+        "b": "perceive",
+        "c": "neglect",
+        "d": "overlook"
+      },
+      "one_liner": "'Observe' means to watch carefully or to notice, similar to 'perceive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

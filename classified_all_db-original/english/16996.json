@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "PLAY : SING :: ANTHEM : ________?",
+      "options": {
+        "a": "Band",
+        "b": "Score",
+        "c": "Stage",
+        "d": "Voice"
+      },
+      "one_liner": "Play and sing are related to musical performance; an anthem is a song, and a score is its written form.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

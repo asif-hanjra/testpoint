@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'furtive':",
+      "options": {
+        "a": "obvious",
+        "b": "surreptitious",
+        "c": "forthright",
+        "d": "transparent"
+      },
+      "one_liner": "'Furtive' actions are done secretly or stealthily, similar to 'surreptitious' behavior.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

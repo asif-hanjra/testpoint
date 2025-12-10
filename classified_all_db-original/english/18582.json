@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tepid':",
+      "options": {
+        "a": "boiling",
+        "b": "lukewarm",
+        "c": "freezing",
+        "d": "scalding"
+      },
+      "one_liner": "'Tepid' means lukewarm or moderately warm, so 'lukewarm' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

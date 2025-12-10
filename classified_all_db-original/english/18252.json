@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'after' in the sentence 'She went home after the movie.'",
+      "options": {
+        "a": "Conjunction",
+        "b": "Preposition",
+        "c": "Adjective",
+        "d": "Verb"
+      },
+      "one_liner": "In the sentence 'She went home after the movie', the word 'after' is a preposition because it shows the time relationship between 'went' and 'movie'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'brevity':",
+      "options": {
+        "a": "verbosity",
+        "b": "conciseness",
+        "c": "lengthiness",
+        "d": "wordiness"
+      },
+      "one_liner": "'Brevity' refers to the quality of being brief or concise, similar to 'conciseness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

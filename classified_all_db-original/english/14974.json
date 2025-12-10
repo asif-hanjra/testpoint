@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prune':",
+      "options": {
+        "a": "clip",
+        "b": "trim",
+        "c": "expand",
+        "d": "snip"
+      },
+      "one_liner": "Antonyms of 'prune' include 'grow' and 'expand', both implying an increase rather than a decrease.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

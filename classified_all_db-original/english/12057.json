@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'magnify':",
+      "options": {
+        "a": "expand",
+        "b": "minimize",
+        "c": "broaden",
+        "d": "intensify"
+      },
+      "one_liner": "The antonym of 'magnify' is 'minimize', which means to make smaller or less important.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

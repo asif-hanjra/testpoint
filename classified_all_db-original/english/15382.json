@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abeyance':",
+      "options": {
+        "a": "dormancy:activation",
+        "b": "suspension:resumption",
+        "c": "inactivity:progress",
+        "d": "pause:continuation"
+      },
+      "one_liner": "'Dormancy' is a synonym of 'abeyance', while 'activation' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

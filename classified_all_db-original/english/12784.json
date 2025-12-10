@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rowdy':",
+      "options": {
+        "a": "orderly",
+        "b": "wild",
+        "c": "unruly",
+        "d": "loud"
+      },
+      "one_liner": "The antonym of 'rowdy' is 'orderly', which means well-behaved and disciplined.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

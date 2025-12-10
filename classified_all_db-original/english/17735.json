@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'aphoristic':",
+      "options": {
+        "a": "concise",
+        "b": "succinct",
+        "c": "verbose",
+        "d": "laconic"
+      },
+      "one_liner": "An antonym of 'aphoristic' would be 'verbose', which means using more words than necessary.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

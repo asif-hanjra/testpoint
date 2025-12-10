@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'martial':",
+      "options": {
+        "a": "peaceful",
+        "b": "warlike",
+        "c": "friendly",
+        "d": "civilian"
+      },
+      "one_liner": "'Martial' relates to war or the military, similar to 'warlike'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

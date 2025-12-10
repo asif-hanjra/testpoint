@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'remarkable':",
+      "options": {
+        "a": "ordinary",
+        "b": "extraordinary",
+        "c": "insignificant",
+        "d": "common"
+      },
+      "one_liner": "'Remarkable' means extraordinary or noteworthy—words like 'extraordinary' and 'outstanding' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

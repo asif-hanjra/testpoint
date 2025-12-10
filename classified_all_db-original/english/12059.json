@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'entrenched':",
+      "options": {
+        "a": "superficial",
+        "b": "ingrained",
+        "c": "transient",
+        "d": "ephemeral"
+      },
+      "one_liner": "'Entrenched' suggests being firmly established, similar to 'ingrained'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

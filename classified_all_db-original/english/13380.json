@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quenching':",
+      "options": {
+        "a": "dousing:fueling",
+        "b": "extinguishing:igniting",
+        "c": "satisfying:kindling",
+        "d": "slaking:warming"
+      },
+      "one_liner": "'Dousing' is a synonym of 'quenching', while 'fueling' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

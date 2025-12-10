@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tirade':",
+      "options": {
+        "a": "rant",
+        "b": "praise",
+        "c": "commendation",
+        "d": "harangue"
+      },
+      "one_liner": "An antonym of 'tirade' would be 'commendation', which implies praise rather than criticism.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

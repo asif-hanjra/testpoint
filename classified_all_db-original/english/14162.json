@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'upon' in the sentence 'He relied upon his friends'?",
+      "options": {
+        "a": "Conjunction",
+        "b": "Pronoun",
+        "c": "Verb",
+        "d": "Preposition"
+      },
+      "one_liner": "'Upon' is a preposition linking 'relied' to 'his friends'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

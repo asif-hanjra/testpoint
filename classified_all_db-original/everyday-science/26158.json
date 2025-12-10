@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is converted to electric power in a thermal power station?",
+      "options": {
+        "a": "Wind energy",
+        "b": "Heat energy",
+        "c": "Solar energy",
+        "d": "Mechanical energy"
+      },
+      "one_liner": "In a thermal power station, **heat energy** is converted to electric power.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'commence':",
+      "options": {
+        "a": "begin:end",
+        "b": "start:finish",
+        "c": "initiate:continue",
+        "d": "proceed:halt"
+      },
+      "one_liner": "'Begin' is a synonym of 'commence', while 'end' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

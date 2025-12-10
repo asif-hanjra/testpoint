@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'harbor':",
+      "options": {
+        "a": "expose",
+        "b": "shelter",
+        "c": "conceal",
+        "d": "protect"
+      },
+      "one_liner": "As a verb, 'harbor' can mean to give shelter or hide, so an antonym would be 'expose' or 'reveal'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

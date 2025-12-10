@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wearisome':",
+      "options": {
+        "a": "exciting",
+        "b": "tedious",
+        "c": "thrilling",
+        "d": "enjoyable"
+      },
+      "one_liner": "'Wearisome' tasks are often described as 'tedious' because they are long and boring.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

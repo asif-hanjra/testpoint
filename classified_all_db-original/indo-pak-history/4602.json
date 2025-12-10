@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of the Sufi order established by Moinuddin Chishti in North India?",
+      "options": {
+        "a": "Qadiriyya",
+        "b": "Suhrawardiyya",
+        "c": "Chishtiyya",
+        "d": "Naqshbandiyya"
+      },
+      "one_liner": "The Sufi order founded by Moinuddin Chishti in North India was known as the **Chishtiyya** order.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

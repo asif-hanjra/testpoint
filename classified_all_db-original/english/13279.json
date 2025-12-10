@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sublime':",
+      "options": {
+        "a": "exquisite:plain",
+        "b": "marvelous:fabulous",
+        "c": "splendid:stunning",
+        "d": "glorious:glamorous"
+      },
+      "one_liner": "'Exquisite' is a synonym of 'sublime', while 'plain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

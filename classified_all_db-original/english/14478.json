@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abeyance':",
+      "options": {
+        "a": "continuation",
+        "b": "suspension",
+        "c": "resumption",
+        "d": "progression"
+      },
+      "one_liner": "'Abeyance' refers to a state of temporary disuse or suspension, much like 'suspension' itself.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

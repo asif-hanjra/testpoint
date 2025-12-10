@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which comet is known as the brightest comet?",
+      "options": {
+        "a": "Halley",
+        "b": "Kohoutek",
+        "c": "Hale-Bopp",
+        "d": "Encke"
+      },
+      "one_liner": "The comet recognized as the brightest is **Kohoutek**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Geography of World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

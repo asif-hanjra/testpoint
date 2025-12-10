@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which project is the Jinnah Barrage a part of?",
+      "options": {
+        "a": "Taunsa Project",
+        "b": "Thal Project",
+        "c": "Guddu Project",
+        "d": "Kotri Project"
+      },
+      "one_liner": "Jinnah Barrage is part of the **Thal Project** to irrigate Sindh Sagar Doab.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

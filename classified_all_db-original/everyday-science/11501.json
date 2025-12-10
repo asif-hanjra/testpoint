@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is visible from Earth?",
+      "options": {
+        "a": "Venus",
+        "b": "Jupiter",
+        "c": "Mars",
+        "d": "None of these"
+      },
+      "one_liner": "Venus is one of the planets that can be seen from Earth with the naked eye, making it visible from our planet.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

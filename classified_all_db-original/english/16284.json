@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "PROBOSCIS : ABDOMEN :: GUT : ________?",
+      "options": {
+        "a": "Stomach",
+        "b": "Ear",
+        "c": "Heart",
+        "d": "Liver"
+      },
+      "one_liner": "A proboscis is an elongated mouthpart, and an abdomen is a body part; gut refers to the intestines, and ear is a sensory organ.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

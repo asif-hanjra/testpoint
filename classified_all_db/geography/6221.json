@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river is the Rasul Barrage located?",
+      "options": {
+        "a": "Chenab",
+        "b": "Jehlum",
+        "c": "Indus",
+        "d": "Ravi"
+      },
+      "one_liner": "The Rasul Barrage is constructed on the **Jehlum River**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

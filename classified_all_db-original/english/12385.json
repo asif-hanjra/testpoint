@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hold':",
+      "options": {
+        "a": "retain:surrender",
+        "b": "grasp:discard",
+        "c": "clutch:throw",
+        "d": "grip:release"
+      },
+      "one_liner": "'Retain' is a synonym of 'hold', while 'surrender' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

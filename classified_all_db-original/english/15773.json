@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hackneyed':",
+      "options": {
+        "a": "stale",
+        "b": "original",
+        "c": "worn-out",
+        "d": "commonplace"
+      },
+      "one_liner": "An antonym of 'hackneyed' would be 'original', which means fresh and not derivative.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

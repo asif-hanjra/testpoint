@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of the human body is composed of oxygen?",
+      "options": {
+        "a": "25%",
+        "b": "40%",
+        "c": "65%",
+        "d": "80%"
+      },
+      "one_liner": "Oxygen makes up approximately **65%** of the human body by mass.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

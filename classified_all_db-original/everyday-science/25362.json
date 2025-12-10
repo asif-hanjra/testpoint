@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the other name for Congo Virus?",
+      "options": {
+        "a": "Crimean-Congo hemorrhagic fever",
+        "b": "Ebola",
+        "c": "Dengue",
+        "d": "None of these"
+      },
+      "one_liner": "Congo Virus is also known as **Crimean-Congo hemorrhagic fever (CCHF)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

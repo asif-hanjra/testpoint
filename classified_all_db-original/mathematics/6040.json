@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "In BODMAS In the expression  4+6×(3+2), which operation will be solved first?",
+      "options": {
+        "a": "Addition (4 + 6)",
+        "b": "Multiplication (6 × 5)",
+        "c": "Brackets (3 + 2)",
+        "d": "Addition (4 + 6 × 5)"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

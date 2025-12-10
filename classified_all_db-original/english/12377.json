@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hobble':",
+      "options": {
+        "a": "stagger:glide",
+        "b": "limp:stroll",
+        "c": "falter:run",
+        "d": "trip:stride"
+      },
+      "one_liner": "'Stagger' is a synonym of 'hobble', while 'glide' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

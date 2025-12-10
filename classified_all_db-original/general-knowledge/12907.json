@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of the United Nations Populations Fund (UNFPA) located?",
+      "options": {
+        "a": "New York, USA",
+        "b": "Geneva, Switzerland",
+        "c": "Paris, France",
+        "d": "London, UK"
+      },
+      "one_liner": "The headquarters of the United Nations Populations Fund (UNFPA) is situated in **New York, USA**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

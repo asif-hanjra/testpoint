@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "A few people have some knowledge ___ physics.",
+      "options": {
+        "a": "at",
+        "b": "of",
+        "c": "in",
+        "d": "about"
+      },
+      "one_liner": "A few people have some knowledge 'of' physics.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

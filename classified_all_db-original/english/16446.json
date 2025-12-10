@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'analgesic':",
+      "options": {
+        "a": "stimulant",
+        "b": "painkiller",
+        "c": "irritant",
+        "d": "tonic"
+      },
+      "one_liner": "'Analgesic' refers to something that alleviates pain, similar to 'painkiller' or 'anodyne'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

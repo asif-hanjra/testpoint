@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Pervaiz Musharraf visit India for the Agra Summit?",
+      "options": {
+        "a": "12 July, 2001",
+        "b": "14 August, 2001",
+        "c": "26 January, 2001",
+        "d": "None of these"
+      },
+      "one_liner": "Pervaiz Musharraf visited India for the Agra Summit on **12 July, 2001**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

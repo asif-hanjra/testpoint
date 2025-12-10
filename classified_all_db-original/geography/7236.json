@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many countries are there in Asia?",
+      "options": {
+        "a": "44",
+        "b": "48",
+        "c": "52",
+        "d": "None of these"
+      },
+      "one_liner": "Asia is home to a total of **48 countries**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

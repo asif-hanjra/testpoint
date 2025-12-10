@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'premature':",
+      "options": {
+        "a": "delayed",
+        "b": "untimely",
+        "c": "punctual",
+        "d": "prolonged"
+      },
+      "one_liner": "'Premature' refers to something occurring too early, similar to 'untimely' or 'precipitate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

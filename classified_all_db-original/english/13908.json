@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lasso':",
+      "options": {
+        "a": "bind",
+        "b": "secure",
+        "c": "release",
+        "d": "tighten"
+      },
+      "one_liner": "While a 'lasso' is used to catch or secure, 'release' would be the opposite action.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

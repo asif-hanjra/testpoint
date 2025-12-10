@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the structure that appears in a cell nucleus during cell division and is responsible for the transmission of hereditary characteristics?",
+      "options": {
+        "a": "Chromosome",
+        "b": "Mitochondrion",
+        "c": "Ribosome",
+        "d": "None of these"
+      },
+      "one_liner": "A chromosome is a microscopic rod-shaped structure that appears in the cell nucleus during cell division and is responsible for transmitting hereditary characteristics, making **chromosome** the correct answer.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

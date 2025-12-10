@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the phrase 'by oneself' mean when someone says 'I completed the project by myself'?",
+      "options": {
+        "a": "With someone's help",
+        "b": "Without any help from others",
+        "c": "In a group",
+        "d": "Under supervision"
+      },
+      "one_liner": "The phrase 'by oneself' means to do something alone without any help from others.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

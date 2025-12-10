@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'proposition':",
+      "options": {
+        "a": "theory",
+        "b": "hypothesis",
+        "c": "reality",
+        "d": "concept"
+      },
+      "one_liner": "An antonym of 'proposition' is 'reality', as propositions are suggestions that may not reflect the current state.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which river is regarded as the national river of Russia?",
+      "options": {
+        "a": "Don",
+        "b": "Volga",
+        "c": "Ob",
+        "d": "Lena"
+      },
+      "one_liner": "The **Volga River** is regarded as the national river of Russia.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

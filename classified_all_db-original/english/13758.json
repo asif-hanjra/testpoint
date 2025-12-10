@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'enlarge':",
+      "options": {
+        "a": "expand",
+        "b": "increase",
+        "c": "reduce",
+        "d": "inflate"
+      },
+      "one_liner": "The opposite of 'enlarge', which means to increase in size, is 'reduce', meaning to make smaller.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

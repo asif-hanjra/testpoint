@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Fifth Fleet of the USA located?",
+      "options": {
+        "a": "Qatar",
+        "b": "Bahrain",
+        "c": "Kuwait",
+        "d": "Oman"
+      },
+      "one_liner": "The Fifth Fleet of the United States Navy is stationed in **Bahrain**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

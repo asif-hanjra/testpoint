@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He reached Lahore ___ bus.",
+      "options": {
+        "a": "in",
+        "b": "by",
+        "c": "with",
+        "d": "on"
+      },
+      "one_liner": "He reached Lahore 'by' bus.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'subpoena':",
+      "options": {
+        "a": "invitation",
+        "b": "suggestion",
+        "c": "proposal",
+        "d": "command"
+      },
+      "one_liner": "While a 'subpoena' compels attendance, an 'invitation' is a polite request without legal obligation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

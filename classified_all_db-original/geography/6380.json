@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country is the seaport Rotterdam located?",
+      "options": {
+        "a": "Belgium",
+        "b": "Germany",
+        "c": "Netherlands",
+        "d": "France"
+      },
+      "one_liner": "Rotterdam, one of the world's largest seaports, is located in the **Netherlands**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

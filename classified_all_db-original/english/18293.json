@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'wrath':",
+      "options": {
+        "a": "anger:contentment",
+        "b": "fury:delight",
+        "c": "rage:joy",
+        "d": "ire:pleasure"
+      },
+      "one_liner": "'Anger' is a synonym of 'wrath', while 'contentment' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

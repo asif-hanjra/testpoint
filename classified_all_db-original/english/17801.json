@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cacophony':",
+      "options": {
+        "a": "melody",
+        "b": "harmony",
+        "c": "din",
+        "d": "serenity"
+      },
+      "one_liner": "'Cacophony' refers to a harsh, discordant mixture of sounds, similar to 'din' or 'clamor'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inane':",
+      "options": {
+        "a": "ridiculous:logical",
+        "b": "sensible:foolish",
+        "c": "absurd:wise",
+        "d": "silly:intelligent"
+      },
+      "one_liner": "'Ridiculous' is a synonym of 'inane', while 'logical' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wheedle':",
+      "options": {
+        "a": "repel",
+        "b": "cajole",
+        "c": "antagonize",
+        "d": "dissuade"
+      },
+      "one_liner": "'Wheedle' means to coax or persuade someone to do something using flattery or cunning, similar to 'cajole'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

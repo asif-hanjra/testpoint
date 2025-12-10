@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'overhaul':",
+      "options": {
+        "a": "upgrade",
+        "b": "improve",
+        "c": "neglect",
+        "d": "renew"
+      },
+      "one_liner": "An antonym of 'overhaul' is 'neglect', as it implies a failure to care for or maintain something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

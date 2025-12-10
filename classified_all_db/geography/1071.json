@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mountain range is home to the planet's highest peaks, including Mount Everest?",
+      "options": {
+        "a": "Andes",
+        "b": "Rockies",
+        "c": "Himalayas",
+        "d": "Alps"
+      },
+      "one_liner": "The Himalayan range is renowned for containing the world's highest peaks, including **Mount Everest**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Mountains",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

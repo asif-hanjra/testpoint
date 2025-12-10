@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens to the sun's energy after it warms the Earth's surface?",
+      "options": {
+        "a": "Strong shortwave rays are emitted",
+        "b": "Weak longwave length rays are released",
+        "c": "No energy is emitted",
+        "d": "None of these"
+      },
+      "one_liner": "After warming the Earth's surface, the land emits **weak longwave length rays** back towards the atmosphere.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

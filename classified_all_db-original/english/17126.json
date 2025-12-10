@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "KITTEN : CAT :: SOLDIER : ________?",
+      "options": {
+        "a": "Army",
+        "b": "War",
+        "c": "Weapon",
+        "d": "Uniform"
+      },
+      "one_liner": "A kitten is a young cat, and a soldier is part of an army.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

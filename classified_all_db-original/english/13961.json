@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin term 'Ad valorem' commonly refer to in the context of taxation?",
+      "options": {
+        "a": "A fixed sum per unit of something",
+        "b": "A tax based on the assessed value of an item",
+        "c": "A tax on imported goods",
+        "d": "A tax based on the weight of an item"
+      },
+      "one_liner": "'Ad valorem' refers to a type of tax determined by the assessed value of an item, such as property or goods.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

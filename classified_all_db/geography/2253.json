@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the movement pattern of comets in the solar system?",
+      "options": {
+        "a": "They remain stationary",
+        "b": "They move around the sun",
+        "c": "They move around the earth",
+        "d": "None of these"
+      },
+      "one_liner": "Comets are known for **moving around the sun** in the solar system.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

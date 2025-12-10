@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the table in which elements are grouped according to their atomic number?",
+      "options": {
+        "a": "Periodic Table",
+        "b": "Atomic Table",
+        "c": "Elemental Chart",
+        "d": "Mendeleev Table"
+      },
+      "one_liner": "Elements are systematically arranged by their atomic number in the **Periodic Table**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

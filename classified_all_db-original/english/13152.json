@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'acrimonious':",
+      "options": {
+        "a": "gentle",
+        "b": "caustic",
+        "c": "sweet",
+        "d": "kind"
+      },
+      "one_liner": "'Acrimonious' describes a sharp and bitter manner, much like the word 'caustic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

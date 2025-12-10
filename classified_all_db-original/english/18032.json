@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'incidence':",
+      "options": {
+        "a": "prevalence:infrequency",
+        "b": "rarity:commonality",
+        "c": "occurrence:scarcity",
+        "d": "regularity:uncommonness"
+      },
+      "one_liner": "'Frequency' is a synonym of 'incidence', while 'infrequency' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

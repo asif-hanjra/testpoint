@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Sufi order was Bahauddin Zakariya associated with?",
+      "options": {
+        "a": "Chishti Order",
+        "b": "Qadiri Order",
+        "c": "Suhrawardiyya Order",
+        "d": "Naqshbandi Order"
+      },
+      "one_liner": "Bahauddin Zakariya was a prominent Sufi saint of the **Suhrawardiyya Order**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

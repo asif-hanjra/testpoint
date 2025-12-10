@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which one is different from the rest? Panda, Snake, Cow, Horse",
+      "options": {
+        "a": "Panda",
+        "b": "Snake",
+        "c": "Cow",
+        "d": "Horse"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fluffy':",
+      "options": {
+        "a": "fuzzy:solid",
+        "b": "soft:hard",
+        "c": "light:heavy",
+        "d": "downy:dense"
+      },
+      "one_liner": "'Fuzzy' is a synonym of 'fluffy', while 'solid' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

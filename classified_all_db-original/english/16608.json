@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'narcotic':",
+      "options": {
+        "a": "sedative",
+        "b": "analgesic",
+        "c": "stimulant",
+        "d": "tranquilizer"
+      },
+      "one_liner": "An antonym of 'narcotic' is 'stimulant', which increases alertness and energy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

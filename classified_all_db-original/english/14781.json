@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obvious':",
+      "options": {
+        "a": "manifest:cryptic",
+        "b": "hidden:evident",
+        "c": "apparent:ambiguous",
+        "d": "clear:obscure"
+      },
+      "one_liner": "'Manifest' is a synonym of 'obvious', while 'cryptic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

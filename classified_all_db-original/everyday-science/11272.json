@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two metals are primarily used to make solder?",
+      "options": {
+        "a": "Tin and copper",
+        "b": "Tin and lead",
+        "c": "Lead and zinc",
+        "d": "Copper and zinc"
+      },
+      "one_liner": "Solder is commonly made from an alloy of **tin and lead**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

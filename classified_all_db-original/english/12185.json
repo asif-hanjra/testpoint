@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'listless':",
+      "options": {
+        "a": "energetic",
+        "b": "lethargic",
+        "c": "vigorous",
+        "d": "active"
+      },
+      "one_liner": "'Listless' describes a lack of energy or enthusiasm, similar to 'lethargic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

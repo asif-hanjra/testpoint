@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'enjoy':",
+      "options": {
+        "a": "relish:appreciate",
+        "b": "savor:detest",
+        "c": "enjoy:like",
+        "d": "delight:enjoy"
+      },
+      "one_liner": "'Savor' is a synonym of 'enjoy', while 'detest' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

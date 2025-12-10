@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which phobia refers to the fear of air travel?",
+      "options": {
+        "a": "Claustrophobia",
+        "b": "Aerophobia",
+        "c": "Astraphobia",
+        "d": "Autophobia"
+      },
+      "one_liner": "The fear of air travel is specifically termed as **Aerophobia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

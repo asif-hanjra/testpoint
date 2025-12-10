@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was attacked by the European Axis powers in 1941, leading to adverse consequences for the Axis?",
+      "options": {
+        "a": "United States",
+        "b": "Soviet Union",
+        "c": "Japan",
+        "d": "France"
+      },
+      "one_liner": "In 1941, the European Axis powers attacked the **Soviet Union**, which ultimately proved to be a strategic mistake for the Axis.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Universal Declaration of Human Rights (1948)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

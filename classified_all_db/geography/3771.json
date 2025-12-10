@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Central American countries are part of the North American Peninsula?",
+      "options": {
+        "a": "Mexico and Panama",
+        "b": "Brazil and Argentina",
+        "c": "Canada and Greenland",
+        "d": "None of these"
+      },
+      "one_liner": "Central American countries like **Mexico and Panama** are part of the North American Peninsula.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

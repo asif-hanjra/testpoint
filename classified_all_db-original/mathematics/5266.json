@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Associative property of the Union of A∪(B∪C) is?",
+      "options": {
+        "a": "A∩(B∪C)",
+        "b": "A∩(B∩C)",
+        "c": "(A∪B)∪C",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

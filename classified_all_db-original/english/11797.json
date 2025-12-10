@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "His behavior was unprofessional enough ___ he was terminated immediately.",
+      "options": {
+        "a": "for",
+        "b": "that",
+        "c": "to",
+        "d": "as"
+      },
+      "one_liner": "His behavior was unprofessional enough 'that' he was terminated immediately.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

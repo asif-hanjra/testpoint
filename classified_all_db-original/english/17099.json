@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'falter':",
+      "options": {
+        "a": "waver:steadfast",
+        "b": "stabilize:stagger",
+        "c": "wobble:continue",
+        "d": "hesitate:persist"
+      },
+      "one_liner": "'Waver' is a synonym of 'falter', while 'steadfast' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

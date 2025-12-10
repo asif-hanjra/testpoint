@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'beneficial':",
+      "options": {
+        "a": "helpful",
+        "b": "detrimental",
+        "c": "favorable",
+        "d": "advantageous"
+      },
+      "one_liner": "The word 'detrimental' is an antonym of 'beneficial', indicating something causing harm.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'good':",
+      "options": {
+        "a": "favorable:poor",
+        "b": "advantageous:beneficial",
+        "c": "positive:negative",
+        "d": "helpful:harmful"
+      },
+      "one_liner": "'Favorable' is a synonym of 'good', while 'poor' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

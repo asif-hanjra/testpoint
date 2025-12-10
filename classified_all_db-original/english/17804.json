@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'careful':",
+      "options": {
+        "a": "meticulous:negligent",
+        "b": "attentive:reckless",
+        "c": "prudent:heedless",
+        "d": "thorough:careless"
+      },
+      "one_liner": "'Meticulous' is a synonym of 'careful', while 'negligent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

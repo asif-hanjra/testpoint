@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'jovial':",
+      "options": {
+        "a": "miserable",
+        "b": "merry",
+        "c": "sorrowful",
+        "d": "gloomy"
+      },
+      "one_liner": "'Jovial' means cheerful and friendly—words like 'merry' and 'jolly' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

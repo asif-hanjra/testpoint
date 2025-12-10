@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following statements about colour blindness is correct?",
+      "options": {
+        "a": "It is caused by bacteria",
+        "b": "It is genetically linked",
+        "c": "It is caused by a virus",
+        "d": "None of these"
+      },
+      "one_liner": "Colour blindness is a condition that is **genetically linked**, meaning it is inherited through genes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

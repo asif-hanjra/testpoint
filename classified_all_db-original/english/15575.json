@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ruin':",
+      "options": {
+        "a": "decay:rebuild",
+        "b": "wreck:construct",
+        "c": "demolish:repair",
+        "d": "destroy:create"
+      },
+      "one_liner": "'Decay' is a synonym for 'ruin', while 'rebuild' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

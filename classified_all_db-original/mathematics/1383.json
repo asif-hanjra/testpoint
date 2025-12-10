@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the nth term of a Geometric Progression (G.P)?",
+      "options": {
+        "a": "a + (n - 1)d",
+        "b": "a × r^(n - 1)",
+        "c": "a × n",
+        "d": "a / r^(n - 1)"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

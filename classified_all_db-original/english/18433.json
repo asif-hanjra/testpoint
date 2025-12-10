@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The old bridge might _______ if the storm gets worse.",
+      "options": {
+        "a": "break down",
+        "b": "blow up",
+        "c": "call off",
+        "d": "run out"
+      },
+      "one_liner": "The old bridge might 'blow up' if the storm gets worse.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

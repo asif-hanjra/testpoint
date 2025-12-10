@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "A house divided ___ itself cannot stand.",
+      "options": {
+        "a": "on",
+        "b": "against",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "A house divided 'against' itself cannot stand.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

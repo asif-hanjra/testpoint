@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'euphoria':",
+      "options": {
+        "a": "misery",
+        "b": "bliss",
+        "c": "despair",
+        "d": "sorrow"
+      },
+      "one_liner": "'Euphoria' refers to a feeling of great happiness or elation, similar to 'bliss' or 'ecstasy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

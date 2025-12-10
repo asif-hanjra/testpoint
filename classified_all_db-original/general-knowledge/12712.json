@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which region is the largest producer of olive oil in the world?",
+      "options": {
+        "a": "South America",
+        "b": "European Union",
+        "c": "North America",
+        "d": "Australia"
+      },
+      "one_liner": "The European Union is recognized as the world's largest producer of olive oil, contributing significantly to global supply.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

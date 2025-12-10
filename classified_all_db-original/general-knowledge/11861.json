@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Pakistan win the Cricket World Cup in Australia?",
+      "options": {
+        "a": "1987",
+        "b": "1992",
+        "c": "1996",
+        "d": "1999"
+      },
+      "one_liner": "Pakistan achieved its Cricket World Cup victory in Australia in the year **1992**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

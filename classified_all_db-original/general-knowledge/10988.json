@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main role of the International Court of Justice?",
+      "options": {
+        "a": "Conduct peacekeeping missions",
+        "b": "Settle legal disputes between States and give advisory opinions",
+        "c": "Draft international treaties",
+        "d": "Monitor human rights"
+      },
+      "one_liner": "The main role of the International Court of Justice is to **settle legal disputes between States and give advisory opinions on legal questions**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

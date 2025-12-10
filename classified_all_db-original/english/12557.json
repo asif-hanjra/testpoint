@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'finicky':",
+      "options": {
+        "a": "picky:easygoing",
+        "b": "fussy:careful",
+        "c": "choosy:meticulous",
+        "d": "particular:indifferent"
+      },
+      "one_liner": "'Picky' is a synonym of 'finicky', while 'easygoing' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

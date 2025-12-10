@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'feign':",
+      "options": {
+        "a": "reveal",
+        "b": "dissemble",
+        "c": "clarify",
+        "d": "uncover"
+      },
+      "one_liner": "'Feign' means to pretend or simulate, so 'dissemble' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

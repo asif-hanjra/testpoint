@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cease':",
+      "options": {
+        "a": "discontinue:initiate",
+        "b": "halt:continue",
+        "c": "end:begin",
+        "d": "stop:proceed"
+      },
+      "one_liner": "'Discontinue' is a synonym of 'cease', while 'initiate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

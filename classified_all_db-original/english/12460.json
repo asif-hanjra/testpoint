@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ferocious':",
+      "options": {
+        "a": "gentle",
+        "b": "fierce",
+        "c": "mild",
+        "d": "calm"
+      },
+      "one_liner": "'Ferocious' implies being savagely fierce, aggressive, or intense, much like the word 'fierce'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

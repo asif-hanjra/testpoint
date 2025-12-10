@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does it mean if a person has blue eyes?",
+      "options": {
+        "a": "Their pupils are blue",
+        "b": "Their irises are blue",
+        "c": "Their sclera is blue",
+        "d": "None of these"
+      },
+      "one_liner": "If a person has blue eyes, it means their **irises are blue**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

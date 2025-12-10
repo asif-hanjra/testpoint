@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'leviathan':",
+      "options": {
+        "a": "mammoth:insignificant",
+        "b": "gigantic:enormous",
+        "c": "huge:colossal",
+        "d": "vast:immense"
+      },
+      "one_liner": "'Mammoth' is a synonym for 'leviathan', while 'insignificant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

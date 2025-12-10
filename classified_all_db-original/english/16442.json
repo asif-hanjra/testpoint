@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'eradicate':",
+      "options": {
+        "a": "build",
+        "b": "eliminate",
+        "c": "establish",
+        "d": "create"
+      },
+      "one_liner": "'Eradicate' means to completely remove or destroy something, similar to 'eliminate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

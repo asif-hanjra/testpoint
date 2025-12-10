@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vertigo':",
+      "options": {
+        "a": "stability",
+        "b": "giddiness",
+        "c": "firmness",
+        "d": "balance"
+      },
+      "one_liner": "'Vertigo' refers to a sensation of spinning or dizziness, similar to 'giddiness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

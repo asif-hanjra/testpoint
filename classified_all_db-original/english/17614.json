@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sip':",
+      "options": {
+        "a": "gulp",
+        "b": "swig",
+        "c": "nibble",
+        "d": "quaff"
+      },
+      "one_liner": "'Sip' means to drink in small amounts, similar to 'nibble' which is used for eating.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin abbreviation 'loc. cit.' (loco citato) refer to in academic writing?",
+      "options": {
+        "a": "In the place of the city",
+        "b": "In the place cited",
+        "c": "In the cited work",
+        "d": "In the local citation"
+      },
+      "one_liner": "'loc. cit.' (loco citato) is used to refer back to the exact same place in a previously cited work.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

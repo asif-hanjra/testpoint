@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country helped Pakistan in the construction of the Karakoram Highway?",
+      "options": {
+        "a": "India",
+        "b": "Afghanistan",
+        "c": "China",
+        "d": "Iran"
+      },
+      "one_liner": "The construction of the Karakoram Highway was made possible with the help of **China**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fugitive':",
+      "options": {
+        "a": "runaway:stayer",
+        "b": "evader:settler",
+        "c": "escapee:resident",
+        "d": "migrant:inhabitant"
+      },
+      "one_liner": "'Runaway' is a synonym for 'fugitive', while 'stayer' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

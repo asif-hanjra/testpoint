@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obtuse':",
+      "options": {
+        "a": "blunt:sharp",
+        "b": "dull:acute",
+        "c": "stupid:smart",
+        "d": "slow:fast"
+      },
+      "one_liner": "'Blunt' is a synonym of 'obtuse', while 'acute' is its antonym, especially in the context of angles.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

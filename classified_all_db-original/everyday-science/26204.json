@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How does the temperature of Mars compare to Earth's South Pole?",
+      "options": {
+        "a": "As hot as the Sahara",
+        "b": "As cold as the South Pole",
+        "c": "Warmer than Earth",
+        "d": "None of these"
+      },
+      "one_liner": "The entire planet of Mars is as cold as the **South Pole**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

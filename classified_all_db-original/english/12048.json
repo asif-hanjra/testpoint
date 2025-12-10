@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quintessential':",
+      "options": {
+        "a": "archetypal:uncharacteristic",
+        "b": "typical:archetypal",
+        "c": "exemplary:typical",
+        "d": "ideal:atypical"
+      },
+      "one_liner": "'Prototypical' is a synonym of 'quintessential', while 'uncharacteristic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

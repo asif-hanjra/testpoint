@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adequate':",
+      "options": {
+        "a": "sufficient:insufficient",
+        "b": "enough:plenty",
+        "c": "acceptable:unacceptable",
+        "d": "ample:excessive"
+      },
+      "one_liner": "'Sufficient' is a synonym of 'adequate', while 'insufficient' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is considered the basic structural and functional unit of living organisms?",
+      "options": {
+        "a": "Cell",
+        "b": "Tissue",
+        "c": "Organ",
+        "d": "Molecule"
+      },
+      "one_liner": "The basic structural and functional unit of living organisms is the **cell**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

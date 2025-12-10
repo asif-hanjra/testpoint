@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'irrelevant':",
+      "options": {
+        "a": "unrelated",
+        "b": "inconsequential",
+        "c": "pertinent",
+        "d": "trivial"
+      },
+      "one_liner": "Antonyms of 'irrelevant' include 'pertinent' and 'applicable', both implying relevance to the matter at hand.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

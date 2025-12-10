@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'empty':",
+      "options": {
+        "a": "full",
+        "b": "hollow",
+        "c": "bare",
+        "d": "desolate"
+      },
+      "one_liner": "The antonym of 'empty' is 'full', indicating that something is filled to capacity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

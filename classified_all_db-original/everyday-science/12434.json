@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered the force of attraction or repulsion between electric charges?",
+      "options": {
+        "a": "Newton",
+        "b": "Faraday",
+        "c": "Coulomb",
+        "d": "Ampere"
+      },
+      "one_liner": "The force of attraction or repulsion between electric charges was discovered by **Coulomb**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

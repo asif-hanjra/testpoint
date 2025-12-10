@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bizarre':",
+      "options": {
+        "a": "ordinary",
+        "b": "weird",
+        "c": "expected",
+        "d": "familiar"
+      },
+      "one_liner": "'Bizarre' means strange or unusual—words like 'weird' and 'eccentric' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

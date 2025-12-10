@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Correct the right one: Do you like dogs? Yes, I like",
+      "options": {
+        "a": "Do you like dogs’? Yes, I liked it.",
+        "b": "Do you like dogs? Yes, I did.",
+        "c": "Do you like dogs? Yes, I do.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

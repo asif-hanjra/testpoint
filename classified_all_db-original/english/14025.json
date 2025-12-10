@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'catastrophic':",
+      "options": {
+        "a": "tragic",
+        "b": "disastrous",
+        "c": "beneficial",
+        "d": "destructive"
+      },
+      "one_liner": "An antonym of 'catastrophic' would be 'beneficial', suggesting a positive outcome.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

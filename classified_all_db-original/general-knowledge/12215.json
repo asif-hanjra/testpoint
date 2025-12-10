@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who built the shrine of Lal Shahbaz Qalandar at Sehwan, Sindh, and in which year?",
+      "options": {
+        "a": "Alauddin Khilji in 1320",
+        "b": "Feroz Shah Tughlaq in 1356",
+        "c": "Baha-ud-din Zakariya in 1274",
+        "d": "None of these"
+      },
+      "one_liner": "The shrine of Lal Shahbaz Qalandar at Sehwan, Sindh was built by **Feroz Shah Tughlaq in 1356**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Usman Marwandi",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Usman Marwandi",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

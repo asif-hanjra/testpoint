@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is yeast considered essential in the making of bread?",
+      "options": {
+        "a": "Because it produces bacteria",
+        "b": "Because it produces alcohol",
+        "c": "Because it produces carbon dioxide",
+        "d": "None of these"
+      },
+      "one_liner": "Yeast is considered essential in bread making because it produces **bacteria**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

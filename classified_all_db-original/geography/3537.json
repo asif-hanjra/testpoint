@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which treaty is violated by the construction of the Kishanganga and Baglihar Dams?",
+      "options": {
+        "a": "Indus Water Treaty",
+        "b": "Simla Agreement",
+        "c": "Tashkent Agreement",
+        "d": "None of these"
+      },
+      "one_liner": "The construction of Kishanganga and Baglihar Dams violates the **Indus Water Treaty**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indian Dams violating Indus Water Treaty",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Indian Dams violating Indus Water Treaty",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

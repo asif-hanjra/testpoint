@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dirty':",
+      "options": {
+        "a": "clean",
+        "b": "grimy",
+        "c": "sullied",
+        "d": "soiled"
+      },
+      "one_liner": "An antonym of 'dirty' is 'clean', which means free from dirt or pollution.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

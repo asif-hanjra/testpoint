@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'forestall':",
+      "options": {
+        "a": "avert:allow",
+        "b": "prevent:promote",
+        "c": "preempt:support",
+        "d": "hinder:encourage"
+      },
+      "one_liner": "'Avert' is a synonym of 'forestall', while 'allow' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

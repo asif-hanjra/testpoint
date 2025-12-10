@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'torment':",
+      "options": {
+        "a": "torture:relief",
+        "b": "comfort:agony",
+        "c": "anguish:pleasure",
+        "d": "distress:comfort"
+      },
+      "one_liner": "'Torture' is a synonym of 'torment', while 'relief' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries share boundaries with the Caspian Sea?",
+      "options": {
+        "a": "Kazakhstan, Russia, Azerbaijan, Iran, Turkmenistan",
+        "b": "Kazakhstan, Russia, Uzbekistan, Iran, Turkmenistan",
+        "c": "Kazakhstan, Russia, Azerbaijan, Iran, Uzbekistan",
+        "d": "Russia, Azerbaijan, Iran, Turkmenistan, Uzbekistan"
+      },
+      "one_liner": "The Caspian Sea shares its boundaries with **Kazakhstan, Russia, Azerbaijan, Iran, and Turkmenistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

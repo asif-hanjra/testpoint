@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two important European countries are part of Western Europe?",
+      "options": {
+        "a": "France and Germany",
+        "b": "France and United Kingdom",
+        "c": "Spain and Italy",
+        "d": "None of these"
+      },
+      "one_liner": "Western Europe includes important countries like **France and the United Kingdom**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

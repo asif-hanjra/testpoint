@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'envisage':",
+      "options": {
+        "a": "conceive:overlook",
+        "b": "predict:anticipate",
+        "c": "imagine:envision",
+        "d": "foresee:remember"
+      },
+      "one_liner": "'Conceive' is a synonym of 'envisage', while 'overlook' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'blunder':",
+      "options": {
+        "a": "mistake:triumph",
+        "b": "gaffe:precision",
+        "c": "error:success",
+        "d": "fault:accuracy"
+      },
+      "one_liner": "'Mistake' is a synonym for 'blunder', while 'triumph' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

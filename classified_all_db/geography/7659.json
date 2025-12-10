@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country sold Alaska to the USA?",
+      "options": {
+        "a": "France",
+        "b": "Canada",
+        "c": "Russia",
+        "d": "Britain"
+      },
+      "one_liner": "Alaska was purchased by the USA from **Russia**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

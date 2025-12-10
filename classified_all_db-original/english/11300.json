@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'falter':",
+      "options": {
+        "a": "persevere",
+        "b": "hesitate",
+        "c": "wobble",
+        "d": "flounder"
+      },
+      "one_liner": "An antonym of 'falter' is 'persevere', which means to continue steadfastly despite difficulties.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

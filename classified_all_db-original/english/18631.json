@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tyrant':",
+      "options": {
+        "a": "liberator",
+        "b": "despot",
+        "c": "democrat",
+        "d": "ally"
+      },
+      "one_liner": "'Tyrant' refers to a cruel and oppressive ruler, similar to a 'despot'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

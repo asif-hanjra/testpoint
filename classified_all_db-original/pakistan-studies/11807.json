@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Doctrine of Necessity first applied in Pakistan?",
+      "options": {
+        "a": "1947",
+        "b": "1954",
+        "c": "1958",
+        "d": "1971"
+      },
+      "one_liner": "The Doctrine of Necessity was first applied in Pakistan in the year **1954**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

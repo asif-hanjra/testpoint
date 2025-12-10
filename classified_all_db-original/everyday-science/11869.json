@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is causing the thinning of the ozone layer?",
+      "options": {
+        "a": "Chlorofluorocarbons",
+        "b": "Carbon dioxide",
+        "c": "Nitrogen oxides",
+        "d": "Sulphur dioxide"
+      },
+      "one_liner": "The thinning of the ozone layer is primarily caused by the release of **chlorofluorocarbons (CFCs)** into the atmosphere.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

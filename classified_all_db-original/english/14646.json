@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'plaintive':",
+      "options": {
+        "a": "mournful:upbeat",
+        "b": "joyous:sad",
+        "c": "sorrowful:happy",
+        "d": "gloomy:gleeful"
+      },
+      "one_liner": "'Mournful' is a synonym of 'plaintive', while 'upbeat' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

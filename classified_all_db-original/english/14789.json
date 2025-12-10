@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'arrival':",
+      "options": {
+        "a": "advent:departure",
+        "b": "entrance:approach",
+        "c": "appearance:entrance",
+        "d": "coming:staying"
+      },
+      "one_liner": "'Advent' is a synonym of 'arrival', while 'departure' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

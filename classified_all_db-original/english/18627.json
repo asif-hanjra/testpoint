@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'neat':",
+      "options": {
+        "a": "immaculate:sloppy",
+        "b": "orderly:tidy",
+        "c": "clean:neat",
+        "d": "spruce:messy"
+      },
+      "one_liner": "'Immaculate' is a synonym for 'neat', while 'sloppy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

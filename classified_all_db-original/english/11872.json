@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'extravagant':",
+      "options": {
+        "a": "modest",
+        "b": "lavish",
+        "c": "frugal",
+        "d": "economical"
+      },
+      "one_liner": "'Extravagant' means spending much more than is necessary or wise; 'lavish' and 'opulent' are synonyms that convey similar ideas of excess.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

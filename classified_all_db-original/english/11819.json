@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'denounce':",
+      "options": {
+        "a": "praise",
+        "b": "condemn",
+        "c": "applaud",
+        "d": "celebrate"
+      },
+      "one_liner": "'Denounce' means to publicly declare to be wrong or evil, similar to 'condemn'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

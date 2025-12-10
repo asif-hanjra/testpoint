@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reverie':",
+      "options": {
+        "a": "fantasy:awareness",
+        "b": "meditation:reality",
+        "c": "daydream:clarity",
+        "d": "illusion:alertness"
+      },
+      "one_liner": "'Fantasy' is a synonym for 'reverie', while 'awareness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

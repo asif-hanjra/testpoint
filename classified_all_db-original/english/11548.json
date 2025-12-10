@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "ROOK : CHESS :: SHUTTLECOCK : ________?",
+      "options": {
+        "a": "Tennis",
+        "b": "Badminton",
+        "c": "Soccer",
+        "d": "Cricket"
+      },
+      "one_liner": "A rook is a piece in chess, just as a shuttlecock is used in badminton.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

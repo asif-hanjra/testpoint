@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'close':",
+      "options": {
+        "a": "distant",
+        "b": "adjacent",
+        "c": "remote",
+        "d": "far"
+      },
+      "one_liner": "'Close' means near or proximate—words like 'nearby' and 'adjacent' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

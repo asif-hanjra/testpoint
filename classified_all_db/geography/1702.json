@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the highest peak in the Safed Koh (Koh-e-Safaid) Range?",
+      "options": {
+        "a": "Nanga Parbat",
+        "b": "K2",
+        "c": "Tirich Mir",
+        "d": "Sikeram"
+      },
+      "one_liner": "Sikeram is the highest peak in the **Koh-e-Safaid (Safed Koh) Range**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

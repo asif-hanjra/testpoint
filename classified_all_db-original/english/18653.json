@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Amina went ___ bicycle to meet Saira.",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "Amina went 'on' bicycle to meet Saira.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

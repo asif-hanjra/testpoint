@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impromptu':",
+      "options": {
+        "a": "spontaneous",
+        "b": "unplanned",
+        "c": "premeditated",
+        "d": "accidental"
+      },
+      "one_liner": "An 'impromptu' speech is off-the-cuff, unlike a 'premeditated' or carefully planned one.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

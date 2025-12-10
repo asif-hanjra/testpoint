@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vilify':",
+      "options": {
+        "a": "defame",
+        "b": "disparage",
+        "c": "praise",
+        "d": "denigrate"
+      },
+      "one_liner": "The antonym of 'vilify' is 'praise', which means to express warm approval or admiration.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

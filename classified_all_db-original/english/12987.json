@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The train went ___ the tunnel.",
+      "options": {
+        "a": "across",
+        "b": "through",
+        "c": "over",
+        "d": "under"
+      },
+      "one_liner": "The train went 'through' the tunnel.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

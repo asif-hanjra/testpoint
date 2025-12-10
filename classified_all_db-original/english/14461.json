@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'imply':",
+      "options": {
+        "a": "clarify",
+        "b": "insinuate",
+        "c": "reveal",
+        "d": "divulge"
+      },
+      "one_liner": "'Imply' means to suggest or indicate without being explicitly stated, similar to 'insinuate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

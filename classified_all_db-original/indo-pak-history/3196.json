@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who built the Rohtas Fort?",
+      "options": {
+        "a": "Sher Shah Suri",
+        "b": "Akbar",
+        "c": "Aurangzeb",
+        "d": "Shah Jahan"
+      },
+      "one_liner": "The Rohtas Fort was built by **Sher Shah Suri**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

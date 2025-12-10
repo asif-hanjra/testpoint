@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: They have completed the project.",
+      "options": {
+        "a": "The project is completed by them",
+        "b": "The project had been completed by them",
+        "c": "The project has been completed by them",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

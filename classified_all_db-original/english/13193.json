@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'kith':",
+      "options": {
+        "a": "friends:adversaries",
+        "b": "acquaintances:allies",
+        "c": "companions:colleagues",
+        "d": "associates:supporters"
+      },
+      "one_liner": "'Friends' is a synonym of 'kith', while 'adversaries' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

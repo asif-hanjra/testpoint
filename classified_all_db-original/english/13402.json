@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The teacher asked the students ___ complete their assignment by Monday.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "at",
+        "d": "with"
+      },
+      "one_liner": "The teacher asked the students 'to' complete their assignment by Monday.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

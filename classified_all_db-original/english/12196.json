@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'foible':",
+      "options": {
+        "a": "strength",
+        "b": "quirk",
+        "c": "perfection",
+        "d": "virtue"
+      },
+      "one_liner": "'Foible' refers to a minor weakness or eccentricity in someone's character, similar to 'quirk'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

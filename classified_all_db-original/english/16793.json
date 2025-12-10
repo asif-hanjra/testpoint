@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exculpate':",
+      "options": {
+        "a": "incriminate",
+        "b": "vindicate",
+        "c": "condemn",
+        "d": "accuse"
+      },
+      "one_liner": "'Exculpate' means to free from blame or guilt, similar to 'absolve' or 'vindicate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

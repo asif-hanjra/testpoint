@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exterior':",
+      "options": {
+        "a": "outer:inner",
+        "b": "external:external",
+        "c": "surface:surface",
+        "d": "external:interior"
+      },
+      "one_liner": "'Outer' is a synonym of 'exterior', while 'inner' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

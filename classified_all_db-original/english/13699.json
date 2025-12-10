@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'upbringing':",
+      "options": {
+        "a": "education",
+        "b": "training",
+        "c": "neglect",
+        "d": "development"
+      },
+      "one_liner": "An antonym of 'upbringing' could be 'neglect', which implies a lack of care or attention.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

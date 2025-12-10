@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which American states are along the Gulf of Mexico?",
+      "options": {
+        "a": "Texas, Louisiana, Mississippi, Alabama, Florida",
+        "b": "Texas, Louisiana, Georgia, Alabama, Florida",
+        "c": "Texas, Mississippi, Alabama, Georgia, Florida",
+        "d": "Texas, Louisiana, Mississippi, Georgia, Florida"
+      },
+      "one_liner": "The American states along the Gulf of Mexico are **Texas, Louisiana, Mississippi, Alabama, and Florida**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

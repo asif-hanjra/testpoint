@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following lists contains only insulators?",
+      "options": {
+        "a": "Wood, rubber, glass",
+        "b": "Copper, iron, mercury",
+        "c": "Silver, gold, aluminium",
+        "d": "Lead, zinc, tin"
+      },
+      "one_liner": "A list containing **wood, rubber, and glass** includes only materials that are insulators.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "In a lake, there are 10 steps labelled using alphabets from A to J. Starting from step A, every minute a frog jumps to the 4th step from where it started - that is from the step A it would go to the step E and from E it would go to the step 1 and from I it would go to C etc. Where would the frog be at the 60th minute if it starts at the step A?",
+      "options": {
+        "a": "D",
+        "b": "B",
+        "c": "A",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

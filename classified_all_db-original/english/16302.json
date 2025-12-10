@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'marvelous':",
+      "options": {
+        "a": "dreadful",
+        "b": "wonderful",
+        "c": "mediocre",
+        "d": "plain"
+      },
+      "one_liner": "'Marvelous' means causing great wonder or astonishment, similar to 'wonderful'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

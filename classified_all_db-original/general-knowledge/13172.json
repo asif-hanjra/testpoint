@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the official residence of the Prime Minister of Sri Lanka called?",
+      "options": {
+        "a": "Temple Tree",
+        "b": "President's House",
+        "c": "Prime Minister's House",
+        "d": "Lotus Tower"
+      },
+      "one_liner": "The official residence of the Prime Minister of Sri Lanka is known as **Temple Tree**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

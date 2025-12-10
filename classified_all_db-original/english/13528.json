@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "They walked ___ the bridge to reach the other side.",
+      "options": {
+        "a": "under",
+        "b": "over",
+        "c": "across",
+        "d": "beside"
+      },
+      "one_liner": "They walked 'over' the bridge to reach the other side.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

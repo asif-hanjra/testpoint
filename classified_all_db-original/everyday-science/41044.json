@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are lymphocyte cells formed in the human body?",
+      "options": {
+        "a": "Liver",
+        "b": "Spleen",
+        "c": "Kidney",
+        "d": "Pancreas"
+      },
+      "one_liner": "Lymphocyte cells are formed in the **spleen**, which is an important organ of the immune system.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

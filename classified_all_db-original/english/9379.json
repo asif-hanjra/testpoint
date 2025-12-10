@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Bark: Dog::",
+      "options": {
+        "a": "Sheep: beef",
+        "b": "Gaggle: chicken",
+        "c": "Mew: cat",
+        "d": "Flock: goat"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

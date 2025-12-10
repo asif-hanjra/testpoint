@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following waterfalls are located in the United States?",
+      "options": {
+        "a": "United States",
+        "b": "Canada",
+        "c": "Australia",
+        "d": "None of these"
+      },
+      "one_liner": "Widow's Tears, Ribbon Falls, Yosemite Falls, and Nevada Falls are all famous waterfalls found in the **United States**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

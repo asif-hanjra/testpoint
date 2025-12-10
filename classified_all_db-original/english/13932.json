@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'loom':",
+      "options": {
+        "a": "shrink",
+        "b": "tower",
+        "c": "diminish",
+        "d": "decline"
+      },
+      "one_liner": "'Loom' can mean to appear as a shadowy form, especially one that is large or threatening, similar to 'tower'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

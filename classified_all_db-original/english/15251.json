@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gain':",
+      "options": {
+        "a": "advance",
+        "b": "profit",
+        "c": "loss",
+        "d": "improve"
+      },
+      "one_liner": "The opposite of 'gain', which means to acquire or increase, is 'loss', meaning to lose or decrease.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

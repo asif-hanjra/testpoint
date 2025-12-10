@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'celibate':",
+      "options": {
+        "a": "ascetic:libertine",
+        "b": "abstinent:promiscuous",
+        "c": "chaste:indulgent",
+        "d": "monastic:married"
+      },
+      "one_liner": "'Ascetic' is a synonym of 'celibate', while 'libertine' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'luminary':",
+      "options": {
+        "a": "unknown",
+        "b": "celebrity",
+        "c": "follower",
+        "d": "amateur"
+      },
+      "one_liner": "'Luminary' refers to a person who inspires or influences others, much like a 'guiding light' or 'notable figure'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

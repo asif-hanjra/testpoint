@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'optician':",
+      "options": {
+        "a": "lawyer",
+        "b": "eyeglass specialist",
+        "c": "teacher",
+        "d": "chef"
+      },
+      "one_liner": "'Optician' refers to a person who dispenses corrective lenses, much like an 'eyeglass specialist'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

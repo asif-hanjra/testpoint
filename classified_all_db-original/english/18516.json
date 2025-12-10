@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "CORD : TELEPHONE :: TELEVISION : ________?",
+      "options": {
+        "a": "Remote",
+        "b": "Screen",
+        "c": "Cable",
+        "d": "Speaker"
+      },
+      "one_liner": "A cord connects a telephone, just as a screen is part of a television.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

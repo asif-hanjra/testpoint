@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'temperate':",
+      "options": {
+        "a": "excessive",
+        "b": "moderate",
+        "c": "extreme",
+        "d": "intense"
+      },
+      "one_liner": "'Temperate' refers to being moderate or restrained, much like 'moderate' itself.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

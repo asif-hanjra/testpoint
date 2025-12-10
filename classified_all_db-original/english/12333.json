@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'opus':",
+      "options": {
+        "a": "blunder",
+        "b": "masterpiece",
+        "c": "failure",
+        "d": "error"
+      },
+      "one_liner": "'Opus' refers to a musical composition or a creative work, similar to 'masterpiece' or 'work'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

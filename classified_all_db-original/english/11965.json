@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I am so bored with my class that I want ___ quit.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "I am so bored with my class that I want 'to' quit.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

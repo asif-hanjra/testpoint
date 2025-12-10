@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adumbrate':",
+      "options": {
+        "a": "clarify",
+        "b": "foreshadow",
+        "c": "illuminate",
+        "d": "reveal"
+      },
+      "one_liner": "'Adumbrate' means to outline or suggest something vaguely, similar to 'foreshadow' or 'hint'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

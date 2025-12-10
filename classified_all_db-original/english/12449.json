@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'huge':",
+      "options": {
+        "a": "tiny",
+        "b": "gigantic",
+        "c": "small",
+        "d": "slight"
+      },
+      "one_liner": "'Huge' means extremely large or enormous, so 'gigantic' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

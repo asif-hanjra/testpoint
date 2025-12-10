@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If AB = BA then matrices are ______ communicative to each other.",
+      "options": {
+        "a": "Additive",
+        "b": "Subtractive",
+        "c": "Multiplicative",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Waseem was born ___ poor parents.",
+      "options": {
+        "a": "from",
+        "b": "of",
+        "c": "by",
+        "d": "to"
+      },
+      "one_liner": "Waseem was born 'of' poor parents.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was Marco Polo?",
+      "options": {
+        "a": "A scientist",
+        "b": "A traveller",
+        "c": "A king",
+        "d": "None of these"
+      },
+      "one_liner": "Marco Polo is renowned in history as a **famous traveller**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the Secretary of State of the United States?",
+      "options": {
+        "a": "Condoleezza Rice",
+        "b": "Hillary Clinton",
+        "c": "Madeleine Albright",
+        "d": "Colin Powell"
+      },
+      "one_liner": "Condoleezza Rice held the position of **Secretary of State of the United States**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

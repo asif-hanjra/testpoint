@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'illicit':",
+      "options": {
+        "a": "lawful",
+        "b": "unlawful",
+        "c": "permitted",
+        "d": "allowed"
+      },
+      "one_liner": "'Illicit' refers to something that is illegal or forbidden, much like the word 'unlawful'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

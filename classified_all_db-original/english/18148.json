@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "NARROW : THIN :: BOULDER : ________?",
+      "options": {
+        "a": "Stone",
+        "b": "Pebble",
+        "c": "Rock",
+        "d": "Hill"
+      },
+      "one_liner": "Narrow is a synonym for thin, just as a boulder is a large type of rock.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

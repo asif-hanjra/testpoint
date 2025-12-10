@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ocean is found south of the Atlantic, Pacific, and Indian Oceans?",
+      "options": {
+        "a": "North Atlantic Ocean",
+        "b": "Southern Ocean",
+        "c": "Arctic Ocean",
+        "d": "South Pacific Ocean"
+      },
+      "one_liner": "The ocean found south of the Atlantic, Pacific, and Indian Oceans is the **Southern Ocean**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

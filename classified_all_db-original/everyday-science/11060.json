@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens to the pupils when light shines near the eye?",
+      "options": {
+        "a": "Pupils get smaller",
+        "b": "Pupils get larger",
+        "c": "No change",
+        "d": "None of these"
+      },
+      "one_liner": "When light shines near the eye, the **pupils get smaller**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

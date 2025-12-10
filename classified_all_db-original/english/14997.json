@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abyss':",
+      "options": {
+        "a": "plateau",
+        "b": "canyon",
+        "c": "trench",
+        "d": "pit"
+      },
+      "one_liner": "An 'abyss' is a deep expanse, whereas a 'plateau' represents a relatively flat, elevated landform.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'narcotic':",
+      "options": {
+        "a": "opiate:invigorant",
+        "b": "sedative:tonic",
+        "c": "analgesic:stimulant",
+        "d": "tranquilizer:antidote"
+      },
+      "one_liner": "'Opiate' is a synonym of 'narcotic', while 'invigorant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

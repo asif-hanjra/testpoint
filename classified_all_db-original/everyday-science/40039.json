@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the SI unit for work and energy?",
+      "options": {
+        "a": "Watt",
+        "b": "Joule",
+        "c": "Newton",
+        "d": "Calorie"
+      },
+      "one_liner": "The SI unit for both work and energy is the **Joule**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

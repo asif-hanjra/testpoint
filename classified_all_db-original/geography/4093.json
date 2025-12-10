@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Dargai Pass connects which two locations?",
+      "options": {
+        "a": "Chitral and Dir",
+        "b": "Mardan and Malakand",
+        "c": "Swat and Peshawar",
+        "d": "Dera Ismail Khan and Tank"
+      },
+      "one_liner": "Dargai Pass connects **Mardan with Malakand**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

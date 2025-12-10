@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'best':",
+      "options": {
+        "a": "worst",
+        "b": "superior",
+        "c": "excellent",
+        "d": "good"
+      },
+      "one_liner": "The antonym of 'best' is 'worst', indicating the lowest quality or least desirable.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

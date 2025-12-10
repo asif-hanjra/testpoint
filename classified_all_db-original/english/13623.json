@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'venerable':",
+      "options": {
+        "a": "august:despicable",
+        "b": "honorable:respected",
+        "c": "revered:reputable",
+        "d": "distinguished:esteemed"
+      },
+      "one_liner": "'August' is a synonym of 'venerable', while 'despicable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

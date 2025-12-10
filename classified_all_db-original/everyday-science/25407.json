@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which branch of agriculture deals specifically with gardens and fruits?",
+      "options": {
+        "a": "Horticulture",
+        "b": "Agronomy",
+        "c": "Forestry",
+        "d": "None of these"
+      },
+      "one_liner": "The branch of agriculture that deals with gardens and fruits is known as **Horticulture**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

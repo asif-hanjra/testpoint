@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'run' in the sentence 'The run was exhausting'?",
+      "options": {
+        "a": "Verb",
+        "b": "Noun",
+        "c": "Pronoun",
+        "d": "Adjective"
+      },
+      "one_liner": "'Run' is a noun in this sentence because it names the activity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

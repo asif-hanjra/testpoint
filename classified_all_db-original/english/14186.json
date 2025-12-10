@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Ceteris Paribus' mean when used in economics?",
+      "options": {
+        "a": "Buyer beware",
+        "b": "All other things being equal",
+        "c": "Seize the day",
+        "d": "After this, therefore because of this"
+      },
+      "one_liner": "'Ceteris Paribus' is a Latin phrase used in economics to indicate that other variables remain constant while one variable changes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

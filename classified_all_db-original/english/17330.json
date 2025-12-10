@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'despair':",
+      "options": {
+        "a": "misery:optimism",
+        "b": "happiness:sadness",
+        "c": "anguish:joy",
+        "d": "dejection:contentment"
+      },
+      "one_liner": "'Misery' is a synonym of 'despair', while 'optimism' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

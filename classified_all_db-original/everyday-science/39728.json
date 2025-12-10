@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are stomata primarily found in plants?",
+      "options": {
+        "a": "Roots",
+        "b": "Stems",
+        "c": "Epidermis of leaves",
+        "d": "Flowers"
+      },
+      "one_liner": "Stomata are primarily located in the **epidermis of leaves**, where they regulate gas exchange and water loss.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

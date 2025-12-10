@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'premeditated':",
+      "options": {
+        "a": "spontaneous",
+        "b": "deliberate",
+        "c": "accidental",
+        "d": "unintentional"
+      },
+      "one_liner": "'Premeditated' actions are planned in advance, similar to 'deliberate' or 'intentional' actions.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

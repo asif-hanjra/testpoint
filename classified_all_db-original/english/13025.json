@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'surplus':",
+      "options": {
+        "a": "excess:scarcity",
+        "b": "abundance:deficit",
+        "c": "plenty:adequate",
+        "d": "ample:insufficient"
+      },
+      "one_liner": "'Excess' is a synonym of 'surplus', while 'scarcity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gorgeous':",
+      "options": {
+        "a": "attractive",
+        "b": "lovely",
+        "c": "unattractive",
+        "d": "pretty"
+      },
+      "one_liner": "The opposite of 'gorgeous', which means very beautiful, would be 'unattractive'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the factorization of the quadratic expression 4x² + 7x + 3?",
+      "options": {
+        "a": "(x + 1)(3x + 4)",
+        "b": "(x + 1)(4x + 3)",
+        "c": "(x + 4)(x + 3)",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

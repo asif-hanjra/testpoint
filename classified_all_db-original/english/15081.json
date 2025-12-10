@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'inundate':",
+      "options": {
+        "a": "trickle",
+        "b": "deluge",
+        "c": "drought",
+        "d": "drizzle"
+      },
+      "one_liner": "'Inundate' means to overwhelm or flood, similar to 'overwhelm' and 'deluge'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

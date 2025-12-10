@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You can go ___ your friend's house as long as you return by 9:00 PM.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "in",
+        "d": "on"
+      },
+      "one_liner": "You can go 'to' your friend's house as long as you return by 9:00 PM.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'enlarge':",
+      "options": {
+        "a": "reduce",
+        "b": "magnify",
+        "c": "shrink",
+        "d": "lessen"
+      },
+      "one_liner": "'Enlarge' means to make bigger or expand, similar to 'magnify'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

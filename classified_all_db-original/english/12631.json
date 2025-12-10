@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'extol':",
+      "options": {
+        "a": "criticize",
+        "b": "laud",
+        "c": "condemn",
+        "d": "belittle"
+      },
+      "one_liner": "'Extol' means to praise highly, similar to 'laud'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'infinitesimal':",
+      "options": {
+        "a": "enormous",
+        "b": "minuscule",
+        "c": "gigantic",
+        "d": "vast"
+      },
+      "one_liner": "'Infinitesimal' means extremely small or minute, similar to 'minuscule'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

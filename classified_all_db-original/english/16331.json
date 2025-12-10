@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'turbulent':",
+      "options": {
+        "a": "peaceful",
+        "b": "stormy",
+        "c": "calm",
+        "d": "serene"
+      },
+      "one_liner": "'Turbulent' means chaotic or disorderly—words like 'unrestful' and 'stormy' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

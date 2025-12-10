@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'defend':",
+      "options": {
+        "a": "attack",
+        "b": "shield",
+        "c": "surrender",
+        "d": "ignore"
+      },
+      "one_liner": "'Defend' means to protect or guard against attack, making 'shield' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

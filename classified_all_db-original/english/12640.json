@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'whip':",
+      "options": {
+        "a": "caress",
+        "b": "flog",
+        "c": "soothe",
+        "d": "stroke"
+      },
+      "one_liner": "'Whip' can mean to beat or thrash, similar to 'flog' or 'lash'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

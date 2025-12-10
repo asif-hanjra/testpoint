@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'they' in the sentence 'They will arrive soon'?",
+      "options": {
+        "a": "Pronoun",
+        "b": "Verb",
+        "c": "Noun",
+        "d": "Adjective"
+      },
+      "one_liner": "In the sentence 'They will arrive soon', the word 'they' is a pronoun because it replaces a noun (e.g., names of people).",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

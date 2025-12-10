@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'future':",
+      "options": {
+        "a": "forthcoming",
+        "b": "subsequent",
+        "c": "past",
+        "d": "imminent"
+      },
+      "one_liner": "The antonym of 'future' is 'past', as 'future' refers to what has yet to occur, whereas 'past' refers to what has already happened.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

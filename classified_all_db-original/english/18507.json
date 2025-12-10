@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'disassemble':",
+      "options": {
+        "a": "assemble",
+        "b": "construct",
+        "c": "dismantle",
+        "d": "build"
+      },
+      "one_liner": "'Disassemble' means to take apart, similar to 'dismantle'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

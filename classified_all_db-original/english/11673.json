@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'beginning':",
+      "options": {
+        "a": "start",
+        "b": "initiation",
+        "c": "end",
+        "d": "commencement"
+      },
+      "one_liner": "The word 'beginning' is the opposite of 'end', which signifies the conclusion or final part.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

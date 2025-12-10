@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wreck':",
+      "options": {
+        "a": "build",
+        "b": "demolish",
+        "c": "repair",
+        "d": "construct"
+      },
+      "one_liner": "'Wreck' refers to something that has been destroyed or ruined, similar to 'demolish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does gene cloning involve?",
+      "options": {
+        "a": "Destroying genes",
+        "b": "Copying a gene of interest",
+        "c": "Transferring whole chromosomes",
+        "d": "None of these"
+      },
+      "one_liner": "Gene cloning involves locating and copying a gene of interest from DNA extracted from an organism, a process known as **gene cloning**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

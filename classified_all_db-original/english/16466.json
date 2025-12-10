@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Last night the thief broke ___ his house and stole a TV set.",
+      "options": {
+        "a": "in",
+        "b": "into",
+        "c": "onto",
+        "d": "to"
+      },
+      "one_liner": "Last night the thief broke 'into' his house and stole a TV set.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

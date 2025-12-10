@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'maneuver':",
+      "options": {
+        "a": "stumble",
+        "b": "manipulate",
+        "c": "freeze",
+        "d": "halt"
+      },
+      "one_liner": "'Maneuver' refers to a skillful or careful movement, similar to 'manipulate' which also implies controlled handling.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

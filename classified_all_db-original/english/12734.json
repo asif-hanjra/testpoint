@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'quaff':",
+      "options": {
+        "a": "gulp",
+        "b": "swig",
+        "c": "sip",
+        "d": "imbibe"
+      },
+      "one_liner": "Antonyms of 'quaff' include 'sip' and 'nurse', both implying drinking slowly or in small amounts.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

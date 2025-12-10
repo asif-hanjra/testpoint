@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'aid':",
+      "options": {
+        "a": "assist",
+        "b": "support",
+        "c": "hinder",
+        "d": "help"
+      },
+      "one_liner": "Antonyms of 'aid' include 'hinder' and 'obstruct', both implying interference or prevention of progress.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

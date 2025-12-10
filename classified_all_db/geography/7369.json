@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Abrasion is classified as which type of geological process?",
+      "options": {
+        "a": "Deposition",
+        "b": "Weathering",
+        "c": "Erosion",
+        "d": "Transportation"
+      },
+      "one_liner": "Abrasion is classified as a type of **erosion** in geological processes.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Denudation (Weathering, Erosion, Mass Wasting)",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Denudation (Weathering, Erosion, Mass Wasting)",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

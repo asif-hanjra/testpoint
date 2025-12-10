@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'squelch':",
+      "options": {
+        "a": "enhance",
+        "b": "quash",
+        "c": "encourage",
+        "d": "promote"
+      },
+      "one_liner": "'Squelch' means to forcefully suppress or silence, similar to 'quash' or 'crush'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'adverse':",
+      "options": {
+        "a": "harmful",
+        "b": "unfavorable",
+        "c": "favorable",
+        "d": "hostile"
+      },
+      "one_liner": "An antonym of 'adverse' is 'favorable', which means beneficial or positive.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

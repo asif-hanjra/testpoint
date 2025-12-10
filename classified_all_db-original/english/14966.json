@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fictitious':",
+      "options": {
+        "a": "authentic",
+        "b": "fabricated",
+        "c": "genuine",
+        "d": "actual"
+      },
+      "one_liner": "'Fictitious' means not real or true, being imaginary, similar to 'fabricated'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

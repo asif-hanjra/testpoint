@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Jeans were not permitted ___ this college.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "Jeans were not permitted 'in' this college.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

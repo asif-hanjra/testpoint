@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'upset':",
+      "options": {
+        "a": "calm",
+        "b": "disturbed",
+        "c": "pleased",
+        "d": "happy"
+      },
+      "one_liner": "'Upset' can mean 'disturbed' or 'troubled', which are synonyms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

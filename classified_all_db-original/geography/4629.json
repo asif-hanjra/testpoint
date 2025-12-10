@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which body of water does NOT border the Arabian Peninsula?",
+      "options": {
+        "a": "Red Sea",
+        "b": "Arabian Sea",
+        "c": "Persian Gulf",
+        "d": "Mediterranean Sea"
+      },
+      "one_liner": "The Arabian Peninsula is bordered by the **Red Sea, Arabian Sea, and Persian Gulf**, but not the Mediterranean Sea.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Famous Peninsulas",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Peninsulas",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'neutral':",
+      "options": {
+        "a": "indifferent:opinionated",
+        "b": "biased:impartial",
+        "c": "unbiased:partial",
+        "d": "detached:involved"
+      },
+      "one_liner": "'Indifferent' is a synonym of 'neutral', while 'opinionated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

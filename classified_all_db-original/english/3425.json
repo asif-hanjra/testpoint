@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "There is possibility of rain tomorrow.",
+      "options": {
+        "a": "It must rain tomorrow",
+        "b": "It will rain tomorrow",
+        "c": "It may rain tomorrow",
+        "d": "It can rain tomorrow"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

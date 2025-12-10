@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'approve':",
+      "options": {
+        "a": "reject",
+        "b": "endorse",
+        "c": "disagree",
+        "d": "refuse"
+      },
+      "one_liner": "'Approve' means to agree with or accept something as satisfactory, similar to 'endorse'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

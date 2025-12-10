@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Under what conditions are diamonds developed?",
+      "options": {
+        "a": "Low temperature and pressure",
+        "b": "High temperature and pressure",
+        "c": "Low temperature only",
+        "d": "High pressure only"
+      },
+      "one_liner": "Diamonds are developed under **high temperatures and pressure**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

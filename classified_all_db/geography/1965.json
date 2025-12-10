@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the western and northernmost country of both Scandinavia and Europe?",
+      "options": {
+        "a": "Sweden",
+        "b": "Norway",
+        "c": "Finland",
+        "d": "Iceland"
+      },
+      "one_liner": "Norway holds the distinction of being the **western and northernmost country of both Scandinavia and Europe**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

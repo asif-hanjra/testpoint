@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'connect':",
+      "options": {
+        "a": "attach",
+        "b": "bind",
+        "c": "disconnect",
+        "d": "associate"
+      },
+      "one_liner": "The opposite of 'connect' is 'disconnect', which means to break the link or separation.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

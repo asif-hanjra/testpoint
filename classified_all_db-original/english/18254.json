@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'venerable':",
+      "options": {
+        "a": "respected",
+        "b": "honored",
+        "c": "disrespected",
+        "d": "esteemed"
+      },
+      "one_liner": "An antonym of 'venerable' is 'disrespected', which means not worthy of respect or honor.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

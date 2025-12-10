@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'enchant':",
+      "options": {
+        "a": "bore",
+        "b": "captivate",
+        "c": "repel",
+        "d": "disgust"
+      },
+      "one_liner": "'Enchant' means to fill with great delight or charm, similar to 'bewitch' or 'captivate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

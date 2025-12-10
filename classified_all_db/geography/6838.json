@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which strait separates Russia from the USA?",
+      "options": {
+        "a": "Bering Strait",
+        "b": "Strait of Gibraltar",
+        "c": "Dover Strait",
+        "d": "Malacca Strait"
+      },
+      "one_liner": "The body of water that separates Russia from the USA is the **Bering Strait**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

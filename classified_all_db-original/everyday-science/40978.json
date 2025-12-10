@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main purpose of an electrocardiogram (ECG)?",
+      "options": {
+        "a": "To check brain activity",
+        "b": "To check heart rhythm",
+        "c": "To scan bones",
+        "d": "To view blood vessels"
+      },
+      "one_liner": "An **electrocardiogram (ECG)** is primarily used to check the heart's rhythm and electrical activity, and can help diagnose heart attacks.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

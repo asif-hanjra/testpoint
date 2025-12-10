@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'concord':",
+      "options": {
+        "a": "discord",
+        "b": "conflict",
+        "c": "accord",
+        "d": "disagreement"
+      },
+      "one_liner": "'Concord' signifies harmony or agreement, similar to 'accord'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

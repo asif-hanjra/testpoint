@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of red blood cells?",
+      "options": {
+        "a": "Fight infection",
+        "b": "Transport oxygen",
+        "c": "Clot blood",
+        "d": "Produce hormones"
+      },
+      "one_liner": "The main function of red blood cells is to transport **oxygen** throughout the body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

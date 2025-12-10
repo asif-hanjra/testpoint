@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'iniquitous':",
+      "options": {
+        "a": "virtuous",
+        "b": "nefarious",
+        "c": "honorable",
+        "d": "ethical"
+      },
+      "one_liner": "'Iniquitous' means wicked or sinful, so words like 'nefarious' and 'villainous' are synonyms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

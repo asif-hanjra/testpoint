@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Chairman of the Boundary Commission formed to divide the Indian subcontinent?",
+      "options": {
+        "a": "Radcliffe",
+        "b": "Mehr Chand Mahajan",
+        "c": "Din Muhammad",
+        "d": "Qazi Essa Khan"
+      },
+      "one_liner": "The Chairman of the Boundary Commission responsible for dividing the Indian subcontinent was **Radcliffe**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

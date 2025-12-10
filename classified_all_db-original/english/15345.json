@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stark':",
+      "options": {
+        "a": "bare:elaborate",
+        "b": "harsh:ornate",
+        "c": "austere:adorned",
+        "d": "bleak:decorated"
+      },
+      "one_liner": "'Bare' is a synonym of 'stark', while 'elaborate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

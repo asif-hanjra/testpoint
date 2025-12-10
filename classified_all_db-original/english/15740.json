@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sick':",
+      "options": {
+        "a": "healthy",
+        "b": "ailing",
+        "c": "fit",
+        "d": "robust"
+      },
+      "one_liner": "'Sick' means unwell or ill—words like 'ailing' and 'unhealthy' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

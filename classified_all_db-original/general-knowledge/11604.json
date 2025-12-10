@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the Doha Agreement between the US and the Taliban signed?",
+      "options": {
+        "a": "January 2019",
+        "b": "February 2020",
+        "c": "March 2021",
+        "d": "None of these"
+      },
+      "one_liner": "The Doha Agreement between the US and the Taliban was signed in **February 2020**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

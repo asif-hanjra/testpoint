@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "WITHDRAWAL : UNSEEN :: CLIMB : ________?",
+      "options": {
+        "a": "Descent",
+        "b": "Ascent",
+        "c": "Fall",
+        "d": "Peak"
+      },
+      "one_liner": "Withdrawal means to retreat or pull back, similar to unseen (hidden); climb is a synonym for ascent.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

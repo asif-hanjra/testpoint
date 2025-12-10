@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wrong':",
+      "options": {
+        "a": "false",
+        "b": "right",
+        "c": "inaccurate",
+        "d": "mistaken"
+      },
+      "one_liner": "The antonym of 'wrong' is 'right', which means correct or accurate.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

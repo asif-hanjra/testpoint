@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'guilty':",
+      "options": {
+        "a": "innocent",
+        "b": "culpable",
+        "c": "uninvolved",
+        "d": "ignorant"
+      },
+      "one_liner": "'Guilty' implies culpability, similar to 'culpable' or 'responsible' for an offense.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the status of Indian Illegally Occupied Jammu & Kashmir as depicted on the map?",
+      "options": {
+        "a": "It is a province of Pakistan",
+        "b": "It is a province of India",
+        "c": "Final status to be decided in line with UNSC resolutions",
+        "d": "It is an independent country"
+      },
+      "one_liner": "The map indicates that the final status of **Indian Illegally Occupied Jammu & Kashmir** is to be decided in line with relevant UNSC resolutions.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Arabian Sea",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

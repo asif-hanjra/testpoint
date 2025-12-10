@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'friend':",
+      "options": {
+        "a": "ally:adversary",
+        "b": "companion:associate",
+        "c": "colleague:partner",
+        "d": "buddy:friend"
+      },
+      "one_liner": "'Ally' is a synonym of 'friend', while 'adversary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

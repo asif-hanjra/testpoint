@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which significant fact was demonstrated by the 1937 elections regarding the representation of Muslims in India?",
+      "options": {
+        "a": "Only the Muslim League represented all Muslims",
+        "b": "Only Congress represented all Muslims",
+        "c": "Neither the Muslim League nor Congress represented all Muslims",
+        "d": "Both parties equally represented all Muslims"
+      },
+      "one_liner": "The 1937 elections showed that neither the Muslim League nor the Congress could claim to represent all the Muslims of India, highlighting the diversity of Muslim political opinion.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

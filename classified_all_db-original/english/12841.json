@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'insinuate':",
+      "options": {
+        "a": "intimate:state explicitly",
+        "b": "suggest:proclaim",
+        "c": "hint:announce",
+        "d": "allude:declare"
+      },
+      "one_liner": "'Intimate' is a synonym of 'insinuate', while 'state explicitly' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

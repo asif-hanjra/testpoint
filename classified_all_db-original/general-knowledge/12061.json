@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the full name of the Sufi master commonly known as Baba Farid?",
+      "options": {
+        "a": "Fariduddin Masud Gunj Shakar",
+        "b": "Nizam-ud-Din Auliya",
+        "c": "Qutab-ud-Din Bakhtiar Kaki",
+        "d": "Bahauddin Zakariya"
+      },
+      "one_liner": "The full name of the Sufi master commonly known as Baba Farid is **Fariduddin Masud Gunj Shakar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

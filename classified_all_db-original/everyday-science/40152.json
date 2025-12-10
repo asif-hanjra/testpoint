@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of glands release hormones that help in coordination among organs and performing responses?",
+      "options": {
+        "a": "Endocrine glands",
+        "b": "Exocrine glands",
+        "c": "Sweat glands",
+        "d": "Salivary glands"
+      },
+      "one_liner": "Endocrine glands release hormones that coordinate organ functions and trigger responses in the body, making them essential for internal regulation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

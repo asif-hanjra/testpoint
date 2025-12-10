@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Talis qualis' mean?",
+      "options": {
+        "a": "With great power",
+        "b": "Such as it is",
+        "c": "In the same place",
+        "d": "To the stars"
+      },
+      "one_liner": "'Talis qualis' translates to 'such as it is,' implying acceptance of something in its current state.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

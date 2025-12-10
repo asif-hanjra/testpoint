@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: \"Ahsan will be playing cricket.\"",
+      "options": {
+        "a": "Cricket will being played by Ahsan.",
+        "b": "Cricket will been played by Ahsan.",
+        "c": "Cricket will be being played by Ahsan.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

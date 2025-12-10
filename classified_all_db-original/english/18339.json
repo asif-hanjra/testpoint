@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'concession':",
+      "options": {
+        "a": "disagreement",
+        "b": "compromise",
+        "c": "conflict",
+        "d": "challenge"
+      },
+      "one_liner": "'Concession' implies a grant or allowance of rights or privileges, similar to 'compromise'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who started the Non Cooperation Movement in March 1920?",
+      "options": {
+        "a": "Nehru",
+        "b": "Jinnah",
+        "c": "Gandhi",
+        "d": "Tilak"
+      },
+      "one_liner": "It was **Gandhi** who initiated the Non Cooperation Movement in March 1920.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

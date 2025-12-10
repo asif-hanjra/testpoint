@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Square : Circle : Triangle :: Triangle : Square: Circle :",
+      "options": {
+        "a": "Circle",
+        "b": "Triangle",
+        "c": "Rectangle",
+        "d": "Square"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

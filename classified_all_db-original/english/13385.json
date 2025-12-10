@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'zenith':",
+      "options": {
+        "a": "pinnacle",
+        "b": "nadir",
+        "c": "crest",
+        "d": "peak"
+      },
+      "one_liner": "The antonym of 'zenith' is 'nadir', which represents the lowest point.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

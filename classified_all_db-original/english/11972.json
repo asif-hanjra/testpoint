@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'former':",
+      "options": {
+        "a": "past",
+        "b": "previous",
+        "c": "current",
+        "d": "prior"
+      },
+      "one_liner": "The antonym of 'former' is 'current', indicating something that exists or is happening now.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

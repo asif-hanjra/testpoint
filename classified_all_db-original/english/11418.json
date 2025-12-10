@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conflagration':",
+      "options": {
+        "a": "flood",
+        "b": "blaze",
+        "c": "drizzle",
+        "d": "stream"
+      },
+      "one_liner": "'Conflagration' refers to a large destructive fire, similar to a 'blaze'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

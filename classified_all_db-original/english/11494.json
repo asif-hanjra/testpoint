@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'Notion':",
+      "options": {
+        "a": "concept:fact",
+        "b": "idea:theory",
+        "c": "belief:hypothesis",
+        "d": "thought:reality"
+      },
+      "one_liner": "'Concept' is a synonym of 'Notion', while 'fact' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

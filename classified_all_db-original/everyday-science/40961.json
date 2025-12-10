@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What do elements form when they combine with each other?",
+      "options": {
+        "a": "Mixtures",
+        "b": "Compounds",
+        "c": "Alloys",
+        "d": "None of these"
+      },
+      "one_liner": "When elements combine, they form **compounds**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

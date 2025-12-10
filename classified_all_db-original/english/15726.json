@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'majestic':",
+      "options": {
+        "a": "grand:ordinary",
+        "b": "imposing:grand",
+        "c": "regal:impressive",
+        "d": "splendid:magnificent"
+      },
+      "one_liner": "'Grand' is a synonym of 'majestic', while 'ordinary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

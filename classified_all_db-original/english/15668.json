@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stint':",
+      "options": {
+        "a": "term:extend",
+        "b": "duration:prolong",
+        "c": "tenure:shorten",
+        "d": "limit:reduce"
+      },
+      "one_liner": "'Term' is a synonym of 'stint', while 'extend' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

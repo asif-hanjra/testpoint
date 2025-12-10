@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'odoriferous':",
+      "options": {
+        "a": "odorless",
+        "b": "aromatic",
+        "c": "invisible",
+        "d": "silent"
+      },
+      "one_liner": "'Odoriferous' means having a strong or distinct smell, similar to 'fragrant' or 'aromatic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

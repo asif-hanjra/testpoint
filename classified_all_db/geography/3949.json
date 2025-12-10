@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the highest mountain pass in the world, with a height of 19,412 feet, situated in Tibet (China)?",
+      "options": {
+        "a": "Karakoram Pass",
+        "b": "Bodpola",
+        "c": "Khunjerab Pass",
+        "d": "None of these"
+      },
+      "one_liner": "Bodpola, located in Tibet (China), is recognized as the highest mountain pass in the world at an elevation of **19,412 feet**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Mountains",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

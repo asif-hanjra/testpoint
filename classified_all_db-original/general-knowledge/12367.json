@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Shah Abdul Latif Bhittai born?",
+      "options": {
+        "a": "Karachi",
+        "b": "Hala Haweli near modern-day Hala",
+        "c": "Hyderabad",
+        "d": "None of these"
+      },
+      "one_liner": "Shah Abdul Latif Bhittai was born in **Hala Haweli near modern-day Hala**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Shah Abdul Latif Bhittai",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Shah Abdul Latif Bhittai",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

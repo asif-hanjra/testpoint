@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pardon':",
+      "options": {
+        "a": "absolution:punishment",
+        "b": "forgiveness:approval",
+        "c": "mercy:compassion",
+        "d": "acquittal:conviction"
+      },
+      "one_liner": "'Absolution' is a synonym for 'pardon', while 'punishment' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

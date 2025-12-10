@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'aptitude':",
+      "options": {
+        "a": "skill",
+        "b": "talent",
+        "c": "inability",
+        "d": "proficiency"
+      },
+      "one_liner": "An antonym of 'aptitude' is 'inability', which denotes a lack of natural talent or skill.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard length range for a badminton shuttlecock?",
+      "options": {
+        "a": "50-58 mm",
+        "b": "62-70 mm",
+        "c": "70-78 mm",
+        "d": "80-88 mm"
+      },
+      "one_liner": "The standard length of a badminton shuttlecock ranges from **62 to 70 millimeters**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

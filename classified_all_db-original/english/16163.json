@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sad':",
+      "options": {
+        "a": "joyful",
+        "b": "sorrow",
+        "c": "happy",
+        "d": "elated"
+      },
+      "one_liner": "'Sad' is synonymous with feelings of 'sorrow' and 'grief'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

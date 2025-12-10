@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'we' in the sentence 'We are going to the beach'?",
+      "options": {
+        "a": "Noun",
+        "b": "Pronoun",
+        "c": "Adjective",
+        "d": "Verb"
+      },
+      "one_liner": "In the sentence 'We are going to the beach', the word 'we' is a pronoun because it replaces a noun (e.g., names of people).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

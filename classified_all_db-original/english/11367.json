@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'afraid':",
+      "options": {
+        "a": "terrified:bold",
+        "b": "fearless:scared",
+        "c": "anxious:brave",
+        "d": "nervous:fearless"
+      },
+      "one_liner": "'Terrified' is a synonym of 'afraid', while 'bold' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

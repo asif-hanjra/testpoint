@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the world's longest freshwater lake?",
+      "options": {
+        "a": "Lake Tanganyika",
+        "b": "Lake Victoria",
+        "c": "Lake Superior",
+        "d": "Lake Baikal"
+      },
+      "one_liner": "The world's longest freshwater lake is **Lake Tanganyika**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

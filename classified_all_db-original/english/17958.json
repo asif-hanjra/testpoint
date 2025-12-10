@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "A monkey is not capable ___ flying in the air.",
+      "options": {
+        "a": "at",
+        "b": "of",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "A monkey is not capable 'of' flying in the air.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'guile':",
+      "options": {
+        "a": "deception",
+        "b": "trickery",
+        "c": "honesty",
+        "d": "cunning"
+      },
+      "one_liner": "The opposite of 'guile', which is deceitful cunning, would be 'honesty' or 'sincerity'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

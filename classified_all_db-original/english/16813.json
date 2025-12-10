@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cataclysm':",
+      "options": {
+        "a": "calamity:harmony",
+        "b": "peace:chaos",
+        "c": "disaster:serenity",
+        "d": "upheaval:tranquility"
+      },
+      "one_liner": "'Disaster' is a synonym of 'cataclysm', while 'harmony' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which proposed motorway will connect Sukkur to Hyderabad?",
+      "options": {
+        "a": "M5",
+        "b": "M6",
+        "c": "M7",
+        "d": "M8"
+      },
+      "one_liner": "The M6 motorway is a proposed project that will link **Sukkur to Hyderabad**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

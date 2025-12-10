@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'Notion':",
+      "options": {
+        "a": "impression:truth",
+        "b": "belief:fiction",
+        "c": "concept:reality",
+        "d": "idea:falsity"
+      },
+      "one_liner": "'Impression' is a synonym for 'notion', whereas 'truth' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

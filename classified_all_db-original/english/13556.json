@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'outstanding':",
+      "options": {
+        "a": "notable",
+        "b": "remarkable",
+        "c": "unremarkable",
+        "d": "excellent"
+      },
+      "one_liner": "An antonym of 'outstanding' is 'unremarkable', which means not exceptional or noteworthy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

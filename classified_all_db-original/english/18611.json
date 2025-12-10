@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nonchalant':",
+      "options": {
+        "a": "apathetic",
+        "b": "uninterested",
+        "c": "concerned",
+        "d": "detached"
+      },
+      "one_liner": "The opposite of 'nonchalant' is 'concerned', which implies caring or worrying about something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

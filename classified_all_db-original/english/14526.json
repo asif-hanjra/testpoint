@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'adequate':",
+      "options": {
+        "a": "ample",
+        "b": "sufficient",
+        "c": "inadequate",
+        "d": "abundant"
+      },
+      "one_liner": "The word 'inadequate' is an antonym of 'adequate', indicating something is not enough.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Complete the sentence: The more things change, ___ more they stay the same.",
+      "options": {
+        "a": "at",
+        "b": "the",
+        "c": "in",
+        "d": "by"
+      },
+      "one_liner": "The more things change, 'the' more they stay the same.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

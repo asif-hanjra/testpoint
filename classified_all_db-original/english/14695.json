@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Please do exactly ___ you are directed.",
+      "options": {
+        "a": "like",
+        "b": "as",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "Please do exactly 'as' you are directed.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

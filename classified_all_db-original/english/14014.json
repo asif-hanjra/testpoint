@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'agog':",
+      "options": {
+        "a": "impressed",
+        "b": "fascinated",
+        "c": "unimpressed",
+        "d": "captivated"
+      },
+      "one_liner": "An antonym of 'agog' is 'unimpressed', which implies a lack of excitement or interest.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

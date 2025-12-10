@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is located to the east of Pakistan?",
+      "options": {
+        "a": "Afghanistan",
+        "b": "Iran",
+        "c": "India",
+        "d": "China"
+      },
+      "one_liner": "India is the country that lies directly to the east of **Pakistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

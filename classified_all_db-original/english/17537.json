@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'perfidious':",
+      "options": {
+        "a": "loyal",
+        "b": "treacherous",
+        "c": "faithful",
+        "d": "honest"
+      },
+      "one_liner": "'Perfidious' refers to someone who is deceitful and untrustworthy, much like someone who is 'treacherous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

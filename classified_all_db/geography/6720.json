@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river is the Trimmu Barrage located?",
+      "options": {
+        "a": "Jhelum River",
+        "b": "Chenab River",
+        "c": "Ravi River",
+        "d": "None of these"
+      },
+      "one_liner": "Trimmu Barrage is constructed on the **Chenab River in Jhang**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Ravi River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

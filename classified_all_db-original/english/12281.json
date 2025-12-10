@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'inimical':",
+      "options": {
+        "a": "friendly",
+        "b": "adverse",
+        "c": "beneficial",
+        "d": "helpful"
+      },
+      "one_liner": "'Inimical' means harmful or hostile, so 'adverse' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

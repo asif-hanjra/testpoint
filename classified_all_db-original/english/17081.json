@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'expend':",
+      "options": {
+        "a": "accumulate",
+        "b": "disburse",
+        "c": "conserve",
+        "d": "hoard"
+      },
+      "one_liner": "'Expend' means to use up or spend resources, similar to how 'disburse' implies distributing funds.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

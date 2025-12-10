@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered penicillin?",
+      "options": {
+        "a": "Gregor Mendel",
+        "b": "Alexander Fleming",
+        "c": "Marconi",
+        "d": "Thomas Edison"
+      },
+      "one_liner": "Penicillin, the first true antibiotic, was discovered by **Alexander Fleming**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

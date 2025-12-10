@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who did Babar defeat in the first battle of Panipat?",
+      "options": {
+        "a": "Ibrahim Lodhi",
+        "b": "Sher Shah Suri",
+        "c": "Rana Sanga",
+        "d": "None of these"
+      },
+      "one_liner": "Babar established his rule in India by defeating **Ibrahim Lodhi** in the first battle of Panipat.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Do not count your chickens ___ they are hatched.",
+      "options": {
+        "a": "after",
+        "b": "before",
+        "c": "since",
+        "d": "until"
+      },
+      "one_liner": "Do not count your chickens 'before' they are hatched.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

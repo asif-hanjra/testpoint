@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impound':",
+      "options": {
+        "a": "release",
+        "b": "confiscate",
+        "c": "liberate",
+        "d": "return"
+      },
+      "one_liner": "'Impound' means to seize and take legal custody of something, similar to 'confiscate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

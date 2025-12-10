@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'virtue':",
+      "options": {
+        "a": "integrity:depravity",
+        "b": "honesty:corruption",
+        "c": "goodness:wickedness",
+        "d": "morality:immorality"
+      },
+      "one_liner": "'Integrity' is a synonym for 'virtue', while 'depravity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

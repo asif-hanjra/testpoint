@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'brave':",
+      "options": {
+        "a": "cowardly",
+        "b": "fearless",
+        "c": "shy",
+        "d": "timid"
+      },
+      "one_liner": "'Brave' means courageous or valiant, words like 'fearless' and 'intrepid' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

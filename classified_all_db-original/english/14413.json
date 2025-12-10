@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bottom':",
+      "options": {
+        "a": "base:summit",
+        "b": "foundation:peak",
+        "c": "depth:top",
+        "d": "floor:height"
+      },
+      "one_liner": "'Base' is a synonym of 'bottom', while 'summit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

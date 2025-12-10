@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of image is formed on the retina of the human eye?",
+      "options": {
+        "a": "Virtual and upright",
+        "b": "Real and inverted",
+        "c": "Real and upright",
+        "d": "Virtual and inverted"
+      },
+      "one_liner": "The image formed on the retina of the human eye is both **real and inverted**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date is International Mother Language Day observed worldwide?",
+      "options": {
+        "a": "21 March",
+        "b": "21 February",
+        "c": "22 February",
+        "d": "20 February"
+      },
+      "one_liner": "International Mother Language Day is globally observed on **21 February** each year.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "From which direction do the winter monsoons arrive in Pakistan?",
+      "options": {
+        "a": "Northwest",
+        "b": "Northeast",
+        "c": "Southwest",
+        "d": "Southeast"
+      },
+      "one_liner": "The winter monsoons in Pakistan originate from the **Northeast** direction.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

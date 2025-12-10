@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'undeniable':",
+      "options": {
+        "a": "disputable",
+        "b": "irrefutable",
+        "c": "inarguable",
+        "d": "indisputable"
+      },
+      "one_liner": "An antonym of 'undeniable' would be 'disputable', which implies that something can be challenged or questioned.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

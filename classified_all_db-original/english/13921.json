@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abrupt':",
+      "options": {
+        "a": "gradual",
+        "b": "sudden",
+        "c": "steady",
+        "d": "continuous"
+      },
+      "one_liner": "'Abrupt' means sudden or unexpected, similar to 'sudden' or 'unexpected'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

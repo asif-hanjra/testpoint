@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sedulous':",
+      "options": {
+        "a": "lazy",
+        "b": "assiduous",
+        "c": "negligent",
+        "d": "careless"
+      },
+      "one_liner": "'Sedulous' means diligent or hardworking, similar to 'assiduous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

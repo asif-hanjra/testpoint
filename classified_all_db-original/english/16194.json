@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'authentic':",
+      "options": {
+        "a": "real",
+        "b": "original",
+        "c": "fake",
+        "d": "legitimate"
+      },
+      "one_liner": "Antonyms of 'authentic' include 'fake' and 'counterfeit', both implying a lack of genuineness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

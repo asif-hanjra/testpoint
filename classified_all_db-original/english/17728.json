@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'intentional':",
+      "options": {
+        "a": "accidental",
+        "b": "deliberate",
+        "c": "unintentional",
+        "d": "random"
+      },
+      "one_liner": "'Intentional' means done on purpose or deliberately, similar to the word 'deliberate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

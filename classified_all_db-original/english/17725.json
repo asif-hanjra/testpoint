@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'opiate':",
+      "options": {
+        "a": "stimulant",
+        "b": "narcotic",
+        "c": "tonic",
+        "d": "antidote"
+      },
+      "one_liner": "'Opiate' refers to substances like 'narcotic' that induce sleep or relieve pain.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

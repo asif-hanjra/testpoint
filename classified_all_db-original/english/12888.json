@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I could find the solution ___ the problem.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "of",
+        "d": "with"
+      },
+      "one_liner": "I could find the solution 'to' the problem.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

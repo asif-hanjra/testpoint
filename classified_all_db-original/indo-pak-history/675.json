@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which group was given a separate electorate under the Communal Award of 1932?",
+      "options": {
+        "a": "Muslims",
+        "b": "Sikhs",
+        "c": "Untouchable Hindus",
+        "d": "Christians"
+      },
+      "one_liner": "The Communal Award of 1932 provided a **separate electorate for untouchable Hindus**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Communal Award",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Communal Award",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

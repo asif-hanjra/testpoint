@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of NATO (North Atlantic Treaty Organization) located?",
+      "options": {
+        "a": "Paris",
+        "b": "London",
+        "c": "Brussels",
+        "d": "Berlin"
+      },
+      "one_liner": "The headquarters of NATO is situated in **Brussels**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

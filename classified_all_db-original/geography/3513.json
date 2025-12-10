@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where does the Amu Darya River originate?",
+      "options": {
+        "a": "Iran and Turkmenistan",
+        "b": "Tajikistan and Afghanistan",
+        "c": "Uzbekistan and Kazakhstan",
+        "d": "None of these"
+      },
+      "one_liner": "The Amu Darya River originates from the border between **Tajikistan and Afghanistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Central Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

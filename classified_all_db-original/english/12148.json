@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'qualified':",
+      "options": {
+        "a": "unqualified",
+        "b": "skilled",
+        "c": "capable",
+        "d": "certified"
+      },
+      "one_liner": "The antonym of 'qualified' is 'unqualified', indicating a lack of necessary skills or credentials.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

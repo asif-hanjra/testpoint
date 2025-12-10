@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which state does the persecution of Rohingiya Muslims take place?",
+      "options": {
+        "a": "Kachin State",
+        "b": "Rakhine State",
+        "c": "Shan State",
+        "d": "Mon State"
+      },
+      "one_liner": "The persecution of Rohingiya Muslims occurs in the **Rakhine State**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

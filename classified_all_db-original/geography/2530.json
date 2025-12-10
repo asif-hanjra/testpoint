@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Lowari Tunnel is built under which pass?",
+      "options": {
+        "a": "Khyber Pass",
+        "b": "Lowari Pass",
+        "c": "Bolan Pass",
+        "d": "Shandur Pass"
+      },
+      "one_liner": "Lowari Tunnel is constructed under the **Lowari Pass** of the Hindu Kush mountains.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

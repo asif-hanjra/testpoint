@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the second Indian to join the Governor General's Executive Council in 1910?",
+      "options": {
+        "a": "S. P. Sinha",
+        "b": "Sir Imam Ali",
+        "c": "Maulana Azad",
+        "d": "None of these"
+      },
+      "one_liner": "In 1910, **Sir Imam Ali** became the second Indian to join the Governor General's Executive Council.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Indian Councils Act (1892)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

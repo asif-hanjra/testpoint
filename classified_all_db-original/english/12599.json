@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He could not decide ___ the two options to choose.",
+      "options": {
+        "a": "between of",
+        "b": "which of",
+        "c": "among",
+        "d": "from"
+      },
+      "one_liner": "He could not decide 'which of' the two options to choose.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

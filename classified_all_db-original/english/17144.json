@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'haggard':",
+      "options": {
+        "a": "fresh",
+        "b": "gaunt",
+        "c": "radiant",
+        "d": "rejuvenated"
+      },
+      "one_liner": "'Haggard' describes someone looking exhausted or unwell, similar to 'gaunt' or 'worn'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the formula for the  nth term of an arithmetic sequence?",
+      "options": {
+        "a": "aₙ = 𝑎 × ( 𝑛 − 1 ) + 𝑑",
+        "b": "aₙ = a₁ + (n - 1)d",
+        "c": "aₙ ​  =a+nd",
+        "d": "aₙ ​  =a−(n−1)d"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Doab is the largest in Punjab by land area?",
+      "options": {
+        "a": "Bari Doab",
+        "b": "Rechna Doab",
+        "c": "Sind Sagar Doab",
+        "d": "Bist Doab"
+      },
+      "one_liner": "The **Sind Sagar Doab** is the largest of the Punjab doabs in terms of land area.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

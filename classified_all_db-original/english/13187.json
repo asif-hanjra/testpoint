@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'zany':",
+      "options": {
+        "a": "humorous",
+        "b": "eccentric",
+        "c": "serious",
+        "d": "wacky"
+      },
+      "one_liner": "The word 'zany' implies a sense of silliness, which is the opposite of being 'serious' or 'sober'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

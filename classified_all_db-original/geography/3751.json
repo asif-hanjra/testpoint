@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the longest canal in Pakistan?",
+      "options": {
+        "a": "Nara Canal",
+        "b": "Upper Bari Doab Canal",
+        "c": "Lower Chenab Canal",
+        "d": "Rohri Canal"
+      },
+      "one_liner": "The longest canal in Pakistan is the **Nara Canal**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Despite being ___ better team, we lost the match.",
+      "options": {
+        "a": "a",
+        "b": "the",
+        "c": "an",
+        "d": "of"
+      },
+      "one_liner": "Despite being 'the' better team, we lost the match.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

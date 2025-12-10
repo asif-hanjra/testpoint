@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If each element of a matrix is zero, then it is called?",
+      "options": {
+        "a": "Hermitian",
+        "b": "Symmetric",
+        "c": "Null matrix",
+        "d": "Skew symmetric"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

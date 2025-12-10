@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is pepsinogen converted into pepsin?",
+      "options": {
+        "a": "Mouth",
+        "b": "Stomach",
+        "c": "Small intestine",
+        "d": "Large intestine"
+      },
+      "one_liner": "Pepsinogen is converted into pepsin in the **stomach**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

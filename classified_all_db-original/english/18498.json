@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "FECUND : INFERTILE :: RAPID : ________?",
+      "options": {
+        "a": "Swift",
+        "b": "Quick",
+        "c": "Slow",
+        "d": "Fast"
+      },
+      "one_liner": "Fecund (fertile) is the opposite of infertile, just as rapid is the opposite of slow.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

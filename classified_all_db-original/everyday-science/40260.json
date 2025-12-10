@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the ovary located in females?",
+      "options": {
+        "a": "Pelvic region",
+        "b": "Chest",
+        "c": "Neck",
+        "d": "Abdomen"
+      },
+      "one_liner": "In females, the ovary is found in the **pelvic region**, where it produces eggs and hormones.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

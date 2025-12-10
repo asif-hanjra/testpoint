@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impound':",
+      "options": {
+        "a": "seize",
+        "b": "detain",
+        "c": "release",
+        "d": "confiscate"
+      },
+      "one_liner": "An antonym for 'impound' would be 'release', which means to set free or let go.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

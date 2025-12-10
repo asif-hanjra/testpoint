@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'claim':",
+      "options": {
+        "a": "deny",
+        "b": "assert",
+        "c": "dispute",
+        "d": "ignore"
+      },
+      "one_liner": "'Claim' can be synonymous with 'assert', as both imply stating something as a fact.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

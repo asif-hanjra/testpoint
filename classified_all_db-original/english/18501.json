@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "It's rude to _______ without knocking.",
+      "options": {
+        "a": "give in",
+        "b": "barge in",
+        "c": "hold on",
+        "d": "run out"
+      },
+      "one_liner": "It's rude to 'barge in' without knocking.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

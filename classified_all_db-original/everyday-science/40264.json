@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal is commonly found in storage batteries?",
+      "options": {
+        "a": "Lead",
+        "b": "Copper",
+        "c": "Zinc",
+        "d": "Iron"
+      },
+      "one_liner": "Storage batteries typically contain the metal **Lead** as a key component.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

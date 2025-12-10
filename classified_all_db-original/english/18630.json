@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'laborious':",
+      "options": {
+        "a": "toilsome:light",
+        "b": "strenuous:easy",
+        "c": "hard:soft",
+        "d": "difficult:effortless"
+      },
+      "one_liner": "'Toilsome' is a synonym of 'laborious', while 'light' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

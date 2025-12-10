@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I'm so weary ___ your complaints.",
+      "options": {
+        "a": "by",
+        "b": "of",
+        "c": "with",
+        "d": "from"
+      },
+      "one_liner": "I'm so weary 'of' your complaints.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

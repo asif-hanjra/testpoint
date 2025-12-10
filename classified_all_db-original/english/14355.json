@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'agog':",
+      "options": {
+        "a": "apathetic",
+        "b": "enthusiastic",
+        "c": "indifferent",
+        "d": "uninterested"
+      },
+      "one_liner": "'Agog' means eager or excited, similar to 'enthusiastic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

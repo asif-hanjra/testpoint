@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'barefaced':",
+      "options": {
+        "a": "hidden",
+        "b": "audacious",
+        "c": "timid",
+        "d": "shy"
+      },
+      "one_liner": "'Barefaced' often implies being shameless or brazen, much like the word 'audacious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

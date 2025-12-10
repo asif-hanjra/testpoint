@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'intentional':",
+      "options": {
+        "a": "accidental",
+        "b": "deliberate",
+        "c": "purposeful",
+        "d": "planned"
+      },
+      "one_liner": "The antonym of 'intentional' is 'accidental', which means occurring by chance.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

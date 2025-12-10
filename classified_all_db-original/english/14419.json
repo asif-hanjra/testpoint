@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mosaic':",
+      "options": {
+        "a": "uniform",
+        "b": "patchwork",
+        "c": "monochrome",
+        "d": "homogeneous"
+      },
+      "one_liner": "'Mosaic' refers to a picture or pattern produced by arranging together small colored pieces of hard material, making 'patchwork' a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

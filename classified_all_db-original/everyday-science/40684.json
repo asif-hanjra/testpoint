@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times does a normal man respire per minute?",
+      "options": {
+        "a": "10-12",
+        "b": "14-18",
+        "c": "20-24",
+        "d": "None of these"
+      },
+      "one_liner": "A normal man typically respires **14-18 times per minute**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

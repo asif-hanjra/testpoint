@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: The engineers have built a perfect dam across the stream.",
+      "options": {
+        "a": "A perfect dam across the stream has been built by the engineers.",
+        "b": "A perfect dam across the stream was built by the engineers.",
+        "c": "A perfect dam across the stream has built by the engineers.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

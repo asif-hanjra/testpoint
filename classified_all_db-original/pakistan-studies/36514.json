@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which Pakistani city did the US operation claiming to kill Osama bin Laden take place?",
+      "options": {
+        "a": "Karachi",
+        "b": "Islamabad",
+        "c": "Abbottabad",
+        "d": "Lahore"
+      },
+      "one_liner": "The US operation that claimed to kill Osama bin Laden took place in the Pakistani city of **Abbottabad**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

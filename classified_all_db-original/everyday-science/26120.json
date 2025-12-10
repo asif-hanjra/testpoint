@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Myopia disease is related to which sense organ?",
+      "options": {
+        "a": "Hearing",
+        "b": "Smell",
+        "c": "Eyesight",
+        "d": "Touch"
+      },
+      "one_liner": "Myopia is a disease that specifically affects the **eyesight** of an individual.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

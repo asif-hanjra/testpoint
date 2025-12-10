@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The Bernoulli's equation relates the pressure, velocity, and height of a fluid in a streamline. Which of the following assumptions is NOT made in the derivation of Bernoulli's equation?",
+      "options": {
+        "a": "Steady flow",
+        "b": "Incompressible fluid",
+        "c": "No external forces acting on the fluid",
+        "d": "Negligible viscosity"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

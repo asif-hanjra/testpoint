@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'deft':",
+      "options": {
+        "a": "clumsy",
+        "b": "adept",
+        "c": "skillful",
+        "d": "proficient"
+      },
+      "one_liner": "The opposite of 'deft', which means skillful, would be 'clumsy', indicating a lack of skill or grace.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two rivers are joined by the Sindh Sagar Canal?",
+      "options": {
+        "a": "Indus & Jhelum",
+        "b": "Chenab & Ravi",
+        "c": "Sutlej & Beas",
+        "d": "None of these"
+      },
+      "one_liner": "The Sindh Sagar Canal connects the rivers **Indus** and **Jhelum**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

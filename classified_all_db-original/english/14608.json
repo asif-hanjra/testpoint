@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Who will bell ___ cat?",
+      "options": {
+        "a": "on",
+        "b": "the",
+        "c": "at",
+        "d": "in"
+      },
+      "one_liner": "Who will bell 'the' cat?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

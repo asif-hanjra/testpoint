@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Koh-e-Toor located?",
+      "options": {
+        "a": "Arabia",
+        "b": "Sinai",
+        "c": "Jerusalem",
+        "d": "None of these"
+      },
+      "one_liner": "Koh-e-Toor is situated in the region of **Sinai**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

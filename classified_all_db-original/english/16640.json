@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bewilder':",
+      "options": {
+        "a": "confound:illuminate",
+        "b": "muddle:clarify",
+        "c": "baffle:enlighten",
+        "d": "perplex:explain"
+      },
+      "one_liner": "'Confound' is a synonym of 'bewilder', while 'illuminate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

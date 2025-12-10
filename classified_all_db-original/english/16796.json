@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'himself' in the sentence 'He made himself a sandwich'?",
+      "options": {
+        "a": "Adjective",
+        "b": "Verb",
+        "c": "Noun",
+        "d": "Pronoun"
+      },
+      "one_liner": "'Himself' is a reflexive pronoun referring back to 'he'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'glorious':",
+      "options": {
+        "a": "dreadful",
+        "b": "splendid",
+        "c": "mediocre",
+        "d": "unimpressive"
+      },
+      "one_liner": "'Glorious' means magnificent or wonderful, similar to 'splendid'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

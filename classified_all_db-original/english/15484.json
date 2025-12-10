@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'grotesque':",
+      "options": {
+        "a": "beautiful",
+        "b": "monstrous",
+        "c": "elegant",
+        "d": "graceful"
+      },
+      "one_liner": "'Grotesque' means distorted or bizarre—words like 'monstrous' and 'freakish' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

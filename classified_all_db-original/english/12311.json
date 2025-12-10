@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'brisk':",
+      "options": {
+        "a": "sluggish",
+        "b": "lively",
+        "c": "lethargic",
+        "d": "dull"
+      },
+      "one_liner": "'Brisk' means quick or active, similar to 'lively' or 'energetic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

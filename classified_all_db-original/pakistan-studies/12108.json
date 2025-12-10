@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the Working Boundary?",
+      "options": {
+        "a": "Boundary between Indian Held Kashmir and Pakistan",
+        "b": "Boundary between Punjab and Sindh",
+        "c": "Boundary between Pakistan and Afghanistan",
+        "d": "None of these"
+      },
+      "one_liner": "The Working Boundary refers to the border between **Indian Held Kashmir and Pakistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

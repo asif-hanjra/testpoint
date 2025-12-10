@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "PRIMATE : MARSUPIAL :: MONKEY : ________?",
+      "options": {
+        "a": "Kangaroo",
+        "b": "Opossum",
+        "c": "Gorilla",
+        "d": "Elephant"
+      },
+      "one_liner": "A monkey is a primate, just as an opossum is a marsupial.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

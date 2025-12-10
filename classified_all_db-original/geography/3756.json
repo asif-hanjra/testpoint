@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which famous bridge in London crosses the River Thames near the Tower of London?",
+      "options": {
+        "a": "London Bridge",
+        "b": "Tower Bridge",
+        "c": "Westminster Bridge",
+        "d": "Millennium Bridge"
+      },
+      "one_liner": "The **Tower Bridge** in London crosses the River Thames near the Tower of London.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

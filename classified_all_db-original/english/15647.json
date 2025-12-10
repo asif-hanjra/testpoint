@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'coherent':",
+      "options": {
+        "a": "connected",
+        "b": "articulate",
+        "c": "disconnected",
+        "d": "clear"
+      },
+      "one_liner": "The word 'coherent' has antonyms like 'incoherent' and 'disconnected', which imply a lack of clarity or connection.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

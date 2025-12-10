@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: Open the window.",
+      "options": {
+        "a": "Let the window be opened.",
+        "b": "Let the window will be opened.",
+        "c": "Let the window was opened.",
+        "d": "Let the window is been opened."
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

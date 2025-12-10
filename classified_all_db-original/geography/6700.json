@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Manchar Lake located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Balochistan",
+        "d": "Khyber Pakhtunkhwa"
+      },
+      "one_liner": "Manchar Lake is located in the province of **Sindh** in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'drone':",
+      "options": {
+        "a": "buzz:quiet",
+        "b": "hum:loud",
+        "c": "murmur:noise",
+        "d": "whirr:silence"
+      },
+      "one_liner": "'Buzz' is a synonym of 'drone', while 'quiet' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following formulas is used to convert temperature from Celsius to Fahrenheit scale?",
+      "options": {
+        "a": "T(°F) = 1.8T(°C) + 32",
+        "b": "T(°F) = 2.8T(°C) - 32",
+        "c": "T(°F) = 1.8T(°C) ÷ 32",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The rain started to _______ after an hour, so we went outside.",
+      "options": {
+        "a": "bring up",
+        "b": "ease off",
+        "c": "take over",
+        "d": "run out"
+      },
+      "one_liner": "The rain started to 'ease off' after an hour, so we went outside.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

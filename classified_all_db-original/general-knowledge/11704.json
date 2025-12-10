@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the statistical study of human population called?",
+      "options": {
+        "a": "Anthropology",
+        "b": "Demography",
+        "c": "Sociology",
+        "d": "Geography"
+      },
+      "one_liner": "The statistical study of human population is known as **Demography**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

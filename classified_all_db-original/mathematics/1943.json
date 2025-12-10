@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If a < b and b < c then ______?",
+      "options": {
+        "a": "b = c",
+        "b": "a < c",
+        "c": "b < a",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

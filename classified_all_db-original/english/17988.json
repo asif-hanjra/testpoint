@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'foible':",
+      "options": {
+        "a": "idiosyncrasy:merit",
+        "b": "flaw:perfection",
+        "c": "quirk:strength",
+        "d": "weakness:virtue"
+      },
+      "one_liner": "'Idiosyncrasy' is a synonym of 'foible', while 'merit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which chemical caused the explosion at the Port of Beirut in 2020?",
+      "options": {
+        "a": "Sulphuric acid",
+        "b": "Ammonium nitrate",
+        "c": "Petroleum",
+        "d": "Chlorine gas"
+      },
+      "one_liner": "The explosion at the Port of Beirut in 2020 was caused by **ammonium nitrate**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

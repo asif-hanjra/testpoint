@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'metaphysics':",
+      "options": {
+        "a": "empiricism",
+        "b": "rationalism",
+        "c": "idealism",
+        "d": "realism"
+      },
+      "one_liner": "While 'metaphysics' deals with the abstract and theoretical, its antonym would be something grounded in the physical or practical, like 'empiricism'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

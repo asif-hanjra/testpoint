@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mercurial':",
+      "options": {
+        "a": "stable",
+        "b": "capricious",
+        "c": "constant",
+        "d": "steady"
+      },
+      "one_liner": "'Mercurial' describes someone who is unpredictable or changeable, much like the synonyms 'volatile' or 'capricious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'raze':",
+      "options": {
+        "a": "demolish:erect",
+        "b": "flatten:build",
+        "c": "destroy:construct",
+        "d": "level:create"
+      },
+      "one_liner": "'Demolish' is a synonym of 'raze', while 'erect' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

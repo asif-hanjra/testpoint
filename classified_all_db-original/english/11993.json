@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "VAUNT : BOAST :: SKEWER : ________?",
+      "options": {
+        "a": "Praise",
+        "b": "Criticize",
+        "c": "Ignore",
+        "d": "Support"
+      },
+      "one_liner": "Vaunt is a synonym for boast, but to skewer means to criticize sharply, which is not a direct synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'shy':",
+      "options": {
+        "a": "nervous",
+        "b": "reserved",
+        "c": "confident",
+        "d": "timorous"
+      },
+      "one_liner": "An antonym of 'shy' is 'confident', which describes someone who is self-assured and not nervous.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

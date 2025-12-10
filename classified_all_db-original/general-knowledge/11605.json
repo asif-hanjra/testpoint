@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the new name of Abyssinia?",
+      "options": {
+        "a": "Ethiopia",
+        "b": "Ghana",
+        "c": "Zimbabwe",
+        "d": "Thailand"
+      },
+      "one_liner": "The country formerly known as Abyssinia is now called **Ethiopia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

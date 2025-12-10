@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fruitive':",
+      "options": {
+        "a": "barren",
+        "b": "productive",
+        "c": "sterile",
+        "d": "unproductive"
+      },
+      "one_liner": "'Fruitive' means productive or fruitful, so 'productive' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

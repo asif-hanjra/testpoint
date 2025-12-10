@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was Habba Khatoon also known as?",
+      "options": {
+        "a": "Zoon Rather",
+        "b": "Lal Ded",
+        "c": "Noor Jehan",
+        "d": "None of these"
+      },
+      "one_liner": "Habba Khatoon was also known as **Zoon Rather** and The Nightingale of Kashmir.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Habba Khatoon",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Habba Khatoon",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

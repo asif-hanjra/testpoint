@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the Muslim Students Federation (women wing) established by Begum Shaista Ikram-ullah in 1941?",
+      "options": {
+        "a": "Lahore",
+        "b": "Karachi",
+        "c": "Delhi",
+        "d": "Aligarh"
+      },
+      "one_liner": "The Muslim Students Federation (women wing) was established in **Delhi** by Begum Shaista Ikram-ullah in 1941.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

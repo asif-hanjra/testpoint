@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the value of the integral ∫ e^(x² + ln x) dx ?",
+      "options": {
+        "a": "(1/2) e^(x²)",
+        "b": "e^(x² + x)",
+        "c": "x·e^(x²)",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

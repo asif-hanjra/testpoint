@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'strict':",
+      "options": {
+        "a": "rigorous",
+        "b": "harsh",
+        "c": "lenient",
+        "d": "stern"
+      },
+      "one_liner": "The antonym of 'strict' is 'lenient', indicating a more forgiving or tolerant approach.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

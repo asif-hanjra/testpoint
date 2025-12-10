@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'catalyst':",
+      "options": {
+        "a": "hindrance",
+        "b": "accelerator",
+        "c": "block",
+        "d": "obstacle"
+      },
+      "one_liner": "'Catalyst' refers to something that speeds up a process, much like an 'accelerator'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

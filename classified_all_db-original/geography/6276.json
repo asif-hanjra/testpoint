@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the term 'Eurasia' collectively refer to?",
+      "options": {
+        "a": "Europe and Africa",
+        "b": "Europe and Asia",
+        "c": "Asia and Australia",
+        "d": "None of these"
+      },
+      "one_liner": "The term Eurasia is used to collectively refer to both **Europe and Asia** as a single landmass.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'censure':",
+      "options": {
+        "a": "praise",
+        "b": "condemn",
+        "c": "approve",
+        "d": "compliment"
+      },
+      "one_liner": "'Censure' means to express severe disapproval, similar to 'criticize' or 'condemn'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

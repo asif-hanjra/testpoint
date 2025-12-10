@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest and busiest port of Lebanon?",
+      "options": {
+        "a": "Port of Tripoli",
+        "b": "Port of Beirut",
+        "c": "Port of Sidon",
+        "d": "Port of Tyre"
+      },
+      "one_liner": "The largest and busiest port of Lebanon is the **Port of Beirut**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

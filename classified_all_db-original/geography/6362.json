@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which dam is the largest earth-filled dam in the world and is located on the Indus River in Khyber Pakhtunkhwa?",
+      "options": {
+        "a": "Tarbela Dam",
+        "b": "Rawal Dam",
+        "c": "Gomal Zam Dam",
+        "d": "Satpara Dam"
+      },
+      "one_liner": "Tarbela Dam is recognized as the **largest earth-filled dam in the world**, situated on the Indus River in Khyber Pakhtunkhwa.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

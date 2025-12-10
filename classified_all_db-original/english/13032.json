@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sufficient':",
+      "options": {
+        "a": "scarce",
+        "b": "ample",
+        "c": "insufficient",
+        "d": "meager"
+      },
+      "one_liner": "'Sufficient' means enough or adequate, similar to 'ample'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

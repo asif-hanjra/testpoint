@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who constructed the Badshahi Mosque and in which year?",
+      "options": {
+        "a": "Emperor Akbar in 1605",
+        "b": "Emperor Shah Jahan in 1653",
+        "c": "Emperor Aurangzeb in 1674",
+        "d": "None of these"
+      },
+      "one_liner": "The Badshahi Mosque was constructed by **Emperor Aurangzeb in 1674**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

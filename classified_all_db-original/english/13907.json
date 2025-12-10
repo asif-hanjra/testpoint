@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'anomaly':",
+      "options": {
+        "a": "aberration",
+        "b": "oddity",
+        "c": "norm",
+        "d": "irregularity"
+      },
+      "one_liner": "Antonyms of 'anomaly' include 'norm' and 'standard', both implying something that is typical or expected.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Galileo Galilei is often referred to as the father of which branch of astronomy?",
+      "options": {
+        "a": "Theoretical astronomy",
+        "b": "Observational astronomy",
+        "c": "Astrobiology",
+        "d": "Cosmology"
+      },
+      "one_liner": "Galileo Galilei is often called the father of **observational astronomy**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

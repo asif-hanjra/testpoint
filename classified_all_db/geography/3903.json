@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which rivers are labeled on the map of the Indus River Plain?",
+      "options": {
+        "a": "Indus, Jhelum, Chenab, Ravi, Beas, Sutlej, Jumna",
+        "b": "Indus, Kabul, Swat",
+        "c": "Chenab, Kabul, Ravi",
+        "d": "None of these"
+      },
+      "one_liner": "The rivers labeled on the map of the Indus River Plain include the **Indus, Jhelum, Chenab, Ravi, Beas, Sutlej, and Jumna**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

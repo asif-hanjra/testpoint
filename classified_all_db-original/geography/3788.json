@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Borith Lake located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Gilgit-Baltistan",
+        "d": "Khyber Pakhtunkhwa"
+      },
+      "one_liner": "Borith Lake is located in the region of **Gilgit-Baltistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the primary materials used to make glass?",
+      "options": {
+        "a": "Sand and silicates",
+        "b": "Clay and limestone",
+        "c": "Iron and copper",
+        "d": "None of these"
+      },
+      "one_liner": "Glass is primarily made from a mixture of **sand and silicates**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was one of the major outcomes of the 18th Amendment regarding provincial autonomy?",
+      "options": {
+        "a": "Reduced provincial autonomy",
+        "b": "Enhanced provincial autonomy",
+        "c": "Abolished provincial governments",
+        "d": "None of these"
+      },
+      "one_liner": "The 18th Amendment significantly **enhanced provincial autonomy** in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

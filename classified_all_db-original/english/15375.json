@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'push':",
+      "options": {
+        "a": "shove",
+        "b": "thrust",
+        "c": "pull",
+        "d": "press"
+      },
+      "one_liner": "Antonyms of 'push' include 'pull' and 'tug', both implying a force towards oneself.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

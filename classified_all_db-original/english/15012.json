@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'metaphysics':",
+      "options": {
+        "a": "ontology:physicalism",
+        "b": "epistemology:materialism",
+        "c": "cosmology:empiricism",
+        "d": "phenomenology:pragmatism"
+      },
+      "one_liner": "A synonym for 'metaphysics' is 'ontology', and an antonym is 'physicalism', which focuses on the physical over the abstract.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

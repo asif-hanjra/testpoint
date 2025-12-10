@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For two sets P and Q, if O(P) = O(Q) then ______?",
+      "options": {
+        "a": "P ⊆ Q",
+        "b": "P ⊂ Q",
+        "c": "P ~ Q",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

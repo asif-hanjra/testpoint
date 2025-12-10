@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two bodies of water are separated by the Isthmus of Suez?",
+      "options": {
+        "a": "Caribbean Sea and Pacific Ocean",
+        "b": "Mediterranean Sea and Red Sea",
+        "c": "Black Sea and Caspian Sea",
+        "d": "None of these"
+      },
+      "one_liner": "The Isthmus of Suez separates the **Mediterranean Sea** and the **Red Sea**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Isthmuses",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Isthmuses",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

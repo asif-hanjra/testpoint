@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For international travel purposes, how does the Schengen Area function?",
+      "options": {
+        "a": "Each country has its own policy",
+        "b": "No visa required",
+        "c": "One jurisdiction with common visa policy",
+        "d": "None of these"
+      },
+      "one_liner": "For international travel, the Schengen Area operates as **one jurisdiction with a common visa policy** for all its member countries.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

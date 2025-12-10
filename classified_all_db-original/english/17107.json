@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'in toto' mean?",
+      "options": {
+        "a": "In total",
+        "b": "With honor",
+        "c": "In this place",
+        "d": "Before the event"
+      },
+      "one_liner": "The phrase 'in toto' translates to 'in total' or 'as a whole'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

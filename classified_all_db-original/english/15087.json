@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'aver':",
+      "options": {
+        "a": "deny",
+        "b": "affirm",
+        "c": "question",
+        "d": "doubt"
+      },
+      "one_liner": "'Aver' means to state or assert something confidently, similar to 'affirm' or 'declare'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

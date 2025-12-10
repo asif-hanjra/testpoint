@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How is the mantle of the Earth subdivided?",
+      "options": {
+        "a": "Inner and outer mantle",
+        "b": "Upper and lower mantle",
+        "c": "Solid and liquid mantle",
+        "d": "None of these"
+      },
+      "one_liner": "The Earth's mantle is subdivided into the **upper and lower mantle**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

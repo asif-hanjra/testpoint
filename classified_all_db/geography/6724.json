@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which region of Asia is Pakistan specifically located?",
+      "options": {
+        "a": "East Asia",
+        "b": "Central Asia",
+        "c": "South Asia",
+        "d": "Southeast Asia"
+      },
+      "one_liner": "Pakistan is specifically located in the region of **South Asia** within the Asian continent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

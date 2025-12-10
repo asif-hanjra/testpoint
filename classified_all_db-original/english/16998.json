@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'assert':",
+      "options": {
+        "a": "whisper",
+        "b": "declare",
+        "c": "question",
+        "d": "murmur"
+      },
+      "one_liner": "'Assert' means to state a fact or belief confidently and forcefully, similar to 'declare'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

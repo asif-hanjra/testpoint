@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obsidian':",
+      "options": {
+        "a": "sandstone",
+        "b": "slate",
+        "c": "wood",
+        "d": "basalt"
+      },
+      "one_liner": "Since 'obsidian' is a specific type of rock, an antonym would be a substance that is not a rock, such as 'wood'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

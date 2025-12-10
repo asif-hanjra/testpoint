@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was sent by Emperor Jahangir on a diplomatic mission to Persia to paint the Shah's portrait?",
+      "options": {
+        "a": "Bishandas",
+        "b": "Abul Fazl",
+        "c": "Mirza Ghiyas Beg",
+        "d": "None of these"
+      },
+      "one_liner": "The artist **Bishandas** was sent by Emperor Jahangir to Persia on a diplomatic mission to paint the Shah's portrait.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

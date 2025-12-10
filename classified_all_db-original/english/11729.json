@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'contrite':",
+      "options": {
+        "a": "remorseful:impenitent",
+        "b": "guilty:shameful",
+        "c": "penitent:proud",
+        "d": "apologetic:defiant"
+      },
+      "one_liner": "'Remorseful' is a synonym of 'contrite', while 'impenitent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

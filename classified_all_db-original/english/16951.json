@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'De facto' mean when referring to a situation in English?",
+      "options": {
+        "a": "By law",
+        "b": "In fact or in practice",
+        "c": "An accomplished fact",
+        "d": "Before the fact"
+      },
+      "one_liner": "'De facto' refers to a state of affairs that is true in fact, but that is not officially sanctioned.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

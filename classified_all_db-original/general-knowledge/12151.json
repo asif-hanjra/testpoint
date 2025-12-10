@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is referred to as the Land of Lilies?",
+      "options": {
+        "a": "Canada",
+        "b": "Australia",
+        "c": "New Zealand",
+        "d": "Norway"
+      },
+      "one_liner": "Canada is known as the **Land of Lilies** for its abundance of wild lilies.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

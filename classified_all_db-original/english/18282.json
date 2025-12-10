@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The presence of army guards prevents us ___ doing anything disruptive.",
+      "options": {
+        "a": "of",
+        "b": "from",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "The presence of army guards prevents us 'from' doing anything disruptive.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

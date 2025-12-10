@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "PREY : QUARRY :: STRIKE : ________?",
+      "options": {
+        "a": "Hide",
+        "b": "Hunt",
+        "c": "Rest",
+        "d": "Feed"
+      },
+      "one_liner": "Prey and quarry are synonyms for something being hunted, just as strike and hunt are actions related to seeking or acquiring.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

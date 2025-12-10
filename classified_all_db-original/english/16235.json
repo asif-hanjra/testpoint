@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'encomium':",
+      "options": {
+        "a": "criticism",
+        "b": "tribute",
+        "c": "condemnation",
+        "d": "blame"
+      },
+      "one_liner": "'Encomium' refers to a speech or piece of writing that praises someone highly, similar to 'tribute'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

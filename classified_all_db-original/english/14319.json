@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dead':",
+      "options": {
+        "a": "alive",
+        "b": "deceased",
+        "c": "lifeless",
+        "d": "expired"
+      },
+      "one_liner": "The antonym of 'dead' is 'alive', indicating the presence of life.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

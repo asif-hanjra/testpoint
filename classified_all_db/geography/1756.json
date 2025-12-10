@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where does the Jhelum River originate?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Kashmir",
+        "d": "Balochistan"
+      },
+      "one_liner": "The Jhelum River originates from **Kashmir**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

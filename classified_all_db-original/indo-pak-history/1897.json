@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date did Muhammad-bin-Farid abdicate the throne, ending the Sayyid Dynasty?",
+      "options": {
+        "a": "April 19, 1451",
+        "b": "March 10, 1450",
+        "c": "January 1, 1451",
+        "d": "None of these"
+      },
+      "one_liner": "Muhammad-bin-Farid abdicated the throne on **April 19, 1451**, ending the Sayyid Dynasty.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

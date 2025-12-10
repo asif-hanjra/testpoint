@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'epithet':",
+      "options": {
+        "a": "designation",
+        "b": "misnomer",
+        "c": "alias",
+        "d": "appellation"
+      },
+      "one_liner": "An antonym for 'epithet', which is a descriptive term, would be 'misnomer', a term that is inaccurate or unsuitable.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

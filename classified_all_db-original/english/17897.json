@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'slim':",
+      "options": {
+        "a": "plump",
+        "b": "thin",
+        "c": "lean",
+        "d": "narrow"
+      },
+      "one_liner": "The antonym of 'slim' is 'plump', which means having a full, rounded shape.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

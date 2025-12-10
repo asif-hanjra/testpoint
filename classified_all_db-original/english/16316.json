@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'holster':",
+      "options": {
+        "a": "pocket",
+        "b": "sheath",
+        "c": "bag",
+        "d": "container"
+      },
+      "one_liner": "'Holster' is a case for carrying a firearm, similar to a 'sheath' which is used for carrying a blade.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

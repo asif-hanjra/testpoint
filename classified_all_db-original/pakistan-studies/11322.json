@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the outcome of the Agra summit?",
+      "options": {
+        "a": "It was successful",
+        "b": "It was postponed",
+        "c": "It remained un-conclusive",
+        "d": "None of these"
+      },
+      "one_liner": "The Agra summit ended without any conclusive agreement, making it **un-conclusive**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

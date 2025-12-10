@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'endeavor':",
+      "options": {
+        "a": "neglect",
+        "b": "attempt",
+        "c": "ignore",
+        "d": "disregard"
+      },
+      "one_liner": "'Endeavor' means to try hard to do or achieve something, similar to 'attempt'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

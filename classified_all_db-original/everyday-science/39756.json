@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "To what depth can sunlight reach in the ocean?",
+      "options": {
+        "a": "50 meters",
+        "b": "100 meters",
+        "c": "200 meters",
+        "d": "500 meters"
+      },
+      "one_liner": "Sunlight can penetrate the ocean to a depth of about **200 meters**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

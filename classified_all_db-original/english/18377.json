@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reticent':",
+      "options": {
+        "a": "chatty",
+        "b": "taciturn",
+        "c": "loquacious",
+        "d": "garrulous"
+      },
+      "one_liner": "'Reticent' means being reserved or not revealing one's thoughts readily, similar to 'taciturn'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

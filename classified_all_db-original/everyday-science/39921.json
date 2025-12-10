@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary industrial use of sulfur?",
+      "options": {
+        "a": "Sulfuric acid",
+        "b": "Nitric acid",
+        "c": "Hydrochloric acid",
+        "d": "Acetic acid"
+      },
+      "one_liner": "Most of the sulfur produced is primarily used to manufacture **sulfuric acid (H2SO4)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

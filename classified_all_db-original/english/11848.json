@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dwarf':",
+      "options": {
+        "a": "giant",
+        "b": "midget",
+        "c": "tall",
+        "d": "colossal"
+      },
+      "one_liner": "'Dwarf' refers to something much smaller than usual, similar to 'midget' or 'pygmy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

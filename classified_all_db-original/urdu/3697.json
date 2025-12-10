@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "ہائیکو میں کتنے مصرعے ہوتے ہیں؟",
+      "options": {
+        "a": "دو",
+        "b": "تین",
+        "c": "چار",
+        "d": "پانچ"
+      },
+      "one_liner": "ہائیکو کی صنف میں کل **تین مصرے** ہوتے ہیں۔",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "اردوشاعری کی اصناف"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

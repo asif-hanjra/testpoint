@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exacerbate':",
+      "options": {
+        "a": "worsen",
+        "b": "intensify",
+        "c": "aggravate",
+        "d": "alleviate"
+      },
+      "one_liner": "An antonym of 'exacerbate' is 'alleviate', which means to make something less severe.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

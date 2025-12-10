@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gavel':",
+      "options": {
+        "a": "mallet:chaos emblem",
+        "b": "hammer:throne",
+        "c": "baton:crown",
+        "d": "scepter:staff"
+      },
+      "one_liner": "'Mallet' is a synonym of 'gavel', while 'chaos emblem' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'offal':",
+      "options": {
+        "a": "filet",
+        "b": "giblets",
+        "c": "trimmings",
+        "d": "innards"
+      },
+      "one_liner": "While 'offal' is the internal organs of animals used as food, 'filet' is high-quality meat without bones or organs.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

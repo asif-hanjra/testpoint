@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'jocular':",
+      "options": {
+        "a": "cheerful:joyful",
+        "b": "merry:gloomy",
+        "c": "funny:sad",
+        "d": "lighthearted:heavyhearted"
+      },
+      "one_liner": "'Merry' is a synonym of 'jocular', while 'gloomy' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

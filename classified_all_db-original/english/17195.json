@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reinstate':",
+      "options": {
+        "a": "restore:terminate",
+        "b": "renew:continue",
+        "c": "resume:begin",
+        "d": "reestablish:keep"
+      },
+      "one_liner": "'Restore' is a synonym of 'reinstate', while 'terminate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which rivers bound the Neeli Bar region?",
+      "options": {
+        "a": "Ravi, Beas, and Sutlej",
+        "b": "Chenab, Jhelum, and Ravi",
+        "c": "Sutlej and Hakra",
+        "d": "None of these"
+      },
+      "one_liner": "The Neeli Bar region is bounded by the **Ravi, Beas, and Sutlej rivers**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

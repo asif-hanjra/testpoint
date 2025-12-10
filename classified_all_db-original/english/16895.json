@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'defy':",
+      "options": {
+        "a": "comply",
+        "b": "challenge",
+        "c": "agree",
+        "d": "accept"
+      },
+      "one_liner": "'Defy' means to openly resist or refuse to obey, similar to 'challenge' or 'confront'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

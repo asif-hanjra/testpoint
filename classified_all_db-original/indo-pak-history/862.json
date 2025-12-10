@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who started the newspaper 'Zamindar' in 1903?",
+      "options": {
+        "a": "Maulana Sirajuddin Ahmed",
+        "b": "Zafar Ali Khan",
+        "c": "Sir Syed Ahmed Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The newspaper 'Zamindar' was started in 1903 by **Maulana Sirajuddin Ahmed**, who was also the father of Zafar Ali Khan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

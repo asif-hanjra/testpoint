@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Wazir Khan Masjid located?",
+      "options": {
+        "a": "Karachi",
+        "b": "Multan",
+        "c": "Lahore",
+        "d": "Peshawar"
+      },
+      "one_liner": "The Wazir Khan Masjid is situated in the city of **Lahore**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is nuclear energy?",
+      "options": {
+        "a": "Energy from food",
+        "b": "Energy inside each atom",
+        "c": "Energy from sunlight",
+        "d": "None of these"
+      },
+      "one_liner": "Nuclear energy is the energy **confined inside each atom**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

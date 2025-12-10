@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'devoid':",
+      "options": {
+        "a": "full",
+        "b": "lacking",
+        "c": "abundant",
+        "d": "replete"
+      },
+      "one_liner": "'Devoid' means completely lacking in something, similar to 'empty' or 'vacant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

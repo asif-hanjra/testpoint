@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'congested':",
+      "options": {
+        "a": "blocked",
+        "b": "clear",
+        "c": "jammed",
+        "d": "stuffed"
+      },
+      "one_liner": "The opposite of 'congested' is 'clear', which means free from obstruction or overcrowding.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fatigue':",
+      "options": {
+        "a": "lethargy",
+        "b": "energy",
+        "c": "weariness",
+        "d": "exhaustion"
+      },
+      "one_liner": "The opposite of 'fatigue' is 'energy', which denotes a state of being energetic.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

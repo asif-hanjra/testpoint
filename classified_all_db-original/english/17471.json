@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He met ___ teach you a new way to learn English.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "He met 'to' teach you a new way to learn English.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

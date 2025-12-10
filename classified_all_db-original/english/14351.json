@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'extrovert':",
+      "options": {
+        "a": "introvert",
+        "b": "gregarious",
+        "c": "outgoing",
+        "d": "affable"
+      },
+      "one_liner": "An antonym of 'extrovert' is 'introvert', which describes someone who is more reserved and enjoys solitude.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

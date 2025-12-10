@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'posture':",
+      "options": {
+        "a": "slouch",
+        "b": "bearing",
+        "c": "collapse",
+        "d": "relax"
+      },
+      "one_liner": "'Posture' refers to the way one holds their body, similar to 'stance' or 'bearing'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

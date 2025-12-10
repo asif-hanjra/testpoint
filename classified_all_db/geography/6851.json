@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which region is known as the 'roof of the world'?",
+      "options": {
+        "a": "Andes",
+        "b": "Tibet",
+        "c": "Himalayas",
+        "d": "Alps"
+      },
+      "one_liner": "Tibet is famously referred to as the **roof of the world** due to its high elevation.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

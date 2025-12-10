@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are common symptoms of depression?",
+      "options": {
+        "a": "Sadness and loss of interest",
+        "b": "Increased appetite",
+        "c": "Improved memory",
+        "d": "None of these"
+      },
+      "one_liner": "Common symptoms of depression include persistent feelings of sadness and a loss of interest in previously enjoyed activities.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

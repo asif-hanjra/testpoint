@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which port is owned and operated exclusively by the Pakistan Navy and serves as their primary operational base?",
+      "options": {
+        "a": "Port Muhammad Bin Qasim",
+        "b": "Mohammad Ali Jinnah Naval Base",
+        "c": "Gwadar Port",
+        "d": "Port of Pasni"
+      },
+      "one_liner": "The **Mohammad Ali Jinnah Naval Base** is exclusively owned and operated by the Pakistan Navy as its primary operational base.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

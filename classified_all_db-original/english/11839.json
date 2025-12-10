@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "MENS : SEWING :: EDIT : ________?",
+      "options": {
+        "a": "Writing",
+        "b": "Makeshift",
+        "c": "Correction",
+        "d": "Revision"
+      },
+      "one_liner": "Men's tailoring involves sewing, but the relationship between edit and makeshift is not analogous.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dense':",
+      "options": {
+        "a": "sparse",
+        "b": "thick",
+        "c": "heavy",
+        "d": "solid"
+      },
+      "one_liner": "An antonym of 'dense' is 'sparse', which means not closely packed or scattered.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

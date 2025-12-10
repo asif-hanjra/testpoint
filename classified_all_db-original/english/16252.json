@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'until' in the sentence 'Wait here until I come back.'",
+      "options": {
+        "a": "Preposition",
+        "b": "Conjunction",
+        "c": "Adverb",
+        "d": "Noun"
+      },
+      "one_liner": "In the sentence 'Wait here until I come back', the word 'until' is a conjunction because it connects two clauses.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

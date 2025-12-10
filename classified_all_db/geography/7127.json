@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Hanna Lake located?",
+      "options": {
+        "a": "Near Karachi",
+        "b": "Near Quetta",
+        "c": "Near Peshawar",
+        "d": "Near Lahore"
+      },
+      "one_liner": "Hanna Lake is located **10 km from Quetta**, near Urak Valley in Balochistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the basic formula for simple interest?",
+      "options": {
+        "a": "Principal x Rate x Time",
+        "b": "Principal + Rate x Time",
+        "c": "Principal / Rate x Time",
+        "d": "Principal x (1 + Rate)^Time"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the currency of Kuwait?",
+      "options": {
+        "a": "Riyal",
+        "b": "Dirham",
+        "c": "Dinar",
+        "d": "Dollar"
+      },
+      "one_liner": "The official currency of Kuwait is the **Dinar**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

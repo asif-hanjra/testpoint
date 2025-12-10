@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'to' in the sentence 'She wants to leave'?",
+      "options": {
+        "a": "Preposition",
+        "b": "Conjunction",
+        "c": "Particle",
+        "d": "Adverb"
+      },
+      "one_liner": "'To' is part of the infinitive verb 'to leave' and functions as a particle.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

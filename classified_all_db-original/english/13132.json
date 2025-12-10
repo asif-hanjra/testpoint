@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'convoluted':",
+      "options": {
+        "a": "byzantine:plain",
+        "b": "clear:obscure",
+        "c": "intricate:simple",
+        "d": "complicated:clear"
+      },
+      "one_liner": "'Byzantine' can be a synonym for 'convoluted', while 'plain' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

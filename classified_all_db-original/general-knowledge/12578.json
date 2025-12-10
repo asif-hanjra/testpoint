@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the husband of Habba Khatoon?",
+      "options": {
+        "a": "Akbar",
+        "b": "King Yusuf Shah Chak",
+        "c": "Aurangzeb",
+        "d": "None of these"
+      },
+      "one_liner": "Habba Khatoon was married to **King Yusuf Shah Chak**, the ruler of Kashmir.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Habba Khatoon",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Habba Khatoon",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

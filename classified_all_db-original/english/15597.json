@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'now and again' mean?",
+      "options": {
+        "a": "To do something immediately",
+        "b": "To do something repeatedly",
+        "c": "To do something occasionally",
+        "d": "To do something continuously"
+      },
+      "one_liner": "The idiom 'now and again' means to do something occasionally, not regularly but from time to time.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

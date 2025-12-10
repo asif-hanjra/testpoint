@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why are cloudy nights generally warmer than clear nights?",
+      "options": {
+        "a": "Clouds absorb sunlight during the day",
+        "b": "Clouds prevent radiation of heat from ground to air",
+        "c": "Clouds bring rain",
+        "d": "None of these"
+      },
+      "one_liner": "Cloudy nights are generally warmer because clouds act as a barrier, preventing the radiation of heat from the ground to the air, thus retaining warmth near the surface.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

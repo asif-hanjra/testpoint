@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'moat':",
+      "options": {
+        "a": "bridge",
+        "b": "fence",
+        "c": "wall",
+        "d": "barrier"
+      },
+      "one_liner": "An antonym for 'moat', which is a defensive feature, could be 'bridge', which is designed to connect rather than separate.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

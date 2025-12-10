@@ -1,0 +1,70 @@
+{
+  "chapters": [
+    {
+      "id": "chap_012",
+      "name": "Computer's Basics & Structure",
+      "topics": [
+        "Components of Computer",
+        "System Software vs. Application Software",
+        "Types of Networks Based on Size",
+        "Network Topologies",
+        "Network Protocols",
+        "MAC Address, IP Address and URL",
+        "Some Important Terms of Networking"
+      ]
+    },
+    {
+      "id": "chap_013",
+      "name": "MS Office",
+      "topics": [
+        "Microsoft Word",
+        "MS PowerPoint",
+        "MS Excel",
+        "Functions/Built-in Formulas Used in MS Excel",
+        "Common Hotkeys of MS Word, MS Excel and MS PowerPoint",
+        "List of MS Word Short Keys",
+        "List of MS Powerpoint Short Keys",
+        "List of MS Excel Short Keys"
+      ]
+    },
+    {
+      "id": "chap_014",
+      "name": "AI & Internet",
+      "topics": [
+        "Web Browsers vs. Search Engine",
+        "Web Page, Website, WWW, Internet, Web Server, ISP",
+        "Webmail / Email",
+        "Social Networking Sites",
+        "Common AI Technologies"
+      ]
+    },
+    {
+      "id": "chap_015",
+      "name": "Shortcuts & Abbreviations",
+      "topics": [
+        "Some Important Terms and Abbreviations",
+        "List of General Short Keys"
+      ]
+    },
+    {
+      "id": "chap_016",
+      "name": "Personalities & IT Companies",
+      "topics": [
+        "Prominent Technology Companies",
+        "Prominent Mobile Manufacturing Companies",
+        "Prominent Computer Manufacturing Companies",
+        "Telecommunication Companies in Pakistan",
+        "Prominent Figures in IT"
+      ]
+    },
+    {
+      "id": "chap_017",
+      "name": "Miscellaneous",
+      "topics": [
+        "Types of Computer Files and their Extensions",
+        "Others"
+      ]
+    }
+  ]
+}
+

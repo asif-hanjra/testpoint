@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'decay':",
+      "options": {
+        "a": "growth",
+        "b": "decomposition",
+        "c": "construction",
+        "d": "repair"
+      },
+      "one_liner": "'Decay' refers to the process of rotting or decomposing, similar to 'decomposition'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

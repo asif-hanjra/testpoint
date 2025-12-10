@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'chary':",
+      "options": {
+        "a": "reckless",
+        "b": "circumspect",
+        "c": "careless",
+        "d": "heedless"
+      },
+      "one_liner": "'Chary' means cautious or wary, similar to 'circumspect'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

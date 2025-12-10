@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ameliorate':",
+      "options": {
+        "a": "improve:deteriorate",
+        "b": "enhance:worsen",
+        "c": "better:enhance",
+        "d": "upgrade:maintain"
+      },
+      "one_liner": "'Improve' is a synonym of 'ameliorate', while 'deteriorate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

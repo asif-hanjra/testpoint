@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'precedence':",
+      "options": {
+        "a": "priority:subordination",
+        "b": "importance:superiority",
+        "c": "precedence:dominance",
+        "d": "primacy:precedence"
+      },
+      "one_liner": "'Priority' is a synonym of 'precedence', while 'subordination' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

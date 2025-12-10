@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'credulous':",
+      "options": {
+        "a": "trusting",
+        "b": "naive",
+        "c": "skeptical",
+        "d": "believing"
+      },
+      "one_liner": "A person who is 'credulous' is easily convinced, unlike someone who is 'skeptical'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

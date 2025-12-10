@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'leaven':",
+      "options": {
+        "a": "inflate",
+        "b": "expand",
+        "c": "deflate",
+        "d": "enlarge"
+      },
+      "one_liner": "An antonym of 'leaven' would be 'deflate', which means to release air or gas and reduce in size.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

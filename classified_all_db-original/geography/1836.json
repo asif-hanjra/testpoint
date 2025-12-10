@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for the Yellow River?",
+      "options": {
+        "a": "Yangtze",
+        "b": "Huan",
+        "c": "Mekong",
+        "d": "Indus"
+      },
+      "one_liner": "The Yellow River is also known as the **Huan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

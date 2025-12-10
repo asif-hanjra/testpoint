@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What gas is produced when sodium bicarbonate (NaHCO3) is heated?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Nitrogen",
+        "c": "Carbon dioxide",
+        "d": "Hydrogen"
+      },
+      "one_liner": "When sodium bicarbonate (NaHCO3) is heated, it produces the gas **carbon dioxide (CO2)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

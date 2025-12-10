@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'decorum':",
+      "options": {
+        "a": "propriety",
+        "b": "politeness",
+        "c": "rudeness",
+        "d": "courtesy"
+      },
+      "one_liner": "The opposite of 'decorum', which implies proper behavior, would be 'impropriety' or 'rudeness'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

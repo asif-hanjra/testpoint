@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main reason for the Leaning Tower of Pisa's tilt?",
+      "options": {
+        "a": "Earthquake damage",
+        "b": "Design flaw",
+        "c": "Unstable foundation",
+        "d": "Wind erosion"
+      },
+      "one_liner": "The Leaning Tower of Pisa leans due to its **unstable foundation**, which caused its famous tilt.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Leaning Tower of Pisa",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Leaning Tower of Pisa",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

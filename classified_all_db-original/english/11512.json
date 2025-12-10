@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Complete the sentence: It takes two ___ tango.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "with",
+        "d": "at"
+      },
+      "one_liner": "It takes two 'to' tango.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

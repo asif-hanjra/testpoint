@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'The quick brown fox jumps over the lazy dog', what part of speech is 'brown'?",
+      "options": {
+        "a": "Adverb",
+        "b": "Noun",
+        "c": "Adjective",
+        "d": "Preposition"
+      },
+      "one_liner": "'Brown' is an adjective modifying the noun 'fox'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

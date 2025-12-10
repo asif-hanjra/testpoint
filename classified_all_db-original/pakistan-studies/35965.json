@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which province in Pakistan has the largest urban population?",
+      "options": {
+        "a": "Punjab",
+        "b": "Khyber Pakhtunkhwa",
+        "c": "Sindh",
+        "d": "Balochistan"
+      },
+      "one_liner": "Sindh province is notable for having the **largest urban population** among all provinces in Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

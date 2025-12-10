@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I cannot make out the meaning ___ this lesson.",
+      "options": {
+        "a": "for",
+        "b": "of",
+        "c": "to",
+        "d": "with"
+      },
+      "one_liner": "I cannot make out the meaning 'of' this lesson.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

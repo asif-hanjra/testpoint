@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You had already left ___ seven o'clock, hadn't you?",
+      "options": {
+        "a": "at",
+        "b": "by",
+        "c": "in",
+        "d": "on"
+      },
+      "one_liner": "You had already left 'by' seven o'clock, hadn't you?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

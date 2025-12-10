@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'compress':",
+      "options": {
+        "a": "condense",
+        "b": "narrow",
+        "c": "expand",
+        "d": "squeeze"
+      },
+      "one_liner": "The opposite of 'compress', which means to reduce in size, is 'expand', meaning to increase in size.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

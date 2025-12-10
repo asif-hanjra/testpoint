@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'oblique':",
+      "options": {
+        "a": "straight",
+        "b": "direct",
+        "c": "perpendicular",
+        "d": "angled"
+      },
+      "one_liner": "'Oblique' refers to something indirect or slanted, similar to 'angled' or 'aslant'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

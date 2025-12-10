@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cranky':",
+      "options": {
+        "a": "cheerful",
+        "b": "irascible",
+        "c": "content",
+        "d": "happy"
+      },
+      "one_liner": "'Cranky' means irritable or easily annoyed, similar to 'irascible' or 'testy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

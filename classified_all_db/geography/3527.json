@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the lines drawn parallel to the equator called?",
+      "options": {
+        "a": "Longitudes",
+        "b": "Latitudes",
+        "c": "Meridians",
+        "d": "None of these"
+      },
+      "one_liner": "Lines that are drawn parallel to the equator on a map or globe are known as **Latitudes**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary role of proteins in the human body?",
+      "options": {
+        "a": "Provide energy",
+        "b": "Growth and repair",
+        "c": "Store minerals",
+        "d": "Produce vitamins"
+      },
+      "one_liner": "The primary role of proteins in the human body is for **growth and repair of body tissues**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

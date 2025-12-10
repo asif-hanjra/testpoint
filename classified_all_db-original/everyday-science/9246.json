@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The output of an XNOR gate will be high when ______?",
+      "options": {
+        "a": "The input logic levels are different",
+        "b": "All inputs are low",
+        "c": "Any input is high",
+        "d": "The input logic levels are the same"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard width of a table tennis racket blade?",
+      "options": {
+        "a": "14 cm",
+        "b": "15 cm",
+        "c": "16 cm",
+        "d": "None of these"
+      },
+      "one_liner": "A table tennis racket blade typically has a width of **15 cm (5.9 inches)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

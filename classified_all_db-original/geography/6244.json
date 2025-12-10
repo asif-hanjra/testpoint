@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In whose honour is the Quaid-e-Azam Solar Park named?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Liaquat Ali Khan",
+        "c": "Quaid-e-Azam Muhammad Ali Jinnah",
+        "d": "Sir Syed Ahmed Khan"
+      },
+      "one_liner": "The Quaid-e-Azam Solar Park is named in honour of **Quaid-e-Azam Muhammad Ali Jinnah**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Solar Power Plants",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Solar Power Plants",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

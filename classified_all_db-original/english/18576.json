@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'follow':",
+      "options": {
+        "a": "chase:guide",
+        "b": "pursue:precede",
+        "c": "trail:initiate",
+        "d": "shadow:lead"
+      },
+      "one_liner": "'Chase' is a synonym of 'follow', while 'guide' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

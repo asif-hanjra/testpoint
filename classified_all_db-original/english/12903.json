@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'homeopathy':",
+      "options": {
+        "a": "naturopathy:allopathy",
+        "b": "allopathy:naturopathy",
+        "c": "osteopathy:psychiatry",
+        "d": "chiropractic:orthopedics"
+      },
+      "one_liner": "'Naturopathy' is a synonym of 'homeopathy', while 'allopathy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

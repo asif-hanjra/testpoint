@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Mr. Herman comes from Lahore ___ do his superiors.",
+      "options": {
+        "a": "like",
+        "b": "as",
+        "c": "than",
+        "d": "so"
+      },
+      "one_liner": "Mr. Herman comes from Lahore 'as' do his superiors.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

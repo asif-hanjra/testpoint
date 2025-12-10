@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'enjoy':",
+      "options": {
+        "a": "appreciate",
+        "b": "relish",
+        "c": "loathe",
+        "d": "savor"
+      },
+      "one_liner": "The opposite of 'enjoy', which means to take pleasure in something, would be 'loathe', meaning to strongly dislike.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

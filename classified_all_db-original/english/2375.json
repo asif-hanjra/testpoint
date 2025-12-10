@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the active form of: The document was signed by the manager.",
+      "options": {
+        "a": "The manager signed the document",
+        "b": "The manager is signing the document",
+        "c": "The manager has signed the document",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

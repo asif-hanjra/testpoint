@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abominable':",
+      "options": {
+        "a": "wonderful",
+        "b": "horrible",
+        "c": "dreadful",
+        "d": "terrible"
+      },
+      "one_liner": "The word 'abominable' suggests something very bad, making 'wonderful' its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

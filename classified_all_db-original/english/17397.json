@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'esoteric':",
+      "options": {
+        "a": "exoteric",
+        "b": "mysterious",
+        "c": "obscure",
+        "d": "hidden"
+      },
+      "one_liner": "The antonym of 'esoteric' is 'exoteric', which means suitable for or communicated to the general public.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the main purpose of the British sending the Cripps Mission to India?",
+      "options": {
+        "a": "To grant independence to India",
+        "b": "To secure Indian cooperation in war efforts",
+        "c": "To implement new laws",
+        "d": "None of these"
+      },
+      "one_liner": "The British sent the Cripps Mission to India primarily to **secure the cooperation of Indians in its war efforts** during World War II.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the latitude of the North Pole?",
+      "options": {
+        "a": "0 degrees N",
+        "b": "45 degrees N",
+        "c": "60 degrees N",
+        "d": "90 degrees N"
+      },
+      "one_liner": "The latitude of the North Pole is exactly **90 degrees North**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

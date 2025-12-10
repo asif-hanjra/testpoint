@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quenching':",
+      "options": {
+        "a": "igniting",
+        "b": "slaking",
+        "c": "warming",
+        "d": "kindling"
+      },
+      "one_liner": "'Quenching' refers to satisfying a thirst or extinguishing a fire, similar to 'slaking' or 'satisfying'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

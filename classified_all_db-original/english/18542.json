@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vacant':",
+      "options": {
+        "a": "full",
+        "b": "uninhabited",
+        "c": "crowded",
+        "d": "occupied"
+      },
+      "one_liner": "'Vacant' refers to something empty or unoccupied, similar to 'uninhabited'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

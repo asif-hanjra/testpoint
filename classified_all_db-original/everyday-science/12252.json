@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of change is the boiling of eggs considered to be?",
+      "options": {
+        "a": "Physical change",
+        "b": "Chemical change",
+        "c": "Both physical and chemical change",
+        "d": "None of these"
+      },
+      "one_liner": "The boiling of eggs is classified as a **chemical change** because it results in the formation of new substances and alters the egg's original properties.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "She is writing a letter.",
+      "options": {
+        "a": "A letter is written by her.",
+        "b": "A letter is being written by her.",
+        "c": "A letter was written by her.",
+        "d": "A letter was being written by her."
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

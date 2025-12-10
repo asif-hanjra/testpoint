@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'inimical':",
+      "options": {
+        "a": "friendly",
+        "b": "hostile",
+        "c": "harmful",
+        "d": "adverse"
+      },
+      "one_liner": "An antonym of 'inimical' is 'friendly', which means the opposite of hostile.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

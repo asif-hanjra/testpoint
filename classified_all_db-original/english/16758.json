@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'annex':",
+      "options": {
+        "a": "detach",
+        "b": "append",
+        "c": "separate",
+        "d": "divide"
+      },
+      "one_liner": "'Annex' means to add or attach, similar to 'append'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

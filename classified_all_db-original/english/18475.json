@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'foot the bill' mean?",
+      "options": {
+        "a": "To kick something accidentally",
+        "b": "To pay for something",
+        "c": "To sign a legal document",
+        "d": "To measure something"
+      },
+      "one_liner": "The idiom 'foot the bill' means to pay for something, usually something that is considered expensive or for which the responsibility to pay is shared.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

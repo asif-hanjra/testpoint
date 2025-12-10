@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is potential energy?",
+      "options": {
+        "a": "Energy of motion",
+        "b": "Energy of position",
+        "c": "Energy from food",
+        "d": "None of these"
+      },
+      "one_liner": "Potential energy is the **energy of an object's position**, such as a stone placed at a high position.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

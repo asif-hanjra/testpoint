@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'burlesque':",
+      "options": {
+        "a": "tragedy",
+        "b": "parody",
+        "c": "drama",
+        "d": "melodrama"
+      },
+      "one_liner": "'Burlesque' refers to a comical imitation—'parody' and 'satire' are synonyms that convey a similar idea.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

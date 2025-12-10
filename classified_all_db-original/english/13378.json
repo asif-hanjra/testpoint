@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'deteriorate':",
+      "options": {
+        "a": "worsen",
+        "b": "decline",
+        "c": "improve",
+        "d": "degrade"
+      },
+      "one_liner": "An antonym of 'deteriorate' is 'improve', indicating a movement towards better condition.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which animal class in the images is known for having scales and laying eggs on land?",
+      "options": {
+        "a": "Fish",
+        "b": "Reptile",
+        "c": "Amphibian",
+        "d": "Bird"
+      },
+      "one_liner": "The animal class depicted with scales and known for laying eggs on land is the **Reptile**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Introduction to Everyday Science",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

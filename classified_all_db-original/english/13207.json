@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'anomalous':",
+      "options": {
+        "a": "ordinary",
+        "b": "aberrant",
+        "c": "expected",
+        "d": "consistent"
+      },
+      "one_liner": "'Anomalous' means something that is irregular or unusual, similar to 'aberrant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

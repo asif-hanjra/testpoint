@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'high':",
+      "options": {
+        "a": "tall",
+        "b": "elevated",
+        "c": "low",
+        "d": "gigantic"
+      },
+      "one_liner": "The opposite of 'high' is 'low', referring to something that is not elevated.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

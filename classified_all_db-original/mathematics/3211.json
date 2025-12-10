@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "A group of five clerks has been assigned to insert 24,000 letters into envelopes. The clerks perform this work at the following rates of speed: Clerk A, 1100 letters an hour; Clerk B, 1450 letters an hour; Clerk C, 1200 letters an hour; Clerk D, 1300 letters an hour; Clerk E, 1250 letters an hour. At the end of two hours of work, Clerk C and D are assigned to another task. From the time that Clerks C and D were taken off the assignment, the number of hours required for the remaining clerks to complete this assignment is?",
+      "options": {
+        "a": "More than 4 hr, but less than 6 hr",
+        "b": "More than 6 hr",
+        "c": "More than 4 hr, but less than 6 hr",
+        "d": "More than 2 hr, but less than 4 hr"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

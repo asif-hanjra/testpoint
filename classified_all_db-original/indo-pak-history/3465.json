@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which act governed the filling of seats in the 1945 Central Elections in British India?",
+      "options": {
+        "a": "Government of India Act, 1935",
+        "b": "Indian Independence Act, 1947",
+        "c": "Government of India Act, 1919",
+        "d": "None of these"
+      },
+      "one_liner": "The filling of seats in the 1945 Central Elections in British India was governed by the **Government of India Act, 1919**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

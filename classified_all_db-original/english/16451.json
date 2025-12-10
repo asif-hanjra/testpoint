@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'audacious':",
+      "options": {
+        "a": "fearless",
+        "b": "daring",
+        "c": "timid",
+        "d": "brave"
+      },
+      "one_liner": "An antonym of 'audacious' is 'timid', which implies a lack of courage.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

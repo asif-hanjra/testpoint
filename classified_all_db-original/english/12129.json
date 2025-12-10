@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'strong':",
+      "options": {
+        "a": "weak",
+        "b": "fragile",
+        "c": "robust",
+        "d": "delicate"
+      },
+      "one_liner": "'Strong' implies having power or strength, similar to 'robust' or 'sturdy'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

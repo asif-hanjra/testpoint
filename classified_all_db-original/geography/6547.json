@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which edition of the MENA World Economic Forum was held in Jordan?",
+      "options": {
+        "a": "15th",
+        "b": "16th",
+        "c": "17th",
+        "d": "18th"
+      },
+      "one_liner": "The 17th edition of the MENA World Economic Forum took place in **Jordan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

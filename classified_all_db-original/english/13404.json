@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'divest':",
+      "options": {
+        "a": "invest",
+        "b": "strip",
+        "c": "disrobe",
+        "d": "deprive"
+      },
+      "one_liner": "The antonym of 'divest' is 'invest', which means to endow with a particular quality or attribute.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'blasphemy':",
+      "options": {
+        "a": "reverence",
+        "b": "sacrilege",
+        "c": "worship",
+        "d": "honor"
+      },
+      "one_liner": "'Blasphemy' refers to irreverence toward something sacred or holy, similar to 'sacrilege'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

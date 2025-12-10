@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is Mohenjo Daro commonly known as?",
+      "options": {
+        "a": "City of Lights",
+        "b": "Mount of Dead",
+        "c": "Land of Rivers",
+        "d": "None of these"
+      },
+      "one_liner": "Mohenjo Daro is famously referred to as the **Mount of Dead**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

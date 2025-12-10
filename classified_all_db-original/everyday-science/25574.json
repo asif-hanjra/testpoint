@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of the ear is also known as the tympanic membrane?",
+      "options": {
+        "a": "Cochlea",
+        "b": "Pinna",
+        "c": "Ear Drum",
+        "d": "Anvil"
+      },
+      "one_liner": "The **Ear Drum** is also known as the tympanic membrane in the human ear.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Ear",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

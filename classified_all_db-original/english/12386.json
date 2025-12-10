@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'proscribe':",
+      "options": {
+        "a": "forbid",
+        "b": "permit",
+        "c": "ban",
+        "d": "restrict"
+      },
+      "one_liner": "The antonym of 'proscribe' is 'permit', which means to allow or authorize.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

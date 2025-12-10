@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'savage':",
+      "options": {
+        "a": "brutal:humane",
+        "b": "fierce:gentle",
+        "c": "harsh:soft",
+        "d": "cruel:kind"
+      },
+      "one_liner": "'Brutal' is a synonym of 'savage', while 'humane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

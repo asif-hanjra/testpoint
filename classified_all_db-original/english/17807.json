@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'radiant':",
+      "options": {
+        "a": "dull",
+        "b": "luminous",
+        "c": "gloomy",
+        "d": "dim"
+      },
+      "one_liner": "'Radiant' describes something shining or glowing, similar to 'luminous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

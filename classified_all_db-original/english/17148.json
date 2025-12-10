@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dainty':",
+      "options": {
+        "a": "clumsy",
+        "b": "delicate",
+        "c": "robust",
+        "d": "harsh"
+      },
+      "one_liner": "'Dainty' refers to something delicately small and pretty, similar to 'delicate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

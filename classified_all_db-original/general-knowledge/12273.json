@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is known as the Gift of the Nile?",
+      "options": {
+        "a": "Sudan",
+        "b": "Egypt",
+        "c": "Ethiopia",
+        "d": "Libya"
+      },
+      "one_liner": "Egypt is famously known as the **Gift of the Nile** because its civilization thrived along the river.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

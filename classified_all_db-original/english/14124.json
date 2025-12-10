@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'behind' in the sentence 'The cat is behind the curtain'?",
+      "options": {
+        "a": "Adverb",
+        "b": "Noun",
+        "c": "Preposition",
+        "d": "Verb"
+      },
+      "one_liner": "In the sentence 'The cat is behind the curtain', the word 'behind' is a preposition because it shows the spatial relationship between 'cat' and 'curtain'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

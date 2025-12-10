@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A = [a  b, c  d], then ad - bc is called ____?",
+      "options": {
+        "a": "Determinate of A",
+        "b": "Inverse of A",
+        "c": "Adjoint of A",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

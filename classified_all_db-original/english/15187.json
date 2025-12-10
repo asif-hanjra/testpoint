@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fawn':",
+      "options": {
+        "a": "criticize",
+        "b": "grovel",
+        "c": "scold",
+        "d": "berate"
+      },
+      "one_liner": "'Fawn' can mean to flatter excessively, similar to 'grovel' or 'toady'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

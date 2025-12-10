@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cessation':",
+      "options": {
+        "a": "halt",
+        "b": "stop",
+        "c": "commencement",
+        "d": "pause"
+      },
+      "one_liner": "An antonym for 'cessation' is 'commencement', which means the beginning of something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

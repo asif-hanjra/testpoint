@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'appraise':",
+      "options": {
+        "a": "ignore",
+        "b": "evaluate",
+        "c": "neglect",
+        "d": "disregard"
+      },
+      "one_liner": "'Appraise' means to assess the value or quality of something, similar to 'evaluate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

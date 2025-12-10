@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'extravagant':",
+      "options": {
+        "a": "luxurious",
+        "b": "opulent",
+        "c": "thrifty",
+        "d": "sumptuous"
+      },
+      "one_liner": "An antonym of 'extravagant' is 'thrifty', which suggests careful spending and the opposite of excess.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

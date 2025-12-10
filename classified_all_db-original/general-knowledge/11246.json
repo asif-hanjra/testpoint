@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city was known as a great centre of education during the Abbasid Caliphate?",
+      "options": {
+        "a": "Baghdad",
+        "b": "Cairo",
+        "c": "Damascus",
+        "d": "Cordoba"
+      },
+      "one_liner": "During the Abbasid Caliphate, **Baghdad** was renowned as a major centre of education.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

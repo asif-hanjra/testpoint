@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which division of Balochistan is Gwadar port located?",
+      "options": {
+        "a": "Quetta",
+        "b": "Makran",
+        "c": "Sibi",
+        "d": "Zhob"
+      },
+      "one_liner": "Gwadar port is situated in the **Makran division** of Balochistan province.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

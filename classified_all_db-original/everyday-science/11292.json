@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of Abu Ali Sina's famous medical encyclopedia?",
+      "options": {
+        "a": "Al-Shifa",
+        "b": "Al Qanoon-fil-Tib",
+        "c": "Kitab al-Manazir",
+        "d": "None of these"
+      },
+      "one_liner": "Abu Ali Sina's renowned medical encyclopedia is called **Al Qanoon-fil-Tib**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

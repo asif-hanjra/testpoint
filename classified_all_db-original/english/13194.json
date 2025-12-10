@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lament':",
+      "options": {
+        "a": "grieve",
+        "b": "sorrow",
+        "c": "rejoice",
+        "d": "mourn"
+      },
+      "one_liner": "While 'lament' is to express sadness, its antonym 'rejoice' means to feel or show great joy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

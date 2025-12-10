@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Mughal ruler was a contemporary of Queen Elizabeth-I of England?",
+      "options": {
+        "a": "Babur",
+        "b": "Akbar the Great",
+        "c": "Aurangzeb",
+        "d": "Shah Jahan"
+      },
+      "one_liner": "During the reign of **Akbar the Great**, Queen Elizabeth-I ruled England, making them contemporaries in history.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

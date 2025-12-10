@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which disease is considered the oldest?",
+      "options": {
+        "a": "Influenza",
+        "b": "Malaria",
+        "c": "Tuberculosis",
+        "d": "None of these"
+      },
+      "one_liner": "Among various diseases, the oldest one is believed to be **Influenza**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

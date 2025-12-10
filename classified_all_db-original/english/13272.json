@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is ___ M.A in English.",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "of"
+      },
+      "one_liner": "He is 'an' M.A in English.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

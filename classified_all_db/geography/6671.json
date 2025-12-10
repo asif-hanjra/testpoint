@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which rivers border the Potwar Plateau and Salt Range region to the west and east, respectively?",
+      "options": {
+        "a": "Indus and Chenab",
+        "b": "Indus and Jhelum",
+        "c": "Sutlej and Jhelum",
+        "d": "Chenab and Ravi"
+      },
+      "one_liner": "The Potwar Plateau and Salt Range region is situated between the **Indus River** on the west and the **Jhelum River** on the east.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abstruse':",
+      "options": {
+        "a": "clear",
+        "b": "obvious",
+        "c": "esoteric",
+        "d": "simple"
+      },
+      "one_liner": "'Abstruse' means difficult to understand, similar to 'esoteric' and 'obscure'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

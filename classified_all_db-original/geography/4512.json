@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which two countries does the Johore Strait lie?",
+      "options": {
+        "a": "Singapore and Indonesia",
+        "b": "Malaysia and Thailand",
+        "c": "Singapore and Malaysia",
+        "d": "Indonesia and Malaysia"
+      },
+      "one_liner": "The Johore Strait lies between **Singapore** and **Malaysia** in Southeast Asia.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

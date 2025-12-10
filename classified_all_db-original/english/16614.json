@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fast':",
+      "options": {
+        "a": "slow",
+        "b": "rapid",
+        "c": "lethargic",
+        "d": "sluggish"
+      },
+      "one_liner": "'Fast' can mean quick, as in 'rapid' or 'speedy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

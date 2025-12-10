@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was deaf ___ all our requests.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "for",
+        "d": "with"
+      },
+      "one_liner": "He was deaf 'to' all our requests.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

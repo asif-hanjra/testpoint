@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the parliament in Finland?",
+      "options": {
+        "a": "Knesset",
+        "b": "Eduskunta",
+        "c": "Riksdagen",
+        "d": "Majlis-e-Shoora"
+      },
+      "one_liner": "Finland's parliament is known as the **Eduskunta**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Chabahar Port is located in which part of Iran?",
+      "options": {
+        "a": "Northern Iran",
+        "b": "Western Iran",
+        "c": "Eastern Iran",
+        "d": "Southern Iran"
+      },
+      "one_liner": "Chabahar Port is situated in **eastern Iran** on the Gulf of Oman.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

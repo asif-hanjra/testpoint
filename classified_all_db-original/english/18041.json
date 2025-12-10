@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'desperate':",
+      "options": {
+        "a": "hopeful",
+        "b": "anxious",
+        "c": "panicked",
+        "d": "distressed"
+      },
+      "one_liner": "The antonym of 'desperate' is 'hopeful', which conveys optimism as opposed to despair.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

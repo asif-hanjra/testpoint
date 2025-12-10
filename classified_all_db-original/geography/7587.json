@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a very large bay called?",
+      "options": {
+        "a": "Fjord",
+        "b": "Strait",
+        "c": "Gulf",
+        "d": "Sea"
+      },
+      "one_liner": "When a bay is of very large size, it is called a **gulf**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

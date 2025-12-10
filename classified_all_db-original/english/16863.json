@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'inadvertent':",
+      "options": {
+        "a": "deliberate",
+        "b": "unintentional",
+        "c": "intentional",
+        "d": "planned"
+      },
+      "one_liner": "'Inadvertent' means unintentional or accidental—words like 'unintentional' and 'unplanned' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

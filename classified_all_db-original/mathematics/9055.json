@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
+      "options": {
+        "a": "1/3",
+        "b": "8/21",
+        "c": "7/19",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

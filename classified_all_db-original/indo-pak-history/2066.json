@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which provinces did Quaid-e-Azam specifically demand reforms for in his fourteen points of 1929?",
+      "options": {
+        "a": "Punjab and Sindh",
+        "b": "NWFP and Balochistan",
+        "c": "Bengal and Assam",
+        "d": "None of these"
+      },
+      "one_liner": "In his fourteen points of 1929, Quaid-e-Azam specifically demanded reforms for **NWFP and Balochistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

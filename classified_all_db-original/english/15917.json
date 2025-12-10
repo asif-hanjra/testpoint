@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ability':",
+      "options": {
+        "a": "inability",
+        "b": "skill",
+        "c": "talent",
+        "d": "proficiency"
+      },
+      "one_liner": "The opposite of 'ability' is 'inability', indicating a lack of skills or competence.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

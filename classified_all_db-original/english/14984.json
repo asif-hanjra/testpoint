@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "DOG : KENNEL :: BIRD : ________?",
+      "options": {
+        "a": "Nest",
+        "b": "Feather",
+        "c": "Wing",
+        "d": "Sky"
+      },
+      "one_liner": "A dog lives in a kennel, but a feather is part of a bird, not its dwelling.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

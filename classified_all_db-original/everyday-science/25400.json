@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organ is responsible for the production of bile in the human body?",
+      "options": {
+        "a": "Kidney",
+        "b": "Pancreas",
+        "c": "Liver",
+        "d": "Stomach"
+      },
+      "one_liner": "Bile is produced in the human body by the **liver**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

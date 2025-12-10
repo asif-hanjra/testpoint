@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'taut':",
+      "options": {
+        "a": "tight:loose",
+        "b": "stiff:rigid",
+        "c": "firm:sturdy",
+        "d": "stretched:taut"
+      },
+      "one_liner": "'Tight' is a synonym of 'taut', while 'loose' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

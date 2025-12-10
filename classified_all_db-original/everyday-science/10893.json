@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which region of the body is the hypothalamus found?",
+      "options": {
+        "a": "Brain",
+        "b": "Neck",
+        "c": "Chest",
+        "d": "Abdomen"
+      },
+      "one_liner": "The hypothalamus is located in the **brain**, where it plays a crucial role in regulating many bodily functions.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'engender':",
+      "options": {
+        "a": "diminish",
+        "b": "generate",
+        "c": "halt",
+        "d": "reduce"
+      },
+      "one_liner": "'Engender' means to cause or give rise to, similar to 'generate' or 'produce'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

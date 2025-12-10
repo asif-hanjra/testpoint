@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'petition':",
+      "options": {
+        "a": "appeal",
+        "b": "request",
+        "c": "demand",
+        "d": "entreaty"
+      },
+      "one_liner": "An antonym of 'petition' is 'demand', which implies a more forceful or imperative request.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

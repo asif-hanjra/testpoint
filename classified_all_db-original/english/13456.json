@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gaudy':",
+      "options": {
+        "a": "vibrant",
+        "b": "flashy",
+        "c": "understated",
+        "d": "loud"
+      },
+      "one_liner": "The antonym of 'gaudy' is 'understated', which means presented or done in a subtle and effective way.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first black head of state of South Africa?",
+      "options": {
+        "a": "Abdul Sattar Edhi",
+        "b": "Nelson Mandela",
+        "c": "Mother Teresa",
+        "d": "Ruth Pfau"
+      },
+      "one_liner": "Nelson Mandela became **South Africa's first black head of state** after the end of apartheid.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

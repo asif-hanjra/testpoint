@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which word refers to each of two or more words having the same spelling or pronunciation but different meanings and origins?",
+      "options": {
+        "a": "Synonym",
+        "b": "Homonym",
+        "c": "Antonym",
+        "d": "Acronym"
+      },
+      "one_liner": "A 'homonym' is a word that is spelled or pronounced the same as another word but has a different meaning.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "One Word Substitutions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

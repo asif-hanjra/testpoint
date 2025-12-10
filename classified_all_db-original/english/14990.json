@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'oratorio':",
+      "options": {
+        "a": "symphony",
+        "b": "cantata",
+        "c": "opera",
+        "d": "ballad"
+      },
+      "one_liner": "'Oratorio' is a type of musical composition, similar to an 'opera' but without acting, scenery, or costumes.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

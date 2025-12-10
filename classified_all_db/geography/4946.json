@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the initial electricity production capacity of the Thar Coal Power Project when it started?",
+      "options": {
+        "a": "1320 MW",
+        "b": "660 MW",
+        "c": "330 MW",
+        "d": "1000 MW"
+      },
+      "one_liner": "When it started, the Thar Coal Power Project produced **330 MW** of electricity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

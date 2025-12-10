@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vigilance':",
+      "options": {
+        "a": "negligence",
+        "b": "alertness",
+        "c": "heedlessness",
+        "d": "inattention"
+      },
+      "one_liner": "'Vigilance' means being alert or watchful, similar to 'alertness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

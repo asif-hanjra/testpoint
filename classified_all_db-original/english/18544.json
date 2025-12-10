@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cacophony':",
+      "options": {
+        "a": "dissonance:symphony",
+        "b": "clatter:concord",
+        "c": "uproar:melody",
+        "d": "racket:harmony"
+      },
+      "one_liner": "'Dissonance' is a synonym for 'cacophony', while 'symphony' is its antonym, representing order and harmony in music.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

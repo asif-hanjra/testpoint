@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cruel':",
+      "options": {
+        "a": "savage:merciful",
+        "b": "harsh:gentle",
+        "c": "brutal:kind",
+        "d": "mean:compassionate"
+      },
+      "one_liner": "'Savage' is a synonym for 'cruel', while 'merciful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

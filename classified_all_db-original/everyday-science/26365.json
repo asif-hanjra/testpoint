@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the Harvard step test used to assess?",
+      "options": {
+        "a": "Muscular strength",
+        "b": "Cardiorespiratory fitness",
+        "c": "Flexibility",
+        "d": "Body composition"
+      },
+      "one_liner": "The Harvard step test is a method used to evaluate **cardiorespiratory fitness**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

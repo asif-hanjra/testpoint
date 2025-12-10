@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abbreviation':",
+      "options": {
+        "a": "extension",
+        "b": "contraction",
+        "c": "elongation",
+        "d": "expansion"
+      },
+      "one_liner": "'Abbreviation' refers to a shortened form of a word or phrase, similar to 'contraction'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

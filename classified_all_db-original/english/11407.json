@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gorge':",
+      "options": {
+        "a": "nibble",
+        "b": "devour",
+        "c": "peck",
+        "d": "sip"
+      },
+      "one_liner": "'Gorge' can mean to eat greedily, similar to 'devour' or 'gulp down'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

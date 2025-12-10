@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'captor':",
+      "options": {
+        "a": "liberator",
+        "b": "jailer",
+        "c": "abductor",
+        "d": "snatcher"
+      },
+      "one_liner": "The antonym of 'captor' is 'liberator', which refers to someone who sets others free.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'droll':",
+      "options": {
+        "a": "dull",
+        "b": "comical",
+        "c": "serious",
+        "d": "boring"
+      },
+      "one_liner": "'Droll' describes something amusing in an odd or whimsical way, much like 'comical' or 'witty'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

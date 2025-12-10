@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal is primarily extracted from the ore bauxite?",
+      "options": {
+        "a": "Iron",
+        "b": "Copper",
+        "c": "Aluminum",
+        "d": "None of these"
+      },
+      "one_liner": "Bauxite is the main ore from which **Aluminum** is extracted.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

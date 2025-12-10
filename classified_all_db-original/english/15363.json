@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'recline':",
+      "options": {
+        "a": "lean back:sit up",
+        "b": "lounge:stand",
+        "c": "rest:rise",
+        "d": "lie:erect"
+      },
+      "one_liner": "'Lean back' is a synonym of 'recline', while 'sit up' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

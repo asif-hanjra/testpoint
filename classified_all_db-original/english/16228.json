@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The car was repaired ___ him.",
+      "options": {
+        "a": "with",
+        "b": "by",
+        "c": "at",
+        "d": "for"
+      },
+      "one_liner": "The car was repaired 'by' him.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "If I ___ worked hard, I would have succeeded.",
+      "options": {
+        "a": "has",
+        "b": "had",
+        "c": "have",
+        "d": "having"
+      },
+      "one_liner": "If I 'had' worked hard, I would have succeeded.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

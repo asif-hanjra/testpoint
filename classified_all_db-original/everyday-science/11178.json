@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which pigment is necessary for photosynthesis to take place?",
+      "options": {
+        "a": "Chlorophyll",
+        "b": "Hemoglobin",
+        "c": "Melanin",
+        "d": "None of these"
+      },
+      "one_liner": "**Chlorophyll** is the pigment necessary for photosynthesis to occur in plants.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

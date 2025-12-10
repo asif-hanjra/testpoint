@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the area between the rivers Jhelum and Chenab called?",
+      "options": {
+        "a": "Chaj Doab",
+        "b": "Rachna Doab",
+        "c": "Sindh Sagar Doab",
+        "d": "None of these"
+      },
+      "one_liner": "The region located between the Jhelum and Chenab rivers is known as **Chaj Doab**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

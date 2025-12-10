@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lethargic':",
+      "options": {
+        "a": "torpid:animated",
+        "b": "lively:dull",
+        "c": "sleepy:awake",
+        "d": "inactive:active"
+      },
+      "one_liner": "'Torpid' is a synonym of 'lethargic', while 'animated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

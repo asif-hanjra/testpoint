@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'once and for all' mean?",
+      "options": {
+        "a": "To do something occasionally",
+        "b": "To do something repeatedly",
+        "c": "To do something for the last time, decisively ending it",
+        "d": "To try something for the first time"
+      },
+      "one_liner": "The idiom 'once and for all' means to do something for the last time, decisively ending it.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

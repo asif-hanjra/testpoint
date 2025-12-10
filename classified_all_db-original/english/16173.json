@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "ALIVE : DECEASED :: METROPOLIS : ________?",
+      "options": {
+        "a": "Village",
+        "b": "Wilderness",
+        "c": "Suburb",
+        "d": "Town"
+      },
+      "one_liner": "Alive is the opposite of deceased, similar to how a metropolis (city) is the opposite of a wilderness (natural, unpopulated area).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

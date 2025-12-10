@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest lake in the world by area and also the largest saltwater lake?",
+      "options": {
+        "a": "Caspian Sea",
+        "b": "Lake Baikal",
+        "c": "Lake Superior",
+        "d": "Dead Sea"
+      },
+      "one_liner": "The largest lake in the world by area and the largest saltwater lake is the **Caspian Sea**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

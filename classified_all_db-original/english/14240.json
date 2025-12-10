@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deposition':",
+      "options": {
+        "a": "affidavit:appointment",
+        "b": "testimony:inauguration",
+        "c": "statement:withdrawal",
+        "d": "evidence:confirmation"
+      },
+      "one_liner": "'Affidavit' is a synonym of 'deposition', as both involve sworn statements, while 'appointment' is its antonym, referring to the act of assigning a job or position.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

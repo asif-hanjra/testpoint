@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which reform introduced the concept of separate electorates for Muslims in British India?",
+      "options": {
+        "a": "Simon Commission",
+        "b": "Minto Morley Reforms",
+        "c": "Montagu Chelmsford Reforms",
+        "d": "Cabinet Mission Plan"
+      },
+      "one_liner": "The concept of separate electorates for Muslims was introduced by the **Minto Morley Reforms**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

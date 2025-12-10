@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'concur':",
+      "options": {
+        "a": "accord:conflict",
+        "b": "agree:concur",
+        "c": "assent:agree",
+        "d": "align:align"
+      },
+      "one_liner": "'Accord' is a synonym of 'concur', while 'conflict' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

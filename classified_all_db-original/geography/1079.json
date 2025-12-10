@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the current capital of Bhutan?",
+      "options": {
+        "a": "Paro",
+        "b": "Thimphu",
+        "c": "Punakha",
+        "d": "None of these"
+      },
+      "one_liner": "The current capital city of Bhutan is **Thimphu**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

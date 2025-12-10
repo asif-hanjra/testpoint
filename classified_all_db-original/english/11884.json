@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'extent':",
+      "options": {
+        "a": "shortage",
+        "b": "magnitude",
+        "c": "minimum",
+        "d": "deficiency"
+      },
+      "one_liner": "'Extent' refers to the scope or range of something, similar to 'magnitude'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

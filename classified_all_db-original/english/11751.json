@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bolster':",
+      "options": {
+        "a": "weaken",
+        "b": "reinforce",
+        "c": "diminish",
+        "d": "reduce"
+      },
+      "one_liner": "'Bolster' means to support or strengthen; 'reinforce' is a synonym that conveys a similar idea.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

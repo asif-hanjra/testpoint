@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'long':",
+      "options": {
+        "a": "tall",
+        "b": "extended",
+        "c": "short",
+        "d": "elongated"
+      },
+      "one_liner": "The opposite of 'long', in terms of duration or length, would be 'short'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

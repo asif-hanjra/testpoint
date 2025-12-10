@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'luminous':",
+      "options": {
+        "a": "shiny",
+        "b": "glowing",
+        "c": "dark",
+        "d": "sparkling"
+      },
+      "one_liner": "Antonyms of 'luminous' include 'dim' and 'dark', both implying a lack of light or brightness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

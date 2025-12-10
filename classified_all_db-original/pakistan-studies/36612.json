@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Chief of Air Staff of Pakistan during the 1965 war?",
+      "options": {
+        "a": "Asghar Khan",
+        "b": "Noor Khan",
+        "c": "Rahim Khan",
+        "d": "None of these"
+      },
+      "one_liner": "During the 1965 war, the Chief of Air Staff of Pakistan was **Noor Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

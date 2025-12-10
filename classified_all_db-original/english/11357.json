@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tapestry':",
+      "options": {
+        "a": "canvas",
+        "b": "arras",
+        "c": "blanket",
+        "d": "carpet"
+      },
+      "one_liner": "'Tapestry' refers to a piece of thick textile fabric with pictures or designs formed by weaving colored weft threads or by embroidering on canvas, similar to an 'arras'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

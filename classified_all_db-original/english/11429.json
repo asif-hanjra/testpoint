@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prudent':",
+      "options": {
+        "a": "reckless",
+        "b": "careful",
+        "c": "sensible",
+        "d": "thoughtful"
+      },
+      "one_liner": "The opposite of being 'prudent' is being 'reckless', which implies a lack of care or thought.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

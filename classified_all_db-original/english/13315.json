@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'corpus':",
+      "options": {
+        "a": "compilation:fragment",
+        "b": "aggregate:whole",
+        "c": "collection:piece",
+        "d": "assembly:individual"
+      },
+      "one_liner": "'Collection' is a synonym of 'corpus', while 'piece' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

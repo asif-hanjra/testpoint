@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'elusive':",
+      "options": {
+        "a": "obvious",
+        "b": "evasive",
+        "c": "clear",
+        "d": "apparent"
+      },
+      "one_liner": "'Elusive' means hard to catch or difficult to find, similar to 'evasive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

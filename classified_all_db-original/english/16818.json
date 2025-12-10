@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obtuse':",
+      "options": {
+        "a": "sharp",
+        "b": "dull",
+        "c": "keen",
+        "d": "bright"
+      },
+      "one_liner": "'Obtuse' can describe someone who is slow to understand, similar to 'dull' or 'slow-witted'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

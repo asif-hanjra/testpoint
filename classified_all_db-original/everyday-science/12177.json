@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which vegetable is the best natural source of sodium?",
+      "options": {
+        "a": "Carrot",
+        "b": "Celery",
+        "c": "Spinach",
+        "d": "Broccoli"
+      },
+      "one_liner": "**Celery** is considered the best vegetable source of naturally occurring sodium.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

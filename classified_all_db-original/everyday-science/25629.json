@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which nutrient does the digestive system convert food into for providing energy to the body?",
+      "options": {
+        "a": "Protein",
+        "b": "Glucose",
+        "c": "Fat",
+        "d": "Vitamins"
+      },
+      "one_liner": "The digestive system converts food into **glucose**, which serves as a primary source of energy for the body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

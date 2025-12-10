@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'courteous':",
+      "options": {
+        "a": "respectful:disrespectful",
+        "b": "gracious:disrespectful",
+        "c": "polite:rude",
+        "d": "civil:uncivil"
+      },
+      "one_liner": "'Gracious' is a synonym of 'courteous', while 'disrespectful' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

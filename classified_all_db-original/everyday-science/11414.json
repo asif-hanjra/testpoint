@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which blood component is primarily responsible for the clotting of blood?",
+      "options": {
+        "a": "Red blood cells",
+        "b": "White blood cells",
+        "c": "Platelets",
+        "d": "Plasma"
+      },
+      "one_liner": "The component of blood that is responsible for clotting is the **platelets**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

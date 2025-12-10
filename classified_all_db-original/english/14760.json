@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pluck':",
+      "options": {
+        "a": "timidity",
+        "b": "daring",
+        "c": "boldness",
+        "d": "nerve"
+      },
+      "one_liner": "An antonym for 'pluck' is 'timidity', which signifies a lack of courage.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

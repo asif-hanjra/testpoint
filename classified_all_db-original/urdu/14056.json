@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "اردو لفظ کے معنی کیا ہیں؟",
+      "options": {
+        "a": "کتاب",
+        "b": "لشکر",
+        "c": "شعر",
+        "d": "دوست"
+      },
+      "one_liner": "اردو لفظ کے معنی **لشکر** کے ہیں۔",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

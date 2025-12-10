@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which flower is recognized as the national flower of Pakistan?",
+      "options": {
+        "a": "Rose",
+        "b": "Jasmine",
+        "c": "Sunflower",
+        "d": "Lily"
+      },
+      "one_liner": "The national flower of Pakistan is the **Jasmine**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

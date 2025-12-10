@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ingenuous':",
+      "options": {
+        "a": "naive:sly",
+        "b": "honest:deceptive",
+        "c": "simple:complex",
+        "d": "frank:candid"
+      },
+      "one_liner": "'Naive' is a synonym for 'ingenuous', while 'sly' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

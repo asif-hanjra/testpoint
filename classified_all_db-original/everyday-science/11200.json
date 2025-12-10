@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What physical quantity is measured in light years?",
+      "options": {
+        "a": "Length",
+        "b": "Time",
+        "c": "Mass",
+        "d": "Temperature"
+      },
+      "one_liner": "A light year is a unit used to measure **length** or distance, not time or mass.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

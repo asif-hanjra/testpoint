@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many years did Quaid-e-Azam serve as the president of the Muslim League?",
+      "options": {
+        "a": "21 years",
+        "b": "31 years",
+        "c": "41 years",
+        "d": "51 years"
+      },
+      "one_liner": "Quaid-e-Azam served as the president of the Muslim League for **31 years**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pledge':",
+      "options": {
+        "a": "indifference",
+        "b": "vow",
+        "c": "neglect",
+        "d": "disregard"
+      },
+      "one_liner": "'Pledge' means a solemn promise or undertaking—words like 'vow' and 'commitment' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

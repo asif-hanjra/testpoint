@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which vitamin deficiency leads to retarded growth and bad skin?",
+      "options": {
+        "a": "Vitamin D (Calciferol)",
+        "b": "Vitamin B2 (Riboflavin)",
+        "c": "Vitamin C (Ascorbic acid)",
+        "d": "Vitamin A (Retinol)"
+      },
+      "one_liner": "Retarded growth and bad skin can result from a lack of **Vitamin B2 (Riboflavin)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

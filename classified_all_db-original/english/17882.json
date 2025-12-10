@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pine':",
+      "options": {
+        "a": "dislike",
+        "b": "yearn",
+        "c": "detest",
+        "d": "ignore"
+      },
+      "one_liner": "'Pine' can mean to long for something deeply, similar to 'yearn' or 'ache'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

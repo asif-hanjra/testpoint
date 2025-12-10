@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are the smallest cells in the human body?",
+      "options": {
+        "a": "Blood cells",
+        "b": "Nerve cells",
+        "c": "Muscle cells",
+        "d": "Liver cells"
+      },
+      "one_liner": "The smallest cells found in the human body are the **blood cells**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

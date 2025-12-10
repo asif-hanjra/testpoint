@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Maria is ___ only pretty but also kind and friendly.",
+      "options": {
+        "a": "for",
+        "b": "not",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "Maria is 'not' only pretty but also kind and friendly.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

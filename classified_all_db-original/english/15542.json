@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pedestrian':",
+      "options": {
+        "a": "common",
+        "b": "dull",
+        "c": "extraordinary",
+        "d": "boring"
+      },
+      "one_liner": "An antonym of 'pedestrian' is 'extraordinary', which means very unusual or remarkable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

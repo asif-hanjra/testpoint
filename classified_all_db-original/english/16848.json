@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "MYOPIC : FARSIGHTED :: OBSCURE : ________?",
+      "options": {
+        "a": "Transparent",
+        "b": "Amorphous",
+        "c": "Vague",
+        "d": "Hidden"
+      },
+      "one_liner": "Myopic (nearsighted) is the opposite of farsighted, just as obscurity is the state of being unclear or amorphous (lacking definite shape).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

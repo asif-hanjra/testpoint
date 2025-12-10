@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'molt':",
+      "options": {
+        "a": "slough:preserve",
+        "b": "shed:discard",
+        "c": "exuviate:keep",
+        "d": "cast:hold"
+      },
+      "one_liner": "'Slough' is a synonym for 'molt', while 'preserve' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

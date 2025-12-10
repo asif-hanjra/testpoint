@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'frugal':",
+      "options": {
+        "a": "thrifty",
+        "b": "economical",
+        "c": "extravagant",
+        "d": "sparing"
+      },
+      "one_liner": "The opposite of being 'frugal' is being 'extravagant', which implies a lack of restraint in spending money or using resources.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

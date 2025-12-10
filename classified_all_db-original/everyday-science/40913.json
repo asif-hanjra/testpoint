@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which material is commonly used to make the filament of an electric bulb?",
+      "options": {
+        "a": "Copper",
+        "b": "Aluminium",
+        "c": "Tungsten",
+        "d": "Silver"
+      },
+      "one_liner": "The filament in most electric bulbs is made from **Tungsten** due to its high melting point and durability.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

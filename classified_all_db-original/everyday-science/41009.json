@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary function of the gallbladder in the digestive system?",
+      "options": {
+        "a": "Produces insulin",
+        "b": "Stores bile",
+        "c": "Absorbs nutrients",
+        "d": "Breaks down carbohydrates"
+      },
+      "one_liner": "The gallbladder serves as a warehouse for bile, storing it until the body needs it for digestion.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

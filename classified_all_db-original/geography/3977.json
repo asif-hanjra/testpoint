@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the highest peak in the Himalayan range?",
+      "options": {
+        "a": "K2",
+        "b": "Mount Everest",
+        "c": "Kangchenjunga",
+        "d": "Lhotse"
+      },
+      "one_liner": "The highest peak in the Himalayan range is **Mount Everest**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Mountains",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which acid is commonly used in car batteries to react with lead plates and generate electricity?",
+      "options": {
+        "a": "Hydrochloric Acid",
+        "b": "Nitric Acid",
+        "c": "Sulphuric Acid",
+        "d": "Acetic Acid"
+      },
+      "one_liner": "Car batteries generate electricity by using **Sulphuric Acid** to react with lead plates.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

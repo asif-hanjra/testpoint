@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which famous personality served as the royal poet of the Delhi Sultanate and was also known for his scholarship and musical talent?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Amir Khusro",
+        "c": "Mir Taqi Mir",
+        "d": "None of these"
+      },
+      "one_liner": "The royal poet of the Delhi Sultanate, celebrated for his scholarship and musical talent, was **Amir Khusro**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "TRUE : FALSE :: BUSY : ________?",
+      "options": {
+        "a": "Active",
+        "b": "Idle",
+        "c": "Work",
+        "d": "Rest"
+      },
+      "one_liner": "True is the opposite of false, just as busy is the opposite of idle.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

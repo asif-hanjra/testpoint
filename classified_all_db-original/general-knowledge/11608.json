@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Wall Street located?",
+      "options": {
+        "a": "London",
+        "b": "Tokyo",
+        "c": "New York",
+        "d": "Paris"
+      },
+      "one_liner": "Wall Street is famously located in **New York**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

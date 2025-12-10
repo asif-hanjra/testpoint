@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'loll':",
+      "options": {
+        "a": "hurry",
+        "b": "lounge",
+        "c": "rush",
+        "d": "sprint"
+      },
+      "one_liner": "'Loll' means to recline or lean in a relaxed manner, similar to 'lounge'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

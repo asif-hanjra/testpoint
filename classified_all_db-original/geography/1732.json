@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of dam is the Mohmand Dam?",
+      "options": {
+        "a": "Earth-filled dam",
+        "b": "Concrete faced rock-filled dam",
+        "c": "Gravity dam",
+        "d": "Arch dam"
+      },
+      "one_liner": "The Mohmand Dam is a **concrete faced rock-filled dam**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

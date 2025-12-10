@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fine':",
+      "options": {
+        "a": "subtle:obvious",
+        "b": "sharp:blunt",
+        "c": "elegant:clumsy",
+        "d": "refined:coarse"
+      },
+      "one_liner": "'Subtle' is a synonym of 'fine', while 'obvious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

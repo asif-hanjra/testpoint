@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country cooperated with Pakistan in the development of the Karachi Nuclear Power Complex (KNPC)?",
+      "options": {
+        "a": "China",
+        "b": "USA",
+        "c": "Canada",
+        "d": "Russia"
+      },
+      "one_liner": "Canada cooperated with Pakistan in the development of the Karachi Nuclear Power Complex (KNPC) in **1972**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nuclear Power Plants",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Nuclear Power Plants",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

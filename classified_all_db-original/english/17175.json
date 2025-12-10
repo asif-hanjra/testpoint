@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'venerate':",
+      "options": {
+        "a": "despise",
+        "b": "revere",
+        "c": "ignore",
+        "d": "neglect"
+      },
+      "one_liner": "'Venerate' means to regard with great respect, similar to 'revere' or 'honor'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

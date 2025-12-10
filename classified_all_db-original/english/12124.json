@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'inept':",
+      "options": {
+        "a": "clumsy",
+        "b": "adept",
+        "c": "awkward",
+        "d": "inefficient"
+      },
+      "one_liner": "An antonym of 'inept' is 'skilled', which means having the ability to do something well.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

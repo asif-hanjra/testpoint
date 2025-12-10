@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adverse':",
+      "options": {
+        "a": "beneficial",
+        "b": "detrimental",
+        "c": "advantageous",
+        "d": "favorable"
+      },
+      "one_liner": "'Adverse' means unfavorable or harmful, similar to 'detrimental'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the minimum time interval that a mechanical stopwatch can measure?",
+      "options": {
+        "a": "0.01 seconds",
+        "b": "0.1 seconds",
+        "c": "1 second",
+        "d": "None of these"
+      },
+      "one_liner": "A mechanical stopwatch is capable of measuring time intervals as small as **0.1 seconds**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of blood cell is responsible for carrying oxygen throughout the body?",
+      "options": {
+        "a": "White Blood Cells",
+        "b": "Platelets",
+        "c": "Red Blood Cells",
+        "d": "Plasma"
+      },
+      "one_liner": "The cells that transport oxygen throughout the body are called **Red Blood Cells**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

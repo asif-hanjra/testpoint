@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the ancestor of Hemu Chandra, who conquered Delhi and Agra after Sher Shah Suri's death?",
+      "options": {
+        "a": "Akbar",
+        "b": "Bairam Khan",
+        "c": "Hemu Chandra",
+        "d": "None of these"
+      },
+      "one_liner": "After Sher Shah Suri's death, his ancestor **Hemu Chandra** managed to conquer Delhi and Agra.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Second Battle of Panipat (1556)",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Second Battle of Panipat (1556)",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

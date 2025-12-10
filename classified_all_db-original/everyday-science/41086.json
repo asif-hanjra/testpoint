@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Do both men and women have gonads?",
+      "options": {
+        "a": "Only men",
+        "b": "Only women",
+        "c": "Both men and women",
+        "d": "None of these"
+      },
+      "one_liner": "**Both men and women** possess gonads as part of their reproductive systems.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

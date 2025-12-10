@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'opaque':",
+      "options": {
+        "a": "impenetrable:clear",
+        "b": "cloudy:translucent",
+        "c": "murky:lucid",
+        "d": "dark:light"
+      },
+      "one_liner": "'Impenetrable' is a synonym of 'opaque', while 'clear' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

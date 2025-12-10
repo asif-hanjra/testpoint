@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fancy':",
+      "options": {
+        "a": "plain",
+        "b": "luxurious",
+        "c": "extravagant",
+        "d": "elaborate"
+      },
+      "one_liner": "The word 'fancy' has antonyms like 'plain' or 'simple', which suggest a lack of embellishment.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

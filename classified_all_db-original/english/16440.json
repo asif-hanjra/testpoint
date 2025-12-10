@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conscientious':",
+      "options": {
+        "a": "diligent",
+        "b": "meticulous",
+        "c": "negligent",
+        "d": "attentive"
+      },
+      "one_liner": "The opposite of being 'conscientious' is being 'negligent', which implies a lack of care or attention.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'devilish':",
+      "options": {
+        "a": "wicked",
+        "b": "vile",
+        "c": "angelic",
+        "d": "sinister"
+      },
+      "one_liner": "The antonym of 'devilish' is 'angelic', which conveys a sense of purity and goodness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

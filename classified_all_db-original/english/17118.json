@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'please' in the sentence 'Please help me'?",
+      "options": {
+        "a": "Verb",
+        "b": "Adjective",
+        "c": "Noun",
+        "d": "Interjection"
+      },
+      "one_liner": "'Please' is an interjection used to make a polite request.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

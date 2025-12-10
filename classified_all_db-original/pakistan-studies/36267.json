@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many districts are there in Punjab?",
+      "options": {
+        "a": "28",
+        "b": "36",
+        "c": "42",
+        "d": "24"
+      },
+      "one_liner": "Punjab is administratively divided into **36 districts**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

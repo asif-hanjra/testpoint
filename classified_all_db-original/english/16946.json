@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'torpid':",
+      "options": {
+        "a": "active",
+        "b": "dull",
+        "c": "sluggish",
+        "d": "indolent"
+      },
+      "one_liner": "An antonym for 'torpid' is 'active', which means full of movement or energy.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

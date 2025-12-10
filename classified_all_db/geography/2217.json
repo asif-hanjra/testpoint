@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which continent is the Sahara Desert located?",
+      "options": {
+        "a": "Asia",
+        "b": "Africa",
+        "c": "Australia",
+        "d": "Europe"
+      },
+      "one_liner": "The **Sahara Desert** is located on the continent of **Africa**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'harbor':",
+      "options": {
+        "a": "refuge:abandon",
+        "b": "sanctuary:protect",
+        "c": "shelter:expose",
+        "d": "haven:conceal"
+      },
+      "one_liner": "'Refuge' is a synonym of 'harbor', while 'abandon' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

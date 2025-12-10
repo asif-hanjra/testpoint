@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ban':",
+      "options": {
+        "a": "prohibit",
+        "b": "permit",
+        "c": "forbid",
+        "d": "veto"
+      },
+      "one_liner": "The antonym of 'ban' is 'permit', which means to allow something to happen.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

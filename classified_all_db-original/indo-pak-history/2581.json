@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What level of autonomy was proposed for provinces in the Nehru Report?",
+      "options": {
+        "a": "Relative autonomy under federal direction",
+        "b": "Complete independence",
+        "c": "No autonomy",
+        "d": "None of these"
+      },
+      "one_liner": "The Nehru Report suggested that provinces would have **relative autonomy as directed by the federal government**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

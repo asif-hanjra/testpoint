@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the phrase 'by the way' signify when used in a conversation?",
+      "options": {
+        "a": "Taking the shortest route",
+        "b": "Introducing a new topic",
+        "c": "Following the main path",
+        "d": "Referring to something unimportant"
+      },
+      "one_liner": "The phrase 'by the way' is used to introduce a new topic that is not related to the current discussion.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

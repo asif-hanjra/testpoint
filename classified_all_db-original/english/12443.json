@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'somber':",
+      "options": {
+        "a": "cheerful",
+        "b": "melancholy",
+        "c": "vibrant",
+        "d": "colorful"
+      },
+      "one_liner": "'Somber' describes a mood that is gloomy or dark, similar to 'melancholy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

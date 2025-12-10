@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From what does the Kirana Bar derive its name?",
+      "options": {
+        "a": "Kirana Hills near Sargodha",
+        "b": "Dulla Bhatti",
+        "c": "Hakra River",
+        "d": "None of these"
+      },
+      "one_liner": "Kirana Bar derives its name from the **Kirana Hills near Sargodha**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

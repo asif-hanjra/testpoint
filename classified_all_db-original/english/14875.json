@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'thrifty':",
+      "options": {
+        "a": "wasteful",
+        "b": "economical",
+        "c": "extravagant",
+        "d": "lavish"
+      },
+      "one_liner": "'Thrifty' refers to being careful with money and resources, similar to 'economical'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

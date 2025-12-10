@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cadge':",
+      "options": {
+        "a": "give",
+        "b": "beg",
+        "c": "solicit",
+        "d": "implore"
+      },
+      "one_liner": "An antonym of 'cadge' is 'give', which means to freely offer something without expecting anything in return.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

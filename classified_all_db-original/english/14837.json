@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'adulterate':",
+      "options": {
+        "a": "taint",
+        "b": "debase",
+        "c": "purify",
+        "d": "spoil"
+      },
+      "one_liner": "The antonym of 'adulterate' is 'purify', which means to remove impurities or contaminants.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

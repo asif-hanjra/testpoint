@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "\"Do you like her?\" Change the voice.",
+      "options": {
+        "a": "Do she liked by you?",
+        "b": "Is she liked by you?",
+        "c": "Does she liked by you?",
+        "d": "None"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

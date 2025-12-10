@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "p: Islamabad is a capital of Pakistan. q: Lahore is a city of Pakistan, the conjunction p∧q is?",
+      "options": {
+        "a": "false",
+        "b": "true",
+        "c": "not valid",
+        "d": "unknown"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

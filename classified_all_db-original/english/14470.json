@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The lawyer asked her to put the agreement ___ writing.",
+      "options": {
+        "a": "on",
+        "b": "into",
+        "c": "by",
+        "d": "at"
+      },
+      "one_liner": "The lawyer asked her to put the agreement 'into' writing.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

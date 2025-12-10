@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'Utopia':",
+      "options": {
+        "a": "paradise",
+        "b": "heaven",
+        "c": "dystopia",
+        "d": "eden"
+      },
+      "one_liner": "The antonym of 'Utopia', a perfect society, is 'dystopia', which describes a frightening and flawed society.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

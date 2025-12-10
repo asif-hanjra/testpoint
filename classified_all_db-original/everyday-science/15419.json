@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which thermal analytical technique is commonly used for studying the degradation kinetics of materials?",
+      "options": {
+        "a": "Differential Scanning Calorimetry (DSC)",
+        "b": "Thermogravimetric Analysis (TGA)",
+        "c": "Dynamic Mechanical Analysis (DMA)",
+        "d": "Differential Thermal Analysis (DTA)"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

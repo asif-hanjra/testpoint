@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'feeble':",
+      "options": {
+        "a": "infirm:vigorous",
+        "b": "sturdy:robust",
+        "c": "weak:strong",
+        "d": "frail:sturdy"
+      },
+      "one_liner": "'Infirm' is a synonym of 'feeble', while 'vigorous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the capital city of Italy?",
+      "options": {
+        "a": "Venice",
+        "b": "Florence",
+        "c": "Rome",
+        "d": "Milan"
+      },
+      "one_liner": "The capital city of Italy is **Rome**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

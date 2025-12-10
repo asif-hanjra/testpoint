@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rash':",
+      "options": {
+        "a": "cautious",
+        "b": "reckless",
+        "c": "deliberate",
+        "d": "prudent"
+      },
+      "one_liner": "'Rash' can mean hasty or impetuous, similar to 'reckless'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'leash':",
+      "options": {
+        "a": "tether:liberation",
+        "b": "restraint:release",
+        "c": "bondage:freedom",
+        "d": "chain:autonomy"
+      },
+      "one_liner": "'Tether' is a synonym of 'leash', while 'liberation' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

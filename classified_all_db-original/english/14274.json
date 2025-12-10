@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'moving':",
+      "options": {
+        "a": "mobilizing:immobile",
+        "b": "stirring:dynamic",
+        "c": "shifting:static",
+        "d": "transferring:active"
+      },
+      "one_liner": "'Mobilizing' is a synonym of 'moving', while 'immobile' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

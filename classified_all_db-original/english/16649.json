@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which word describes an animal that eats primarily meat?",
+      "options": {
+        "a": "Herbivorous",
+        "b": "Carnivorous",
+        "c": "Omnivorous",
+        "d": "Insectivorous"
+      },
+      "one_liner": "'Carnivorous' refers to an animal that primarily consumes meat.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "One Word Substitutions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

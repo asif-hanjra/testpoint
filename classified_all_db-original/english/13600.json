@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fine':",
+      "options": {
+        "a": "inferior",
+        "b": "superior",
+        "c": "poor",
+        "d": "mediocre"
+      },
+      "one_liner": "'Fine' can mean high quality or excellent, similar to 'superior'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

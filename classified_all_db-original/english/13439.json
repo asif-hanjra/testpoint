@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'guilty':",
+      "options": {
+        "a": "culpable",
+        "b": "liable",
+        "c": "innocent",
+        "d": "responsible"
+      },
+      "one_liner": "The antonym of 'guilty' is 'innocent', which means not responsible for a wrongdoing.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'garner':",
+      "options": {
+        "a": "scatter",
+        "b": "accumulate",
+        "c": "dissipate",
+        "d": "disperse"
+      },
+      "one_liner": "'Garner' means to gather or collect, similar to 'accumulate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

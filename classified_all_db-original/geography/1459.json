@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT considered a form of precipitation?",
+      "options": {
+        "a": "Rain",
+        "b": "Snow",
+        "c": "Fog",
+        "d": "Hail"
+      },
+      "one_liner": "Unlike rain, snow, or hail, **fog** is not classified as a form of precipitation.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

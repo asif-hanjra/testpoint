@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'join':",
+      "options": {
+        "a": "link:split",
+        "b": "connect:merge",
+        "c": "combine:unite",
+        "d": "attach:connect"
+      },
+      "one_liner": "'Link' is a synonym for 'join', whereas 'split' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

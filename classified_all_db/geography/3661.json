@@ -1,0 +1,26 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which longitudes does Pakistan extend?",
+      "options": {
+        "a": "60º 50' East to 77º 50' East",
+        "b": "55º 00' East to 75º 00' East",
+        "c": "62º 00' East to 80º 00' East",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan stretches longitudinally from **60º 50' East to 77º 50' East**.",
+      "correct_option": "a",
+      "suggestions": [
+        {},
+        {},
+        {},
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which process utilizes smaller amounts of sulfur?",
+      "options": {
+        "a": "Vulcanizing natural rubbers",
+        "b": "Making glass",
+        "c": "Producing steel",
+        "d": "None of these"
+      },
+      "one_liner": "Smaller quantities of sulfur are used in the process to **vulcanize natural rubbers**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

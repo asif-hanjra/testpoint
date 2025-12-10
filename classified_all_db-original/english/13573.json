@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'decay':",
+      "options": {
+        "a": "deterioration:improvement",
+        "b": "decomposition:restoration",
+        "c": "rot:renewal",
+        "d": "degradation:preservation"
+      },
+      "one_liner": "'Deterioration' is a synonym of 'decay', while 'restoration' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

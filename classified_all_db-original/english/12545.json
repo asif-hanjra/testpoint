@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "There was so much smoke ___ the room that I could hardly breathe.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "There was so much smoke 'in' the room that I could hardly breathe.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

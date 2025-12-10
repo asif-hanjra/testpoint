@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'jolly':",
+      "options": {
+        "a": "merry:sad",
+        "b": "happy:cheerful",
+        "c": "gleeful:joyous",
+        "d": "bright:shiny"
+      },
+      "one_liner": "'Merry' is a synonym of 'jolly', while 'sad' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

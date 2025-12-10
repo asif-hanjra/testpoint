@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fatal':",
+      "options": {
+        "a": "deadly",
+        "b": "malignant",
+        "c": "harmless",
+        "d": "toxic"
+      },
+      "one_liner": "The word 'fatal' has antonyms like 'harmless' and 'benign', which indicate no danger or death.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

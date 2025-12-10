@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented the printing?",
+      "options": {
+        "a": "Chinese",
+        "b": "Greeks",
+        "c": "Romans",
+        "d": "Egyptians"
+      },
+      "one_liner": "The invention of printing is attributed to the **Chinese**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

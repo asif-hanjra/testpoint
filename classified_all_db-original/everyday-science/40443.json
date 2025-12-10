@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "At approximately what altitude does the Stratosphere end?",
+      "options": {
+        "a": "20 km",
+        "b": "50 km",
+        "c": "85 km",
+        "d": "690 km"
+      },
+      "one_liner": "The Stratosphere ends at an altitude of about **50 km** above Earth's surface.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

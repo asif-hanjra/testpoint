@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fluid':",
+      "options": {
+        "a": "liquid:solid",
+        "b": "gaseous:frozen",
+        "c": "flowing:rigid",
+        "d": "vapor:solid"
+      },
+      "one_liner": "'Liquid' is a synonym of 'fluid', while 'solid' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

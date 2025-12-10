@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which hydropower project diverts water from the Indus River near Ghazi to Barotha in Attock, Punjab?",
+      "options": {
+        "a": "Neelum-Jhelum Hydropower Project",
+        "b": "Tarbela Dam",
+        "c": "Ghazi-Barotha Hydropower Project",
+        "d": "Satpara Dam"
+      },
+      "one_liner": "The Ghazi-Barotha Hydropower Project diverts water from the Indus River near **Ghazi to Barotha** in Attock, Punjab.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

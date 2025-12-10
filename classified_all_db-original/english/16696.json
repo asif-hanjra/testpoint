@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'iterate':",
+      "options": {
+        "a": "repeat:terminate",
+        "b": "proceed:halt",
+        "c": "reiterate:continue",
+        "d": "maintain:cease"
+      },
+      "one_liner": "'Repeat' is a synonym of 'iterate', while 'terminate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

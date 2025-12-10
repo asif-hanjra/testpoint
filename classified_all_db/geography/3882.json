@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the rising of the evening star indicate?",
+      "options": {
+        "a": "North",
+        "b": "South",
+        "c": "East",
+        "d": "West"
+      },
+      "one_liner": "The rising of the evening star is a natural indicator of the direction **west**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

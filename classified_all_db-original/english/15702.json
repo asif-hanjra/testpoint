@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'aver':",
+      "options": {
+        "a": "confirm",
+        "b": "acknowledge",
+        "c": "deny",
+        "d": "accept"
+      },
+      "one_liner": "The antonym of 'aver', which means to assert confidently, would be 'deny', indicating a refusal to admit the truth of a statement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

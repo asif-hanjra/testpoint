@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'slander':",
+      "options": {
+        "a": "praise",
+        "b": "defamation",
+        "c": "compliment",
+        "d": "flattery"
+      },
+      "one_liner": "'Slander' refers to the act of making false and damaging statements about someone, similar to 'defamation'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

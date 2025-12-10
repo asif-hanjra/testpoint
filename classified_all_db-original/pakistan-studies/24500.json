@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is considered the greatest player in the history of squash from Pakistan?",
+      "options": {
+        "a": "Jahangir Khan",
+        "b": "Jansher Khan",
+        "c": "Hashim Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Jahangir Khan is widely regarded as the **greatest player in the history of squash** from Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Squash",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Squash",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

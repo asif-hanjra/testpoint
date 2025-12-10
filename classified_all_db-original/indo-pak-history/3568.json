@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the tomb of Moeen-ud-Din Chishti located?",
+      "options": {
+        "a": "Delhi",
+        "b": "Lahore",
+        "c": "Ajmeer",
+        "d": "Multan"
+      },
+      "one_liner": "The tomb of Moeen-ud-Din Chishti is located in **Ajmeer**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

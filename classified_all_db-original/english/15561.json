@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'flamboyant':",
+      "options": {
+        "a": "extravagant",
+        "b": "vivid",
+        "c": "understated",
+        "d": "colorful"
+      },
+      "one_liner": "The word 'flamboyant' suggests extravagance, whereas 'understated' implies simplicity and restraint.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rowdy':",
+      "options": {
+        "a": "unruly:calm",
+        "b": "noisy:quiet",
+        "c": "boisterous:peaceful",
+        "d": "disorderly:orderly"
+      },
+      "one_liner": "'Unruly' is a synonym of 'rowdy', while 'calm' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

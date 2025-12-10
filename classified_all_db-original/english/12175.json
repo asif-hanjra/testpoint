@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'identical':",
+      "options": {
+        "a": "different",
+        "b": "alike",
+        "c": "diverse",
+        "d": "distinct"
+      },
+      "one_liner": "'Identical' means exactly the same, often in every way, similar to 'alike'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'honest':",
+      "options": {
+        "a": "truthful",
+        "b": "sincere",
+        "c": "dishonest",
+        "d": "genuine"
+      },
+      "one_liner": "Antonyms of 'honest' include 'deceitful' and 'dishonest', both implying a lack of truthfulness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

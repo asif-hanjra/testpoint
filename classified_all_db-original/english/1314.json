@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: Amjad has solved the the issue.",
+      "options": {
+        "a": "The issue have been solved by Amjad.",
+        "b": "The issue has been solved by Amjad.",
+        "c": "The issue was solved by Amjad.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which motorway, currently under construction, connects Hyderabad with Karachi?",
+      "options": {
+        "a": "M8",
+        "b": "M9",
+        "c": "M10",
+        "d": "M11"
+      },
+      "one_liner": "The M9 motorway, still under construction, is designed to connect **Hyderabad with Karachi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

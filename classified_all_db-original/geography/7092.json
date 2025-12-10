@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which region lies to the south of China and Japan, east of India, and north of Australia?",
+      "options": {
+        "a": "Southeast Asia",
+        "b": "Central Asia",
+        "c": "Middle East",
+        "d": "None of these"
+      },
+      "one_liner": "Southeast Asia is geographically located to the south of China and Japan, east of India, and north of **Australia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

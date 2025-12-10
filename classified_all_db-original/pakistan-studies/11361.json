@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did Muhammad Ali Bogra belong to during his tenure as Prime Minister?",
+      "options": {
+        "a": "Pakistan Peoples Party",
+        "b": "Awami League",
+        "c": "Muslim League",
+        "d": "None of these"
+      },
+      "one_liner": "During his tenure as Prime Minister, **Muhammad Ali Bogra** was a member of the Muslim League.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

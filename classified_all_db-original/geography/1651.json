@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are the three sides of the Bermuda Triangle?",
+      "options": {
+        "a": "Florida, Bermuda, Puerto Rico",
+        "b": "Cuba, Jamaica, Bahamas",
+        "c": "Mexico, Haiti, Bermuda",
+        "d": "None of these"
+      },
+      "one_liner": "The three sides of the **Bermuda Triangle** are **Florida, Bermuda, and Puerto Rico**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

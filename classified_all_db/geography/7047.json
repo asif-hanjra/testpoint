@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "How many countries are there in South Asia?",
+      "options": {
+        "a": "Six",
+        "b": "Seven",
+        "c": "Eight",
+        "d": "Nine"
+      },
+      "one_liner": "There are **eight countries** in South Asia: Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, India, Pakistan, and Sri Lanka.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Central Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

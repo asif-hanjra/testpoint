@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ratify':",
+      "options": {
+        "a": "reject",
+        "b": "endorse",
+        "c": "disapprove",
+        "d": "deny"
+      },
+      "one_liner": "'Ratify' means to formally approve or confirm, similar to 'sanction' or 'endorse'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

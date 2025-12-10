@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Why are noble gases less reactive compared to other elements?",
+      "options": {
+        "a": "They have incomplete octet",
+        "b": "They have complete octet",
+        "c": "They are metals",
+        "d": "None of these"
+      },
+      "one_liner": "Noble gases exhibit low reactivity because they possess a **complete octet** in their outermost electron shell.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'intrepid':",
+      "options": {
+        "a": "fearless",
+        "b": "daring",
+        "c": "cowardly",
+        "d": "bold"
+      },
+      "one_liner": "An antonym of 'intrepid' is 'cowardly', which means lacking courage.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

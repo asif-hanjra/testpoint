@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wise':",
+      "options": {
+        "a": "sagacious",
+        "b": "intelligent",
+        "c": "foolish",
+        "d": "knowledgeable"
+      },
+      "one_liner": "Antonyms of 'wise' include 'foolish' and 'unwise', both implying a lack of good judgment or intelligence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

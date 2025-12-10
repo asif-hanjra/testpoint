@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'victory':",
+      "options": {
+        "a": "triumph",
+        "b": "success",
+        "c": "defeat",
+        "d": "win"
+      },
+      "one_liner": "The antonym of 'victory' is 'defeat', which signifies a loss or failure to win.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

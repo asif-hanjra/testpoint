@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'harangue':",
+      "options": {
+        "a": "whisper",
+        "b": "diatribe",
+        "c": "murmur",
+        "d": "chat"
+      },
+      "one_liner": "'Harangue' refers to a lengthy and aggressive speech, similar to a 'diatribe'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

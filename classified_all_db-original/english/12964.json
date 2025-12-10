@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prompt':",
+      "options": {
+        "a": "expeditious",
+        "b": "swift",
+        "c": "delayed",
+        "d": "rapid"
+      },
+      "one_liner": "An antonym of 'prompt' is 'delayed', which suggests being late or behind schedule.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

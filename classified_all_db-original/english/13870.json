@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'perennial':",
+      "options": {
+        "a": "ephemeral",
+        "b": "transitory",
+        "c": "everlasting",
+        "d": "fleeting"
+      },
+      "one_liner": "'Perennial' refers to something that lasts for a long time or is enduring, similar to 'everlasting'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

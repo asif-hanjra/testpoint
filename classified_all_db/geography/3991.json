@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the legendary Punjabi hero that led resistance against Mughal rule during Akbar's reign?",
+      "options": {
+        "a": "Rai Ahmed Nawaz Khan Kharal",
+        "b": "Shah Hussain",
+        "c": "Dulla Bhatti",
+        "d": "None of these"
+      },
+      "one_liner": "The legendary Punjabi hero who led resistance against Mughal rule during Akbar's reign was **Dulla Bhatti**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

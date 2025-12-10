@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'benevolent':",
+      "options": {
+        "a": "malevolent",
+        "b": "charitable",
+        "c": "cruel",
+        "d": "selfish"
+      },
+      "one_liner": "'Benevolent' means kind and generous, similar to 'charitable' in nature.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

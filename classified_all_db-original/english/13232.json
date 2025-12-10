@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "DENIM : COTTON :: FLAX : ________?",
+      "options": {
+        "a": "Wool",
+        "b": "Linen",
+        "c": "Silk",
+        "d": "Polyester"
+      },
+      "one_liner": "Denim is made from cotton, just as linen is made from flax.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

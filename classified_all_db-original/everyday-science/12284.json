@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does a malaria patient typically feel before experiencing a high temperature?",
+      "options": {
+        "a": "Sweating",
+        "b": "Coldness",
+        "c": "Rash",
+        "d": "None of these"
+      },
+      "one_liner": "A malaria patient typically feels **coldness before a high temperature** sets in.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

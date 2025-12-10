@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which phobia is related to the fear of water?",
+      "options": {
+        "a": "Hydrophobia",
+        "b": "Zoophobia",
+        "c": "Pyrophobia",
+        "d": "Acrophobia"
+      },
+      "one_liner": "The fear of water is medically termed as **Hydrophobia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

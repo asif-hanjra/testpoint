@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the maximum prison sentence for printing, displaying, or circulating an incorrect version of the map of Pakistan?",
+      "options": {
+        "a": "Three years",
+        "b": "Five years",
+        "c": "Ten years",
+        "d": "None of these"
+      },
+      "one_liner": "Printing, displaying, or circulating an incorrect version of the map of Pakistan can result in a maximum prison sentence of **five years**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

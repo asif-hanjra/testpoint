@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the All Parties Conference of Muslims held in 1928?",
+      "options": {
+        "a": "Lahore",
+        "b": "Delhi",
+        "c": "Karachi",
+        "d": "Lucknow"
+      },
+      "one_liner": "The All Parties Conference of Muslims in 1928 was convened in **Delhi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

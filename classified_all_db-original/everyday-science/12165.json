@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of disease is hemophilia?",
+      "options": {
+        "a": "Hereditary",
+        "b": "Infectious",
+        "c": "Deficiency",
+        "d": "Degenerative"
+      },
+      "one_liner": "Hemophilia is a hereditary disease, meaning it is passed from parents to offspring through genes.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

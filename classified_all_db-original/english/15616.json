@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'optician':",
+      "options": {
+        "a": "chef",
+        "b": "dentist",
+        "c": "physician",
+        "d": "pilot"
+      },
+      "one_liner": "An 'optician' works with eyewear, whereas a 'chef' is involved in cooking, making them antonyms in terms of profession.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

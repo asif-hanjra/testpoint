@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'flop':",
+      "options": {
+        "a": "failure",
+        "b": "success",
+        "c": "defeat",
+        "d": "loss"
+      },
+      "one_liner": "The antonym of 'flop' is 'success', which means the opposite of failure.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

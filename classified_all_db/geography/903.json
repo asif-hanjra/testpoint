@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which tehsil and district is Qadirabad Barrage located?",
+      "options": {
+        "a": "Tehsil Phalia, District Mandi Bahauddin",
+        "b": "Tehsil Sialkot, District Sialkot",
+        "c": "Tehsil Gujranwala, District Gujranwala",
+        "d": "None of these"
+      },
+      "one_liner": "Qadirabad Barrage is located in **tehsil Phalia, District Mandi Bahauddin**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

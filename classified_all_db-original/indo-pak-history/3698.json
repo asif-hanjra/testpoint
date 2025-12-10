@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What economic and scholarly activities did Nizam Khan promote?",
+      "options": {
+        "a": "Translation of medical works into Persian",
+        "b": "Construction of roads",
+        "c": "Minting new coins",
+        "d": "All of these"
+      },
+      "one_liner": "Nizam Khan promoted economic activities and ordered the translation of medical works into **Persian**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

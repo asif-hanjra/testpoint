@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "It is a time to go ___ and enjoy the fresh air.",
+      "options": {
+        "a": "in",
+        "b": "out",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "It is a time to go 'out' and enjoy the fresh air.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

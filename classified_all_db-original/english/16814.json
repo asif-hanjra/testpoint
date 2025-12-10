@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'plumb':",
+      "options": {
+        "a": "shallow",
+        "b": "fathom",
+        "c": "surface",
+        "d": "skim"
+      },
+      "one_liner": "'Plumb' can mean to measure the depth of something, similar to 'fathom'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the appropriate Doppler equation when source is approaching the stationary observer where fo is the observed frequency, fs is frequency of source, v is the speed of sound, vs is the speed of source relative to observer?",
+      "options": {
+        "a": "fo = v-vs/v fs",
+        "b": "fo = v-vs/v+vs fs",
+        "c": "fo = v/v-vs fs",
+        "d": "fo = v/v+vs fs"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

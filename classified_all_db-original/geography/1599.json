@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Abu al-Abbas al-Mursi Mosque located?",
+      "options": {
+        "a": "Cairo, Egypt",
+        "b": "Alexandria, Egypt",
+        "c": "Marrakesh, Morocco",
+        "d": "Istanbul, Turkey"
+      },
+      "one_liner": "The Abu al-Abbas al-Mursi Mosque is situated in the city of **Alexandria, Egypt**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

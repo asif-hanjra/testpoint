@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city are the Red Fort and Black Fort, located on opposite sides of the Neelum River, found?",
+      "options": {
+        "a": "Lahore",
+        "b": "Muzaffarabad",
+        "c": "Gilgit",
+        "d": "Karachi"
+      },
+      "one_liner": "Both the Red Fort and Black Fort, which stand on opposite banks of the Neelum River, are located in **Muzaffarabad**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

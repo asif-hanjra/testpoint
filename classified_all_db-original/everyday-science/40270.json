@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered the principles of vaccination?",
+      "options": {
+        "a": "Robert Koch",
+        "b": "Alexander Fleming",
+        "c": "Louis Pasteur",
+        "d": "Edward Jenner"
+      },
+      "one_liner": "The principles of vaccination were discovered by **Louis Pasteur**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

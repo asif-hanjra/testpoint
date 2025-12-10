@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ambitious':",
+      "options": {
+        "a": "content",
+        "b": "aspiring",
+        "c": "satisfied",
+        "d": "lazy"
+      },
+      "one_liner": "'Ambitious' describes someone with a strong desire for success, similar to 'aspiring'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hallowed':",
+      "options": {
+        "a": "profane",
+        "b": "consecrated",
+        "c": "unholy",
+        "d": "irreverent"
+      },
+      "one_liner": "'Hallowed' means sacred or holy, similar to the word 'consecrated'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

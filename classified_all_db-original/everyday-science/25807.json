@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What can cause delirium?",
+      "options": {
+        "a": "Drug misuse",
+        "b": "Lack of oxygen to the brain",
+        "c": "Both a and b",
+        "d": "None of these"
+      },
+      "one_liner": "Delirium can be caused by drug misuse or when the brain does not receive the required amount of oxygen.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

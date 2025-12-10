@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the founder of the Lodhi dynasty of India?",
+      "options": {
+        "a": "Bahlul Khan Lodhi",
+        "b": "Ibrahim Lodhi",
+        "c": "Sikandar Lodhi",
+        "d": "None of these"
+      },
+      "one_liner": "The Lodhi dynasty of India was founded by **Bahlul Khan Lodhi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'She quickly but carefully solved the puzzle,' what part of speech is 'but'?",
+      "options": {
+        "a": "Conjunction",
+        "b": "Verb",
+        "c": "Noun",
+        "d": "Adjective"
+      },
+      "one_liner": "'But' is a conjunction, connecting two adverbs 'quickly' and 'carefully'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

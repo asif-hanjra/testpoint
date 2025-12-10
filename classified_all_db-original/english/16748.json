@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'enemy':",
+      "options": {
+        "a": "opponent",
+        "b": "rival",
+        "c": "ally",
+        "d": "nemesis"
+      },
+      "one_liner": "An antonym of 'enemy' is 'ally', which means a friend or supporter.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

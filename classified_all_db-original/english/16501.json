@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'Caesarian':",
+      "options": {
+        "a": "C-section:natural delivery",
+        "b": "midwifery:home birth",
+        "c": "induced labor:vaginal birth",
+        "d": "epidural:natural birth"
+      },
+      "one_liner": "A 'C-section' is a synonym for 'Caesarian', while 'natural delivery' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

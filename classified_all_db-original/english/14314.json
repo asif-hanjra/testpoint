@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dislodge':",
+      "options": {
+        "a": "attach",
+        "b": "eject",
+        "c": "connect",
+        "d": "bind"
+      },
+      "one_liner": "'Dislodge' means to remove or force out, similar to 'eject' or 'expel'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

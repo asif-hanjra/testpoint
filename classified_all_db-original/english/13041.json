@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'good':",
+      "options": {
+        "a": "detrimental",
+        "b": "beneficial",
+        "c": "harmful",
+        "d": "injurious"
+      },
+      "one_liner": "'Good' is synonymous with 'beneficial', as both imply something positive or advantageous.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

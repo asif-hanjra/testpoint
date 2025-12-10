@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'kind':",
+      "options": {
+        "a": "generous:compassionate",
+        "b": "benevolent:malevolent",
+        "c": "caring:cruel",
+        "d": "gentle:harsh"
+      },
+      "one_liner": "'Compassionate' is a synonym of 'kind', while 'malevolent' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

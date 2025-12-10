@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A reaction is first order with respect to A and second order with respect to B, the rate equation is",
+      "options": {
+        "a": "Rate = k [A]",
+        "b": "Rate = k [A][B]",
+        "c": "Rate = k [A]2 [B]",
+        "d": "Rate = k [A][B]2"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

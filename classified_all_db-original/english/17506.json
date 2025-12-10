@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "When the teacher entered the room, all the students were asked to _______.",
+      "options": {
+        "a": "break out",
+        "b": "stand up",
+        "c": "give in",
+        "d": "run over"
+      },
+      "one_liner": "When the teacher entered, all the students were asked to 'stand up'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

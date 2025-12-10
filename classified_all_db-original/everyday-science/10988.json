@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of the first space shuttle launched by the United States on April 12, 1981?",
+      "options": {
+        "a": "Challenger",
+        "b": "Discovery",
+        "c": "Columbia",
+        "d": "Atlantis"
+      },
+      "one_liner": "The first space shuttle launched by the United States on April 12, 1981 was named **Columbia**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

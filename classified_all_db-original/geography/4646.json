@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest freshwater lake in the world?",
+      "options": {
+        "a": "Lake Victoria",
+        "b": "Lake Superior",
+        "c": "Lake Baikal",
+        "d": "Lake Tanganyika"
+      },
+      "one_liner": "The largest freshwater lake in the world is **Lake Superior**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

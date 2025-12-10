@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impediment':",
+      "options": {
+        "a": "aid",
+        "b": "obstacle",
+        "c": "assistance",
+        "d": "support"
+      },
+      "one_liner": "'Impediment' refers to a hindrance or obstruction, similar to 'obstacle'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

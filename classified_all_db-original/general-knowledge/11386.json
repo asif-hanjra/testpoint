@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Colosseum located?",
+      "options": {
+        "a": "Paris, France",
+        "b": "Rome, Italy",
+        "c": "Athens, Greece",
+        "d": "Istanbul, Turkey"
+      },
+      "one_liner": "The Colosseum is located in the center of the city of **Rome, Italy**, just east of the Roman Forum.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Colosseum",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Colosseum",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

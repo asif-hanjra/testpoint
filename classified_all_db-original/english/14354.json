@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She has to pass the driving test ___ get her license.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "She has to pass the driving test 'to' get her license.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Gomal River acts as a tributary to which major river in Pakistan?",
+      "options": {
+        "a": "Ravi River",
+        "b": "Indus River",
+        "c": "Kabul River",
+        "d": "None of these"
+      },
+      "one_liner": "The Gomal River serves as a tributary to the **Indus River** in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

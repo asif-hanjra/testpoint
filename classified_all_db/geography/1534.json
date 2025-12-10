@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which waves are the first to hit the seismographs during an earthquake?",
+      "options": {
+        "a": "P waves",
+        "b": "S waves",
+        "c": "Surface waves",
+        "d": "None of these"
+      },
+      "one_liner": "The first waves to hit the seismographs during an earthquake are the **P waves (Primary waves)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Earthquake Waves / Seismic Waves",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Earthquake Waves / Seismic Waves",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

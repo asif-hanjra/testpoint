@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'brave':",
+      "options": {
+        "a": "heroic",
+        "b": "valiant",
+        "c": "cowardly",
+        "d": "courageous"
+      },
+      "one_liner": "Antonyms of 'brave' include 'cowardly' and 'timid', both implying a lack of courage.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

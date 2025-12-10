@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country does the secret agency Mosad belong to?",
+      "options": {
+        "a": "Russia",
+        "b": "Israel",
+        "c": "United States",
+        "d": "France"
+      },
+      "one_liner": "Mosad is the secret agency of **Israel**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

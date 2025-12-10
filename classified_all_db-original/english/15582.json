@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gather':",
+      "options": {
+        "a": "amass:disperse",
+        "b": "accumulate:assemble",
+        "c": "collect:congregate",
+        "d": "amass:scatter"
+      },
+      "one_liner": "'Amass' is a synonym of 'gather', while 'scatter' is its antonym.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

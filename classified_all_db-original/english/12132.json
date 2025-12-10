@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ossified':",
+      "options": {
+        "a": "fossilized:supple",
+        "b": "hard:soft",
+        "c": "rigid:flexible",
+        "d": "stiff:pliable"
+      },
+      "one_liner": "'Fossilized' is a synonym of 'ossified', while 'supple' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

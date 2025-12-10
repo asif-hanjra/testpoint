@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prevent':",
+      "options": {
+        "a": "avert:facilitate",
+        "b": "hinder:assist",
+        "c": "prohibit:permit",
+        "d": "impede:encourage"
+      },
+      "one_liner": "'Avert' is a synonym of 'prevent', while 'facilitate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

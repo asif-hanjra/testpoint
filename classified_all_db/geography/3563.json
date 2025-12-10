@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which district of Balochistan is the Mirani Dam located?",
+      "options": {
+        "a": "Quetta",
+        "b": "Gawadar",
+        "c": "Khuzdar",
+        "d": "Sibi"
+      },
+      "one_liner": "Mirani Dam is situated in the **Gawadar district** of Balochistan province.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

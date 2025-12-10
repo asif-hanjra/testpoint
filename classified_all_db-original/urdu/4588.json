@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "تزک بابری میں کون سا لفظ پہلی بار استعمال ہوا؟",
+      "options": {
+        "a": "اردو",
+        "b": "شاعری",
+        "c": "غزل",
+        "d": "ان میں سے کوئی نہیں"
+      },
+      "one_liner": "تزک بابری میں پہلی بار **اردو** کا لفظ استعمال ہوا۔",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Al-Biruni establish his laboratory?",
+      "options": {
+        "a": "Nandna",
+        "b": "Baghdad",
+        "c": "Cordoba",
+        "d": "None of these"
+      },
+      "one_liner": "Al-Biruni established his laboratory in the village of **Nandna**, located in Tehsil Pind Dadan Khan, District Jehlum.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

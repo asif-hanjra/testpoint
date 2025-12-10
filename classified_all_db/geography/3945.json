@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of Pakistan's average river flows comes from snow or glacial melt?",
+      "options": {
+        "a": "10-20%",
+        "b": "30-40%",
+        "c": "50-80%",
+        "d": "90-100%"
+      },
+      "one_liner": "Pakistan receives about **50-80 percent** of its average river flows from snow or glacial melt.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

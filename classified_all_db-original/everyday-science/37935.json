@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which gate represents a series gate?",
+      "options": {
+        "a": "OR",
+        "b": "AND",
+        "c": "NOR",
+        "d": "XOR"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

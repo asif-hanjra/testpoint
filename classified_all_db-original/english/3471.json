@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: They will announce the results soon.",
+      "options": {
+        "a": "The results were announced soon.",
+        "b": "The results have been announced soon.",
+        "c": "The results will be announced soon.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

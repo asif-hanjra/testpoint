@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Benazir Bhutto serve as Prime Minister of Pakistan?",
+      "options": {
+        "a": "1985 – 1988",
+        "b": "1993 – 1996",
+        "c": "December 2, 1988 – August 6, 1990",
+        "d": "None of these"
+      },
+      "one_liner": "Benazir Bhutto served as Prime Minister of Pakistan from **December 2, 1988 to August 6, 1990**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

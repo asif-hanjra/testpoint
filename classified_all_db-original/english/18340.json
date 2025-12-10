@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nausea':",
+      "options": {
+        "a": "sickness:health",
+        "b": "disgust:attraction",
+        "c": "queasiness:joy",
+        "d": "illness:pleasure"
+      },
+      "one_liner": "'Sickness' is a synonym for 'nausea', while 'health' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

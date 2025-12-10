@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prominent':",
+      "options": {
+        "a": "obscure",
+        "b": "conspicuous",
+        "c": "hidden",
+        "d": "invisible"
+      },
+      "one_liner": "'Prominent' means noticeable or important, similar to 'conspicuous' and 'distinguished'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

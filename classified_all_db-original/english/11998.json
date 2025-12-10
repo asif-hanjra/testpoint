@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cordial':",
+      "options": {
+        "a": "affable:aloof",
+        "b": "friendly:hostile",
+        "c": "warm:cold",
+        "d": "genial:unfriendly"
+      },
+      "one_liner": "'Affable' is a synonym of 'cordial', while 'aloof' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

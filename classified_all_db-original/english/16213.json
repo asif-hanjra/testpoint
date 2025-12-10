@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'frail':",
+      "options": {
+        "a": "delicate:hardy",
+        "b": "weak:sturdy",
+        "c": "fragile:robust",
+        "d": "feeble:durable"
+      },
+      "one_liner": "'Delicate' is a synonym of 'frail', while 'hardy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

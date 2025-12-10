@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'if' in the sentence 'If it rains, we will stay inside.'",
+      "options": {
+        "a": "Adverb",
+        "b": "Preposition",
+        "c": "Conjunction",
+        "d": "Noun"
+      },
+      "one_liner": "'If' is a conjunction because it introduces a condition.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'omnipotent':",
+      "options": {
+        "a": "almighty",
+        "b": "invincible",
+        "c": "powerless",
+        "d": "supreme"
+      },
+      "one_liner": "An antonym of 'omnipotent' is 'powerless', which means having no power.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

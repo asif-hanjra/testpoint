@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You ought to abide ___ this decision.",
+      "options": {
+        "a": "with",
+        "b": "by",
+        "c": "to",
+        "d": "at"
+      },
+      "one_liner": "You ought to abide 'by' this decision.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

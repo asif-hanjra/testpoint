@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'accumulate':",
+      "options": {
+        "a": "gather:squander",
+        "b": "collect:amass",
+        "c": "hoard:disperse",
+        "d": "assemble:gather"
+      },
+      "one_liner": "'Gather' is a synonym of 'accumulate', while 'squander' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

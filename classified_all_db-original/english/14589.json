@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fidget':",
+      "options": {
+        "a": "relax",
+        "b": "twitch",
+        "c": "jitter",
+        "d": "shuffle"
+      },
+      "one_liner": "An antonym of 'fidget' is 'relax', which means to become less tense or anxious.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

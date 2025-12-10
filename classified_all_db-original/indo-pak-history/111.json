@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the second meeting of the Khilafat movement held?",
+      "options": {
+        "a": "Delhi",
+        "b": "Bombay",
+        "c": "Lahore",
+        "d": "Lucknow"
+      },
+      "one_liner": "The second meeting of the Khilafat movement was held in **Bombay**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

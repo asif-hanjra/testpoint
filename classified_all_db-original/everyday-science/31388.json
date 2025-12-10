@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If the capacitance C and resistance R of an RC circuit are given, what is the time constant (τ) of the circuit?",
+      "options": {
+        "a": "τ=R+C",
+        "b": "τ=R−C",
+        "c": "τ=RC",
+        "d": "τ= R/C"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which mountain range is the Siachen Glacier located?",
+      "options": {
+        "a": "Himalayas",
+        "b": "Karakoram",
+        "c": "Hindu Kush",
+        "d": "None of these"
+      },
+      "one_liner": "The Siachen Glacier is situated in the **Karakoram** mountain range.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

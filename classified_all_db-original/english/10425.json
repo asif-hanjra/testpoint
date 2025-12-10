@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Change voice: The company has fired some workers?",
+      "options": {
+        "a": "Some workers has been fired by the company",
+        "b": "Some workers have been fired by the company",
+        "c": "Some workers had been fired by the company",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2022
+}

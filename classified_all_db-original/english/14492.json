@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'Hobson's choice' refer to?",
+      "options": {
+        "a": "A difficult decision between two options",
+        "b": "A choice of taking what is available or nothing at all",
+        "c": "A selection of the best option from many",
+        "d": "A choice made under pressure"
+      },
+      "one_liner": "The idiom 'Hobson's choice' refers to a situation where there's only one option available, so it's a choice between taking it or not having anything at all.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

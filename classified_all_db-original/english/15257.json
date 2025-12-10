@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hobble':",
+      "options": {
+        "a": "run",
+        "b": "limp",
+        "c": "sprint",
+        "d": "race"
+      },
+      "one_liner": "'Hobble' means to walk with difficulty, similar to 'limp'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

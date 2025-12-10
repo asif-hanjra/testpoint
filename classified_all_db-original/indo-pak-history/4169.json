@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was appointed as the first principal of Darul Uloom Deoband?",
+      "options": {
+        "a": "Maulana Muhammad Qasim",
+        "b": "Maulana Shibli Nomani",
+        "c": "Maulana Ashraf Ali Thanvi",
+        "d": "None of these"
+      },
+      "one_liner": "The first principal of Darul Uloom Deoband was **Maulana Muhammad Qasim**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

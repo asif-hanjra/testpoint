@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is produced when biomass is dumped and decomposes?",
+      "options": {
+        "a": "Petrol",
+        "b": "Biogas",
+        "c": "Coal",
+        "d": "None of these"
+      },
+      "one_liner": "When biomass is dumped and undergoes decomposition, **biogas** is produced as a result.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

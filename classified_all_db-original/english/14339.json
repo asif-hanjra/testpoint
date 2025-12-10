@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stiff':",
+      "options": {
+        "a": "rigid",
+        "b": "hard",
+        "c": "flexible",
+        "d": "taut"
+      },
+      "one_liner": "The word 'stiff' has antonyms like 'flexible' and 'limber', which imply ease of movement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

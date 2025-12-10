@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Alcohol is injurious ___ health.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "with",
+        "d": "at"
+      },
+      "one_liner": "Alcohol is injurious 'to' health.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

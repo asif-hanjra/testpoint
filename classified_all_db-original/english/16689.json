@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'reverie':",
+      "options": {
+        "a": "alertness",
+        "b": "fantasy",
+        "c": "illusion",
+        "d": "dream"
+      },
+      "one_liner": "The opposite of 'reverie', a state of dreamy meditation, would be 'alertness', indicating full attention to the present.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

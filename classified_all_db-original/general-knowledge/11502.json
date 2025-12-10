@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which years did the Organisation of African Unity (OAU) exist?",
+      "options": {
+        "a": "1950-1975",
+        "b": "1963-1999",
+        "c": "2002-2020",
+        "d": "1970-2000"
+      },
+      "one_liner": "The Organisation of African Unity (OAU) existed from **1963 to 1999** before being succeeded by the African Union.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

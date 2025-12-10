@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "This shirt cannot be worn by me any longer.",
+      "options": {
+        "a": "I cannot wear this shirt any longer",
+        "b": "Wearing of this shirt any longer is not possible",
+        "c": "This shirt is too worn out any longer",
+        "d": "This worn out shirt cannot be worn any longer"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

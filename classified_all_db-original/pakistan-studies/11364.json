@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the 1992 Cricket World Cup final, in which Pakistan emerged victorious, held?",
+      "options": {
+        "a": "Lahore",
+        "b": "London",
+        "c": "Karachi",
+        "d": "Melbourne, Australia"
+      },
+      "one_liner": "The 1992 Cricket World Cup final, where Pakistan emerged victorious, was held in **Melbourne, Australia**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

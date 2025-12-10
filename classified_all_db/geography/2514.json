@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following Afghan provinces shares a border with Pakistan?",
+      "options": {
+        "a": "Herat",
+        "b": "Nangarhar",
+        "c": "Bamyan",
+        "d": "Ghazni"
+      },
+      "one_liner": "Among Afghanistan's provinces, **Nangarhar** shares a border with Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

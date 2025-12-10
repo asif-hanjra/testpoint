@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dead':",
+      "options": {
+        "a": "deceased:living",
+        "b": "alive:deceased",
+        "c": "expired:living",
+        "d": "lifeless:alive"
+      },
+      "one_liner": "'Expired' is a synonym of 'dead', while 'living' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

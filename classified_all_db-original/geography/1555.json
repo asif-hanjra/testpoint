@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Satpara Lake located?",
+      "options": {
+        "a": "Khyber Pakhtunkhwa",
+        "b": "Punjab",
+        "c": "Gilgit-Baltistan",
+        "d": "Sindh"
+      },
+      "one_liner": "Satpara Lake is located in **Gilgit-Baltistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

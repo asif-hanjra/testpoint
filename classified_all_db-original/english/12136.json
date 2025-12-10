@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'transience':",
+      "options": {
+        "a": "fleeting:enduring",
+        "b": "lasting:ephemeral",
+        "c": "temporary:permanent",
+        "d": "brief:long-term"
+      },
+      "one_liner": "'Fleeting' is a synonym of 'transience', while 'enduring' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

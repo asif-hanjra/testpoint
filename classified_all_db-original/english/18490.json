@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'veracity':",
+      "options": {
+        "a": "authenticity:fabrication",
+        "b": "honesty:deception",
+        "c": "accuracy:truth",
+        "d": "integrity:dishonesty"
+      },
+      "one_liner": "'Authenticity' is a synonym of 'veracity', while 'fabrication' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

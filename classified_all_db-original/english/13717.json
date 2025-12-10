@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'diversity':",
+      "options": {
+        "a": "variety",
+        "b": "difference",
+        "c": "uniformity",
+        "d": "disparity"
+      },
+      "one_liner": "The antonym of 'diversity' is 'uniformity', which means the state of being the same or unvarying.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

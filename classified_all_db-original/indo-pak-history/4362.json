@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party initiated the 'Quit India Movement'?",
+      "options": {
+        "a": "Muslim League",
+        "b": "Congress",
+        "c": "Unionist Party",
+        "d": "None of these"
+      },
+      "one_liner": "The 'Quit India Movement' was initiated by the political party **Congress**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

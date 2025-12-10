@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ordinance':",
+      "options": {
+        "a": "suggestion",
+        "b": "decree",
+        "c": "opinion",
+        "d": "proposal"
+      },
+      "one_liner": "'Ordinance' refers to an authoritative order; a 'decree' is a synonym that also signifies an official order.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

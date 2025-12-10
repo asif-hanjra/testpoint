@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which sea is further connected to the Mediterranean Sea via the Sea of Marmara?",
+      "options": {
+        "a": "Black Sea",
+        "b": "Aegean Sea",
+        "c": "Red Sea",
+        "d": "Caspian Sea"
+      },
+      "one_liner": "The **Sea of Marmara** is further connected to the **Mediterranean Sea**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

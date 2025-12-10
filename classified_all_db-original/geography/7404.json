@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "At what elevation is Namni Pass situated in Myanmar?",
+      "options": {
+        "a": "12,000 feet",
+        "b": "14,000 feet",
+        "c": "15,300 feet",
+        "d": "16,500 feet"
+      },
+      "one_liner": "Namni Pass in Myanmar is located at an impressive height of **15,300 feet** above sea level.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

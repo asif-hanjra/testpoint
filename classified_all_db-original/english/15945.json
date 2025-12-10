@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'peculiar':",
+      "options": {
+        "a": "ordinary",
+        "b": "unusual",
+        "c": "familiar",
+        "d": "common"
+      },
+      "one_liner": "'Peculiar' means strange or odd, so 'unusual' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

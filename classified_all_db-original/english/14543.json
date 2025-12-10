@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stationary':",
+      "options": {
+        "a": "fixed",
+        "b": "static",
+        "c": "mobile",
+        "d": "steady"
+      },
+      "one_liner": "An antonym of 'stationary' is 'mobile', which means capable of moving or being moved.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

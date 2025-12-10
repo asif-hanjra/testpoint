@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vagary':",
+      "options": {
+        "a": "whim:regularity",
+        "b": "certainty:stability",
+        "c": "caprice:predictability",
+        "d": "freak:consistency"
+      },
+      "one_liner": "'Caprice' is a synonym for 'vagary', while 'regularity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Error detection: My friend bought a banana, a slice of bread and a egg.",
+      "options": {
+        "a": "A egg",
+        "b": "My friend",
+        "c": "Bread",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

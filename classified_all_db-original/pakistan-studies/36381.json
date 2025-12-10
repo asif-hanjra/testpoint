@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is Yom-e-Takbir celebrated for in Pakistan?",
+      "options": {
+        "a": "Independence Day",
+        "b": "Nuclear Status Achievement",
+        "c": "Defence Day",
+        "d": "None of these"
+      },
+      "one_liner": "Yom-e-Takbir is celebrated in Pakistan to mark the day the country achieved **nuclear status**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "More Facts about Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

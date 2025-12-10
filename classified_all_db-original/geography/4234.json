@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the large contiguous irrigation system in Pakistan?",
+      "options": {
+        "a": "Ganges Irrigation System",
+        "b": "Indus Basin Irrigation System",
+        "c": "Punjab Canal System",
+        "d": "Sindh Water Network"
+      },
+      "one_liner": "Pakistan's vast irrigation network is called the **Indus Basin Irrigation System (IBIS)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

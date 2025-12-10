@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ruler of the Sikh Dynasty had the shortest reign in 1839?",
+      "options": {
+        "a": "Ranjit Singh",
+        "b": "Kharak Singh",
+        "c": "Sher Singh",
+        "d": "Nau Nihal Singh"
+      },
+      "one_liner": "The Sikh ruler with the shortest reign in 1839 was **Kharak Singh**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

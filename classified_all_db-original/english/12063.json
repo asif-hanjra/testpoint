@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prodigy':",
+      "options": {
+        "a": "mediocrity",
+        "b": "expert",
+        "c": "master",
+        "d": "virtuoso"
+      },
+      "one_liner": "An antonym for 'prodigy' would be 'mediocrity', indicating a person with no exceptional abilities.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

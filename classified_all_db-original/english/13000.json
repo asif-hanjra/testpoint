@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dally':",
+      "options": {
+        "a": "loiter",
+        "b": "tarry",
+        "c": "hasten",
+        "d": "meander"
+      },
+      "one_liner": "An antonym of 'dally' is 'hasten', which means to be quick or to hurry.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

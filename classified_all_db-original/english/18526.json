@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inconsequential':",
+      "options": {
+        "a": "negligible:substantial",
+        "b": "trivial:significant",
+        "c": "minor:major",
+        "d": "insignificant:important"
+      },
+      "one_liner": "'Negligible' is a synonym of 'inconsequential', while 'substantial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

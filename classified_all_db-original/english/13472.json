@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'surmise':",
+      "options": {
+        "a": "guess",
+        "b": "hypothesize",
+        "c": "disprove",
+        "d": "assume"
+      },
+      "one_liner": "The antonym of 'surmise' is 'disprove', which means to prove that something is not true.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

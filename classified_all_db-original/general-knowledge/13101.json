@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which religious group considers Koh-e-Murad a sacred place?",
+      "options": {
+        "a": "Zikri",
+        "b": "Hindu",
+        "c": "Christian",
+        "d": "Sikh"
+      },
+      "one_liner": "Koh-e-Murad is regarded as a sacred site by the **Zikri** community.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

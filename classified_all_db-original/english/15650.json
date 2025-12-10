@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'less':",
+      "options": {
+        "a": "fewer:more",
+        "b": "lesser:greater",
+        "c": "smaller:larger",
+        "d": "minimal:maximal"
+      },
+      "one_liner": "'Fewer' is a synonym of 'less', while 'more' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

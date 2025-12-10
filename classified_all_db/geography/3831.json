@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which district is Mangla Dam located?",
+      "options": {
+        "a": "Muzaffarabad",
+        "b": "Mirpur",
+        "c": "Gilgit",
+        "d": "Skardu"
+      },
+      "one_liner": "Mangla Dam is located in the **Mirpur District** of Azad Kashmir.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

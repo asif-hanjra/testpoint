@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I am sick ___ your lies.",
+      "options": {
+        "a": "from",
+        "b": "of",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "I am sick 'of' your lies.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'important':",
+      "options": {
+        "a": "essential:minor",
+        "b": "crucial:major",
+        "c": "significant:substantial",
+        "d": "vital:crucial"
+      },
+      "one_liner": "'Essential' is a synonym of 'important', while 'minor' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How do scientists create most nuclear energy?",
+      "options": {
+        "a": "Fission",
+        "b": "Fusion",
+        "c": "Evaporation",
+        "d": "None of these"
+      },
+      "one_liner": "Most nuclear energy is created by scientists through the process of nuclear fission.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

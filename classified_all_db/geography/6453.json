@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How long did Abbas al-Mursi live in Alexandria?",
+      "options": {
+        "a": "10 years",
+        "b": "20 years",
+        "c": "40 years",
+        "d": "Over 40 years"
+      },
+      "one_liner": "Abbas al-Mursi lived in Alexandria for over **40 years**, spreading his teachings throughout the region.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

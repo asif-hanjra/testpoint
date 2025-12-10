@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "FAST : SLOW :: SIMPLE : ________?",
+      "options": {
+        "a": "Easy",
+        "b": "Complex",
+        "c": "Quick",
+        "d": "Clear"
+      },
+      "one_liner": "Fast is opposite to slow, just as simple is opposite to complex.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

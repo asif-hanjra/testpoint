@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'careful':",
+      "options": {
+        "a": "meticulous",
+        "b": "attentive",
+        "c": "careless",
+        "d": "thorough"
+      },
+      "one_liner": "The antonym of 'careful' is 'careless', indicating a lack of attention or caution.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

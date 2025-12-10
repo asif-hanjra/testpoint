@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'placid':",
+      "options": {
+        "a": "tranquil",
+        "b": "calm",
+        "c": "agitated",
+        "d": "peaceful"
+      },
+      "one_liner": "An antonym of 'placid' is 'agitated', which means disturbed or excited.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

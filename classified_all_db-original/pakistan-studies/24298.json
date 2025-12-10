@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the first census of Pakistan conducted?",
+      "options": {
+        "a": "1951",
+        "b": "1961",
+        "c": "1972",
+        "d": "1981"
+      },
+      "one_liner": "The first census in Pakistan was conducted in **1951**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

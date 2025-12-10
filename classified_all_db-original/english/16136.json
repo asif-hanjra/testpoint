@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "His health ___ breaking down.",
+      "options": {
+        "a": "at",
+        "b": "is",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "His health 'is' breaking down.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

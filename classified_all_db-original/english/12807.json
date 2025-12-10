@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct preposition to complete the sentence: I lived in the USA ___ 2015 to 2018.",
+      "options": {
+        "a": "since",
+        "b": "from",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "I lived in the USA 'from' 2015 to 2018.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

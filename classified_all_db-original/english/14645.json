@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'sine qua non' mean?",
+      "options": {
+        "a": "With highest honor",
+        "b": "An essential condition",
+        "c": "In good faith",
+        "d": "After the fact"
+      },
+      "one_liner": "The phrase 'sine qua non' translates to 'an essential condition' or something absolutely necessary.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

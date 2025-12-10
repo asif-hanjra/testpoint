@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'shrill':",
+      "options": {
+        "a": "strident:soft",
+        "b": "loud:quiet",
+        "c": "piercing:harmonious",
+        "d": "high:low"
+      },
+      "one_liner": "'Strident' is a synonym of 'shrill', while 'soft' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

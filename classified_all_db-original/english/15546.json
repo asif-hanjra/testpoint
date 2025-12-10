@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'invert':",
+      "options": {
+        "a": "maintain",
+        "b": "reverse",
+        "c": "preserve",
+        "d": "sustain"
+      },
+      "one_liner": "'Invert' means to turn inside out or upside down, similar to 'reverse'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

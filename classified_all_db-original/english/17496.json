@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tangible':",
+      "options": {
+        "a": "ethereal",
+        "b": "palpable",
+        "c": "intangible",
+        "d": "invisible"
+      },
+      "one_liner": "'Tangible' refers to something that is perceptible by touch, similar to 'palpable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

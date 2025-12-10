@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'steep':",
+      "options": {
+        "a": "sheer:moderate",
+        "b": "abrupt:gentle",
+        "c": "precipitous:shallow",
+        "d": "sharp:level"
+      },
+      "one_liner": "'Sheer' is a synonym of 'steep', while 'moderate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

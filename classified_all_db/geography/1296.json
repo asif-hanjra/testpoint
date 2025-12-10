@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the famous Adam's Peak, a site venerated by multiple religions, located?",
+      "options": {
+        "a": "India",
+        "b": "Nepal",
+        "c": "Sri Lanka",
+        "d": "Bangladesh"
+      },
+      "one_liner": "Adam's Peak, a mountain revered by Christians, Muslims, Buddhists, and Hindus, is situated in **Sri Lanka**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Mountains",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

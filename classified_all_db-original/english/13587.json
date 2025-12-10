@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'climb':",
+      "options": {
+        "a": "descend",
+        "b": "fall",
+        "c": "scale",
+        "d": "drop"
+      },
+      "one_liner": "'Climb' means to ascend or go up, similar to 'scale' or 'mount'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

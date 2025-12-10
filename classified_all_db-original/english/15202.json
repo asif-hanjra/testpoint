@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impede':",
+      "options": {
+        "a": "accelerate",
+        "b": "hamper",
+        "c": "facilitate",
+        "d": "assist"
+      },
+      "one_liner": "'Impede' means to hinder or obstruct, similar to 'hamper' or 'inhibit'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

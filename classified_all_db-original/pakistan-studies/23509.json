@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the Law and Education Minister in Quaid-e-Azam's Cabinet?",
+      "options": {
+        "a": "Jogandar Nath Mandal",
+        "b": "Liaquat Ali Khan",
+        "c": "Khawaja Nazimuddin",
+        "d": "None of these"
+      },
+      "one_liner": "Jogandar Nath Mandal was appointed as the Law and Education Minister in Quaid-e-Azam's Cabinet.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

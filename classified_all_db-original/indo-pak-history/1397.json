@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Battle of Plassey fought?",
+      "options": {
+        "a": "1761",
+        "b": "1757",
+        "c": "1857",
+        "d": "1799"
+      },
+      "one_liner": "The Battle of Plassey, a significant event in Indo-Pak history, was fought in the year **1757**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

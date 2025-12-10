@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'deduct':",
+      "options": {
+        "a": "add",
+        "b": "subtract",
+        "c": "diminish",
+        "d": "decrease"
+      },
+      "one_liner": "An antonym of 'deduct' is 'add', which means to join or combine numbers or amounts.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

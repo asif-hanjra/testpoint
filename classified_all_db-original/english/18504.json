@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pillage':",
+      "options": {
+        "a": "destroy",
+        "b": "loot",
+        "c": "preserve",
+        "d": "ravage"
+      },
+      "one_liner": "Antonyms of 'pillage' include 'preserve' and 'protect', both suggesting safeguarding rather than destroying.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

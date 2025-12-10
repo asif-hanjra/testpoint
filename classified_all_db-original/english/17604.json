@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'spurious':",
+      "options": {
+        "a": "authentic",
+        "b": "bogus",
+        "c": "genuine",
+        "d": "real"
+      },
+      "one_liner": "'Spurious' means false or counterfeit, similar to 'bogus' or 'fraudulent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The Eiffel Tower is a landmark of which country?",
+      "options": {
+        "a": "Italy",
+        "b": "France",
+        "c": "Germany",
+        "d": "Spain"
+      },
+      "one_liner": "The Eiffel Tower stands as an iconic symbol of **France**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

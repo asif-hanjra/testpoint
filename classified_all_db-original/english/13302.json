@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She went ___ hospital for kidney surgery.",
+      "options": {
+        "a": "in",
+        "b": "into",
+        "c": "to",
+        "d": "at"
+      },
+      "one_liner": "She went 'into' hospital for kidney surgery.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

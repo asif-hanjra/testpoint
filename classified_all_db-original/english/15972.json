@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dilettante':",
+      "options": {
+        "a": "novice:professional",
+        "b": "amateur:expert",
+        "c": "enthusiast:aficionado",
+        "d": "hobbyist:professional"
+      },
+      "one_liner": "'Amateur' is a synonym of 'dilettante', while 'expert' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

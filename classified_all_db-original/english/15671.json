@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Have you replied ___ Amjad's letter?",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "for",
+        "d": "with"
+      },
+      "one_liner": "Have you replied 'to' Amjad's letter?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

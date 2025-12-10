@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Water is flowing in steam line motion through a horizontal tube. The pressure at a point in the tube is P where the velocity of flow is v. at another point, where the pressure is P/2, the velocity of flow is [density of water=p]?",
+      "options": {
+        "a": "(V2 - p/p)",
+        "b": "(V2 + p/p)",
+        "c": "(V2 - 2p/p)",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

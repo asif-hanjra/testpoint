@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which process is used to convert liquid hydrocarbons into a mixture of gaseous hydrocarbons?",
+      "options": {
+        "a": "Distillation",
+        "b": "Cracking",
+        "c": "Polymerization",
+        "d": "Fermentation"
+      },
+      "one_liner": "The process called **cracking** is used to convert liquid hydrocarbons into a mixture of gaseous hydrocarbons.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

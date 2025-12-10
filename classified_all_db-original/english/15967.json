@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'slack':",
+      "options": {
+        "a": "lax:rigid",
+        "b": "loose:taut",
+        "c": "limp:tight",
+        "d": "relaxed:stiff"
+      },
+      "one_liner": "'Lax' is a synonym for 'slack', while 'rigid' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

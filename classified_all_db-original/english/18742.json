@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'echo':",
+      "options": {
+        "a": "resonate:initiate",
+        "b": "reverberate:originate",
+        "c": "reflect:source",
+        "d": "mimic:create"
+      },
+      "one_liner": "'Resonate' is a synonym of 'echo', while 'initiate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

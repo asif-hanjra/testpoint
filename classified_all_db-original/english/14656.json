@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reduce':",
+      "options": {
+        "a": "increase",
+        "b": "diminish",
+        "c": "expand",
+        "d": "enlarge"
+      },
+      "one_liner": "'Reduce' means to make smaller or less in amount, degree, or size—words like 'diminish' and 'decrease' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

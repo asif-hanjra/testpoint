@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'similar':",
+      "options": {
+        "a": "different",
+        "b": "alike",
+        "c": "opposite",
+        "d": "distinct"
+      },
+      "one_liner": "'Similar' means resembling without being identical, much like 'alike' or 'comparable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

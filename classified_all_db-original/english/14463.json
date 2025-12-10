@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'precious':",
+      "options": {
+        "a": "priceless",
+        "b": "valuable",
+        "c": "worthless",
+        "d": "expensive"
+      },
+      "one_liner": "An antonym of 'precious' is 'worthless', indicating something that has no value or importance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

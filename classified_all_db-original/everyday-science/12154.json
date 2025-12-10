@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the function of bile produced by the liver in the digestive process?",
+      "options": {
+        "a": "Helps digest proteins",
+        "b": "Stores nutrients",
+        "c": "Helps absorb fats into the bloodstream",
+        "d": "Produces insulin"
+      },
+      "one_liner": "Bile produced by the liver helps absorb fats into the bloodstream during digestion in the small intestine.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

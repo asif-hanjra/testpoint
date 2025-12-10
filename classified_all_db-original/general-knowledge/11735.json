@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the capital of Chile?",
+      "options": {
+        "a": "Santiago",
+        "b": "Lima",
+        "c": "Buenos Aires",
+        "d": "Quito"
+      },
+      "one_liner": "The capital of Chile is **Santiago**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

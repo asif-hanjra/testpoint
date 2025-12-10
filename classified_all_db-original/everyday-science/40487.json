@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a use of biomass?",
+      "options": {
+        "a": "Used as fuel",
+        "b": "Used as fertilizer only",
+        "c": "Used as a solvent",
+        "d": "None of these"
+      },
+      "one_liner": "Biomass can be **used as fuel** to produce energy in various forms.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

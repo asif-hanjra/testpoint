@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'paragon':",
+      "options": {
+        "a": "exemplar:failure",
+        "b": "ideal:perfection",
+        "c": "epitome:flaw",
+        "d": "model:epitome"
+      },
+      "one_liner": "'Exemplar' is a synonym for 'paragon', while 'failure' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

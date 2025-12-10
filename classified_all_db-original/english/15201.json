@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'absurd':",
+      "options": {
+        "a": "ridiculous:sensible",
+        "b": "logical:unreasonable",
+        "c": "silly:wise",
+        "d": "irrational:rational"
+      },
+      "one_liner": "'Ridiculous' is a synonym of 'absurd', while 'sensible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

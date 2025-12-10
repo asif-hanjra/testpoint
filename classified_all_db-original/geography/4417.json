@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What proportion of Pakistan's land was covered by the massive floods of 2010?",
+      "options": {
+        "a": "One-tenth",
+        "b": "One-fifth",
+        "c": "One-third",
+        "d": "Half"
+      },
+      "one_liner": "During the 2010 floods, approximately **one-fifth** of Pakistan's land was submerged under water.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Denudation (Weathering, Erosion, Mass Wasting)",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

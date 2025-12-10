@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Darul Uloom Deoband established?",
+      "options": {
+        "a": "1857",
+        "b": "1866",
+        "c": "1875",
+        "d": "1885"
+      },
+      "one_liner": "Darul Uloom Deoband was established in the year **1866**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

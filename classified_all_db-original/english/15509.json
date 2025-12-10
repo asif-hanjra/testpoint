@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abandon':",
+      "options": {
+        "a": "desert:maintain",
+        "b": "forsake:keep",
+        "c": "relinquish:hold",
+        "d": "leave:retain"
+      },
+      "one_liner": "'Desert' is a synonym for 'abandon', while 'maintain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

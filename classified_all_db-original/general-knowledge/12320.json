@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The term 'double fault' is associated with which sport?",
+      "options": {
+        "a": "Cricket",
+        "b": "Football",
+        "c": "Tennis",
+        "d": "Hockey"
+      },
+      "one_liner": "In Tennis, the term **double fault** refers to a situation where a player fails to serve correctly twice in succession.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

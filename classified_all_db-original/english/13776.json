@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quiver':",
+      "options": {
+        "a": "stabilize",
+        "b": "tremble",
+        "c": "steady",
+        "d": "calm"
+      },
+      "one_liner": "'Quiver' can mean to tremble or shake, so 'tremble' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

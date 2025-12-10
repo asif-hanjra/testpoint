@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'edifice':",
+      "options": {
+        "a": "building:hovel",
+        "b": "construction:cabin",
+        "c": "structure:mansion",
+        "d": "complex:palace"
+      },
+      "one_liner": "A 'building' is a synonym for 'edifice', whereas a 'hovel' is often considered its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

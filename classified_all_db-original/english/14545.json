@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "PRINCIPLE : DOCTRINE :: LIVING : ________?",
+      "options": {
+        "a": "Alive",
+        "b": "Breathing",
+        "c": "Dead",
+        "d": "Life"
+      },
+      "one_liner": "Principle is a synonym for doctrine, but living is the opposite of dead. This seems to be a mixed analogy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

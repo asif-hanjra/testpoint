@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of blood vessel carries oxygenated blood from the heart to all the organs?",
+      "options": {
+        "a": "Arteries",
+        "b": "Veins",
+        "c": "Capillaries",
+        "d": "None of these"
+      },
+      "one_liner": "Arteries are responsible for carrying **oxygenated blood from the heart to all the organs**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

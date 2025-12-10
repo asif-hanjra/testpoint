@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries border the South China Sea?",
+      "options": {
+        "a": "China, Taiwan, Philippines, Malaysia, Brunei, Indonesia, Singapore, Vietnam",
+        "b": "China, Taiwan, Japan, Malaysia, Brunei, Indonesia, Singapore, Vietnam",
+        "c": "China, Taiwan, Philippines, Malaysia, Brunei, Indonesia, Singapore, Thailand",
+        "d": "China, Taiwan, Philippines, Malaysia, Brunei, Indonesia, Singapore, Cambodia"
+      },
+      "one_liner": "Countries bordering the South China Sea include **China, Taiwan, Philippines, Malaysia, Brunei, Indonesia, Singapore, and Vietnam**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "TURNCOAT : TRAITOR :: ROGUE : ________?",
+      "options": {
+        "a": "Brave",
+        "b": "Shifty",
+        "c": "Loyal",
+        "d": "Honest"
+      },
+      "one_liner": "A turncoat is a synonym for traitor, and a rogue is a synonym for a shifty or dishonest person.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

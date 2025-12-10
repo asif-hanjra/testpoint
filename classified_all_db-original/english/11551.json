@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'infiltrate':",
+      "options": {
+        "a": "exit",
+        "b": "enter",
+        "c": "invade",
+        "d": "sneak"
+      },
+      "one_liner": "The antonym of 'infiltrate' is 'exit', which means to leave or go out of a place.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

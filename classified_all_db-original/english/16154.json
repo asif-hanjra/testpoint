@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wisdom':",
+      "options": {
+        "a": "knowledge",
+        "b": "insight",
+        "c": "folly",
+        "d": "understanding"
+      },
+      "one_liner": "The opposite of 'wisdom', which implies sound judgment and insight, is 'folly', denoting a lack of understanding or sense.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "TERRAIN : COTTONTAIL :: RABBIT : ________?",
+      "options": {
+        "a": "Burrow",
+        "b": "Oven",
+        "c": "Forest",
+        "d": "Hare"
+      },
+      "one_liner": "Terrain refers to land, and cottontail is a type of rabbit. The analogy is not clear.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

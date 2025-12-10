@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is commonly added to drinking water as an additive?",
+      "options": {
+        "a": "Chlorine",
+        "b": "Fluorine",
+        "c": "Iodine",
+        "d": "Bromine"
+      },
+      "one_liner": "Fluorine is widely used as an additive in drinking water to help improve dental health, making **fluorine** the correct answer.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

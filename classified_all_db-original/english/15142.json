@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'inquisitive':",
+      "options": {
+        "a": "curious",
+        "b": "interested",
+        "c": "uninterested",
+        "d": "inquiring"
+      },
+      "one_liner": "The opposite of 'inquisitive' is 'uninterested', which describes someone who does not show curiosity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prone':",
+      "options": {
+        "a": "inclined:immune",
+        "b": "liable:resistant",
+        "c": "averse:likely",
+        "d": "unwilling:susceptible"
+      },
+      "one_liner": "'Susceptible' is a synonym of 'prone', while 'resistant' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'asylum':",
+      "options": {
+        "a": "refuge",
+        "b": "shelter",
+        "c": "protection",
+        "d": "danger"
+      },
+      "one_liner": "Antonyms of 'asylum' include 'danger' and 'peril', both implying a lack of safety.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quotidian':",
+      "options": {
+        "a": "unusual",
+        "b": "routine",
+        "c": "infrequent",
+        "d": "rare"
+      },
+      "one_liner": "'Quotidian' means daily or everyday, similar to 'routine'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'breach':",
+      "options": {
+        "a": "union",
+        "b": "infraction",
+        "c": "agreement",
+        "d": "harmony"
+      },
+      "one_liner": "'Breach' refers to a break or violation, similar to 'infraction' or 'transgression'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

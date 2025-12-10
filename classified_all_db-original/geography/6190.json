@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of earthquake waves travel on the surface of the earth and cause most of the destruction?",
+      "options": {
+        "a": "Surface waves",
+        "b": "Body waves",
+        "c": "P waves",
+        "d": "S waves"
+      },
+      "one_liner": "The waves that travel on the surface of the earth and cause most destruction during earthquakes are called **Surface waves**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Earthquake Waves / Seismic Waves",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Earthquake Waves / Seismic Waves",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

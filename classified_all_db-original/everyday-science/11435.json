@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which three bones in the middle ear are collectively known as the ossicles?",
+      "options": {
+        "a": "Hammer, Anvil, and Stirrup",
+        "b": "Pinna, Cochlea, and Ear Drum",
+        "c": "Semicircular Canals, Cochlea, and Auditory Nerve",
+        "d": "None of these"
+      },
+      "one_liner": "The three bones in the middle ear collectively known as the ossicles are the **Hammer, Anvil, and Stirrup**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Ear",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

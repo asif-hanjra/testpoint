@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'crockery':",
+      "options": {
+        "a": "glassware",
+        "b": "silverware",
+        "c": "cutlery",
+        "d": "cookware"
+      },
+      "one_liner": "While 'crockery' pertains to dishes, an antonym could be 'cutlery', which refers to knives and other cutting implements.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

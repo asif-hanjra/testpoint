@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What property enables blotting paper to absorb liquids?",
+      "options": {
+        "a": "Osmosis",
+        "b": "Capillary action",
+        "c": "Diffusion",
+        "d": "Evaporation"
+      },
+      "one_liner": "Blotting paper absorbs liquids due to the phenomenon known as **capillary action**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'resist':",
+      "options": {
+        "a": "oppose:yield",
+        "b": "defy:confront",
+        "c": "withstand:resist",
+        "d": "reject:accept"
+      },
+      "one_liner": "'Oppose' is a synonym for 'resist', while 'yield' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

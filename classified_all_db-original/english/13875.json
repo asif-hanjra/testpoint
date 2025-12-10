@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fake':",
+      "options": {
+        "a": "authentic",
+        "b": "fraudulent",
+        "c": "phony",
+        "d": "spurious"
+      },
+      "one_liner": "The word 'fake' is the opposite of 'authentic', which means genuine or real.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

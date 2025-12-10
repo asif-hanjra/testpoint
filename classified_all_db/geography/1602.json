@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries border the Caspian Sea?",
+      "options": {
+        "a": "Kazakhstan, Russia, Azerbaijan, Iran, Turkmenistan",
+        "b": "Kazakhstan, Russia, Georgia, Iran, Turkmenistan",
+        "c": "Russia, Azerbaijan, Turkey, Iran, Turkmenistan",
+        "d": "Kazakhstan, Russia, Azerbaijan, Iran, Uzbekistan"
+      },
+      "one_liner": "The Caspian Sea is bordered by **Kazakhstan, Russia, Azerbaijan, Iran, and Turkmenistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pundit':",
+      "options": {
+        "a": "expert:layman",
+        "b": "scholar:novice",
+        "c": "analyst:amateur",
+        "d": "specialist:beginner"
+      },
+      "one_liner": "'Expert' is a synonym of 'pundit', while 'layman' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

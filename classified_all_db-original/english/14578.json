@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'delicacy':",
+      "options": {
+        "a": "elegance:vulgarity",
+        "b": "finesse:coarseness",
+        "c": "refinement:vulgarity",
+        "d": "delight:crudeness"
+      },
+      "one_liner": "'Refinement' is a synonym for 'delicacy', while 'vulgarity' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

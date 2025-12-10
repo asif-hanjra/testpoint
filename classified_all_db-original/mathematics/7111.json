@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the sum of the first 1000 positive integers?",
+      "options": {
+        "a": "500000",
+        "b": "500500",
+        "c": "1000000",
+        "d": "999000"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

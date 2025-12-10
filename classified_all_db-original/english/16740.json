@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impugn':",
+      "options": {
+        "a": "challenge:endorse",
+        "b": "dispute:agree",
+        "c": "contest:accept",
+        "d": "question:confirm"
+      },
+      "one_liner": "'Challenge' is a synonym of 'impugn', while 'endorse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

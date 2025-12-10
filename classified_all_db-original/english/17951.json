@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deteriorate':",
+      "options": {
+        "a": "degradation:amelioration",
+        "b": "enhancement:decline",
+        "c": "renewal:decay",
+        "d": "progress:regress"
+      },
+      "one_liner": "'Degradation' is a synonym of 'deteriorate', while 'amelioration' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

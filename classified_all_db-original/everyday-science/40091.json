@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Metallic salts are classified as which of the following in terms of electrical conductivity?",
+      "options": {
+        "a": "Conductors",
+        "b": "Insulators",
+        "c": "Semiconductors",
+        "d": "None of these"
+      },
+      "one_liner": "**Metallic salts** in solution are good conductors of electricity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

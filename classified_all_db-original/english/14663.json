@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'descry':",
+      "options": {
+        "a": "spot:miss",
+        "b": "find:search",
+        "c": "detect:discover",
+        "d": "notice:ignore"
+      },
+      "one_liner": "'Spot' is a synonym for 'descry', while 'miss' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

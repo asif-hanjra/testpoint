@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Cape of Good Hope located?",
+      "options": {
+        "a": "South Africa",
+        "b": "Australia",
+        "c": "India",
+        "d": "Brazil"
+      },
+      "one_liner": "The Cape of Good Hope is located in **South Africa**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Peninsulas",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is most commonly found in all perfumes?",
+      "options": {
+        "a": "Water",
+        "b": "Ethyl Alcohol",
+        "c": "Glycerin",
+        "d": "None of these"
+      },
+      "one_liner": "The most common element present in all perfumes is **Ethyl Alcohol**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

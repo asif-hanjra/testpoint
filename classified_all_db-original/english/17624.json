@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mourn':",
+      "options": {
+        "a": "lament",
+        "b": "grieve",
+        "c": "celebrate",
+        "d": "sorrow"
+      },
+      "one_liner": "The opposite of 'mourn', which means to express sorrow, would be to 'celebrate' or feel joy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

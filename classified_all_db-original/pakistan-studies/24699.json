@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who advises the President of Pakistan to issue an Ordinance when the Parliament is not in session?",
+      "options": {
+        "a": "Chief Justice",
+        "b": "Prime Minister",
+        "c": "Speaker of National Assembly",
+        "d": "Chairman Senate"
+      },
+      "one_liner": "The President of Pakistan issues an Ordinance on the advice of the **Prime Minister** when the Parliament is not in session.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

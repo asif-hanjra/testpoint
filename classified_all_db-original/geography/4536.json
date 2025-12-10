@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the names of the two historical forts located on opposite sides of the Neelum River in Muzaffarabad?",
+      "options": {
+        "a": "Red Fort and Black Fort",
+        "b": "Lahore Fort and Rohtas Fort",
+        "c": "Baltit Fort and Altit Fort",
+        "d": "None of these"
+      },
+      "one_liner": "The two historical forts situated on opposite sides of the Neelum River in Muzaffarabad are the **Red Fort** and the **Black Fort**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

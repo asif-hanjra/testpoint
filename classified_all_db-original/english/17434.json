@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'crave':",
+      "options": {
+        "a": "dislike",
+        "b": "yearn",
+        "c": "detest",
+        "d": "ignore"
+      },
+      "one_liner": "'Crave' means to have a strong desire for something, similar to 'yearn' or 'long for'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

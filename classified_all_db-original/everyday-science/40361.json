@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Through which organ are drugs primarily excreted from the body?",
+      "options": {
+        "a": "Liver",
+        "b": "Lungs",
+        "c": "Kidneys",
+        "d": "Skin"
+      },
+      "one_liner": "Drugs are primarily excreted from the body through the **kidneys**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Kidney",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Kidney",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dwindle':",
+      "options": {
+        "a": "expand",
+        "b": "increase",
+        "c": "diminish",
+        "d": "enlarge"
+      },
+      "one_liner": "'Dwindle' means to diminish or decrease over time, similar to 'decline' or 'diminish'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'alas' in 'Alas! The hero is dead'?",
+      "options": {
+        "a": "Verb",
+        "b": "Interjection",
+        "c": "Adjective",
+        "d": "Adverb"
+      },
+      "one_liner": "'Alas' is an interjection expressing sorrow or regret.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

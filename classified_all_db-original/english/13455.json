@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'torment':",
+      "options": {
+        "a": "agony",
+        "b": "distress",
+        "c": "solace",
+        "d": "anguish"
+      },
+      "one_liner": "While 'torment' implies suffering, 'solace' suggests comfort and relief.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

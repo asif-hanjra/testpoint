@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'glib':",
+      "options": {
+        "a": "sincere",
+        "b": "eloquent",
+        "c": "fluent",
+        "d": "suave"
+      },
+      "one_liner": "An antonym of 'glib' is 'sincere', which implies honesty without the superficial charm.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'unbiased':",
+      "options": {
+        "a": "partial",
+        "b": "objective",
+        "c": "prejudiced",
+        "d": "biased"
+      },
+      "one_liner": "'Unbiased' means impartial or fair, similar to 'objective'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

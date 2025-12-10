@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'acquiesce':",
+      "options": {
+        "a": "submit:object",
+        "b": "agree:consent",
+        "c": "comply:concur",
+        "d": "accept:approve"
+      },
+      "one_liner": "'Submit' is a synonym of 'acquiesce', while 'object' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

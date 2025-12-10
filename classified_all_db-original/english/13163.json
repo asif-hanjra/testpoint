@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fill':",
+      "options": {
+        "a": "saturate:vacate",
+        "b": "replenish:overflow",
+        "c": "top up:fill",
+        "d": "pack:unpack"
+      },
+      "one_liner": "'Saturate' is a synonym of 'fill', while 'vacate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

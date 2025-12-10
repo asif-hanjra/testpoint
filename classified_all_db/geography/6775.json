@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the largest port of Germany?",
+      "options": {
+        "a": "Port of Bremen",
+        "b": "Port of Hamburg",
+        "c": "Port of Kiel",
+        "d": "Port of Rostock"
+      },
+      "one_liner": "The largest port of Germany is the **Port of Hamburg**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

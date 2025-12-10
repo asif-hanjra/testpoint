@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'leaven':",
+      "options": {
+        "a": "enliven:deaden",
+        "b": "expand:contract",
+        "c": "ferment:inflate",
+        "d": "inflate:deflate"
+      },
+      "one_liner": "'Enliven' is a synonym of 'leaven', while 'deaden' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

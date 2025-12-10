@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'varnish':",
+      "options": {
+        "a": "gloss",
+        "b": "shine",
+        "c": "dull",
+        "d": "polish"
+      },
+      "one_liner": "An antonym for 'varnish' could be 'dull', as varnish is meant to give a shiny and smooth appearance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

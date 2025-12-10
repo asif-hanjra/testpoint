@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which region of Punjab is the Islamabad Capital Territory located?",
+      "options": {
+        "a": "Southern Punjab",
+        "b": "Central Punjab",
+        "c": "Northern Punjab",
+        "d": "Western Punjab"
+      },
+      "one_liner": "The Islamabad Capital Territory is found in the **northern Punjab region** of Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exodus':",
+      "options": {
+        "a": "arrival",
+        "b": "emigration",
+        "c": "entrance",
+        "d": "meeting"
+      },
+      "one_liner": "'Exodus' refers to a mass departure of people, similar to an 'emigration' or 'departure'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

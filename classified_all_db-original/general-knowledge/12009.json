@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the 43rd president of the United States from 2001 to 2009?",
+      "options": {
+        "a": "Bill Clinton",
+        "b": "Barack Obama",
+        "c": "George Walker Bush",
+        "d": "Ronald Reagan"
+      },
+      "one_liner": "The 43rd president of the United States, serving from 2001 to 2009, was **George Walker Bush**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many people competed to write the national anthem of Pakistan?",
+      "options": {
+        "a": "100",
+        "b": "500",
+        "c": "723",
+        "d": "1000"
+      },
+      "one_liner": "A total of **723 people** competed to write the national anthem of Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

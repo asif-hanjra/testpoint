@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'peculiar':",
+      "options": {
+        "a": "odd:typical",
+        "b": "common:uncommon",
+        "c": "strange:familiar",
+        "d": "unique:standard"
+      },
+      "one_liner": "'Odd' is a synonym of 'peculiar', while 'typical' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

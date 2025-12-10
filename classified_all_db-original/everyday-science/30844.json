@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The drag force on a small spherical body moving through a viscous fluid is given by?",
+      "options": {
+        "a": "F = 6πηrv",
+        "b": "F = 3πηrv²",
+        "c": "F = 6πηr²v",
+        "d": "F = 3πηr²v²"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

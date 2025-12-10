@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reveal':",
+      "options": {
+        "a": "uncover:hide",
+        "b": "conceal:disclose",
+        "c": "exhibit:mask",
+        "d": "display:conceal"
+      },
+      "one_liner": "'Uncover' is a synonym of 'reveal', while 'hide' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

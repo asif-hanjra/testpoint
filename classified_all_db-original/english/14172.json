@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'huge':",
+      "options": {
+        "a": "enormous",
+        "b": "massive",
+        "c": "tiny",
+        "d": "gigantic"
+      },
+      "one_liner": "The word 'huge' is the opposite of 'tiny', which means very small.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'contented':",
+      "options": {
+        "a": "miserable",
+        "b": "satisfied",
+        "c": "upset",
+        "d": "discontented"
+      },
+      "one_liner": "'Contented' means feeling or showing satisfaction with one's possessions, status, or situation. Synonyms include 'satisfied' and 'pleased'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

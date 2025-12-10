@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'proliferate':",
+      "options": {
+        "a": "expand:contract",
+        "b": "increase:expand",
+        "c": "multiply:escalate",
+        "d": "grow:grow"
+      },
+      "one_liner": "The word 'proliferate' has 'expand' as a synonym and 'contract' as an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

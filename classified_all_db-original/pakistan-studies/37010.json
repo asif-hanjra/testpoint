@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which legislative assembly did I. I. Chundrigar win elections in 1937?",
+      "options": {
+        "a": "Punjab Legislative Assembly",
+        "b": "Sindh Legislative Assembly",
+        "c": "Bombay Legislative Assembly",
+        "d": "Bengal Legislative Assembly"
+      },
+      "one_liner": "In 1937, **I. I. Chundrigar won elections as a member of the Bombay Legislative Assembly**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'elusive':",
+      "options": {
+        "a": "accessible",
+        "b": "hidden",
+        "c": "mysterious",
+        "d": "ambiguous"
+      },
+      "one_liner": "An antonym of 'elusive' is 'accessible', which means easy to approach or obtain.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

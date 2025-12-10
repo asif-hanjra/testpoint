@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does psychosis cause a person to lose?",
+      "options": {
+        "a": "Sense of smell",
+        "b": "Touch with reality",
+        "c": "Sense of taste",
+        "d": "None of these"
+      },
+      "one_liner": "Psychosis causes a person to lose touch with reality, which may lead to seeing, hearing, or believing things that are not real.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

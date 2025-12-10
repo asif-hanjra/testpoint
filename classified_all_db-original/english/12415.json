@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The cake was shared ___ Ali & Farhan.",
+      "options": {
+        "a": "among",
+        "b": "between",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "The cake was shared 'between' Ali & Farhan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

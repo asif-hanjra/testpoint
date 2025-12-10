@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'foppish':",
+      "options": {
+        "a": "stylish",
+        "b": "chic",
+        "c": "unfashionable",
+        "d": "trendy"
+      },
+      "one_liner": "The antonym of 'foppish' is 'unfashionable', referring to someone not concerned with fashion.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'marvelous':",
+      "options": {
+        "a": "mediocre",
+        "b": "fantastic",
+        "c": "incredible",
+        "d": "excellent"
+      },
+      "one_liner": "An antonym of 'marvelous' is 'mediocre', which suggests something is only of moderate quality.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

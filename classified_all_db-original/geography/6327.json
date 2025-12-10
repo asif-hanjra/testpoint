@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which motorway is also known as the Swat Motorway and is operational now?",
+      "options": {
+        "a": "M15",
+        "b": "M16",
+        "c": "M17",
+        "d": "M18"
+      },
+      "one_liner": "The M16 motorway, also called the Swat Motorway, is **operational now**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

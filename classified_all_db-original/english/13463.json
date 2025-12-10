@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'amiable':",
+      "options": {
+        "a": "hostile",
+        "b": "affable",
+        "c": "unpleasant",
+        "d": "rude"
+      },
+      "one_liner": "'Amiable' refers to someone who is friendly and pleasant, much like someone who is 'affable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

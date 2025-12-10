@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the official name of the Japanese parliament?",
+      "options": {
+        "a": "Majlis-e-Shoora",
+        "b": "National Diet",
+        "c": "Riksdagen",
+        "d": "House of Commons"
+      },
+      "one_liner": "Japan's parliament is officially called the **National Diet**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

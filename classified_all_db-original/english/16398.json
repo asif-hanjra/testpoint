@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "They learned to cook ___ their mothers.",
+      "options": {
+        "a": "at",
+        "b": "by",
+        "c": "with",
+        "d": "from"
+      },
+      "one_liner": "They learned to cook 'from' their mothers.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

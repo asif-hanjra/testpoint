@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Do you understand what I am ?",
+      "options": {
+        "a": "What I mean is understand by you",
+        "b": "What I mean is that understand by you ?",
+        "c": "Is what I mean is understood by you",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

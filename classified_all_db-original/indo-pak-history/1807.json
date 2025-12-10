@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose tenure did the Moplah Revolt of 1921 occur in India?",
+      "options": {
+        "a": "Lord Curzon",
+        "b": "Lord Irwin",
+        "c": "Lord Reading",
+        "d": "Lord Linlithgow"
+      },
+      "one_liner": "The Moplah Revolt of 1921 occurred during the tenure of **Lord Reading** as Viceroy of India.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Malabar Riot",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

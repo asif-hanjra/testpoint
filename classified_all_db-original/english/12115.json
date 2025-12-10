@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'incursion':",
+      "options": {
+        "a": "assault",
+        "b": "invasion",
+        "c": "withdrawal",
+        "d": "attack"
+      },
+      "one_liner": "An antonym for 'incursion', which is an aggressive entry, would be 'withdrawal', indicating a movement back or away.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

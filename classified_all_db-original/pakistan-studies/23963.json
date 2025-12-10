@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which languages were recognized as national languages in the 1962 Constitution?",
+      "options": {
+        "a": "Only Urdu",
+        "b": "Only Bengali",
+        "c": "Urdu and Bengali",
+        "d": "None of these"
+      },
+      "one_liner": "The 1962 Constitution of Pakistan recognized both **Urdu and Bengali** as national languages.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constitution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

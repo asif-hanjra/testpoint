@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Yesterday, I _______ my old friend at the supermarket.",
+      "options": {
+        "a": "ran over",
+        "b": "ran into",
+        "c": "ran out",
+        "d": "ran off"
+      },
+      "one_liner": "Yesterday, I 'ran into' my old friend at the supermarket.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

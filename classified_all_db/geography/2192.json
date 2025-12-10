@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two ports were purchased by Pakistan from Oman in 1758?",
+      "options": {
+        "a": "Karachi and Gwadar",
+        "b": "Gwadar and Jiwani",
+        "c": "Jiwani and Pasni",
+        "d": "None of these"
+      },
+      "one_liner": "The ports of **Gwadar and Jiwani** were purchased by Pakistan from Oman in 1758.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

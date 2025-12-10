@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cry':",
+      "options": {
+        "a": "shriek:giggle",
+        "b": "sob:giggle",
+        "c": "wail:chuckle",
+        "d": "howl:smirk"
+      },
+      "one_liner": "'Sob' is a synonym of 'cry', while 'giggle' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

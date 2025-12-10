@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reverie':",
+      "options": {
+        "a": "clarity",
+        "b": "daydream",
+        "c": "turmoil",
+        "d": "reality"
+      },
+      "one_liner": "'Reverie' refers to a state of being pleasantly lost in one's thoughts, akin to a 'daydream'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

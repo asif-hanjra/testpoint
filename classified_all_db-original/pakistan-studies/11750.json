@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Faiz Ahmad Faiz born?",
+      "options": {
+        "a": "Lahore",
+        "b": "Karachi",
+        "c": "Sialkot",
+        "d": "Multan"
+      },
+      "one_liner": "Faiz Ahmad Faiz, the renowned Pakistani poet, was born in **Sialkot**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1911-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

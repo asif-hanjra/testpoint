@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ogle':",
+      "options": {
+        "a": "gaze:avert",
+        "b": "leer:observe",
+        "c": "stare:see",
+        "d": "watch:look"
+      },
+      "one_liner": "'Gaze' can be a synonym for 'ogle', while 'avert' is an antonym, meaning to turn away.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is associated with Khwaja Syed Muhammad Qutuddin Bakhtiar Kaki's activities as a Sufi saint?",
+      "options": {
+        "a": "Lahore",
+        "b": "Ajmer",
+        "c": "Delhi",
+        "d": "Multan"
+      },
+      "one_liner": "Khwaja Syed Muhammad Qutuddin Bakhtiar Kaki was associated with **Delhi** as a Sufi saint.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghurids Dynasty (1186-1215)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

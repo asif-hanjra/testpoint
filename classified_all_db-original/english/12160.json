@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He jumped off the train ___ it was moving.",
+      "options": {
+        "a": "during",
+        "b": "when",
+        "c": "while",
+        "d": "since"
+      },
+      "one_liner": "He jumped off the train 'when' it was moving.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

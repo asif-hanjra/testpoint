@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'complacent':",
+      "options": {
+        "a": "self-contented:restless",
+        "b": "satisfied:contented",
+        "c": "smug:pleased",
+        "d": "happy:joyful"
+      },
+      "one_liner": "'Self-contented' is a synonym of 'complacent', while 'restless' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

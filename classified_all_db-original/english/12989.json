@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Don't bite more ___ you can chew.",
+      "options": {
+        "a": "of",
+        "b": "than",
+        "c": "for",
+        "d": "with"
+      },
+      "one_liner": "Don't bite more 'than' you can chew.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

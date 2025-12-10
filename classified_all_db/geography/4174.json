@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Banjosa Lake located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Khyber Pakhtunkhwa",
+        "c": "Azad Jammu and Kashmir",
+        "d": "Sindh"
+      },
+      "one_liner": "Banjosa Lake is situated in **Azad Jammu and Kashmir (AJK)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

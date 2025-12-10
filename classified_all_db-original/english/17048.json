@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He jumped ___ the river to save the drowning child.",
+      "options": {
+        "a": "onto",
+        "b": "into",
+        "c": "in",
+        "d": "upon"
+      },
+      "one_liner": "He jumped 'into' the river to save the drowning child.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

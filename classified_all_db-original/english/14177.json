@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prohibit':",
+      "options": {
+        "a": "allow",
+        "b": "permit",
+        "c": "encourage",
+        "d": "ban"
+      },
+      "one_liner": "'Prohibit' means to formally forbid something; 'ban' is a synonym that conveys the same meaning.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

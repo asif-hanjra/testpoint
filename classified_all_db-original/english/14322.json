@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'enemy':",
+      "options": {
+        "a": "opponent:partner",
+        "b": "adversary:associate",
+        "c": "rival:companion",
+        "d": "foe:friend"
+      },
+      "one_liner": "'Opponent' is a synonym of 'enemy', while 'partner' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

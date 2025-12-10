@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fervent':",
+      "options": {
+        "a": "passionate:dispassionate",
+        "b": "indifferent:enthusiastic",
+        "c": "zealous:apathetic",
+        "d": "ardent:uninterested"
+      },
+      "one_liner": "'Passionate' is a synonym of 'fervent', while 'dispassionate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

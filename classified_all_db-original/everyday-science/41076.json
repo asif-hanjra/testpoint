@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What separates the chambers of the heart?",
+      "options": {
+        "a": "Bones",
+        "b": "Valves",
+        "c": "Muscles",
+        "d": "Ligaments"
+      },
+      "one_liner": "The chambers of the heart are separated by **valves**, which control the direction of blood flow.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'benign':",
+      "options": {
+        "a": "malignant",
+        "b": "harmless",
+        "c": "hostile",
+        "d": "dangerous"
+      },
+      "one_liner": "'Benign' means gentle or kindly, similar to 'harmless' or 'non-threatening'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

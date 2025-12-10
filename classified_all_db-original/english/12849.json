@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'limerick':",
+      "options": {
+        "a": "nonsense verse:epic",
+        "b": "haiku:sonnet",
+        "c": "ditty:ballad",
+        "d": "jingle:ode"
+      },
+      "one_liner": "'Nonsense verse' is a synonym for 'limerick', while 'epic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

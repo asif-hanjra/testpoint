@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Hindu Kush mountain range mainly located?",
+      "options": {
+        "a": "Northern Pakistan and Afghanistan",
+        "b": "Northern Pakistan and India",
+        "c": "Northern Pakistan and China",
+        "d": "Northern Pakistan and Nepal"
+      },
+      "one_liner": "The Hindu Kush mountain range is mainly located in **northern Pakistan and Afghanistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

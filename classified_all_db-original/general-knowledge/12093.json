@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which years did the Great Recession begin and end?",
+      "options": {
+        "a": "2005-2007",
+        "b": "2007-2009",
+        "c": "2008-2010",
+        "d": "2006-2008"
+      },
+      "one_liner": "The Great Recession began in **2007** and ended in **2009**, marking a significant period of global economic decline.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Great Recession",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Great Depression (1930)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Great Recession",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

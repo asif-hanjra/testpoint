@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'breach':",
+      "options": {
+        "a": "violation:accord",
+        "b": "gap:union",
+        "c": "infraction:agreement",
+        "d": "rift:harmony"
+      },
+      "one_liner": "'Violation' is a synonym for 'breach', while 'accord' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The doctor strongly _______ eating too much sugar.",
+      "options": {
+        "a": "looks after",
+        "b": "advises against",
+        "c": "puts up with",
+        "d": "runs into"
+      },
+      "one_liner": "The doctor strongly 'advises against' eating too much sugar.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

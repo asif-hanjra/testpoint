@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'perplex':",
+      "options": {
+        "a": "baffle",
+        "b": "mystify",
+        "c": "clarify",
+        "d": "confound"
+      },
+      "one_liner": "Antonyms of 'perplex' include 'clarify' and 'enlighten', both implying making something clear or understandable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

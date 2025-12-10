@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the head office of the Asian Infrastructure Investment Bank located?",
+      "options": {
+        "a": "Tokyo",
+        "b": "Beijing",
+        "c": "Singapore",
+        "d": "New Delhi"
+      },
+      "one_liner": "The Asian Infrastructure Investment Bank has its head office in **Beijing**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

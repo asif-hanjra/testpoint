@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the phrase 'to touch stone':",
+      "options": {
+        "a": "to ignore",
+        "b": "to put to the test",
+        "c": "to discard",
+        "d": "to embrace"
+      },
+      "one_liner": "The phrase 'to touch stone' means to test or check something, similar to 'to put to the test'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

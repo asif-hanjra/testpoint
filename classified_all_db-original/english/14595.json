@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'flamboyant':",
+      "options": {
+        "a": "reserved",
+        "b": "ostentatious",
+        "c": "subdued",
+        "d": "restrained"
+      },
+      "one_liner": "'Flamboyant' describes something that is showy and vibrant, much like 'ostentatious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gaudy':",
+      "options": {
+        "a": "tawdry:elegant",
+        "b": "flashy:subdued",
+        "c": "showy:understated",
+        "d": "vivid:gaudy"
+      },
+      "one_liner": "'Tawdry' is a synonym of 'gaudy', while 'elegant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

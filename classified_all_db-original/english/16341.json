@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'blooming':",
+      "options": {
+        "a": "thriving",
+        "b": "flourishing",
+        "c": "withering",
+        "d": "growing"
+      },
+      "one_liner": "The antonym of 'blooming' is 'withering', which means to decline in health and vigor.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

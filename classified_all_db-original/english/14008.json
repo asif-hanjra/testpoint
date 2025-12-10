@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'euphoria':",
+      "options": {
+        "a": "exhilaration:depression",
+        "b": "joy:sorrow",
+        "c": "happiness:misery",
+        "d": "bliss:despair"
+      },
+      "one_liner": "'Exhilaration' is a synonym of 'euphoria', while 'depression' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

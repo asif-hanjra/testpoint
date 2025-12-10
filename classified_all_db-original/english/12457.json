@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'holster':",
+      "options": {
+        "a": "exposer",
+        "b": "cover",
+        "c": "enclosure",
+        "d": "protector"
+      },
+      "one_liner": "While a 'holster' is meant to hold something securely, an 'exposer' would be designed to reveal or display.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

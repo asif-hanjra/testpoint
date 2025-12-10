@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'accumulate':",
+      "options": {
+        "a": "scatter",
+        "b": "collect",
+        "c": "dissipate",
+        "d": "separate"
+      },
+      "one_liner": "'Accumulate' means to gather or amass, similar to how 'collect' implies bringing things together.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

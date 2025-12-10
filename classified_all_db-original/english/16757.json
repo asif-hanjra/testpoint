@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "We visited them ___ yesterday.",
+      "options": {
+        "a": "at",
+        "b": "",
+        "c": "on",
+        "d": "in"
+      },
+      "one_liner": "We visited them yesterday (no preposition needed before 'yesterday').",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'enchant':",
+      "options": {
+        "a": "captivate:disenchant",
+        "b": "charm:attract",
+        "c": "bewitch:enrapture",
+        "d": "fascinate:charm"
+      },
+      "one_liner": "'Mesmerize' is a synonym of 'enchant', while 'disenchant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

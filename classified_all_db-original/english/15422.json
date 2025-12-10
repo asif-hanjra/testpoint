@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'aqueous':",
+      "options": {
+        "a": "moist:humid",
+        "b": "watery:arid",
+        "c": "liquid:solid",
+        "d": "damp:dry"
+      },
+      "one_liner": "'Watery' is a synonym of 'aqueous', while 'arid' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

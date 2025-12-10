@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adhere':",
+      "options": {
+        "a": "separate",
+        "b": "cling",
+        "c": "detach",
+        "d": "release"
+      },
+      "one_liner": "'Adhere' means to stick firmly to a surface or an idea, similar to 'cling' or 'bond'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

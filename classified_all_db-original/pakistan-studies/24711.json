@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which militant group was responsible for the APS Peshawar attack?",
+      "options": {
+        "a": "Al-Qaeda",
+        "b": "Tehrik-i-Taliban Pakistan",
+        "c": "Lashkar-e-Taiba",
+        "d": "None of these"
+      },
+      "one_liner": "The APS Peshawar attack was carried out by militants affiliated with the **Tehrik-i-Taliban Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

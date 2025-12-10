@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'maverick':",
+      "options": {
+        "a": "rebel",
+        "b": "dissenter",
+        "c": "conformist",
+        "d": "individualist"
+      },
+      "one_liner": "An antonym of 'maverick' is 'conformist', which describes someone who follows established standards.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

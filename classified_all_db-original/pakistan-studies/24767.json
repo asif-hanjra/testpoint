@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party was Benazir Bhutto affiliated with during her tenure as Prime Minister?",
+      "options": {
+        "a": "Pakistan Muslim League",
+        "b": "Pakistan People's Party",
+        "c": "Awami National Party",
+        "d": "None of these"
+      },
+      "one_liner": "Benazir Bhutto was affiliated with the **Pakistan People's Party** during her time as Prime Minister.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

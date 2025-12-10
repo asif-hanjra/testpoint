@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reliable':",
+      "options": {
+        "a": "unpredictable",
+        "b": "dependable",
+        "c": "inconsistent",
+        "d": "uncertain"
+      },
+      "one_liner": "'Reliable' means dependable or trustworthy, so 'dependable' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

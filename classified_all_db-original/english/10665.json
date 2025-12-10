@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "The enemy have defeated our army.",
+      "options": {
+        "a": "Our army has been defeated by the enemy.",
+        "b": "Our army have been defeated by the enemy.",
+        "c": "Our army had been defeated by the enemy.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2023
+}

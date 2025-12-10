@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Something that can be heard?",
+      "options": {
+        "a": "Auditory",
+        "b": "Audio Visual",
+        "c": "Audible",
+        "d": "Audition"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

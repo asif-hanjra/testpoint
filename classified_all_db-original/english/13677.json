@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'considerate':",
+      "options": {
+        "a": "careless",
+        "b": "thoughtful",
+        "c": "negligent",
+        "d": "indifferent"
+      },
+      "one_liner": "'Considerate' means thoughtful or attentive, similar to 'thoughtful' and 'kind'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

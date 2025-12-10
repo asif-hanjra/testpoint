@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'florid':",
+      "options": {
+        "a": "baroque:plain",
+        "b": "gaudy:simple",
+        "c": "ornate:colorful",
+        "d": "elaborate:sparse"
+      },
+      "one_liner": "'Baroque' is a synonym of 'florid', while 'plain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

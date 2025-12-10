@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She has posted the letter ___ the mailbox.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "She has posted the letter 'in' the mailbox.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

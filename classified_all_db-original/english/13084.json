@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'depart':",
+      "options": {
+        "a": "exit",
+        "b": "arrive",
+        "c": "embark",
+        "d": "leave"
+      },
+      "one_liner": "The antonym of 'depart' is 'arrive', indicating the opposite action of leaving.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

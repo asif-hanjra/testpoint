@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He told ___ he could do it easily.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "He told 'to' me that he could do it easily.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

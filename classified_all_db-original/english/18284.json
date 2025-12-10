@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ignorant':",
+      "options": {
+        "a": "educated",
+        "b": "uninformed",
+        "c": "aware",
+        "d": "knowledgeable"
+      },
+      "one_liner": "'Ignorant' refers to a lack of knowledge or awareness, much like the word 'uninformed'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

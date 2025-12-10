@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which leader from Baluchistan seconded the Lahore Resolution?",
+      "options": {
+        "a": "Qazi Muhammad Essa",
+        "b": "Sir Abdullah Haroon",
+        "c": "Zafar Ali Khan",
+        "d": "Sardar Aurangzeb Khan"
+      },
+      "one_liner": "Qazi Muhammad Essa from Baluchistan was among those who seconded the **Lahore Resolution**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

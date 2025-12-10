@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Sheikh Abdul Qadir al-Jilani born?",
+      "options": {
+        "a": "Baghdad, Iraq",
+        "b": "Amol, Iran",
+        "c": "Delhi, India",
+        "d": "Cairo, Egypt"
+      },
+      "one_liner": "Sheikh Abdul Qadir al-Jilani was born in **Amol, Iran**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'arrive':",
+      "options": {
+        "a": "depart",
+        "b": "come",
+        "c": "enter",
+        "d": "approach"
+      },
+      "one_liner": "The opposite of 'arrive' is 'depart', which means to leave a place.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

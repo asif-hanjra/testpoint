@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: Please give me your pen and take your seat.",
+      "options": {
+        "a": "Let your pen given me and take your seat.",
+        "b": "You are requested to give me your pen and take your seat.",
+        "c": "You are warned to give me your pen and take your seat.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2023
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'melancholy':",
+      "options": {
+        "a": "joyful",
+        "b": "sorrowful",
+        "c": "cheerful",
+        "d": "happy"
+      },
+      "one_liner": "'Melancholy' means a deep, pensive, and long-lasting sadness, similar to 'sorrowful'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

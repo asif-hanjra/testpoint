@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A book contains 40 pages, on each page, there are 20 lines and in each line there are 10 words. How many words does that book contain?",
+      "options": {
+        "a": "8000",
+        "b": "2000",
+        "c": "4000",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reinstate':",
+      "options": {
+        "a": "abolish",
+        "b": "reestablish",
+        "c": "discontinue",
+        "d": "suspend"
+      },
+      "one_liner": "'Reinstate' means to restore to a previous position or condition, similar to 'reestablish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'concrete':",
+      "options": {
+        "a": "actual:hypothetical",
+        "b": "real:unreal",
+        "c": "tangible:intangible",
+        "d": "specific:vague"
+      },
+      "one_liner": "'Actual' is a synonym of 'concrete', while 'hypothetical' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'odious':",
+      "options": {
+        "a": "disgusting",
+        "b": "revolting",
+        "c": "appealing",
+        "d": "foul"
+      },
+      "one_liner": "The word 'odious' has antonyms like 'appealing', which means attractive or pleasing.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

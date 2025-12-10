@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'substantial':",
+      "options": {
+        "a": "major",
+        "b": "minor",
+        "c": "important",
+        "d": "massive"
+      },
+      "one_liner": "The opposite of 'substantial', which implies a large amount, would be 'insubstantial' or 'minor'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

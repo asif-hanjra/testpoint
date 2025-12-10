@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the President of the Baluchistan Muslim League?",
+      "options": {
+        "a": "Qazi Isa",
+        "b": "Ghulam Muhammad",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The President of the Baluchistan Muslim League was **Qazi Isa**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

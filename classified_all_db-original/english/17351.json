@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gossamer':",
+      "options": {
+        "a": "sturdy",
+        "b": "transparent",
+        "c": "light",
+        "d": "thin"
+      },
+      "one_liner": "An antonym of 'gossamer' would be 'sturdy', which suggests something strong and durable.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

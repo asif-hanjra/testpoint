@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which province is the Hingol River located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Khyber Pakhtunkhwa",
+        "d": "Balouchistan"
+      },
+      "one_liner": "The Hingol River is found in the province of **Balouchistan**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'benign':",
+      "options": {
+        "a": "malignant",
+        "b": "gentle",
+        "c": "friendly",
+        "d": "kind"
+      },
+      "one_liner": "The antonym of 'benign' is 'malignant', which implies something harmful or malevolent.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

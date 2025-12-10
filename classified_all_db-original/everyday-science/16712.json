@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is the correct equation for calculating the mass transfer rate in a gas-liquid system?",
+      "options": {
+        "a": "N = kA(Ca - Cb)",
+        "b": "N = kA(Cb - Ca)",
+        "c": "N = kA(Ca + Cb)",
+        "d": "N = kA(Ca * Cb)"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

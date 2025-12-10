@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'qualified':",
+      "options": {
+        "a": "adept:incompetent",
+        "b": "capable:unskilled",
+        "c": "skilled:inept",
+        "d": "certified:experienced"
+      },
+      "one_liner": "'Adept' is a synonym for 'qualified', while 'incompetent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "___ he works hard, he will pass.",
+      "options": {
+        "a": "Unless",
+        "b": "If",
+        "c": "Although",
+        "d": "Since"
+      },
+      "one_liner": "He will pass 'if' he works hard.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

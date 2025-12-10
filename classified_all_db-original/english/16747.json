@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'buy':",
+      "options": {
+        "a": "procure:divest",
+        "b": "acquire:retain",
+        "c": "purchase:own",
+        "d": "obtain:keep"
+      },
+      "one_liner": "'Procure' is a synonym for 'buy', while 'divest' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

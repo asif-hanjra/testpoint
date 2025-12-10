@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exemplify':",
+      "options": {
+        "a": "demonstrate:misrepresent",
+        "b": "illustrate:clarify",
+        "c": "represent:distort",
+        "d": "show:conceal"
+      },
+      "one_liner": "'Demonstrate' is a synonym of 'exemplify', while 'misrepresent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

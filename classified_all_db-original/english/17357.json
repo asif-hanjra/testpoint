@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'every now and then' mean?",
+      "options": {
+        "a": "To do something repeatedly without stopping",
+        "b": "To do something once in a lifetime",
+        "c": "To do something occasionally",
+        "d": "To do something at every moment"
+      },
+      "one_liner": "The idiom 'every now and then' means to do something occasionally, not regularly but from time to time.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

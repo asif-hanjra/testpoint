@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The team met to _______ the remaining issues before the project launch.",
+      "options": {
+        "a": "run into",
+        "b": "iron out",
+        "c": "break up",
+        "d": "hold on"
+      },
+      "one_liner": "The team met to 'iron out' the remaining issues before the project launch.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

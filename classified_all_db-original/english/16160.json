@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fantastic':",
+      "options": {
+        "a": "dull",
+        "b": "marvelous",
+        "c": "ordinary",
+        "d": "boring"
+      },
+      "one_liner": "'Fantastic' means extraordinarily good or attractive, making 'marvelous' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

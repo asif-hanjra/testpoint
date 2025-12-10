@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'reckless':",
+      "options": {
+        "a": "careful",
+        "b": "heedless",
+        "c": "negligent",
+        "d": "irresponsible"
+      },
+      "one_liner": "The antonym of 'reckless' is 'careful', which means acting with or showing thought and attention.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

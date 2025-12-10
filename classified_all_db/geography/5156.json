@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Strait of Hormuz lies between which two bodies of water?",
+      "options": {
+        "a": "Red Sea and Gulf of Aden",
+        "b": "Persian Gulf and Gulf of Oman",
+        "c": "Persian Gulf and Arabian Sea",
+        "d": "Gulf of Oman and Arabian Sea"
+      },
+      "one_liner": "The Strait of Hormuz lies between the **Persian Gulf** and the **Gulf of Oman**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

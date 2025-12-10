@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cacophony':",
+      "options": {
+        "a": "discord:tranquility",
+        "b": "clamor:quietude",
+        "c": "noise:harmony",
+        "d": "racket:silence"
+      },
+      "one_liner": "'Discord' is a synonym for 'cacophony', while 'tranquility' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

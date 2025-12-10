@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "An honest man always speaks ___ the truth.",
+      "options": {
+        "a": "in",
+        "b": "about",
+        "c": "on",
+        "d": "with"
+      },
+      "one_liner": "An honest man always speaks 'about' the truth.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

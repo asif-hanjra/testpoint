@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who inaugurated the construction of Diamer-Bhasha Dam and when?",
+      "options": {
+        "a": "Nawaz Sharif, 2018",
+        "b": "Imran Khan, July 15, 2020",
+        "c": "Asif Ali Zardari, 2015",
+        "d": "None of these"
+      },
+      "one_liner": "Prime Minister **Imran Khan** inaugurated the construction of Diamer-Bhasha Dam on **July 15, 2020**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

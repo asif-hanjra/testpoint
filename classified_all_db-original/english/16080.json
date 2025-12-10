@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'diligent':",
+      "options": {
+        "a": "attentive",
+        "b": "meticulous",
+        "c": "negligent",
+        "d": "thorough"
+      },
+      "one_liner": "The antonym of 'diligent' is 'negligent', which means failing to take proper care in doing something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

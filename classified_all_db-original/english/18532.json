@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "We need to buy more milk before we _______ it.",
+      "options": {
+        "a": "look after",
+        "b": "run out of",
+        "c": "take over",
+        "d": "break into"
+      },
+      "one_liner": "We need to buy more milk before we 'run out of' it.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

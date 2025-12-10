@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: We have warned you.",
+      "options": {
+        "a": "You have been warned.",
+        "b": "We have you warned.",
+        "c": "Warned you have been.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

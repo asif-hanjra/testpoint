@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ambiguous':",
+      "options": {
+        "a": "clear",
+        "b": "equivocal",
+        "c": "definite",
+        "d": "precise"
+      },
+      "one_liner": "'Ambiguous' means unclear or open to more than one interpretation—words like 'equivocal' and 'vague' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

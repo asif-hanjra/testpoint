@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conceit':",
+      "options": {
+        "a": "humility",
+        "b": "modesty",
+        "c": "vanity",
+        "d": "simplicity"
+      },
+      "one_liner": "'Conceit' can mean excessive pride in oneself, similar to 'vanity' or 'egotism'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two glaciers meet to create the world's longest glacial system outside of the polar regions?",
+      "options": {
+        "a": "Baltoro and Siachen",
+        "b": "Hispar and Biafo",
+        "c": "Batura and Baltoro",
+        "d": "None of these"
+      },
+      "one_liner": "The **Hispar Glacier and the Biafo Glacier** join to form the world's longest glacial system outside of the polar regions.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

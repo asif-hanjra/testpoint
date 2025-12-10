@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "An atom can radiate at any time after it is excited. It is found that in a typical case, the average excited atom has a lifetime of about 10^(-8) s. That is, during this period it emits a photon and is de-excited. What is the minimum uncertainty delta-v in the frequency of the photon?",
+      "options": {
+        "a": "8 x 10^6 Hz",
+        "b": "8 x 10^8 Hz",
+        "c": "8 x 10^4 Hz",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

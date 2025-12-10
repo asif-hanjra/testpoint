@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ambiguous':",
+      "options": {
+        "a": "explicit",
+        "b": "obscure",
+        "c": "enigmatic",
+        "d": "cryptic"
+      },
+      "one_liner": "Antonyms of 'ambiguous' include 'explicit' and 'unambiguous', both implying clarity and lack of confusion.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

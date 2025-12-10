@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sympathy':",
+      "options": {
+        "a": "empathy:antipathy",
+        "b": "compassion:affection",
+        "c": "concern:interest",
+        "d": "pity:enthusiasm"
+      },
+      "one_liner": "'Empathy' is a synonym of 'sympathy', while 'antipathy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'barbarous':",
+      "options": {
+        "a": "cruel",
+        "b": "brutal",
+        "c": "humane",
+        "d": "vicious"
+      },
+      "one_liner": "The word 'barbarous' has antonyms like 'humane' and 'civilized', which suggest compassion and refinement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following best describes the composition of the G-20 forum?",
+      "options": {
+        "a": "19 countries and the European Union",
+        "b": "20 countries only",
+        "c": "19 countries only",
+        "d": "None of these"
+      },
+      "one_liner": "The G-20 is a prominent international forum comprising **19 countries and the European Union**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

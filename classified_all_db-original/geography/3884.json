@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following mountain ranges are examples of Fold Mountains?",
+      "options": {
+        "a": "Himalayas, Alps, Andes, Rockies",
+        "b": "Himalayas, Karakoram, Alps, Rockies",
+        "c": "Andes, Karakoram, Alps, Rockies",
+        "d": "None of these"
+      },
+      "one_liner": "The Himalayas, Alps, Andes, and Rockies are all classic examples of **Fold Mountains**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Andes Mountains",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

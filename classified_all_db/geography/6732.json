@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which border connects Ferozpur with Kasur?",
+      "options": {
+        "a": "Wagah Border",
+        "b": "Ganda Singh Border",
+        "c": "Torkham Border",
+        "d": "Chaman Border"
+      },
+      "one_liner": "The Ganda Singh border is the crossing point that connects the Indian city of Ferozpur with the Pakistani city of **Kasur**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

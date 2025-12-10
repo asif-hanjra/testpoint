@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'whimsical':",
+      "options": {
+        "a": "quirky:conventional",
+        "b": "unusual:typical",
+        "c": "fanciful:imaginative",
+        "d": "eccentric:practical"
+      },
+      "one_liner": "'Quirky' is a synonym of 'whimsical', while 'conventional' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

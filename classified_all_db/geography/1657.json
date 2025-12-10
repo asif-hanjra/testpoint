@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the city of Montreal located in?",
+      "options": {
+        "a": "United States",
+        "b": "Canada",
+        "c": "France",
+        "d": "None of these"
+      },
+      "one_liner": "Montreal is a major city situated in the country of **Canada**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "26(27 + 29 + 32) is equal to _____?",
+      "options": {
+        "a": "26(27 + 29) + 26(29 + 32)",
+        "b": "26(27 + 29) + 32",
+        "c": "26(27) + (29 + 32)(26)",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

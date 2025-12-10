@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was Waqar Younus appointed as the bowling coach for Pakistan?",
+      "options": {
+        "a": "March 2005",
+        "b": "March 2006",
+        "c": "March 2007",
+        "d": "None of these"
+      },
+      "one_liner": "Waqar Younus was appointed as the bowling coach for Pakistan in **March 2006**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

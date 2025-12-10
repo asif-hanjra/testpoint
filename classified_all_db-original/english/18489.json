@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'legible':",
+      "options": {
+        "a": "illegible",
+        "b": "incomprehensible",
+        "c": "unreadable",
+        "d": "clear"
+      },
+      "one_liner": "'Legible' means readable or clear, similar to 'comprehensible'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

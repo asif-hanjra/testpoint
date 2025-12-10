@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the Prime Minister of Pakistan after the 2018 general elections?",
+      "options": {
+        "a": "Nawaz Sharif",
+        "b": "Imran Khan",
+        "c": "Shahbaz Sharif",
+        "d": "Asif Ali Zardari"
+      },
+      "one_liner": "Following the 2018 general elections, **Imran Khan** became the Prime Minister of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

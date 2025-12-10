@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of mosquito is primarily responsible for causing dengue?",
+      "options": {
+        "a": "Anopheles",
+        "b": "Culex",
+        "c": "Aedes",
+        "d": "None of these"
+      },
+      "one_liner": "Dengue fever is primarily transmitted to humans by the **Aedes** type of mosquito.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

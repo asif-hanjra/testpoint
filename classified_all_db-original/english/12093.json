@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'jeer':",
+      "options": {
+        "a": "applaud",
+        "b": "ridicule",
+        "c": "praise",
+        "d": "compliment"
+      },
+      "one_liner": "'Jeer' means to mock or taunt, similar to 'scoff' or 'ridicule'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

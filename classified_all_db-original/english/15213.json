@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nadir':",
+      "options": {
+        "a": "depths",
+        "b": "zenith",
+        "c": "base",
+        "d": "bottom"
+      },
+      "one_liner": "The antonym of 'nadir' is 'zenith', which means the highest point.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

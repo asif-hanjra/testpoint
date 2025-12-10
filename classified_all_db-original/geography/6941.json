@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest peninsula in the world?",
+      "options": {
+        "a": "Iberian Peninsula",
+        "b": "Arabian Peninsula",
+        "c": "Indian Peninsula",
+        "d": "Balkan Peninsula"
+      },
+      "one_liner": "The **Arabian Peninsula** holds the distinction of being the largest peninsula in the world.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Peninsulas",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Peninsulas",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

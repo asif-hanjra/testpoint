@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'amenable':",
+      "options": {
+        "a": "agreeable",
+        "b": "cooperative",
+        "c": "obstinate",
+        "d": "willing"
+      },
+      "one_liner": "The word 'amenable' suggests a readiness to cooperate, unlike 'obstinate', which implies resistance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

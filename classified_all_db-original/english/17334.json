@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'droll':",
+      "options": {
+        "a": "witty:tedious",
+        "b": "hilarious:funny",
+        "c": "comical:humorous",
+        "d": "amusing:entertaining"
+      },
+      "one_liner": "'Witty' is a synonym of 'droll', while 'tedious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

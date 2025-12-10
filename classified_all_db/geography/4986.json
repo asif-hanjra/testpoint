@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For which breed of livestock is the Neeli Bar region famous?",
+      "options": {
+        "a": "Sahiwal breed",
+        "b": "Neeli Ravi breed",
+        "c": "Kirana breed",
+        "d": "None of these"
+      },
+      "one_liner": "Neeli Bar is famous for the **Neeli Ravi breed** of cow and buffalo.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'steadfast':",
+      "options": {
+        "a": "fickle",
+        "b": "resolute",
+        "c": "inconsistent",
+        "d": "capricious"
+      },
+      "one_liner": "'Steadfast' implies being firm and unwavering, much like 'resolute'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

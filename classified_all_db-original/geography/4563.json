@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the very gently sloping, relatively shallow, submerged plain at the edge of a continent?",
+      "options": {
+        "a": "Continental slope",
+        "b": "Continental shelf",
+        "c": "Abyssal plain",
+        "d": "Oceanic trench"
+      },
+      "one_liner": "The very gently sloping, relatively shallow, submerged plain at the edge of a continent is called the **Continental shelf**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

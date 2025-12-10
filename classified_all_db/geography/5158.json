@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which tribe established the Ottoman Empire in Asia-Minor?",
+      "options": {
+        "a": "Arab tribe",
+        "b": "Turkish tribe",
+        "c": "Persian tribe",
+        "d": "Mongol tribe"
+      },
+      "one_liner": "The Ottoman Empire in Asia-Minor was established by a **Turkish tribe**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

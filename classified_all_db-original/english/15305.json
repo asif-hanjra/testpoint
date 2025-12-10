@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'frightened':",
+      "options": {
+        "a": "scared",
+        "b": "nervous",
+        "c": "unafraid",
+        "d": "anxious"
+      },
+      "one_liner": "The opposite of being 'frightened' is to be 'fearless' or 'unafraid', showing no fear.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

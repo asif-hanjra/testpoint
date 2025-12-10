@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'inane':",
+      "options": {
+        "a": "absurd",
+        "b": "silly",
+        "c": "intelligent",
+        "d": "foolish"
+      },
+      "one_liner": "The word 'inane' is the opposite of 'sensible' and 'intelligent', which suggest sound judgment.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

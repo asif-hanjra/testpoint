@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of water is present in the human brain?",
+      "options": {
+        "a": "60%",
+        "b": "73%",
+        "c": "80%",
+        "d": "90%"
+      },
+      "one_liner": "The human brain contains approximately **73%** water.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

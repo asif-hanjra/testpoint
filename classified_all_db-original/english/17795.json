@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obtrusive':",
+      "options": {
+        "a": "unobtrusive",
+        "b": "prominent",
+        "c": "noticeable",
+        "d": "flashy"
+      },
+      "one_liner": "The word 'obtrusive' suggests being conspicuous or invasive, whereas 'unobtrusive' means not attracting attention.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

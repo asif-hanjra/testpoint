@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'buy':",
+      "options": {
+        "a": "sell",
+        "b": "acquire",
+        "c": "lease",
+        "d": "rent"
+      },
+      "one_liner": "'Buy' means to purchase something, so 'acquire' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

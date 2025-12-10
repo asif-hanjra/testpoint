@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'elicit':",
+      "options": {
+        "a": "reveal",
+        "b": "conceal",
+        "c": "show",
+        "d": "uncover"
+      },
+      "one_liner": "Antonyms of 'elicit' include 'conceal' and 'hide', which mean to keep something from being known.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

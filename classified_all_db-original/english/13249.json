@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'arbitrate':",
+      "options": {
+        "a": "ignore",
+        "b": "adjudicate",
+        "c": "aggravate",
+        "d": "provoke"
+      },
+      "one_liner": "'Arbitrate' means to settle a dispute or to mediate, similar to 'adjudicate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

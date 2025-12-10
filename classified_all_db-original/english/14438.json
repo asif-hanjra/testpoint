@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'subdue':",
+      "options": {
+        "a": "suppress:incite",
+        "b": "quell:encourage",
+        "c": "restrain:ignite",
+        "d": "overcome:release"
+      },
+      "one_liner": "'Suppress' is a synonym of 'subdue', while 'incite' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

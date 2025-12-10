@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following statements is false: -5 + 1 = 4, 4 - 5 = -1, 2 + (-1) = 1, -7 + (-6) = - 13",
+      "options": {
+        "a": "-5 + 1 = 4",
+        "b": "4 - 5 = -1",
+        "c": "2 + (-1) = 1",
+        "d": "-7 + (-6) = - 13"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

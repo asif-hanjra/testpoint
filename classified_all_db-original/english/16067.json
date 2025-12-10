@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Indus river is the longest river ___ South Asia.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "to"
+      },
+      "one_liner": "Indus river is the longest river 'in' South Asia.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

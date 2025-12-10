@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which river experiences tidal waves every year?",
+      "options": {
+        "a": "Yangtze",
+        "b": "Amazon",
+        "c": "Nile",
+        "d": "Congo"
+      },
+      "one_liner": "The **Amazon River** is notable for experiencing tidal waves annually.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet has the shortest rotation time around its axis?",
+      "options": {
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Venus",
+        "d": "Mercury"
+      },
+      "one_liner": "Among all the planets in our solar system, **Jupiter** completes a rotation around its axis in the shortest amount of time.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

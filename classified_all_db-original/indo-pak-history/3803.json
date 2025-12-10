@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who led the British mission sent to India in 1942 with proposals concerning India's future during World War II?",
+      "options": {
+        "a": "Sir Stafford Cripps",
+        "b": "Lord Mountbatten",
+        "c": "Lord Wavell",
+        "d": "Sir John Simon"
+      },
+      "one_liner": "The Cripps Mission sent to India in 1942 was led by **Sir Stafford Cripps**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

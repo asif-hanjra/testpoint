@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He picked ___ food for his way home.",
+      "options": {
+        "a": "in",
+        "b": "up",
+        "c": "on",
+        "d": "at"
+      },
+      "one_liner": "He picked 'up' food for his way home.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

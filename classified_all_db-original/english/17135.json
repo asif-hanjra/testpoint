@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deviation':",
+      "options": {
+        "a": "digression:accordance",
+        "b": "anomaly:uniformity",
+        "c": "divergence:congruence",
+        "d": "disparity:similarity"
+      },
+      "one_liner": "'Digression' is a synonym of 'deviation', while 'accordance' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

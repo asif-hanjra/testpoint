@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'claim':",
+      "options": {
+        "a": "assert",
+        "b": "acknowledge",
+        "c": "disavow",
+        "d": "confirm"
+      },
+      "one_liner": "An antonym of 'claim' is 'disavow', which means to deny any responsibility or support for something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

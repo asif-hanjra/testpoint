@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I am well acquainted ___ her family.",
+      "options": {
+        "a": "to",
+        "b": "with",
+        "c": "by",
+        "d": "at"
+      },
+      "one_liner": "I am well acquainted 'with' her family.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

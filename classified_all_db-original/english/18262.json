@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sympathy':",
+      "options": {
+        "a": "empathy",
+        "b": "compassion",
+        "c": "apathy",
+        "d": "concern"
+      },
+      "one_liner": "An antonym of 'sympathy' is 'apathy', which indicates a lack of interest or concern.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

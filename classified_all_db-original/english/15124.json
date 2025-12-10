@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'induce':",
+      "options": {
+        "a": "elicit:discourage",
+        "b": "prompt:encourage",
+        "c": "instigate:stimulate",
+        "d": "provoke:urge"
+      },
+      "one_liner": "'Elicit' is a synonym of 'induce', while 'discourage' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

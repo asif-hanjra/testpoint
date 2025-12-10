@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'anonymous':",
+      "options": {
+        "a": "incognito:famous",
+        "b": "unknown:recognized",
+        "c": "nameless:noted",
+        "d": "unnoticed:unidentified"
+      },
+      "one_liner": "'Incognito' is a synonym of 'anonymous', while 'famous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

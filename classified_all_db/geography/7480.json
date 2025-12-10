@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who constructed five canals to remove scarcity of water?",
+      "options": {
+        "a": "Alauddin Khilji",
+        "b": "Feroz Shah Tughlaq",
+        "c": "Muhammad bin Tughlaq",
+        "d": "Sher Shah Suri"
+      },
+      "one_liner": "Feroz Shah Tughlaq addressed water scarcity by constructing **five canals** during his reign.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

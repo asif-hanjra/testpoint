@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'foremost':",
+      "options": {
+        "a": "primary",
+        "b": "leading",
+        "c": "least",
+        "d": "central"
+      },
+      "one_liner": "An antonym of 'foremost' is 'least', which indicates the lowest in importance or position.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

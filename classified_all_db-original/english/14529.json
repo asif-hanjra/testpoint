@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'coerce':",
+      "options": {
+        "a": "enforce:allow",
+        "b": "compel:permit",
+        "c": "pressure:encourage",
+        "d": "demand:forbid"
+      },
+      "one_liner": "'Enforce' is a synonym of 'coerce', while 'permit' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

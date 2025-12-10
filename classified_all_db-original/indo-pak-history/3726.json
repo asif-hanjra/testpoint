@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to the Wavell Plan, who were the only non-Indian members proposed for the Viceroy's Executive Council?",
+      "options": {
+        "a": "Only the viceroy",
+        "b": "Only the commander-in-chief",
+        "c": "Both the viceroy and the commander-in-chief",
+        "d": "None of these"
+      },
+      "one_liner": "The Wavell Plan stipulated that all members of the Viceroy's Executive Council would be Indians except for the viceroy and the commander-in-chief, who would remain British.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Wavell Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Wavell Plan",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

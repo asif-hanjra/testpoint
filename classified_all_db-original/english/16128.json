@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'demise':",
+      "options": {
+        "a": "termination",
+        "b": "continuation",
+        "c": "commencement",
+        "d": "conclusion"
+      },
+      "one_liner": "The antonym of 'demise' is 'commencement', which signifies the beginning or start.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

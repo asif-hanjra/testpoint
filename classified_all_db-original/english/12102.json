@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'comprehend':",
+      "options": {
+        "a": "fathom:confound",
+        "b": "understand:misinterpret",
+        "c": "grasp:comprehend",
+        "d": "realize:recognize"
+      },
+      "one_liner": "'Fathom' is a synonym of 'comprehend', while 'confound' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

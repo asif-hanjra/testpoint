@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Take it out",
+      "options": {
+        "a": "Let it be taken out",
+        "b": "Let it be take out",
+        "c": "Let it be taken in",
+        "d": "none"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

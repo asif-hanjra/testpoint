@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "EMPTY : FULL :: AWKWARD : ________?",
+      "options": {
+        "a": "Graceful",
+        "b": "Hollow",
+        "c": "Silent",
+        "d": "Loud"
+      },
+      "one_liner": "Empty is the opposite of full, but the relationship between awkward and hollow is less direct; 'hollow' can imply emptiness, creating a parallel with 'empty'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hostile':",
+      "options": {
+        "a": "friendly",
+        "b": "adversarial",
+        "c": "agreeable",
+        "d": "kind"
+      },
+      "one_liner": "'Hostile' means unfriendly or antagonistic, similar to 'adversarial'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year did Zia issue the Provisional Constitution Order (PCO)?",
+      "options": {
+        "a": "July 1977",
+        "b": "August 1983",
+        "c": "March 1981",
+        "d": "December 1984"
+      },
+      "one_liner": "Zia issued the Provisional Constitution Order (PCO) in **March 1981**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

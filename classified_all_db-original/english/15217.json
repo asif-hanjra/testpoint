@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'delineate':",
+      "options": {
+        "a": "obscure",
+        "b": "depict",
+        "c": "conceal",
+        "d": "blur"
+      },
+      "one_liner": "'Delineate' means to describe or portray something precisely, similar to 'depict' or 'outline'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

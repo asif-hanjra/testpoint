@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Before going outside, don't forget to _______ your jacket.",
+      "options": {
+        "a": "take off",
+        "b": "put on",
+        "c": "give up",
+        "d": "look after"
+      },
+      "one_liner": "Before going outside, you should 'put on' your jacket.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

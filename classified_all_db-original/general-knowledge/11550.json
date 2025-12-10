@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of Pakistan Air Force located?",
+      "options": {
+        "a": "Karachi",
+        "b": "Lahore",
+        "c": "Chaklala, Rawalpindi",
+        "d": "Peshawar"
+      },
+      "one_liner": "The headquarters of Pakistan Air Force is situated in **Chaklala, Rawalpindi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

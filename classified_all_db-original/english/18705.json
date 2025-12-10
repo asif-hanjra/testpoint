@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mitigate':",
+      "options": {
+        "a": "exacerbate",
+        "b": "alleviate",
+        "c": "intensify",
+        "d": "escalate"
+      },
+      "one_liner": "'Mitigate' means to make less severe or serious, similar to 'alleviate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

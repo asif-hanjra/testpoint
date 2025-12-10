@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'inconsequential':",
+      "options": {
+        "a": "significant",
+        "b": "trivial",
+        "c": "crucial",
+        "d": "vital"
+      },
+      "one_liner": "'Inconsequential' means not important or significant, similar to 'trivial' and 'insignificant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

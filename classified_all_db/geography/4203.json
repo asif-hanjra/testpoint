@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which province is the Panjkora River located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Khyber Pakhtunkhwa",
+        "d": "Balochistan"
+      },
+      "one_liner": "The Panjkora River is situated in the province of **Khyber Pakhtunkhwa**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

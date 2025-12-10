@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'continuous':",
+      "options": {
+        "a": "seamless:sporadic",
+        "b": "constant:unbroken",
+        "c": "endless:ceaseless",
+        "d": "uninterrupted:continuous"
+      },
+      "one_liner": "'Seamless' is a synonym of 'continuous', while 'sporadic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

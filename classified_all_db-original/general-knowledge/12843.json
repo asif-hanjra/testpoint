@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who holds the record for the fastest century in Test cricket?",
+      "options": {
+        "a": "Brendon McCullum",
+        "b": "Viv Richards",
+        "c": "Misbah-ul-Haq",
+        "d": "Adam Gilchrist"
+      },
+      "one_liner": "The record for the fastest century in Test cricket was achieved by **Brendon McCullum**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

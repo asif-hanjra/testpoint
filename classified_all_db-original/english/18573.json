@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'concede':",
+      "options": {
+        "a": "acknowledge",
+        "b": "admit",
+        "c": "accept",
+        "d": "deny"
+      },
+      "one_liner": "Antonyms of 'concede' include 'deny' and 'reject', both implying refusal to admit or acknowledge.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

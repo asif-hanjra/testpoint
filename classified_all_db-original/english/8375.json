@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "We eat fruit.",
+      "options": {
+        "a": "Fruit is eaten by us",
+        "b": "Fruit was eaten by us",
+        "c": "Fruit has been eaten by us",
+        "d": "Fruit is being eaten by us"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

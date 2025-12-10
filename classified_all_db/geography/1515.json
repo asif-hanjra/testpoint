@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Caspian Sea is classified as what type of basin?",
+      "options": {
+        "a": "Open basin",
+        "b": "Basin with outflows",
+        "c": "Basin without outflows",
+        "d": "None of these"
+      },
+      "one_liner": "The Caspian Sea is a **basin without outflows**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

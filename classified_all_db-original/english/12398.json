@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "That color will ___ suit your complexion.",
+      "options": {
+        "a": "in",
+        "b": "not",
+        "c": "on",
+        "d": "with"
+      },
+      "one_liner": "That color will 'not' suit your complexion.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

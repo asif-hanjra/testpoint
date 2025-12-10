@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which color of light does photosynthesis in plants occur at the fastest rate?",
+      "options": {
+        "a": "Red light",
+        "b": "Blue light",
+        "c": "White light",
+        "d": "Green light"
+      },
+      "one_liner": "Photosynthesis in plants occurs most rapidly when they are exposed to **white light**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

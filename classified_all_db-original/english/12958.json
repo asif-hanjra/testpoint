@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "EARLY : LATE :: MUCH : ________?",
+      "options": {
+        "a": "Little",
+        "b": "Few",
+        "c": "Plenty",
+        "d": "Soon"
+      },
+      "one_liner": "Early is the opposite of late, while much and plenty are synonyms referring to a large quantity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

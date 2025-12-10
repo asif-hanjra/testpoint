@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cacophony':",
+      "options": {
+        "a": "discord",
+        "b": "harmony",
+        "c": "racket",
+        "d": "tumult"
+      },
+      "one_liner": "The opposite of 'cacophony', a jarring noise, would be 'harmony' or 'serenity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gavel':",
+      "options": {
+        "a": "anarchy symbol",
+        "b": "throne",
+        "c": "crown",
+        "d": "staff"
+      },
+      "one_liner": "While a 'gavel' is used to command attention or order, an 'anarchy symbol' represents the absence of such authority.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

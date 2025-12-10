@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'levee':",
+      "options": {
+        "a": "valley",
+        "b": "dike",
+        "c": "mountain",
+        "d": "plateau"
+      },
+      "one_liner": "'Levee' refers to an embankment built to prevent the overflow of a river, similar to a 'dike'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

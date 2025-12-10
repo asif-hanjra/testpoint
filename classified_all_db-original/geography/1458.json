@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which latitude is the southernmost point reached by the overhead sun?",
+      "options": {
+        "a": "Equator",
+        "b": "Prime Meridian",
+        "c": "Tropic of Cancer",
+        "d": "Tropic of Capricorn"
+      },
+      "one_liner": "The southernmost latitude reached by the overhead sun is called the **Tropic of Capricorn**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

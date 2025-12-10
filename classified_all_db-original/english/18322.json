@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'craven':",
+      "options": {
+        "a": "brave",
+        "b": "timid",
+        "c": "bold",
+        "d": "courageous"
+      },
+      "one_liner": "'Craven' describes someone who is extremely cowardly, much like the word 'timid'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

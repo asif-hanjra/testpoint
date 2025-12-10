@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Fatima Jinnah die?",
+      "options": {
+        "a": "Karachi",
+        "b": "Lahore",
+        "c": "Islamabad",
+        "d": "None of these"
+      },
+      "one_liner": "Fatima Jinnah died in **Karachi** on July 09, 1967.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "HANGAR : AIRPLANE :: GARAGE : ________?",
+      "options": {
+        "a": "Bicycle",
+        "b": "Automobile",
+        "c": "Train",
+        "d": "Boat"
+      },
+      "one_liner": "An airplane is kept in a hangar, just as an automobile is kept in a garage.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

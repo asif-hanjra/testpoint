@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'economize':",
+      "options": {
+        "a": "waste",
+        "b": "conserve",
+        "c": "splurge",
+        "d": "disburse"
+      },
+      "one_liner": "'Economize' means to save or reduce expenses—words like 'save' and 'conserve' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I am exhausted, let's call ___ a day.",
+      "options": {
+        "a": "in",
+        "b": "it",
+        "c": "off",
+        "d": "on"
+      },
+      "one_liner": "I am exhausted, let's call 'it' a day.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

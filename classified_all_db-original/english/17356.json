@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'anomaly':",
+      "options": {
+        "a": "conformity",
+        "b": "aberration",
+        "c": "similarity",
+        "d": "uniformity"
+      },
+      "one_liner": "'Anomaly' refers to something that deviates from what is standard, normal, or expected, much like 'aberration'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

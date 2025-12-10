@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'important':",
+      "options": {
+        "a": "trivial",
+        "b": "crucial",
+        "c": "negligible",
+        "d": "insignificant"
+      },
+      "one_liner": "'Important' means significant or consequential, words like 'crucial' and 'vital' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

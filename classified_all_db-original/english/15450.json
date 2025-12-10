@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'average':",
+      "options": {
+        "a": "excellent",
+        "b": "mediocre",
+        "c": "superior",
+        "d": "outstanding"
+      },
+      "one_liner": "'Average' means typical or ordinary, so 'mediocre' is a synonym that conveys a similar sense of being neither very good nor very bad.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

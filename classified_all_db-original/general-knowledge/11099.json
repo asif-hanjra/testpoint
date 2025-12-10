@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the abbreviation CNG stand for?",
+      "options": {
+        "a": "Compressed Nitrogen Gas",
+        "b": "Compressed Natural Gas",
+        "c": "Condensed Natural Gas",
+        "d": "None of these"
+      },
+      "one_liner": "The term CNG is an abbreviation for **compressed natural gas**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

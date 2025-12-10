@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'equivocate':",
+      "options": {
+        "a": "prevaricate:clarify",
+        "b": "obfuscate:elucidate",
+        "c": "mislead:explain",
+        "d": "disguise:reveal"
+      },
+      "one_liner": "'Prevaricate' is a synonym of 'equivocate', while 'clarify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

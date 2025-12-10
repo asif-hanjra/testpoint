@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which strait does the Golden Gate Bridge span?",
+      "options": {
+        "a": "Strait of Gibraltar",
+        "b": "Golden Gate",
+        "c": "Bering Strait",
+        "d": "English Channel"
+      },
+      "one_liner": "The Golden Gate Bridge spans the **Golden Gate** strait, connecting San Francisco Bay and the Pacific Ocean.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Golden Gate Bridge",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Golden Gate Bridge",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

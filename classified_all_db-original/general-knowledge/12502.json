@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT considered a principle of the New World Order?",
+      "options": {
+        "a": "Self-determination",
+        "b": "Collective Security",
+        "c": "Territorial Integrity",
+        "d": "Human Rights"
+      },
+      "one_liner": "Among the principles of the New World Order, **Territorial Integrity** is notably not included.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

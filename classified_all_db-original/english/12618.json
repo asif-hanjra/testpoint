@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gainsay':",
+      "options": {
+        "a": "agree",
+        "b": "confirm",
+        "c": "contradict",
+        "d": "accept"
+      },
+      "one_liner": "'Gainsay' means to deny or dispute, which is similar in meaning to 'contradict'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

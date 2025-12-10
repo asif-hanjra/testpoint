@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pitch':",
+      "options": {
+        "a": "toss",
+        "b": "catch",
+        "c": "throw",
+        "d": "hurl"
+      },
+      "one_liner": "An antonym for 'pitch' in the context of throwing would be 'catch', which is the act of receiving rather than throwing.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

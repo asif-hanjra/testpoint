@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are the scissors ___ the table?",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "at",
+        "d": "under"
+      },
+      "one_liner": "Where are the scissors 'on' the table?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

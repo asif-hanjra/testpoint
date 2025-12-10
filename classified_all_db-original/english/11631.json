@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'enchant':",
+      "options": {
+        "a": "charm",
+        "b": "delight",
+        "c": "repel",
+        "d": "fascinate"
+      },
+      "one_liner": "The antonym of 'enchant', which means to delight, would be 'repel', meaning to drive away or disgust.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

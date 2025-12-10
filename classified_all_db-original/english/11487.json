@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'saturnine':",
+      "options": {
+        "a": "cheerful",
+        "b": "sullen",
+        "c": "lively",
+        "d": "radiant"
+      },
+      "one_liner": "'Saturnine' means gloomy or morose, similar to 'sullen'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

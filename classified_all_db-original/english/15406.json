@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'comical':",
+      "options": {
+        "a": "dramatic",
+        "b": "funny",
+        "c": "serious",
+        "d": "tragic"
+      },
+      "one_liner": "'Comical' means amusing or humorous, similar to 'funny'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

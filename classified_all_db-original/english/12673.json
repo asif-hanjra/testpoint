@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'modus vivendi' refer to?",
+      "options": {
+        "a": "A method of proof",
+        "b": "A way of living",
+        "c": "A work of art",
+        "d": "A legal document"
+      },
+      "one_liner": "'Modus vivendi' is a Latin phrase meaning 'a way of living' that allows conflicting parties to coexist in peace.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

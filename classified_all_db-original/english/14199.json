@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'raise':",
+      "options": {
+        "a": "lower",
+        "b": "elevate",
+        "c": "boost",
+        "d": "uplift"
+      },
+      "one_liner": "The opposite of 'raise', which means to lift or increase, is 'lower' or 'decrease'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

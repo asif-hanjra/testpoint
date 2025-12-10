@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'faddish':",
+      "options": {
+        "a": "trendy:enduring",
+        "b": "modern:classic",
+        "c": "stylish:timeless",
+        "d": "in vogue:dated"
+      },
+      "one_liner": "'Trendy' is a synonym of 'faddish', while 'enduring' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

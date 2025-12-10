@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'outstanding':",
+      "options": {
+        "a": "ordinary",
+        "b": "extraordinary",
+        "c": "mediocre",
+        "d": "average"
+      },
+      "one_liner": "'Outstanding' means exceptional or remarkable, similar to 'extraordinary'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'idle':",
+      "options": {
+        "a": "inactive",
+        "b": "lazy",
+        "c": "active",
+        "d": "lethargic"
+      },
+      "one_liner": "An antonym of 'idle' is 'active', which means engaged in action.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'luminary':",
+      "options": {
+        "a": "eminent:insignificant",
+        "b": "famous:well-known",
+        "c": "celebrity:star",
+        "d": "notable:prominent"
+      },
+      "one_liner": "'Eminent' is a synonym of 'luminary', while 'insignificant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

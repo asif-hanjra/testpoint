@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest district of Punjab by area?",
+      "options": {
+        "a": "Bahawalpur",
+        "b": "Lahore",
+        "c": "Multan",
+        "d": "Faisalabad"
+      },
+      "one_liner": "The largest district of Punjab by area is **Bahawalpur**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet, known as the neighbor of Earth, has two satellites?",
+      "options": {
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Jupiter",
+        "d": "Mercury"
+      },
+      "one_liner": "Mars, which is Earth's neighboring planet, is notable for having **two satellites**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

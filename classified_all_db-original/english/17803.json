@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nefarious':",
+      "options": {
+        "a": "malevolent",
+        "b": "benevolent",
+        "c": "corrupt",
+        "d": "sinister"
+      },
+      "one_liner": "The word 'nefarious' is the opposite of 'benevolent', which means well-meaning and kindly.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

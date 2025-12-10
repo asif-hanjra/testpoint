@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The power loss P in a resistor is calculated using the formula P = V²/R. The uncertainty in the potential difference V is e% and the uncertainty in R is 2%. What is the uncertainty in P?",
+      "options": {
+        "a": "11%",
+        "b": "7%",
+        "c": "8%",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

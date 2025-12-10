@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for the Quit India Movement?",
+      "options": {
+        "a": "August Movement",
+        "b": "Khilafat Movement",
+        "c": "Civil Disobedience Movement",
+        "d": "None of these"
+      },
+      "one_liner": "The Quit India Movement is also known as the **August Movement**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Wavell Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

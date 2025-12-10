@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'normal':",
+      "options": {
+        "a": "typical",
+        "b": "regular",
+        "c": "abnormal",
+        "d": "customary"
+      },
+      "one_liner": "The word 'abnormal' is an antonym of 'normal', indicating something that deviates from the standard.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

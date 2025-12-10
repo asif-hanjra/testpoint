@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'aggressive':",
+      "options": {
+        "a": "passive",
+        "b": "assertive",
+        "c": "timid",
+        "d": "meek"
+      },
+      "one_liner": "'Aggressive' often implies being forceful or assertive, much like the word 'assertive' itself.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

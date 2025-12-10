@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'elusive':",
+      "options": {
+        "a": "slippery:obtainable",
+        "b": "transparent:obscure",
+        "c": "evasive:apparent",
+        "d": "vague:clear"
+      },
+      "one_liner": "'Slippery' is a synonym of 'elusive', while 'obtainable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

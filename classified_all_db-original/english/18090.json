@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'wardrobe':",
+      "options": {
+        "a": "clothing:bare cupboard",
+        "b": "furniture:full closet",
+        "c": "garment:stocked shelf",
+        "d": "apparel:empty shelf"
+      },
+      "one_liner": "'Attire' is a synonym of 'wardrobe', while 'bare cupboard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

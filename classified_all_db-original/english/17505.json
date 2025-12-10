@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "ROTATION : EARTH :: SPINNING : ________?",
+      "options": {
+        "a": "Wheel",
+        "b": "Top",
+        "c": "Ball",
+        "d": "Moon"
+      },
+      "one_liner": "Rotation is the movement of the Earth, just as spinning is a movement of a top.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

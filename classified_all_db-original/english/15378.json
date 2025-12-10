@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The fire was finally brought ___ control.",
+      "options": {
+        "a": "over",
+        "b": "under",
+        "c": "in",
+        "d": "at"
+      },
+      "one_liner": "The fire was finally brought 'under' control.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

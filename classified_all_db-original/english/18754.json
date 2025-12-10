@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'repulsive':",
+      "options": {
+        "a": "attractive",
+        "b": "disgusting",
+        "c": "hideous",
+        "d": "foul"
+      },
+      "one_liner": "The antonym of 'repulsive' is 'attractive', which means appealing or pleasing.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

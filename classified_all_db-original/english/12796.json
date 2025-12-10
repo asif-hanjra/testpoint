@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'scent':",
+      "options": {
+        "a": "odor",
+        "b": "fragrance",
+        "c": "sight",
+        "d": "sound"
+      },
+      "one_liner": "'Scent' refers to a distinctive smell, similar to 'fragrance' or 'aroma'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary cause of the change in seasons on Earth?",
+      "options": {
+        "a": "Rotation of Earth",
+        "b": "Revolution of Earth",
+        "c": "Gravitational pull of the Moon",
+        "d": "None of these"
+      },
+      "one_liner": "The change in seasons on Earth is primarily caused by the **revolution of the Earth** around the Sun.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

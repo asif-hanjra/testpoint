@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which treaty ended Russia's involvement in World War I in 1918?",
+      "options": {
+        "a": "Treaty of Versailles",
+        "b": "Treaty of Brest-Litovsk",
+        "c": "Treaty of Paris",
+        "d": "Treaty of Trianon"
+      },
+      "one_liner": "Russia ended its involvement in World War I in 1918 by signing the **Treaty of Brest-Litovsk**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

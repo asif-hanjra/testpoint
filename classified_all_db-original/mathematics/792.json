@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If p(x)  = x^2 -ax^2 +7 then find the value of P(2)?",
+      "options": {
+        "a": "4 - 4a + 7",
+        "b": "11 - 4a",
+        "c": "4a + 7",
+        "d": "2a + 11"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

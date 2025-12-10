@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the target year for achieving the Sustainable Development Goals (SDGs)?",
+      "options": {
+        "a": "2025",
+        "b": "2035",
+        "c": "2030",
+        "d": "2040"
+      },
+      "one_liner": "The target year for achieving the Sustainable Development Goals (SDGs) is **2030**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Sustainable Development Goals (SDGs)",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Sustainable Development Goals (SDGs)",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

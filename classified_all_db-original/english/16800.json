@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What do you call a man whose wife has died and who has not remarried?",
+      "options": {
+        "a": "Bachelor",
+        "b": "Widower",
+        "c": "Divorcee",
+        "d": "Hermit"
+      },
+      "one_liner": "A 'widower' is a man whose wife has died and who has not remarried.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "One Word Substitutions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

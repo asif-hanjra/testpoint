@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How do fungi primarily reproduce?",
+      "options": {
+        "a": "Seeds",
+        "b": "Spores",
+        "c": "Budding",
+        "d": "Binary fission"
+      },
+      "one_liner": "Fungi primarily reproduce by producing **spores**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

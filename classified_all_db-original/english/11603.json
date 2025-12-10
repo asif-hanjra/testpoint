@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ordinary':",
+      "options": {
+        "a": "extraordinary",
+        "b": "typical",
+        "c": "unique",
+        "d": "peculiar"
+      },
+      "one_liner": "'Ordinary' means common or usual, similar to 'typical' and 'standard'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

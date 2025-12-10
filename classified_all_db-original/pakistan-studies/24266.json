@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who introduced the Hudood Ordinance in Pakistan?",
+      "options": {
+        "a": "Zulfikar Ali Bhutto",
+        "b": "Zia ul Haq",
+        "c": "Pervez Musharraf",
+        "d": "None of these"
+      },
+      "one_liner": "The Hudood Ordinance was introduced in Pakistan by **Zia ul Haq**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

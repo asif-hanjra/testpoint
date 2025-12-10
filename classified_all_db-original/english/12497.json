@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'opus':",
+      "options": {
+        "a": "trifle",
+        "b": "achievement",
+        "c": "success",
+        "d": "creation"
+      },
+      "one_liner": "An antonym for 'opus', which signifies a significant work, could be 'trifle', indicating something of little importance.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

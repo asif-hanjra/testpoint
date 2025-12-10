@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin adverb 'sic' imply when used in a written text?",
+      "options": {
+        "a": "Therefore",
+        "b": "Thus",
+        "c": "Without",
+        "d": "Always"
+      },
+      "one_liner": "'Sic' is used to indicate that something is quoted exactly as it stands in the original source, errors and all.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

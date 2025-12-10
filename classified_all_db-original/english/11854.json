@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'explicit':",
+      "options": {
+        "a": "ambiguous",
+        "b": "unequivocal",
+        "c": "vague",
+        "d": "implied"
+      },
+      "one_liner": "'Explicit' means clear and detailed, leaving no room for confusion, much like 'unequivocal'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

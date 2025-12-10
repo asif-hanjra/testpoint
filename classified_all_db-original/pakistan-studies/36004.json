@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the captain of the Pakistan cricket team that won the 1992 Cricket World Cup?",
+      "options": {
+        "a": "Imran Khan",
+        "b": "Wasim Akram",
+        "c": "Javed Miandad",
+        "d": "Shoaib Akhtar"
+      },
+      "one_liner": "The captain of the Pakistan cricket team that won the 1992 Cricket World Cup was **Imran Khan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

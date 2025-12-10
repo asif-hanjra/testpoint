@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'enough':",
+      "options": {
+        "a": "scarce",
+        "b": "adequate",
+        "c": "insufficient",
+        "d": "deficient"
+      },
+      "one_liner": "'Enough' implies a sufficient amount, similar to 'adequate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

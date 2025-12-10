@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'distraught':",
+      "options": {
+        "a": "frantic:serene",
+        "b": "agitated:calm",
+        "c": "upset:content",
+        "d": "miserable:happy"
+      },
+      "one_liner": "'Frantic' is a synonym of 'distraught', while 'serene' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

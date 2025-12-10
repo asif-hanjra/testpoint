@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of the human body does the Medulla Oblongata belong to?",
+      "options": {
+        "a": "Heart",
+        "b": "Liver",
+        "c": "Brain",
+        "d": "Lungs"
+      },
+      "one_liner": "The Medulla Oblongata is a part of the **human brain**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

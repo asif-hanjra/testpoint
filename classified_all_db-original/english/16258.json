@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'facsimile':",
+      "options": {
+        "a": "replica:unique",
+        "b": "duplicate:original",
+        "c": "copy:authentic",
+        "d": "imitation:prototype"
+      },
+      "one_liner": "'Replica' is a synonym of 'facsimile', while 'unique' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

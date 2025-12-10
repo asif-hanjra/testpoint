@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is ringworm called 'ringworm'?",
+      "options": {
+        "a": "It is caused by worms",
+        "b": "It affects rings of the body",
+        "c": "Its appearance resembles a ring",
+        "d": "None of these"
+      },
+      "one_liner": "Ringworm gets its name because of its **appearance** resembling a ring.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where on Earth are day and night of equal duration throughout the year?",
+      "options": {
+        "a": "At the Poles",
+        "b": "At the Equator",
+        "c": "At the Tropic of Cancer",
+        "d": "None of these"
+      },
+      "one_liner": "On the Equator, day and night remain of **equal duration** all year round.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

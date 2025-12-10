@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the capital of Cambodia?",
+      "options": {
+        "a": "Phnom Penh",
+        "b": "Vientiane",
+        "c": "Bangkok",
+        "d": "Hanoi"
+      },
+      "one_liner": "The capital city of Cambodia is **Phnom Penh**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

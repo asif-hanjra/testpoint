@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sentimental':",
+      "options": {
+        "a": "logical",
+        "b": "emotional",
+        "c": "indifferent",
+        "d": "practical"
+      },
+      "one_liner": "'Sentimental' refers to feelings of tenderness or nostalgia, similar to 'emotional' or 'nostalgic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

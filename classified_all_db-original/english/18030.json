@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deter':",
+      "options": {
+        "a": "inhibit:promote",
+        "b": "discourage:assist",
+        "c": "dissuade:encourage",
+        "d": "prevent:permit"
+      },
+      "one_liner": "'Inhibit' is a synonym of 'deter', while 'promote' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For an induction machine rated at 150 V and 3.5 kW, with 90% efficiency, if the armature current is increased to 200% of its rated value, the machine's rated current would be ______?",
+      "options": {
+        "a": "1.5 times the rated current",
+        "b": "3 times the rated current",
+        "c": "2 times the rated current",
+        "d": "1.2 times the rated current"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

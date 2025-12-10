@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which pass is midway between the legendary Khyber Pass and the Bolan Pass?",
+      "options": {
+        "a": "Lowari Pass",
+        "b": "Gomal Pass",
+        "c": "Shandur Pass",
+        "d": "Dargai Pass"
+      },
+      "one_liner": "Gomal Pass is located midway between the legendary **Khyber Pass** and the **Bolan Pass**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

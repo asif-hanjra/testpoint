@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'profit':",
+      "options": {
+        "a": "revenue:deficit",
+        "b": "income:gain",
+        "c": "benefit:advantage",
+        "d": "earnings:debt"
+      },
+      "one_liner": "'Revenue' is a synonym of 'profit', while 'deficit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

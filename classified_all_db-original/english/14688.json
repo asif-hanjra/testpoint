@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'blasphemy':",
+      "options": {
+        "a": "profanity:piety",
+        "b": "sacrilege:respect",
+        "c": "irreverence:devotion",
+        "d": "disrespect:worship"
+      },
+      "one_liner": "'Profanity' is a synonym of 'blasphemy', while 'piety' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

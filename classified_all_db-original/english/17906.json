@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You can lead a horse ___ water, but you cannot make him drink.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "in",
+        "d": "by"
+      },
+      "one_liner": "You can lead a horse 'to' water, but you cannot make him drink.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

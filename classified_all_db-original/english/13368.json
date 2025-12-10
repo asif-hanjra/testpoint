@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fat':",
+      "options": {
+        "a": "slim",
+        "b": "lean",
+        "c": "skinny",
+        "d": "chubby"
+      },
+      "one_liner": "'Fat' can mean having a lot of excess tissue, similar to 'plump' or 'chubby'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

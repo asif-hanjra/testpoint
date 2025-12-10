@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'facetious':",
+      "options": {
+        "a": "witty:grave",
+        "b": "humorous:solemn",
+        "c": "silly:serious",
+        "d": "jocular:respectful"
+      },
+      "one_liner": "'Witty' is a synonym of 'facetious', while 'grave' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

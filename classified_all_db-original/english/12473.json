@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'assent':",
+      "options": {
+        "a": "concur:reject",
+        "b": "agree:consent",
+        "c": "accede:approve",
+        "d": "accept:agree"
+      },
+      "one_liner": "'Concur' is a synonym for 'assent', while 'reject' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

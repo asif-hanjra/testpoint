@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "POS are which type of documents data?",
+      "options": {
+        "a": "Notes",
+        "b": "Special Order",
+        "c": "Medication Record",
+        "d": "Physician Order Sheets"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

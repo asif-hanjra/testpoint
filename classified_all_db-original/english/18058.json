@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "There aren't ___ people here.",
+      "options": {
+        "a": "much",
+        "b": "many",
+        "c": "some",
+        "d": "any"
+      },
+      "one_liner": "There aren't 'many' people here.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Before you can use the computer, you need to _______ it.",
+      "options": {
+        "a": "bring up",
+        "b": "boot up",
+        "c": "take off",
+        "d": "set out"
+      },
+      "one_liner": "Before using the computer, you need to 'boot up' it.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

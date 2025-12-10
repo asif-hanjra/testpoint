@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who presented the theory of Evolution?",
+      "options": {
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Charles Darwin",
+        "d": "Gregor Mendel"
+      },
+      "one_liner": "The theory of Evolution was presented by **Charles Darwin**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cozy':",
+      "options": {
+        "a": "comfy",
+        "b": "snug",
+        "c": "uncomfortable",
+        "d": "inviting"
+      },
+      "one_liner": "An antonym of 'cozy' is 'uncomfortable', which implies a lack of comfort and warmth.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

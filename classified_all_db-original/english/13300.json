@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'putrefy':",
+      "options": {
+        "a": "decay:sanitize",
+        "b": "rot:clean",
+        "c": "decompose:freshen",
+        "d": "spoil:preserve"
+      },
+      "one_liner": "'Decay' is a synonym of 'putrefy', while 'sanitize' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

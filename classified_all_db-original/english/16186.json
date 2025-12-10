@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sate':",
+      "options": {
+        "a": "satisfy",
+        "b": "fulfill",
+        "c": "deprive",
+        "d": "indulge"
+      },
+      "one_liner": "An antonym of 'sate' is 'deprive', which means to deny someone the satisfaction of their needs or desires.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

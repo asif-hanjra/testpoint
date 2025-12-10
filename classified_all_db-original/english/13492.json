@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "TUREEN : SOUP :: GOBLET : ________?",
+      "options": {
+        "a": "Juice",
+        "b": "Water",
+        "c": "Wine",
+        "d": "Milk"
+      },
+      "one_liner": "A tureen is a dish used for serving soup, just as a goblet is a type of glass used for wine.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

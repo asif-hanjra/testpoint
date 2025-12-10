@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rebate':",
+      "options": {
+        "a": "discount",
+        "b": "deduction",
+        "c": "surcharge",
+        "d": "refund"
+      },
+      "one_liner": "An antonym for 'rebate' is 'surcharge', which means an additional charge or payment.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

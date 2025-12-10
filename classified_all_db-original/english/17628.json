@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ambitious':",
+      "options": {
+        "a": "unambitious",
+        "b": "motivated",
+        "c": "driven",
+        "d": "eager"
+      },
+      "one_liner": "An antonym for 'ambitious' is 'unambitious', indicating a lack of desire to succeed.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

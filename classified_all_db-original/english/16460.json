@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'diligent':",
+      "options": {
+        "a": "lazy",
+        "b": "industrious",
+        "c": "negligent",
+        "d": "careless"
+      },
+      "one_liner": "'Diligent' refers to someone who is hardworking and careful—qualities also described by the word 'industrious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

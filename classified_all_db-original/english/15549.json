@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gradual':",
+      "options": {
+        "a": "progressive:immediate",
+        "b": "steady:constant",
+        "c": "incremental:gradual",
+        "d": "slow:rapid"
+      },
+      "one_liner": "'Progressive' is a synonym of 'gradual', while 'immediate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

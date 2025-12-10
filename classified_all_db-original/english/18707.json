@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'arrogant':",
+      "options": {
+        "a": "humble",
+        "b": "conceited",
+        "c": "modest",
+        "d": "shy"
+      },
+      "one_liner": "'Arrogant' describes someone who is overly proud or haughty, much like 'conceited'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

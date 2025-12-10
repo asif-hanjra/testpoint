@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tout':",
+      "options": {
+        "a": "promote:undermine",
+        "b": "support:enhance",
+        "c": "endorse:approve",
+        "d": "advertise:acknowledge"
+      },
+      "one_liner": "'Promote' is a synonym of 'tout', while 'undermine' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

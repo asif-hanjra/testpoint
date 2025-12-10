@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'indigent':",
+      "options": {
+        "a": "destitute:rich",
+        "b": "poor:affluent",
+        "c": "needy:prosperous",
+        "d": "impoverished:wealthy"
+      },
+      "one_liner": "'Destitute' is a synonym of 'indigent', while 'rich' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

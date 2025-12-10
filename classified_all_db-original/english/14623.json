@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'high':",
+      "options": {
+        "a": "low",
+        "b": "towering",
+        "c": "shallow",
+        "d": "deep"
+      },
+      "one_liner": "'High' can mean elevated or lofty, similar to 'towering' in height.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

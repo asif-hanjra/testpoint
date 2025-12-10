@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The headmaster gave prizes ___ some students.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "The headmaster gave prizes 'to' some students.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

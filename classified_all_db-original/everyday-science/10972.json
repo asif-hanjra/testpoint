@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is hysteria?",
+      "options": {
+        "a": "A disorder with physical symptoms like blindness and shivering",
+        "b": "A type of depression",
+        "c": "A digestive disorder",
+        "d": "None of these"
+      },
+      "one_liner": "Hysteria is a disorder, mostly affecting women, with symptoms like blindness, deafness, ringing in the ears, and shivering.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impura':",
+      "options": {
+        "a": "tainted",
+        "b": "defiled",
+        "c": "pure",
+        "d": "sullied"
+      },
+      "one_liner": "An antonym of 'impura' is 'pure', which means free from any contaminants or pollutants.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

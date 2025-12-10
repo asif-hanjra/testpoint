@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'moral':",
+      "options": {
+        "a": "ethical:immoral",
+        "b": "righteous:corrupt",
+        "c": "virtuous:dishonest",
+        "d": "honorable:unethical"
+      },
+      "one_liner": "'Righteous' is a synonym of 'moral', while 'corrupt' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

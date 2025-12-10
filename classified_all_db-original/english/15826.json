@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'succumb':",
+      "options": {
+        "a": "resist",
+        "b": "confront",
+        "c": "submit",
+        "d": "challenge"
+      },
+      "one_liner": "'Succumb' means to fail to resist pressure, temptation, or some other negative force \n—words like 'yield' and 'submit' share similar meanings.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

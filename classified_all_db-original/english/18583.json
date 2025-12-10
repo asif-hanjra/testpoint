@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Our vacation plans _______ because of the bad weather.",
+      "options": {
+        "a": "ran out",
+        "b": "fell through",
+        "c": "broke up",
+        "d": "turned in"
+      },
+      "one_liner": "Our vacation plans 'fell through' because of the bad weather.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

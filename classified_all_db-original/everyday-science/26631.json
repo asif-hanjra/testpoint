@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What gas is released by plants during the process of photosynthesis?",
+      "options": {
+        "a": "Carbon dioxide",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Hydrogen"
+      },
+      "one_liner": "During photosynthesis, plants release **oxygen** as a byproduct into the atmosphere.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

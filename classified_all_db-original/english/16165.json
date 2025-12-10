@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'broad':",
+      "options": {
+        "a": "expansive:limited",
+        "b": "wide:narrow",
+        "c": "large:small",
+        "d": "vast:tiny"
+      },
+      "one_liner": "'Expansive' is a synonym of 'broad', while 'limited' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

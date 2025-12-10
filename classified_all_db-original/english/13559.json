@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I am scared ___ heights.",
+      "options": {
+        "a": "at",
+        "b": "of",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "I am scared 'of' heights.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which place is known for having the largest reserves of natural gas in Sibi Division, Baluchistan?",
+      "options": {
+        "a": "Quetta",
+        "b": "Sui",
+        "c": "Gwadar",
+        "d": "Khuzdar"
+      },
+      "one_liner": "The largest reserves of natural gas in Sibi Division, Baluchistan, are found at **Sui**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

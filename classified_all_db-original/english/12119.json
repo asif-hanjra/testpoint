@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'scattered':",
+      "options": {
+        "a": "dispersed",
+        "b": "separated",
+        "c": "gathered",
+        "d": "spread"
+      },
+      "one_liner": "An antonym of 'scattered' is 'gathered', which means brought together or collected.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

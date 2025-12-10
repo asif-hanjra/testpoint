@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which hormone is administered to patients suffering from diabetes?",
+      "options": {
+        "a": "Insulin",
+        "b": "Adrenaline",
+        "c": "Thyroxine",
+        "d": "Cortisol"
+      },
+      "one_liner": "Patients suffering from diabetes are commonly administered **insulin** to help regulate their blood sugar levels.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rigor':",
+      "options": {
+        "a": "harshness:gentleness",
+        "b": "severity:softness",
+        "c": "stringency:flexibility",
+        "d": "strictness:leniency"
+      },
+      "one_liner": "'Harshness' is a synonym for 'rigor', while 'gentleness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

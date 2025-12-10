@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The Iberian Peninsula is located on which continent?",
+      "options": {
+        "a": "Asia",
+        "b": "Africa",
+        "c": "Europe",
+        "d": "None of these"
+      },
+      "one_liner": "The Iberian Peninsula is geographically situated in **Europe**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Peninsulas",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Peninsulas",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

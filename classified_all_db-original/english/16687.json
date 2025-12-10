@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'separate':",
+      "options": {
+        "a": "attach",
+        "b": "detach",
+        "c": "combine",
+        "d": "merge"
+      },
+      "one_liner": "'Separate' means to divide or disconnect, similar to 'disunite' or 'detach'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

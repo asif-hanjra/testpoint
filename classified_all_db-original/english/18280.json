@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ornithologist':",
+      "options": {
+        "a": "botanist",
+        "b": "zoologist",
+        "c": "entomologist",
+        "d": "ichthyologist"
+      },
+      "one_liner": "An 'ornithologist' specializes in birds, whereas a 'botanist' specializes in plants, making them antonyms in the context of specialization.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

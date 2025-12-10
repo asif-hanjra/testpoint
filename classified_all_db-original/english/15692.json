@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obfuscate':",
+      "options": {
+        "a": "conceal:reveal",
+        "b": "clarify:confuse",
+        "c": "mystify:explain",
+        "d": "distort:clarify"
+      },
+      "one_liner": "'Conceal' is a synonym of 'obfuscate', while 'reveal' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

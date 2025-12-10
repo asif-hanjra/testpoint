@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'alter':",
+      "options": {
+        "a": "change",
+        "b": "adjust",
+        "c": "preserve",
+        "d": "modify"
+      },
+      "one_liner": "Antonyms of 'alter' include 'maintain' and 'preserve', both implying keeping something as it is.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

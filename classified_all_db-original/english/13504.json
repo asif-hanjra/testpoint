@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'portion':",
+      "options": {
+        "a": "segment",
+        "b": "fraction",
+        "c": "whole",
+        "d": "slice"
+      },
+      "one_liner": "An antonym of 'portion' is 'whole', which refers to the complete or entire thing rather than just a part.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

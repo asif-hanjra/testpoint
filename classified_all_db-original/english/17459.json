@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of speech describes or modifies a noun?",
+      "options": {
+        "a": "Adverb",
+        "b": "Verb",
+        "c": "Adjective",
+        "d": "Preposition"
+      },
+      "one_liner": "An adjective describes or modifies a noun.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

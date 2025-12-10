@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the consequence of CFCs destroying the ozone layer?",
+      "options": {
+        "a": "Asthma",
+        "b": "Skin cancer",
+        "c": "Diabetes",
+        "d": "Heart disease"
+      },
+      "one_liner": "Destruction of the ozone layer by CFCs increases the threat of **skin cancer** among humans.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

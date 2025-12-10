@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the largest producer of fruit and vegetables?",
+      "options": {
+        "a": "India",
+        "b": "United States",
+        "c": "China",
+        "d": "Brazil"
+      },
+      "one_liner": "China holds the distinction of being the world's largest producer of both fruit and vegetables, surpassing all other countries in this sector.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "China",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

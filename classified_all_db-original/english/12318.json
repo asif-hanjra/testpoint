@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tyro':",
+      "options": {
+        "a": "novice",
+        "b": "beginner",
+        "c": "amateur",
+        "d": "expert"
+      },
+      "one_liner": "An antonym of 'tyro' is 'expert', which denotes someone with a high level of skill or knowledge.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

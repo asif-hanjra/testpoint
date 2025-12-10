@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The boy was very naive ___ to grab the lizard in such a way that the tail of the lizard broke in his hand.",
+      "options": {
+        "a": "its",
+        "b": "as",
+        "c": "for",
+        "d": "by"
+      },
+      "one_liner": "The boy was very naive 'as' to grab the lizard in such a way that the tail of the lizard broke in his hand.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

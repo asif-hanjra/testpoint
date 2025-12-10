@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'console':",
+      "options": {
+        "a": "aggravate",
+        "b": "soothe",
+        "c": "disturb",
+        "d": "irritate"
+      },
+      "one_liner": "'Console' means to comfort someone in a time of grief or disappointment, similar to 'soothe' or 'solace'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

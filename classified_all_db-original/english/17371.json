@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You should _______ for cars when crossing the street.",
+      "options": {
+        "a": "run out",
+        "b": "watch out",
+        "c": "give in",
+        "d": "take off"
+      },
+      "one_liner": "You should 'watch out' for cars when crossing the street.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

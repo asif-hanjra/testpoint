@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are possible consequences of Ascariasis in children?",
+      "options": {
+        "a": "Poor weight gain and malnutrition",
+        "b": "Hair loss",
+        "c": "Itchy skin",
+        "d": "None of these"
+      },
+      "one_liner": "In children, Ascariasis can lead to **poor weight gain and malnutrition**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

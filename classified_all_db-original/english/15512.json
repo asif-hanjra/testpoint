@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lizard':",
+      "options": {
+        "a": "mammal",
+        "b": "reptile",
+        "c": "amphibian",
+        "d": "bird"
+      },
+      "one_liner": "'Lizard' is a reptile, so 'reptile' can be considered a broader synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

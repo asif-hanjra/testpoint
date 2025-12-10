@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'identical':",
+      "options": {
+        "a": "twin:unique",
+        "b": "similar:identical",
+        "c": "equivalent:different",
+        "d": "alike:same"
+      },
+      "one_liner": "'Twin' is a synonym of 'identical', while 'unique' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

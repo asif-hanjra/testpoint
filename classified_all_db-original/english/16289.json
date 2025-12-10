@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'best':",
+      "options": {
+        "a": "optimal:poorest",
+        "b": "superior:inferior",
+        "c": "excellent:average",
+        "d": "good:bad"
+      },
+      "one_liner": "'Optimal' is a synonym of 'best', while 'poorest' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

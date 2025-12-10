@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the founder of the Nawaiwaqt newspaper?",
+      "options": {
+        "a": "Hameed Nizami",
+        "b": "Zafarullah Khan",
+        "c": "Chaudhry Rehmat Ali",
+        "d": "None of these"
+      },
+      "one_liner": "The Nawaiwaqt newspaper was founded by **Hameed Nizami**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'virtuous':",
+      "options": {
+        "a": "ethical",
+        "b": "honorable",
+        "c": "immoral",
+        "d": "noble"
+      },
+      "one_liner": "The opposite of 'virtuous', which means morally good, would be 'immoral'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

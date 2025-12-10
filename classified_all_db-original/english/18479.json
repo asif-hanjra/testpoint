@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "When she goes out, she takes ___ umbrella.",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "by"
+      },
+      "one_liner": "When she goes out, she takes 'an' umbrella.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

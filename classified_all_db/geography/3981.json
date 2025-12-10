@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which side of Cuba is the Bermuda Triangle located?",
+      "options": {
+        "a": "Northwest",
+        "b": "Southwest",
+        "c": "Northeast",
+        "d": "Southeast"
+      },
+      "one_liner": "The **Bermuda Triangle** is located on the **northeast side** of Cuba.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

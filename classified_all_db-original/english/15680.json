@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sordid':",
+      "options": {
+        "a": "clean",
+        "b": "sleazy",
+        "c": "honorable",
+        "d": "pure"
+      },
+      "one_liner": "'Sordid' describes something morally ignoble or filthy, similar to 'sleazy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

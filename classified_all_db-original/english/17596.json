@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reverberate':",
+      "options": {
+        "a": "echo:suppress",
+        "b": "resonate:muffle",
+        "c": "amplify:whisper",
+        "d": "resound:hush"
+      },
+      "one_liner": "'Echo' is a synonym of 'reverberate', while 'suppress' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

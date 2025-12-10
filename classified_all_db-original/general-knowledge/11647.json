@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many member states does the Arab League have currently?",
+      "options": {
+        "a": "20",
+        "b": "21",
+        "c": "22",
+        "d": "23"
+      },
+      "one_liner": "The Arab League currently has **22** member states.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Arab League",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Arab League",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

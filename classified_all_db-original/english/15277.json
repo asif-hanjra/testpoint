@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'garrulous':",
+      "options": {
+        "a": "silent",
+        "b": "loquacious",
+        "c": "reticent",
+        "d": "laconic"
+      },
+      "one_liner": "'Garrulous' describes someone who is talkative or chatty, similar to 'loquacious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

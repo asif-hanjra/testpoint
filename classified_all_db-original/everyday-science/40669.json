@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal is used in electric contacts and arc-welding electrodes?",
+      "options": {
+        "a": "Tungsten",
+        "b": "Copper",
+        "c": "Iron",
+        "d": "Silver"
+      },
+      "one_liner": "Because of its durability and conductivity, **tungsten** is used in electric contacts and arc-welding electrodes.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

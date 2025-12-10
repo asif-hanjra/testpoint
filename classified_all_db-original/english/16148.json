@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "This story is replete ___ interesting incidents.",
+      "options": {
+        "a": "of",
+        "b": "with",
+        "c": "by",
+        "d": "in"
+      },
+      "one_liner": "This story is replete 'with' interesting incidents.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'magnify':",
+      "options": {
+        "a": "enhance:lessen",
+        "b": "shrink:expand",
+        "c": "amplify:diminish",
+        "d": "increase:decrease"
+      },
+      "one_liner": "'Enhance' is a synonym of 'magnify', while 'lessen' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

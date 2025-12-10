@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "∫ e^(x²) dx + ln x is: (choose the correct classification)",
+      "options": {
+        "a": "Elementary function",
+        "b": "Algebraic function",
+        "c": "Transcendental but integrable in terms of elementary functions",
+        "d": "Non-elementary integral"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

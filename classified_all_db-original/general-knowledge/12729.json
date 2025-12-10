@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did UK Prime Minister Liz Truss resign?",
+      "options": {
+        "a": "10 September 2022",
+        "b": "20 October 2022",
+        "c": "5 November 2022",
+        "d": "1 December 2022"
+      },
+      "one_liner": "UK Prime Minister Liz Truss resigned on **20 October 2022** after a period of political and economic instability.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

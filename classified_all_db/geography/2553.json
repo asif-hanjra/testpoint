@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Naltar Pass is located to the north of which peak in Gilgit-Baltistan?",
+      "options": {
+        "a": "Rakaposhi",
+        "b": "Shani Peak",
+        "c": "Nanga Parbat",
+        "d": "Diran"
+      },
+      "one_liner": "Naltar Pass is located to the north of **Shani Peak** in Naltar Valley, Gilgit-Baltistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

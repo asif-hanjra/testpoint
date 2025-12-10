@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "EIDER : DUCK :: CEDAR : ________?",
+      "options": {
+        "a": "Bush",
+        "b": "Tree",
+        "c": "Flower",
+        "d": "Grass"
+      },
+      "one_liner": "An eider is a type of duck, while a cedar is a type of tree; a tree is a type of plant. The relationship seems to be about classification.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

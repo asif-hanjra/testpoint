@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How did Qutb Uddin Aibak die?",
+      "options": {
+        "a": "He was assassinated",
+        "b": "He died in battle",
+        "c": "He died while playing Polo",
+        "d": "None of these"
+      },
+      "one_liner": "**Qutb Uddin Aibak** died as a result of a fall from his horse while playing Polo.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

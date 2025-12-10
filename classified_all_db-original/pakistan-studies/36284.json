@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Kargil War was the third war fought over which issue?",
+      "options": {
+        "a": "Water dispute",
+        "b": "Kashmir issue",
+        "c": "Trade dispute",
+        "d": "None of these"
+      },
+      "one_liner": "The Kargil War was the third war fought over the **Kashmir issue** between India and Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "If blood has the Rh factor, what is its type?",
+      "options": {
+        "a": "Negative",
+        "b": "Positive",
+        "c": "Neutral",
+        "d": "None of these"
+      },
+      "one_liner": "If blood contains the Rh factor, the blood type is considered **positive**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

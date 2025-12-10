@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'averse':",
+      "options": {
+        "a": "loath:disposed",
+        "b": "keen:favorable",
+        "c": "eager:reluctant",
+        "d": "fond:antipathetic"
+      },
+      "one_liner": "'Loath' is a synonym of 'averse', while 'disposed' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

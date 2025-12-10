@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'candid':",
+      "options": {
+        "a": "deceptive",
+        "b": "forthright",
+        "c": "evasive",
+        "d": "ambiguous"
+      },
+      "one_liner": "'Candid' means being straightforward or honest, similar to 'forthright'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

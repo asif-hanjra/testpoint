@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sway':",
+      "options": {
+        "a": "influence",
+        "b": "control",
+        "c": "stability",
+        "d": "manipulate"
+      },
+      "one_liner": "Antonyms of 'sway' include 'stability' and 'steadiness', both implying resistance to change or influence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

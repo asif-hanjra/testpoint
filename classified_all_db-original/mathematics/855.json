@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For two non-empty sets A and B, B - A?",
+      "options": {
+        "a": "{x/x ∈ or x ∈ B}",
+        "b": "{x/x ∈ And x ∈ B}",
+        "c": "{x/x ∉ and x ∈ B}",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "According to the 1973 Constitution of Pakistan, what is the term length for the President of Pakistan?",
+      "options": {
+        "a": "4 years",
+        "b": "5 years",
+        "c": "6 years",
+        "d": "None of these"
+      },
+      "one_liner": "According to the 1973 Constitution of Pakistan, the President serves a term of **5 years**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

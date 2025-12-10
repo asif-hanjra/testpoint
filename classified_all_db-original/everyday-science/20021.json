@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The heartbeat is initiated at?",
+      "options": {
+        "a": "AV node",
+        "b": "SA node",
+        "c": "Purkajis fibers",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

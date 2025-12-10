@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obscure':",
+      "options": {
+        "a": "enigmatic:manifest",
+        "b": "clear:ambiguous",
+        "c": "vague:distinct",
+        "d": "muddled:transparent"
+      },
+      "one_liner": "'Enigmatic' is a synonym for 'obscure', while 'manifest' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which nationality did Stephen William Hawking belong to?",
+      "options": {
+        "a": "American",
+        "b": "English",
+        "c": "Canadian",
+        "d": "Australian"
+      },
+      "one_liner": "Stephen William Hawking was an **English** theoretical physicist, cosmologist, and author.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

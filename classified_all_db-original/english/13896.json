@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "CYTOLOGY : CELLS :: GEOLOGY : ________?",
+      "options": {
+        "a": "Mountains",
+        "b": "Rocks",
+        "c": "Cyclones",
+        "d": "Oceans"
+      },
+      "one_liner": "Cytology is the study of cells, and geology is the study of rocks; cyclones are weather phenomena.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

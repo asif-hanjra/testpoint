@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a common symptom of Tetanus?",
+      "options": {
+        "a": "Lockjaw (difficulty in opening the mouth)",
+        "b": "Blurred vision",
+        "c": "Rash",
+        "d": "None of these"
+      },
+      "one_liner": "A common symptom of Tetanus is **lockjaw**, which is difficulty in opening the mouth.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

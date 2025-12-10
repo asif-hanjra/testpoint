@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of the Earth's surface is covered by oceans?",
+      "options": {
+        "a": "50%",
+        "b": "60%",
+        "c": "70%",
+        "d": "80%"
+      },
+      "one_liner": "Oceans cover about **70%** of the Earth's surface, making them the largest habitat on our planet.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

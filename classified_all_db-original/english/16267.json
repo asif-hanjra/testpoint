@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nutrition':",
+      "options": {
+        "a": "malnutrition",
+        "b": "nourishment",
+        "c": "sustenance",
+        "d": "provision"
+      },
+      "one_liner": "An antonym for 'nutrition' is 'malnutrition', which indicates a lack of proper nutrition.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tyro':",
+      "options": {
+        "a": "novice:master",
+        "b": "beginner:expert",
+        "c": "neophyte:professional",
+        "d": "amateur:veteran"
+      },
+      "one_liner": "'Novice' is a synonym of 'tyro', while 'master' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

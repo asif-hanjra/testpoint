@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary use of a cyclotron?",
+      "options": {
+        "a": "To measure temperature",
+        "b": "To accelerate charged particles",
+        "c": "To generate electricity",
+        "d": "None of these"
+      },
+      "one_liner": "A cyclotron is primarily used to accelerate a beam of **charged particles**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

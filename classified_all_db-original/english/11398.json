@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'reliable':",
+      "options": {
+        "a": "trustworthy",
+        "b": "steady",
+        "c": "unreliable",
+        "d": "faithful"
+      },
+      "one_liner": "The antonym of 'reliable' is 'unreliable', indicating a lack of dependability.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is commonly referred to as the 'Big Apple'?",
+      "options": {
+        "a": "Los Angeles",
+        "b": "Chicago",
+        "c": "New York",
+        "d": "San Francisco"
+      },
+      "one_liner": "The city famously known as the 'Big Apple' is **New York**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

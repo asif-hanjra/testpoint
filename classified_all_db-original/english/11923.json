@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'destitute':",
+      "options": {
+        "a": "poor",
+        "b": "needy",
+        "c": "affluent",
+        "d": "bankrupt"
+      },
+      "one_liner": "An antonym of 'destitute' is 'affluent', which means having an abundance of wealth.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'extrovert':",
+      "options": {
+        "a": "shy",
+        "b": "sociable",
+        "c": "reserved",
+        "d": "introverted"
+      },
+      "one_liner": "'Extrovert' refers to someone who is outgoing and socially confident, similar to 'sociable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

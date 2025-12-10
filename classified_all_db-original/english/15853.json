@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'premise':",
+      "options": {
+        "a": "hypothesis:refutation",
+        "b": "theory:proof",
+        "c": "assumption:confirmation",
+        "d": "basis:conclusion"
+      },
+      "one_liner": "'Hypothesis' is a synonym of 'premise', while 'refutation' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

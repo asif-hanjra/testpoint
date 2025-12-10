@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a current function of the United Nations?",
+      "options": {
+        "a": "Maintain international peace and security",
+        "b": "Give humanitarian assistance",
+        "c": "Expand colonial empires",
+        "d": "Protect human rights"
+      },
+      "one_liner": "Among its main functions, the United Nations does not **expand colonial empires**, but rather maintains peace, gives humanitarian assistance, protects human rights, and upholds international law.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'confuse':",
+      "options": {
+        "a": "muddle",
+        "b": "obfuscate",
+        "c": "clarify",
+        "d": "complicate"
+      },
+      "one_liner": "An antonym of 'confuse' is 'clarify', which means to make something understandable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

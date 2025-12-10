@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country is the Atacama Desert located?",
+      "options": {
+        "a": "Argentina",
+        "b": "Chile",
+        "c": "Peru",
+        "d": "Bolivia"
+      },
+      "one_liner": "The **Atacama Desert** is located in **Chile**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

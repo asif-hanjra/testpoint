@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "By which nickname is Amir Khusro sometimes referred to?",
+      "options": {
+        "a": "Tuti-e-Hind",
+        "b": "Bulbul-e-Pakistan",
+        "c": "Shair-e-Mashriq",
+        "d": "None of these"
+      },
+      "one_liner": "Amir Khusro is sometimes referred to as **Tuti-e-Hind**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Amir Khusro",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Amir Khusro",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

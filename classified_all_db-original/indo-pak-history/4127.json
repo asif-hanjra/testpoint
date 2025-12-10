@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the second meeting of the Khilafat movement held?",
+      "options": {
+        "a": "Delhi",
+        "b": "Lahore",
+        "c": "Amritsar",
+        "d": "Karachi"
+      },
+      "one_liner": "The second meeting of the Khilafat movement took place in **Amritsar**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "سب سے پہلے لفظ 'اُردو' کس نے استعمال کیا؟",
+      "options": {
+        "a": "تاریخ",
+        "b": "غالب",
+        "c": "سرسید",
+        "d": "ان میں سے کوئی نہیں"
+      },
+      "one_liner": "لفظ 'اُردو' سب سے پہلے **تاریخ** نے استعمال کیا تھا۔",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

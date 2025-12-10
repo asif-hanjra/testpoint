@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is described as a massive ball mainly consisting of hydrogen and helium?",
+      "options": {
+        "a": "Earth",
+        "b": "Mars",
+        "c": "Saturn",
+        "d": "Venus"
+      },
+      "one_liner": "The planet known as a massive ball mostly made of hydrogen and helium is **Saturn**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

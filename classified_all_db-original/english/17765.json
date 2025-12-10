@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is the word 'because' in the sentence 'She went inside because it was cold'?",
+      "options": {
+        "a": "Adverb",
+        "b": "Noun",
+        "c": "Conjunction",
+        "d": "Adjective"
+      },
+      "one_liner": "In the sentence 'She went inside because it was cold', the word 'because' is a conjunction because it connects two clauses.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

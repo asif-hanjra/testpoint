@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What materials were used to construct the Christ the Redeemer statue?",
+      "options": {
+        "a": "Marble and granite",
+        "b": "Reinforced concrete and soapstone",
+        "c": "Bronze and steel",
+        "d": "None of these"
+      },
+      "one_liner": "The Christ the Redeemer statue was constructed using **reinforced concrete and soapstone**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Christ the Redeemer",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Christ the Redeemer",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

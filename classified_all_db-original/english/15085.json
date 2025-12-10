@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'loose':",
+      "options": {
+        "a": "tight",
+        "b": "slack",
+        "c": "lax",
+        "d": "limp"
+      },
+      "one_liner": "The opposite of 'loose' is 'tight', which means securely fixed or not free.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

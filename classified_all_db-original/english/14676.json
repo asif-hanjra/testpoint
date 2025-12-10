@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'despicable':",
+      "options": {
+        "a": "vile:noble",
+        "b": "honorable:shameful",
+        "c": "disgusting:pleasant",
+        "d": "wicked:virtuous"
+      },
+      "one_liner": "'Vile' is a synonym of 'despicable', while 'noble' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

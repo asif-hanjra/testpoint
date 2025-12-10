@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: They are repairing the road now.",
+      "options": {
+        "a": "The road repaired now.",
+        "b": "The road is being repaired now.",
+        "c": "The road was repairing now.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

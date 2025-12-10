@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'luminous':",
+      "options": {
+        "a": "shiny:dark",
+        "b": "brilliant:gloomy",
+        "c": "radiant:dull",
+        "d": "glittering:dim"
+      },
+      "one_liner": "'Brilliant' is a synonym of 'luminous', while 'gloomy' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

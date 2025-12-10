@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'imposing':",
+      "options": {
+        "a": "unimpressive",
+        "b": "grand",
+        "c": "impressive",
+        "d": "stately"
+      },
+      "one_liner": "An antonym of 'imposing' is 'unimpressive', which means not grand or impressive.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

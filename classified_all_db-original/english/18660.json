@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gist':",
+      "options": {
+        "a": "crux:peripheral",
+        "b": "essence:central",
+        "c": "core:significant",
+        "d": "substance:trivial"
+      },
+      "one_liner": "'Crux' is a synonym for 'gist', while 'peripheral' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

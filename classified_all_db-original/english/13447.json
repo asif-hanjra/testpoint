@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'inundate':",
+      "options": {
+        "a": "flood",
+        "b": "soak",
+        "c": "dehydrate",
+        "d": "drench"
+      },
+      "one_liner": "An antonym of 'inundate' is 'dehydrate', which means to remove water or moisture.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

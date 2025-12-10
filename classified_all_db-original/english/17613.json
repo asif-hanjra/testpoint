@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'wisdom':",
+      "options": {
+        "a": "insight:naivety",
+        "b": "knowledge:wisdom",
+        "c": "understanding:ignorance",
+        "d": "sagacity:foolishness"
+      },
+      "one_liner": "'Insight' is a synonym for 'wisdom', while 'naivety' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

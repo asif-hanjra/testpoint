@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'flounder':",
+      "options": {
+        "a": "advance",
+        "b": "stumble",
+        "c": "succeed",
+        "d": "progress"
+      },
+      "one_liner": "'Flounder' means to struggle or to move clumsily, similar to 'falter' or 'stumble'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

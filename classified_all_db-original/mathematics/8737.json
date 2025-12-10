@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "(a + b)² + (a - b)² = _____?",
+      "options": {
+        "a": "a² + b²",
+        "b": "2a² + 2b²",
+        "c": "a² - b²",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

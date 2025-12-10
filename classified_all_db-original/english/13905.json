@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'blunder':",
+      "options": {
+        "a": "error",
+        "b": "mishap",
+        "c": "success",
+        "d": "oversight"
+      },
+      "one_liner": "An antonym for 'blunder' is 'success', which signifies the opposite of a mistake.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

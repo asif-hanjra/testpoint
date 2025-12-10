@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Disjunction of two statements p and q is true if?",
+      "options": {
+        "a": "p is false",
+        "b": "both p and q are false",
+        "c": "one of p and q is true",
+        "d": "q is false"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

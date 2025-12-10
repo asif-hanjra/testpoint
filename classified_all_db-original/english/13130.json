@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mischievous':",
+      "options": {
+        "a": "naughty",
+        "b": "playful",
+        "c": "well-behaved",
+        "d": "tricky"
+      },
+      "one_liner": "The opposite of 'mischievous', which suggests playful trouble, would be 'well-behaved' or 'obedient'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

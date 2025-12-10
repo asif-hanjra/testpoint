@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times a year does the Sun shine vertically on the Equator?",
+      "options": {
+        "a": "Once",
+        "b": "Twice",
+        "c": "Thrice",
+        "d": "None of these"
+      },
+      "one_liner": "The Sun shines vertically on the Equator **twice a year**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

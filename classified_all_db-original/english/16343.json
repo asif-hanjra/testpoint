@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obey':",
+      "options": {
+        "a": "disregard",
+        "b": "comply",
+        "c": "ignore",
+        "d": "defy"
+      },
+      "one_liner": "'Obey' means to follow commands or instructions, similar to 'comply' or 'heed'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

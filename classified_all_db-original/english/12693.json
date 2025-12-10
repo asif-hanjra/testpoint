@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'annotate':",
+      "options": {
+        "a": "erase",
+        "b": "comment",
+        "c": "ignore",
+        "d": "neglect"
+      },
+      "one_liner": "'Annotate' means to add notes or comments to a text, similar to 'comment' or 'gloss'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

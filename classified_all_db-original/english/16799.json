@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of speech expresses action or being?",
+      "options": {
+        "a": "Adjective",
+        "b": "Noun",
+        "c": "Verb",
+        "d": "Conjunction"
+      },
+      "one_liner": "A verb expresses action or a state of being.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

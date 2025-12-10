@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bask':",
+      "options": {
+        "a": "shiver",
+        "b": "revel",
+        "c": "freeze",
+        "d": "chill"
+      },
+      "one_liner": "'Bask' means to lie in or be exposed to warmth and light, typically from the sun, similar to 'revel' or 'luxuriate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

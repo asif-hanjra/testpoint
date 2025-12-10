@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which Cricket World Cup was the white ball used for the first time?",
+      "options": {
+        "a": "1987",
+        "b": "1992",
+        "c": "1996",
+        "d": "2003"
+      },
+      "one_liner": "The white cricket ball was first introduced in the **1992 Cricket World Cup**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

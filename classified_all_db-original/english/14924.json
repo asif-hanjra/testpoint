@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hamper':",
+      "options": {
+        "a": "facilitate",
+        "b": "impede",
+        "c": "assist",
+        "d": "enable"
+      },
+      "one_liner": "'Hamper' means to hinder or obstruct, so 'impede' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

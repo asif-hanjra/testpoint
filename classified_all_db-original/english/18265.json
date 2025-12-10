@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rationale':",
+      "options": {
+        "a": "confusion",
+        "b": "justification",
+        "c": "emotion",
+        "d": "mystery"
+      },
+      "one_liner": "'Rationale' refers to the reasoning or explanation behind something, similar to 'justification'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

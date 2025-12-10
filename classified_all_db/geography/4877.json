@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country shares the shortest international boundary with Pakistan?",
+      "options": {
+        "a": "India",
+        "b": "Afghanistan",
+        "c": "Iran",
+        "d": "China"
+      },
+      "one_liner": "Pakistan shares its shortest international boundary with **China**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

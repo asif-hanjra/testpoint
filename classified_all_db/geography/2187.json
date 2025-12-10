@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Before gaining independence, Kosovo was a part of which country?",
+      "options": {
+        "a": "Bosnia",
+        "b": "Serbia",
+        "c": "Montenegro",
+        "d": "None of these"
+      },
+      "one_liner": "Prior to its independence, Kosovo was a region within **Serbia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

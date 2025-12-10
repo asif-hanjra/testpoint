@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dissent':",
+      "options": {
+        "a": "agreement",
+        "b": "objection",
+        "c": "conformity",
+        "d": "harmony"
+      },
+      "one_liner": "'Dissent' refers to disagreement or opposition, similar to 'disagreement' or 'objection'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Wash the shirts.",
+      "options": {
+        "a": "Let the shirts be washed.",
+        "b": "Let the shirts be wash.",
+        "c": "Let the shirts washed.",
+        "d": "None of the above"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

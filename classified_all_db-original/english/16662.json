@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'limerick':",
+      "options": {
+        "a": "epic",
+        "b": "nonsense verse",
+        "c": "sonnet",
+        "d": "haiku"
+      },
+      "one_liner": "A 'limerick' is a humorous five-line poem with a distinctive rhythm, similar to a 'nonsense verse'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

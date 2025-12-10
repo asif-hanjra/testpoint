@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the phrase 'to pass by':",
+      "options": {
+        "a": "to stay",
+        "b": "to approach",
+        "c": "to go by",
+        "d": "to halt"
+      },
+      "one_liner": "'To pass by' means to go past something, similar to 'to go by' or 'to move past'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

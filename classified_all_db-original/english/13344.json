@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'shunt':",
+      "options": {
+        "a": "merge",
+        "b": "divert",
+        "c": "converge",
+        "d": "align"
+      },
+      "one_liner": "'Shunt' means to move or turn aside—words like 'divert' and 'reroute' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

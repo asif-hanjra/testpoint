@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'plummet':",
+      "options": {
+        "a": "drop:ascend",
+        "b": "fall:rise",
+        "c": "sink:soar",
+        "d": "tumble:climb"
+      },
+      "one_liner": "'Drop' is a synonym of 'plummet', while 'ascend' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

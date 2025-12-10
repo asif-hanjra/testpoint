@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "JUNKET : TRIP :: TRINKET : ________?",
+      "options": {
+        "a": "Jewelry",
+        "b": "Bag",
+        "c": "Gift",
+        "d": "Souvenir"
+      },
+      "one_liner": "A junket is a type of trip, but the relationship between trinket and bag is not directly analogous in the same way.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

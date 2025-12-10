@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'egalitarian':",
+      "options": {
+        "a": "elitist",
+        "b": "populist",
+        "c": "democratic",
+        "d": "republican"
+      },
+      "one_liner": "An antonym of 'egalitarian' is 'elitist', which suggests a preference for a select group over equal treatment for all.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

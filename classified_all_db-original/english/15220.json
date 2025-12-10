@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'synthetic':",
+      "options": {
+        "a": "artificial:authentic",
+        "b": "fake:real",
+        "c": "man-made:natural",
+        "d": "imitation:genuine"
+      },
+      "one_liner": "'Artificial' is a synonym of 'synthetic', while 'authentic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

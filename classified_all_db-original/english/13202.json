@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gummy':",
+      "options": {
+        "a": "slick",
+        "b": "sticky",
+        "c": "adhesive",
+        "d": "viscous"
+      },
+      "one_liner": "An antonym of 'gummy' is 'slick', which means slippery and not sticky.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "In how many ways can a President, Vice President, and Water-boy be selected from a group of 10 people?",
+      "options": {
+        "a": "10P3",
+        "b": "10C3",
+        "c": "240",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2021
+}

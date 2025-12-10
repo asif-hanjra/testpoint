@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'affliction':",
+      "options": {
+        "a": "misery",
+        "b": "torment",
+        "c": "relief",
+        "d": "anguish"
+      },
+      "one_liner": "While 'affliction' implies a state of distress, 'relief' denotes the alleviation or removal of pain and suffering.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

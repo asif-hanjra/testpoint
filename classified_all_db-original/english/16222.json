@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'refute':",
+      "options": {
+        "a": "deny",
+        "b": "disprove",
+        "c": "confirm",
+        "d": "rebut"
+      },
+      "one_liner": "The antonym of 'refute' is 'confirm', which means to establish the truth or validity of something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

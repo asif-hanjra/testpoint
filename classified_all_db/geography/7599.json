@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which two districts is the Rasul Barrage situated?",
+      "options": {
+        "a": "Gujranwala and Sialkot",
+        "b": "Jhelum and Mandi Bahauddin",
+        "c": "Phalia and Sialkot",
+        "d": "None of these"
+      },
+      "one_liner": "Rasul Barrage is located between **Jhelum District and Mandi Bahauddin District**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

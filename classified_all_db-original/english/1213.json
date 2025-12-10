@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: \"Ronny, are you ready for the race?\", the instructor asked.",
+      "options": {
+        "a": "‘Are you ready for the race Ronny?’, the instructor asked.",
+        "b": "The instructor asked Ronny if he was ready for the race.",
+        "c": "‘Ronny, ready for race?’ the instructor said.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

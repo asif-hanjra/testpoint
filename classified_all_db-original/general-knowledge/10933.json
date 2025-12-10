@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the meaning of the term 'Fiat'?",
+      "options": {
+        "a": "A type of car",
+        "b": "A decree and a command",
+        "c": "A financial institution",
+        "d": "None of these"
+      },
+      "one_liner": "The term 'Fiat' refers to a **decree and a command**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the phrase 'ins and outs':",
+      "options": {
+        "a": "specifics:overview",
+        "b": "particulars:generalities",
+        "c": "details:summaries",
+        "d": "nuances:generalities"
+      },
+      "one_liner": "'Particulars' is a synonym of 'ins and outs', while 'generalities' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

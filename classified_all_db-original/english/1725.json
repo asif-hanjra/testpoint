@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: \"They buy beautiful flowers\".",
+      "options": {
+        "a": "Beautiful flowers is bought by them.",
+        "b": "Beautiful flowers are bought by them.",
+        "c": "Beautiful flowers are buyed by them.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

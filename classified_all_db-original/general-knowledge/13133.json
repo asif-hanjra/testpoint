@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a glacier?",
+      "options": {
+        "a": "A fast flowing river",
+        "b": "A slow moving sheet of ice",
+        "c": "A mountain peak",
+        "d": "None of these"
+      },
+      "one_liner": "A glacier is defined as a **slow moving sheet of ice**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

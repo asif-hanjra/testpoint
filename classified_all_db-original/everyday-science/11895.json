@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organs in a woman's reproductive system are responsible for forming eggs?",
+      "options": {
+        "a": "Ovaries",
+        "b": "Uterus",
+        "c": "Fallopian tubes",
+        "d": "None of these"
+      },
+      "one_liner": "In the female reproductive system, the **ovaries** are responsible for forming eggs.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

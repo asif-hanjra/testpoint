@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following rivers is NOT shown on the map?",
+      "options": {
+        "a": "Ravi",
+        "b": "Sutlej",
+        "c": "Beas",
+        "d": "Indus"
+      },
+      "one_liner": "The **Indus** river is not shown on the map of the conflicted border area, while others like Chenab, Ravi, Sutlej, and Beas are included.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many people have held the position of Secretary-General of the United Nations before António Guterres?",
+      "options": {
+        "a": "Seven",
+        "b": "Eight",
+        "c": "Nine",
+        "d": "Ten"
+      },
+      "one_liner": "Before António Guterres, **eight** people had held the position of Secretary-General of the United Nations.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I am confident ___ winning.",
+      "options": {
+        "a": "in",
+        "b": "of",
+        "c": "for",
+        "d": "at"
+      },
+      "one_liner": "I am confident 'of' winning.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

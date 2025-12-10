@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'surrgent':",
+      "options": {
+        "a": "ascending:descending",
+        "b": "emergent:submergent",
+        "c": "urgent:unimportant",
+        "d": "nonexistent:existent"
+      },
+      "one_liner": "Since 'surrgent' is not a recognized English word, it does not have synonym:antonym pairs.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conflate':",
+      "options": {
+        "a": "merge:unite",
+        "b": "fuse:split",
+        "c": "combine:join",
+        "d": "blend:merge"
+      },
+      "one_liner": "'Fuse' is a synonym of 'conflate', while 'split' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'plausible':",
+      "options": {
+        "a": "believable",
+        "b": "credible",
+        "c": "implausible",
+        "d": "probable"
+      },
+      "one_liner": "An antonym for 'plausible' is 'implausible', which means not believable or unlikely.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

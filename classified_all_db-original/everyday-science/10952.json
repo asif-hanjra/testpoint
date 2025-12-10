@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the second largest planet in our solar system?",
+      "options": {
+        "a": "Jupiter",
+        "b": "Saturn",
+        "c": "Neptune",
+        "d": "Earth"
+      },
+      "one_liner": "**Saturn** is the second largest planet in our solar system.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

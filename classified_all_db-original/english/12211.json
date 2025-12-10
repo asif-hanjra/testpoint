@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'insinuate':",
+      "options": {
+        "a": "hint",
+        "b": "suggest",
+        "c": "declare",
+        "d": "imply"
+      },
+      "one_liner": "The antonym of 'insinuate' is 'declare', as it means to state something clearly and directly, without any hinting.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

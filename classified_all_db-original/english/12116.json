@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of speech shows relationships such as position, time, or direction between a noun/pronoun and other words?",
+      "options": {
+        "a": "Conjunction",
+        "b": "Noun",
+        "c": "Verb",
+        "d": "Preposition"
+      },
+      "one_liner": "A preposition shows the relationship of a noun or pronoun to other words in the sentence.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

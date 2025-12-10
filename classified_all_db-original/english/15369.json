@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'remorse':",
+      "options": {
+        "a": "penitence:apathy",
+        "b": "regret:joy",
+        "c": "guilt:pleasure",
+        "d": "contrition:happiness"
+      },
+      "one_liner": "'Penitence' is a synonym for 'remorse', while 'apathy' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

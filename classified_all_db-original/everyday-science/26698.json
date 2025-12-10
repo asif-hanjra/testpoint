@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What form of energy is used in tidal power to generate electricity?",
+      "options": {
+        "a": "Solar energy",
+        "b": "Wind energy",
+        "c": "Kinetic energy from tides",
+        "d": "Geothermal energy"
+      },
+      "one_liner": "Tidal power generates electricity by converting the **kinetic energy obtained from tides**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

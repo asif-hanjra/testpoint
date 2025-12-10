@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who would pay the salary of the British Secretary of State for Indian Affairs according to the British government announcement?",
+      "options": {
+        "a": "Indian resources",
+        "b": "British resources",
+        "c": "Joint resources",
+        "d": "None of these"
+      },
+      "one_liner": "The British government announced that the pay of the Secretary of State for Indian Affairs would be paid from **British resources**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

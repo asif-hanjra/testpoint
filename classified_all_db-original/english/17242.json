@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'buoyant':",
+      "options": {
+        "a": "sinking",
+        "b": "rising",
+        "c": "floating",
+        "d": "elevating"
+      },
+      "one_liner": "An antonym of 'buoyant' is 'sinking', which means moving downward below the surface, the opposite of floating or rising.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

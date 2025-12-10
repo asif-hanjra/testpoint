@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the approximate weight of the human brain?",
+      "options": {
+        "a": "0.5 kg (1 lb)",
+        "b": "1.3 kg (3 lb)",
+        "c": "2.5 kg (5 lb)",
+        "d": "None of these"
+      },
+      "one_liner": "The human brain typically weighs about **1.3 kg (3 lb)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

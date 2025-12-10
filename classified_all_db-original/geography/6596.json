@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country is Tioga Pass located?",
+      "options": {
+        "a": "Canada",
+        "b": "USA",
+        "c": "Australia",
+        "d": "None of these"
+      },
+      "one_liner": "Tioga Pass is located in the **USA**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Mountains",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

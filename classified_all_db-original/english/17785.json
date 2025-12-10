@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'magniloquent':",
+      "options": {
+        "a": "bombastic:simple",
+        "b": "eloquent:plain",
+        "c": "verbose:concise",
+        "d": "florid:ornate"
+      },
+      "one_liner": "'Bombastic' is a synonym for 'magniloquent', while 'simple' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

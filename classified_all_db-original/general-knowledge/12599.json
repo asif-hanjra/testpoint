@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is home to the terrorist group Boko Haram?",
+      "options": {
+        "a": "Nigeria",
+        "b": "Sudan",
+        "c": "Somalia",
+        "d": "Libya"
+      },
+      "one_liner": "Boko Haram is a terrorist organization that originated in **Nigeria**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

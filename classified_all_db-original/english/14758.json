@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which word describes a style of writing or speaking that uses more words than necessary, often to the point of being tedious?",
+      "options": {
+        "a": "Concise",
+        "b": "Verbose",
+        "c": "Succinct",
+        "d": "Terse"
+      },
+      "one_liner": "'Verbose' refers to a style that is wordy and unnecessarily elaborate.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "One Word Substitutions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

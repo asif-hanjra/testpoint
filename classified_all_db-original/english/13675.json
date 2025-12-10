@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'engrossed':",
+      "options": {
+        "a": "focused",
+        "b": "absorbed",
+        "c": "distracted",
+        "d": "captivated"
+      },
+      "one_liner": "The opposite of being 'engrossed' in something is to be 'distracted' or not fully attentive.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

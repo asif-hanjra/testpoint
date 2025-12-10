@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'Five Thousand Years of Pakistan'?",
+      "options": {
+        "a": "REM Wheeler",
+        "b": "I.H. Qureshi",
+        "c": "K.K. Aziz",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'Five Thousand Years of Pakistan' was authored by **REM Wheeler**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

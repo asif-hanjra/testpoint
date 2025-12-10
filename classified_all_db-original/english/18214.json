@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'Read the instructions carefully,' what part of speech is 'carefully'?",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Adverb",
+        "d": "Conjunction"
+      },
+      "one_liner": "'Carefully' is an adverb modifying the verb 'read'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

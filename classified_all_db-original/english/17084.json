@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'shrewd':",
+      "options": {
+        "a": "obtuse",
+        "b": "astute",
+        "c": "foolish",
+        "d": "naive"
+      },
+      "one_liner": "'Shrewd' means having or showing sharp powers of judgment, similar to 'astute' or 'canny'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

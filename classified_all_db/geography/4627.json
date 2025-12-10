@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which bodies of water are included in the Arctic Ocean?",
+      "options": {
+        "a": "Baffin Bay",
+        "b": "Barents Sea",
+        "c": "Beaufort Sea",
+        "d": "All of these"
+      },
+      "one_liner": "The Arctic Ocean includes bodies of water such as **Baffin Bay, Barents Sea, Beaufort Sea, Chukchi Sea, and others**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

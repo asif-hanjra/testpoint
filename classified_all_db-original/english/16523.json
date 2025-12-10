@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Is he eligible ___ this scholarship?",
+      "options": {
+        "a": "to",
+        "b": "for",
+        "c": "with",
+        "d": "at"
+      },
+      "one_liner": "He is eligible 'for' this scholarship.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

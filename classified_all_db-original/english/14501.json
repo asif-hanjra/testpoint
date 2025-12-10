@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adjacent':",
+      "options": {
+        "a": "adjoining:separated",
+        "b": "neighboring:connected",
+        "c": "close:far",
+        "d": "next:together"
+      },
+      "one_liner": "'Adjoining' is a synonym of 'adjacent', while 'separated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

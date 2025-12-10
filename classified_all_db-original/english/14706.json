@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'furious':",
+      "options": {
+        "a": "raging:serene",
+        "b": "angry:happy",
+        "c": "irate:pleased",
+        "d": "enraged:calm"
+      },
+      "one_liner": "'Raging' is a synonym of 'furious', while 'serene' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

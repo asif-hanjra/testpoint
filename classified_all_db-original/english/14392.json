@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Terra firma' refer to?",
+      "options": {
+        "a": "Firm handshake",
+        "b": "Solid ground",
+        "c": "Foreign land",
+        "d": "Fertile soil"
+      },
+      "one_liner": "'Terra firma' is a Latin phrase that means 'solid ground,' often used to describe dry land as opposed to sea or air.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

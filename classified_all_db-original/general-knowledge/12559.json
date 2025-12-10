@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who coined the term 'Gemeinschaft'?",
+      "options": {
+        "a": "Max Weber",
+        "b": "Emile Durkheim",
+        "c": "Ferdinand Tonnies",
+        "d": "None of these"
+      },
+      "one_liner": "The term 'Gemeinschaft' was coined by **Ferdinand Tonnies**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

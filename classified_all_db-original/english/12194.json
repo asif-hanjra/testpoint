@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'canny':",
+      "options": {
+        "a": "clumsy",
+        "b": "sagacious",
+        "c": "careless",
+        "d": "foolish"
+      },
+      "one_liner": "'Canny' describes someone who is shrewd and astute, similar to being 'sagacious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

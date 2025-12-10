@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Rishi Sunak become the British Prime Minister?",
+      "options": {
+        "a": "1 January 2022",
+        "b": "25 October 2022",
+        "c": "15 August 2022",
+        "d": "30 September 2022"
+      },
+      "one_liner": "Rishi Sunak became the British Prime Minister on **25 October 2022**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

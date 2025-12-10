@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the First Round Table Conference of 1930-1931 held?",
+      "options": {
+        "a": "Delhi",
+        "b": "Paris",
+        "c": "Royal Gallery House of Lords, London",
+        "d": "Geneva"
+      },
+      "one_liner": "The First Round Table Conference of 1930-1931 took place at the **Royal Gallery House of Lords, London**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

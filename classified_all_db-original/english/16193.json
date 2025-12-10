@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'their' in the sentence 'Their house is big'?",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Pronoun",
+        "d": "Adverb"
+      },
+      "one_liner": "'Their' is a pronoun, specifically a possessive pronoun, showing ownership.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

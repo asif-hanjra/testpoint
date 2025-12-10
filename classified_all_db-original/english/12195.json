@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dissent':",
+      "options": {
+        "a": "disapproval:approval",
+        "b": "objection:acceptance",
+        "c": "disagreement:agreement",
+        "d": "discord:harmony"
+      },
+      "one_liner": "'Disapproval' is a synonym for 'dissent', while 'approval' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

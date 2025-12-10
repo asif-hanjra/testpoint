@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'adhere':",
+      "options": {
+        "a": "bond",
+        "b": "detach",
+        "c": "cling",
+        "d": "stick"
+      },
+      "one_liner": "The antonym of 'adhere' is 'separate', which means to move or be apart from something else.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

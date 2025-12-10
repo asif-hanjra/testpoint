@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the phrase 'to pass by':",
+      "options": {
+        "a": "to continue",
+        "b": "to stop",
+        "c": "to proceed",
+        "d": "to advance"
+      },
+      "one_liner": "An antonym for 'to pass by' would be 'to stop', which means to cease movement rather than continue past.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'naive':",
+      "options": {
+        "a": "experienced",
+        "b": "unsophisticated",
+        "c": "cynical",
+        "d": "worldly"
+      },
+      "one_liner": "'Naive' means lacking experience or sophistication, similar to 'unsophisticated'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

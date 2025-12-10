@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inauspicious':",
+      "options": {
+        "a": "unfavorable:fortunate",
+        "b": "ominous:propitious",
+        "c": "bleak:optimistic",
+        "d": "pessimistic:auspicious"
+      },
+      "one_liner": "'Ominous' is a synonym of 'inauspicious', while 'propitious' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

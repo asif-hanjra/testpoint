@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'deficit':",
+      "options": {
+        "a": "shortage",
+        "b": "inadequacy",
+        "c": "surplus",
+        "d": "lack"
+      },
+      "one_liner": "An antonym of 'deficit' is 'surplus', which means more than what is needed or used.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

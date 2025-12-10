@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which missile was given to Pakistan during the Afghan War?",
+      "options": {
+        "a": "Patriot missile",
+        "b": "Stinger missile",
+        "c": "Tomahawk missile",
+        "d": "None of these"
+      },
+      "one_liner": "During the Afghan War, the United States provided Pakistan with the **Stinger missile** to support the Mujahideen against Soviet forces.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

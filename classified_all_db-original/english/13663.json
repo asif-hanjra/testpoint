@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "My next door neighbor ___ a dentist and his wife ___ an architect.",
+      "options": {
+        "a": "at, in",
+        "b": "is, is",
+        "c": "on, at",
+        "d": "with, by"
+      },
+      "one_liner": "My next door neighbor 'is' a dentist and his wife 'is' an architect.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

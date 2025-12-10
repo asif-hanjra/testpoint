@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A box contains 5 red balls, 4 blue balls and 3 green balls. Two balls are drawn at random without replacement. What is the probability that both balls are of different colors?",
+      "options": {
+        "a": "47/66",
+        "b": "66/91",
+        "c": "75/91",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

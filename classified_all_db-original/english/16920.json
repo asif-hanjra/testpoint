@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'friendly' in the sentence 'She is a friendly person'?",
+      "options": {
+        "a": "Adjective",
+        "b": "Noun",
+        "c": "Adverb",
+        "d": "Verb"
+      },
+      "one_liner": "In the sentence 'She is a friendly person', the word 'friendly' is an adjective because it describes the noun 'person'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

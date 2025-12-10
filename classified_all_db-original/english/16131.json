@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'retaliate':",
+      "options": {
+        "a": "forgive",
+        "b": "counterattack",
+        "c": "surrender",
+        "d": "ignore"
+      },
+      "one_liner": "'Retaliate' means to fight back or take revenge, similar to 'counterattack'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nefarious':",
+      "options": {
+        "a": "honorable",
+        "b": "villainous",
+        "c": "virtuous",
+        "d": "commendable"
+      },
+      "one_liner": "'Nefarious' describes something wicked or criminal, similar to 'villainous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

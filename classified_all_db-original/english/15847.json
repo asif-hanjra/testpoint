@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'incline':",
+      "options": {
+        "a": "gradient:flat",
+        "b": "ascent:descent",
+        "c": "hill:valley",
+        "d": "rise:fall"
+      },
+      "one_liner": "'Gradient' is a synonym for 'incline', while 'flat' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

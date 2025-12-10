@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the Voice: Where do you keep the current magazines?",
+      "options": {
+        "a": "Where were the current magazines kept?",
+        "b": "Where have the current magazines been kept?",
+        "c": "Where are the current magazines being kept?",
+        "d": "Where are the current magazines kept by you?"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

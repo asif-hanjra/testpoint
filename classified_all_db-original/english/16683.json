@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gist':",
+      "options": {
+        "a": "detail",
+        "b": "essence",
+        "c": "example",
+        "d": "periphery"
+      },
+      "one_liner": "'Gist' refers to the main point or essence, similar to 'essence' or 'core'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

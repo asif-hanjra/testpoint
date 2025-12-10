@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the United Nations Framework Convention on Climate Change (UNFCCC) adopted in 1992?",
+      "options": {
+        "a": "Paris",
+        "b": "New York",
+        "c": "Rio de Janeiro",
+        "d": "Geneva"
+      },
+      "one_liner": "The United Nations Framework Convention on Climate Change (UNFCCC) was adopted in **Rio de Janeiro** in 1992.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

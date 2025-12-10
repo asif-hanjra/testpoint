@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A is brother of B, B is sister of C, C is father of D. Relation of D to A?",
+      "options": {
+        "a": "Son",
+        "b": "Daughter",
+        "c": "Nephew/Niece",
+        "d": "Cousin"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

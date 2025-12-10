@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the leader of the USSR during the Cuban Missile Crisis of 1962?",
+      "options": {
+        "a": "Joseph Stalin",
+        "b": "Leonid Brezhnev",
+        "c": "Nikita Khrushchev",
+        "d": "Mikhail Gorbachev"
+      },
+      "one_liner": "The leader of the USSR during the Cuban Missile Crisis of 1962 was **Nikita Khrushchev**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which district in Khyber Pakhtunkhwa does Broghol Pass connect to Wakhan District of Afghanistan?",
+      "options": {
+        "a": "Dir",
+        "b": "Chitral",
+        "c": "Swat",
+        "d": "Mardan"
+      },
+      "one_liner": "Broghol Pass connects Wakhan District of Afghanistan with **Chitral District** in Khyber Pakhtunkhwa, Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

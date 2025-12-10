@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was appointed as the first governor of West Punjab after the independence of Pakistan?",
+      "options": {
+        "a": "Sir Robert Francis Mudie",
+        "b": "Sir Ghulam Muhammad",
+        "c": "Sir Francis Stanley",
+        "d": "None of these"
+      },
+      "one_liner": "After the independence of Pakistan, the first governor of West Punjab was **Sir Robert Francis Mudie**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

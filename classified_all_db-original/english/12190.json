@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'slim':",
+      "options": {
+        "a": "plump",
+        "b": "svelte",
+        "c": "bulky",
+        "d": "heavy"
+      },
+      "one_liner": "'Slim' refers to being thin in a graceful way, much like 'svelte'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

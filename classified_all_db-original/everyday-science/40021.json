@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest planet in our solar system?",
+      "options": {
+        "a": "Saturn",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Earth"
+      },
+      "one_liner": "The **largest planet** in our solar system is Jupiter.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

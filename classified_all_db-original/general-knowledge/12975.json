@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Russian Revolution take place?",
+      "options": {
+        "a": "1914",
+        "b": "1917",
+        "c": "1920",
+        "d": "1939"
+      },
+      "one_liner": "The Russian Revolution took place in the year **1917**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Vladimir Lenin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Joseph Stalin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

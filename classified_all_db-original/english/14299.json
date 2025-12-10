@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the abbreviation 'R.S.V.P.' stand for when you receive an invitation?",
+      "options": {
+        "a": "Return soon via post",
+        "b": "Repondez s'il vous plait",
+        "c": "Requesting swift verbal permission",
+        "d": "Rate, subscribe, visit please"
+      },
+      "one_liner": "R.S.V.P. stands for 'Repondez s'il vous plait,' a French phrase meaning 'Please respond' to indicate that a response to an invitation is requested.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

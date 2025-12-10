@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which forest is known for large scale deforestation?",
+      "options": {
+        "a": "Black Forest",
+        "b": "Amazon forest",
+        "c": "Congo forest",
+        "d": "Sundarbans"
+      },
+      "one_liner": "Large scale deforestation is notably observed in the **Amazon forest**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

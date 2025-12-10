@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country did Pakistan win the Cricket World Cup in 1992?",
+      "options": {
+        "a": "England",
+        "b": "India",
+        "c": "Australia",
+        "d": "South Africa"
+      },
+      "one_liner": "Pakistan won the Cricket World Cup in **Australia** in 1992.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

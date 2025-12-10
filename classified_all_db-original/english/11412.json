@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'modify':",
+      "options": {
+        "a": "preserve",
+        "b": "adjust",
+        "c": "solidify",
+        "d": "maintain"
+      },
+      "one_liner": "'Modify' means to change or alter, and 'adjust' is a synonym that carries a similar meaning.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Satpara Lake located?",
+      "options": {
+        "a": "Hunza Valley",
+        "b": "Swat Valley",
+        "c": "Skardu Valley",
+        "d": "Neelum Valley"
+      },
+      "one_liner": "Satpara Lake is situated in the scenic **Skardu Valley** of Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

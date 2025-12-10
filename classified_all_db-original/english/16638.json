@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the appropriate expression to wish someone a pleasant journey in French?",
+      "options": {
+        "a": "Bon appétit",
+        "b": "Bon voyage",
+        "c": "Bonne chance",
+        "d": "Bon travail"
+      },
+      "one_liner": "The phrase 'Bon voyage' is a French expression used to wish someone a 'good journey' or 'safe travels'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

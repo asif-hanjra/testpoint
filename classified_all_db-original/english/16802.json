@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inexplicable':",
+      "options": {
+        "a": "unexplainable:explainable",
+        "b": "clear:mysterious",
+        "c": "obvious:obscure",
+        "d": "transparent:enigmatic"
+      },
+      "one_liner": "'Unexplainable' is a synonym of 'inexplicable', while 'explainable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sociable':",
+      "options": {
+        "a": "unsociable",
+        "b": "friendly",
+        "c": "extroverted",
+        "d": "amiable"
+      },
+      "one_liner": "An antonym of 'sociable' is 'unsociable', which describes someone who does not seek or enjoy the company of others.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

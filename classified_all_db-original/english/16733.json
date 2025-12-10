@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'passive':",
+      "options": {
+        "a": "active",
+        "b": "lazy",
+        "c": "dormant",
+        "d": "lethargic"
+      },
+      "one_liner": "The antonym of 'passive' is 'active', which means engaging or ready to engage in physically energetic pursuits.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

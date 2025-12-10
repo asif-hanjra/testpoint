@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What architectural style is Koln Cathedral known for?",
+      "options": {
+        "a": "Romanesque",
+        "b": "Baroque",
+        "c": "Gothic",
+        "d": "Renaissance"
+      },
+      "one_liner": "Koln Cathedral is renowned for its **gothic** architectural style, which is evident in its intricate design and structure.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

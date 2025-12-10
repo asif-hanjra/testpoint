@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deficit':",
+      "options": {
+        "a": "surplus",
+        "b": "shortfall",
+        "c": "excess",
+        "d": "abundance"
+      },
+      "one_liner": "'Deficit' refers to a shortage or inadequacy, similar to the word 'shortfall'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

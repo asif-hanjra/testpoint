@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which continents does Eastern Europe share a border with?",
+      "options": {
+        "a": "Africa",
+        "b": "Asia",
+        "c": "Australia",
+        "d": "None of these"
+      },
+      "one_liner": "Eastern Europe lies in the eastern part of Europe and shares a border with **Asia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

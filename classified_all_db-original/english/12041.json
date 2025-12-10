@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hypocrisy':",
+      "options": {
+        "a": "dishonesty:honesty",
+        "b": "fraudulence:integrity",
+        "c": "deceit:authenticity",
+        "d": "pretense:sincerity"
+      },
+      "one_liner": "'Dishonesty' is a synonym of 'hypocrisy', while 'honesty' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "It is better to be untaught than ___ ill-taught.",
+      "options": {
+        "a": "by",
+        "b": "to be",
+        "c": "with",
+        "d": "for"
+      },
+      "one_liner": "It 'is' better to be untaught than ill-taught.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

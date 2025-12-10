@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mountain range surrounds Skardu Valley?",
+      "options": {
+        "a": "Himalayas",
+        "b": "Karakoram",
+        "c": "Hindu Kush",
+        "d": "Salt Range"
+      },
+      "one_liner": "Skardu Valley is surrounded by the **Karakoram Range**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

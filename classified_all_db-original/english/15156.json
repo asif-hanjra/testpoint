@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Before the exam, I need to _______ my math skills.",
+      "options": {
+        "a": "run out of",
+        "b": "brush up on",
+        "c": "give in to",
+        "d": "break down"
+      },
+      "one_liner": "Before the exam, I need to 'brush up on' my math skills.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

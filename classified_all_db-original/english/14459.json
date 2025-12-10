@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vertigo':",
+      "options": {
+        "a": "steadiness",
+        "b": "dizziness",
+        "c": "whirling",
+        "d": "spinning"
+      },
+      "one_liner": "An antonym of 'vertigo' is 'steadiness', which implies a lack of dizziness or spinning.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

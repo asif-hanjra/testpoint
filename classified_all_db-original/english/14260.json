@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'add':",
+      "options": {
+        "a": "subtract",
+        "b": "append",
+        "c": "divide",
+        "d": "detach"
+      },
+      "one_liner": "'Add' means to join or combine—words like 'append' and 'attach' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

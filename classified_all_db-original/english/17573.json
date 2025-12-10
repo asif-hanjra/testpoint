@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'devilish':",
+      "options": {
+        "a": "mephistophelian:saintly",
+        "b": "benevolent:fiendish",
+        "c": "wicked:virtuous",
+        "d": "evil:good"
+      },
+      "one_liner": "'Mephistophelian' is a synonym for 'devilish', while 'saintly' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

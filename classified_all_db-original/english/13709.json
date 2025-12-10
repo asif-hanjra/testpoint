@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'malevolent':",
+      "options": {
+        "a": "benevolent",
+        "b": "hateful",
+        "c": "spiteful",
+        "d": "vicious"
+      },
+      "one_liner": "The word 'malevolent' is the opposite of 'benevolent', which means well-meaning and kindly.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

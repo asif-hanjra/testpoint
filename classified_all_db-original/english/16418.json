@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'different':",
+      "options": {
+        "a": "similar",
+        "b": "distinct",
+        "c": "alike",
+        "d": "identical"
+      },
+      "one_liner": "'Different' means not the same as another or each other; 'distinct' and 'diverse' are synonyms that convey this meaning.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

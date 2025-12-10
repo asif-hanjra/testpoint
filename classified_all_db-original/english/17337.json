@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'condemn':",
+      "options": {
+        "a": "censure:endorse",
+        "b": "reprove:support",
+        "c": "denounce:commend",
+        "d": "criticize:approve"
+      },
+      "one_liner": "'Censure' is a synonym of 'condemn', while 'endorse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

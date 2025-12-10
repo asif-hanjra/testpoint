@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'laborious':",
+      "options": {
+        "a": "effortless",
+        "b": "hardworking",
+        "c": "industrious",
+        "d": "strenuous"
+      },
+      "one_liner": "The antonym of 'laborious' is 'effortless', meaning something that requires little to no effort.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who founded the Jinnah Awami League in 1950?",
+      "options": {
+        "a": "Khawaja Nazimuddin",
+        "b": "Abdul Hameed Bhashwani",
+        "c": "Huseyn Shaheed Suhrawardy",
+        "d": "Liaquat Ali Khan"
+      },
+      "one_liner": "The Jinnah Awami League was founded in 1950 by **Abdul Hameed Bhashwani**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1950)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

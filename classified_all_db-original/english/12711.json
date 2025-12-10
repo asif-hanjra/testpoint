@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'supplicate':",
+      "options": {
+        "a": "plead",
+        "b": "implore",
+        "c": "demand",
+        "d": "beg"
+      },
+      "one_liner": "An antonym of 'supplicate' is 'demand', which conveys a more forceful and less humble request.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

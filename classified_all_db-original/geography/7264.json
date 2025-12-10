@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which port is considered a strategic coast for travel towards Europe, Africa, and the Atlantic Ocean?",
+      "options": {
+        "a": "Port of Bristol",
+        "b": "Port of Naples",
+        "c": "Port of Lisbon",
+        "d": "Port of Liverpool"
+      },
+      "one_liner": "The Port of Lisbon serves as a strategic coast for travel towards **Europe, Africa, and the Atlantic Ocean**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

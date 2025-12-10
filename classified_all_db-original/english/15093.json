@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'irritate':",
+      "options": {
+        "a": "soothe",
+        "b": "aggravate",
+        "c": "comfort",
+        "d": "appease"
+      },
+      "one_liner": "'Irritate' means to annoy or provoke, so words like 'aggravate' have a similar meaning.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

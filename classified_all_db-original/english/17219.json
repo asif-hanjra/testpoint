@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'amiable':",
+      "options": {
+        "a": "cordial",
+        "b": "friendly",
+        "c": "unfriendly",
+        "d": "warm"
+      },
+      "one_liner": "An antonym of 'amiable' is 'unfriendly', which describes someone not easy to get along with.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

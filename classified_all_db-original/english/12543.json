@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sporadic':",
+      "options": {
+        "a": "occasional:constant",
+        "b": "frequent:intermittent",
+        "c": "irregular:steady",
+        "d": "periodic:continuous"
+      },
+      "one_liner": "'Occasional' is a synonym of 'sporadic', while 'constant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

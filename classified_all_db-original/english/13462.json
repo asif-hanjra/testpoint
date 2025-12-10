@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'innocuous':",
+      "options": {
+        "a": "harmful",
+        "b": "benign",
+        "c": "dangerous",
+        "d": "toxic"
+      },
+      "one_liner": "'Innocuous' means harmless or not offensive, similar to 'harmless' and 'benign'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

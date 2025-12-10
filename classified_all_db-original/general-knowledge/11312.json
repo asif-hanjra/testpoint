@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote 'Musaddas-i-Hali'?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Altaf Hussain Hali",
+        "c": "Hafeez Jalandri",
+        "d": "G. Allana"
+      },
+      "one_liner": "The famous Urdu poem 'Musaddas-i-Hali' was written by **Altaf Hussain Hali**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

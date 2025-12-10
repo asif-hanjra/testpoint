@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'waive':",
+      "options": {
+        "a": "enforce",
+        "b": "surrender",
+        "c": "abandon",
+        "d": "dismiss"
+      },
+      "one_liner": "The antonym of 'waive' is 'enforce', which means to impose or apply a rule or right.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

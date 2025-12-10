@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stark':",
+      "options": {
+        "a": "adorned",
+        "b": "harsh",
+        "c": "bleak",
+        "d": "austere"
+      },
+      "one_liner": "The antonym of 'stark', which means severe or bare, would be 'adorned' or 'embellished'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

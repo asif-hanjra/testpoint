@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'robust':",
+      "options": {
+        "a": "durable",
+        "b": "vigorous",
+        "c": "frail",
+        "d": "hardy"
+      },
+      "one_liner": "An antonym for 'robust', which means strong and healthy, would be 'frail'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

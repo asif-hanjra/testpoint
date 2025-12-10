@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the All Parties Conference of Indian political parties held under the leadership of Pandit Motilal Nehru?",
+      "options": {
+        "a": "1930",
+        "b": "1927",
+        "c": "1928",
+        "d": "1929"
+      },
+      "one_liner": "The All Parties Conference led by Pandit Motilal Nehru was held in the year **1928**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

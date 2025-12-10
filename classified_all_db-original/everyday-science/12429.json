@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is parthenocarpy?",
+      "options": {
+        "a": "Production of seedless fruit",
+        "b": "Production of fruits with seeds",
+        "c": "Production of flowers",
+        "d": "None of these"
+      },
+      "one_liner": "Parthenocarpy refers to the process by which fruit is produced without fertilization, resulting in **seedless** fruit.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

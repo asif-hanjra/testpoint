@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which was the first city captured by Muhammad bin Qasim in Sindh?",
+      "options": {
+        "a": "Multan",
+        "b": "Debal",
+        "c": "Thatta",
+        "d": "Mansura"
+      },
+      "one_liner": "The first city captured by Muhammad bin Qasim in Sindh was **Debal**, an ancient city in present-day Sindh, Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Arrival of Muhammad bin Qasim to Subcontinent (712)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Arrival of Muhammad bin Qasim to Subcontinent (712)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

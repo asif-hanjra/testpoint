@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "Against whom was the Battle of Neharvan fought?",
+      "options": {
+        "a": "Romans",
+        "b": "Persians",
+        "c": "Khawarij",
+        "d": "None of these"
+      },
+      "one_liner": "The Battle of Neharvan was fought against the **Khawarij**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

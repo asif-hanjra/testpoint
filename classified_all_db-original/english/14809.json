@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'consensus':",
+      "options": {
+        "a": "agreement:discord",
+        "b": "concord:accord",
+        "c": "harmony:disagreement",
+        "d": "unison:conflict"
+      },
+      "one_liner": "'Agreement' is a synonym of 'consensus', while 'discord' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

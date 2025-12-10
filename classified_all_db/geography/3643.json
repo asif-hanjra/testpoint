@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the main town of Khurram Agency?",
+      "options": {
+        "a": "Parachanar",
+        "b": "Miranshah",
+        "c": "Wana",
+        "d": "None of these"
+      },
+      "one_liner": "The main town of Khurram Agency is **Parachanar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

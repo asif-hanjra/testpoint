@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'depart':",
+      "options": {
+        "a": "leave:stay",
+        "b": "exit:enter",
+        "c": "embark:arrive",
+        "d": "go:come"
+      },
+      "one_liner": "'Leave' is a synonym of 'depart', while 'stay' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

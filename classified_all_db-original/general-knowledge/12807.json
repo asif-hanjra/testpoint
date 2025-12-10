@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the League of Nations founded?",
+      "options": {
+        "a": "1918",
+        "b": "1919",
+        "c": "1920",
+        "d": "1921"
+      },
+      "one_liner": "The League of Nations was established in **1920** as a global organization to maintain world peace.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "League of Nations (1920)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Paris Peace Conference / Versailles Peace Conference (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "League of Nations (1920)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

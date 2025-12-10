@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He finished ___ Friday afternoon.",
+      "options": {
+        "a": "at",
+        "b": "by",
+        "c": "on",
+        "d": "in"
+      },
+      "one_liner": "He finished 'by' Friday afternoon.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'before':",
+      "options": {
+        "a": "after",
+        "b": "prior",
+        "c": "subsequent",
+        "d": "following"
+      },
+      "one_liner": "'Before' means earlier or previously, similar to 'prior' and 'preceding'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

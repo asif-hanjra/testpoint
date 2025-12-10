@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "If a school cafeteria needs C cans of soup each week for each student, and if there are S students in the school, for how many weeks will X cans of soup last?",
+      "options": {
+        "a": "X/SC",
+        "b": "X/CX",
+        "c": "XS/C",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2021
+}

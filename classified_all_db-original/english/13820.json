@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vitality':",
+      "options": {
+        "a": "vigor:lethargy",
+        "b": "energy:apathy",
+        "c": "strength:weakness",
+        "d": "activity:fatigue"
+      },
+      "one_liner": "'Energy' is a synonym of 'vitality', while 'apathy' is its antonym, indicating a lack of interest or enthusiasm.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

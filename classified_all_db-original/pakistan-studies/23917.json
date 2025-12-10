@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which institution crafted the 20-point National Action Plan after the APS attack?",
+      "options": {
+        "a": "Supreme Court of Pakistan",
+        "b": "Pakistan Army",
+        "c": "National Assembly",
+        "d": "None of these"
+      },
+      "one_liner": "The **Pakistan Army** crafted the 20-point National Action Plan following the APS attack.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'odium':",
+      "options": {
+        "a": "loathing:admiration",
+        "b": "respect:disgust",
+        "c": "abhorrence:affection",
+        "d": "hatred:approval"
+      },
+      "one_liner": "'Loathing' is a synonym of 'odium', while 'admiration' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which instrument is suitable for measuring the internal diameter of a test tube?",
+      "options": {
+        "a": "Vernier Caliper",
+        "b": "Screw Gauge",
+        "c": "Meter Scale",
+        "d": "None of these"
+      },
+      "one_liner": "The internal diameter of a test tube can be accurately measured using a **Vernier Caliper**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

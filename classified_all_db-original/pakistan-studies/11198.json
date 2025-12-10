@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest dam in Pakistan?",
+      "options": {
+        "a": "Mangla",
+        "b": "Warsak",
+        "c": "Tarbela",
+        "d": "Hub"
+      },
+      "one_liner": "Tarbela is recognized as the **largest dam** in Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

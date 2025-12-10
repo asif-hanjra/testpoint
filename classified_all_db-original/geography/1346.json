@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the maximum fine for any individual, firm, organization, or department involved in circulating an incorrect version of the map of Pakistan?",
+      "options": {
+        "a": "1 million rupees",
+        "b": "2 million rupees",
+        "c": "5 million rupees",
+        "d": "None of these"
+      },
+      "one_liner": "Anyone found circulating an incorrect version of the map of Pakistan can be fined up to **5 million rupees**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

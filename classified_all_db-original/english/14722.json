@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'officious':",
+      "options": {
+        "a": "interfering:hands-off",
+        "b": "helpful:intrusive",
+        "c": "meddling:reserved",
+        "d": "assertive:unobtrusive"
+      },
+      "one_liner": "'Interfering' is a synonym of 'officious', while 'hands-off' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'push':",
+      "options": {
+        "a": "pull",
+        "b": "shove",
+        "c": "hold",
+        "d": "lift"
+      },
+      "one_liner": "'Push' means to exert force on something to move it away—words like 'shove' and 'thrust' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

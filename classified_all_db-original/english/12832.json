@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rationale':",
+      "options": {
+        "a": "logic",
+        "b": "sense",
+        "c": "irrationality",
+        "d": "reason"
+      },
+      "one_liner": "The antonym of 'rationale' is 'irrationality', which denotes a lack of reason or logic.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'flinch':",
+      "options": {
+        "a": "confront",
+        "b": "recoil",
+        "c": "shrink",
+        "d": "cringe"
+      },
+      "one_liner": "The antonym of 'flinch' is 'confront', which means to face up to and deal with a problem or difficult situation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'finicky':",
+      "options": {
+        "a": "undemanding",
+        "b": "fussy",
+        "c": "meticulous",
+        "d": "choosy"
+      },
+      "one_liner": "An antonym of 'finicky' is 'undemanding', which means not difficult to satisfy or please.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

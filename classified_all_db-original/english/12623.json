@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Please close the window ___ there is a draft.",
+      "options": {
+        "a": "because",
+        "b": "as",
+        "c": "since",
+        "d": "for"
+      },
+      "one_liner": "Please close the window 'as' there is a draft.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

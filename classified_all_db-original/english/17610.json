@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'precious':",
+      "options": {
+        "a": "valuable:trivial",
+        "b": "expensive:cheap",
+        "c": "cherished:beloved",
+        "d": "rare:common"
+      },
+      "one_liner": "'Valuable' is a synonym of 'precious', while 'trivial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

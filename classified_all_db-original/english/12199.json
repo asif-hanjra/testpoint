@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ineffable':",
+      "options": {
+        "a": "expressible",
+        "b": "describable",
+        "c": "indescribable",
+        "d": "articulate"
+      },
+      "one_liner": "'Ineffable' describes something too great to be expressed in words, similar to 'indescribable'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

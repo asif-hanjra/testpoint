@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'discreet':",
+      "options": {
+        "a": "tactful:imprudent",
+        "b": "judicious:careful",
+        "c": "prudent:thoughtful",
+        "d": "wise:wise"
+      },
+      "one_liner": "'Tactful' is a synonym of 'discreet', while 'imprudent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

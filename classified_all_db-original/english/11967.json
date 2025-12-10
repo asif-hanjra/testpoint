@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'malingerer':",
+      "options": {
+        "a": "slacker:industrious",
+        "b": "hardworking:lazy",
+        "c": "shirker:enthusiast",
+        "d": "worker:slacker"
+      },
+      "one_liner": "'Slacker' is a synonym of 'malingerer', while 'industrious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

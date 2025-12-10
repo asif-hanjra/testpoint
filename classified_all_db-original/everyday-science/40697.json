@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the minimum platelet count considered normal in a healthy individual?",
+      "options": {
+        "a": "50,000",
+        "b": "100,000",
+        "c": "150,000",
+        "d": "200,000"
+      },
+      "one_liner": "A healthy person is considered to have a normal platelet count if it is at least **150,000** per microliter of blood.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the SI unit of energy?",
+      "options": {
+        "a": "Joule",
+        "b": "Watt",
+        "c": "Newton",
+        "d": "Pascal"
+      },
+      "one_liner": "The SI unit of energy is the **Joule**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

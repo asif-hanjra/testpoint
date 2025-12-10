@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pungent':",
+      "options": {
+        "a": "mild",
+        "b": "acrid",
+        "c": "sweet",
+        "d": "bland"
+      },
+      "one_liner": "'Pungent' refers to a strong, sharp smell or taste, similar to 'acrid' or 'potent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vague':",
+      "options": {
+        "a": "indefinite:precise",
+        "b": "clear:ambiguous",
+        "c": "obscure:distinct",
+        "d": "nebulous:sharp"
+      },
+      "one_liner": "'Indefinite' is a synonym of 'vague', while 'precise' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

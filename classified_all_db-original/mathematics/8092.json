@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the solution to the differential equation dy/dx = cosx?",
+      "options": {
+        "a": "-√2cosx",
+        "b": "√2sinx",
+        "c": "sinx + C",
+        "d": "-√2sinx"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

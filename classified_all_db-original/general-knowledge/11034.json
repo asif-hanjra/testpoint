@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was UNICEF established?",
+      "options": {
+        "a": "1945",
+        "b": "1946",
+        "c": "1947",
+        "d": "1948"
+      },
+      "one_liner": "UNICEF was established in the year **1946**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I shall take the exam ___ next year.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "I shall take the exam 'in' next year.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

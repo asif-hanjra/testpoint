@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quiver':",
+      "options": {
+        "a": "shudder:soothe",
+        "b": "tremor:steady",
+        "c": "flutter:calm",
+        "d": "vibrate:stabilize"
+      },
+      "one_liner": "'Shudder' is a synonym of 'quiver', while 'soothe' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

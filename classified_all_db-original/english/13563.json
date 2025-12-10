@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "PILL BOX : CORE :: BAR : ________?",
+      "options": {
+        "a": "Edge",
+        "b": "Center",
+        "c": "Top",
+        "d": "Side"
+      },
+      "one_liner": "The core is the central part of a pillbox, just as the center is the middle of a bar.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

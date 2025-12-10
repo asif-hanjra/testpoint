@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the medical procedure called that uses lasers to crush gallstones and kidney stones?",
+      "options": {
+        "a": "Lithotripsy",
+        "b": "Dialysis",
+        "c": "Endoscopy",
+        "d": "Biopsy"
+      },
+      "one_liner": "The procedure of crushing gallstones and kidney stones using a laser is known as **Lithotripsy**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

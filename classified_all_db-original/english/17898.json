@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ephemeral':",
+      "options": {
+        "a": "fleeting",
+        "b": "momentary",
+        "c": "transient",
+        "d": "permanent"
+      },
+      "one_liner": "An antonym of 'ephemeral' is 'permanent', which means lasting or enduring forever.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

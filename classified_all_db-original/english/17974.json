@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'Utopia':",
+      "options": {
+        "a": "dystopia",
+        "b": "paradise",
+        "c": "chaos",
+        "d": "slum"
+      },
+      "one_liner": "'Utopia' refers to an ideal and perfect place, similar to 'paradise'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

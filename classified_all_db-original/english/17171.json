@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'noisy':",
+      "options": {
+        "a": "silent",
+        "b": "raucous",
+        "c": "quiet",
+        "d": "hushed"
+      },
+      "one_liner": "'Noisy' means full of noise or loud sounds, similar to 'raucous' or 'boisterous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

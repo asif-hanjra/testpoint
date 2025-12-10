@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the Statue of Liberty dedicated?",
+      "options": {
+        "a": "July 4, 1885",
+        "b": "October 28, 1886",
+        "c": "September 2, 1887",
+        "d": "None of these"
+      },
+      "one_liner": "The Statue of Liberty was officially dedicated on **October 28, 1886**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

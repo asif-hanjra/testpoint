@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On whose advice did Begum Shaista Ikram-ullah establish the Muslim Students Federation (women wing) in Delhi?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Liaquat Ali Khan",
+        "c": "Quaid-i-Azam",
+        "d": "Sir Syed Ahmed Khan"
+      },
+      "one_liner": "Begum Shaista Ikram-ullah established the Muslim Students Federation (women wing) in Delhi on the advice of **Quaid-i-Azam**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

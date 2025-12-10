@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "APPROACH : LEAVE :: BOLT : ________?",
+      "options": {
+        "a": "Arrive",
+        "b": "Escape",
+        "c": "Run",
+        "d": "Depart"
+      },
+      "one_liner": "Approach is the opposite of leave, just as to bolt means to run away quickly, which is not the direct opposite of arrive.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

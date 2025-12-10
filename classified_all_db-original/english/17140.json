@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'benediction':",
+      "options": {
+        "a": "prayer",
+        "b": "charm",
+        "c": "curse",
+        "d": "omen"
+      },
+      "one_liner": "The opposite of 'benediction', which is a blessing, would be a 'curse'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

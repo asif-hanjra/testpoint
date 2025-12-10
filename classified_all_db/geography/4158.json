@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Khewra, a famous salt mine, is located in which tehsil and district?",
+      "options": {
+        "a": "Talagang, Chakwal",
+        "b": "Pind Dadan Khan, Jhelum",
+        "c": "Taxila, Rawalpindi",
+        "d": "None of these"
+      },
+      "one_liner": "The renowned Khewra salt mine is situated in **Pind Dadan Khan tehsil of district Jhelum**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

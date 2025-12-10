@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'preamble':",
+      "options": {
+        "a": "introduction:postscript",
+        "b": "prologue:preface",
+        "c": "foreword:afterword",
+        "d": "commencement:conclusion"
+      },
+      "one_liner": "'Introduction' is a synonym of 'preamble', while 'postscript' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

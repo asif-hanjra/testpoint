@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many bones are present in the human skull?",
+      "options": {
+        "a": "22",
+        "b": "28",
+        "c": "30",
+        "d": "32"
+      },
+      "one_liner": "The human skull is composed of a total of **30** bones.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

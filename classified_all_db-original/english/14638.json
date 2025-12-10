@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'candid':",
+      "options": {
+        "a": "frank:dissembling",
+        "b": "honest:deceptive",
+        "c": "forthright:ambiguous",
+        "d": "open:secretive"
+      },
+      "one_liner": "'Frank' is a synonym of 'candid', while 'dissembling' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

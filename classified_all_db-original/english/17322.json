@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'levy':",
+      "options": {
+        "a": "reduce",
+        "b": "impose",
+        "c": "neglect",
+        "d": "forgive"
+      },
+      "one_liner": "'Levy' means to impose or collect, usually referring to taxes or fees—words like 'impose' and 'charge' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

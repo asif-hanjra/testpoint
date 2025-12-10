@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "tan θ + sec θ = _____?",
+      "options": {
+        "a": "(1 + sin θ)/cos θ",
+        "b": "(1 + cos θ)/sin θ",
+        "c": "(1 – sin θ)/cos θ",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

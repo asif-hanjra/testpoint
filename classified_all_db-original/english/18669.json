@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'enlist':",
+      "options": {
+        "a": "dismiss",
+        "b": "recruit",
+        "c": "eject",
+        "d": "expel"
+      },
+      "one_liner": "'Enlist' means to sign up or join, similar to 'recruit' or 'register'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

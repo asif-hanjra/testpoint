@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which historic road was rebuilt and modernized by Sher Shah Suri?",
+      "options": {
+        "a": "Sher Shah Suri",
+        "b": "Akbar",
+        "c": "Humayun",
+        "d": "Babur"
+      },
+      "one_liner": "The historic Grand Trunk Road was rebuilt and modernized by **Sher Shah Suri**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

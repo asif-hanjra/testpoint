@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obvious':",
+      "options": {
+        "a": "hidden",
+        "b": "evident",
+        "c": "obscure",
+        "d": "mysterious"
+      },
+      "one_liner": "'Obvious' means easily perceived or understood, similar to 'evident'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

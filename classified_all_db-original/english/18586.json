@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'barbaric':",
+      "options": {
+        "a": "cruel:humane",
+        "b": "gentle:brutal",
+        "c": "savage:civilized",
+        "d": "wild:refined"
+      },
+      "one_liner": "'Cruel' is a synonym of 'barbaric', while 'humane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

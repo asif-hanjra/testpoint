@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'What a beautiful sight!', what part of speech is 'beautiful'?",
+      "options": {
+        "a": "Verb",
+        "b": "Adjective",
+        "c": "Noun",
+        "d": "Adverb"
+      },
+      "one_liner": "'Beautiful' is an adjective describing the noun 'sight'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was robbed ___ all valuable possessions.",
+      "options": {
+        "a": "from",
+        "b": "of",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "He was robbed 'of' all valuable possessions.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

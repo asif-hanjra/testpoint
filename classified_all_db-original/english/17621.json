@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'blooming':",
+      "options": {
+        "a": "withering",
+        "b": "blossoming",
+        "c": "fading",
+        "d": "shrinking"
+      },
+      "one_liner": "'Blooming' refers to something that is flourishing or thriving, similar to 'blossoming'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

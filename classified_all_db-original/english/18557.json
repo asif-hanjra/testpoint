@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'agitate':",
+      "options": {
+        "a": "ruffle:pacify",
+        "b": "soothe:disturb",
+        "c": "upset:quiet",
+        "d": "disturb:calm"
+      },
+      "one_liner": "'Ruffle' is a synonym of 'agitate', while 'pacify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

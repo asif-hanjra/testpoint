@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Through which strait is the Mediterranean Sea connected to the Atlantic Ocean?",
+      "options": {
+        "a": "Bosporus Strait",
+        "b": "Strait of Gibraltar",
+        "c": "Bab-el-Mandeb",
+        "d": "Strait of Malacca"
+      },
+      "one_liner": "The Mediterranean Sea is connected to the Atlantic Ocean through the **Strait of Gibraltar**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

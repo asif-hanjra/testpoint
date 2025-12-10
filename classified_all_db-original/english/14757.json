@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'plummet':",
+      "options": {
+        "a": "rise",
+        "b": "plunge",
+        "c": "ascend",
+        "d": "climb"
+      },
+      "one_liner": "'Plummet' means to fall or drop straight down at high speed, similar to 'plunge'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

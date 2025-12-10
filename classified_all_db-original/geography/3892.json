@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Hub Lake located and what is its significance?",
+      "options": {
+        "a": "Natural lake in Punjab",
+        "b": "Artificial lake near Lahore",
+        "c": "Artificial lake 56 km from Karachi",
+        "d": "None of these"
+      },
+      "one_liner": "Hub Lake is an artificial lake on the Sindh-Balochistan border, about **56 km from Karachi**, and provides drinking water to the city.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

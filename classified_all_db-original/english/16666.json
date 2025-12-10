@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hesitate':",
+      "options": {
+        "a": "rush",
+        "b": "waver",
+        "c": "hurry",
+        "d": "advance"
+      },
+      "one_liner": "'Hesitate' means to pause or hold back in uncertainty—words like 'waver' and 'vacillate' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

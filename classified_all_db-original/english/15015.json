@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'scrawny':",
+      "options": {
+        "a": "brawny",
+        "b": "slender",
+        "c": "skinny",
+        "d": "lanky"
+      },
+      "one_liner": "An antonym of 'scrawny' would be 'brawny', which means strong and muscular.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

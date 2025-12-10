@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'audacity':",
+      "options": {
+        "a": "boldness",
+        "b": "bravery",
+        "c": "timidity",
+        "d": "nerve"
+      },
+      "one_liner": "The antonym of 'audacity' is 'timidity', which implies a lack of courage or confidence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Faisalabad ___ as famous a city as Lahore.",
+      "options": {
+        "a": "at",
+        "b": "is",
+        "c": "in",
+        "d": "by"
+      },
+      "one_liner": "Faisalabad 'is' as famous a city as Lahore.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

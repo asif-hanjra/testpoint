@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'clarity':",
+      "options": {
+        "a": "transparency",
+        "b": "lucidity",
+        "c": "obscurity",
+        "d": "brightness"
+      },
+      "one_liner": "The opposite of 'clarity' is 'obscurity', which implies a lack of clearness or difficulty in understanding.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

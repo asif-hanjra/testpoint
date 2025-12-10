@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which act was Sindh separated from Bombay?",
+      "options": {
+        "a": "Government of India Act, 1919",
+        "b": "Government of India Act, 1935",
+        "c": "Indian Independence Act, 1947",
+        "d": "None of these"
+      },
+      "one_liner": "Sindh was separated from Bombay under the **Government of India Act, 1935**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

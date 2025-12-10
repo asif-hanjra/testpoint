@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of thyroxin in the human body?",
+      "options": {
+        "a": "Regulates blood sugar",
+        "b": "Controls physical and mental development",
+        "c": "Aids in digestion",
+        "d": "Regulates heart rate"
+      },
+      "one_liner": "Thyroxin, a hormone produced by the thyroid gland, controls the body's rate of **physical and mental development**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries lie along the Gulf of Oman?",
+      "options": {
+        "a": "Oman, Iran, Pakistan, United Arab Emirates",
+        "b": "Oman, Saudi Arabia, Pakistan, United Arab Emirates",
+        "c": "Oman, Iran, India, United Arab Emirates",
+        "d": "Oman, Iran, Pakistan, Saudi Arabia"
+      },
+      "one_liner": "The Gulf of Oman lies along **Oman, Iran, Pakistan, and United Arab Emirates**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'acumen':",
+      "options": {
+        "a": "ignorance",
+        "b": "shrewdness",
+        "c": "clumsiness",
+        "d": "inability"
+      },
+      "one_liner": "'Acumen' refers to the ability to make good judgments and quick decisions, a quality shared by 'shrewdness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

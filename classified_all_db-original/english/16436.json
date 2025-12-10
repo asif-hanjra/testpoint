@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gather':",
+      "options": {
+        "a": "scatter",
+        "b": "accumulate",
+        "c": "separate",
+        "d": "disperse"
+      },
+      "one_liner": "'Gather' means to collect or assemble, similar to 'accumulate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

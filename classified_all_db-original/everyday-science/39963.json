@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "A deficiency of which vitamin may cause infertility?",
+      "options": {
+        "a": "Vitamin C",
+        "b": "Vitamin K",
+        "c": "Vitamin E",
+        "d": "Vitamin B"
+      },
+      "one_liner": "A deficiency of **Vitamin E** may lead to infertility in humans.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

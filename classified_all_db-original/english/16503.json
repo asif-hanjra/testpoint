@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mercenary':",
+      "options": {
+        "a": "avaricious:generous",
+        "b": "greedy:philanthropic",
+        "c": "selfish:charitable",
+        "d": "materialistic:altruistic"
+      },
+      "one_liner": "'Greedy' is a synonym of 'mercenary', while 'philanthropic' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

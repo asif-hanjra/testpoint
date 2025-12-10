@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Sargodha is famous ___ producing best quality oranges.",
+      "options": {
+        "a": "of",
+        "b": "for",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "Sargodha is famous 'for' producing best quality oranges.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

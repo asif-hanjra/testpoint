@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'intact':",
+      "options": {
+        "a": "unharmed",
+        "b": "complete",
+        "c": "damaged",
+        "d": "perfect"
+      },
+      "one_liner": "An antonym of 'intact' is 'damaged', which means the opposite of unharmed or whole.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

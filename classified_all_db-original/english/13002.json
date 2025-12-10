@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'strain':",
+      "options": {
+        "a": "tighten",
+        "b": "extend",
+        "c": "relax",
+        "d": "pull"
+      },
+      "one_liner": "The antonym of 'strain', which means to exert effort, is 'relax', implying a release of tension.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

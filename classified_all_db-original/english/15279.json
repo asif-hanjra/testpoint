@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'logical':",
+      "options": {
+        "a": "irrational",
+        "b": "rational",
+        "c": "illogical",
+        "d": "unreasonable"
+      },
+      "one_liner": "'Logical' means reasonable or sensible, similar to 'rational'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

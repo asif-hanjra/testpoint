@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is the temperature inside the sun very hot?",
+      "options": {
+        "a": "Due to fusion",
+        "b": "Due to fission",
+        "c": "Due to evaporation",
+        "d": "None of these"
+      },
+      "one_liner": "The temperature inside our sun is extremely hot due to the process of nuclear fusion.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is considered the smallest cell in the human body?",
+      "options": {
+        "a": "Red blood cell",
+        "b": "Neuron",
+        "c": "Sperm cell",
+        "d": "Muscle cell"
+      },
+      "one_liner": "The smallest cell in the human body is the **sperm cell**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

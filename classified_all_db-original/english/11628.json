@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The police was looking ___ the incident.",
+      "options": {
+        "a": "on",
+        "b": "into",
+        "c": "at",
+        "d": "for"
+      },
+      "one_liner": "The police was looking 'into' the incident.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cower':",
+      "options": {
+        "a": "stand",
+        "b": "cringe",
+        "c": "confront",
+        "d": "advance"
+      },
+      "one_liner": "'Cower' means to shrink away or crouch in fear, similar to 'cringe'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'logical':",
+      "options": {
+        "a": "coherent:incoherent",
+        "b": "rational:reasonable",
+        "c": "sensible:illogical",
+        "d": "logical:logical"
+      },
+      "one_liner": "'Coherent' is a synonym of 'logical', while 'incoherent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Khunjerab Pass is the highest point on which highway?",
+      "options": {
+        "a": "Indus Highway",
+        "b": "Karakoram Highway",
+        "c": "Grand Trunk Road",
+        "d": "Silk Road"
+      },
+      "one_liner": "Khunjerab Pass is the highest point on the **Karakoram Highway**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

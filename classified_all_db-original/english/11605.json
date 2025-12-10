@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'so' in the sentence 'He was tired, so he went to bed'?",
+      "options": {
+        "a": "Verb",
+        "b": "Conjunction",
+        "c": "Noun",
+        "d": "Adjective"
+      },
+      "one_liner": "'So' is a conjunction as it connects two clauses.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

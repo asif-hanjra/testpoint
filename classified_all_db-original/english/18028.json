@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is afraid ___ elephants.",
+      "options": {
+        "a": "at",
+        "b": "of",
+        "c": "for",
+        "d": "to"
+      },
+      "one_liner": "He is afraid 'of' elephants.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

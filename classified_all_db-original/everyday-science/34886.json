@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A Carnot engine whose sink is at 300K has an efficiency of 40%. By how much should the temperature source be increased so as to increase its efficiency by 50% of original efficiency?",
+      "options": {
+        "a": "275K",
+        "b": "325K",
+        "c": "250K",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

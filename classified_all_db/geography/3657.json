@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Kalahari Desert located?",
+      "options": {
+        "a": "Northern Africa",
+        "b": "Southern Africa",
+        "c": "Central Asia",
+        "d": "Australia"
+      },
+      "one_liner": "The **Kalahari Desert** is located in **Southern Africa**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

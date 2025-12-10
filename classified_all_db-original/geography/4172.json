@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why have Sindhi politicians opposed the Kalabagh Dam?",
+      "options": {
+        "a": "Earthquake risk",
+        "b": "Reduction of water to Arabian Sea",
+        "c": "Cost of construction",
+        "d": "None of these"
+      },
+      "one_liner": "Sindhi politicians have opposed Kalabagh Dam because they believe it would reduce the flow of water into the **Arabian Sea**, harming Sindh's agricultural land.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

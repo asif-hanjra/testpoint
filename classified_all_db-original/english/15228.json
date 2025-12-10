@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'absurd':",
+      "options": {
+        "a": "reasonable",
+        "b": "illogical",
+        "c": "irrational",
+        "d": "foolish"
+      },
+      "one_liner": "The word 'absurd' implies something that is senseless, so 'reasonable' would be an appropriate antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

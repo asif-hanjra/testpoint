@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'recant':",
+      "options": {
+        "a": "affirm",
+        "b": "retract",
+        "c": "confirm",
+        "d": "validate"
+      },
+      "one_liner": "'Recant' means to withdraw or disavow a statement, similar to 'retract'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

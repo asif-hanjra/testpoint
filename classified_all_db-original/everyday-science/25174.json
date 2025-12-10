@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "At what temperature do bacteria die?",
+      "options": {
+        "a": "98°F",
+        "b": "102°F",
+        "c": "110°F",
+        "d": "120°F"
+      },
+      "one_liner": "Bacteria are killed when exposed to temperatures of **102°F**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

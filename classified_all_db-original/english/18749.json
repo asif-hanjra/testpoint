@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of speech is the word 'quickly' in the sentence 'She quickly ran to the store'?",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Verb",
+        "d": "Adverb"
+      },
+      "one_liner": "In the sentence 'She quickly ran to the store', the word 'quickly' is an adverb because it modifies the verb 'ran'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

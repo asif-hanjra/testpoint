@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nocturnal':",
+      "options": {
+        "a": "twilight",
+        "b": "diurnal",
+        "c": "evening",
+        "d": "midnight"
+      },
+      "one_liner": "The antonym of 'nocturnal' is 'diurnal', which means active during the day.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

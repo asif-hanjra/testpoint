@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the role of the retina in vision?",
+      "options": {
+        "a": "Focus light",
+        "b": "Convert light into nerve signals",
+        "c": "Control pupil size",
+        "d": "None of these"
+      },
+      "one_liner": "The retina's role is to **convert light into nerve signals** that the brain can interpret.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

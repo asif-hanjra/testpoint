@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gaunt':",
+      "options": {
+        "a": "plump",
+        "b": "lean",
+        "c": "skeletal",
+        "d": "haggard"
+      },
+      "one_liner": "The antonym of 'gaunt' is 'plump', indicating a fuller or rounder figure.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

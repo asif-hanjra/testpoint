@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the largest producer of barley?",
+      "options": {
+        "a": "Russia",
+        "b": "Canada",
+        "c": "Australia",
+        "d": "USA"
+      },
+      "one_liner": "Russia holds the distinction of being the world's **largest producer of barley**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

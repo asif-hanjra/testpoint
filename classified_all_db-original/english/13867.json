@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ponderous':",
+      "options": {
+        "a": "heavy",
+        "b": "clumsy",
+        "c": "light",
+        "d": "awkward"
+      },
+      "one_liner": "An antonym of 'ponderous' is 'light', which suggests something is easy to move or carry.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

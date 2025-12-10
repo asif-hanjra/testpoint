@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'annul':",
+      "options": {
+        "a": "invalidate",
+        "b": "void",
+        "c": "uphold",
+        "d": "negate"
+      },
+      "one_liner": "The opposite of 'annul' is to 'validate' or 'uphold', which means to confirm the validity of something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

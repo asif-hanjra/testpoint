@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'break':",
+      "options": {
+        "a": "destroy",
+        "b": "shatter",
+        "c": "repair",
+        "d": "crack"
+      },
+      "one_liner": "The antonym of 'break' is 'repair', which means to fix something that is broken.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

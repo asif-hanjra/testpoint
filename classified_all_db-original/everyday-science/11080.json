@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the inventor of the Watch?",
+      "options": {
+        "a": "A.L. Breguet",
+        "b": "Isaac Newton",
+        "c": "Albert Einstein",
+        "d": "None of these"
+      },
+      "one_liner": "The Watch was invented by the Swiss scientist **A.L. Breguet**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

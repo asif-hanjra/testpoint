@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'assimilate':",
+      "options": {
+        "a": "integrate:distinguish",
+        "b": "merge:separate",
+        "c": "combine:isolate",
+        "d": "incorporate:distinguish"
+      },
+      "one_liner": "'Incorporate' is a synonym of 'assimilate', while 'distinguish' is its antonym.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

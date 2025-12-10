@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the canal that joins the Indus and Jhelum rivers?",
+      "options": {
+        "a": "Upper Bari Doab Canal",
+        "b": "Sindh Sagar Canal",
+        "c": "Lower Chenab Canal",
+        "d": "None of these"
+      },
+      "one_liner": "The canal that links the Indus and Jhelum rivers is called the **Sindh Sagar Canal**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

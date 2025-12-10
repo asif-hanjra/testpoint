@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which province of Pakistan are the Zhob and Kalachi rivers located in?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Balochistan",
+        "d": "Khyber Pakhtunkhwa"
+      },
+      "one_liner": "Both the Zhob and Kalachi rivers are found in the province of **Balochistan** in Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

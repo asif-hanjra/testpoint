@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Spot the error: The dean of this college is a good friend of me.",
+      "options": {
+        "a": "Good",
+        "b": "Me",
+        "c": "The dean",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the fate of Mir Jafar Ali Khan after the Battle of Plassey?",
+      "options": {
+        "a": "He became Nawab",
+        "b": "He was executed",
+        "c": "He fled to France",
+        "d": "None of these"
+      },
+      "one_liner": "After the Battle of Plassey, **Mir Jafar Ali Khan was executed**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

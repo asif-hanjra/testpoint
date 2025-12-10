@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The Line of Actual Control (LAC) is a disputed border-line between which two countries?",
+      "options": {
+        "a": "Pakistan and India",
+        "b": "China and India",
+        "c": "Nepal and China",
+        "d": "None of these"
+      },
+      "one_liner": "The Line of Actual Control is the disputed border-line between **China and India**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

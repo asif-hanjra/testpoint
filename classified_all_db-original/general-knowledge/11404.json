@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote the novel 'Pride and Prejudice'?",
+      "options": {
+        "a": "Charlotte Brontë",
+        "b": "Jane Austen",
+        "c": "Emily Dickinson",
+        "d": "Mary Shelley"
+      },
+      "one_liner": "The novel 'Pride and Prejudice' was written by **Jane Austen**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

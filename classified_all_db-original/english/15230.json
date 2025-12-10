@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stray':",
+      "options": {
+        "a": "wander",
+        "b": "deviate",
+        "c": "remain",
+        "d": "diverge"
+      },
+      "one_liner": "Antonyms of 'stray' include 'stay' and 'remain', both implying not moving away from a place.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

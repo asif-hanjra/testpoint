@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the city of Istanbul located in?",
+      "options": {
+        "a": "Turkey",
+        "b": "Greece",
+        "c": "Egypt",
+        "d": "Iran"
+      },
+      "one_liner": "Istanbul is a renowned city situated in **Turkey**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

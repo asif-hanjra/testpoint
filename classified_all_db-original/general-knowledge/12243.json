@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard width of a cricket pitch?",
+      "options": {
+        "a": "8 feet",
+        "b": "10 feet",
+        "c": "12 feet",
+        "d": "14 feet"
+      },
+      "one_liner": "The width of a cricket pitch is **10 feet**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

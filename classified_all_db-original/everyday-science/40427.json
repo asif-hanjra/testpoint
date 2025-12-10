@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of lens does a camera use to form an image that is real, inverted, and diminished?",
+      "options": {
+        "a": "Concave lens",
+        "b": "Convex lens",
+        "c": "Cylindrical lens",
+        "d": "None of these"
+      },
+      "one_liner": "A camera forms a real, inverted, and diminished image using a **convex lens**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

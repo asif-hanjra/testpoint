@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'Elvis has left the building' signify?",
+      "options": {
+        "a": "Someone has exited the premises",
+        "b": "The show or event has come to an end",
+        "c": "A famous person is arriving",
+        "d": "There is no more hope left"
+      },
+      "one_liner": "The idiom 'Elvis has left the building' is used to indicate that an event or performance has concluded, often with no expectation of an encore or additional activity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

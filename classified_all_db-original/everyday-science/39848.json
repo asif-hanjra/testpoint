@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which basic group of living things comprises either all the animals or all the multicellular animals?",
+      "options": {
+        "a": "Animal Kingdom",
+        "b": "Plant Kingdom",
+        "c": "Fungi",
+        "d": "None of these"
+      },
+      "one_liner": "The basic group of living things that includes all animals or all multicellular animals is called the **Animal Kingdom**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

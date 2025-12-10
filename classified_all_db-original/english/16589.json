@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'oblation':",
+      "options": {
+        "a": "tribute",
+        "b": "sacrifice",
+        "c": "penalty",
+        "d": "gift"
+      },
+      "one_liner": "'Oblation' refers to a religious offering, similar to 'sacrifice' or 'offering'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

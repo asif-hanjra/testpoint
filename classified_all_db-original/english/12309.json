@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'though' in the sentence 'Though he was tired, he continued working'?",
+      "options": {
+        "a": "Verb",
+        "b": "Conjunction",
+        "c": "Adverb",
+        "d": "Adjective"
+      },
+      "one_liner": "'Though' is a conjunction connecting two clauses.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

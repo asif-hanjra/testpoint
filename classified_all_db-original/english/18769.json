@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The book was published two years ___.",
+      "options": {
+        "a": "before",
+        "b": "ago",
+        "c": "since",
+        "d": "from"
+      },
+      "one_liner": "The book was published two years 'ago'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

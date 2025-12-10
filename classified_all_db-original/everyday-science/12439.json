@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the singular form of the word 'fungi'?",
+      "options": {
+        "a": "Fungae",
+        "b": "Fungus",
+        "c": "Fungium",
+        "d": "Fungina"
+      },
+      "one_liner": "The singular form of the word 'fungi' is **fungus**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

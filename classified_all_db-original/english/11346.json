@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'successful':",
+      "options": {
+        "a": "unsuccessful",
+        "b": "triumphant",
+        "c": "failing",
+        "d": "ineffective"
+      },
+      "one_liner": "'Successful' implies achieving desired aims or attaining prosperity, similar to 'triumphant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

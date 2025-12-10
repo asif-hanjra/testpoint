@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which regions of Pakistan possess most of the country's hydropower potential?",
+      "options": {
+        "a": "Sindh and Balochistan",
+        "b": "North West Frontier Province, Northern Areas, Azad Jammu and Kashmir, and Punjab",
+        "c": "Karachi and Lahore",
+        "d": "None of these"
+      },
+      "one_liner": "Most of Pakistan's hydropower potential is concentrated in the **North West Frontier Province, Northern Areas, Azad Jammu and Kashmir, and Punjab**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'incorrigible':",
+      "options": {
+        "a": "irreparable:rectifiable",
+        "b": "unyielding:pliable",
+        "c": "inflexible:flexible",
+        "d": "persistent:yielding"
+      },
+      "one_liner": "'Irreparable' is a synonym of 'incorrigible', while 'rectifiable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

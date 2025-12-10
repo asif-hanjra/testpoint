@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On whose recommendation is the Secretary-General of the UN appointed?",
+      "options": {
+        "a": "Economic and Social Council",
+        "b": "General Assembly",
+        "c": "Security Council",
+        "d": "Trusteeship Council"
+      },
+      "one_liner": "The Secretary-General of the UN is appointed on the recommendation of the **Security Council**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

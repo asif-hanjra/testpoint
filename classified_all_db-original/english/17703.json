@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'past':",
+      "options": {
+        "a": "previous",
+        "b": "old",
+        "c": "future",
+        "d": "historic"
+      },
+      "one_liner": "The antonym of 'past' is 'future', which refers to the time that is yet to come.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

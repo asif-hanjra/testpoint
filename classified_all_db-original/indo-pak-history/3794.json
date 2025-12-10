@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the famous diamond that Ranjit Singh wore in his headdress and later became part of the crown jewels in Westminster?",
+      "options": {
+        "a": "Darya-i-Noor",
+        "b": "Koh-e-Noor",
+        "c": "Hope Diamond",
+        "d": "None of these"
+      },
+      "one_liner": "The diamond known as **Koh-e-Noor** was famously worn by Ranjit Singh in his headdress and later became part of the crown jewels in Westminster.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

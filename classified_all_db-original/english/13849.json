@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'shift':",
+      "options": {
+        "a": "remain",
+        "b": "transition",
+        "c": "stagnate",
+        "d": "freeze"
+      },
+      "one_liner": "'Shift' can mean to move or change position, similar to 'transition' or 'switch'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

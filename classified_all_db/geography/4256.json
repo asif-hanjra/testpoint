@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Bundi Beach located?",
+      "options": {
+        "a": "Australia",
+        "b": "Pakistan",
+        "c": "USA",
+        "d": "None of these"
+      },
+      "one_liner": "Bundi Beach is located in **Australia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

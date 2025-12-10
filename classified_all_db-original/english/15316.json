@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'assiduous':",
+      "options": {
+        "a": "industrious",
+        "b": "meticulous",
+        "c": "indolent",
+        "d": "persistent"
+      },
+      "one_liner": "The opposite of 'assiduous', which implies hard work, would be 'indolent', suggesting laziness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

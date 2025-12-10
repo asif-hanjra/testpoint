@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'imprimatur':",
+      "options": {
+        "a": "authorization",
+        "b": "endorsement",
+        "c": "veto",
+        "d": "approval"
+      },
+      "one_liner": "An antonym of 'imprimatur' is 'veto', which means to reject or forbid something officially.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

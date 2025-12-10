@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'occult':",
+      "options": {
+        "a": "transparent",
+        "b": "arcane",
+        "c": "obvious",
+        "d": "clear"
+      },
+      "one_liner": "'Occult' refers to the mystical or supernatural, similar to 'esoteric' and 'arcane'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

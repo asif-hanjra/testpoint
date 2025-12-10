@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'forgery':",
+      "options": {
+        "a": "authenticity",
+        "b": "fraudulence",
+        "c": "originality",
+        "d": "genuineness"
+      },
+      "one_liner": "'Forgery' refers to the act of faking or counterfeiting, similar to 'fraudulence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

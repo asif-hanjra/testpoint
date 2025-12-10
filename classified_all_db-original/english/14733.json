@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gradual':",
+      "options": {
+        "a": "abrupt",
+        "b": "instantaneous",
+        "c": "incremental",
+        "d": "sudden"
+      },
+      "one_liner": "'Gradual' refers to something happening slowly over time, similar to 'incremental'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

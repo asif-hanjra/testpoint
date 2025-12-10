@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Khalid is ___ tall ___, if not taller than, Naveed.",
+      "options": {
+        "a": "so / as",
+        "b": "as / as",
+        "c": "as / than",
+        "d": "so / than"
+      },
+      "one_liner": "Khalid is 'as' tall as, if not taller than, Naveed.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

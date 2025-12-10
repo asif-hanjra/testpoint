@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rescind':",
+      "options": {
+        "a": "enforce",
+        "b": "annul",
+        "c": "initiate",
+        "d": "uphold"
+      },
+      "one_liner": "'Rescind' means to revoke or cancel—an action similar to 'annul' or 'repeal'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

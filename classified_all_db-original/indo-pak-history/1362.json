@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Quaid-e-Azam join the All-India Muslim League?",
+      "options": {
+        "a": "10 October 1913",
+        "b": "23 March 1940",
+        "c": "14 August 1947",
+        "d": "None of these"
+      },
+      "one_liner": "Quaid-e-Azam joined the All-India Muslim League on **10 October 1913**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

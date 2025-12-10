@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is Earth's closest neighbor?",
+      "options": {
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Mercury",
+        "d": "Jupiter"
+      },
+      "one_liner": "The closest planet to Earth is **Mercury**, not Venus.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

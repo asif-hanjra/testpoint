@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a smaller division of an ocean called?",
+      "options": {
+        "a": "Bay",
+        "b": "Gulf",
+        "c": "Sea",
+        "d": "Fjord"
+      },
+      "one_liner": "A smaller division of an ocean is called a **sea**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

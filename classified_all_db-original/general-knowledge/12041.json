@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the COP-23 climate change conference held?",
+      "options": {
+        "a": "Bonn",
+        "b": "Paris",
+        "c": "Geneva",
+        "d": "New York"
+      },
+      "one_liner": "The COP-23 climate change conference took place in **Bonn**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

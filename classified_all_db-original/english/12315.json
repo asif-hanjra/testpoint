@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'evident':",
+      "options": {
+        "a": "hidden",
+        "b": "apparent",
+        "c": "obscure",
+        "d": "vague"
+      },
+      "one_liner": "'Evident' means clear or obvious, so 'apparent' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

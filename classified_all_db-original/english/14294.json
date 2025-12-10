@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'palliate':",
+      "options": {
+        "a": "alleviate",
+        "b": "mitigate",
+        "c": "exacerbate",
+        "d": "lessen"
+      },
+      "one_liner": "An antonym of 'palliate' is 'exacerbate', which means to make a problem worse.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

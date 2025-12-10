@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'eat one's words' mean?",
+      "options": {
+        "a": "To have a meal quickly",
+        "b": "To retract a statement",
+        "c": "To speak loudly",
+        "d": "To gossip about someone"
+      },
+      "one_liner": "The idiom 'eat one's words' means to take back what one has said, often with humility or embarrassment.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

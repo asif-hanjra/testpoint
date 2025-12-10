@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What were the official dates for the 2024 Summer Olympics?",
+      "options": {
+        "a": "14–30 July 2028",
+        "b": "1–15 August 2022",
+        "c": "26 July–11 August 2024",
+        "d": "None of these"
+      },
+      "one_liner": "The official dates for the 2024 Summer Olympics were from **26 July to 11 August 2024**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Summer Olympics",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Olympics",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "2024 Summer Olympics",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

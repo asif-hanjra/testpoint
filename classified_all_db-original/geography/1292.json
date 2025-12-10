@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Dulla Bhatti hanged?",
+      "options": {
+        "a": "Multan",
+        "b": "Lahore",
+        "c": "Sargodha",
+        "d": "None of these"
+      },
+      "one_liner": "Dulla Bhatti was hanged in **Lahore**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

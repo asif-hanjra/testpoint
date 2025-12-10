@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Helium, krypton, and xenon together make up what percentage of the atmosphere?",
+      "options": {
+        "a": "0.03%",
+        "b": "0.00055%",
+        "c": "0.009%",
+        "d": "0.9%"
+      },
+      "one_liner": "Helium, krypton, and xenon collectively account for only about **0.00055%** of Earth's atmosphere.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

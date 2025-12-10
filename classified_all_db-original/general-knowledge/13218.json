@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the nickname of the atomic bomb dropped on Hiroshima in 1945?",
+      "options": {
+        "a": "Fat Man",
+        "b": "Little Boy",
+        "c": "Big Boy",
+        "d": "None of these"
+      },
+      "one_liner": "The atomic bomb dropped on Hiroshima in 1945 was nicknamed **Little Boy**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Universal Declaration of Human Rights (1948)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

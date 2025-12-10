@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the old name of Chennai?",
+      "options": {
+        "a": "Kolkata",
+        "b": "Bombay",
+        "c": "Madras",
+        "d": "Hyderabad"
+      },
+      "one_liner": "Chennai was formerly known as **Madras**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

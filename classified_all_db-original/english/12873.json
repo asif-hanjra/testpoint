@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'shuck':",
+      "options": {
+        "a": "encase",
+        "b": "strip",
+        "c": "peel",
+        "d": "discard"
+      },
+      "one_liner": "The antonym of 'shuck' would be to 'encase' or 'cover', which is the opposite of removing the outer layer.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

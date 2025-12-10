@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which districts is the Diamer-Bhasha Dam located?",
+      "options": {
+        "a": "Kohistan and Diamer",
+        "b": "Mianwali and Kohistan",
+        "c": "Diamer and Mianwali",
+        "d": "None of these"
+      },
+      "one_liner": "The Diamer-Bhasha Dam is located in both **Kohistan District of Khyber Pakhtunkhwa and Diamer, Gilgit Baltistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

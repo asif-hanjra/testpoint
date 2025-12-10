@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dangle':",
+      "options": {
+        "a": "attach",
+        "b": "swing",
+        "c": "suspend",
+        "d": "loosen"
+      },
+      "one_liner": "The antonym of 'dangle' is 'attach', which means to fasten or secure something in place.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'invoke':",
+      "options": {
+        "a": "summon:disregard",
+        "b": "evoke:ignore",
+        "c": "conjure:heed",
+        "d": "arouse:dismiss"
+      },
+      "one_liner": "'Summon' is a synonym of 'invoke', while 'disregard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'laborious':",
+      "options": {
+        "a": "effortless",
+        "b": "arduous",
+        "c": "easy",
+        "d": "simple"
+      },
+      "one_liner": "'Laborious' tasks are often 'arduous' and require a lot of effort.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

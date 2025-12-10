@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who translated Allama Iqbal's book Asrar-e-Khudi into Indonesian?",
+      "options": {
+        "a": "Burhan Rangkuti",
+        "b": "Syed Sulaiman Nadvi",
+        "c": "Maulana Shibli",
+        "d": "None of these"
+      },
+      "one_liner": "Allama Iqbal's famous work Asrar-e-Khudi was translated into Indonesian by **Burhan Rangkuti**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

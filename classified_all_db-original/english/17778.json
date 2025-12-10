@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abundance':",
+      "options": {
+        "a": "plenty:shortage",
+        "b": "excess:deficiency",
+        "c": "wealth:poverty",
+        "d": "surplus:lack"
+      },
+      "one_liner": "'Plenty' is a synonym of 'abundance', while 'shortage' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

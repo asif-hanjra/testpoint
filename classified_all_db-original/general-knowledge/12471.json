@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How long is the term of office for the President of the United Nations General Assembly?",
+      "options": {
+        "a": "Six months",
+        "b": "One year",
+        "c": "Two years",
+        "d": "Five years"
+      },
+      "one_liner": "The President of the United Nations General Assembly is elected each year to serve a **one-year term**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

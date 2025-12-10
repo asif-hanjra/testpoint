@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'smother':",
+      "options": {
+        "a": "liberate",
+        "b": "suppress",
+        "c": "strangle",
+        "d": "quench"
+      },
+      "one_liner": "An antonym of 'smother' is 'liberate', which means to set free or release.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

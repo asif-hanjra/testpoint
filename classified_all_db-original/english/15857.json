@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "DIAMOND : BASEBALL :: COURT : ________?",
+      "options": {
+        "a": "Lawyer",
+        "b": "Judge",
+        "c": "Jury",
+        "d": "Police"
+      },
+      "one_liner": "A diamond is the playing field in baseball, just as a court is where a judge presides.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

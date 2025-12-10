@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which function is not differentiable at x = 0?",
+      "options": {
+        "a": "f(x) = x²",
+        "b": "f(x) = |x|",
+        "c": "f(x) = sin(x)",
+        "d": "f(x) = eˣ"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

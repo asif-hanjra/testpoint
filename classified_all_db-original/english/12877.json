@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dictate':",
+      "options": {
+        "a": "command",
+        "b": "order",
+        "c": "obey",
+        "d": "demand"
+      },
+      "one_liner": "The antonym of 'dictate', which means to command, would be 'obey', which means to follow commands.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

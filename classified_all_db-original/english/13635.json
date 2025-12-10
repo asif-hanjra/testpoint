@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'precedence':",
+      "options": {
+        "a": "inferiority",
+        "b": "priority",
+        "c": "subsequence",
+        "d": "posteriority"
+      },
+      "one_liner": "'Precedence' refers to the condition of being considered more important than something else, similar to 'priority'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

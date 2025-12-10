@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: Someone has taken away my wallet.",
+      "options": {
+        "a": "My wallet had been taken away",
+        "b": "My wallet has been taken away",
+        "c": "My wallet was taken away",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

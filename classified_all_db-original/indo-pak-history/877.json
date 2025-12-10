@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date did Muhammad Ali Jauhar die?",
+      "options": {
+        "a": "January 4, 1931",
+        "b": "February 14, 1932",
+        "c": "March 23, 1931",
+        "d": "December 25, 1930"
+      },
+      "one_liner": "**Muhammad Ali Jauhar** passed away on January 4, 1931, in London, England.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "OYSTER : BED :: RICE : ________?",
+      "options": {
+        "a": "Field",
+        "b": "Paddy",
+        "c": "Shell",
+        "d": "Grain"
+      },
+      "one_liner": "An oyster is found in a bed (of oysters), and rice is grown in a paddy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

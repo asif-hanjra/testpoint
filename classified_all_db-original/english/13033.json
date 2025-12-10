@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vague':",
+      "options": {
+        "a": "clear",
+        "b": "ambiguous",
+        "c": "sharp",
+        "d": "distinct"
+      },
+      "one_liner": "'Vague' means unclear or imprecise, similar to 'ambiguous' or 'nebulous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

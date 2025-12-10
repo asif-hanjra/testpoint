@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'recluse':",
+      "options": {
+        "a": "hermit:extrovert",
+        "b": "loner:conversationalist",
+        "c": "introvert:socialite",
+        "d": "anchorite:party animal"
+      },
+      "one_liner": "'Hermit' is a synonym for 'recluse', while 'extrovert' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

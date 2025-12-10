@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'brief':",
+      "options": {
+        "a": "short",
+        "b": "quick",
+        "c": "transient",
+        "d": "prolonged"
+      },
+      "one_liner": "The antonym of 'brief' is 'prolonged', indicating an extended period of time.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

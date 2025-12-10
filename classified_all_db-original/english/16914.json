@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'aid':",
+      "options": {
+        "a": "assist:thwart",
+        "b": "support:facilitate",
+        "c": "help:promote",
+        "d": "aid:assist"
+      },
+      "one_liner": "'Assist' is a synonym of 'aid', while 'thwart' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

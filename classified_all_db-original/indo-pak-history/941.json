@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Urdu-Hindi Controversy begin?",
+      "options": {
+        "a": "1857",
+        "b": "1867",
+        "c": "1877",
+        "d": "1887"
+      },
+      "one_liner": "The Urdu-Hindi Controversy began in the year **1867**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Urdu-Hindi Controversy (Banaras) (1867)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Urdu-Hindi Controversy (Banaras) (1867)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

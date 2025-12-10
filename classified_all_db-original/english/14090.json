@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'disburse':",
+      "options": {
+        "a": "collect",
+        "b": "expend",
+        "c": "hoard",
+        "d": "save"
+      },
+      "one_liner": "'Disburse' means to pay out money from a fund, similar to 'expend'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

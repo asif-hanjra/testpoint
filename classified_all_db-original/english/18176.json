@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pernicious':",
+      "options": {
+        "a": "malevolent:salutary",
+        "b": "noxious:wholesome",
+        "c": "deadly:beneficial",
+        "d": "harmful:harmless"
+      },
+      "one_liner": "'Malevolent' is a synonym of 'pernicious', while 'salutary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

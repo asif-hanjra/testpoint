@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abstruse':",
+      "options": {
+        "a": "complicated",
+        "b": "clear",
+        "c": "cryptic",
+        "d": "enigmatic"
+      },
+      "one_liner": "The word 'abstruse' is the opposite of 'clear', which means easy to understand.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

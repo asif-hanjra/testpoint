@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'defeat':",
+      "options": {
+        "a": "victory",
+        "b": "triumph",
+        "c": "conquest",
+        "d": "success"
+      },
+      "one_liner": "'Defeat' implies being beaten or losing, similar to 'conquest' or 'vanquish'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

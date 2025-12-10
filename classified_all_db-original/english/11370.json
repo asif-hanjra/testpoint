@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'insensible':",
+      "options": {
+        "a": "numb:perceptive",
+        "b": "unconscious:sensitive",
+        "c": "indifferent:aware",
+        "d": "unfeeling:unaware"
+      },
+      "one_liner": "'Unconscious' is a synonym of 'insensible', while 'sensitive' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

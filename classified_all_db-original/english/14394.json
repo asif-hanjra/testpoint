@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stimulus':",
+      "options": {
+        "a": "impetus:disincentive",
+        "b": "spur:encouragement",
+        "c": "incentive:stimulant",
+        "d": "motivation:inducement"
+      },
+      "one_liner": "'Impetus' is a synonym for 'stimulus', while 'disincentive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

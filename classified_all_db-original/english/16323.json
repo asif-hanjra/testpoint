@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'excite':",
+      "options": {
+        "a": "energize:pacify",
+        "b": "stimulate:thrill",
+        "c": "animate:arouse",
+        "d": "invigorate:excite"
+      },
+      "one_liner": "'Energize' is a synonym of 'excite', while 'pacify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term and tenure of Senate membership in Pakistan?",
+      "options": {
+        "a": "4 years",
+        "b": "5 years",
+        "c": "6 years",
+        "d": "7 years"
+      },
+      "one_liner": "The term and tenure of Senate membership in Pakistan is **6 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

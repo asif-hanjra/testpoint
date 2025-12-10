@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for the River Cano Cristales?",
+      "options": {
+        "a": "Black Water River",
+        "b": "River of Five Colors",
+        "c": "Silver River",
+        "d": "Golden Stream"
+      },
+      "one_liner": "River Cano Cristales is often called the **River of Five Colors** or the \"Liquid Rainbow\".",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

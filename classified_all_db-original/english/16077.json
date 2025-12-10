@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'petition':",
+      "options": {
+        "a": "demand",
+        "b": "plea",
+        "c": "refusal",
+        "d": "disregard"
+      },
+      "one_liner": "'Petition' refers to a formal request or appeal, similar to 'plea' or 'entreaty'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

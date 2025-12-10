@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which regiment did Captain Raja Muhammad Sarwar belong to when he was awarded the Nishan-e-Haider?",
+      "options": {
+        "a": "Azad Kashmir Regiment",
+        "b": "2nd Punjab Regiment",
+        "c": "16th Punjab Regiment",
+        "d": "No. 2 Fighter Conversion Unit"
+      },
+      "one_liner": "Captain Raja Muhammad Sarwar belonged to the **2nd Punjab Regiment** when he was awarded the Nishan-e-Haider.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

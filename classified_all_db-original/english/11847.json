@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'strain':",
+      "options": {
+        "a": "tension:ease",
+        "b": "stretch:relax",
+        "c": "pull:release",
+        "d": "extend:loosen"
+      },
+      "one_liner": "'Tension' is a synonym of 'strain', while 'ease' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

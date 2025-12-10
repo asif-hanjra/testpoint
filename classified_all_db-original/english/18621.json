@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'innocuous':",
+      "options": {
+        "a": "harmful",
+        "b": "safe",
+        "c": "beneficial",
+        "d": "gentle"
+      },
+      "one_liner": "An antonym of 'innocuous' is 'harmful', which means causing or capable of causing damage or harm.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

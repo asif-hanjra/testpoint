@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rotundity':",
+      "options": {
+        "a": "roundness:angularity",
+        "b": "curvature:flatness",
+        "c": "plumpness:sharpness",
+        "d": "sphericity:edginess"
+      },
+      "one_liner": "A synonym for 'rotundity' is 'roundness', while 'angularity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

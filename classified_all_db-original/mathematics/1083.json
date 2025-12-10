@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Some months have 30 days, some months have 31 days, how many months have at least 28 days?",
+      "options": {
+        "a": "4",
+        "b": "1",
+        "c": "7",
+        "d": "12"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

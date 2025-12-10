@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was Zafarullah Khan's profession before becoming the Foreign Minister of Pakistan?",
+      "options": {
+        "a": "Doctor and Politician",
+        "b": "Engineer and Diplomat",
+        "c": "Lawyer and Administrator",
+        "d": "None of these"
+      },
+      "one_liner": "Before serving as Foreign Minister, **Zafarullah Khan** had distinguished himself as a lawyer and administrator.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1947-1950)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

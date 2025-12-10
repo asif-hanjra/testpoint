@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'special':",
+      "options": {
+        "a": "ordinary",
+        "b": "extraordinary",
+        "c": "common",
+        "d": "usual"
+      },
+      "one_liner": "'Special' means unique or exceptional \n—words like 'extraordinary' and 'distinctive' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

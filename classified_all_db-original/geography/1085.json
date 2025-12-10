@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is home to the seaport city of Genoa?",
+      "options": {
+        "a": "Spain",
+        "b": "France",
+        "c": "Italy",
+        "d": "Greece"
+      },
+      "one_liner": "Genoa is a well-known seaport located in **Italy**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

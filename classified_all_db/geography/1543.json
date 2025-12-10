@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Indian city is connected to Lahore in Pakistan via the Wahga border?",
+      "options": {
+        "a": "Delhi",
+        "b": "Amritsar",
+        "c": "Mumbai",
+        "d": "Chandigarh"
+      },
+      "one_liner": "The Wahga border connects the Pakistani city of **Lahore** with the Indian city of **Amritsar**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

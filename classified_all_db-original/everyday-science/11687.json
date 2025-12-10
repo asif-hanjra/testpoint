@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is blood pressure?",
+      "options": {
+        "a": "The pressure of blood in veins",
+        "b": "The pressure of blood in arteries",
+        "c": "The pressure of blood in capillaries",
+        "d": "None of these"
+      },
+      "one_liner": "Blood pressure refers to the pressure exerted by blood within the **arteries**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

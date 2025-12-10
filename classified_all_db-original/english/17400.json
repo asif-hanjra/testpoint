@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I am looking forward ___ our picnic scheduled next month.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "at",
+        "d": "with"
+      },
+      "one_liner": "I am looking forward 'to' our picnic scheduled next month.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

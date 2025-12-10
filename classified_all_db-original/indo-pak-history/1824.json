@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Nawab of Bengal until 1764 and participated in the Battle of Buxar?",
+      "options": {
+        "a": "Siraj ud-Daulah",
+        "b": "Mir Jafar",
+        "c": "Mir Qasim",
+        "d": "Shuja-ud-Daula"
+      },
+      "one_liner": "Mir Qasim, who was the Nawab of Bengal until 1764, participated in the Battle of Buxar against the East India Company.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

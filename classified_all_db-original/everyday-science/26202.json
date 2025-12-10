@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following best describes silicon in terms of its electrical properties?",
+      "options": {
+        "a": "Conductor",
+        "b": "Insulator",
+        "c": "Semi-conductor",
+        "d": "None of these"
+      },
+      "one_liner": "Silicon is widely recognized as a **semi-conductor** due to its ability to conduct electricity under certain conditions.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the first Indian Council Act passed?",
+      "options": {
+        "a": "1858",
+        "b": "1861",
+        "c": "1892",
+        "d": "1909"
+      },
+      "one_liner": "The first Indian Council Act was enacted in **1861**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Indian Councils Act (1892)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

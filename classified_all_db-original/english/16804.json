@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'facsimile':",
+      "options": {
+        "a": "original",
+        "b": "replica",
+        "c": "variation",
+        "d": "prototype"
+      },
+      "one_liner": "'Facsimile' refers to an exact copy or reproduction, similar to a 'replica'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

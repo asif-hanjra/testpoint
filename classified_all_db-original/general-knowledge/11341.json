@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the primary cause of the initial unrest in Syria?",
+      "options": {
+        "a": "Foreign intervention",
+        "b": "Discontent with the Assad government",
+        "c": "Economic prosperity",
+        "d": "None of these"
+      },
+      "one_liner": "The primary cause of the initial unrest in Syria was widespread **discontent with the Assad government**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Arab League",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'last':",
+      "options": {
+        "a": "terminal:initial",
+        "b": "ultimate:first",
+        "c": "final:beginning",
+        "d": "concluding:middle"
+      },
+      "one_liner": "'Terminal' is a synonym for 'last', while 'initial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

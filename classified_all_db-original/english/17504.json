@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mandatory':",
+      "options": {
+        "a": "obligatory:voluntary",
+        "b": "compulsory:required",
+        "c": "necessary:unnecessary",
+        "d": "essential:optional"
+      },
+      "one_liner": "'Obligatory' is a synonym of 'mandatory', while 'voluntary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

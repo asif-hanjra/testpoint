@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Yellow River starts from which province in China?",
+      "options": {
+        "a": "Sichuan",
+        "b": "Qinghai",
+        "c": "Yunnan",
+        "d": "Tibet"
+      },
+      "one_liner": "The Yellow River starts from **Qinghai province** in Western China.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

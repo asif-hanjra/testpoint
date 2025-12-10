@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'anomaly':",
+      "options": {
+        "a": "deviation:regularity",
+        "b": "aberration:conformity",
+        "c": "oddity:uniformity",
+        "d": "irregularity:similarity"
+      },
+      "one_liner": "'Deviation' is a synonym of 'anomaly', while 'regularity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

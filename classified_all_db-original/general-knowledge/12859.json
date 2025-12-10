@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which three US presidents died on Independence Day, the Fourth of July, but in different years?",
+      "options": {
+        "a": "Adams, Thomas Jefferson, and James Monroe",
+        "b": "Lincoln, Garfield, and McKinley",
+        "c": "Washington, Adams, and Jefferson",
+        "d": "None of these"
+      },
+      "one_liner": "The three US presidents who died on Independence Day, though in different years, were **Adams, Thomas Jefferson, and James Monroe**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

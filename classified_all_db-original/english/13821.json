@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quack':",
+      "options": {
+        "a": "expert",
+        "b": "charlatan",
+        "c": "professional",
+        "d": "specialist"
+      },
+      "one_liner": "'Quack' refers to a fraudulent or ignorant pretender to medical skill, similar to a 'charlatan'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

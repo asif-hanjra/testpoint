@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The doctor said that ______?",
+      "options": {
+        "a": "The patient could hand in his medical test report on Monday",
+        "b": "The patient can turn over his medical test report on the Monday",
+        "c": "The medical test report on Monday could be received from the patient by him",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

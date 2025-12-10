@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was sentenced ___ death.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "He was sentenced 'to' death.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which United Nations agency leads international efforts to defeat hunger and improve nutrition and food security?",
+      "options": {
+        "a": "World Health Organization",
+        "b": "Food and Agriculture Organization",
+        "c": "UNICEF",
+        "d": "UNESCO"
+      },
+      "one_liner": "The Food and Agriculture Organization is the United Nations agency responsible for leading global efforts to defeat hunger and enhance nutrition and food security.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

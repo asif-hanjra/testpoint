@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is reputed to have built the biggest network of canals in India during the Delhi Sultanate period?",
+      "options": {
+        "a": "Alauddin Khilji",
+        "b": "Balban",
+        "c": "Feroz Shah Tughlaq",
+        "d": "Muhammad bin Tughlaq"
+      },
+      "one_liner": "The Sultan of Delhi known for constructing the largest network of canals in India was **Feroz Shah Tughlaq**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

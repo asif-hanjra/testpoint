@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the second largest city of Pakistan?",
+      "options": {
+        "a": "Karachi",
+        "b": "Lahore",
+        "c": "Islamabad",
+        "d": "Peshawar"
+      },
+      "one_liner": "Lahore is recognized as the **second largest city of Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

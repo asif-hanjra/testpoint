@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the current name of Peking?",
+      "options": {
+        "a": "Beijing",
+        "b": "Oslo",
+        "c": "Chennai",
+        "d": "Istanbul"
+      },
+      "one_liner": "The city previously called Peking is now known as **Beijing**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

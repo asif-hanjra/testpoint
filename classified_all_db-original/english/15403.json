@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'desiccated':",
+      "options": {
+        "a": "moist",
+        "b": "parched",
+        "c": "damp",
+        "d": "soggy"
+      },
+      "one_liner": "'Desiccated' means dried up or dehydrated, similar to 'parched'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

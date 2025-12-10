@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fickle':",
+      "options": {
+        "a": "inconstant:faithful",
+        "b": "erratic:steady",
+        "c": "capricious:constant",
+        "d": "unstable:reliable"
+      },
+      "one_liner": "'Inconstant' is a synonym of 'fickle', while 'faithful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

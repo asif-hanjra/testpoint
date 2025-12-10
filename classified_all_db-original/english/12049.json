@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "It was my mistake ___ to look through the contract before signing.",
+      "options": {
+        "a": "for",
+        "b": "not",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "It was my mistake 'not' to look through the contract before signing.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

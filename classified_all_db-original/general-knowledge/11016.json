@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the Chief Administrative Officer of the United Nations?",
+      "options": {
+        "a": "President of the General Assembly",
+        "b": "Secretary-General",
+        "c": "Security Council Chair",
+        "d": "Chief Justice"
+      },
+      "one_liner": "The Chief Administrative Officer of the United Nations is the **Secretary-General**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'immaculate':",
+      "options": {
+        "a": "flawless:tarnished",
+        "b": "clean:dirty",
+        "c": "perfect:imperfect",
+        "d": "pristine:soiled"
+      },
+      "one_liner": "'Flawless' is a synonym of 'immaculate', while 'tarnished' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

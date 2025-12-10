@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'harbor':",
+      "options": {
+        "a": "desert",
+        "b": "haven",
+        "c": "wasteland",
+        "d": "wilderness"
+      },
+      "one_liner": "'Harbor' can mean a place of shelter, similar to 'haven' or 'port'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'board':",
+      "options": {
+        "a": "plank",
+        "b": "circle",
+        "c": "sphere",
+        "d": "triangle"
+      },
+      "one_liner": "'Board' can mean 'plank' or 'panel', both referring to flat pieces of wood.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

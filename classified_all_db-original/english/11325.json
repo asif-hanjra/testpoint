@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cozy':",
+      "options": {
+        "a": "comfy:unwelcoming",
+        "b": "warm:inviting",
+        "c": "snug:spacious",
+        "d": "soft:hard"
+      },
+      "one_liner": "'Comfy' is a synonym of 'cozy', while 'unwelcoming' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

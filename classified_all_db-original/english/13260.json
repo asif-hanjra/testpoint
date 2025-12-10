@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'broad':",
+      "options": {
+        "a": "wide",
+        "b": "large",
+        "c": "narrow",
+        "d": "expansive"
+      },
+      "one_liner": "The antonym of 'broad' is 'narrow', which means less wide or restricted in extent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

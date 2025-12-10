@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exploit':",
+      "options": {
+        "a": "ignore",
+        "b": "utilize",
+        "c": "neglect",
+        "d": "abandon"
+      },
+      "one_liner": "'Exploit' can mean to take advantage of, similar to 'utilize' or 'leverage'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

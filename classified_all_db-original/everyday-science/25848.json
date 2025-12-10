@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which salt is used in food and helps in several body processes?",
+      "options": {
+        "a": "Sodium chloride",
+        "b": "Potassium iodide",
+        "c": "Calcium chloride",
+        "d": "Magnesium sulfate"
+      },
+      "one_liner": "Calcium chloride is a salt used in food that helps in **a number of processes in the body**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

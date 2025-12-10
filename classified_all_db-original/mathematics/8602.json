@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A is taller than B, and C is shorter than A but taller than B, who is the tallest among the three?",
+      "options": {
+        "a": "B",
+        "b": "C",
+        "c": "A",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

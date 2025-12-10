@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is fully content ___ his life.",
+      "options": {
+        "a": "at",
+        "b": "with",
+        "c": "for",
+        "d": "by"
+      },
+      "one_liner": "He is fully content 'with' his life.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

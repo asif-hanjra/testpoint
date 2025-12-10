@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The function f(x) is said to concave down in an interval [a, b], if = _____?",
+      "options": {
+        "a": "f''(x) < 0",
+        "b": "f'(x) < 0",
+        "c": "f''(x) > 0",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

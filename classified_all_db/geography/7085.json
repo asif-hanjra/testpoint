@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the capital city of Belarus?",
+      "options": {
+        "a": "Minsk",
+        "b": "Vilnius",
+        "c": "Riga",
+        "d": "Warsaw"
+      },
+      "one_liner": "The capital city of Belarus is **Minsk**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

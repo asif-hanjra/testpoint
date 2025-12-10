@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'busy':",
+      "options": {
+        "a": "occupied",
+        "b": "active",
+        "c": "idle",
+        "d": "engaged"
+      },
+      "one_liner": "Antonyms of 'busy' include 'idle' and 'inactive', both suggesting a lack of activity or engagement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

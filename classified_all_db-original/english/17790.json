@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'augment':",
+      "options": {
+        "a": "enhance",
+        "b": "diminish",
+        "c": "expand",
+        "d": "increase"
+      },
+      "one_liner": "The antonym of 'augment' is 'diminish', which means to make smaller or less.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

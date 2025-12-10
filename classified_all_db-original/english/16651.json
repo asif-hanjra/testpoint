@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prominent':",
+      "options": {
+        "a": "eminent:inconspicuous",
+        "b": "obscure:noticeable",
+        "c": "distinguished:remarkable",
+        "d": "visible:hidden"
+      },
+      "one_liner": "'Eminent' is a synonym of 'prominent', while 'inconspicuous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

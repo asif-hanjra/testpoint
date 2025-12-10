@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'genuine':",
+      "options": {
+        "a": "authentic",
+        "b": "real",
+        "c": "fake",
+        "d": "original"
+      },
+      "one_liner": "Antonyms of 'genuine' include 'fake' and 'counterfeit', both implying a lack of authenticity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

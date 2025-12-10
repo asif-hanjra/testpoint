@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'recede':",
+      "options": {
+        "a": "withdraw:approach",
+        "b": "retreat:advance",
+        "c": "ebb:progress",
+        "d": "retreat:approach"
+      },
+      "one_liner": "'Withdraw' is a synonym of 'recede', while 'approach' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

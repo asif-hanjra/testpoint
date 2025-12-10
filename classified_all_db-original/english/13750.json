@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'predicilous':",
+      "options": {
+        "a": "safe",
+        "b": "perilous",
+        "c": "secure",
+        "d": "guarded"
+      },
+      "one_liner": "'Predicilous' means risky or dangerous, similar to 'perilous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

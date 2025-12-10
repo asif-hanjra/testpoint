@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Whose shrine is housed in the Mevlana Museum?",
+      "options": {
+        "a": "Sheikh Saadi",
+        "b": "Maulana Jalaluddin Muhammad Rumi",
+        "c": "Allama Iqbal",
+        "d": "Hafiz Shirazi"
+      },
+      "one_liner": "The Mevlana Museum is home to the shrine of the famous Sufi poet **Maulana Jalaluddin Muhammad Rumi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'assert':",
+      "options": {
+        "a": "proclaim:retract",
+        "b": "affirm:confirm",
+        "c": "declare:agree",
+        "d": "state:deny"
+      },
+      "one_liner": "'Proclaim' is a synonym of 'assert', while 'retract' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

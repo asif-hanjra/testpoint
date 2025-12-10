@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "If you pour grease down the sink, it will _______ the pipes.",
+      "options": {
+        "a": "bring up",
+        "b": "clog up",
+        "c": "take off",
+        "d": "run out"
+      },
+      "one_liner": "Pouring grease down the sink will 'clog up' the pipes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

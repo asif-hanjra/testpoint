@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'but' in the sentence 'I tried but failed'?",
+      "options": {
+        "a": "Noun",
+        "b": "Conjunction",
+        "c": "Verb",
+        "d": "Adverb"
+      },
+      "one_liner": "'But' is a conjunction because it connects two clauses with contrast.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

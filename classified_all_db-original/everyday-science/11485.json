@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How does the human body receive chemical energy?",
+      "options": {
+        "a": "Water",
+        "b": "Food",
+        "c": "Sunlight",
+        "d": "Air"
+      },
+      "one_liner": "The human body receives chemical energy from **food**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

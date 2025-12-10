@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct preposition: I always have lunch ___ my office.",
+      "options": {
+        "a": "in",
+        "b": "at",
+        "c": "on",
+        "d": "to"
+      },
+      "one_liner": "I always have lunch 'at' my office.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

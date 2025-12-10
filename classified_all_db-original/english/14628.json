@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'perplex':",
+      "options": {
+        "a": "clarify",
+        "b": "baffle",
+        "c": "enlighten",
+        "d": "explain"
+      },
+      "one_liner": "'Perplex' means to confuse or puzzle someone—words like 'baffle' and 'bewilder' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

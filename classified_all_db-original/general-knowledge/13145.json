@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Shah Jehan imprisoned for eight years?",
+      "options": {
+        "a": "Red Fort",
+        "b": "Agra Fort",
+        "c": "Lahore Fort",
+        "d": "Delhi Fort"
+      },
+      "one_liner": "Shah Jehan was held in **Agra Fort** for eight years during his imprisonment.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

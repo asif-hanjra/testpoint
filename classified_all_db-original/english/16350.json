@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'oligarchy':",
+      "options": {
+        "a": "democracy",
+        "b": "plutocracy",
+        "c": "anarchy",
+        "d": "republic"
+      },
+      "one_liner": "'Oligarchy' refers to a form of government controlled by a small group of people, similar to 'plutocracy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

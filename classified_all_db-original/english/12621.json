@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'seize':",
+      "options": {
+        "a": "grab",
+        "b": "clutch",
+        "c": "release",
+        "d": "capture"
+      },
+      "one_liner": "An antonym of 'seize' is 'release', which means to let go or set free.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

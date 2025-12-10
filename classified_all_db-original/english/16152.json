@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "My father works ___ Frank Fort Bank.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "My father works 'in' Frank Fort Bank.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

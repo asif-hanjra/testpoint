@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'She gave him a gift,' what part of speech is 'him'?",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Pronoun",
+        "d": "Adjective"
+      },
+      "one_liner": "In the sentence 'She gave him a gift', the word 'him' is a pronoun because it replaces a noun (e.g., a person's name) as the object of the verb.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

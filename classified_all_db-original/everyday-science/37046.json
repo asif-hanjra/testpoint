@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of inheritance is not supported by Java:",
+      "options": {
+        "a": "Single inheritance",
+        "b": "Multiple inheritance",
+        "c": "Multilevel inheritance",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

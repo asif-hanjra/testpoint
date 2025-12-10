@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'proclamation':",
+      "options": {
+        "a": "announcement:suppression",
+        "b": "declaration:revelation",
+        "c": "edict:exposure",
+        "d": "manifesto:publication"
+      },
+      "one_liner": "'Announcement' is a synonym of 'proclamation', while 'suppression' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

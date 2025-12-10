@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'flirt':",
+      "options": {
+        "a": "engage",
+        "b": "coquet",
+        "c": "commit",
+        "d": "marry"
+      },
+      "one_liner": "'Flirt' refers to behaving amorously without serious intent, similar to 'coquet' or 'dally'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

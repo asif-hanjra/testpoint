@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'perpetuate':",
+      "options": {
+        "a": "initiate",
+        "b": "continue",
+        "c": "terminate",
+        "d": "prolong"
+      },
+      "one_liner": "An antonym for 'perpetuate' would be 'terminate', which means to bring to an end.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

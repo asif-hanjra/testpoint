@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does OIC stand for?",
+      "options": {
+        "a": "Organization of International Communities",
+        "b": "Organization of Islamic Cooperation",
+        "c": "Office of Islamic Coordination",
+        "d": "None of these"
+      },
+      "one_liner": "OIC is the abbreviation for the **Organization of Islamic Cooperation**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

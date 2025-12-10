@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adjourn':",
+      "options": {
+        "a": "recess:resume",
+        "b": "postpone:continue",
+        "c": "defer:begin",
+        "d": "suspend:initiate"
+      },
+      "one_liner": "'Recess' is a synonym for 'adjourn', while 'resume' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

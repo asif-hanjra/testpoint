@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Complete the proverb: 'One man's meat ___ another man's poison.'",
+      "options": {
+        "a": "at",
+        "b": "is",
+        "c": "by",
+        "d": "for"
+      },
+      "one_liner": "One man's meat 'is' another man's poison.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

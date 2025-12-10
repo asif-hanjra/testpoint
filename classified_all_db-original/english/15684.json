@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'herbaceous':",
+      "options": {
+        "a": "leafy:woody",
+        "b": "floral:barren",
+        "c": "verdant:lush",
+        "d": "green:arid"
+      },
+      "one_liner": "'Leafy' is a synonym of 'herbaceous', while 'woody' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

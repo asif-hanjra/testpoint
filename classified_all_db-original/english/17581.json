@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'contract':",
+      "options": {
+        "a": "expand",
+        "b": "condense",
+        "c": "lengthen",
+        "d": "widen"
+      },
+      "one_liner": "'Contract' can mean to decrease in size, similar to 'shrink' or 'condense'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

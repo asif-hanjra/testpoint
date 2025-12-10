@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which layer of the Earth is the thickest and is located beneath the crust?",
+      "options": {
+        "a": "Crust",
+        "b": "Mantle",
+        "c": "Core",
+        "d": "None of these"
+      },
+      "one_liner": "The **mantle** is the thickest layer of the Earth, situated directly beneath the crust.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

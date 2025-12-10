@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the third kingdom in biological classification called?",
+      "options": {
+        "a": "Fungi",
+        "b": "Plantae",
+        "c": "Protista",
+        "d": "Monera"
+      },
+      "one_liner": "In biological classification, the third kingdom is known as **Protista**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abolish':",
+      "options": {
+        "a": "annul:institute",
+        "b": "establish:eradicate",
+        "c": "eliminate:create",
+        "d": "revoke:build"
+      },
+      "one_liner": "'Annul' is a synonym for 'abolish', while 'institute' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

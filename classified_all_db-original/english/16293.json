@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "DOZE : SLEEP :: TIPTOE : ________?",
+      "options": {
+        "a": "Run",
+        "b": "Jump",
+        "c": "Walk",
+        "d": "Stand"
+      },
+      "one_liner": "To doze is to sleep lightly, just as to tiptoe is to walk quietly.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

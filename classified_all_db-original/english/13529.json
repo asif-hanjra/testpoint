@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fictitious':",
+      "options": {
+        "a": "fabricated",
+        "b": "unreal",
+        "c": "authentic",
+        "d": "imaginary"
+      },
+      "one_liner": "An antonym of 'fictitious' is 'authentic', which means genuine or real.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'but' in the sentence 'She is smart but lazy.'",
+      "options": {
+        "a": "Conjunction",
+        "b": "Adverb",
+        "c": "Noun",
+        "d": "Adjective"
+      },
+      "one_liner": "In the sentence 'She is smart but lazy', the word 'but' is a conjunction because it connects two contrasting adjectives ('smart' and 'lazy').",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

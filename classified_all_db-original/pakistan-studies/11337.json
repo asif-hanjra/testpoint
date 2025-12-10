@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many students were among those killed in the APS Peshawar attack?",
+      "options": {
+        "a": "50",
+        "b": "100",
+        "c": "134",
+        "d": "200"
+      },
+      "one_liner": "At least **134 students** were killed in the APS Peshawar attack.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

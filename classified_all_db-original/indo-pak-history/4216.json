@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "To which dynasty did Razia Sultana, the ruler of the Indian subcontinent, belong?",
+      "options": {
+        "a": "Mughal Dynasty",
+        "b": "Slave Dynasty",
+        "c": "Lodhi Dynasty",
+        "d": "Khilji Dynasty"
+      },
+      "one_liner": "Razia Sultana, who ruled parts of the Indian subcontinent, was a monarch from the **Slave Dynasty**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

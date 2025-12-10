@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'partisan':",
+      "options": {
+        "a": "impartial",
+        "b": "biased",
+        "c": "supporter",
+        "d": "ally"
+      },
+      "one_liner": "An antonym of 'partisan' is 'impartial', which means not supporting any side in a conflict or debate.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

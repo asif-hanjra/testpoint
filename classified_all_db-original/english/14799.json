@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tamp':",
+      "options": {
+        "a": "press:expand",
+        "b": "compact:inflate",
+        "c": "condense:loosen",
+        "d": "flatten:enlarge"
+      },
+      "one_liner": "'Press' is a synonym for 'tamp', while 'expand' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

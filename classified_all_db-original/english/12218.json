@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I sit on the grass ___ the garden.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "I sit on the grass 'in' the garden.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

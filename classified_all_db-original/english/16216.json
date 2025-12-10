@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'great':",
+      "options": {
+        "a": "tiny",
+        "b": "immense",
+        "c": "insignificant",
+        "d": "small"
+      },
+      "one_liner": "'Great' means large in size or extent, so 'immense' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

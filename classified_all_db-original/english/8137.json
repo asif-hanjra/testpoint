@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Detect the error \"I and my colleague/have carefully considered the important issues raised by/the report which you sent me and/ we have decided to take the following action\"?",
+      "options": {
+        "a": "I and my",
+        "b": "Have carefully considered the important issues raised by",
+        "c": "The report which you sent me and",
+        "d": "We have decided to take the following"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

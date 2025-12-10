@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'subjugate':",
+      "options": {
+        "a": "liberate",
+        "b": "dominate",
+        "c": "release",
+        "d": "free"
+      },
+      "one_liner": "'Subjugate' means to bring under control or conquer, similar to 'dominate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

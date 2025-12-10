@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Truth is stranger ___ fiction.",
+      "options": {
+        "a": "to",
+        "b": "than",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "Truth is stranger 'than' fiction.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

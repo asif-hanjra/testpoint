@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "They live ___ a flat above the shop.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "They live 'in' a flat above the shop.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

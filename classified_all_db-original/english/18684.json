@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dark':",
+      "options": {
+        "a": "bright",
+        "b": "shadowy",
+        "c": "vivid",
+        "d": "luminous"
+      },
+      "one_liner": "'Dark' can mean lacking light or deep in shade, similar to 'dim' or 'shadowy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gargle':",
+      "options": {
+        "a": "drink",
+        "b": "rinse",
+        "c": "swallow",
+        "d": "gulp"
+      },
+      "one_liner": "'Gargle' refers to the act of rinsing one's throat with liquid, similar to 'rinse' or 'swish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

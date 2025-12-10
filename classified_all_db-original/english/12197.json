@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Put some money aside ___ a rainy day.",
+      "options": {
+        "a": "at",
+        "b": "for",
+        "c": "on",
+        "d": "in"
+      },
+      "one_liner": "Put some money aside 'for' a rainy day.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

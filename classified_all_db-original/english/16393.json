@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'astringent':",
+      "options": {
+        "a": "loosening",
+        "b": "constricting",
+        "c": "expanding",
+        "d": "softening"
+      },
+      "one_liner": "'Astringent' refers to substances that can tighten tissues; 'constricting' is a synonym that implies a similar effect.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

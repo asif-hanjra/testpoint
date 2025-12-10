@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He runs faster ___ his brother.",
+      "options": {
+        "a": "from",
+        "b": "than",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "He runs faster 'than' his brother.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

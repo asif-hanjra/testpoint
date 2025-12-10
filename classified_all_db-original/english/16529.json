@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vibrant':",
+      "options": {
+        "a": "dull",
+        "b": "lively",
+        "c": "lethargic",
+        "d": "listless"
+      },
+      "one_liner": "'Vibrant' describes something full of energy and life, much like 'lively' or 'vivid'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

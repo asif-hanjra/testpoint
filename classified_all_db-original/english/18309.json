@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fiasco':",
+      "options": {
+        "a": "success",
+        "b": "debacle",
+        "c": "victory",
+        "d": "achievement"
+      },
+      "one_liner": "'Fiasco' refers to a complete failure, especially in a ludicrous or humiliating way—'debacle' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

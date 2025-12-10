@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ingenious':",
+      "options": {
+        "a": "inventive:mundane",
+        "b": "clever:dull",
+        "c": "smart:stupid",
+        "d": "brilliant:brilliant"
+      },
+      "one_liner": "'Inventive' is a synonym of 'ingenious', while 'mundane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

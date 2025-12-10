@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is interested ___ coin collection.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "for"
+      },
+      "one_liner": "He is interested 'in' coin collection.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

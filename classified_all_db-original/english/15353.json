@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'eloquence':",
+      "options": {
+        "a": "confusion",
+        "b": "articulateness",
+        "c": "silence",
+        "d": "inarticulateness"
+      },
+      "one_liner": "'Eloquence' refers to the art of speaking or writing effectively, similar to 'articulateness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

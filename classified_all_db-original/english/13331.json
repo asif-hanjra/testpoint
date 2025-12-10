@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'partisan':",
+      "options": {
+        "a": "ally:adversary",
+        "b": "supporter:ally",
+        "c": "advocate:biased",
+        "d": "enthusiast:impartial"
+      },
+      "one_liner": "'Ally' is a synonym of 'partisan', while 'adversary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reckless':",
+      "options": {
+        "a": "cautious",
+        "b": "rash",
+        "c": "prudent",
+        "d": "careful"
+      },
+      "one_liner": "'Reckless' behavior is often described as 'rash' or 'careless', indicating a lack of proper caution.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

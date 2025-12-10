@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tarnish':",
+      "options": {
+        "a": "polish",
+        "b": "stain",
+        "c": "clean",
+        "d": "brighten"
+      },
+      "one_liner": "'Tarnish' means to lose luster or become discolored, similar to how 'discolor' and 'stain' are used.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

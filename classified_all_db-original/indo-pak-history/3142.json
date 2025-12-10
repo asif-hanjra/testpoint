@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who started the Civil Disobedience Movement?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Mahatma Gandhi",
+        "c": "Sardar Patel",
+        "d": "None of these"
+      },
+      "one_liner": "The Civil Disobedience Movement was initiated by **Mahatma Gandhi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

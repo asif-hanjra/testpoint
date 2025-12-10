@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which area is irrigated by the Jinnah Barrage?",
+      "options": {
+        "a": "Thal",
+        "b": "Cholistan",
+        "c": "Kachhi",
+        "d": "None of these"
+      },
+      "one_liner": "The Jinnah Barrage is responsible for irrigating the area of **Thal**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

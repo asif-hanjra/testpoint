@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which woman scientist's research led to the foundation of fiber optics?",
+      "options": {
+        "a": "Dr. Shirley Jackson",
+        "b": "Marie Curie",
+        "c": "Rosalind Franklin",
+        "d": "Ada Lovelace"
+      },
+      "one_liner": "The research of **Dr. Shirley Jackson** played a crucial role in laying the foundation for fiber optics technology.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

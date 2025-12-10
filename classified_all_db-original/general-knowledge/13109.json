@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the British army officer who led the allied army to defeat Napoleon at the Battle of Waterloo in 1815?",
+      "options": {
+        "a": "Duke of Wellington",
+        "b": "Horatio Nelson",
+        "c": "Arthur Balfour",
+        "d": "None of these"
+      },
+      "one_liner": "The British army officer who led the allied army to defeat Napoleon at the Battle of Waterloo in 1815 was **Duke of Wellington**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Battle of Waterloo (1815)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Napoleon Bonaparte",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Battle of Waterloo (1815)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fat':",
+      "options": {
+        "a": "thin",
+        "b": "heavy",
+        "c": "bulky",
+        "d": "massive"
+      },
+      "one_liner": "The antonym of 'fat' is 'thin', which means not having a lot of excess body tissue.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

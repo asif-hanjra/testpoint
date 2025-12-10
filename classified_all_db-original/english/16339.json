@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'arrogant':",
+      "options": {
+        "a": "haughty:unassuming",
+        "b": "proud:modest",
+        "c": "conceited:shy",
+        "d": "egotistical:humble"
+      },
+      "one_liner": "'Haughty' is a synonym of 'arrogant', while 'unassuming' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

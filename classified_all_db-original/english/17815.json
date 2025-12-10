@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Mea culpa' translate to in English?",
+      "options": {
+        "a": "My friend",
+        "b": "My fault",
+        "c": "My country",
+        "d": "My love"
+      },
+      "one_liner": "'Mea culpa' is a Latin phrase that means 'my fault' and is an acknowledgment of one's own error.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

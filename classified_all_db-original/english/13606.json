@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Are you conscious ___ your responsibility in this matter?",
+      "options": {
+        "a": "at",
+        "b": "of",
+        "c": "in",
+        "d": "for"
+      },
+      "one_liner": "Are you conscious 'of' your responsibility in this matter?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The eagle swooped and carried ___ a sleeping lizard.",
+      "options": {
+        "a": "on",
+        "b": "off",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "The eagle swooped and carried 'off' a sleeping lizard.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

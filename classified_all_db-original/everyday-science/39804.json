@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the brain located in the human body?",
+      "options": {
+        "a": "Inside the chest",
+        "b": "Inside the skull of the head",
+        "c": "Inside the abdomen",
+        "d": "None of these"
+      },
+      "one_liner": "The human brain is located inside the **skull of the head**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

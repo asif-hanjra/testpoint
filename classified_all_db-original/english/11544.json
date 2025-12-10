@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'distend':",
+      "options": {
+        "a": "inflate:shrink",
+        "b": "enlarge:deflate",
+        "c": "swell:compress",
+        "d": "bloat:expand"
+      },
+      "one_liner": "'Enlarge' is a synonym for 'distend', while 'deflate' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

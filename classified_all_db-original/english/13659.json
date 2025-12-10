@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'noisy':",
+      "options": {
+        "a": "clamorous:serene",
+        "b": "silent:boisterous",
+        "c": "raucous:peaceful",
+        "d": "loud:quiet"
+      },
+      "one_liner": "'Clamorous' is a synonym for 'noisy', while 'serene' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

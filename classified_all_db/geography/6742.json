@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Bolan Pass further links Quetta in Baluchistan with which city in Afghanistan through Chaman?",
+      "options": {
+        "a": "Kabul",
+        "b": "Kandahar",
+        "c": "Jalalabad",
+        "d": "Herat"
+      },
+      "one_liner": "Bolan Pass further links Quetta in Baluchistan with **Kandahar** in Afghanistan through Chaman.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

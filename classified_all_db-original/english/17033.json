@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'propriety':",
+      "options": {
+        "a": "decorum:indecency",
+        "b": "etiquette:disorder",
+        "c": "courtesy:chaos",
+        "d": "conformity:anarchy"
+      },
+      "one_liner": "'Decorum' is a synonym for 'propriety', while 'indecency' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

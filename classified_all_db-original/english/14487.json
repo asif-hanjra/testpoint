@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'evoke':",
+      "options": {
+        "a": "ignore",
+        "b": "elicit",
+        "c": "forget",
+        "d": "overlook"
+      },
+      "one_liner": "'Evoke' means to bring to mind or recall, similar to 'elicit' or 'invoke'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

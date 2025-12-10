@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Have you ever ridden ___ the camel?",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "Have you ridden 'on' the camel?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

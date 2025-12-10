@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ornate':",
+      "options": {
+        "a": "fancy",
+        "b": "decorated",
+        "c": "plain",
+        "d": "luxurious"
+      },
+      "one_liner": "The antonym of 'ornate' is 'plain', indicating something without decoration or embellishment.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

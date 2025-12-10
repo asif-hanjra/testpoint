@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'kith':",
+      "options": {
+        "a": "allies",
+        "b": "foes",
+        "c": "partners",
+        "d": "supporters"
+      },
+      "one_liner": "An antonym of 'kith' would be 'foes', indicating hostility rather than friendship.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

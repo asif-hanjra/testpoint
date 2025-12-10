@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fraction':",
+      "options": {
+        "a": "whole",
+        "b": "portion",
+        "c": "totality",
+        "d": "sum"
+      },
+      "one_liner": "'Fraction' can also mean a 'portion' or 'part' of a whole.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

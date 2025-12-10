@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'accede':",
+      "options": {
+        "a": "agree",
+        "b": "accept",
+        "c": "concede",
+        "d": "refuse"
+      },
+      "one_liner": "An antonym of 'accede' is 'refuse', which means to decline or reject an offer or demand.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

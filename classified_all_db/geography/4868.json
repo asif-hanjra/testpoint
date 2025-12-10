@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest lake entirely in Canada?",
+      "options": {
+        "a": "Great Bear Lake",
+        "b": "Great Slave Lake",
+        "c": "Lake Ontario",
+        "d": "Lake Superior"
+      },
+      "one_liner": "The largest lake entirely in Canada is **Great Bear Lake**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

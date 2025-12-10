@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'as the crow flies' mean when referring to distance?",
+      "options": {
+        "a": "In a zigzag pattern",
+        "b": "The actual distance walking or driving",
+        "c": "The shortest straight-line distance between two points",
+        "d": "A very long distance"
+      },
+      "one_liner": "The idiom 'as the crow flies' refers to the shortest straight-line distance between two points, disregarding any obstacles or actual travel path.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

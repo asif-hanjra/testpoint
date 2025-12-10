@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "∫sin5xdx = _____?",
+      "options": {
+        "a": "-1/5cos5x + c",
+        "b": "1/5cos5x + c",
+        "c": "-1/5sin5x + c",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

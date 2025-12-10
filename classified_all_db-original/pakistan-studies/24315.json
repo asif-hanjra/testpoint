@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many exclusively Urdu words are present in Pakistan's National Anthem?",
+      "options": {
+        "a": "Two",
+        "b": "One",
+        "c": "Three",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan's National Anthem contains only **one exclusively Urdu word**, which is 'ka'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1950)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

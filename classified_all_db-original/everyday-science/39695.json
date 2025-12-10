@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of the eye acts similarly to the film in a camera?",
+      "options": {
+        "a": "Cornea",
+        "b": "Retina",
+        "c": "Lens",
+        "d": "Iris"
+      },
+      "one_liner": "In the human eye, the retina functions much like the film in a camera, capturing images and sending visual information to the brain, making the correct answer **retina**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

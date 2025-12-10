@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cadge':",
+      "options": {
+        "a": "donate",
+        "b": "scrounge",
+        "c": "offer",
+        "d": "present"
+      },
+      "one_liner": "'Cadge' means to beg or obtain without payment, similar to 'scrounge'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

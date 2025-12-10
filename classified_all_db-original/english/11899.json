@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'when pigs fly' imply?",
+      "options": {
+        "a": "When there is heavy rain",
+        "b": "When something is highly likely to happen",
+        "c": "When something will never happen",
+        "d": "When someone is daydreaming"
+      },
+      "one_liner": "The idiom 'when pigs fly' is used to express that something is impossible or extremely unlikely to happen.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

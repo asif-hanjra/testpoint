@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'painstaking':",
+      "options": {
+        "a": "diligent:sloppy",
+        "b": "careful:meticulous",
+        "c": "thorough:careless",
+        "d": "attentive:negligent"
+      },
+      "one_liner": "'Diligent' is a synonym of 'painstaking', while 'sloppy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

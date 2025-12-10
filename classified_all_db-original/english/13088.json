@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'omnipotent':",
+      "options": {
+        "a": "almighty:incapable",
+        "b": "invincible:weak",
+        "c": "all-powerful:strong",
+        "d": "supreme:competent"
+      },
+      "one_liner": "'Almighty' is a synonym of 'omnipotent', while 'incapable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'caustic':",
+      "options": {
+        "a": "sarcastic:bland",
+        "b": "harsh:mild",
+        "c": "acidic:soothing",
+        "d": "sharp:gentle"
+      },
+      "one_liner": "'Sarcastic' is a synonym of 'caustic', while 'bland' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

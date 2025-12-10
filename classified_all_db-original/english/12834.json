@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mandatory':",
+      "options": {
+        "a": "compulsory",
+        "b": "required",
+        "c": "optional",
+        "d": "imperative"
+      },
+      "one_liner": "An antonym of 'mandatory' is 'optional', which means not required.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

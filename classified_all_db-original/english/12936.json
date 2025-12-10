@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'apathy':",
+      "options": {
+        "a": "disregard",
+        "b": "unconcern",
+        "c": "indifference",
+        "d": "enthusiasm"
+      },
+      "one_liner": "The opposite of 'apathy' is 'interest' or 'concern', which implies caring about something.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

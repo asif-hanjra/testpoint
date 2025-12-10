@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'probable':",
+      "options": {
+        "a": "improbable",
+        "b": "likely",
+        "c": "certain",
+        "d": "definite"
+      },
+      "one_liner": "The antonym of 'probable' is 'improbable', indicating something is not likely to happen.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

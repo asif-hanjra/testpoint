@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'note':",
+      "options": {
+        "a": "record",
+        "b": "ignore",
+        "c": "mention",
+        "d": "observe"
+      },
+      "one_liner": "An antonym of 'note' could be 'ignore', as it implies not taking notice or making a record.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

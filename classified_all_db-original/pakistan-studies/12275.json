@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Pakistan conduct its nuclear tests in 1998?",
+      "options": {
+        "a": "Lahore",
+        "b": "Islamabad",
+        "c": "Chaghi hills",
+        "d": "None of these"
+      },
+      "one_liner": "The site for Pakistan's 1998 nuclear tests was the **Chaghi hills**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

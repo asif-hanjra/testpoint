@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Aero plane is flying in a straight line at a constant altitude. If a wing gust strikes and raises the nose of the airplane, the nose will bob up and down until the plane eventually return’s to it’s original position altitude. Are these oscillation’s are _____?",
+      "options": {
+        "a": "Overdamped",
+        "b": "Underdamped",
+        "c": "Critically damped",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

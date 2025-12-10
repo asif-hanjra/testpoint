@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the Southeast Asia Treaty Organization (SEATO) established?",
+      "options": {
+        "a": "1953",
+        "b": "September 1954",
+        "c": "1955",
+        "d": "August 1954"
+      },
+      "one_liner": "The Southeast Asia Treaty Organization (SEATO) was established in **September 1954**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

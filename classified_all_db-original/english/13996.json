@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct preposition to complete the sentence: Look ___ that word in the dictionary.",
+      "options": {
+        "a": "on",
+        "b": "up",
+        "c": "for",
+        "d": "at"
+      },
+      "one_liner": "Look 'up' that word in the dictionary.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

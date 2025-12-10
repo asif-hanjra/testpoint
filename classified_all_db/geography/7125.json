@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Alamgiri Gate of Lahore Fort faces which famous mosque?",
+      "options": {
+        "a": "Wazir Khan Mosque",
+        "b": "Badshahi Mosque",
+        "c": "Moti Masjid",
+        "d": "None of these"
+      },
+      "one_liner": "The Alamgiri Gate of Lahore Fort is oriented towards the **Badshahi Mosque**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

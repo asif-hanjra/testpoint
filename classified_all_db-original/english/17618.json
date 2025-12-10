@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "My brother is good ___ mathematics.",
+      "options": {
+        "a": "in",
+        "b": "at",
+        "c": "on",
+        "d": "with"
+      },
+      "one_liner": "My brother is good 'at' mathematics.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

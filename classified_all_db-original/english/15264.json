@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cease':",
+      "options": {
+        "a": "continue",
+        "b": "halt",
+        "c": "begin",
+        "d": "proceed"
+      },
+      "one_liner": "'Cease' means to stop or end, so 'halt' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Majid had a heart attack ___ he was driving.",
+      "options": {
+        "a": "during",
+        "b": "while",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "Majid had a heart attack 'while' he was driving.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'viable':",
+      "options": {
+        "a": "feasible",
+        "b": "practical",
+        "c": "unfeasible",
+        "d": "possible"
+      },
+      "one_liner": "The word 'viable' suggests something is practical or doable, while 'unfeasible' suggests it is not.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The police must gather enough evidence ___ ensure his conviction.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "The police must gather enough evidence 'to' ensure his conviction.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

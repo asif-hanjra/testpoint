@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following organs is NOT classified as a major endocrine organ?",
+      "options": {
+        "a": "Pancreas",
+        "b": "Thyroid gland",
+        "c": "Adrenal gland",
+        "d": "Spleen"
+      },
+      "one_liner": "Among the organs shown, the pancreas, thyroid, and adrenal glands are all considered major endocrine organs, while the spleen is not.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

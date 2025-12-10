@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'affluent':",
+      "options": {
+        "a": "impoverished",
+        "b": "prosperous",
+        "c": "needy",
+        "d": "destitute"
+      },
+      "one_liner": "'Affluent' refers to someone who is wealthy or rich, similar to 'prosperous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

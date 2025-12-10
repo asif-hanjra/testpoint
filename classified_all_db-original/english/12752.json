@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'facet':",
+      "options": {
+        "a": "angle:entirety",
+        "b": "dimension:part",
+        "c": "aspect:section",
+        "d": "feature:fragment"
+      },
+      "one_liner": "'Angle' is a synonym for 'facet', while 'entirety' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

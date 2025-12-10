@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'simper':",
+      "options": {
+        "a": "frown",
+        "b": "smirk",
+        "c": "grimace",
+        "d": "scowl"
+      },
+      "one_liner": "'Simper' means to smile in a silly or self-conscious way. A synonym could be 'smirk'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

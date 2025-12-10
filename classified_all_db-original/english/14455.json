@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obscure':",
+      "options": {
+        "a": "hidden",
+        "b": "ambiguous",
+        "c": "evident",
+        "d": "mysterious"
+      },
+      "one_liner": "While 'obscure' refers to something that is not easily understood, 'evident' is its antonym, meaning clear and obvious.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

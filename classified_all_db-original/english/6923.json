@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "My friend said me, has Saima talked to Sonia?",
+      "options": {
+        "a": "My friend asked me to have some talk with Saima",
+        "b": "My friend asked me if Saima had talked to Sonia",
+        "c": "My friend inquired me to has Saima talk with Sonia",
+        "d": "My friend said to me that has Saima talk with Sonia"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fallacious':",
+      "options": {
+        "a": "misleading:factual",
+        "b": "deceptive:accurate",
+        "c": "erroneous:factual",
+        "d": "invalid:truthful"
+      },
+      "one_liner": "'Erroneous' is a synonym of 'fallacious', while 'factual' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

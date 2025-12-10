@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cant':",
+      "options": {
+        "a": "honesty",
+        "b": "hypocrisy",
+        "c": "clarity",
+        "d": "sincerity"
+      },
+      "one_liner": "'Cant' can mean insincere talk, making 'hypocrisy' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

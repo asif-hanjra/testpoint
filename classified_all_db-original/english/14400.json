@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'small':",
+      "options": {
+        "a": "miniature:massive",
+        "b": "tiny:wide",
+        "c": "little:short",
+        "d": "microscopic:long"
+      },
+      "one_liner": "'Miniature' is a synonym of 'small', while 'massive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

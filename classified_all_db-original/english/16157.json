@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin term 'Anno Domini (A.D.)' translate to in English?",
+      "options": {
+        "a": "In the year of the Lord",
+        "b": "After Death",
+        "c": "Before Christ",
+        "d": "In the year of our King"
+      },
+      "one_liner": "'Anno Domini (A.D.)' translates to 'In the year of the Lord' and is used to label years after the birth of Jesus Christ.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

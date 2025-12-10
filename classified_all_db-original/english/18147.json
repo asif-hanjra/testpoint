@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cavern':",
+      "options": {
+        "a": "plateau",
+        "b": "grotto",
+        "c": "peak",
+        "d": "valley"
+      },
+      "one_liner": "'Cavern' refers to a large cave or underground chamber, similar to a 'grotto' or 'subterrane'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

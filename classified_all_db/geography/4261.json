@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the longest continental mountain range in the world?",
+      "options": {
+        "a": "Andes",
+        "b": "Himalayas",
+        "c": "Rockies",
+        "d": "Alps"
+      },
+      "one_liner": "The longest continental mountain range in the world is the **Andes**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Andes Mountains",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Mountains",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Andes Mountains",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

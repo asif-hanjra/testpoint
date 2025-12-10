@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT real in psychosis?",
+      "options": {
+        "a": "Things seen",
+        "b": "Things heard",
+        "c": "Things believed",
+        "d": "All of these"
+      },
+      "one_liner": "In psychosis, individuals might see, hear, or believe things that aren't real, indicating a break from reality.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

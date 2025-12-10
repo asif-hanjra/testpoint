@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Sugarcane and Beet are used in Pakistan for the production of which product?",
+      "options": {
+        "a": "Oil",
+        "b": "Sugar",
+        "c": "Textile",
+        "d": "Rubber"
+      },
+      "one_liner": "**Sugarcane** and **Beet** are the main crops used for making sugar in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

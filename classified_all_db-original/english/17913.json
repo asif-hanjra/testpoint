@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'harmony':",
+      "options": {
+        "a": "concord:conflict",
+        "b": "agreement:balance",
+        "c": "unity:discord",
+        "d": "accord:disagreement"
+      },
+      "one_liner": "'Concord' is a synonym for 'harmony', while 'conflict' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

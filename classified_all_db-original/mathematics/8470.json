@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "p : 3 < 5, q : 1 < 0, then p ∧ q is?",
+      "options": {
+        "a": "Unknown",
+        "b": "True",
+        "c": "False",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

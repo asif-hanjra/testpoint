@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'zeal':",
+      "options": {
+        "a": "fervor:indifference",
+        "b": "enthusiasm:lethargy",
+        "c": "passion:interest",
+        "d": "ardor:apathy"
+      },
+      "one_liner": "'Fervor' is a synonym of 'zeal', while 'indifference' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'buy':",
+      "options": {
+        "a": "sell",
+        "b": "purchase",
+        "c": "own",
+        "d": "hold"
+      },
+      "one_liner": "The opposite of 'buy' is 'sell', as it involves transferring ownership to someone else.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

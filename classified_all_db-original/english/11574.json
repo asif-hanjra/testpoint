@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lugubrious':",
+      "options": {
+        "a": "somber:buoyant",
+        "b": "joyful:sad",
+        "c": "dismal:happy",
+        "d": "depressed:elated"
+      },
+      "one_liner": "'Somber' is a synonym of 'lugubrious', while 'buoyant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

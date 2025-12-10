@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which hormone is iodine found?",
+      "options": {
+        "a": "Insulin",
+        "b": "Thyroid hormone",
+        "c": "Adrenaline",
+        "d": "Haemoglobin"
+      },
+      "one_liner": "Iodine is found in the **thyroid hormone**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

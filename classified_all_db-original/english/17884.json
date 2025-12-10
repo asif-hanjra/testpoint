@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'calisthenics':",
+      "options": {
+        "a": "lethargy",
+        "b": "physical training",
+        "c": "inactivity",
+        "d": "sluggishness"
+      },
+      "one_liner": "'Calisthenics' refers to gymnastic exercises to achieve bodily fitness and grace of movement, similar to 'physical training'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

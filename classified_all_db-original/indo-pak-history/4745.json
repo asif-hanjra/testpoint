@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "For what main purpose did Sir Syed Ahmad Khan establish the Scientific Society?",
+      "options": {
+        "a": "Promotion of Urdu literature",
+        "b": "Translation of English works",
+        "c": "Religious education",
+        "d": "Political activism"
+      },
+      "one_liner": "Sir Syed Ahmad Khan established the Scientific Society mainly to promote the **translation of English works** into local languages.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

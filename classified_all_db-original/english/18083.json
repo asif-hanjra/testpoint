@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'parasite':",
+      "options": {
+        "a": "leech:provider",
+        "b": "moocher:supporter",
+        "c": "symbiont:competitor",
+        "d": "hanger-on:beneficiary"
+      },
+      "one_liner": "'Leech' is a synonym for 'parasite', while 'provider' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

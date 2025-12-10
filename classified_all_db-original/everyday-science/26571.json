@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In physics, how is work defined?",
+      "options": {
+        "a": "A force causing the movement or displacement of an object",
+        "b": "A force acting without movement",
+        "c": "Energy stored in an object",
+        "d": "None of these"
+      },
+      "one_liner": "In physics, work is defined as a force causing the movement or displacement of an object, with the correct answer being **a force causing the movement or displacement of an object**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

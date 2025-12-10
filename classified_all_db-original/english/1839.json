@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: Nobody has touched this box.",
+      "options": {
+        "a": "This box never ever been touched.",
+        "b": "This box was not touched by everybody.",
+        "c": "This box has never been touched by anybody.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who led the Afghan Durrani Empire against the Marathas in the Third Battle of Panipat?",
+      "options": {
+        "a": "Nadir Shah",
+        "b": "Ahmad Shah Abdali",
+        "c": "Madhavrao-I",
+        "d": "Baji Rao-II"
+      },
+      "one_liner": "The Afghan Durrani Empire was led by **Ahmad Shah Abdali** against the Marathas in the Third Battle of Panipat.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

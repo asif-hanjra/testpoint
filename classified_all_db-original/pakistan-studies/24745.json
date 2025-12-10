@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What guarantee was provided regarding the judiciary in the constitution?",
+      "options": {
+        "a": "Judiciary under executive control",
+        "b": "Independence of judiciary",
+        "c": "No judiciary",
+        "d": "None of these"
+      },
+      "one_liner": "The constitution guaranteed the **independence of the judiciary** in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constitution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

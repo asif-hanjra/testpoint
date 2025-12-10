@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which dam is built on Rawal Lake and serves as a major water source for Islamabad and Rawalpindi?",
+      "options": {
+        "a": "Rawal Dam",
+        "b": "Tarbela Dam",
+        "c": "Gomal Zam Dam",
+        "d": "Satpara Dam"
+      },
+      "one_liner": "Rawal Dam, constructed on Rawal Lake, is a key water source for both **Islamabad and Rawalpindi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

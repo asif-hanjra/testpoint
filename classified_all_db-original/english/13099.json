@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You'd better go ___ sleep because the plane departs at 7:00 PM.",
+      "options": {
+        "a": "in",
+        "b": "to",
+        "c": "at",
+        "d": "for"
+      },
+      "one_liner": "You'd better go 'to' sleep because the plane departs at 7:00 PM.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

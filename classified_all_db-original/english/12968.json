@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Post mortem' refer to?",
+      "options": {
+        "a": "Before death",
+        "b": "After death",
+        "c": "During life",
+        "d": "The meaning of life"
+      },
+      "one_liner": "'Post mortem' is a Latin phrase that means 'after death', often used to describe an examination of a body after death to determine the cause.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

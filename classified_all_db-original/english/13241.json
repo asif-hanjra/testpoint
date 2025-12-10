@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'refractory':",
+      "options": {
+        "a": "compliant",
+        "b": "obstinate",
+        "c": "agreeable",
+        "d": "amenable"
+      },
+      "one_liner": "'Refractory' describes someone or something that is stubborn or unmanageable, similar to 'obstinate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'magniloquent':",
+      "options": {
+        "a": "succinct",
+        "b": "grandiloquent",
+        "c": "laconic",
+        "d": "terse"
+      },
+      "one_liner": "'Magniloquent' refers to a style that is grandiose or pompous in speech, similar to 'grandiloquent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

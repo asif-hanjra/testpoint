@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "RIGHT : WRONG :: OPEN : ________?",
+      "options": {
+        "a": "Door",
+        "b": "Wide",
+        "c": "Closed",
+        "d": "Key"
+      },
+      "one_liner": "Right is the opposite of wrong, similar to how open is the opposite of closed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

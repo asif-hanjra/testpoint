@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mourn':",
+      "options": {
+        "a": "lament:exult",
+        "b": "grieve:rejoice",
+        "c": "bewail:delight",
+        "d": "sorrow:celebrate"
+      },
+      "one_liner": "'Lament' is a synonym for 'mourn', while 'exult' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

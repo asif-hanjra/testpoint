@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'Concord':",
+      "options": {
+        "a": "accord:discord",
+        "b": "harmony:agreement",
+        "c": "peace:war",
+        "d": "unity:division"
+      },
+      "one_liner": "'Accord' is a synonym of 'Concord', while 'discord' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

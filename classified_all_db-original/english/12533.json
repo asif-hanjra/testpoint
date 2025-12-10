@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'ouch' in the sentence 'Ouch! That hurt!'?",
+      "options": {
+        "a": "Noun",
+        "b": "Pronoun",
+        "c": "Interjection",
+        "d": "Verb"
+      },
+      "one_liner": "'Ouch' is an interjection, expressing pain.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

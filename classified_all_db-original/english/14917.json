@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'incongruous':",
+      "options": {
+        "a": "compatible",
+        "b": "mismatched",
+        "c": "dissonant",
+        "d": "incompatible"
+      },
+      "one_liner": "An antonym for 'incongruous' is 'compatible', meaning able to exist together without conflict.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

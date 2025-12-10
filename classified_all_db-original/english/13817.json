@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abridge':",
+      "options": {
+        "a": "shorten",
+        "b": "condense",
+        "c": "extend",
+        "d": "reduce"
+      },
+      "one_liner": "An antonym of 'abridge' is 'extend', which means to make longer or stretch out.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'amateur':",
+      "options": {
+        "a": "beginner",
+        "b": "novice",
+        "c": "professional",
+        "d": "inexperienced"
+      },
+      "one_liner": "An antonym of 'amateur' is 'professional', indicating someone who is skilled and earns a living from their expertise.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

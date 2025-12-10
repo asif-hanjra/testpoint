@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ferment':",
+      "options": {
+        "a": "quell",
+        "b": "foment",
+        "c": "pacify",
+        "d": "soothe"
+      },
+      "one_liner": "'Ferment' can mean to incite or stir up, similar to 'agitate' or 'foment'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

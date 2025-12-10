@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vehemence':",
+      "options": {
+        "a": "fervor",
+        "b": "ardor",
+        "c": "apathy",
+        "d": "passion"
+      },
+      "one_liner": "The antonym of 'vehemence' is 'apathy', which indicates a lack of interest or concern.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

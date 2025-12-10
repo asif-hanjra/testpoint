@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The principle of ______ is used to analyze faults in a power system.",
+      "options": {
+        "a": "Ohm's Law",
+        "b": "Kirchhoff's Laws",
+        "c": "Superposition Theorem",
+        "d": "Thevenin's Theorem"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

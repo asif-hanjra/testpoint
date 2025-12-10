@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rotundity':",
+      "options": {
+        "a": "sphericity",
+        "b": "curvature",
+        "c": "plumpness",
+        "d": "flatness"
+      },
+      "one_liner": "An antonym for 'rotundity', which means roundness, would be 'flatness', indicating a lack of curves.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

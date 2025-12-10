@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'uproar':",
+      "options": {
+        "a": "furor:calm",
+        "b": "racket:silence",
+        "c": "turmoil:peace",
+        "d": "disturbance:quiet"
+      },
+      "one_liner": "'Furor' is a synonym of 'uproar', while 'calm' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

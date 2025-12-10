@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'outgrowth':",
+      "options": {
+        "a": "derivative:origin",
+        "b": "offshoot:source",
+        "c": "spin-off:beginning",
+        "d": "branch:root"
+      },
+      "one_liner": "'Derivative' is a synonym for 'outgrowth', while 'origin' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the third largest province of Pakistan by area?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Khyber Pakhtunkhwa",
+        "d": "None of these"
+      },
+      "one_liner": "Sindh is recognized as the **third largest province by area** in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

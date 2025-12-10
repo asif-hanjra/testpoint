@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'satire':",
+      "options": {
+        "a": "parody:adulation",
+        "b": "mockery:compliment",
+        "c": "irony:praise",
+        "d": "sarcasm:critique"
+      },
+      "one_liner": "'Parody' is a synonym of 'satire', while 'adulation' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obituary':",
+      "options": {
+        "a": "biography",
+        "b": "eulogy",
+        "c": "introduction",
+        "d": "chronicle"
+      },
+      "one_liner": "'Obituary' refers to a notice of death, similar to 'eulogy', which is also an account honoring someone who has died.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

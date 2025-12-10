@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Why does ice float on water?",
+      "options": {
+        "a": "Because ice is denser than water",
+        "b": "Because water is denser than ice",
+        "c": "Because both have equal density",
+        "d": "None of these"
+      },
+      "one_liner": "Ice floats on water because the density of water is greater than that of **ice**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

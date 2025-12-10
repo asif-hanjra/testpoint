@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country is Angel Falls located?",
+      "options": {
+        "a": "Brazil",
+        "b": "Venezuela",
+        "c": "Colombia",
+        "d": "Peru"
+      },
+      "one_liner": "Angel Falls is located in the South American country of **Venezuela**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

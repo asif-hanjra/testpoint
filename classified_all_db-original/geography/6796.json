@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Lotus Lake located?",
+      "options": {
+        "a": "Lahore",
+        "b": "Karachi",
+        "c": "Islamabad",
+        "d": "Peshawar"
+      },
+      "one_liner": "Lotus Lake is situated in **Islamabad**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

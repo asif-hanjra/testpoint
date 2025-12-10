@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Usman Marwandi, also known as Lal Shahbaz Qalandar, born?",
+      "options": {
+        "a": "1177",
+        "b": "1274",
+        "c": "1356",
+        "d": "1200"
+      },
+      "one_liner": "Usman Marwandi, also known as Lal Shahbaz Qalandar, was born in **1177**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Usman Marwandi",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Usman Marwandi",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

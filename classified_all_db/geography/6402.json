@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the British Prime Minister when the Khilafat delegation visited England in 1920?",
+      "options": {
+        "a": "Winston Churchill",
+        "b": "David Lloyd George",
+        "c": "Ramsay MacDonald",
+        "d": "Stanley Baldwin"
+      },
+      "one_liner": "During the Khilafat delegation's visit to England in 1920, the British Prime Minister was **Lloyd George**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

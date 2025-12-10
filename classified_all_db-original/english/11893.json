@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obstetrician':",
+      "options": {
+        "a": "pediatrician",
+        "b": "midwife",
+        "c": "oncologist",
+        "d": "cardiologist"
+      },
+      "one_liner": "'Obstetrician' refers to a doctor specializing in childbirth, similar to a 'midwife' who also assists during labor.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

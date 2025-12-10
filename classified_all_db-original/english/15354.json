@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fiasco':",
+      "options": {
+        "a": "catastrophe",
+        "b": "success",
+        "c": "disaster",
+        "d": "failure"
+      },
+      "one_liner": "A 'fiasco' is the opposite of a 'success', which denotes an accomplishment or positive outcome.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

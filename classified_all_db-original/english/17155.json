@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'face':",
+      "options": {
+        "a": "countenance:reverse",
+        "b": "visage:front",
+        "c": "expression:back",
+        "d": "aspect:top"
+      },
+      "one_liner": "'Countenance' is a synonym of 'face', while 'reverse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

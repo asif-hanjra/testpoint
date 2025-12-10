@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rotundity':",
+      "options": {
+        "a": "flatness",
+        "b": "sharpness",
+        "c": "sphericity",
+        "d": "edginess"
+      },
+      "one_liner": "'Rotundity' refers to roundness or plumpness, similar to 'sphericity' or 'roundness'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

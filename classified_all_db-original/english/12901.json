@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'resist':",
+      "options": {
+        "a": "submit",
+        "b": "oppose",
+        "c": "combat",
+        "d": "challenge"
+      },
+      "one_liner": "The antonym of 'resist' is 'submit', which means to yield or give in.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

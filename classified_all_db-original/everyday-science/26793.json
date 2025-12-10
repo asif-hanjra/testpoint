@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which celestial body was removed from the list of planets in the solar system?",
+      "options": {
+        "a": "Pluto",
+        "b": "Neptune",
+        "c": "Mars",
+        "d": "Venus"
+      },
+      "one_liner": "Pluto was officially removed from the list of planets in the solar system, making it no longer classified as a major planet.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

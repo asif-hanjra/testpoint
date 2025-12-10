@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dwarf':",
+      "options": {
+        "a": "miniature:enormous",
+        "b": "tiny:giant",
+        "c": "small:large",
+        "d": "short:tall"
+      },
+      "one_liner": "'Miniature' is a synonym of 'dwarf', while 'enormous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

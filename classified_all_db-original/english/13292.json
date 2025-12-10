@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'encourage':",
+      "options": {
+        "a": "spur:dissuade",
+        "b": "motivate:inspire",
+        "c": "urge:encourage",
+        "d": "support:discourage"
+      },
+      "one_liner": "'Spur' is a synonym of 'encourage', while 'dissuade' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

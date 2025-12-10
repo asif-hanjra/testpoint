@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the shrine of Fariduddin Masud Ganj Shakar located?",
+      "options": {
+        "a": "Lahore",
+        "b": "Pakpatan",
+        "c": "Delhi",
+        "d": "Multan"
+      },
+      "one_liner": "The shrine of Fariduddin Masud Ganj Shakar is located in **Pakpatan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

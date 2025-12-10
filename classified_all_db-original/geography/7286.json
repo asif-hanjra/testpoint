@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which princely state was the first to formally accede to Pakistan?",
+      "options": {
+        "a": "Bahawalpur",
+        "b": "Kalat",
+        "c": "Swat",
+        "d": "None of these"
+      },
+      "one_liner": "Bahawalpur was the first princely state to formally accede to **Pakistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

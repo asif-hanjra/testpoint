@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'consecutive':",
+      "options": {
+        "a": "sequential",
+        "b": "chronological",
+        "c": "nonconsecutive",
+        "d": "concurrent"
+      },
+      "one_liner": "The antonym of 'consecutive' is 'nonconsecutive', indicating a lack of continuous sequence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which unit are gas bills typically charged?",
+      "options": {
+        "a": "BTU",
+        "b": "Joule",
+        "c": "Watt",
+        "d": "Calorie"
+      },
+      "one_liner": "Gas bills are commonly charged in the unit of **BTU**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

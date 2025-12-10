@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which tube is incorrectly stated as joining the kidneys and bladder?",
+      "options": {
+        "a": "Inferior Vena Cava",
+        "b": "Ureter",
+        "c": "Aorta",
+        "d": "Renal vein"
+      },
+      "one_liner": "The statement that the **Inferior Vena Cava** joins the kidneys and bladder is incorrect, as it is actually the ureter that connects these organs.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

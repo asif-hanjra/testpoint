@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'filthy':",
+      "options": {
+        "a": "dirty:immaculate",
+        "b": "clean:spotless",
+        "c": "soiled:sterile",
+        "d": "mucky:shiny"
+      },
+      "one_liner": "'Unclean' is a synonym of 'filthy', while 'immaculate' is its antonym, representing the extreme of cleanliness.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

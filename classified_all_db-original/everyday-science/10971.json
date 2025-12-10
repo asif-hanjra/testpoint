@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Are fungi typically multicellular or unicellular organisms?",
+      "options": {
+        "a": "Unicellular",
+        "b": "Multicellular",
+        "c": "Both",
+        "d": "None of these"
+      },
+      "one_liner": "Fungi are usually **multicellular** organisms, although some can be unicellular.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

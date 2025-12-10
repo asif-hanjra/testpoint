@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "After finishing the call, please _______ the phone.",
+      "options": {
+        "a": "bring up",
+        "b": "hang up",
+        "c": "take off",
+        "d": "put out"
+      },
+      "one_liner": "After finishing the call, you should 'hang up' the phone.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

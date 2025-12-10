@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'erratic':",
+      "options": {
+        "a": "stable",
+        "b": "irregular",
+        "c": "sporadic",
+        "d": "capricious"
+      },
+      "one_liner": "The opposite of 'erratic' is 'stable', which means firm and unchanging.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

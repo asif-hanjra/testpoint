@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'afraid':",
+      "options": {
+        "a": "brave",
+        "b": "fearful",
+        "c": "confident",
+        "d": "courageous"
+      },
+      "one_liner": "'Afraid' means feeling fear or anxiety; 'fearful' and 'scared' are synonyms that convey the same emotion.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

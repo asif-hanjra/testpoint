@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'beginning':",
+      "options": {
+        "a": "inception:termination",
+        "b": "commencement:continuation",
+        "c": "onset:ending",
+        "d": "start:middle"
+      },
+      "one_liner": "'Inception' is a synonym for 'beginning', while 'termination' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

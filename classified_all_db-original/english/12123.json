@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'consecutive':",
+      "options": {
+        "a": "sequential:intermittent",
+        "b": "successive:continuous",
+        "c": "concurrent:sporadic",
+        "d": "serial:regular"
+      },
+      "one_liner": "'Sequential' is a synonym of 'consecutive', while 'intermittent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct preposition to join two nouns: My brother ___ my friend help me in my studies.",
+      "options": {
+        "a": "or",
+        "b": "and",
+        "c": "but",
+        "d": "with"
+      },
+      "one_liner": "My brother 'and' my friend help me in my studies.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

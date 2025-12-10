@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date is World Polio Day celebrated every year?",
+      "options": {
+        "a": "24th October",
+        "b": "12th August",
+        "c": "2nd December",
+        "d": "15th March"
+      },
+      "one_liner": "World Polio Day is observed globally on **24th October** each year to raise awareness about polio eradication.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

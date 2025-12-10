@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct voice: Who stole the piano?",
+      "options": {
+        "a": "Who was the piano stolen by?",
+        "b": "By whom the piano was stolen?",
+        "c": "By whom was the piano stolen?",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

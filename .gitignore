@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build outputs
+dist/
+build/
+*.log
+*.log.*
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Backend generated files
+backend/.cache/
+backend/.sessions/
+backend/.groups/
+
+# Large data directories (uncomment if you don't want to commit these)
+# classified_all_db/
+# openai_responses/
+# openai_responses_past/
+# final-db/
+# removed_duplicates_db/
+

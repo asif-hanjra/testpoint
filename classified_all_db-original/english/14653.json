@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The prisoner was sent ___ the gaol.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "in",
+        "d": "into"
+      },
+      "one_liner": "The prisoner was sent 'to' the gaol.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

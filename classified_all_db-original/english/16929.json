@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'brief':",
+      "options": {
+        "a": "lengthy",
+        "b": "transient",
+        "c": "prolonged",
+        "d": "endless"
+      },
+      "one_liner": "'Brief' means short in duration, similar to 'transient' or 'fleeting'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

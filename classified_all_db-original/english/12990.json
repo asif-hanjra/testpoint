@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pudgy':",
+      "options": {
+        "a": "bulky",
+        "b": "plump",
+        "c": "slender",
+        "d": "heavy"
+      },
+      "one_liner": "An antonym of 'pudgy' would be 'slender', which means thin in an attractive or graceful way.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

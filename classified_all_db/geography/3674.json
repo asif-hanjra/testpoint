@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which strait connects Hudson Bay with the Atlantic Ocean?",
+      "options": {
+        "a": "Bering Strait",
+        "b": "Hudson Strait",
+        "c": "Davis Strait",
+        "d": "Strait of Belle Isle"
+      },
+      "one_liner": "Hudson Bay is connected to the Atlantic Ocean by the **Hudson Strait** on its east.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

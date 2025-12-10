@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of speech is used as a substitute for a noun?",
+      "options": {
+        "a": "Pronoun",
+        "b": "Adverb",
+        "c": "Verb",
+        "d": "Preposition"
+      },
+      "one_liner": "A pronoun replaces a noun in a sentence.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the acronym LAC stand for in the context of the China-India border dispute?",
+      "options": {
+        "a": "Line of Actual Control",
+        "b": "Line of Administrative Control",
+        "c": "Line of Actual Conflict",
+        "d": "None of these"
+      },
+      "one_liner": "The acronym LAC refers to the **Line of Actual Control**, which is the disputed border-line between China and India.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

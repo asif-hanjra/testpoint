@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'complete':",
+      "options": {
+        "a": "total:partial",
+        "b": "entire:full",
+        "c": "finish:start",
+        "d": "whole:empty"
+      },
+      "one_liner": "'Total' is a synonym of 'complete', while 'partial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

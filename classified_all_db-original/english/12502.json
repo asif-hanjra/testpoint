@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'deluge':",
+      "options": {
+        "a": "flood",
+        "b": "overflow",
+        "c": "torrent",
+        "d": "drought"
+      },
+      "one_liner": "An antonym of 'deluge' is 'drought', which signifies a lack of water.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

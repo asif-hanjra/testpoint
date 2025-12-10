@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Sulfur is an important component in which of the following substances?",
+      "options": {
+        "a": "Gunpowder",
+        "b": "Plastic",
+        "c": "Glass",
+        "d": "None of these"
+      },
+      "one_liner": "Sulfur is a key ingredient used in the production of **gunpowder**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

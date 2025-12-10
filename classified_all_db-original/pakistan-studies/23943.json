@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was Indira Gandhi assassinated?",
+      "options": {
+        "a": "August 15, 1947",
+        "b": "January 26, 1950",
+        "c": "October 31, 1984",
+        "d": "December 6, 1992"
+      },
+      "one_liner": "Indira Gandhi was assassinated on **October 31, 1984**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'affluent':",
+      "options": {
+        "a": "wealthy:poor",
+        "b": "rich:wealthy",
+        "c": "prosperous:affluent",
+        "d": "opulent:rich"
+      },
+      "one_liner": "'Wealthy' is a synonym of 'affluent', while 'poor' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

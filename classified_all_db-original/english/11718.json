@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'victory':",
+      "options": {
+        "a": "conquest:setback",
+        "b": "achievement:success",
+        "c": "win:loss",
+        "d": "triumph:defeat"
+      },
+      "one_liner": "'Conquest' is a synonym of 'victory', while 'setback' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

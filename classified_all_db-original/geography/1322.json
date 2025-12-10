@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the second largest gas reservoir operated by Mari Petroleum / Gas Company Limited?",
+      "options": {
+        "a": "Sui Field, Balochistan",
+        "b": "Mari Field, District Ghotki, Sindh",
+        "c": "Qadirpur Field, Sindh",
+        "d": "None of these"
+      },
+      "one_liner": "Mari Petroleum / Gas Company Limited operates the country's second largest gas reservoir at **Mari Field, District Ghotki, Sindh**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

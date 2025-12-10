@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'grotesque':",
+      "options": {
+        "a": "bizarre:normal",
+        "b": "attractive:ugly",
+        "c": "monstrous:beautiful",
+        "d": "weird:standard"
+      },
+      "one_liner": "'Bizarre' is a synonym of 'grotesque', while 'normal' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

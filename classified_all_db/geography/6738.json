@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The term 'Flash Point' is associated with which field of study?",
+      "options": {
+        "a": "Geology",
+        "b": "Astronomy",
+        "c": "Climate",
+        "d": "None of these"
+      },
+      "one_liner": "The term 'Flash Point' is specifically associated with the study of **climate**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

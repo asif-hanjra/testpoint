@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'varnish':",
+      "options": {
+        "a": "gloss:matte",
+        "b": "shine:dull",
+        "c": "finish:rough",
+        "d": "polish:blur"
+      },
+      "one_liner": "'Gloss' is a synonym for 'varnish', while 'matte' is its antonym, referring to a non-shiny finish.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

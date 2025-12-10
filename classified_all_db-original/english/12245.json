@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'negligent':",
+      "options": {
+        "a": "irresponsible:responsible",
+        "b": "careful:careless",
+        "c": "attentive:inattentive",
+        "d": "heedless:heedful"
+      },
+      "one_liner": "'Irresponsible' is a synonym of 'negligent', while 'responsible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

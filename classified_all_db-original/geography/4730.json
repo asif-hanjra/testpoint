@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest oil refinery in Pakistan?",
+      "options": {
+        "a": "Attock Oil Refinery",
+        "b": "National Refinery",
+        "c": "Pak-Arab Oil Refinery",
+        "d": "Pakistan Refinery"
+      },
+      "one_liner": "The largest oil refinery in Pakistan is the **Pak-Arab oil refinery**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

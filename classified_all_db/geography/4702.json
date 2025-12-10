@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the tenth largest lake in the world?",
+      "options": {
+        "a": "Great Slave Lake",
+        "b": "Lake Victoria",
+        "c": "Lake Tanganyika",
+        "d": "Lake Baikal"
+      },
+      "one_liner": "The tenth largest lake in the world is **Great Slave Lake**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

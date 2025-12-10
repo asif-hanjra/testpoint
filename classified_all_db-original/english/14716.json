@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prodigy':",
+      "options": {
+        "a": "amateur",
+        "b": "genius",
+        "c": "novice",
+        "d": "beginner"
+      },
+      "one_liner": "'Prodigy' refers to a person with exceptional talents or abilities, similar to a 'genius'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

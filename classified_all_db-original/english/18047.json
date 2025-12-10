@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exude':",
+      "options": {
+        "a": "emanate:suppress",
+        "b": "reveal:hide",
+        "c": "radiate:conceal",
+        "d": "discharge:retain"
+      },
+      "one_liner": "'Emanate' is a synonym of 'exude', while 'suppress' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

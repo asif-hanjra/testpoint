@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Babur die in 1530?",
+      "options": {
+        "a": "Delhi",
+        "b": "Kabul",
+        "c": "Agra",
+        "d": "Lahore"
+      },
+      "one_liner": "Babur died in **Agra** in 1530 before his remains were later moved to Kabul.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

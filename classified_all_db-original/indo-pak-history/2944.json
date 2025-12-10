@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who attended the Second Round Table Conference as the sole representative of Congress?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Sardar Patel",
+        "c": "Gandhi",
+        "d": "Rajendra Prasad"
+      },
+      "one_liner": "Mahatma **Gandhi** attended the Second Round Table Conference as the only representative of the Indian National Congress.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'levee':",
+      "options": {
+        "a": "channel",
+        "b": "dam",
+        "c": "barrier",
+        "d": "wall"
+      },
+      "one_liner": "While a 'levee' is a structure to contain water, a 'channel' is often a natural or artificial watercourse which may carry water away.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

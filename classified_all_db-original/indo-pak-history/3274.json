@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the father of Allama Iqbal?",
+      "options": {
+        "a": "Sheikh Noor Muhammad",
+        "b": "Sir Syed Ahmed Khan",
+        "c": "Mirza Ghulam Ahmad",
+        "d": "None of these"
+      },
+      "one_liner": "The father of Allama Iqbal was **Sheikh Noor Muhammad**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

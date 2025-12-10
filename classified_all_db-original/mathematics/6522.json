@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Which regular expressions belong to R where R=ab*cb*R=ab*+cb*?",
+      "options": {
+        "a": "ab",
+        "b": "abb",
+        "c": "cb",
+        "d": "All of these"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

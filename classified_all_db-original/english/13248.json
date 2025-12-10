@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'scandal':",
+      "options": {
+        "a": "honor",
+        "b": "disgrace",
+        "c": "praise",
+        "d": "commendation"
+      },
+      "one_liner": "'Scandal' refers to a disgraceful or morally outrageous event—similar to 'disgrace' or 'shame'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

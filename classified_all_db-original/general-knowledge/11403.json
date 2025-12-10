@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which period did Amir Khusro live?",
+      "options": {
+        "a": "Mughal Empire",
+        "b": "Delhi Sultanate",
+        "c": "Gupta Empire",
+        "d": "Maurya Empire"
+      },
+      "one_liner": "Amir Khusro lived during the period of the **Delhi Sultanate**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Amir Khusro",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Amir Khusro",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

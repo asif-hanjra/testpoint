@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the English word 'albeit' mean?",
+      "options": {
+        "a": "Although it may be true",
+        "b": "Even though",
+        "c": "Because it is",
+        "d": "In order to"
+      },
+      "one_liner": "'Albeit' is a conjunction used to introduce a concession or contrast, meaning 'even though'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

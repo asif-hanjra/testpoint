@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Despite the invitation, John didn't _______ at the party.",
+      "options": {
+        "a": "run into",
+        "b": "show up",
+        "c": "take off",
+        "d": "break down"
+      },
+      "one_liner": "John didn't 'show up' at the party despite being invited.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The unrest in Syria initially emerged as part of which broader regional movement?",
+      "options": {
+        "a": "Arab Spring Wave",
+        "b": "Velvet Revolution",
+        "c": "Orange Revolution",
+        "d": "None of these"
+      },
+      "one_liner": "The initial unrest in Syria was part of the broader **Arab Spring Wave** that swept across the Middle East and North Africa.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Arab League",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

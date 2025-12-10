@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Justice delayed ___ justice denied.",
+      "options": {
+        "a": "by",
+        "b": "is",
+        "c": "as",
+        "d": "with"
+      },
+      "one_liner": "Justice delayed 'is' justice denied.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

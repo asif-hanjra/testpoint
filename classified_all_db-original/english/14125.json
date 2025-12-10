@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'anonymity':",
+      "options": {
+        "a": "obscurity",
+        "b": "fame",
+        "c": "invisibility",
+        "d": "secrecy"
+      },
+      "one_liner": "The antonym of 'anonymity' is 'fame', which means being known or recognized by many.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

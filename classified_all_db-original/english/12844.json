@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'striate':",
+      "options": {
+        "a": "groove:flatten",
+        "b": "furrow:crease",
+        "c": "line:smooth",
+        "d": "mark:expand"
+      },
+      "one_liner": "'Groove' is a synonym of 'striate', while 'flatten' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

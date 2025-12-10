@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did PTV start its colour transmission?",
+      "options": {
+        "a": "20 December, 1976",
+        "b": "14 August, 1975",
+        "c": "23 March, 1977",
+        "d": "None of these"
+      },
+      "one_liner": "PTV began its colour transmission on **20 December, 1976**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

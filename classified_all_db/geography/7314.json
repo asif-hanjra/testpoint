@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest mosque in the world?",
+      "options": {
+        "a": "Al Aqsa Mosque",
+        "b": "Al Haram Mosque",
+        "c": "Blue Mosque",
+        "d": "Faisal Mosque"
+      },
+      "one_liner": "The largest mosque in the world is the **Al Haram Mosque**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

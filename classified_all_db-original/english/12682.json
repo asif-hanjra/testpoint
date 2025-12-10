@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'proliferation':",
+      "options": {
+        "a": "expansion",
+        "b": "increase",
+        "c": "contraction",
+        "d": "multiplication"
+      },
+      "one_liner": "The opposite of 'proliferation', which means rapid growth, would be 'contraction' or 'decrease'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

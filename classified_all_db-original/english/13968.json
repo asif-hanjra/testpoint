@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'egalitarian':",
+      "options": {
+        "a": "aristocratic",
+        "b": "democratic",
+        "c": "autocratic",
+        "d": "oligarchic"
+      },
+      "one_liner": "'Egalitarian' refers to the principle of equal rights and opportunities, similar to 'democratic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'endorse':",
+      "options": {
+        "a": "approve",
+        "b": "authorize",
+        "c": "reject",
+        "d": "confirm"
+      },
+      "one_liner": "The opposite of 'endorse' is 'reject', which means to refuse to support or agree with something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

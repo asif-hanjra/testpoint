@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'contend':",
+      "options": {
+        "a": "compete",
+        "b": "struggle",
+        "c": "concede",
+        "d": "challenge"
+      },
+      "one_liner": "The opposite of 'contend', which means to compete, would be 'agree' or 'concede'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

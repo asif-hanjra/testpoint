@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest pyramid built in ancient Egypt?",
+      "options": {
+        "a": "Step Pyramid at Saqqara",
+        "b": "Bent Pyramid",
+        "c": "Great Pyramid at Giza",
+        "d": "Red Pyramid"
+      },
+      "one_liner": "The largest pyramid constructed in ancient Egypt is the **Great Pyramid at Giza**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

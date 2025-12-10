@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fiction':",
+      "options": {
+        "a": "novel:nonfiction",
+        "b": "myth:reality",
+        "c": "fantasy:truth",
+        "d": "story:fact"
+      },
+      "one_liner": "'Novel' is a synonym of 'fiction', while 'nonfiction' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

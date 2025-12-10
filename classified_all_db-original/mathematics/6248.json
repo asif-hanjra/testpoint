@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "A:B = 2:3, B:C = 3:4, A:D = 4:5. Find C:D?",
+      "options": {
+        "a": "2:5",
+        "b": "8:5",
+        "c": "4:5",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2021
+}

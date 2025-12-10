@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conservative':",
+      "options": {
+        "a": "cautious:adventurous",
+        "b": "traditional:modern",
+        "c": "conventional:unconventional",
+        "d": "orthodox:radical"
+      },
+      "one_liner": "'Cautious' is a synonym of 'conservative', while 'adventurous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

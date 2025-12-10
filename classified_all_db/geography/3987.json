@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which continent is home to the longest mountain range in the world, the Andes?",
+      "options": {
+        "a": "Asia",
+        "b": "Africa",
+        "c": "South America",
+        "d": "Europe"
+      },
+      "one_liner": "The Andes, the world's longest mountain range, are located in **South America**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Andes Mountains",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Andes Mountains",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

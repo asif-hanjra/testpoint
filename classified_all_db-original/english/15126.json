@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'virtue':",
+      "options": {
+        "a": "goodness:corruption",
+        "b": "honesty:deceit",
+        "c": "morality:immorality",
+        "d": "integrity:dishonesty"
+      },
+      "one_liner": "'Goodness' is a synonym of 'virtue', while 'corruption' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

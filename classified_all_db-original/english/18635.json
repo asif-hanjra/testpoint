@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'complex':",
+      "options": {
+        "a": "intricate:simple",
+        "b": "complicated:easy",
+        "c": "elaborate:plain",
+        "d": "complex:complex"
+      },
+      "one_liner": "'Intricate' is a synonym of 'complex', while 'simple' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

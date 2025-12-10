@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'average':",
+      "options": {
+        "a": "normal",
+        "b": "mediocre",
+        "c": "exceptional",
+        "d": "common"
+      },
+      "one_liner": "An antonym of 'average' is 'exceptional', which means unusually good and not typical.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

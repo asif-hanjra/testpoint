@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a crop that is grown specifically for sale called?",
+      "options": {
+        "a": "Food crop",
+        "b": "Cash crop",
+        "c": "Subsistence crop",
+        "d": "None of these"
+      },
+      "one_liner": "A crop that is cultivated primarily for sale rather than for personal consumption is known as a **cash crop**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

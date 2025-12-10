@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'manage':",
+      "options": {
+        "a": "mismanage",
+        "b": "administer",
+        "c": "conduct",
+        "d": "oversee"
+      },
+      "one_liner": "The antonym of 'manage' is 'mismanage', which means to handle something badly or without skill.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What should be done to the focal length of the eyepiece lens to increase the magnifying power of a telescope?",
+      "options": {
+        "a": "Increased",
+        "b": "Decreased",
+        "c": "Kept the same",
+        "d": "None of these"
+      },
+      "one_liner": "To increase the magnifying power of a telescope, the focal length of the eyepiece lens should be **decreased**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

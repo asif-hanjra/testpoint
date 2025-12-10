@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country of Southeast Asia is not a member of ASEAN?",
+      "options": {
+        "a": "Brunei",
+        "b": "East Timor",
+        "c": "Singapore",
+        "d": "Malaysia"
+      },
+      "one_liner": "East Timor is the only Southeast Asian country that is not a member of **ASEAN**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the construction of the Colosseum completed?",
+      "options": {
+        "a": "70 AD",
+        "b": "72 AD",
+        "c": "80 AD",
+        "d": "90 AD"
+      },
+      "one_liner": "The construction of the Colosseum was completed in **80 AD** under Emperor Titus.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Colosseum",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Colosseum",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

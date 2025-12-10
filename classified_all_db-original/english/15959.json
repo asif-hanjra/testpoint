@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'imprimatur':",
+      "options": {
+        "a": "endorsement:prohibition",
+        "b": "sanction:acceptance",
+        "c": "approval:rejection",
+        "d": "authorization:permission"
+      },
+      "one_liner": "'Endorsement' is a synonym of 'imprimatur', while 'prohibition' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

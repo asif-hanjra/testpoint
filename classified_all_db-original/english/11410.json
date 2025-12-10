@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'calamity':",
+      "options": {
+        "a": "disaster:fortune",
+        "b": "blessing:tragedy",
+        "c": "catastrophe:misfortune",
+        "d": "luck:disaster"
+      },
+      "one_liner": "'Disaster' is a synonym of 'calamity', while 'fortune' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

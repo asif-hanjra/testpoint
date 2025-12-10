@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'manifest':",
+      "options": {
+        "a": "apparent:concealed",
+        "b": "clear:visible",
+        "c": "evident:noticeable",
+        "d": "obvious:obscure"
+      },
+      "one_liner": "'Apparent' is a synonym of 'manifest', while 'concealed' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

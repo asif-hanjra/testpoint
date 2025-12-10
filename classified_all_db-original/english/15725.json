@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'anxious':",
+      "options": {
+        "a": "worried:serene",
+        "b": "nervous:calm",
+        "c": "tense:relaxed",
+        "d": "uneasy:peaceful"
+      },
+      "one_liner": "'Worried' is a synonym of 'anxious', while 'serene' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

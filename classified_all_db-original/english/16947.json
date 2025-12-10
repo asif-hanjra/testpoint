@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'uproar':",
+      "options": {
+        "a": "quiet",
+        "b": "noise",
+        "c": "chaos",
+        "d": "riot"
+      },
+      "one_liner": "An antonym of 'uproar' would be 'quiet', which signifies the absence of loud noise or disturbance.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

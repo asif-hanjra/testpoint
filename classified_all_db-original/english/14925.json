@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'plod':",
+      "options": {
+        "a": "crawl",
+        "b": "trudge",
+        "c": "sprint",
+        "d": "amble"
+      },
+      "one_liner": "An antonym of 'plod' is 'sprint', which means to run at full speed over a short distance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is water commonly known as due to its ability to dissolve many substances?",
+      "options": {
+        "a": "Universal solvent",
+        "b": "Universal solute",
+        "c": "Universal solution",
+        "d": "Universal base"
+      },
+      "one_liner": "Water is commonly referred to as the **Universal solvent** because it can dissolve a wide variety of substances.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

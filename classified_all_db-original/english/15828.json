@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'confess':",
+      "options": {
+        "a": "admit:deny",
+        "b": "reveal:conceal",
+        "c": "acknowledge:accept",
+        "d": "disclose:retain"
+      },
+      "one_liner": "'Admit' is a synonym of 'confess', while 'deny' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

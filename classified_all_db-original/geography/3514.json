@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country started the construction of the disputed Baglihar Dam in 1999?",
+      "options": {
+        "a": "Pakistan",
+        "b": "Bangladesh",
+        "c": "India",
+        "d": "Nepal"
+      },
+      "one_liner": "The disputed Baglihar Dam's construction was initiated by **India** in 1999.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Indian Dams violating Indus Water Treaty",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

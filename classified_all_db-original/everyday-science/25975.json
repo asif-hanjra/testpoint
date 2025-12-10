@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the type of water called that produces good lather with soap?",
+      "options": {
+        "a": "Hard water",
+        "b": "Soft water",
+        "c": "Distilled water",
+        "d": "None of these"
+      },
+      "one_liner": "Water that produces good lather with soap is referred to as **soft water**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the profession of Sir Ganga Ram, after whom the Ganga Ram Hospital in Lahore is named?",
+      "options": {
+        "a": "Doctor",
+        "b": "Engineer",
+        "c": "Lawyer",
+        "d": "Politician"
+      },
+      "one_liner": "Sir Ganga Ram, after whom the Ganga Ram Hospital in Lahore is named, was by education an **Engineer**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

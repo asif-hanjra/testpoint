@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'foil':",
+      "options": {
+        "a": "assist",
+        "b": "thwart",
+        "c": "encourage",
+        "d": "support"
+      },
+      "one_liner": "'Foil' can mean to thwart or frustrate, so 'thwart' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

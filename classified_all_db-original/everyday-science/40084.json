@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the pituitary gland located in the human body?",
+      "options": {
+        "a": "Base of the brain",
+        "b": "Top of the kidney",
+        "c": "Front of the neck",
+        "d": "Middle of the chest"
+      },
+      "one_liner": "The pituitary gland is located at the base of the brain and is no bigger than a pea, yet it plays a crucial role in hormone regulation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

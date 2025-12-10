@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ogle':",
+      "options": {
+        "a": "stare",
+        "b": "gawk",
+        "c": "ignore",
+        "d": "glance"
+      },
+      "one_liner": "The opposite of 'ogle', which is to look at with lustful intent, would be to 'ignore' or not look at all.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Every morning, I _______ at 6 a.m. to start my day.",
+      "options": {
+        "a": "give up",
+        "b": "get up",
+        "c": "take off",
+        "d": "run out"
+      },
+      "one_liner": "Every morning, I 'get up' at 6 a.m. to start my day.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

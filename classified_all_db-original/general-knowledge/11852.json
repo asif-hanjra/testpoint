@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which years did Alfred Lord Tennyson live?",
+      "options": {
+        "a": "1809-1892",
+        "b": "1750-1810",
+        "c": "1820-1900",
+        "d": "1850-1920"
+      },
+      "one_liner": "Alfred Lord Tennyson lived from **1809 to 1892**, making significant contributions to English poetry during this period.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

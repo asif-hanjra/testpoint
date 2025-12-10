@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intriguing':",
+      "options": {
+        "a": "compelling:tedious",
+        "b": "boring:fascinating",
+        "c": "interesting:dull",
+        "d": "engrossing:boring"
+      },
+      "one_liner": "'Compelling' is a synonym of 'intriguing', while 'tedious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

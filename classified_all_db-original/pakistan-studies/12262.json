@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which amendment in the 1973 Constitution of Pakistan redefined the territories comprising Pakistan?",
+      "options": {
+        "a": "First Amendment",
+        "b": "Second Amendment",
+        "c": "Third Amendment",
+        "d": "Fourth Amendment"
+      },
+      "one_liner": "The **First Amendment** to the 1973 Constitution of Pakistan redefined the territories comprising the country.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "It was the blue car ___ caused the accident.",
+      "options": {
+        "a": "who",
+        "b": "which",
+        "c": "whom",
+        "d": "whose"
+      },
+      "one_liner": "It was the blue car 'which' caused the accident.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who represented the Congress in signing the Lucknow Pact?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Ambeka Charran Mojam Dar",
+        "c": "Mahatma Gandhi",
+        "d": "None of these"
+      },
+      "one_liner": "Ambeka Charran Mojam Dar was the Congress representative who signed the Lucknow Pact.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

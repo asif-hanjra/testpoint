@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'expend':",
+      "options": {
+        "a": "spend:retain",
+        "b": "allocate:hoard",
+        "c": "disburse:accumulate",
+        "d": "use:conserve"
+      },
+      "one_liner": "'Spend' is a synonym of 'expend', while 'retain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

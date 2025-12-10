@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nadir':",
+      "options": {
+        "a": "lowest:apex",
+        "b": "depths:summit",
+        "c": "base:zenith",
+        "d": "bottom:pinnacle"
+      },
+      "one_liner": "'Lowest' is a synonym of 'nadir', while 'apex' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

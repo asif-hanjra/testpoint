@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bombast':",
+      "options": {
+        "a": "verbosity:conciseness",
+        "b": "bluster:plainness",
+        "c": "grandiosity:simplicity",
+        "d": "pomposity:brevity"
+      },
+      "one_liner": "'Bluster' is a synonym of 'bombast', while 'plainness' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

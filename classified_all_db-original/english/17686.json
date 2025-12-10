@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin legal term 'sub judice' mean when referring to a case?",
+      "options": {
+        "a": "Under consideration by a judge or court",
+        "b": "A matter settled by precedent",
+        "c": "A case that is not public",
+        "d": "A case that involves multiple jurisdictions"
+      },
+      "one_liner": "'Sub judice' refers to a matter that is currently under trial or being considered by a judge or court.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

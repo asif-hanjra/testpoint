@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which provinces of Pakistan are shown on the map?",
+      "options": {
+        "a": "Khyber Pakhtunkhwa, Punjab, Sindh, Balochistan, Gilgit-Baltistan",
+        "b": "Punjab, Sindh, Balochistan, Azad Kashmir",
+        "c": "Khyber Pakhtunkhwa, Punjab, Sindh, Balochistan",
+        "d": "Punjab, Sindh, Gilgit-Baltistan, Azad Kashmir"
+      },
+      "one_liner": "The provinces shown on the map of Pakistan include **Khyber Pakhtunkhwa, Punjab, Sindh, Balochistan, and Gilgit-Baltistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Arabian Sea",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

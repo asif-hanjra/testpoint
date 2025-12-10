@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'regular':",
+      "options": {
+        "a": "customary:exceptional",
+        "b": "normal:standard",
+        "c": "ordinary:uncommon",
+        "d": "typical:irregular"
+      },
+      "one_liner": "'Customary' is a synonym of 'regular', while 'exceptional' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

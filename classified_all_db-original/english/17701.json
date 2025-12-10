@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Only ten hundred people live ___ this city.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "Only ten hundred people live 'in' this city.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

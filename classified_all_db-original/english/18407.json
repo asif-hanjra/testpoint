@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'front':",
+      "options": {
+        "a": "facade:back",
+        "b": "forepart:front",
+        "c": "beginning:end",
+        "d": "front:rear"
+      },
+      "one_liner": "'Facade' is a synonym of 'front', while 'back' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

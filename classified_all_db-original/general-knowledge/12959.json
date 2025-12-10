@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year did the Soviet Union cease to exist?",
+      "options": {
+        "a": "January 1990",
+        "b": "December 1991",
+        "c": "August 1992",
+        "d": "None of these"
+      },
+      "one_liner": "The Soviet Union ceased to exist in **December 1991**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prejudiced':",
+      "options": {
+        "a": "biased",
+        "b": "unbiased",
+        "c": "partial",
+        "d": "discriminatory"
+      },
+      "one_liner": "The word 'prejudiced' suggests bias, whereas 'unbiased' indicates a lack of prejudice.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

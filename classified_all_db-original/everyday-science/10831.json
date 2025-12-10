@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What additional components does baking powder contain that baking soda does not?",
+      "options": {
+        "a": "Only sodium bicarbonate",
+        "b": "Acidifying agent and drying agent",
+        "c": "Only acidifying agent",
+        "d": "Only drying agent"
+      },
+      "one_liner": "Baking powder contains sodium bicarbonate along with an **acidifying agent and a drying agent**, unlike baking soda.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

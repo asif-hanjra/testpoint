@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'buoyant':",
+      "options": {
+        "a": "sinking",
+        "b": "heavy",
+        "c": "lighthearted",
+        "d": "dense"
+      },
+      "one_liner": "'Buoyant' refers to something that is able to float or is cheerful, so 'floatable' and 'lighthearted' are synonyms.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'emancipate':",
+      "options": {
+        "a": "liberate:subjugate",
+        "b": "enfranchise:release",
+        "c": "free:bind",
+        "d": "release:enslave"
+      },
+      "one_liner": "'Liberate' is a synonym of 'emancipate', while 'subjugate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which disorders are included under neurosis?",
+      "options": {
+        "a": "Hysteria and Phobia",
+        "b": "Delirium and Depression",
+        "c": "Anxiety and Bipolar disorder",
+        "d": "None of these"
+      },
+      "one_liner": "Neurosis includes disorders such as hysteria and phobia, which cause distress but do not impair rational thinking.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abjure':",
+      "options": {
+        "a": "renounce:adopt",
+        "b": "forswear:embrace",
+        "c": "reject:accept",
+        "d": "disown:welcome"
+      },
+      "one_liner": "'Renounce' is a synonym for 'abjure', while 'adopt' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

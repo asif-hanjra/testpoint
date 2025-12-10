@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which direction do the monsoon winds intercepted by the northern mountains barrier in Pakistan originate?",
+      "options": {
+        "a": "East",
+        "b": "West",
+        "c": "South",
+        "d": "North"
+      },
+      "one_liner": "The monsoon winds intercepted by Pakistan's northern mountains barrier originate from the **south**, shaping the country's rainfall distribution.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

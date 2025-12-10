@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'honest':",
+      "options": {
+        "a": "deceitful",
+        "b": "candid",
+        "c": "false",
+        "d": "dishonest"
+      },
+      "one_liner": "'Honest' means truthful or sincere—words like 'truthful' and 'candid' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

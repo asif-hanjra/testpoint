@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of speech names a person, place, thing, or idea?",
+      "options": {
+        "a": "Adjective",
+        "b": "Noun",
+        "c": "Verb",
+        "d": "Adverb"
+      },
+      "one_liner": "A noun names a person, place, thing, or idea.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

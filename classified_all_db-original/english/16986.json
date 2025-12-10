@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'olfactory':",
+      "options": {
+        "a": "gustatory",
+        "b": "fragrant",
+        "c": "scented",
+        "d": "pungent"
+      },
+      "one_liner": "An antonym of 'olfactory' would be 'gustatory', which pertains to the sense of taste rather than smell.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

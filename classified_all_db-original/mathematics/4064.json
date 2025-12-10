@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Kamal is older than Jamal, Jamal is older than Hussain, and Hussain is older than Waqar. Who is the oldest",
+      "options": {
+        "a": "Waqar",
+        "b": "Jamal",
+        "c": "Kamal",
+        "d": "Hussain"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

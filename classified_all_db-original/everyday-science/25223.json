@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How does depression affect an individual?",
+      "options": {
+        "a": "Improves mood",
+        "b": "Negatively affects feelings, thoughts, and actions",
+        "c": "Increases energy",
+        "d": "None of these"
+      },
+      "one_liner": "Depression negatively affects how a person feels, thinks, and acts, often causing sadness and loss of interest in activities.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

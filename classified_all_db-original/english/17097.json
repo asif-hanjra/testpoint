@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She arrived later ___ I.",
+      "options": {
+        "a": "from",
+        "b": "than",
+        "c": "to",
+        "d": "with"
+      },
+      "one_liner": "She arrived later 'than' I.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

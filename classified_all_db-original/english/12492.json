@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'profit':",
+      "options": {
+        "a": "gain",
+        "b": "benefit",
+        "c": "loss",
+        "d": "advantage"
+      },
+      "one_liner": "The antonym of 'profit' is 'loss', which refers to financial detriment.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

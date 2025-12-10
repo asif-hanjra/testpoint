@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct preposition: She decided to lay ___ some money for a rainy day.",
+      "options": {
+        "a": "on",
+        "b": "by",
+        "c": "in",
+        "d": "at"
+      },
+      "one_liner": "She decided to lay 'by' some money for a rainy day.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

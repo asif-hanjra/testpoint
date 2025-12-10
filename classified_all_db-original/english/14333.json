@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'misfortune':",
+      "options": {
+        "a": "fortune",
+        "b": "prosperity",
+        "c": "adversity",
+        "d": "success"
+      },
+      "one_liner": "'Misfortune' refers to bad luck or an unfortunate condition—similar to 'adversity'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

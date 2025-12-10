@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adhere':",
+      "options": {
+        "a": "bond:detach",
+        "b": "cling:release",
+        "c": "stick:separate",
+        "d": "attach:unite"
+      },
+      "one_liner": "'Cling' is a synonym of 'adhere', while 'release' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

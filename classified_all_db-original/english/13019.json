@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You cannot go ___ it is raining heavily.",
+      "options": {
+        "a": "although",
+        "b": "because",
+        "c": "unless",
+        "d": "until"
+      },
+      "one_liner": "You cannot go 'because' it is raining heavily.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

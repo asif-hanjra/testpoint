@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'they' in the sentence 'They went to the park'?",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Pronoun",
+        "d": "Conjunction"
+      },
+      "one_liner": "In the sentence 'They went to the park', the word 'they' is a pronoun because it replaces a noun (e.g., names of people).",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

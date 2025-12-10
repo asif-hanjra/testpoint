@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Akbar will look after my work ___ my absence.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "Akbar will look after my work 'in' my absence.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

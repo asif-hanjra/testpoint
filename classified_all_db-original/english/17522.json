@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "CHEAP : EXPENSIVE :: HIGH : ________?",
+      "options": {
+        "a": "Tall",
+        "b": "Short",
+        "c": "Low",
+        "d": "Deep"
+      },
+      "one_liner": "Cheap is the opposite of expensive, just as high is the opposite of low.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'busy':",
+      "options": {
+        "a": "idle",
+        "b": "engaged",
+        "c": "lazy",
+        "d": "inactive"
+      },
+      "one_liner": "'Busy' means being occupied with tasks—words like 'engaged' and 'active' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

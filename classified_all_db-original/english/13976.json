@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'evoke':",
+      "options": {
+        "a": "suppress",
+        "b": "recall",
+        "c": "invoke",
+        "d": "remind"
+      },
+      "one_liner": "The antonym of 'evoke', which means to bring to mind, would be 'suppress', meaning to hold back or conceal.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

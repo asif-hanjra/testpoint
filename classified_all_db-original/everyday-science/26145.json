@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is an alloy?",
+      "options": {
+        "a": "A pure metal",
+        "b": "A metal made by combining two or more metallic elements",
+        "c": "A non-metallic compound",
+        "d": "None of these"
+      },
+      "one_liner": "An alloy is a metal formed by combining **two or more metallic elements** to enhance properties like strength or resistance to corrosion.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

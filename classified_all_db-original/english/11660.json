@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "When you arrive at the hotel, you need to _______ at the front desk.",
+      "options": {
+        "a": "break out",
+        "b": "check in",
+        "c": "run into",
+        "d": "take off"
+      },
+      "one_liner": "When you arrive at the hotel, you need to 'check in' at the front desk.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'perfidy':",
+      "options": {
+        "a": "loyalty",
+        "b": "treachery",
+        "c": "fidelity",
+        "d": "faithfulness"
+      },
+      "one_liner": "'Perfidy' means betrayal or deceitfulness—words like 'treachery' and 'duplicity' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

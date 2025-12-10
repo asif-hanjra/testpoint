@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'intermittent':",
+      "options": {
+        "a": "constant",
+        "b": "sporadic",
+        "c": "continuous",
+        "d": "unbroken"
+      },
+      "one_liner": "'Intermittent' means occurring at irregular intervals, similar to 'sporadic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

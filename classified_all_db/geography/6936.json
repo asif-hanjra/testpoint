@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Egypt's membership suspended by the Arab League?",
+      "options": {
+        "a": "1977",
+        "b": "1978",
+        "c": "1979",
+        "d": "1980"
+      },
+      "one_liner": "Egypt's membership in the Arab League was suspended in **1979** after the Camp David Accords.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

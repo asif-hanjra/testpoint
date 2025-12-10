@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'predicilous':",
+      "options": {
+        "a": "hazardous:protected",
+        "b": "dangerous:secure",
+        "c": "perilous:safe",
+        "d": "risky:guarded"
+      },
+      "one_liner": "'Hazardous' is a synonym of 'predicilous', while 'protected' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

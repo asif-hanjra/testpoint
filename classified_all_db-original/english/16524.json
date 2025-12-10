@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was ___ such a hurry that he forgot his keys.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "He was 'in' such a hurry that he forgot his keys.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How far is Mahodand Lake from Kalam Valley?",
+      "options": {
+        "a": "10 km",
+        "b": "20 km",
+        "c": "40 km",
+        "d": "60 km"
+      },
+      "one_liner": "Mahodand Lake is situated **40 km from Kalam Valley** in Swat.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

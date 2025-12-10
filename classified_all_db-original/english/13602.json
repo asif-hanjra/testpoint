@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vigilant':",
+      "options": {
+        "a": "observant:careless",
+        "b": "attentive:neglectful",
+        "c": "heedful:heedless",
+        "d": "aware:unaware"
+      },
+      "one_liner": "'Observant' is a synonym of 'vigilant', while 'careless' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'profligate':",
+      "options": {
+        "a": "wasteful",
+        "b": "thrifty",
+        "c": "extravagant",
+        "d": "lavish"
+      },
+      "one_liner": "The word 'profligate' describes someone who is wasteful, so 'thrifty' would be the opposite, describing someone who is careful with money.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is known as the seaport of the USA?",
+      "options": {
+        "a": "Seattle",
+        "b": "New York",
+        "c": "Los Angeles",
+        "d": "Houston"
+      },
+      "one_liner": "Seattle is recognized as the prominent seaport of the **USA**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

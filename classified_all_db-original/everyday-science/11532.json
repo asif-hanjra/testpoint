@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does CT in CT scan stand for?",
+      "options": {
+        "a": "Computed Tomography",
+        "b": "Central Therapy",
+        "c": "Cerebral Test",
+        "d": "None of these"
+      },
+      "one_liner": "The abbreviation CT in CT scan stands for **Computed Tomography**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

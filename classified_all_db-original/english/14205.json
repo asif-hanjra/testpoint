@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dispute':",
+      "options": {
+        "a": "agreement",
+        "b": "contention",
+        "c": "harmony",
+        "d": "concord"
+      },
+      "one_liner": "'Dispute' means a disagreement or argument—words like 'contention' and 'debate' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

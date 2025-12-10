@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the player that played cricket for both India and Pakistan?",
+      "options": {
+        "a": "Imran Khan",
+        "b": "Abdul Kadir",
+        "c": "Hanif Mohammad",
+        "d": "None of these"
+      },
+      "one_liner": "Abdul Kadir is notable for having played cricket for both **India and Pakistan** during his career.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

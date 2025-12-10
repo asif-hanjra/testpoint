@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the Government of Pakistan name Islamabad as its new capital?",
+      "options": {
+        "a": "14 August 1947",
+        "b": "24 February 1960",
+        "c": "1 March 1961",
+        "d": "23 March 1956"
+      },
+      "one_liner": "Islamabad was officially named as the new capital of Pakistan by the government on **24 February 1960**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

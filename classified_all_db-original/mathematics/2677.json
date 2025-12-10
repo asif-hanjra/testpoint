@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "When A = [x|x ∈ P ∧ 5 ≤ × ≤ 13, where P is prime] then the number of elements in P (A), i.e,  power set of A are _______?",
+      "options": {
+        "a": "4",
+        "b": "8",
+        "c": "16",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

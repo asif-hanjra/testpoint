@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deplete':",
+      "options": {
+        "a": "replenish",
+        "b": "drain",
+        "c": "fill",
+        "d": "accumulate"
+      },
+      "one_liner": "'Deplete' means to use up or exhaust resources, similar to 'drain' or 'exhaust'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

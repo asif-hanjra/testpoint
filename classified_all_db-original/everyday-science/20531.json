@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "It two bodies are moving in opposite directions with non-zero velocities, which of the following statements is true?",
+      "options": {
+        "a": "Relative velocity <= Absolute velocity",
+        "b": "Relative velocity = Absolute velocity",
+        "c": "Relative velocity < Absolute velocity",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

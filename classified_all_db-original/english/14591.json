@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'contaminate':",
+      "options": {
+        "a": "purify",
+        "b": "taint",
+        "c": "cleanse",
+        "d": "sterilize"
+      },
+      "one_liner": "'Contaminate' means to make impure or to pollute, so 'taint' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

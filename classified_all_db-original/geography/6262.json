@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following correctly lists the sequence of Earth's zones from north to south?",
+      "options": {
+        "a": "North Pole, Temperate Zone, Frigid Zone, Torrid Zone, Temperate Zone, Frigid Zone, South Pole",
+        "b": "North Pole, Frigid Zone, Temperate Zone, Torrid Zone, Temperate Zone, Frigid Zone, South Pole",
+        "c": "North Pole, Torrid Zone, Temperate Zone, Frigid Zone, Temperate Zone, Frigid Zone, South Pole",
+        "d": "North Pole, Frigid Zone, Torrid Zone, Temperate Zone, Frigid Zone, Temperate Zone, South Pole"
+      },
+      "one_liner": "From north to south, the Earth's zones are arranged as **North Pole, Frigid Zone, Temperate Zone, Torrid Zone, Temperate Zone, Frigid Zone, South Pole**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

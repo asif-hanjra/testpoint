@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'odorous':",
+      "options": {
+        "a": "aromatic",
+        "b": "pungent",
+        "c": "odorless",
+        "d": "scented"
+      },
+      "one_liner": "An antonym for 'odorous', which means having a smell, would be 'odorless', indicating the absence of a scent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

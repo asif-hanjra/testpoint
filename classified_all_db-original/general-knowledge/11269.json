@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the last king of Afghanistan?",
+      "options": {
+        "a": "Abdur Rahman Khan",
+        "b": "Amanullah Khan",
+        "c": "Muhammad Zahir Khan",
+        "d": "Habibullah Khan"
+      },
+      "one_liner": "The last king to rule Afghanistan was **Muhammad Zahir Khan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

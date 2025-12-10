@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'chubby':",
+      "options": {
+        "a": "rotund:thin",
+        "b": "plump:slender",
+        "c": "stout:gaunt",
+        "d": "heavy:lean"
+      },
+      "one_liner": "'Rotund' is a synonym of 'chubby', while 'thin' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

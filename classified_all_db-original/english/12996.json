@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'interesting':",
+      "options": {
+        "a": "engrossing:mundane",
+        "b": "dull:captivating",
+        "c": "boring:engaging",
+        "d": "tedious:fascinating"
+      },
+      "one_liner": "'Engrossing' is a synonym of 'interesting', while 'mundane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

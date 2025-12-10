@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ruin':",
+      "options": {
+        "a": "demolish",
+        "b": "destroy",
+        "c": "repair",
+        "d": "wreck"
+      },
+      "one_liner": "The antonym of 'ruin' is 'repair', which means to fix or restore something to a good condition.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is true about air in terms of heat conduction?",
+      "options": {
+        "a": "Air is a good conductor of heat",
+        "b": "Air is a bad conductor of heat",
+        "c": "Air is the best conductor of heat",
+        "d": "None of these"
+      },
+      "one_liner": "It is a scientific fact that **air is a bad conductor of heat**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

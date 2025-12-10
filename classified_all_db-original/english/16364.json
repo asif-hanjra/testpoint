@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'magnificent':",
+      "options": {
+        "a": "glorious:unimpressive",
+        "b": "grand:attractive",
+        "c": "beautiful:lovely",
+        "d": "elegant:elegant"
+      },
+      "one_liner": "'Glorious' is a synonym of 'magnificent', while 'unimpressive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'matter':",
+      "options": {
+        "a": "antimatter",
+        "b": "material",
+        "c": "substance",
+        "d": "element"
+      },
+      "one_liner": "The antonym of 'matter' is 'antimatter', representing a material composed of the antiparticles of the corresponding particles of ordinary matter.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the typical lifespan of white blood cells?",
+      "options": {
+        "a": "1-3 days",
+        "b": "10 days",
+        "c": "120 days",
+        "d": "365 days"
+      },
+      "one_liner": "White blood cells generally have a short lifespan, living for only **1 to 3 days** in the body.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

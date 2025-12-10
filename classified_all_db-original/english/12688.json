@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pestilence':",
+      "options": {
+        "a": "disease",
+        "b": "epidemic",
+        "c": "health",
+        "d": "infection"
+      },
+      "one_liner": "An antonym of 'pestilence' is 'health', which signifies the absence of disease.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

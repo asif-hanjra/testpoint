@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Buenos Aires is a city in which country?",
+      "options": {
+        "a": "Brazil",
+        "b": "Argentina",
+        "c": "Chile",
+        "d": "None of these"
+      },
+      "one_liner": "Buenos Aires is the capital city of **Argentina**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Latin America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

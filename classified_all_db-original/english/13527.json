@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'below':",
+      "options": {
+        "a": "above",
+        "b": "underneath",
+        "c": "over",
+        "d": "top"
+      },
+      "one_liner": "'Below' means beneath or under, similar to 'underneath'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

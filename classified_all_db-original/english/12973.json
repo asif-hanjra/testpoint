@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'perch':",
+      "options": {
+        "a": "roost:plummet",
+        "b": "nest:ascend",
+        "c": "settle:soar",
+        "d": "rest:climb"
+      },
+      "one_liner": "'Roost' is a synonym of 'perch', while 'plummet' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

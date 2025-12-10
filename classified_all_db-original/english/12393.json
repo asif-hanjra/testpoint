@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vile':",
+      "options": {
+        "a": "pleasant",
+        "b": "disgusting",
+        "c": "lovely",
+        "d": "charming"
+      },
+      "one_liner": "'Vile' means extremely unpleasant—words like 'foul' and 'disgusting' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

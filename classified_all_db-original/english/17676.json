@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rational':",
+      "options": {
+        "a": "coherent:absurd",
+        "b": "logical:reasonable",
+        "c": "sensible:silly",
+        "d": "rational:logical"
+      },
+      "one_liner": "'Coherent' is a synonym of 'rational', while 'absurd' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

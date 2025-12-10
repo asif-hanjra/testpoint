@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Dasht-e-Lut desert located?",
+      "options": {
+        "a": "Iran",
+        "b": "Pakistan",
+        "c": "Saudi Arabia",
+        "d": "Afghanistan"
+      },
+      "one_liner": "The Dasht-e-Lut desert is situated in **Iran**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Deserts",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

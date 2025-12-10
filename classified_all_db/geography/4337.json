@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Into which sea does the Danube River drain?",
+      "options": {
+        "a": "Caspian Sea",
+        "b": "Black Sea",
+        "c": "Baltic Sea",
+        "d": "North Sea"
+      },
+      "one_liner": "The Danube River drains into the **Black Sea** in Ukraine.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What distinction does the bell of Koln Cathedral hold?",
+      "options": {
+        "a": "World's oldest bell",
+        "b": "World's largest free-swinging bell",
+        "c": "World's heaviest bell",
+        "d": "None of these"
+      },
+      "one_liner": "Koln Cathedral houses the **world's largest free-swinging bell**, making it a remarkable feature of the cathedral.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

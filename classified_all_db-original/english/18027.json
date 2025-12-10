@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The teacher asked the students to _______ before starting the lesson.",
+      "options": {
+        "a": "run out",
+        "b": "sit down",
+        "c": "give in",
+        "d": "take off"
+      },
+      "one_liner": "The teacher asked the students to 'sit down' before starting the lesson.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

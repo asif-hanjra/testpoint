@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'guarded':",
+      "options": {
+        "a": "open",
+        "b": "vigilant",
+        "c": "careful",
+        "d": "watchful"
+      },
+      "one_liner": "An antonym of 'guarded' is 'open', which suggests a lack of caution or restraint.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

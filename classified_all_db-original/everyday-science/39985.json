@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is the left lung smaller than the right lung in humans?",
+      "options": {
+        "a": "To make room for the liver",
+        "b": "To make room for the heart",
+        "c": "To make room for the stomach",
+        "d": "None of these"
+      },
+      "one_liner": "The left lung is **slightly smaller to make room for the heart** in the human chest.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

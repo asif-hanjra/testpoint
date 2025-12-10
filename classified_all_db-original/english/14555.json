@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'inflammable':",
+      "options": {
+        "a": "combustible",
+        "b": "nonflammable",
+        "c": "ignitable",
+        "d": "volatile"
+      },
+      "one_liner": "An antonym for 'inflammable' would be 'nonflammable', meaning not easily set on fire.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

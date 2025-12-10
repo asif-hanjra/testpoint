@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the only remaining part of the Temple Mount complex in Jerusalem?",
+      "options": {
+        "a": "Dome of the Rock",
+        "b": "Western Wall",
+        "c": "Al-Aqsa Mosque",
+        "d": "Church of the Holy Sepulchre"
+      },
+      "one_liner": "The only remaining part of the Temple Mount complex in Jerusalem is the **Western Wall**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

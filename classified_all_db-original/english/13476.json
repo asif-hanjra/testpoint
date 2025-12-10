@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deluge':",
+      "options": {
+        "a": "drought",
+        "b": "inundation",
+        "c": "trickle",
+        "d": "shortage"
+      },
+      "one_liner": "'Deluge' refers to a great flood or a heavy downpour, similar to an 'inundation'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

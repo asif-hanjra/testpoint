@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is the small intestine referred to as 'small'?",
+      "options": {
+        "a": "It is very short",
+        "b": "It is narrow in diameter",
+        "c": "It is less important",
+        "d": "None of these"
+      },
+      "one_liner": "The small intestine is called 'small' because it is **narrow, about the thickness of your thumb**, rather than due to its length.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

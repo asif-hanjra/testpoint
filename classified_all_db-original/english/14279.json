@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'frugal':",
+      "options": {
+        "a": "extravagant",
+        "b": "thrifty",
+        "c": "wasteful",
+        "d": "profligate"
+      },
+      "one_liner": "'Frugal' refers to being economical or sparing with resources, much like being 'thrifty'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obsolete':",
+      "options": {
+        "a": "modern",
+        "b": "antiquated",
+        "c": "current",
+        "d": "fresh"
+      },
+      "one_liner": "'Obsolete' means out of date or no longer in use, similar to 'antiquated'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stiff':",
+      "options": {
+        "a": "inflexible:pliable",
+        "b": "rigid:flexible",
+        "c": "hard:soft",
+        "d": "taut:limber"
+      },
+      "one_liner": "'Inflexible' is a synonym of 'stiff', while 'pliable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

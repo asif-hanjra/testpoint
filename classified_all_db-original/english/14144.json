@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ghastly':",
+      "options": {
+        "a": "pleasant",
+        "b": "gruesome",
+        "c": "delightful",
+        "d": "charming"
+      },
+      "one_liner": "'Ghastly' describes something frightful or horrifying, similar to 'gruesome'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

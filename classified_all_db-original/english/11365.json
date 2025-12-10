@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'militant':",
+      "options": {
+        "a": "peaceful",
+        "b": "belligerent",
+        "c": "friendly",
+        "d": "passive"
+      },
+      "one_liner": "'Militant' implies being combative or aggressive, similar to 'belligerent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

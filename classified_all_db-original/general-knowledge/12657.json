@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following best describes the focus of sports activities and programmes?",
+      "options": {
+        "a": "Individuals only",
+        "b": "Teams only",
+        "c": "Both individuals and teams",
+        "d": "None of these"
+      },
+      "one_liner": "Sports activities and programmes are designed for both **individuals and teams**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

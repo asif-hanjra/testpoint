@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries are collectively known as the Low Countries in Western Europe?",
+      "options": {
+        "a": "France, Belgium, Netherlands",
+        "b": "Belgium, Luxembourg, Netherlands",
+        "c": "Germany, Netherlands, Luxembourg",
+        "d": "None of these"
+      },
+      "one_liner": "The countries collectively known as the Low Countries in Western Europe are **Belgium, Luxembourg, and Netherlands**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

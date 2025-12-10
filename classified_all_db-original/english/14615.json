@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'outrageous':",
+      "options": {
+        "a": "mild",
+        "b": "shocking",
+        "c": "expected",
+        "d": "calm"
+      },
+      "one_liner": "'Outrageous' actions are often considered 'shocking' due to their extreme nature.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

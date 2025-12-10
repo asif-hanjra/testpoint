@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'apathy':",
+      "options": {
+        "a": "enthusiasm",
+        "b": "indifference",
+        "c": "passion",
+        "d": "interest"
+      },
+      "one_liner": "'Apathy' refers to a lack of interest or concern, similar to 'indifference'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

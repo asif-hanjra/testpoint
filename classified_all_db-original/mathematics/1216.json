@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Let U be a universal set and A and B be subsets of U. Which of the following is TRUE according to DeMorgan’s Law?",
+      "options": {
+        "a": "(𝐴 ∪ 𝐵)′ = 𝐴′ ∩ 𝐵′",
+        "b": "(𝐴 ∪ 𝐵)′ = 𝐴′ ∪𝐵′",
+        "c": "(𝐴 ∩ 𝐵)′ = 𝐴′ ∩ 𝐵′",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

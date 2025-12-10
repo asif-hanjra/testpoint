@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Airplane : Hangar ::",
+      "options": {
+        "a": "Train : Yard",
+        "b": "Ship : Dock",
+        "c": "Car : Garage",
+        "d": "Bicycle : Rack"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

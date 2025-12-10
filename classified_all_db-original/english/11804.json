@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'risky':",
+      "options": {
+        "a": "dangerous",
+        "b": "perilous",
+        "c": "safe",
+        "d": "treacherous"
+      },
+      "one_liner": "An antonym of 'risky' is 'safe', which means free from danger or harm.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

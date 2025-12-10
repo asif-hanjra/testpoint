@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered sunspots?",
+      "options": {
+        "a": "Newton",
+        "b": "Copernicus",
+        "c": "Galileo",
+        "d": "Kepler"
+      },
+      "one_liner": "The discovery of sunspots is credited to **Galileo**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

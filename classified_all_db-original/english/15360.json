@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ruthless':",
+      "options": {
+        "a": "callous:humane",
+        "b": "merciless:compassionate",
+        "c": "harsh:kind",
+        "d": "cruel:merciful"
+      },
+      "one_liner": "'Callous' is a synonym of 'ruthless', while 'humane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

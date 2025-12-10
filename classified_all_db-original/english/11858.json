@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'before' in the sentence 'I will finish my homework before dinner'?",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Preposition",
+        "d": "Pronoun"
+      },
+      "one_liner": "In the sentence 'I will finish my homework before dinner', the word 'before' is a preposition because it indicates time.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

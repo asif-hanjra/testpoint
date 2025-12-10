@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What proportion of elected members of a community must oppose a bill for it not to be presented by a non-official member, according to the 14 Points?",
+      "options": {
+        "a": "50%",
+        "b": "60%",
+        "c": "75%",
+        "d": "80%"
+      },
+      "one_liner": "According to the 14 Points, a bill should not be presented by a non-official member if **75% of elected members of a community oppose it**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

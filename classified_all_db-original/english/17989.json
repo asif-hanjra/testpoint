@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'aspiration':",
+      "options": {
+        "a": "goal:disinterest",
+        "b": "dream:enthusiasm",
+        "c": "ambition:indifference",
+        "d": "desire:passion"
+      },
+      "one_liner": "'Goal' is a synonym for 'aspiration', and 'disinterest' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

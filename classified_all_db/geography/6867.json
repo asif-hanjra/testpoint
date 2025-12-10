@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which province of Pakistan is the town of Dalbandin located?",
+      "options": {
+        "a": "Sindh",
+        "b": "Punjab",
+        "c": "Balochistan",
+        "d": "Khyber Pakhtunkhwa"
+      },
+      "one_liner": "Dalbandin is a town situated in the province of **Balochistan** in Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

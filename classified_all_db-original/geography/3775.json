@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Kotdiji Fort located?",
+      "options": {
+        "a": "Kotdiji",
+        "b": "Multan",
+        "c": "Larkana",
+        "d": "Sukkur"
+      },
+      "one_liner": "The Kotdiji Fort is located in **Kotdiji**, a town of Khairpur.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

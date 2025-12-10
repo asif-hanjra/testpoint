@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'passive':",
+      "options": {
+        "a": "submissive:assertive",
+        "b": "inactive:active",
+        "c": "quiet:loud",
+        "d": "gentle:harsh"
+      },
+      "one_liner": "'Submissive' is a synonym of 'passive', while 'assertive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

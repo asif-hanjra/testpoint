@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "MARSHAL : PRISONER :: PRINCIPAL : ________?",
+      "options": {
+        "a": "Teacher",
+        "b": "Student",
+        "c": "Parent",
+        "d": "Janitor"
+      },
+      "one_liner": "A marshal oversees prisoners, just as a principal oversees students.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

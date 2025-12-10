@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What organ becomes lethal due to the attack of Covid-19?",
+      "options": {
+        "a": "Heart",
+        "b": "Liver",
+        "c": "Lungs",
+        "d": "Kidneys"
+      },
+      "one_liner": "Covid-19 can cause the lungs to become **lethal** due to its attack on the respiratory system.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

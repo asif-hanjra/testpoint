@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'jubilant':",
+      "options": {
+        "a": "ecstatic",
+        "b": "cheerful",
+        "c": "despondent",
+        "d": "joyful"
+      },
+      "one_liner": "An antonym of 'jubilant' is 'despondent', which means feeling a loss of hope or confidence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

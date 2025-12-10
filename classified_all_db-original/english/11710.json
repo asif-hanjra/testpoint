@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pine':",
+      "options": {
+        "a": "ignore",
+        "b": "crave",
+        "c": "desire",
+        "d": "cherish"
+      },
+      "one_liner": "The antonym of 'pine', which means to long for, would be 'disregard' or 'ignore', indicating a lack of concern.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

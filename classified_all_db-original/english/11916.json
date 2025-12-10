@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mosaic':",
+      "options": {
+        "a": "uniform",
+        "b": "collage",
+        "c": "assemblage",
+        "d": "montage"
+      },
+      "one_liner": "An antonym of 'mosaic', which is composed of various elements, would be 'uniform', meaning the same all the way through.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

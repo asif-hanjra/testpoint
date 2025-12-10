@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which missile did Pakistan test on 15 April 1999 in response to India's test of Agni-II?",
+      "options": {
+        "a": "Shaheen-I",
+        "b": "Ghauri-II",
+        "c": "Hatf-V",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan responded to India's Agni-II test by testing its **Ghauri-II Missile** on 15 April 1999.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How much annual aid did the USA pledge to Pakistan under the Enhanced Partnership with Pakistan Act of 2009?",
+      "options": {
+        "a": "$500 million",
+        "b": "$1 billion",
+        "c": "$1.5 billion",
+        "d": "$2 billion"
+      },
+      "one_liner": "Under the Enhanced Partnership with Pakistan Act of 2009, the USA pledged an annual aid of **$1.5 billion** to Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

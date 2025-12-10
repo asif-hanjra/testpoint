@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ocean connects the Caribbean Sea near the Gulf of Mexico with Europe and the Mediterranean Sea through the Strait of Gibraltar?",
+      "options": {
+        "a": "Indian Ocean",
+        "b": "Atlantic Ocean",
+        "c": "Pacific Ocean",
+        "d": "Arctic Ocean"
+      },
+      "one_liner": "The **Atlantic Ocean** connects the Caribbean Sea near the Gulf of Mexico with Europe and the Mediterranean Sea through the Strait of Gibraltar.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

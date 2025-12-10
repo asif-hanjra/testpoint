@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vehemence':",
+      "options": {
+        "a": "fervor:dispassion",
+        "b": "enthusiasm:interest",
+        "c": "zeal:zeal",
+        "d": "ardor:ardor"
+      },
+      "one_liner": "'Fervor' is a synonym of 'vehemence', while 'dispassion' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

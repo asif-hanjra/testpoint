@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'arduous':",
+      "options": {
+        "a": "strenuous:easy",
+        "b": "simple:difficult",
+        "c": "demanding:challenging",
+        "d": "laborious:effortless"
+      },
+      "one_liner": "'Strenuous' is a synonym of 'arduous', while 'easy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

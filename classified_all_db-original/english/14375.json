@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tyro':",
+      "options": {
+        "a": "expert",
+        "b": "veteran",
+        "c": "neophyte",
+        "d": "professional"
+      },
+      "one_liner": "'Tyro' refers to a beginner or novice, similar to 'neophyte'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'distraught':",
+      "options": {
+        "a": "calm",
+        "b": "anguished",
+        "c": "content",
+        "d": "pleased"
+      },
+      "one_liner": "'Distraught' means deeply upset or agitated, which is similar in meaning to 'anguished'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

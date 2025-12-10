@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Pakistan conduct its nuclear tests at Chaghi hills?",
+      "options": {
+        "a": "May 11, 1998",
+        "b": "May 28, 1998",
+        "c": "June 1, 1998",
+        "d": "August 14, 1998"
+      },
+      "one_liner": "Pakistan carried out its nuclear tests at Chaghi hills on **May 28, 1998**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

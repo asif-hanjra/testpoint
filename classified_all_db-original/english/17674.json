@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gregarious':",
+      "options": {
+        "a": "sociable:loner",
+        "b": "amiable:companionable",
+        "c": "outgoing:gregarious",
+        "d": "affable:friendly"
+      },
+      "one_liner": "'Sociable' is a synonym of 'gregarious', while 'loner' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

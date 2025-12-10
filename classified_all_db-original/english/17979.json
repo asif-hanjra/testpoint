@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'enemy':",
+      "options": {
+        "a": "friend",
+        "b": "adversary",
+        "c": "ally",
+        "d": "supporter"
+      },
+      "one_liner": "'Enemy' refers to a foe or adversary, someone who is opposed to another.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Lockjaw refers to which medical condition?",
+      "options": {
+        "a": "Difficulty in swallowing",
+        "b": "Difficulty in opening the mouth",
+        "c": "Difficulty in breathing",
+        "d": "None of these"
+      },
+      "one_liner": "The medical term 'lockjaw' refers to **difficulty in opening the mouth**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

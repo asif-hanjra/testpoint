@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "LAWLESS : ORDER :: CAPTIVE : ________?",
+      "options": {
+        "a": "Prison",
+        "b": "Freedom",
+        "c": "Guard",
+        "d": "Escape"
+      },
+      "one_liner": "Lawless is the absence of order, just as captive is the absence of freedom.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

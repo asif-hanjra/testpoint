@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Buckingham Palace is notable for being one of the few remaining what in the world?",
+      "options": {
+        "a": "Museums",
+        "b": "Working royal palaces",
+        "c": "Government offices",
+        "d": "Art galleries"
+      },
+      "one_liner": "Buckingham Palace is distinguished as one of the world's few remaining **working royal palaces**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Buckingham Palace: London",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Buckingham Palace: London",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

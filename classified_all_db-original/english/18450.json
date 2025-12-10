@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'accurate':",
+      "options": {
+        "a": "correct",
+        "b": "true",
+        "c": "inaccurate",
+        "d": "precise"
+      },
+      "one_liner": "The antonym of 'accurate' is 'inaccurate', which means not correct or wrong.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

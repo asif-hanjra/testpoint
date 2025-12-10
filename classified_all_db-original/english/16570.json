@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'meager':",
+      "options": {
+        "a": "sparse:copious",
+        "b": "plentiful:scarce",
+        "c": "insufficient:abundant",
+        "d": "limited:ample"
+      },
+      "one_liner": "'Sparse' is a synonym of 'meager', while 'copious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

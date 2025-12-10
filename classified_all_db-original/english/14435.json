@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "My car tends to _______ whenever it rains heavily.",
+      "options": {
+        "a": "bring up",
+        "b": "break down",
+        "c": "take off",
+        "d": "run out"
+      },
+      "one_liner": "My car tends to 'break down' whenever it rains heavily.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

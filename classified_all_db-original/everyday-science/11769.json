@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What nutrient is primarily found in sugar?",
+      "options": {
+        "a": "Proteins",
+        "b": "Fats",
+        "c": "Carbohydrates",
+        "d": "Vitamins"
+      },
+      "one_liner": "Sugar is a common food ingredient that primarily contains **carbohydrates**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

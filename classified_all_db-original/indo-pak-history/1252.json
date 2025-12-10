@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who among the following participated in the Second Round Table Conference?",
+      "options": {
+        "a": "Sir Zafrulla Khan",
+        "b": "Mahatma Gandhi",
+        "c": "Begum Jahanara Shahnawaz",
+        "d": "None of these"
+      },
+      "one_liner": "**Mahatma Gandhi** was among the Indian participants in the Second Round Table Conference.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where do the Caribbean countries lie in relation to the Gulf of Mexico?",
+      "options": {
+        "a": "Near the Bay of Bengal",
+        "b": "Near the Gulf of Mexico",
+        "c": "Near the Red Sea",
+        "d": "None of these"
+      },
+      "one_liner": "Caribbean countries lie on the **Caribbean Peninsula near the Gulf of Mexico**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

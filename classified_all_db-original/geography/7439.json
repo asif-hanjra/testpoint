@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which motorway links Burhan Interchange near Hasan Abdal with several cities in Khyber Pakhtunkhwa including Haripur and Thakot?",
+      "options": {
+        "a": "M14",
+        "b": "M15",
+        "c": "M16",
+        "d": "M17"
+      },
+      "one_liner": "The M15 Hazara Motorway links **Burhan Interchange near Hasan Abdal in Punjab with Haripur, Havelian, Abbottabad, Mansehra, Battagram and Thakot in Khyber Pakhtunkhwa**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

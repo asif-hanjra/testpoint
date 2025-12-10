@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'facilitate':",
+      "options": {
+        "a": "enable:impede",
+        "b": "simplify:assist",
+        "c": "expedite:aid",
+        "d": "ease:support"
+      },
+      "one_liner": "'Enable' is a synonym of 'facilitate', while 'impede' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

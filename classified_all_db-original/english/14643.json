@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Yesterday, I _______ my old friend at the supermarket.",
+      "options": {
+        "a": "ran over",
+        "b": "bumped into",
+        "c": "looked after",
+        "d": "gave up"
+      },
+      "one_liner": "Yesterday, I 'bumped into' my old friend at the supermarket.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

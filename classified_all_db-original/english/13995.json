@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "LEDGER : ACCOUNTS :: DIARY : ________?",
+      "options": {
+        "a": "Dates",
+        "b": "Observations",
+        "c": "Events",
+        "d": "Stories"
+      },
+      "one_liner": "A ledger is used for accounts, just as a diary is used for observations.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

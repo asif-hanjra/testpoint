@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'intestate':",
+      "options": {
+        "a": "testate",
+        "b": "unwilled",
+        "c": "undocumented",
+        "d": "unregistered"
+      },
+      "one_liner": "The opposite of 'intestate' is 'testate', which means having made a will before one dies.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

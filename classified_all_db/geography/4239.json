@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the length of the Siachen Glacier?",
+      "options": {
+        "a": "67 km",
+        "b": "63 km",
+        "c": "76 km",
+        "d": "57 km"
+      },
+      "one_liner": "The Siachen Glacier stretches for **76 km (47 mi)**, making it the longest glacier in the Karakoram.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

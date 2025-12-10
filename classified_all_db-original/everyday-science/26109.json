@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of plant is a banana classified as?",
+      "options": {
+        "a": "Tree",
+        "b": "Shrub",
+        "c": "Herb",
+        "d": "None of these"
+      },
+      "one_liner": "The banana plant is classified as a **herb** rather than a tree.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

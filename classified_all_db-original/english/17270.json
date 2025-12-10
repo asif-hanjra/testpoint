@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'limp':",
+      "options": {
+        "a": "firm",
+        "b": "flaccid",
+        "c": "slack",
+        "d": "loose"
+      },
+      "one_liner": "An antonym of 'limp' is 'firm', which suggests strength and stability, unlike the weakness implied by 'limp'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

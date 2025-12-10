@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conform':",
+      "options": {
+        "a": "obey",
+        "b": "follow",
+        "c": "rebel",
+        "d": "submit"
+      },
+      "one_liner": "The antonym of 'conform' is 'rebel', which means to resist authority or control.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

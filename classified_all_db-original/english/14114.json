@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fracas':",
+      "options": {
+        "a": "brawl:calm",
+        "b": "melee:harmony",
+        "c": "disturbance:peace",
+        "d": "turmoil:serenity"
+      },
+      "one_liner": "'Brawl' is a synonym of 'fracas', while 'calm' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dry':",
+      "options": {
+        "a": "damp",
+        "b": "arid",
+        "c": "humid",
+        "d": "wet"
+      },
+      "one_liner": "'Dry' can mean lacking moisture, similar to 'arid' or 'parched'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

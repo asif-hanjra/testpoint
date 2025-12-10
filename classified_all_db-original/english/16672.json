@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'adjourn':",
+      "options": {
+        "a": "convene",
+        "b": "defer",
+        "c": "suspend",
+        "d": "protract"
+      },
+      "one_liner": "An antonym for 'adjourn' is 'convene', which means to come together or assemble, usually for a public purpose.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

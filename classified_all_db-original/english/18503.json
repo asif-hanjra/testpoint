@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'delible':",
+      "options": {
+        "a": "erasable:permanent",
+        "b": "lasting:indelible",
+        "c": "removable:lasting",
+        "d": "fleeting:indelible"
+      },
+      "one_liner": "A synonym for 'delible' is 'erasable', and its antonym is 'permanent'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which pass is often called the 'Roof of the World'?",
+      "options": {
+        "a": "Bolan Pass",
+        "b": "Shandur Pass",
+        "c": "Khyber Pass",
+        "d": "Lowari Pass"
+      },
+      "one_liner": "Shandur Pass is often referred to as the '**Roof of the World**'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

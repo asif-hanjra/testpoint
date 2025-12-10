@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'catastrophic':",
+      "options": {
+        "a": "devastating:auspicious",
+        "b": "beneficial:disastrous",
+        "c": "destructive:advantageous",
+        "d": "calamitous:fortunate"
+      },
+      "one_liner": "'Devastating' is a synonym of 'catastrophic', while 'auspicious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'queer':",
+      "options": {
+        "a": "weird",
+        "b": "bizarre",
+        "c": "normal",
+        "d": "eccentric"
+      },
+      "one_liner": "The word 'queer' implies something unusual, making 'normal' its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

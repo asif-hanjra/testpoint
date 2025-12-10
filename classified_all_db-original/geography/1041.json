@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mountain range runs approximately from north to south through western Russia, from the coast of the Arctic Ocean to the Ural River and northwestern Kazakhstan?",
+      "options": {
+        "a": "Ural Mountains",
+        "b": "Himalayas",
+        "c": "Alps",
+        "d": "Caucasus Mountains"
+      },
+      "one_liner": "The mountain range that stretches from the Arctic Ocean coast to the Ural River and northwestern Kazakhstan in western Russia is the **Ural Mountains**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Mountains",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

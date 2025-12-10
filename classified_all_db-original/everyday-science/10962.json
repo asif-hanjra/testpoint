@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which form of carbon is used to make diamond-tipped saw blades for cutting glass?",
+      "options": {
+        "a": "Graphite",
+        "b": "Diamond",
+        "c": "Buckyballs",
+        "d": "Charcoal"
+      },
+      "one_liner": "**Diamond** is used to make diamond-tipped saw blades for cutting glass due to its hardness.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

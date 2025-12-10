@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where do body waves originate during an earthquake?",
+      "options": {
+        "a": "Epicentre",
+        "b": "Focus",
+        "c": "Crust",
+        "d": "Mantle"
+      },
+      "one_liner": "Body waves originate at the **epicentre** of the earthquake and travel through the earth.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Earthquake Waves / Seismic Waves",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Earthquake Waves / Seismic Waves",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

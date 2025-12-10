@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'expiate':",
+      "options": {
+        "a": "ignore",
+        "b": "atone",
+        "c": "neglect",
+        "d": "overlook"
+      },
+      "one_liner": "'Expiate' means to atone or make amends for guilt or wrongdoing, similar to 'atone' or 'redeem'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

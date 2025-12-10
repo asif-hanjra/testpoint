@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "SUBJECT : VERB :: PATH : ________?",
+      "options": {
+        "a": "Travel",
+        "b": "Digress",
+        "c": "Destination",
+        "d": "Journey"
+      },
+      "one_liner": "A subject performs the action of a verb; to digress is to stray from a path.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

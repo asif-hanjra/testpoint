@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fix':",
+      "options": {
+        "a": "mend:destroy",
+        "b": "repair:renew",
+        "c": "restore:break",
+        "d": "amend:improve"
+      },
+      "one_liner": "'Mend' is a synonym of 'fix', while 'destroy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

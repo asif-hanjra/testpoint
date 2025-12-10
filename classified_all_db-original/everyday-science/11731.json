@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which chemicals used in air conditioners, refrigerators, freezers, and packing foam manufacturing are responsible for ozone layer depletion?",
+      "options": {
+        "a": "Hydrocarbons",
+        "b": "Chlorofluorocarbons (CFCs)",
+        "c": "Nitrogen oxides",
+        "d": "Sulphur dioxide"
+      },
+      "one_liner": "Chlorofluorocarbons, commonly known as CFCs, are chemicals used in appliances and foam manufacturing that are responsible for the depletion of the **ozone layer**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

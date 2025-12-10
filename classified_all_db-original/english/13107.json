@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adulterate':",
+      "options": {
+        "a": "purify",
+        "b": "contaminate",
+        "c": "refine",
+        "d": "enhance"
+      },
+      "one_liner": "'Adulterate' means to make something impure by adding inferior elements, similar to 'contaminate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

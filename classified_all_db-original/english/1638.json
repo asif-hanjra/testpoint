@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correctly punctuated sentence: The meeting is scheduled for 3:00 p.m., on Tuesday, October 5th., The meeting is scheduled for 3.00 p.m. on Tuesday, October 5th., The meeting is scheduled for 3:00 p.m. on Tuesday October 5th., None of these",
+      "options": {
+        "a": "The meeting is scheduled for 3:00 p.m., on Tuesday, October 5th.",
+        "b": "The meeting is scheduled for 3.00 p.m. on Tuesday, October 5th.",
+        "c": "The meeting is scheduled for 3:00 p.m. on Tuesday October 5th.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

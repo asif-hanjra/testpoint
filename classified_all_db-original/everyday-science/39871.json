@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the process called when a substance absorbs moisture from the atmosphere?",
+      "options": {
+        "a": "Sublimation",
+        "b": "Deliquescence",
+        "c": "Evaporation",
+        "d": "Condensation"
+      },
+      "one_liner": "The process by which a substance absorbs moisture from the atmosphere is known as **Deliquescence**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Terms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

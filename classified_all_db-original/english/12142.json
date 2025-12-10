@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'balk':",
+      "options": {
+        "a": "recoil",
+        "b": "shy away",
+        "c": "accept",
+        "d": "hesitate"
+      },
+      "one_liner": "Antonyms of 'balk' include 'accept' and 'agree', both suggesting a willingness to proceed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'offal':",
+      "options": {
+        "a": "gourmet",
+        "b": "variety meats",
+        "c": "delicacy",
+        "d": "produce"
+      },
+      "one_liner": "'Offal' refers to the entrails and internal organs of an animal used as food, similar to 'variety meats'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

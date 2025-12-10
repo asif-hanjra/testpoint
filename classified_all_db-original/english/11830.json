@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'faddish':",
+      "options": {
+        "a": "classic",
+        "b": "trendy",
+        "c": "timeless",
+        "d": "enduring"
+      },
+      "one_liner": "'Faddish' describes something that is popular for a short time, similar to 'trendy' or 'in vogue'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

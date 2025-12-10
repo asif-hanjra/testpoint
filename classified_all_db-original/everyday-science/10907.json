@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where does nutrient-rich blood go for processing after absorption in the small intestine?",
+      "options": {
+        "a": "Gallbladder",
+        "b": "Liver",
+        "c": "Stomach",
+        "d": "Large intestine"
+      },
+      "one_liner": "After absorption in the small intestine, nutrient-rich blood goes to the liver for processing, where harmful substances are filtered out.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

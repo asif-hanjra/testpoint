@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which border does Lake Superior lie?",
+      "options": {
+        "a": "Canada and USA",
+        "b": "Canada and Russia",
+        "c": "USA and Mexico",
+        "d": "Canada and Greenland"
+      },
+      "one_liner": "Lake Superior lies on the border of **Canada and the USA**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

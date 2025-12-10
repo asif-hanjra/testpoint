@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Both parties must adhere ___ the terms of the contract.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "Both parties must adhere 'to' the terms of the contract.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

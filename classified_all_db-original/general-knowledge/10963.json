@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Montenegro become a member of the United Nations Organization?",
+      "options": {
+        "a": "1999",
+        "b": "2001",
+        "c": "2006",
+        "d": "2010"
+      },
+      "one_liner": "Montenegro became a member of the United Nations Organization in **2006**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

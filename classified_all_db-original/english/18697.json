@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ephemeral':",
+      "options": {
+        "a": "enduring",
+        "b": "transitory",
+        "c": "perpetual",
+        "d": "eternal"
+      },
+      "one_liner": "'Ephemeral' means short-lived or fleeting, similar to 'transitory'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

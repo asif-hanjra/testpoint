@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the two main seasons in Pakistan?",
+      "options": {
+        "a": "Summer and Winter",
+        "b": "Monsoon and Dry",
+        "c": "Spring and Autumn",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan mainly experiences a **monsoon season with frequent flooding** and a **dry season with little or no rainfall**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

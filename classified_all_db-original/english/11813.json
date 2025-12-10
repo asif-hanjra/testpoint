@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was meditating ___ the problem.",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "at",
+        "d": "with"
+      },
+      "one_liner": "He was meditating 'on' the problem.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

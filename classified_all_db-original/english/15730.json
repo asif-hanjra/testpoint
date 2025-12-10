@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bilk':",
+      "options": {
+        "a": "reward",
+        "b": "swindle",
+        "c": "honor",
+        "d": "praise"
+      },
+      "one_liner": "'Bilk' means to cheat or defraud, similar to 'swindle' or 'con'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

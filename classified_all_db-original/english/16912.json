@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "My computer tends to _______ whenever I have an important meeting.",
+      "options": {
+        "a": "bring up",
+        "b": "act up",
+        "c": "take off",
+        "d": "run out"
+      },
+      "one_liner": "My computer tends to 'act up' whenever I have an important meeting.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

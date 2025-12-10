@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What new right did the Indian Councils Act, 1861 grant to the councils regarding financial matters?",
+      "options": {
+        "a": "Pass the budget",
+        "b": "Discuss the annual financial statement",
+        "c": "Impose new taxes",
+        "d": "None of these"
+      },
+      "one_liner": "The Indian Councils Act, 1861 allowed the councils to **discuss each year's annual financial statement**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Indian Councils Act (1892)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Indian Councils Act (1892)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

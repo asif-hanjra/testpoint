@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "DUCKSTER : GANGSTER :: CRIME : ________?",
+      "options": {
+        "a": "Duck",
+        "b": "Police",
+        "c": "Policeman",
+        "d": "Robber"
+      },
+      "one_liner": "A gangster commits crimes, and a policeman deals with crime. A duckster is not a standard term.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

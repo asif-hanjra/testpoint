@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'charter':",
+      "options": {
+        "a": "grant",
+        "b": "revoke",
+        "c": "approve",
+        "d": "endorse"
+      },
+      "one_liner": "An antonym for 'charter' as a document granting rights would be 'revoke', which means to take back or cancel.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'neuralgia':",
+      "options": {
+        "a": "muscle pain",
+        "b": "neuritis",
+        "c": "bone ache",
+        "d": "skin irritation"
+      },
+      "one_liner": "'Neuralgia' refers to nerve pain, which is synonymous with 'neuritis' and 'nerve ache'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

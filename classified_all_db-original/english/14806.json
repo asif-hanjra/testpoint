@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'distract':",
+      "options": {
+        "a": "divert",
+        "b": "sidetrack",
+        "c": "engage",
+        "d": "focus"
+      },
+      "one_liner": "Antonyms of 'distract' include 'focus' and 'concentrate', both implying directing attention to a task.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

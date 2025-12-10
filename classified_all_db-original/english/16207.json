@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'cry over spilt milk' mean?",
+      "options": {
+        "a": "To cry when you are hungry",
+        "b": "To express regret over something that has already happened and cannot be changed",
+        "c": "To be extremely upset over a minor issue",
+        "d": "To literally cry over milk that has been spilled"
+      },
+      "one_liner": "The idiom 'cry over spilt milk' means to express regret over something that has already happened and cannot be changed, implying that it is pointless to be upset about past events.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

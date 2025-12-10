@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who formally opened the Sydney Opera House and when?",
+      "options": {
+        "a": "Queen Victoria in 1889",
+        "b": "Queen Elizabeth II in 1973",
+        "c": "Peter Hall in 1975",
+        "d": "None of these"
+      },
+      "one_liner": "Queen Elizabeth II formally opened the Sydney Opera House on **20 October 1973**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Sydney Opera House",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Eiffel Tower",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

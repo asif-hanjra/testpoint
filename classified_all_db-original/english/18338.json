@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'perpetual':",
+      "options": {
+        "a": "endless",
+        "b": "transitory",
+        "c": "eternal",
+        "d": "unending"
+      },
+      "one_liner": "The word 'perpetual' suggests continuity, whereas 'transitory' implies something is temporary.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

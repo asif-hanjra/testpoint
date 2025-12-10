@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fair':",
+      "options": {
+        "a": "just",
+        "b": "equitable",
+        "c": "unfair",
+        "d": "impartial"
+      },
+      "one_liner": "An antonym of 'fair' is 'unfair', which means not just or equitable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

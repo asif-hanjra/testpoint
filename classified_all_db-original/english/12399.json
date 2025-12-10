@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'eminent':",
+      "options": {
+        "a": "obscure",
+        "b": "distinguished",
+        "c": "unknown",
+        "d": "ordinary"
+      },
+      "one_liner": "'Eminent' refers to a person who is famous and respected within a particular sphere or profession, similar to 'distinguished'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

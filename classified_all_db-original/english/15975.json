@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'philanthropist':",
+      "options": {
+        "a": "opponent",
+        "b": "benefactor",
+        "c": "adversary",
+        "d": "competitor"
+      },
+      "one_liner": "'Philanthropist' refers to a person who seeks to promote the welfare of others, similar to a 'benefactor'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

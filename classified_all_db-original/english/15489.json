@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'frail':",
+      "options": {
+        "a": "weak",
+        "b": "strong",
+        "c": "delicate",
+        "d": "feeble"
+      },
+      "one_liner": "An antonym of 'frail' is 'strong', indicating physical strength or sturdiness.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Clouds are scattered ___ the sky.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "over"
+      },
+      "one_liner": "Clouds are scattered 'in' the sky.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

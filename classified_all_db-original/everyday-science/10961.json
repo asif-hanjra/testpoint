@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the key feature of the model of the universe proposed by Nicolaus Copernicus?",
+      "options": {
+        "a": "Earth at the center",
+        "b": "Sun at the center",
+        "c": "Moon at the center",
+        "d": "None of these"
+      },
+      "one_liner": "The most significant aspect of Copernicus's model was that it placed the **Sun at the center of the universe instead of the Earth**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which sub-headline from the Los Angeles Times article suggests uncertainty in Berlin's response to Tokyo after the bombing of Hawaii?",
+      "options": {
+        "a": "Fleet Speeds Out to Battle Invader",
+        "b": "Berlin Shy to Tokyo",
+        "c": "Toll Feared Against Isles",
+        "d": "City Springs to Attention"
+      },
+      "one_liner": "The Los Angeles Times sub-headline 'Berlin Shy to Tokyo' suggests uncertainty in Berlin's response to Tokyo after the bombing of Hawaii.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

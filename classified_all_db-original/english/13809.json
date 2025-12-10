@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ragged':",
+      "options": {
+        "a": "messy",
+        "b": "torn",
+        "c": "neat",
+        "d": "shabby"
+      },
+      "one_liner": "The antonym of 'ragged' is 'neat', which means tidy and in good order.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

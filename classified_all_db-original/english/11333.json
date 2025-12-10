@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'contraband':",
+      "options": {
+        "a": "lawful",
+        "b": "forbidden",
+        "c": "prohibited",
+        "d": "banned"
+      },
+      "one_liner": "The antonym of 'contraband' would be 'lawful' goods, which are permitted by law.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

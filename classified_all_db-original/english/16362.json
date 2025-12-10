@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ghastly':",
+      "options": {
+        "a": "frightening",
+        "b": "terrifying",
+        "c": "delightful",
+        "d": "horrific"
+      },
+      "one_liner": "The antonym of 'ghastly', which means causing great horror, would be 'delightful', indicating something very pleasant.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'active':",
+      "options": {
+        "a": "energetic",
+        "b": "lively",
+        "c": "inactive",
+        "d": "vigorous"
+      },
+      "one_liner": "The opposite of 'active' is 'inactive', which means not engaging in or involving much physical activity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

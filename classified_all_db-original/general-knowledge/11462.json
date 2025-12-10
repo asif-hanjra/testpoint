@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is the currency of Brazil?",
+      "options": {
+        "a": "Brazilian real",
+        "b": "Brunei dollar",
+        "c": "Bulgarian lev",
+        "d": "Belarusian ruble"
+      },
+      "one_liner": "Brazil uses the **Brazilian real** as its currency.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

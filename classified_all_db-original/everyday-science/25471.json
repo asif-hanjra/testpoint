@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered the neutron?",
+      "options": {
+        "a": "James Chadwick",
+        "b": "Ernest Rutherford",
+        "c": "J.J. Thomson",
+        "d": "Marie Curie"
+      },
+      "one_liner": "The neutron was discovered by **James Chadwick**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

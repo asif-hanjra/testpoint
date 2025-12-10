@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: We are warning you for the last time.",
+      "options": {
+        "a": "You are warned by us for the last time.",
+        "b": "You are being warned by us for the last time.",
+        "c": "You had been warned by us for the last time.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

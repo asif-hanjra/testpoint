@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lethargy':",
+      "options": {
+        "a": "torpor",
+        "b": "stupor",
+        "c": "vitality",
+        "d": "inertia"
+      },
+      "one_liner": "The opposite of 'lethargy' is 'vitality' or 'energy', which denotes liveliness and dynamism.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bizarre':",
+      "options": {
+        "a": "outlandish:mundane",
+        "b": "typical:unusual",
+        "c": "strange:ordinary",
+        "d": "familiar:peculiar"
+      },
+      "one_liner": "'Outlandish' is a synonym of 'bizarre', while 'mundane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

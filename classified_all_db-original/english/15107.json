@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The Ph.D. degree was conferred ___ him at the convocation.",
+      "options": {
+        "a": "to",
+        "b": "on",
+        "c": "for",
+        "d": "upon"
+      },
+      "one_liner": "The Ph.D. degree was conferred 'on' him at the convocation.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which two continents is the Red Sea located?",
+      "options": {
+        "a": "Europe and Asia",
+        "b": "Africa and Asia",
+        "c": "Africa and Europe",
+        "d": "Asia and Australia"
+      },
+      "one_liner": "The Red Sea is geographically situated between the continents of **Africa and Asia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

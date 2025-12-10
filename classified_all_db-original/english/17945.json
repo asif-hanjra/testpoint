@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "No one is ready ___ help me. I have to do everything by myself.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "with",
+        "d": "at"
+      },
+      "one_liner": "No one is ready 'to' help me.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

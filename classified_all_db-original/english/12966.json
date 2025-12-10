@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'compress':",
+      "options": {
+        "a": "squeeze:inflate",
+        "b": "shrink:stretch",
+        "c": "narrow:broaden",
+        "d": "condense:enlarge"
+      },
+      "one_liner": "'Squeeze' is a synonym of 'compress', while 'inflate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

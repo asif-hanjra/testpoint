@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the old name of Japan?",
+      "options": {
+        "a": "Nippon",
+        "b": "Yamato",
+        "c": "Edo",
+        "d": "None of these"
+      },
+      "one_liner": "The country now known as Japan was formerly called **Nippon**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

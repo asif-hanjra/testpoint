@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'promptly':",
+      "options": {
+        "a": "instantly:later",
+        "b": "quickly:immediately",
+        "c": "soon:now",
+        "d": "swiftly:promptly"
+      },
+      "one_liner": "'Instantly' is a synonym of 'promptly', while 'later' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

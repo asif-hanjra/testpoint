@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fortuitous':",
+      "options": {
+        "a": "intentional",
+        "b": "serendipitous",
+        "c": "planned",
+        "d": "deliberate"
+      },
+      "one_liner": "'Fortuitous' means happening by chance, similar to 'serendipitous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

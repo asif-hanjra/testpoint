@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'disagree':",
+      "options": {
+        "a": "agree",
+        "b": "clash",
+        "c": "oppose",
+        "d": "dispute"
+      },
+      "one_liner": "The opposite of 'disagree' is 'agree', which means to share the same opinion or viewpoint.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'misogynist':",
+      "options": {
+        "a": "feminist",
+        "b": "woman-hater",
+        "c": "egalitarian",
+        "d": "philanthropist"
+      },
+      "one_liner": "'Misogynist' refers to someone who dislikes or is prejudiced against women, similar to a 'woman-hater'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Kofi Annan, who served as Secretary General of the United Nations, was a citizen of which country?",
+      "options": {
+        "a": "Nigeria",
+        "b": "Ghana",
+        "c": "Kenya",
+        "d": "South Africa"
+      },
+      "one_liner": "Kofi Annan, the former Secretary General of the United Nations, was from **Ghana**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

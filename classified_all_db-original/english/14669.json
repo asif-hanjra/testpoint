@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'frightened':",
+      "options": {
+        "a": "calm",
+        "b": "terrified",
+        "c": "brave",
+        "d": "confident"
+      },
+      "one_liner": "'Frightened' means feeling fear, similar to being 'terrified' or 'scared'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

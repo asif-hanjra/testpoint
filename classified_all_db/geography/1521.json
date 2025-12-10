@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which languages are primarily spoken in Latin America?",
+      "options": {
+        "a": "Spanish, Portuguese, and French",
+        "b": "English and German",
+        "c": "Chinese and Japanese",
+        "d": "Hindi and Urdu"
+      },
+      "one_liner": "Latin America is mainly defined by the widespread use of **Spanish, Portuguese, and French**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Latin America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Latin America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

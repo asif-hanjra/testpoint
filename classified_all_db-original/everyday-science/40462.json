@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the blood vessels called that are only one cell thick?",
+      "options": {
+        "a": "Arteries",
+        "b": "Veins",
+        "c": "Capillaries",
+        "d": "None of these"
+      },
+      "one_liner": "The blood vessels that are only one cell thick are known as **Capillaries**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

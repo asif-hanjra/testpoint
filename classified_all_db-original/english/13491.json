@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'apathy':",
+      "options": {
+        "a": "indifference:passion",
+        "b": "disinterest:concern",
+        "c": "neglect:enthusiasm",
+        "d": "unconcern:interest"
+      },
+      "one_liner": "'Indifference' is a synonym of 'apathy', while 'passion' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

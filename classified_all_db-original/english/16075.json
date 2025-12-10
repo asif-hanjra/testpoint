@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'credulous':",
+      "options": {
+        "a": "gullible:skeptical",
+        "b": "naive:trusting",
+        "c": "believing:doubtful",
+        "d": "trusting:wary"
+      },
+      "one_liner": "'Gullible' is a synonym for 'credulous', while 'skeptical' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

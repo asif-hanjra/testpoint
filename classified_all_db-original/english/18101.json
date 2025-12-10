@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prevaricate':",
+      "options": {
+        "a": "hedge:disclose",
+        "b": "mislead:reveal",
+        "c": "equivocate:clarify",
+        "d": "obfuscate:elucidate"
+      },
+      "one_liner": "'Hedge' is a synonym of 'prevaricate', while 'disclose' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

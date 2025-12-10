@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exude':",
+      "options": {
+        "a": "display",
+        "b": "radiate",
+        "c": "reveal",
+        "d": "conceal"
+      },
+      "one_liner": "The antonym of 'exude', which means to display abundantly, would be 'conceal', meaning to hide or keep from sight.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

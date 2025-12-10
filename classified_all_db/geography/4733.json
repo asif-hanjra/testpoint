@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the second largest mountain range in the world after the Andes?",
+      "options": {
+        "a": "Alps",
+        "b": "Rocky Mountains",
+        "c": "Himalayan Mountain range",
+        "d": "Atlas Mountains"
+      },
+      "one_liner": "The **Himalayan Mountain range** is the second largest in the world after the Andes.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Andes Mountains",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Andes Mountains",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

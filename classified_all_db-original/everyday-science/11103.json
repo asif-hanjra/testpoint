@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens to the stoma in the epidermis of leaves when guard cells lose water?",
+      "options": {
+        "a": "It opens",
+        "b": "It closes",
+        "c": "It enlarges",
+        "d": "None of these"
+      },
+      "one_liner": "When guard cells lose water, the stoma in the leaf epidermis closes to prevent further water loss, making **closure** the correct answer.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

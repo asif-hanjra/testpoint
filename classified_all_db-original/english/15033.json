@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'A picture paints a thousand words' imply?",
+      "options": {
+        "a": "A photograph can be sold for a lot of money",
+        "b": "A complex idea can be conveyed with just a single image",
+        "c": "An artist can create a painting very quickly",
+        "d": "A story about a picture can be very long"
+      },
+      "one_liner": "The idiom 'A picture paints a thousand words' suggests that a complex idea can be conveyed with just a single image, often making an explanation unnecessary.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

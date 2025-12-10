@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "LEFT : RIGHT :: EAST : ________?",
+      "options": {
+        "a": "North",
+        "b": "South",
+        "c": "West",
+        "d": "Up"
+      },
+      "one_liner": "Left is opposite to right, just as east is opposite to west.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

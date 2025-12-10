@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'limp':",
+      "options": {
+        "a": "floppy:taut",
+        "b": "stiff:flaccid",
+        "c": "rigid:slack",
+        "d": "solid:loose"
+      },
+      "one_liner": "'Floppy' is a synonym of 'limp', while 'taut' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

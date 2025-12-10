@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'false alarm' refer to?",
+      "options": {
+        "a": "A malfunctioning alarm system",
+        "b": "A warning that is unnecessary as the danger is not real",
+        "c": "An alarm that goes off at the wrong time",
+        "d": "A new trend that is gaining popularity"
+      },
+      "one_liner": "The idiom 'false alarm' refers to a situation where a warning is given, but the perceived danger or problem does not actually exist.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

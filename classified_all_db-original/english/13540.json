@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'usurp':",
+      "options": {
+        "a": "yield",
+        "b": "seize",
+        "c": "surrender",
+        "d": "give"
+      },
+      "one_liner": "'Usurp' means to take power or control unlawfully or with force, a synonym could be 'seize'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which technological advancement was introduced by the Mughals during the First Battle of Panipat?",
+      "options": {
+        "a": "Cavalry charges",
+        "b": "Gunpowder firearms and field artillery",
+        "c": "Elephant warfare",
+        "d": "Naval warfare"
+      },
+      "one_liner": "The Mughals introduced **gunpowder firearms and field artillery** to the Indian subcontinent during the First Battle of Panipat.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

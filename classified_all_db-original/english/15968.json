@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'calisthenics':",
+      "options": {
+        "a": "training:idleness",
+        "b": "activity:lethargy",
+        "c": "workout:exercise",
+        "d": "fitness:health"
+      },
+      "one_liner": "'Exercise' is a synonym of 'calisthenics', while 'idleness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

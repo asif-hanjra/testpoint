@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'devilish':",
+      "options": {
+        "a": "angelic",
+        "b": "diabolical",
+        "c": "holy",
+        "d": "benevolent"
+      },
+      "one_liner": "'Devilish' behavior is often described as 'diabolical' or 'fiendish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

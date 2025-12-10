@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the original name of Sher Shah Suri?",
+      "options": {
+        "a": "Farid",
+        "b": "Sher Ali",
+        "c": "Nasiruddin",
+        "d": "Qutbuddin"
+      },
+      "one_liner": "The original name of Sher Shah Suri was **Farid**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

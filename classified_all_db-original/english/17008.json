@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impair':",
+      "options": {
+        "a": "enhance",
+        "b": "hinder",
+        "c": "improve",
+        "d": "aid"
+      },
+      "one_liner": "'Impair' means to weaken or damage something—words like 'hinder' and 'hamper' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

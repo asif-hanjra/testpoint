@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'approbation':",
+      "options": {
+        "a": "sanction:censure",
+        "b": "approval:commendation",
+        "c": "praise:acceptance",
+        "d": "endorsement:admiration"
+      },
+      "one_liner": "'Sanction' is a synonym of 'approbation', while 'censure' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

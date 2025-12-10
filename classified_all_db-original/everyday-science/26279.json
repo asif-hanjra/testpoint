@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which vitamin deficiency causes night blindness?",
+      "options": {
+        "a": "Vitamin A (Retinol)",
+        "b": "Vitamin B1 (Thiamine)",
+        "c": "Vitamin D (Calciferol)",
+        "d": "Vitamin C (Ascorbic acid)"
+      },
+      "one_liner": "Night blindness is caused by a deficiency of **Vitamin A (Retinol)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

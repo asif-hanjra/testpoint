@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What condition is caused by iron deficiency in the human body?",
+      "options": {
+        "a": "Anaemia",
+        "b": "Diabetes",
+        "c": "Scurvy",
+        "d": "Rickets"
+      },
+      "one_liner": "Iron deficiency in the human body leads to the development of **Anaemia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

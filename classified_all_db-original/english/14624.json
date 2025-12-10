@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'servile':",
+      "options": {
+        "a": "obedient",
+        "b": "submissive",
+        "c": "authoritative",
+        "d": "compliant"
+      },
+      "one_liner": "An antonym of 'servile' is 'authoritative', which implies having the confident quality of someone who is in control or commands others.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

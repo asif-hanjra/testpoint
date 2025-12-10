@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'qualm':",
+      "options": {
+        "a": "certainty",
+        "b": "misgiving",
+        "c": "confidence",
+        "d": "assurance"
+      },
+      "one_liner": "'Qualm' refers to a feeling of doubt or uncertainty, similar to 'misgiving'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

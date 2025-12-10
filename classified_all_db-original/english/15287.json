@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'concrete':",
+      "options": {
+        "a": "abstract",
+        "b": "solid",
+        "c": "real",
+        "d": "specific"
+      },
+      "one_liner": "The antonym of 'concrete', which means definite or real, is 'abstract', referring to something not physical or concrete.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

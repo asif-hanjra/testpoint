@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "BEDROCK : CEMENT :: FOUNDATION : ________?",
+      "options": {
+        "a": "Water",
+        "b": "Brick",
+        "c": "Roof",
+        "d": "Paint"
+      },
+      "one_liner": "Bedrock is a foundational layer, like cement; a foundation is the base of a structure, but water is not typically a foundation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

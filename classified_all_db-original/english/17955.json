@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'noisy':",
+      "options": {
+        "a": "loud",
+        "b": "deafening",
+        "c": "quiet",
+        "d": "thunderous"
+      },
+      "one_liner": "The opposite of 'noisy' is 'quiet', which means making little or no noise.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

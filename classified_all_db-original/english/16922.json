@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prodigy':",
+      "options": {
+        "a": "savant:underachiever",
+        "b": "novice:expert",
+        "c": "beginner:master",
+        "d": "amateur:virtuoso"
+      },
+      "one_liner": "'Savant' is a synonym for 'prodigy', while 'underachiever' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

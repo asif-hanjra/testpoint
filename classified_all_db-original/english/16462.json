@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I don't mind ___ drive if you are tired.",
+      "options": {
+        "a": "to",
+        "b": "-",
+        "c": "for",
+        "d": "at"
+      },
+      "one_liner": "I don't mind 'driving' if you are tired.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why does the colour of the ocean appear blue?",
+      "options": {
+        "a": "Because of the reflection of the sky",
+        "b": "Because of the presence of blue algae",
+        "c": "Because sunlight falling on it is scattered",
+        "d": "None of these"
+      },
+      "one_liner": "The ocean appears blue because sunlight falling on it is **scattered**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

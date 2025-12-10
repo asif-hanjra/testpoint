@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin abbreviation 'i.e.' (id est) stand for in English?",
+      "options": {
+        "a": "for example",
+        "b": "that is",
+        "c": "in other words",
+        "d": "and so forth"
+      },
+      "one_liner": "The abbreviation 'i.e.' stands for 'that is' or 'in other words', used to clarify or restate something more simply.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

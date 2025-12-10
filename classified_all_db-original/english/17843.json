@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'antithesis':",
+      "options": {
+        "a": "opposition:agreement",
+        "b": "contrast:similarity",
+        "c": "contrary:equivalence",
+        "d": "reverse:same"
+      },
+      "one_liner": "'Opposition' is a synonym of 'antithesis', while 'agreement' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

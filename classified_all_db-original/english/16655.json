@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'verdant':",
+      "options": {
+        "a": "lush:barren",
+        "b": "fertile:desolate",
+        "c": "green:flourishing",
+        "d": "bountiful:arid"
+      },
+      "one_liner": "'Fertile' is a synonym of 'verdant', while 'desolate' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which waves are also known as secondary or shear waves?",
+      "options": {
+        "a": "S waves",
+        "b": "P waves",
+        "c": "Surface waves",
+        "d": "None of these"
+      },
+      "one_liner": "S waves are also known as **secondary waves or shear waves**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Earthquake Waves / Seismic Waves",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Earthquake Waves / Seismic Waves",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

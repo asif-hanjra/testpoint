@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The snake was killed ___ the farmer.",
+      "options": {
+        "a": "with",
+        "b": "by",
+        "c": "from",
+        "d": "at"
+      },
+      "one_liner": "The snake was killed 'by' the farmer.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

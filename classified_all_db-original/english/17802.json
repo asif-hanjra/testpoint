@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'awkward':",
+      "options": {
+        "a": "clumsy",
+        "b": "graceful",
+        "c": "ungainly",
+        "d": "awkward"
+      },
+      "one_liner": "Antonyms of 'awkward' include 'graceful' and 'elegant', both suggesting smoothness and ease.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

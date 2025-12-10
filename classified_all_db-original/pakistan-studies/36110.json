@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the status of Bahawalpur immediately before the formation of One Unit in West Pakistan?",
+      "options": {
+        "a": "District",
+        "b": "Province",
+        "c": "Division",
+        "d": "None of these"
+      },
+      "one_liner": "Before the formation of One Unit in West Pakistan, Bahawalpur held the status of a **province**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

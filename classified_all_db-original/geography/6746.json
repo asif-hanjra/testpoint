@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year and location was Pakistan's first gas field discovered?",
+      "options": {
+        "a": "1952, Sui",
+        "b": "1960, Quetta",
+        "c": "1947, Karachi",
+        "d": "1955, Gwadar"
+      },
+      "one_liner": "Pakistan's first gas field was discovered in **1952 in Sui, Balochistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

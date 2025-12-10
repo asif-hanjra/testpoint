@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'after':",
+      "options": {
+        "a": "before",
+        "b": "subsequent",
+        "c": "prior",
+        "d": "preceding"
+      },
+      "one_liner": "'After' means following in time or sequence; 'subsequent' is a synonym that conveys a similar concept.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'censure':",
+      "options": {
+        "a": "rebuke:endorse",
+        "b": "condemn:compliment",
+        "c": "criticize:approve",
+        "d": "disapprove:praise"
+      },
+      "one_liner": "'Rebuke' is a synonym of 'censure', while 'endorse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

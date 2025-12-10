@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I like ___ meet my friends but sometimes I like to be by myself.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "for",
+        "d": "with"
+      },
+      "one_liner": "I like 'to' meet my friends but sometimes I like to be by myself.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

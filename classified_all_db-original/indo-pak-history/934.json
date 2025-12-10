@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two rivers border the Sindh Sagar Doab in Punjab province?",
+      "options": {
+        "a": "Indus and Chenab",
+        "b": "Indus and Jhelum",
+        "c": "Jhelum and Ravi",
+        "d": "Chenab and Ravi"
+      },
+      "one_liner": "The Sindh Sagar Doab in Punjab lies between the **Indus** and **Jhelum** rivers.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

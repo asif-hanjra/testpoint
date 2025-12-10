@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'fender bender' refer to?",
+      "options": {
+        "a": "A musical performance",
+        "b": "A minor car accident",
+        "c": "A heated argument",
+        "d": "Fixing a vehicle"
+      },
+      "one_liner": "The idiom 'fender bender' refers to a minor car accident that typically results in small damages to the vehicles involved.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

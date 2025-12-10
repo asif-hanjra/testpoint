@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two oceans are connected by the Panama Canal?",
+      "options": {
+        "a": "Atlantic and Indian Oceans",
+        "b": "Atlantic and Pacific Oceans",
+        "c": "Pacific and Arctic Oceans",
+        "d": "Indian and Pacific Oceans"
+      },
+      "one_liner": "The Panama Canal serves as a vital waterway linking the **Atlantic and Pacific Oceans**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

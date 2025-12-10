@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Some of the dust stays ___ the furniture.",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "Some of the dust stays 'on' the furniture.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

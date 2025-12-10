@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the duration of Noor-ul-Amin's tenure as Prime Minister of Pakistan?",
+      "options": {
+        "a": "1 month",
+        "b": "13 days",
+        "c": "6 months",
+        "d": "None of these"
+      },
+      "one_liner": "Noor-ul-Amin served as Prime Minister of Pakistan for only **13 days**, making his tenure the shortest in the country's history.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Middle Eastern country shares a coastline with the Mediterranean Sea along with Turkey, Lebanon, and Israel?",
+      "options": {
+        "a": "Jordan",
+        "b": "Syria",
+        "c": "Iraq",
+        "d": "Saudi Arabia"
+      },
+      "one_liner": "**Syria** is a Middle Eastern country that shares a coastline with the Mediterranean Sea, along with Turkey, Lebanon, and Israel.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

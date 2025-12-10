@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct punctuation: History it has been said is the essence of innumerable biographies.",
+      "options": {
+        "a": "History, it has been said is the essence of innumerable biographies.",
+        "b": "History , it has been said, is the essence of innumerable biographies.",
+        "c": "History it has been said, is the essence of innumerable biographies.",
+        "d": "History, it has been said is the essence of innumerable, biographies."
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

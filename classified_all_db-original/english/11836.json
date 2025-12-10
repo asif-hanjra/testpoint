@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fallacious':",
+      "options": {
+        "a": "deceptive",
+        "b": "illogical",
+        "c": "valid",
+        "d": "misleading"
+      },
+      "one_liner": "Antonyms of 'fallacious' include 'valid' and 'sound', both implying logical correctness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

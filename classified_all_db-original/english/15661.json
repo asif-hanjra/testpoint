@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'comprehend':",
+      "options": {
+        "a": "ignore",
+        "b": "apprehend",
+        "c": "neglect",
+        "d": "overlook"
+      },
+      "one_liner": "'Comprehend' means to understand or grasp concepts, much like 'apprehend' does.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'clear':",
+      "options": {
+        "a": "evident:ambiguous",
+        "b": "obvious:transparent",
+        "c": "lucid:opaque",
+        "d": "distinct:cloudy"
+      },
+      "one_liner": "'Evident' is a synonym of 'clear', while 'ambiguous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

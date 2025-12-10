@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "FETA : GREEK :: PROVOLONE : ________?",
+      "options": {
+        "a": "French",
+        "b": "Swiss",
+        "c": "Italian",
+        "d": "Spanish"
+      },
+      "one_liner": "Feta cheese is Greek, just as Provolone cheese is Italian.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mobile':",
+      "options": {
+        "a": "stationary",
+        "b": "portable",
+        "c": "fixed",
+        "d": "immobile"
+      },
+      "one_liner": "'Mobile' can mean capable of moving or being moved, similar to 'portable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

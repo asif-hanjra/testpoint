@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You have no one ___ blame for the trouble except themselves.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "for",
+        "d": "with"
+      },
+      "one_liner": "You have no one 'to' blame for the trouble except themselves.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'supplant':",
+      "options": {
+        "a": "displace:sustain",
+        "b": "overthrow:uphold",
+        "c": "usurp:retain",
+        "d": "replace:preserve"
+      },
+      "one_liner": "'Displace' is a synonym of 'supplant', while 'sustain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

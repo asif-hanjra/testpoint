@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He has learnt all stories ___ heart.",
+      "options": {
+        "a": "at",
+        "b": "by",
+        "c": "in",
+        "d": "with"
+      },
+      "one_liner": "He has learnt all stories 'by' heart.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hallucinate':",
+      "options": {
+        "a": "perceive",
+        "b": "dream",
+        "c": "envision",
+        "d": "delude"
+      },
+      "one_liner": "The antonym of 'hallucinate' is 'perceive', which means to become aware of something through the senses, as opposed to experiencing something that isn't there.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

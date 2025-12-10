@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the power station of the Neelum-Jhelum Hydropower Project located?",
+      "options": {
+        "a": "Skardu",
+        "b": "Muzaffarabad",
+        "c": "Peshawar",
+        "d": "Islamabad"
+      },
+      "one_liner": "The power station of the Neelum-Jhelum Hydropower Project is located near **Muzaffarabad**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

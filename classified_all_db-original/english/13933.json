@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nervous':",
+      "options": {
+        "a": "calm",
+        "b": "anxious",
+        "c": "relaxed",
+        "d": "peaceful"
+      },
+      "one_liner": "'Nervous' means feeling anxious or apprehensive, similar to 'anxious' and 'edgy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'goodwink':",
+      "options": {
+        "a": "smirk",
+        "b": "wink",
+        "c": "nod",
+        "d": "none of the above"
+      },
+      "one_liner": "'Goodwink' is not a standard English word, so it does not have a synonym.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

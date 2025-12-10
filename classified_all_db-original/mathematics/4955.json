@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Maclaurin’s series expansion of cosx is ______?",
+      "options": {
+        "a": "cosx = 1 + x²/2!+x⁴/4!-x⁶/6! + ...",
+        "b": "cosx = 1 - x²/2!+x⁴/4!-x⁶/6! + ...",
+        "c": "cosx = 1 - x²/2!+x⁴/4!-x⁶/6! - ...",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

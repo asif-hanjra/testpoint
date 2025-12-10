@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conflict':",
+      "options": {
+        "a": "dispute:accord",
+        "b": "clash:concord",
+        "c": "war:peace",
+        "d": "battle:harmony"
+      },
+      "one_liner": "'Dispute' is a synonym for 'conflict', while 'accord' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

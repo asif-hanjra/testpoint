@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'demolish':",
+      "options": {
+        "a": "destroy",
+        "b": "raze",
+        "c": "construct",
+        "d": "wreck"
+      },
+      "one_liner": "The antonym of 'demolish' is 'construct', which means to build or assemble.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

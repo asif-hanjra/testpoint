@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which decade of life does a person generally achieve maximum bone density?",
+      "options": {
+        "a": "Teens",
+        "b": "20s",
+        "c": "30s",
+        "d": "40s"
+      },
+      "one_liner": "Maximum bone density is usually achieved in the **30s**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

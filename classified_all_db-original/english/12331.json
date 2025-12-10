@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'zephyr':",
+      "options": {
+        "a": "gale",
+        "b": "breeze",
+        "c": "draft",
+        "d": "whiff"
+      },
+      "one_liner": "An antonym for 'zephyr', which means a gentle breeze, would be 'gale', indicating a much stronger wind.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

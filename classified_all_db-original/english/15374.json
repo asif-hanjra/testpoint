@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mysterious':",
+      "options": {
+        "a": "transparent",
+        "b": "cryptic",
+        "c": "arcane",
+        "d": "occult"
+      },
+      "one_liner": "While 'mysterious' suggests something is hidden or unknown, 'transparent' implies clarity and ease of understanding.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

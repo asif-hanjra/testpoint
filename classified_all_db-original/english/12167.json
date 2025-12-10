@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'manage':",
+      "options": {
+        "a": "neglect",
+        "b": "administer",
+        "c": "ignore",
+        "d": "overlook"
+      },
+      "one_liner": "'Manage' means to handle or control something effectively, similar to 'administer' or 'oversee'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

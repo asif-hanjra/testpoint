@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'slander':",
+      "options": {
+        "a": "defamation:commendation",
+        "b": "vilification:approval",
+        "c": "calumny:commendation",
+        "d": "libel:praise"
+      },
+      "one_liner": "'Calumny' is a synonym for 'slander', while 'commendation' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

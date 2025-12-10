@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the 17-member bench of the Supreme Court declare the NRO null and void?",
+      "options": {
+        "a": "16 December 2009",
+        "b": "14 August 2008",
+        "c": "5 July 1977",
+        "d": "12 October 1999"
+      },
+      "one_liner": "The Supreme Court's 17-member bench declared the NRO null and void on **16 December 2009**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

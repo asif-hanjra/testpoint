@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'wary':",
+      "options": {
+        "a": "cautious:incautious",
+        "b": "vigilant:careless",
+        "c": "mindful:heedless",
+        "d": "attentive:negligent"
+      },
+      "one_liner": "'Cautious' is a synonym of 'wary', while 'incautious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

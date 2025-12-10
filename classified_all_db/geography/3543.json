@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the most substantial mountain range in Australia?",
+      "options": {
+        "a": "Great Dividing Range",
+        "b": "Himalayas",
+        "c": "Andes",
+        "d": "Rocky Mountains"
+      },
+      "one_liner": "Australia's most substantial mountain range is the **Great Dividing Range**, also known as the Eastern Highlands.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

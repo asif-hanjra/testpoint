@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I have many posters ___ the wall above my bed.",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "at",
+        "d": "over"
+      },
+      "one_liner": "I have many posters 'on' the wall above my bed.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

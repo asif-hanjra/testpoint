@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which years did Khawaja Ghulam Farid live?",
+      "options": {
+        "a": "1845-1901",
+        "b": "1928-2006",
+        "c": "1700-1750",
+        "d": "None of these"
+      },
+      "one_liner": "Khawaja Ghulam Farid lived between the years **1845 and 1901**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

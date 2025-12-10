@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'beverage':",
+      "options": {
+        "a": "food",
+        "b": "drink",
+        "c": "snack",
+        "d": "meal"
+      },
+      "one_liner": "'Beverage' refers to any drinkable liquid, similar to 'drink'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

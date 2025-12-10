@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mistrust':",
+      "options": {
+        "a": "distrust",
+        "b": "suspicion",
+        "c": "trust",
+        "d": "doubt"
+      },
+      "one_liner": "The opposite of 'mistrust' is 'trust', which signifies confidence or reliance on someone or something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

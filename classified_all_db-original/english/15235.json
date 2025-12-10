@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'enigma':",
+      "options": {
+        "a": "mystery:explanation",
+        "b": "clarity:conundrum",
+        "c": "puzzle:clarity",
+        "d": "riddle:solution"
+      },
+      "one_liner": "'Puzzle' is a synonym of 'enigma', while 'explanation' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

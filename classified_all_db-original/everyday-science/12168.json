@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the normal blood pressure in millimeters of mercury for a healthy adult?",
+      "options": {
+        "a": "110/70 mmHg",
+        "b": "120/80 mmHg",
+        "c": "130/90 mmHg",
+        "d": "None of these"
+      },
+      "one_liner": "The normal blood pressure for a healthy adult is **120/80 mmHg** when measured in millimeters of mercury.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

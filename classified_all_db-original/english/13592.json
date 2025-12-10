@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Does Aslam know ___ the dinner next week?",
+      "options": {
+        "a": "at",
+        "b": "about",
+        "c": "for",
+        "d": "to"
+      },
+      "one_liner": "Does Aslam know 'about' the dinner next week?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

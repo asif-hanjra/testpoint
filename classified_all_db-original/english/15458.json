@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'leash':",
+      "options": {
+        "a": "freedom",
+        "b": "restraint",
+        "c": "control",
+        "d": "limitation"
+      },
+      "one_liner": "While a 'leash' restricts an animal's movement, 'freedom' allows it to move without constraints.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

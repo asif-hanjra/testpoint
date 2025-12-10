@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'terrible':",
+      "options": {
+        "a": "frightful",
+        "b": "awful",
+        "c": "wonderful",
+        "d": "horrific"
+      },
+      "one_liner": "The word 'terrible' suggests something very bad, so 'wonderful' would be its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

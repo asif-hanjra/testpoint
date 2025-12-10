@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the title of the documentary movie for which Sharmeen Obaid Chinoy won her second Oscar award?",
+      "options": {
+        "a": "Saving Face",
+        "b": "A Girl in the River",
+        "c": "He Named Me Malala",
+        "d": "None of these"
+      },
+      "one_liner": "Sharmeen Obaid Chinoy's second Oscar award was for her documentary movie titled **A Girl in the River**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

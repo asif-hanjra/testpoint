@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "We had a beautiful view ___ the valley in the morning.",
+      "options": {
+        "a": "at",
+        "b": "of",
+        "c": "in",
+        "d": "on"
+      },
+      "one_liner": "We had a beautiful view 'in' the valley in the morning.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'blunder':",
+      "options": {
+        "a": "precision",
+        "b": "gaffe",
+        "c": "accuracy",
+        "d": "success"
+      },
+      "one_liner": "'Blunder' refers to a careless mistake, similar to a 'gaffe' or 'error'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

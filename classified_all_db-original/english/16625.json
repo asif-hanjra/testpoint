@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hallucinate':",
+      "options": {
+        "a": "acknowledge",
+        "b": "fantasize",
+        "c": "recognize",
+        "d": "observe"
+      },
+      "one_liner": "'Hallucinate' means to experience visions or perceptions that are not real, similar to 'fantasize' or 'imagine'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

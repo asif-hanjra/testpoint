@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "We have been waiting here ___ two hours.",
+      "options": {
+        "a": "since",
+        "b": "for",
+        "c": "during",
+        "d": "by"
+      },
+      "one_liner": "We have been waiting here 'for' two hours.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

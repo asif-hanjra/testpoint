@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inimical':",
+      "options": {
+        "a": "adverse:beneficial",
+        "b": "hostile:friendly",
+        "c": "harmful:helpful",
+        "d": "unfriendly:amiable"
+      },
+      "one_liner": "'Adverse' is a synonym of 'inimical', while 'beneficial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is credited with the invention of the artificial heart?",
+      "options": {
+        "a": "Jarvik",
+        "b": "Edison",
+        "c": "Tesla",
+        "d": "Pasteur"
+      },
+      "one_liner": "The artificial heart was invented by **Jarvik**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

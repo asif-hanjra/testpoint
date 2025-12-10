@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was the famous explorer Christopher Columbus originally from?",
+      "options": {
+        "a": "Spain",
+        "b": "Portugal",
+        "c": "Italy",
+        "d": "England"
+      },
+      "one_liner": "Christopher Columbus, the renowned explorer who completed four voyages across the Atlantic Ocean, was originally from **Italy**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

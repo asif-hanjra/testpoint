@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the idea of the Asia Europe Meeting (ASEM) organization initiated?",
+      "options": {
+        "a": "1992",
+        "b": "1994",
+        "c": "1996",
+        "d": "1998"
+      },
+      "one_liner": "The idea of the Asia Europe Meeting (ASEM) organization was initiated in **1994**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

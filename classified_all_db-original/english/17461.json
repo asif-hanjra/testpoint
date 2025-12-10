@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'discourse':",
+      "options": {
+        "a": "silence",
+        "b": "monologue",
+        "c": "dialogue",
+        "d": "solitude"
+      },
+      "one_liner": "'Discourse' refers to written or spoken communication or debate, similar to 'dialogue'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which preposition correctly completes the sentence: 'Two ___ two make four.'?",
+      "options": {
+        "a": "with",
+        "b": "and",
+        "c": "by",
+        "d": "to"
+      },
+      "one_liner": "Two 'and' two make four.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

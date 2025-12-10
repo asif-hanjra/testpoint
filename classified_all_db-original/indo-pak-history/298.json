@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which regions were included in Bengal during the era of the East India Company?",
+      "options": {
+        "a": "Behar, Uresa, and Assam",
+        "b": "Punjab, Sindh, and Kashmir",
+        "c": "Gujarat, Maharashtra, and Rajasthan",
+        "d": "None of these"
+      },
+      "one_liner": "During the era of the East India Company, the regions of **Behar, Uresa, and Assam** were included in Bengal.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

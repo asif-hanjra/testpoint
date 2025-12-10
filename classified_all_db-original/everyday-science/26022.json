@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How is tuberculosis most commonly spread?",
+      "options": {
+        "a": "Contaminated water",
+        "b": "Insect bites",
+        "c": "Airborne droplets",
+        "d": "Direct skin contact"
+      },
+      "one_liner": "Tuberculosis is most commonly spread through the **air when an infected person coughs, sneezes, or talks**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

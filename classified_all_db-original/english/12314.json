@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'aid':",
+      "options": {
+        "a": "hinder",
+        "b": "assist",
+        "c": "obstruct",
+        "d": "impede"
+      },
+      "one_liner": "'Aid' means to help or assist—words like 'support' and 'assist' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'proposition':",
+      "options": {
+        "a": "conclusion",
+        "b": "proposal",
+        "c": "fact",
+        "d": "solution"
+      },
+      "one_liner": "'Proposition' means a suggested plan or idea, similar to 'proposal' or 'suggestion'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

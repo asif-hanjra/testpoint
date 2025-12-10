@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which body of water separates England from France?",
+      "options": {
+        "a": "English Channel",
+        "b": "Baltic Sea",
+        "c": "Mediterranean Sea",
+        "d": "North Sea"
+      },
+      "one_liner": "The body of water that separates England from France is the **English Channel**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

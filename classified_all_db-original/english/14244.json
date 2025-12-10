@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'disabuse':",
+      "options": {
+        "a": "correct:delude",
+        "b": "inform:deceive",
+        "c": "enlighten:mislead",
+        "d": "clarify:confuse"
+      },
+      "one_liner": "'Enlighten' is a synonym of 'disabuse', while 'delude' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

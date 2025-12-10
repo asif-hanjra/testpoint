@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'malapropism':",
+      "options": {
+        "a": "accuracy",
+        "b": "solecism",
+        "c": "precision",
+        "d": "clarity"
+      },
+      "one_liner": "'Malapropism' refers to the mistaken use of a word in place of a similar-sounding one, often with unintentionally amusing effect, similar to a 'solecism'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

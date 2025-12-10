@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abundance':",
+      "options": {
+        "a": "scarcity",
+        "b": "excess",
+        "c": "surplus",
+        "d": "wealth"
+      },
+      "one_liner": "The antonym of 'abundance' is 'scarcity', which means a shortage or insufficiency.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

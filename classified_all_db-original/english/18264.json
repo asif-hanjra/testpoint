@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'viable':",
+      "options": {
+        "a": "impossible",
+        "b": "feasible",
+        "c": "unrealistic",
+        "d": "impractical"
+      },
+      "one_liner": "'Viable' means feasible or capable of working successfully; 'feasible' is a synonym that conveys this meaning.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the mode of inheritance for Colour Blindness disease?",
+      "options": {
+        "a": "It is genetically linked",
+        "b": "It is caused by bacteria",
+        "c": "It is due to vitamin deficiency",
+        "d": "None of these"
+      },
+      "one_liner": "Colour Blindness is a disease that is **genetically linked**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

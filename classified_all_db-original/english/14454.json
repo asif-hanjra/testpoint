@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'feud':",
+      "options": {
+        "a": "strife:accord",
+        "b": "agreement:conflict",
+        "c": "disagreement:harmony",
+        "d": "discord:peace"
+      },
+      "one_liner": "'Strife' is a synonym of 'feud', while 'accord' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

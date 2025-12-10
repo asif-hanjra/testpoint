@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which continent is located at the southernmost part of the world map?",
+      "options": {
+        "a": "Australia",
+        "b": "Africa",
+        "c": "Antarctica",
+        "d": "South America"
+      },
+      "one_liner": "The southernmost continent on the world map is **Antarctica**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary function of greenhouse gases in the Earth's atmosphere?",
+      "options": {
+        "a": "Cause acid rain",
+        "b": "Help in maintaining earth temperature",
+        "c": "Produce oxygen",
+        "d": "None of these"
+      },
+      "one_liner": "The main function of greenhouse gases is to **help in maintaining the Earth's temperature** by trapping heat within the atmosphere.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

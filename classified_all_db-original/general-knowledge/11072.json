@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are Willy-Willies known as in Australia?",
+      "options": {
+        "a": "Earthquakes",
+        "b": "Cyclones",
+        "c": "Floods",
+        "d": "Droughts"
+      },
+      "one_liner": "Willy-Willies are the local name for **cyclones** in Australia.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

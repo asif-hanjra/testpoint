@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Ohm's law states that in a closed circuit current is proportional to the _____ and inversely proportional to the _____?",
+      "options": {
+        "a": "Capacitance, inductance",
+        "b": "Resistance, power",
+        "c": "Voltage, resistance",
+        "d": "Power, voltage"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

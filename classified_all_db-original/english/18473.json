@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'avid':",
+      "options": {
+        "a": "apathetic",
+        "b": "enthusiastic",
+        "c": "indifferent",
+        "d": "uninterested"
+      },
+      "one_liner": "'Avid' means having a keen interest or intense desire, similar to 'enthusiastic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

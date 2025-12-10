@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Her parents strongly object ___ her travelling.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "for",
+        "d": "with"
+      },
+      "one_liner": "Her parents strongly object 'to' her travelling.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stop':",
+      "options": {
+        "a": "continue",
+        "b": "halt",
+        "c": "proceed",
+        "d": "advance"
+      },
+      "one_liner": "'Stop' means to cease or halt movement or activity, similar to 'halt'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

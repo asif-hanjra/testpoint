@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fervent':",
+      "options": {
+        "a": "apathetic",
+        "b": "ardent",
+        "c": "indifferent",
+        "d": "uninterested"
+      },
+      "one_liner": "'Fervent' means having or displaying passionate intensity, similar to 'ardent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

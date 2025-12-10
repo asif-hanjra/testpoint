@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stale':",
+      "options": {
+        "a": "fresh",
+        "b": "foul",
+        "c": "moldy",
+        "d": "sour"
+      },
+      "one_liner": "An antonym for 'stale' would be 'fresh', which indicates something is new or recently made.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The first-order derivative of function f(x) = (3x⁵ + 6)⁵ with respect to x is?",
+      "options": {
+        "a": "(3x⁵ + 6)⁴(75x⁴ + 30)",
+        "b": "(3x⁵ + 6)⁴(75x⁴)",
+        "c": "5(3x⁵ + 6)⁴",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

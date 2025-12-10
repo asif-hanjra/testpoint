@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I had already done my homework ___ my mother came home.",
+      "options": {
+        "a": "before",
+        "b": "when",
+        "c": "after",
+        "d": "since"
+      },
+      "one_liner": "I had already done my homework 'when' my mother came home.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

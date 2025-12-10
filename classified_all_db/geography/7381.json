@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river is the Balloki Barrage located in Punjab?",
+      "options": {
+        "a": "River Sutlej",
+        "b": "River Ravi",
+        "c": "River Chenab",
+        "d": "River Jhelum"
+      },
+      "one_liner": "The Balloki Barrage is situated on the **River Ravi** in Punjab.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Ravi River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Barrages of Pakistan on Ravi River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

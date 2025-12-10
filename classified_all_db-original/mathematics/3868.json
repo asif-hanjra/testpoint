@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The derivative of sin(x) with respect to x is?",
+      "options": {
+        "a": "cos(x)",
+        "b": "- cos(x)",
+        "c": "- sin(x)",
+        "d": "1"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

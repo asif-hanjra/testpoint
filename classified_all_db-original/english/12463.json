@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cheeky':",
+      "options": {
+        "a": "respectful",
+        "b": "impertinent",
+        "c": "polite",
+        "d": "courteous"
+      },
+      "one_liner": "'Cheeky' implies being boldly disrespectful or impudent, much like 'impertinent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

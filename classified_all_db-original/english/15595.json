@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'capricious':",
+      "options": {
+        "a": "impulsive:predictable",
+        "b": "steady:volatile",
+        "c": "erratic:constant",
+        "d": "whimsical:stable"
+      },
+      "one_liner": "'Impulsive' is a synonym of 'capricious', while 'predictable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

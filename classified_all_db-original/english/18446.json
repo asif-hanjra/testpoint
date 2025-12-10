@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hold':",
+      "options": {
+        "a": "release",
+        "b": "clutch",
+        "c": "discard",
+        "d": "throw"
+      },
+      "one_liner": "'Hold' can mean to grasp or carry, similar to 'grip' or 'clutch'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

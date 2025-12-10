@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'perish':",
+      "options": {
+        "a": "decay",
+        "b": "wither",
+        "c": "survive",
+        "d": "deteriorate"
+      },
+      "one_liner": "The antonym of 'perish' is 'survive', which means to continue living or existing.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

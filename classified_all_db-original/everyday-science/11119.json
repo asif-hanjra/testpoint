@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was Johannes Kepler?",
+      "options": {
+        "a": "French mathematician",
+        "b": "German astronomer",
+        "c": "Italian physicist",
+        "d": "English chemist"
+      },
+      "one_liner": "Johannes Kepler was a renowned astronomer from **Germany**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

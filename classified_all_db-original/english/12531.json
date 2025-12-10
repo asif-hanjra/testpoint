@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'amicable':",
+      "options": {
+        "a": "hostile",
+        "b": "cordial",
+        "c": "rude",
+        "d": "unpleasant"
+      },
+      "one_liner": "'Amicable' refers to a friendly and agreeable nature, similar to 'cordial'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

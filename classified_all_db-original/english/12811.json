@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'immense':",
+      "options": {
+        "a": "tiny",
+        "b": "vast",
+        "c": "insignificant",
+        "d": "minute"
+      },
+      "one_liner": "'Immense' refers to something extremely large or great in scale, similar to 'vast'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

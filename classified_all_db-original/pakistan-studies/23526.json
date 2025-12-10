@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did Nawaz Sharif represent during his tenure as Prime Minister of Pakistan in 1993?",
+      "options": {
+        "a": "Pakistan Peoples Party",
+        "b": "Muslim League (N)",
+        "c": "Pakistan Tehreek-e-Insaf",
+        "d": "None of these"
+      },
+      "one_liner": "Nawaz Sharif was affiliated with the **Muslim League (N)** during his 1993 tenure as Prime Minister of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

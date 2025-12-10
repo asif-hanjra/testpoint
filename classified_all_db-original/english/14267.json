@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mace':",
+      "options": {
+        "a": "protection",
+        "b": "attack",
+        "c": "offense",
+        "d": "aggression"
+      },
+      "one_liner": "While 'mace' is a weapon, its antonym could be 'protection', which is used for defense.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

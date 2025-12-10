@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which court has the authority to transfer a case or try it itself under section 230 of the CrPC?",
+      "options": {
+        "a": "Session Court",
+        "b": "High Court",
+        "c": "Supreme Court",
+        "d": "Civil Court"
+      },
+      "one_liner": "The authority to transfer a case or try it itself under section 230 of the CrPC lies with the **High Court**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

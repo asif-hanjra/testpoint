@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mercurial':",
+      "options": {
+        "a": "steady",
+        "b": "fickle",
+        "c": "erratic",
+        "d": "inconsistent"
+      },
+      "one_liner": "An antonym for 'mercurial' is 'steady', which suggests reliability and lack of change.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

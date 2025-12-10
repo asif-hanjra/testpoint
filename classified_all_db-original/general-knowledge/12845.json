@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the teacher of Aristotle?",
+      "options": {
+        "a": "Socrates",
+        "b": "Plato",
+        "c": "Pythagoras",
+        "d": "None of these"
+      },
+      "one_liner": "Aristotle was taught by the renowned Greek philosopher **Plato**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

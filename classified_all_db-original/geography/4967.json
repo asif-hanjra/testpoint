@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the highest peak of the Salt Range?",
+      "options": {
+        "a": "Sakesar",
+        "b": "Takht-e-Sulaiman",
+        "c": "K2",
+        "d": "Nanga Parbat"
+      },
+      "one_liner": "The highest peak of the Salt Range is **Sakesar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

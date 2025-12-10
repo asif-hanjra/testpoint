@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'humorous':",
+      "options": {
+        "a": "serious",
+        "b": "witty",
+        "c": "dull",
+        "d": "sombre"
+      },
+      "one_liner": "'Humorous' means funny or amusing, much like 'witty' and 'comical'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

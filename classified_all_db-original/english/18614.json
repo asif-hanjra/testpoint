@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'assent':",
+      "options": {
+        "a": "dissent",
+        "b": "consent",
+        "c": "refusal",
+        "d": "objection"
+      },
+      "one_liner": "'Assent' means agreement or approval, similar to 'consent' or 'acquiescence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

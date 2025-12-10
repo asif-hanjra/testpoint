@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'carnivore':",
+      "options": {
+        "a": "herbivore",
+        "b": "omnivore",
+        "c": "predator",
+        "d": "vegetarian"
+      },
+      "one_liner": "'Carnivore' refers to a meat-eating organism, similar to a 'predator' which also implies a diet that includes other animals.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

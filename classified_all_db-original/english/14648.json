@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He said ___ he could do it exactly.",
+      "options": {
+        "a": "for",
+        "b": "that",
+        "c": "to",
+        "d": "with"
+      },
+      "one_liner": "He said 'that' he could do it exactly.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

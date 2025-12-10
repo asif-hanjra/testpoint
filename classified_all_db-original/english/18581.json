@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abandon':",
+      "options": {
+        "a": "cling",
+        "b": "forsake",
+        "c": "embrace",
+        "d": "keep"
+      },
+      "one_liner": "'Abandon' can mean to leave completely and finally, similar to 'forsake'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

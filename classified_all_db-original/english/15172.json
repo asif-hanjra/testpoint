@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vulgar':",
+      "options": {
+        "a": "elegant",
+        "b": "coarse",
+        "c": "refined",
+        "d": "polished"
+      },
+      "one_liner": "'Vulgar' refers to something crude or lacking sophistication, similar to 'coarse'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

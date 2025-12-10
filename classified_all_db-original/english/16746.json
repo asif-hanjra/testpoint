@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'haughty':",
+      "options": {
+        "a": "humble",
+        "b": "arrogant",
+        "c": "meek",
+        "d": "submissive"
+      },
+      "one_liner": "'Haughty' describes someone who is arrogantly superior—words like 'arrogant' and 'supercilious' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who pioneered the concept of inertia that is central to Newton's First Law of Motion?",
+      "options": {
+        "a": "Isaac Newton",
+        "b": "Galileo",
+        "c": "Albert Einstein",
+        "d": "James Joule"
+      },
+      "one_liner": "The concept of inertia, central to Newton's First Law of Motion, was pioneered by **Galileo**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

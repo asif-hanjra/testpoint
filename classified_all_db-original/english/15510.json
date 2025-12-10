@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exquisite':",
+      "options": {
+        "a": "mediocre",
+        "b": "magnificent",
+        "c": "splendid",
+        "d": "superb"
+      },
+      "one_liner": "The antonym of 'exquisite' is 'mediocre', indicating something of only average quality.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

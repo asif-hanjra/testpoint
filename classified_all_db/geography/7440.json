@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Was the uppermost story of Hazuri Bagh ever reconstructed after its collapse?",
+      "options": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Partially",
+        "d": "None of these"
+      },
+      "one_liner": "After collapsing in 1932, the uppermost story of Hazuri Bagh was **never reconstructed**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Forts in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Historical Places in or Near Lahore",
+          "chapter": "Cultural & Historic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

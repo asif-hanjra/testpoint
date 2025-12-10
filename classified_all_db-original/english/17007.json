@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'remote':",
+      "options": {
+        "a": "secluded:accessible",
+        "b": "distant:isolated",
+        "c": "far:close",
+        "d": "isolated:nearby"
+      },
+      "one_liner": "'Secluded' is a synonym of 'remote', while 'accessible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the Rawalpindi Conspiracy Case of 1951?",
+      "options": {
+        "a": "A peace treaty",
+        "b": "An attempted coup d'état",
+        "c": "A trade agreement",
+        "d": "None of these"
+      },
+      "one_liner": "The Rawalpindi Conspiracy Case of 1951 was an attempted coup d'état against the government of **Liaquat Ali Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

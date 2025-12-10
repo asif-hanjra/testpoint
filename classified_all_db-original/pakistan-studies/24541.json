@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book titled \"A Case of Exploding Mangoes\"?",
+      "options": {
+        "a": "Mohsin Hamid",
+        "b": "Muhammad Hanif",
+        "c": "Kamila Shamsie",
+        "d": "None of these"
+      },
+      "one_liner": "The author of the book titled \"A Case of Exploding Mangoes\" is **Muhammad Hanif**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'memorable':",
+      "options": {
+        "a": "forgettable",
+        "b": "unforgettable",
+        "c": "insignificant",
+        "d": "ordinary"
+      },
+      "one_liner": "'Memorable' means worth remembering or easily remembered, much like 'unforgettable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

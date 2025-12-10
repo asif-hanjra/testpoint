@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vagrant':",
+      "options": {
+        "a": "nomad",
+        "b": "wanderer",
+        "c": "resident",
+        "d": "drifter"
+      },
+      "one_liner": "The opposite of a 'vagrant', who has no fixed home, would be a 'resident', who lives permanently in a place.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

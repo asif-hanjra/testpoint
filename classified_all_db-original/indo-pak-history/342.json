@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which department did Chakravarthi Rajagopalachari head in the Interim Government of 1946-1947?",
+      "options": {
+        "a": "Department of Defence",
+        "b": "Department of Education and Arts",
+        "c": "Department of Labour",
+        "d": "Department of Commerce"
+      },
+      "one_liner": "Chakravarthi Rajagopalachari was responsible for the **Department of Education and Arts** in the Interim Government of 1946-1947.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

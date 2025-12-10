@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'flagitious':",
+      "options": {
+        "a": "heinous:innocent",
+        "b": "evil:virtuous",
+        "c": "wicked:nefarious",
+        "d": "malevolent:upright"
+      },
+      "one_liner": "'Heinous' is a synonym of 'flagitious', while 'innocent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

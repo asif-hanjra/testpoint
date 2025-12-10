@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of speech joins words, phrases, or clauses together?",
+      "options": {
+        "a": "Adverb",
+        "b": "Noun",
+        "c": "Conjunction",
+        "d": "Preposition"
+      },
+      "one_liner": "A conjunction connects words, phrases, or clauses.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

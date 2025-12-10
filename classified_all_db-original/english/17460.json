@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'across' in 'She swam across the river'?",
+      "options": {
+        "a": "Conjunction",
+        "b": "Preposition",
+        "c": "Verb",
+        "d": "Adverb"
+      },
+      "one_liner": "'Across' is a preposition indicating relationship between 'swam' and 'the river'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

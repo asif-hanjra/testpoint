@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "[ 1 1 1] is a ?",
+      "options": {
+        "a": "Identical matrix",
+        "b": "Column Matrix",
+        "c": "Row Matrix",
+        "d": "Unit Matrix"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

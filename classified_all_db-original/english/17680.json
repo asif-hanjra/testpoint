@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ebullient':",
+      "options": {
+        "a": "vibrant:dull",
+        "b": "lively:energetic",
+        "c": "cheerful:joyful",
+        "d": "animated:spirited"
+      },
+      "one_liner": "'Vibrant' is a synonym of 'ebullient', while 'dull' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

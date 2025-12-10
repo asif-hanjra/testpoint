@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What value did Al-Biruni estimate for the Earth's radius?",
+      "options": {
+        "a": "6,338 km",
+        "b": "6,000 km",
+        "c": "6,500 km",
+        "d": "None of these"
+      },
+      "one_liner": "Al-Biruni estimated the Earth's radius to be **6,338 km**, which is remarkably close to the modern value.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

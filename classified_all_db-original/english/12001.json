@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'sine die' mean when used in legal or formal contexts?",
+      "options": {
+        "a": "With a day specified",
+        "b": "Without a day assigned",
+        "c": "In a day's time",
+        "d": "Once a day"
+      },
+      "one_liner": "'Sine die' refers to an event or action being postponed or adjourned without a specific date set for resumption.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

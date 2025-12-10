@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the Oscar Award first started?",
+      "options": {
+        "a": "16th May 1929",
+        "b": "1st January 1930",
+        "c": "10th July 1928",
+        "d": "None of these"
+      },
+      "one_liner": "The Oscar Award was first started on **16th May 1929**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

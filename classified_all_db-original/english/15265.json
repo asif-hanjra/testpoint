@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'hurrah' in the sentence 'Hurrah! We have won the match!'",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Interjection",
+        "d": "Conjunction"
+      },
+      "one_liner": "'Hurrah' is an interjection expressing joy or excitement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

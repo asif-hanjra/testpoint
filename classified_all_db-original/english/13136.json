@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'diverse':",
+      "options": {
+        "a": "multifaceted:monolithic",
+        "b": "similar:varied",
+        "c": "varied:identical",
+        "d": "distinct:same"
+      },
+      "one_liner": "'Multifaceted' is a synonym of 'diverse', while 'monolithic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

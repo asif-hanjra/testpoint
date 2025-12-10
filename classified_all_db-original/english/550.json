@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Error in sentence: She told the doctor that he had not been sleeping for privious day.",
+      "options": {
+        "a": "Told",
+        "b": "He",
+        "c": "Sleeping",
+        "d": "Privious"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

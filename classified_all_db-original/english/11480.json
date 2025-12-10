@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "POETRY : RHYME :: PHILOSOPHY : ________?",
+      "options": {
+        "a": "Verse",
+        "b": "Theory",
+        "c": "Logic",
+        "d": "Essay"
+      },
+      "one_liner": "Poetry often involves rhyme, just as philosophy often involves theory.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

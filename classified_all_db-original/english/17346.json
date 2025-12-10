@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'daring':",
+      "options": {
+        "a": "intrepid:cowardly",
+        "b": "fearful:brave",
+        "c": "bold:timid",
+        "d": "reckless:cautious"
+      },
+      "one_liner": "'Intrepid' is a synonym of 'daring', while 'cowardly' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

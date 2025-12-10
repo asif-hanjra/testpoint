@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the units arranged on chromosomes that are responsible for hereditary transmission?",
+      "options": {
+        "a": "Enzymes",
+        "b": "Genes",
+        "c": "Hormones",
+        "d": "None of these"
+      },
+      "one_liner": "The units arranged on chromosomes that are responsible for hereditary transmission are called **genes**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

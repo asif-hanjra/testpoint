@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'crazy':",
+      "options": {
+        "a": "rational",
+        "b": "lunatic",
+        "c": "sensible",
+        "d": "prudent"
+      },
+      "one_liner": "'Crazy' can mean insane or foolish, with 'lunatic' being a synonym that conveys a similar sense of madness.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

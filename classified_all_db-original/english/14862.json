@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'plod':",
+      "options": {
+        "a": "trudge:gallop",
+        "b": "stroll:race",
+        "c": "march:amble",
+        "d": "wander:sprint"
+      },
+      "one_liner": "'Trudge' is a synonym of 'plod', while 'gallop' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

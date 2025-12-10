@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a common use of a semi-conductor in electrical circuits?",
+      "options": {
+        "a": "Amplifier",
+        "b": "Rectifier",
+        "c": "Oscillator",
+        "d": "None of these"
+      },
+      "one_liner": "A semi-conductor is frequently used as a **rectifier** in electrical circuits to convert alternating current (AC) to direct current (DC).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

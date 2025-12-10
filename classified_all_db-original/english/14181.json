@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impede':",
+      "options": {
+        "a": "obstruct:enable",
+        "b": "hinder:assist",
+        "c": "hamper:facilitate",
+        "d": "block:accelerate"
+      },
+      "one_liner": "'Obstruct' is a synonym of 'impede', while 'enable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

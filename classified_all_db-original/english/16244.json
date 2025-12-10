@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'agitate':",
+      "options": {
+        "a": "calm",
+        "b": "disturb",
+        "c": "soothe",
+        "d": "quiet"
+      },
+      "one_liner": "'Agitate' means to stir up or provoke, similar to 'disturb' or 'upset'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main objective of the United Nations Framework Convention on Climate Change (UNFCCC)?",
+      "options": {
+        "a": "Protect endangered species",
+        "b": "Reduce greenhouse gas",
+        "c": "Promote renewable energy",
+        "d": "None of these"
+      },
+      "one_liner": "The main objective of the UNFCCC is to **reduce greenhouse gas** emissions.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "When two events A and B are mutually exclusive, the probability that either A or B occurs is?",
+      "options": {
+        "a": "P(A) × P(B)",
+        "b": "P(A) + P(B)",
+        "c": "P(A) – P(B)",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

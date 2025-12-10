@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'board':",
+      "options": {
+        "a": "panel:sphere",
+        "b": "plank:cube",
+        "c": "slab:ball",
+        "d": "sheet:circle"
+      },
+      "one_liner": "'Panel' is a synonym of 'board', while 'sphere' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

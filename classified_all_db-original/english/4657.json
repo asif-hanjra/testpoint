@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The manager will give you a list of items.",
+      "options": {
+        "a": "A list of items will be given to you by the manager.",
+        "b": "A list of items has been given to you by the manager.",
+        "c": "A list of items was given to you by the manager.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

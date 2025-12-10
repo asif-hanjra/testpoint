@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the term 'weather' refer to?",
+      "options": {
+        "a": "The state of the atmosphere at a particular place and time",
+        "b": "Long-term atmospheric conditions",
+        "c": "The study of celestial bodies",
+        "d": "None of these"
+      },
+      "one_liner": "The term 'weather' refers to the state of the atmosphere at a specific place and time, making **the state of the atmosphere at a particular place and time** the correct answer.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

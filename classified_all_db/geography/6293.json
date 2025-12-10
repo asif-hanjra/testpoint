@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which motorway is under construction and will connect Sialkot to Kharian?",
+      "options": {
+        "a": "M11",
+        "b": "M12",
+        "c": "M13",
+        "d": "M14"
+      },
+      "one_liner": "The M12 motorway is under construction and will connect **Sialkot to Kharian**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Motorways of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

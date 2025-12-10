@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which economic corridor provides China with a much shorter route to access trade routes to South Asia and North Africa?",
+      "options": {
+        "a": "CPEC",
+        "b": "Silk Road",
+        "c": "Trans-Siberian Route",
+        "d": "None of these"
+      },
+      "one_liner": "The China-Pakistan Economic Corridor (CPEC) offers China a significantly shorter route to access trade routes leading to both **South Asia** and **North Africa**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

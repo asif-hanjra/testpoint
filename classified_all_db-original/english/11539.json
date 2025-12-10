@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'courage':",
+      "options": {
+        "a": "valor:fear",
+        "b": "bravery:heroism",
+        "c": "daring:valor",
+        "d": "boldness:courage"
+      },
+      "one_liner": "'Valor' is a synonym for 'courage', while 'fear' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

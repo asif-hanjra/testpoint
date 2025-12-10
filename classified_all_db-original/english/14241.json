@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'beginning':",
+      "options": {
+        "a": "end",
+        "b": "onset",
+        "c": "conclusion",
+        "d": "finish"
+      },
+      "one_liner": "'Beginning' refers to the start or commencement of something, much like the word 'onset'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

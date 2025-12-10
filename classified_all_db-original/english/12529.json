@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'misfortune':",
+      "options": {
+        "a": "adversity:prosperity",
+        "b": "hardship:blessing",
+        "c": "trouble:fortune",
+        "d": "disaster:success"
+      },
+      "one_liner": "'Hardship' is a synonym of 'misfortune', while 'blessing' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

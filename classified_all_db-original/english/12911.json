@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'Produced':",
+      "options": {
+        "a": "diminished",
+        "b": "generated",
+        "c": "reduced",
+        "d": "erased"
+      },
+      "one_liner": "'Produced' means created or made, so words like 'generated' and 'manufactured' are synonyms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

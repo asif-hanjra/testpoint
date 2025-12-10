@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'delicate':",
+      "options": {
+        "a": "robust",
+        "b": "dainty",
+        "c": "sturdy",
+        "d": "tough"
+      },
+      "one_liner": "'Delicate' often refers to something that is fine or exquisite, similar to 'fragile' or 'dainty'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

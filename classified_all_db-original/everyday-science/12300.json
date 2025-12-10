@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are amphibians born and how do they breathe at birth?",
+      "options": {
+        "a": "On land with lungs",
+        "b": "In water with gills",
+        "c": "On land with gills",
+        "d": "In water with lungs"
+      },
+      "one_liner": "Amphibians are born in the **water** and initially breathe with **gills** like fish.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a heat-sensitive resistor?  A) LDR   B) Thermistor   C) Rheostat   D) Varistor",
+      "options": {
+        "a": "LDR",
+        "b": "Thermistor",
+        "c": "Rheostat",
+        "d": "Varistor"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

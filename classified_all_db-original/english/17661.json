@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'embrace':",
+      "options": {
+        "a": "reject",
+        "b": "clasp",
+        "c": "release",
+        "d": "push"
+      },
+      "one_liner": "'Embrace' means to accept or support willingly or enthusiastically—words like 'hug' and 'clasp' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

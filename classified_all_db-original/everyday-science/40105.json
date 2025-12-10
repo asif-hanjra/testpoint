@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Abu Bakr Muhammad bin Zakariyya al-Razi born?",
+      "options": {
+        "a": "Iraq",
+        "b": "Iran",
+        "c": "Syria",
+        "d": "Egypt"
+      },
+      "one_liner": "Abu Bakr Muhammad bin Zakariyya al-Razi was born in **Iran**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

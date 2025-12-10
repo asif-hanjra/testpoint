@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the 9th Prime Minister of Pakistan?",
+      "options": {
+        "a": "Zulfikar Ali Bhutto",
+        "b": "Liaquat Ali Khan",
+        "c": "Benazir Bhutto",
+        "d": "None of these"
+      },
+      "one_liner": "Zulfikar Ali Bhutto served as the **9th Prime Minister of Pakistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

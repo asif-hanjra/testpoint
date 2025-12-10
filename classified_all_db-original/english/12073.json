@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'degrade':",
+      "options": {
+        "a": "demote:promote",
+        "b": "reduce:enhance",
+        "c": "debase:upgrade",
+        "d": "lower:raise"
+      },
+      "one_liner": "'Demote' is a synonym of 'degrade', while 'promote' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

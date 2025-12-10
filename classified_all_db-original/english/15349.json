@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'latent':",
+      "options": {
+        "a": "dormant:overt",
+        "b": "hidden:apparent",
+        "c": "concealed:evident",
+        "d": "inert:active"
+      },
+      "one_liner": "'Dormant' is a synonym of 'latent', while 'overt' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'morbid':",
+      "options": {
+        "a": "cheerful",
+        "b": "macabre",
+        "c": "pleasant",
+        "d": "wholesome"
+      },
+      "one_liner": "'Morbid' refers to an unhealthy interest in disturbing subjects, much like 'macabre'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

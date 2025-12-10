@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the lowest temperature ever recorded on Earth?",
+      "options": {
+        "a": "-50°C",
+        "b": "-89.2°C",
+        "c": "-100°C",
+        "d": "-60°C"
+      },
+      "one_liner": "The lowest temperature ever recorded on Earth is **-89.2°C**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

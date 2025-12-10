@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sober':",
+      "options": {
+        "a": "temperate",
+        "b": "abstinent",
+        "c": "intoxicated",
+        "d": "clear-headed"
+      },
+      "one_liner": "The antonym of 'sober' is 'intoxicated', which means under the influence of alcohol.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

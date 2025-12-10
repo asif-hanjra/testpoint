@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'foe':",
+      "options": {
+        "a": "ally",
+        "b": "friend",
+        "c": "antagonist",
+        "d": "partner"
+      },
+      "one_liner": "'Foe' means enemy or adversary—words like 'antagonist' and 'opponent' share similar meanings.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

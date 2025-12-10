@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Statue of Liberty located?",
+      "options": {
+        "a": "Liberty Island, New York",
+        "b": "Ellis Island, New Jersey",
+        "c": "Central Park, New York",
+        "d": "Times Square, New York"
+      },
+      "one_liner": "The Statue of Liberty is famously located on **Liberty Island in New York, United States**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is credited with the invention of the helicopter?",
+      "options": {
+        "a": "Wright Brothers",
+        "b": "Sikosky",
+        "c": "Edison",
+        "d": "Newton"
+      },
+      "one_liner": "The helicopter was invented by **Sikosky**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

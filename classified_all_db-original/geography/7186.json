@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two Indonesian islands are separated by the Sunda Strait?",
+      "options": {
+        "a": "Java and Borneo",
+        "b": "Java and Sumatra",
+        "c": "Sumatra and Bali",
+        "d": "Bali and Java"
+      },
+      "one_liner": "The Sunda Strait separates the Indonesian islands of **Java** and **Sumatra**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

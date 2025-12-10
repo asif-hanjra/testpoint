@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was Kashmir sold to by the British government under the Treaty of Amritsar?",
+      "options": {
+        "a": "Hari Singh",
+        "b": "Ranjit Singh",
+        "c": "Gulab Singh",
+        "d": "None of these"
+      },
+      "one_liner": "Kashmir was sold by the British government to **Gulab Singh** under the Treaty of Amritsar.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

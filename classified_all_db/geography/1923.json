@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Shandur Pass connects Chitral District with which district of Gilgit-Baltistan?",
+      "options": {
+        "a": "Diamer",
+        "b": "Ghizer",
+        "c": "Skardu",
+        "d": "Hunza"
+      },
+      "one_liner": "Shandur Pass connects Chitral District with **Ghizer District** of Gilgit-Baltistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

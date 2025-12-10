@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He saw his reflection ___ the water.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "He saw his reflection 'in' the water.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

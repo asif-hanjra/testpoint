@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vindictive':",
+      "options": {
+        "a": "malicious:merciful",
+        "b": "spiteful:kind",
+        "c": "vengeful:generous",
+        "d": "bitter:forgiving"
+      },
+      "one_liner": "'Malicious' is a synonym of 'vindictive', while 'merciful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

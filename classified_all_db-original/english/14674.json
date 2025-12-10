@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'industrious':",
+      "options": {
+        "a": "lazy",
+        "b": "diligent",
+        "c": "idle",
+        "d": "inactive"
+      },
+      "one_liner": "'Industrious' refers to someone who is hardworking or diligent.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Find Transpose of a Matrix    [ 1   8   9   2 ]",
+      "options": {
+        "a": "[ 1   8     9   2 ]",
+        "b": "[ 1   9     8   2 ]",
+        "c": "[ 1   2     8   9 ]",
+        "d": "[ 8   1     2   9 ]"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

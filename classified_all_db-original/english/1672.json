@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the sentence using \"who\" incorrectly: He is the man who works in my office., The teacher who taught us English has retired., That's the boy who helped me., The girl with who I met is very kind.",
+      "options": {
+        "a": "He is the man who works in my office.",
+        "b": "That's the boy who helped me.",
+        "c": "The girl with who I met is very kind.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

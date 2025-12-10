@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How long does sunlight take to reach Earth?",
+      "options": {
+        "a": "10 minutes",
+        "b": "5 minutes",
+        "c": "8 minutes 20 seconds",
+        "d": "12 minutes"
+      },
+      "one_liner": "Sunlight takes about **8 minutes 20 seconds** to travel from the Sun to the Earth.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is credited with inventing the pinhole camera?",
+      "options": {
+        "a": "Ibn al-Haytham",
+        "b": "Isaac Newton",
+        "c": "Galileo Galilei",
+        "d": "Al-Khwarizmi"
+      },
+      "one_liner": "The invention of the pinhole camera is credited to **Ibn al-Haytham**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

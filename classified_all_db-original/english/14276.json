@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'polymath':",
+      "options": {
+        "a": "generalist",
+        "b": "expert",
+        "c": "specialist",
+        "d": "scholar"
+      },
+      "one_liner": "An antonym of 'polymath' would be 'specialist', which refers to a person with a narrow focus or expertise.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of event is the Shandur Polo Festival?",
+      "options": {
+        "a": "Music festival",
+        "b": "Sports festival",
+        "c": "Food festival",
+        "d": "Cultural festival"
+      },
+      "one_liner": "The Shandur Polo Festival is known as a **sports festival**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

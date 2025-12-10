@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quaff':",
+      "options": {
+        "a": "swig:sip",
+        "b": "gulp:nibble",
+        "c": "drink:imbibe",
+        "d": "swallow:chew"
+      },
+      "one_liner": "'Swig' is a synonym of 'quaff', while 'sip' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

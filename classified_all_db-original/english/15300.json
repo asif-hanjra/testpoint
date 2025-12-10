@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'believe':",
+      "options": {
+        "a": "trust:doubt",
+        "b": "accept:reject",
+        "c": "acknowledge:deny",
+        "d": "confirm:disbelieve"
+      },
+      "one_liner": "'Trust' is a synonym of 'believe', while 'doubt' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

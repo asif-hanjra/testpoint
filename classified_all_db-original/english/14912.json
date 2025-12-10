@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'loom':",
+      "options": {
+        "a": "recede",
+        "b": "approach",
+        "c": "emerge",
+        "d": "ascend"
+      },
+      "one_liner": "As an antonym, 'recede' suggests moving away or diminishing, opposite of 'loom' which implies coming into view as large or threatening.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'jolly':",
+      "options": {
+        "a": "miserable",
+        "b": "merry",
+        "c": "gloomy",
+        "d": "sorrowful"
+      },
+      "one_liner": "'Jolly' means cheerful and full of fun, much like the word 'merry'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

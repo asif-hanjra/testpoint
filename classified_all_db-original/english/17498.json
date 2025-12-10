@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conspicuous':",
+      "options": {
+        "a": "noticeable",
+        "b": "distinct",
+        "c": "inconspicuous",
+        "d": "clear"
+      },
+      "one_liner": "An antonym for 'conspicuous' is 'inconspicuous', meaning not easily noticed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

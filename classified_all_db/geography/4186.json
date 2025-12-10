@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries are members of SAARC?",
+      "options": {
+        "a": "Only India, Pakistan, Bangladesh",
+        "b": "All eight South Asian countries",
+        "c": "Only Afghanistan, Nepal, Bhutan",
+        "d": "None of these"
+      },
+      "one_liner": "All eight nations of South Asia—Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, India, Pakistan, and Sri Lanka—are members of **SAARC**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Central Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

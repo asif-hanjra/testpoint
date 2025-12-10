@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'courageous':",
+      "options": {
+        "a": "timid",
+        "b": "intrepid",
+        "c": "cowardly",
+        "d": "fearful"
+      },
+      "one_liner": "'Courageous' means brave or valiant, so 'intrepid' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

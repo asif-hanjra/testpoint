@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Error detection: This is a secret between you and I.",
+      "options": {
+        "a": "This",
+        "b": "I",
+        "c": "Between",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

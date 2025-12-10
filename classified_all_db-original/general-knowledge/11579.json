@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Winston Churchill serve his second term as Prime Minister of the United Kingdom?",
+      "options": {
+        "a": "1940-1945",
+        "b": "1945-1950",
+        "c": "1951-1955",
+        "d": "1955-1960"
+      },
+      "one_liner": "Winston Churchill's second term as Prime Minister of the United Kingdom was from **1951 to 1955**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

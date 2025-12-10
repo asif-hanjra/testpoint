@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cacophony':",
+      "options": {
+        "a": "noise",
+        "b": "harmony",
+        "c": "clamor",
+        "d": "racket"
+      },
+      "one_liner": "An antonym of 'cacophony' is 'harmony', which signifies a pleasant combination of sounds.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

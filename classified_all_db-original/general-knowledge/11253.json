@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Nobel Prize for Economics introduced?",
+      "options": {
+        "a": "1950",
+        "b": "1960",
+        "c": "1969",
+        "d": "1975"
+      },
+      "one_liner": "The Nobel Prize for Economics was first introduced in **1969**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Great Depression (1930)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Great Recession",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

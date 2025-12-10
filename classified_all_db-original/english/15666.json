@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'caustic':",
+      "options": {
+        "a": "mild",
+        "b": "biting",
+        "c": "gentle",
+        "d": "soothing"
+      },
+      "one_liner": "'Caustic' means harsh or corrosive, so words like 'biting' and 'acidic' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

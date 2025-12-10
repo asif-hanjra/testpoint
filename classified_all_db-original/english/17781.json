@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'doleful':",
+      "options": {
+        "a": "joyful",
+        "b": "cheerful",
+        "c": "mournful",
+        "d": "elated"
+      },
+      "one_liner": "'Doleful' means filled with sorrow or grief, similar to 'mournful'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "An internet service provider charges a onetime setup fee of $100 and $50 each month for service. If c customers join at the same time and are on the service for m months, which of the following expressions represents the total amount, in dollars, the provider has charged these customers?",
+      "options": {
+        "a": "100c+50c",
+        "b": "100c+ 50m",
+        "c": "100m +50cm",
+        "d": "150cm"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

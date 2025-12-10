@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Device that decreases voltage?",
+      "options": {
+        "a": "Battery",
+        "b": "Step-up transformer",
+        "c": "Step-down transformer",
+        "d": "Rectifier"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

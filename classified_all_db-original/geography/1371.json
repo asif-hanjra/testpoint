@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the process by which igneous rocks are formed?",
+      "options": {
+        "a": "By cooling and solidification of magma or lava",
+        "b": "By weathering of rocks",
+        "c": "By evaporation of water",
+        "d": "None of these"
+      },
+      "one_liner": "Igneous rocks are formed when molten magma or lava cools and solidifies, creating **solid rock from molten material**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

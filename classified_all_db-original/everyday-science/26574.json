@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How do greenhouse gases help in maintaining Earth's temperature after the land releases energy?",
+      "options": {
+        "a": "By absorbing all sunlight",
+        "b": "By stopping weak longwave length rays",
+        "c": "By reflecting sunlight",
+        "d": "None of these"
+      },
+      "one_liner": "Greenhouse gases maintain Earth's temperature by **stopping weak longwave length rays** from escaping into space, thus trapping heat.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

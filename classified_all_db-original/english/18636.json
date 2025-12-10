@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'melancholy':",
+      "options": {
+        "a": "gloomy",
+        "b": "mournful",
+        "c": "cheerful",
+        "d": "despondent"
+      },
+      "one_liner": "The word 'melancholy' is often contrasted with 'cheerful', which signifies happiness and optimism.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

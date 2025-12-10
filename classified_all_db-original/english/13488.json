@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gradual':",
+      "options": {
+        "a": "steady",
+        "b": "abrupt",
+        "c": "continuous",
+        "d": "progressive"
+      },
+      "one_liner": "An antonym of 'gradual' is 'abrupt', which means happening suddenly without warning.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

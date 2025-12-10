@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'detest':",
+      "options": {
+        "a": "abhor:revere",
+        "b": "despise:respect",
+        "c": "loathe:adore",
+        "d": "hate:cherish"
+      },
+      "one_liner": "'Abhor' is a synonym of 'detest', while 'revere' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

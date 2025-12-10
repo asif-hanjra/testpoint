@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'acquit':",
+      "options": {
+        "a": "convict",
+        "b": "exonerate",
+        "c": "incriminate",
+        "d": "condemn"
+      },
+      "one_liner": "'Acquit' means to free from a criminal charge, similar to 'exonerate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

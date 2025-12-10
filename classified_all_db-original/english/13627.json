@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'neutral':",
+      "options": {
+        "a": "partial",
+        "b": "unprejudiced",
+        "c": "biased",
+        "d": "favoring"
+      },
+      "one_liner": "'Neutral' means impartial or unbiased, similar to the word 'unprejudiced'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

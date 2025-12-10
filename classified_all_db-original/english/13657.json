@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'large':",
+      "options": {
+        "a": "vast:minute",
+        "b": "huge:enormous",
+        "c": "big:massive",
+        "d": "gigantic:large"
+      },
+      "one_liner": "'Vast' is a synonym of 'large', while 'minute' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

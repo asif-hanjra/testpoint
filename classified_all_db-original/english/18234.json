@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'peer':",
+      "options": {
+        "a": "colleague:subordinate",
+        "b": "partner:equal",
+        "c": "ally:opponent",
+        "d": "companion:leader"
+      },
+      "one_liner": "A synonym for 'peer' is 'colleague', while an antonym is 'subordinate'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

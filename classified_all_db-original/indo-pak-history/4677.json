@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Did Mahmud of Ghazni establish a permanent presence in the Indian subcontinent after his invasions?",
+      "options": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Only in Punjab",
+        "d": "None of these"
+      },
+      "one_liner": "Despite his numerous invasions, **Mahmud of Ghazni did not establish a permanent presence in the Indian subcontinent**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

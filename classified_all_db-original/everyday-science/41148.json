@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary function of blood in the human body?",
+      "options": {
+        "a": "To produce hormones",
+        "b": "To transport oxygen and nutrients and remove waste",
+        "c": "To digest food",
+        "d": "To provide structural support"
+      },
+      "one_liner": "The main function of blood in the human body is to **transport oxygen and nutrients** and remove waste products.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

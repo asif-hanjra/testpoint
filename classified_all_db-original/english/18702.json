@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'close':",
+      "options": {
+        "a": "near:far",
+        "b": "adjacent:proximate",
+        "c": "close:nearby",
+        "d": "remote:adjacent"
+      },
+      "one_liner": "'Near' is a synonym of 'close', while 'far' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

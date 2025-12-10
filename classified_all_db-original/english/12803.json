@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'coerce':",
+      "options": {
+        "a": "force",
+        "b": "urge",
+        "c": "dissuade",
+        "d": "demand"
+      },
+      "one_liner": "The antonym of 'coerce' is 'dissuade', which means to convince someone not to do something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

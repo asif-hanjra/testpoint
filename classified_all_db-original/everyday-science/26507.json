@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is known as the Mother Teresa of Pakistan?",
+      "options": {
+        "a": "Dr. Ruth Pfau",
+        "b": "Dr. Abdul Qadeer Khan",
+        "c": "Dr. Abdus Salam",
+        "d": "Dr. Adeeb Rizvi"
+      },
+      "one_liner": "Dr. Ruth Pfau is famously recognized as the **Mother Teresa of Pakistan** for her humanitarian work.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

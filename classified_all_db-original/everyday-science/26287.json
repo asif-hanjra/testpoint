@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What regulates the rate of breathing in humans?",
+      "options": {
+        "a": "Oxygen in blood",
+        "b": "Carbon dioxide in blood",
+        "c": "Nitrogen in blood",
+        "d": "Water vapor in blood"
+      },
+      "one_liner": "The rate of breathing in humans is regulated by the amount of **carbon dioxide** present in the blood.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'trivial':",
+      "options": {
+        "a": "important",
+        "b": "inconsequential",
+        "c": "substantial",
+        "d": "significant"
+      },
+      "one_liner": "'Trivial' means insignificant or minor, so words like 'inconsequential' are synonymous.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

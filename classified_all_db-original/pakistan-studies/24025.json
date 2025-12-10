@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does 'Zarb-e-Azb' mean in English?",
+      "options": {
+        "a": "Swift Victory",
+        "b": "Sharp and cutting strike",
+        "c": "Peaceful Dawn",
+        "d": "None of these"
+      },
+      "one_liner": "The term 'Zarb-e-Azb' translates to **'sharp and cutting strike'** in English.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

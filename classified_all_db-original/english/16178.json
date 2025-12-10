@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'serious':",
+      "options": {
+        "a": "frivolous",
+        "b": "earnest",
+        "c": "lighthearted",
+        "d": "silly"
+      },
+      "one_liner": "'Serious' implies a grave or somber demeanor, similar to 'solemn' or 'earnest'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

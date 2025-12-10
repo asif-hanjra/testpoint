@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sloppy':",
+      "options": {
+        "a": "meticulous",
+        "b": "messy",
+        "c": "orderly",
+        "d": "neat"
+      },
+      "one_liner": "'Sloppy' means careless or untidy, similar to 'messy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

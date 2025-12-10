@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ripple':",
+      "options": {
+        "a": "current",
+        "b": "wave",
+        "c": "stillness",
+        "d": "undulation"
+      },
+      "one_liner": "The antonym of 'ripple', which implies movement, would be 'stillness', indicating a lack of movement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

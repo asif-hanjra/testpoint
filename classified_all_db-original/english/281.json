@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: The chef prepared the delicious meal.",
+      "options": {
+        "a": "The delicious meal has been prepared by the chef.",
+        "b": "The delicious meal was prepared by the chef.",
+        "c": "The delicious meal is prepared by the chef.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

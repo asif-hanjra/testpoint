@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'benediction':",
+      "options": {
+        "a": "charm:omen",
+        "b": "blessing:malediction",
+        "c": "invocation:curse",
+        "d": "prayer:hex"
+      },
+      "one_liner": "'Blessing' is a synonym of 'benediction', while 'malediction' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

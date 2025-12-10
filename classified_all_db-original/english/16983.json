@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'premature':",
+      "options": {
+        "a": "early",
+        "b": "hasty",
+        "c": "belated",
+        "d": "rapid"
+      },
+      "one_liner": "The antonym of 'premature' is 'belated', which means happening later than should have been the case.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

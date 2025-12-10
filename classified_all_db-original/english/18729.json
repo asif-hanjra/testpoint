@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fulsome':",
+      "options": {
+        "a": "understated",
+        "b": "exaggerated",
+        "c": "sparse",
+        "d": "meager"
+      },
+      "one_liner": "'Fulsome' often implies excessive flattery or insincerity, similar to 'overdone' or 'exaggerated'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

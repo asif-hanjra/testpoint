@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'inspired':",
+      "options": {
+        "a": "dull",
+        "b": "stimulated",
+        "c": "unmotivated",
+        "d": "bored"
+      },
+      "one_liner": "'Inspired' often means influenced or motivated, similar to 'stimulated' or 'spurred'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

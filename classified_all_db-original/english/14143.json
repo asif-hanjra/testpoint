@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'constantly':",
+      "options": {
+        "a": "perpetually:seldom",
+        "b": "regularly:often",
+        "c": "incessantly:continuously",
+        "d": "ceaselessly:always"
+      },
+      "one_liner": "'Perpetually' is a synonym of 'constantly', while 'seldom' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

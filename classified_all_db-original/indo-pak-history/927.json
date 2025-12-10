@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Allama Iqbal deliver his famous Allahabad Address?",
+      "options": {
+        "a": "1928",
+        "b": "1932",
+        "c": "1930",
+        "d": "1935"
+      },
+      "one_liner": "Allama Iqbal delivered his renowned Allahabad Address in **1930**, outlining the idea of a separate Muslim state.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Allahabad Address 1930",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

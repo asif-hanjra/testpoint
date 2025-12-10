@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the length of the Baltoro Glacier?",
+      "options": {
+        "a": "63 km (39 mi)",
+        "b": "76 km (47 mi)",
+        "c": "67 km",
+        "d": "49 km"
+      },
+      "one_liner": "The Baltoro Glacier extends for **63 km (39 mi)**, making it one of the longest glaciers outside the Polar Regions.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

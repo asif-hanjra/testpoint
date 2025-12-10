@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which line passes through Ecuador, Cambodia, and Brazil in South America?",
+      "options": {
+        "a": "Tropic of Cancer",
+        "b": "Equator",
+        "c": "Prime Meridian",
+        "d": "Tropic of Capricorn"
+      },
+      "one_liner": "The **Equator** passes through Ecuador, Cambodia, and Brazil in South America.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

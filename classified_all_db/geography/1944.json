@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are gigantic clouds containing dust and gas in space called?",
+      "options": {
+        "a": "Nebula",
+        "b": "Asteroid",
+        "c": "Comet",
+        "d": "Meteor"
+      },
+      "one_liner": "Gigantic clouds in space that contain dust and gas are known as **Nebula**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

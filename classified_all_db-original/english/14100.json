@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'proposition':",
+      "options": {
+        "a": "offer:certainty",
+        "b": "plan:doubt",
+        "c": "idea:fact",
+        "d": "suggestion:theory"
+      },
+      "one_liner": "'Offer' is a synonym of 'proposition', while 'certainty' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

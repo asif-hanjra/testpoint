@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tenacious':",
+      "options": {
+        "a": "persistent:fleeting",
+        "b": "obstinate:resolute",
+        "c": "steadfast:permanent",
+        "d": "diligent:indolent"
+      },
+      "one_liner": "'Persistent' is a synonym of 'tenacious', while 'fleeting' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

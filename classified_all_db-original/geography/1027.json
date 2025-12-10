@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Bay of Biscay located?",
+      "options": {
+        "a": "France and Spain",
+        "b": "Italy and Greece",
+        "c": "Portugal and Morocco",
+        "d": "England and Ireland"
+      },
+      "one_liner": "The Bay of Biscay is located along the coast of **France and Spain** in the Atlantic Ocean.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cover':",
+      "options": {
+        "a": "shield",
+        "b": "conceal",
+        "c": "expose",
+        "d": "protect"
+      },
+      "one_liner": "The opposite of 'cover', which means to hide or protect, would be 'expose' or 'unveil'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

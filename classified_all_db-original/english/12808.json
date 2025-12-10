@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "BOWLER : HAT :: SATCHEL : ________?",
+      "options": {
+        "a": "Bag",
+        "b": "Coat",
+        "c": "Shoe",
+        "d": "Scarf"
+      },
+      "one_liner": "A bowler is a type of hat, just as a satchel is a type of bag.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

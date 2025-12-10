@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a common example of mass wasting?",
+      "options": {
+        "a": "Flood",
+        "b": "Landslide",
+        "c": "Earthquake",
+        "d": "None of these"
+      },
+      "one_liner": "A **landslide** is a well-known example of the mass wasting process.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Denudation (Weathering, Erosion, Mass Wasting)",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Denudation (Weathering, Erosion, Mass Wasting)",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

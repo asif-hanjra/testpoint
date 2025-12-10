@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'fall between two stools' mean?",
+      "options": {
+        "a": "To mediate between two parties",
+        "b": "To be unable to decide between two options",
+        "c": "To fail because of indecision between two alternatives",
+        "d": "To catch someone doing something wrong"
+      },
+      "one_liner": "The idiom 'fall between two stools' means to fail because of indecision between two alternatives or by not being adequately suited to either.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

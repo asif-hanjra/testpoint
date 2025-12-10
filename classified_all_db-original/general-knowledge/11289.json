@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What anniversary did the Eiffel Tower crown?",
+      "options": {
+        "a": "French Revolution",
+        "b": "World War I",
+        "c": "Napoleonic Wars",
+        "d": "None of these"
+      },
+      "one_liner": "The Eiffel Tower was built to crown the centennial anniversary of the **French Revolution**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Sydney Opera House",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Eiffel Tower",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

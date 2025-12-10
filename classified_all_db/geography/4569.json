@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country is the Hochtor Pass located?",
+      "options": {
+        "a": "Switzerland",
+        "b": "Austria",
+        "c": "Germany",
+        "d": "Italy"
+      },
+      "one_liner": "The Hochtor Pass is located in **Austria**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

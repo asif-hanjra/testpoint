@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'feud':",
+      "options": {
+        "a": "rivalry",
+        "b": "dispute",
+        "c": "alliance",
+        "d": "discord"
+      },
+      "one_liner": "While 'feud' implies a long-standing conflict, 'alliance' suggests a relationship of cooperation or partnership.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

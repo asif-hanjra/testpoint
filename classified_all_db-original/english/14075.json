@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "LAPIDARY : GEM :: DRAMATURGE : ________?",
+      "options": {
+        "a": "Script",
+        "b": "Play",
+        "c": "Stage",
+        "d": "Actor"
+      },
+      "one_liner": "A lapidary works with gems, and a dramatuge writes plays.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

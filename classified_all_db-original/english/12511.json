@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gummy':",
+      "options": {
+        "a": "smooth",
+        "b": "tacky",
+        "c": "slippery",
+        "d": "dry"
+      },
+      "one_liner": "'Gummy' means sticky or adhesive, similar to 'tacky' or 'gluey'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

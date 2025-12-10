@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'misnomer':",
+      "options": {
+        "a": "inaccuracy",
+        "b": "error",
+        "c": "appropriateness",
+        "d": "deception"
+      },
+      "one_liner": "An antonym of 'misnomer' is 'appropriateness', which implies a correct or suitable naming.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

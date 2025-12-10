@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'perpetuate':",
+      "options": {
+        "a": "halt",
+        "b": "sustain",
+        "c": "cease",
+        "d": "stop"
+      },
+      "one_liner": "'Perpetuate' means to make something continue indefinitely, similar to 'sustain' or 'maintain'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

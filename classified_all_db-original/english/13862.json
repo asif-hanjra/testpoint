@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She was dressed ___ black for the party.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "with"
+      },
+      "one_liner": "She was dressed 'in' black for the party.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

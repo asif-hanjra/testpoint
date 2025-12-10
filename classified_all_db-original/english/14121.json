@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'follow':",
+      "options": {
+        "a": "lead",
+        "b": "chase",
+        "c": "accompany",
+        "d": "shadow"
+      },
+      "one_liner": "The opposite of 'follow' is 'lead', which means to go in front or to guide.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "if a+b+c=0 then value of (a+b/c + b+c/a + c+a/b) (a/b+c +b/c+a +c/a+b) is ?",
+      "options": {
+        "a": "8",
+        "b": "-3",
+        "c": "9",
+        "d": "0"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

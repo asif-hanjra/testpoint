@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river is the Mohmand Dam being constructed?",
+      "options": {
+        "a": "Indus River",
+        "b": "Swat River",
+        "c": "Chenab River",
+        "d": "Jhelum River"
+      },
+      "one_liner": "The Mohmand Dam is being constructed on the **Swat River**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

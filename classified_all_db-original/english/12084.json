@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'odd':",
+      "options": {
+        "a": "eccentric:typical",
+        "b": "normal:strange",
+        "c": "peculiar:ordinary",
+        "d": "bizarre:normal"
+      },
+      "one_liner": "'Eccentric' is a synonym for 'odd', while 'typical' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

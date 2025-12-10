@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who fought the Third Battle of Panipat?",
+      "options": {
+        "a": "Afghanis and Marathas",
+        "b": "British and Sikhs",
+        "c": "Mughals and British",
+        "d": "Marathas and Sikhs"
+      },
+      "one_liner": "The Third Battle of Panipat was a major conflict fought between the **Afghanis and the Marathas**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

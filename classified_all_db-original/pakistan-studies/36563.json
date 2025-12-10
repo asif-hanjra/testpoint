@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who composed the music for Pakistan's National Anthem in 1949?",
+      "options": {
+        "a": "Hafeez Jalandhari",
+        "b": "Ahmad G. Chagla",
+        "c": "Noor Jehan",
+        "d": "None of these"
+      },
+      "one_liner": "The music for Pakistan's National Anthem was composed by **Ahmad G. Chagla** in 1949.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1950)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

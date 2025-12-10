@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ridiculous':",
+      "options": {
+        "a": "reasonable",
+        "b": "preposterous",
+        "c": "sensible",
+        "d": "logical"
+      },
+      "one_liner": "'Ridiculous' means absurd or laughable, similar to 'preposterous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

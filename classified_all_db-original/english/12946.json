@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'overture':",
+      "options": {
+        "a": "prelude:finale",
+        "b": "introduction:epilogue",
+        "c": "commencement:conclusion",
+        "d": "prologue:ending"
+      },
+      "one_liner": "'Prelude' is a synonym of 'overture', while 'finale' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

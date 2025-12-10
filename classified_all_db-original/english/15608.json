@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The car was run ___ by a bus.",
+      "options": {
+        "a": "over",
+        "b": "by",
+        "c": "with",
+        "d": "at"
+      },
+      "one_liner": "The car was run 'by' a bus.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

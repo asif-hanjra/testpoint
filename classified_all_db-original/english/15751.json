@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'forgery':",
+      "options": {
+        "a": "counterfeiting:veracity",
+        "b": "fraudulence:truthfulness",
+        "c": "deception:authenticity",
+        "d": "imitation:originality"
+      },
+      "one_liner": "'Counterfeiting' is a synonym of 'forgery', while 'veracity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

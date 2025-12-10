@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For approximately how many miles does the combined stream of the five rivers run southwest before joining the Indus River?",
+      "options": {
+        "a": "10 miles",
+        "b": "25 miles",
+        "c": "45 miles",
+        "d": "60 miles"
+      },
+      "one_liner": "The combined stream of the five rivers runs southwest for about **45 miles** before joining the Indus River.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'orientation':",
+      "options": {
+        "a": "disorientation",
+        "b": "perspective",
+        "c": "confusion",
+        "d": "misdirection"
+      },
+      "one_liner": "'Orientation' refers to a person's basic attitudes or beliefs, similar to 'perspective'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

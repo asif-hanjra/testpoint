@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'approachable':",
+      "options": {
+        "a": "accessible:aloof",
+        "b": "welcoming:friendly",
+        "c": "amiable:accessible",
+        "d": "cordial:unapproachable"
+      },
+      "one_liner": "'Accessible' is a synonym of 'approachable', while 'aloof' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

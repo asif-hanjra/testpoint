@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'contend':",
+      "options": {
+        "a": "agree",
+        "b": "vie",
+        "c": "accept",
+        "d": "yield"
+      },
+      "one_liner": "'Contend' means to struggle or compete with others, similar to 'compete' or 'vie'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of plants complete their life cycle during a single season?",
+      "options": {
+        "a": "Annuals",
+        "b": "Biennials",
+        "c": "Perennials",
+        "d": "None of these"
+      },
+      "one_liner": "Plants known as annuals complete their entire life cycle within a single season, making them unique among plant types.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

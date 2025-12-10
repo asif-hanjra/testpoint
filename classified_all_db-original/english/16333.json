@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'catalyst':",
+      "options": {
+        "a": "stimulus:restraint",
+        "b": "impetus:accelerator",
+        "c": "motivator:encouragement",
+        "d": "spur:promotion"
+      },
+      "one_liner": "'Stimulus' is a synonym for 'catalyst', while 'restraint' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

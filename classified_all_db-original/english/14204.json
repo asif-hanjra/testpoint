@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'precipitous':",
+      "options": {
+        "a": "steep",
+        "b": "abrupt",
+        "c": "gentle",
+        "d": "sharp"
+      },
+      "one_liner": "The antonym of 'precipitous' is 'gentle', which suggests a gradual incline rather than a steep drop.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

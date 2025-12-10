@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'coherent':",
+      "options": {
+        "a": "confused",
+        "b": "lucid",
+        "c": "illogical",
+        "d": "disjointed"
+      },
+      "one_liner": "'Coherent' means logical and consistent, similar to 'lucid' and 'intelligible'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

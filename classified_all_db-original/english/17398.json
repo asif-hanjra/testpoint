@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exuberant':",
+      "options": {
+        "a": "vibrant",
+        "b": "lively",
+        "c": "subdued",
+        "d": "animated"
+      },
+      "one_liner": "The antonym of 'exuberant' is 'subdued', which means quiet and rather reflective or depressed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

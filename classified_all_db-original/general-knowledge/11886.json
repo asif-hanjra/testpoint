@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the world headquarters of the Baha'i faith located?",
+      "options": {
+        "a": "Tehran, Iran",
+        "b": "Haifa, Israel",
+        "c": "Cairo, Egypt",
+        "d": "Baghdad, Iraq"
+      },
+      "one_liner": "The world headquarters of the Baha'i faith is situated in **Haifa, Israel** at the Shrine of the Bab.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

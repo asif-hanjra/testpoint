@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'precipice':",
+      "options": {
+        "a": "plateau",
+        "b": "gorge",
+        "c": "ravine",
+        "d": "canyon"
+      },
+      "one_liner": "An antonym for 'precipice' is 'plateau', which signifies a flat, elevated area of land.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

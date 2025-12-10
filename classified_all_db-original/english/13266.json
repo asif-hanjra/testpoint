@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'normal':",
+      "options": {
+        "a": "typical:unusual",
+        "b": "regular:common",
+        "c": "ordinary:standard",
+        "d": "customary:abnormal"
+      },
+      "one_liner": "'Typical' is a synonym of 'normal', while 'unusual' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Pakistan and China establish diplomatic relations?",
+      "options": {
+        "a": "May 21, 1951",
+        "b": "October 16, 1951",
+        "c": "August 13, 1954",
+        "d": "December 12, 1952"
+      },
+      "one_liner": "Pakistan and China established diplomatic relations on **May 21, 1951**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

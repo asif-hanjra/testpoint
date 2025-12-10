@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'protracted':",
+      "options": {
+        "a": "brief",
+        "b": "lengthy",
+        "c": "short",
+        "d": "transient"
+      },
+      "one_liner": "'Protracted' means drawn out or extended in time, similar to 'lengthy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'precedence':",
+      "options": {
+        "a": "subordination",
+        "b": "superiority",
+        "c": "dominance",
+        "d": "precedence"
+      },
+      "one_liner": "An antonym of 'precedence' is 'subordination', which implies a lower status or importance.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

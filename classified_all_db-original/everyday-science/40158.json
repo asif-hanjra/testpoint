@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal has the highest melting point?",
+      "options": {
+        "a": "Tungsten",
+        "b": "Iron",
+        "c": "Platinum",
+        "d": "Gold"
+      },
+      "one_liner": "Of all metals, **tungsten** has the highest melting point.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

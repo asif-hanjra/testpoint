@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the first census held in the sub-continent?",
+      "options": {
+        "a": "1872",
+        "b": "1881",
+        "c": "1891",
+        "d": "1901"
+      },
+      "one_liner": "The first census in the sub-continent was conducted in **1881**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

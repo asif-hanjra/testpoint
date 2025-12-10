@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "He asked me \"did you see the new car\".",
+      "options": {
+        "a": "He asked me If I had seen the new car",
+        "b": "He asked me if I see the new car",
+        "c": "He asked me if I have seen the new car",
+        "d": "He asked me if I had saw the new car"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

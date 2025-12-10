@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impregnable':",
+      "options": {
+        "a": "fortified:exposed",
+        "b": "invincible:weak",
+        "c": "secure:vulnerable",
+        "d": "strong:assailable"
+      },
+      "one_liner": "'Unassailable' is a synonym of 'impregnable', while 'exposed' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

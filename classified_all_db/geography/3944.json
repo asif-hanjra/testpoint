@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Most Southeast Asian countries are located on which tectonic plate?",
+      "options": {
+        "a": "Eurasian Plate",
+        "b": "Sunda Plate",
+        "c": "Indian Plate",
+        "d": "Philippine Plate"
+      },
+      "one_liner": "Almost all Southeast Asian countries are situated on the **Sunda Plate**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "South Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

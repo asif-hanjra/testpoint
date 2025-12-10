@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why did the Muslim League oppose the Simon Commission?",
+      "options": {
+        "a": "It was led by a Hindu",
+        "b": "It contained no Muslim",
+        "c": "It was delayed",
+        "d": "All of these"
+      },
+      "one_liner": "The Muslim League opposed the Simon Commission because **it contained no Muslim member**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

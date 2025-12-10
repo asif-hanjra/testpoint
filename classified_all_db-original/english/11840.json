@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deft':",
+      "options": {
+        "a": "clumsy",
+        "b": "dexterous",
+        "c": "awkward",
+        "d": "inept"
+      },
+      "one_liner": "'Deft' describes someone who is skilled and quick in their movements, similar to being 'dexterous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

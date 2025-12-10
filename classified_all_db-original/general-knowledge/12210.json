@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many member states are part of SAARC?",
+      "options": {
+        "a": "Six",
+        "b": "Seven",
+        "c": "Eight",
+        "d": "Nine"
+      },
+      "one_liner": "SAARC comprises **eight Member States**, including Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

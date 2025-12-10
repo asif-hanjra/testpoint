@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the highest waterfall in the world?",
+      "options": {
+        "a": "Niagara Falls",
+        "b": "Victoria Falls",
+        "c": "Angel Falls",
+        "d": "Iguazu Falls"
+      },
+      "one_liner": "The highest waterfall in the world is **Angel Falls**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

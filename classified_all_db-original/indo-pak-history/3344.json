@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which was the first Muslim dynasty to rule India?",
+      "options": {
+        "a": "Khilji Dynasty",
+        "b": "Slave (Mamluk) Dynasty",
+        "c": "Tughlaq Dynasty",
+        "d": "Lodi Dynasty"
+      },
+      "one_liner": "The first Muslim dynasty to rule India was the **Slave (Mamluk) Dynasty**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

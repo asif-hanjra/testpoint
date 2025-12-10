@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The film was different ___ what I had been expecting.",
+      "options": {
+        "a": "than",
+        "b": "from",
+        "c": "to",
+        "d": "with"
+      },
+      "one_liner": "The film was different 'from' what I had been expecting.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

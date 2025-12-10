@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What environmental issue is caused by smoke from industries?",
+      "options": {
+        "a": "Acid rain",
+        "b": "Ozone depletion",
+        "c": "Smog",
+        "d": "None of these"
+      },
+      "one_liner": "Smoke released from industries is a major contributor to the formation of **smog**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

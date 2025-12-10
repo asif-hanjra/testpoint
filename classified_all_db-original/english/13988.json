@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vex':",
+      "options": {
+        "a": "annoy",
+        "b": "aggravate",
+        "c": "soothe",
+        "d": "irritate"
+      },
+      "one_liner": "The antonym of 'vex' is 'soothe', which means to calm or comfort.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

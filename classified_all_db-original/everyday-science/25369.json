@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is one of the medical uses of radon?",
+      "options": {
+        "a": "Treatment of cancer",
+        "b": "Making fertilizers",
+        "c": "Food preservation",
+        "d": "Water purification"
+      },
+      "one_liner": "Radon is sometimes used in the treatment of cancer due to its radioactive properties.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

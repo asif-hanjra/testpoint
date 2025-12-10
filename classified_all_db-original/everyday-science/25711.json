@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What celestial event occurs when the Moon comes between the Sun and the Earth?",
+      "options": {
+        "a": "Lunar eclipse",
+        "b": "Solar eclipse",
+        "c": "Meteor shower",
+        "d": "None of these"
+      },
+      "one_liner": "A solar eclipse takes place when the **Moon comes between the Sun and the Earth**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

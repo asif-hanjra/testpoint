@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What does FAT stands for?",
+      "options": {
+        "a": "File attribute type",
+        "b": "File Allocation Treaty",
+        "c": "File allocation table",
+        "d": "Format All Tabs settings"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How long does it take for sunlight to reach the Earth?",
+      "options": {
+        "a": "5 minutes",
+        "b": "8 minutes 20 seconds",
+        "c": "10 minutes",
+        "d": "None of these"
+      },
+      "one_liner": "Sunlight takes approximately **8 minutes and 20 seconds** to travel from the Sun to the Earth.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prevalent':",
+      "options": {
+        "a": "ubiquitous",
+        "b": "common",
+        "c": "uncommon",
+        "d": "frequent"
+      },
+      "one_liner": "An antonym of 'prevalent' is 'uncommon', which means not widespread or frequent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

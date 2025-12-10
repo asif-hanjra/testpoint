@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'spine':",
+      "options": {
+        "a": "edge",
+        "b": "backbone",
+        "c": "front",
+        "d": "surface"
+      },
+      "one_liner": "'Spine' can also be referred to as the 'backbone', which is the central support structure in vertebrates.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

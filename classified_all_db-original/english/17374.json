@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "80 : 40 :: 2 : ________?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "1",
+        "d": "0"
+      },
+      "one_liner": "80 is double of 40, just as 2 is double of 1 (or 40 is half of 80, and 1 is half of 2).",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ostracize':",
+      "options": {
+        "a": "welcome",
+        "b": "shun",
+        "c": "accept",
+        "d": "invite"
+      },
+      "one_liner": "'Ostracize' means to exclude from a group, similar to 'shun' or 'banish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

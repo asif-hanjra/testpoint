@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'slander':",
+      "options": {
+        "a": "defamation:accolade",
+        "b": "commendation:vilification",
+        "c": "libel:praise",
+        "d": "denigration:flattery"
+      },
+      "one_liner": "'Calumny' is a synonym of 'slander', while 'accolade' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

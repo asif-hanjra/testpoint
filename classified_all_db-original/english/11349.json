@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'shift':",
+      "options": {
+        "a": "alter:stay",
+        "b": "change:switch",
+        "c": "move:remain",
+        "d": "switch:transition"
+      },
+      "one_liner": "'Alter' is a synonym of 'shift', while 'stay' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

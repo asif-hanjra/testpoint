@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'extent':",
+      "options": {
+        "a": "limitation",
+        "b": "expansion",
+        "c": "increase",
+        "d": "extension"
+      },
+      "one_liner": "The antonym of 'extent' could be 'limitation', which refers to the restriction or boundary of something.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

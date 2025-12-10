@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'limp':",
+      "options": {
+        "a": "sturdy",
+        "b": "flaccid",
+        "c": "rigid",
+        "d": "solid"
+      },
+      "one_liner": "'Limp' describes a type of walk that is unsteady or weak, similar to 'flaccid' or 'floppy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lethargic':",
+      "options": {
+        "a": "sluggish",
+        "b": "drowsy",
+        "c": "vigorous",
+        "d": "inactive"
+      },
+      "one_liner": "Antonyms of 'lethargic' include 'energetic' and 'vigorous', both suggesting liveliness and activity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

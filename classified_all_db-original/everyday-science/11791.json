@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the first process in a petroleum refinery called?",
+      "options": {
+        "a": "Cracking",
+        "b": "Distillation",
+        "c": "Polymerization",
+        "d": "Reforming"
+      },
+      "one_liner": "The initial step in refining petroleum is known as **distillation**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

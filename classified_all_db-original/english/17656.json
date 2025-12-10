@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'validate':",
+      "options": {
+        "a": "invalidate",
+        "b": "authenticate",
+        "c": "disprove",
+        "d": "refute"
+      },
+      "one_liner": "'Validate' means to confirm or endorse something as true or legitimate, similar to 'authenticate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

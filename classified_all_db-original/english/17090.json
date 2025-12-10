@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reliable':",
+      "options": {
+        "a": "trustworthy:undependable",
+        "b": "steady:constant",
+        "c": "faithful:loyal",
+        "d": "dependable:reliable"
+      },
+      "one_liner": "'Trustworthy' is a synonym of 'reliable', while 'undependable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'yield':",
+      "options": {
+        "a": "submit",
+        "b": "surrender",
+        "c": "resist",
+        "d": "concede"
+      },
+      "one_liner": "As 'yield' can mean to surrender or give way, 'resist' is an antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

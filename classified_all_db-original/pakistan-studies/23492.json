@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The 'Hilal-e-Kashmir' award is considered equivalent to which Pakistani military honor?",
+      "options": {
+        "a": "Sitara-e-Jurat",
+        "b": "Nishan-e-Haider",
+        "c": "Tamgha-e-Shujaat",
+        "d": "None of these"
+      },
+      "one_liner": "The 'Hilal-e-Kashmir' award is considered equivalent to the **Nishan-e-Haider** in Pakistan's military honors.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

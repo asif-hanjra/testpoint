@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented the electric lamp (light bulb)?",
+      "options": {
+        "a": "Thomas Edison",
+        "b": "Alexander Graham Bell",
+        "c": "Marconi",
+        "d": "Alexander Fleming"
+      },
+      "one_liner": "The electric lamp, commonly known as the light bulb, was invented by **Thomas Edison**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

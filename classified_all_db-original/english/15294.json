@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'literal':",
+      "options": {
+        "a": "figurative",
+        "b": "exact",
+        "c": "factual",
+        "d": "precise"
+      },
+      "one_liner": "An antonym of 'literal' is 'figurative', which involves the use of figures of speech to be more effective, persuasive, and impactful.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

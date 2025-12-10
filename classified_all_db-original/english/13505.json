@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prodigious':",
+      "options": {
+        "a": "enormous",
+        "b": "massive",
+        "c": "insignificant",
+        "d": "gigantic"
+      },
+      "one_liner": "An antonym of 'prodigious' is 'insignificant', which implies something is small or unimportant.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

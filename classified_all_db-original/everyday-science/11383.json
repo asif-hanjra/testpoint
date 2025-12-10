@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What title is Muhammad ibn Musa al-Khwarizmi famously known by?",
+      "options": {
+        "a": "Father of geometry",
+        "b": "Father of algebra",
+        "c": "Father of chemistry",
+        "d": "None of these"
+      },
+      "one_liner": "Muhammad ibn Musa al-Khwarizmi is famously known as the **father of algebra**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

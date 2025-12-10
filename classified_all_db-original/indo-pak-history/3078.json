@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was Muhammad Ali Jinnah born?",
+      "options": {
+        "a": "11 September 1948",
+        "b": "25 December 1876",
+        "c": "14 August 1947",
+        "d": "16 December 1971"
+      },
+      "one_liner": "The birthdate of Muhammad Ali Jinnah, a key leader in the Pakistan Movement, is **25 December 1876**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

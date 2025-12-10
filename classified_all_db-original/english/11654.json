@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'imply':",
+      "options": {
+        "a": "hint",
+        "b": "suggest",
+        "c": "state explicitly",
+        "d": "allude"
+      },
+      "one_liner": "While 'imply' means to suggest indirectly, its antonym 'state explicitly' means to express something clearly and directly.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

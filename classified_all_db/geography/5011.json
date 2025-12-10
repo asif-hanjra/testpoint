@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country bombed the US naval base at Pearl Harbor during World War II?",
+      "options": {
+        "a": "Germany",
+        "b": "Italy",
+        "c": "Japan",
+        "d": "Russia"
+      },
+      "one_liner": "The US naval base at Pearl Harbor was bombed by **Japan** during World War II.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cease':",
+      "options": {
+        "a": "halt",
+        "b": "finish",
+        "c": "commence",
+        "d": "stop"
+      },
+      "one_liner": "An antonym of 'cease' is 'commence', which means to begin or start.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'jest':",
+      "options": {
+        "a": "banter",
+        "b": "grieve",
+        "c": "chuckle",
+        "d": "smirk"
+      },
+      "one_liner": "The opposite of 'jest', which means to joke, would be to 'grieve' or express sorrow.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'drastic':",
+      "options": {
+        "a": "severe:moderate",
+        "b": "harsh:mild",
+        "c": "radical:gentle",
+        "d": "extreme:slight"
+      },
+      "one_liner": "A 'severe' action is synonymous with a 'drastic' one, whereas 'moderate' actions are its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'desolate':",
+      "options": {
+        "a": "crowded",
+        "b": "barren",
+        "c": "populated",
+        "d": "bustling"
+      },
+      "one_liner": "'Desolate' describes a place that is bleak or devoid of life, much like 'barren'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

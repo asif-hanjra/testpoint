@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vilify':",
+      "options": {
+        "a": "slander:acclaim",
+        "b": "defame:honor",
+        "c": "denigrate:praise",
+        "d": "disparage:commend"
+      },
+      "one_liner": "'Slander' is a synonym for 'vilify', while 'acclaim' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prolong':",
+      "options": {
+        "a": "extend:abbreviate",
+        "b": "lengthen:prolong",
+        "c": "reduce:expand",
+        "d": "continue:halt"
+      },
+      "one_liner": "'Extend' is a synonym of 'prolong', while 'abbreviate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

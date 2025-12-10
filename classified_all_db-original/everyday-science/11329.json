@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following lists contains only non-metals?",
+      "options": {
+        "a": "Iron, Copper, Sodium, Magnesium",
+        "b": "Carbon, Hydrogen, Oxygen, Nitrogen",
+        "c": "Iron, Carbon, Oxygen, Sodium",
+        "d": "Magnesium, Nitrogen, Copper, Hydrogen"
+      },
+      "one_liner": "The list of carbon, hydrogen, oxygen, and nitrogen consists entirely of non-metals, as all these elements are classified as non-metals.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

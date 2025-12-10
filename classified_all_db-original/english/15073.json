@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'promptly':",
+      "options": {
+        "a": "eventually",
+        "b": "immediately",
+        "c": "slowly",
+        "d": "gradually"
+      },
+      "one_liner": "'Promptly' means quickly or without delay, similar to 'immediately'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

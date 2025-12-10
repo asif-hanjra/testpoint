@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of trees are commonly found in Ziarat?",
+      "options": {
+        "a": "Pine",
+        "b": "Oak",
+        "c": "Juniper",
+        "d": "None of these"
+      },
+      "one_liner": "The trees commonly found in Ziarat are known as **Juniper**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

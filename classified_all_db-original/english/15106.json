@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'congruent':",
+      "options": {
+        "a": "consistent:disparate",
+        "b": "compatible:identical",
+        "c": "harmonious:discordant",
+        "d": "similar:different"
+      },
+      "one_liner": "'Consistent' is a synonym of 'congruent', while 'disparate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

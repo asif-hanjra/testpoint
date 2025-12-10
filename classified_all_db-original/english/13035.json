@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'front':",
+      "options": {
+        "a": "back",
+        "b": "forepart",
+        "c": "beginning",
+        "d": "frontal"
+      },
+      "one_liner": "The antonym of 'front' is 'back', referring to the opposite, rear part.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

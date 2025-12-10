@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Saad is a conceited boy ___ I dislike very much.",
+      "options": {
+        "a": "which",
+        "b": "whom",
+        "c": "whose",
+        "d": "that"
+      },
+      "one_liner": "Saad is a conceited boy 'that' I dislike very much.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

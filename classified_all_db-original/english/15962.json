@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'wow' in the sentence 'Wow! That was incredible'?",
+      "options": {
+        "a": "Interjection",
+        "b": "Adverb",
+        "c": "Conjunction",
+        "d": "Adjective"
+      },
+      "one_liner": "In the sentence 'Wow! That was incredible', the word 'wow' is an interjection because it expresses a strong emotion.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

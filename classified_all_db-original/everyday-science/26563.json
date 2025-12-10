@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the cause of ageing in human beings according to the provided data?",
+      "options": {
+        "a": "Disappearance of thymus glands",
+        "b": "Decrease in red blood cells",
+        "c": "Loss of bone density",
+        "d": "None of these"
+      },
+      "one_liner": "Ageing in human beings is attributed to the **disappearance of thymus glands**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deviation':",
+      "options": {
+        "a": "conformity",
+        "b": "divergence",
+        "c": "similarity",
+        "d": "uniformity"
+      },
+      "one_liner": "'Deviation' refers to a departure from the norm, similar to 'divergence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

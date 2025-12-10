@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Jabir ibn Haiyan is most famous for his work in which scientific discipline?",
+      "options": {
+        "a": "Astronomy",
+        "b": "Mathematics",
+        "c": "Chemistry",
+        "d": "Physics"
+      },
+      "one_liner": "Jabir ibn Haiyan is most celebrated for his significant advancements in the field of **Chemistry**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

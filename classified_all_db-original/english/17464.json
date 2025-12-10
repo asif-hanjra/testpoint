@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prolong':",
+      "options": {
+        "a": "extend",
+        "b": "continue",
+        "c": "shorten",
+        "d": "maintain"
+      },
+      "one_liner": "The antonym of 'prolong' is 'shorten', which means to make something last for less time.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

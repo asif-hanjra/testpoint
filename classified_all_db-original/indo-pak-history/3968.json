@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the popular title of Abul Kasem Fazlul Huq, a key figure in the Pakistan Movement?",
+      "options": {
+        "a": "Sher-e-Bengal",
+        "b": "Quaid-e-Azam",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Abul Kasem Fazlul Huq was popularly known as **Sher-e-Bengal** for his significant role in the Pakistan Movement.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

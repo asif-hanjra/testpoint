@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sober':",
+      "options": {
+        "a": "abstinent:drunk",
+        "b": "clear-headed:temperate",
+        "c": "temperate:intoxicated",
+        "d": "inebriated:abstinent"
+      },
+      "one_liner": "'Abstinent' is a synonym of 'sober', while 'drunk' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

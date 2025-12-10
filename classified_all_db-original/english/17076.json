@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ignoble':",
+      "options": {
+        "a": "noble",
+        "b": "honorable",
+        "c": "base",
+        "d": "virtuous"
+      },
+      "one_liner": "'Ignoble' means not honorable in character or purpose, similar to 'dishonorable' or 'base'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

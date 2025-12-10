@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Prime Minister of Pakistan at the time of the Rawalpindi Conspiracy Case in 1951?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Khawaja Nazimuddin",
+        "c": "Muhammad Ali Bogra",
+        "d": "None of these"
+      },
+      "one_liner": "The Prime Minister of Pakistan during the Rawalpindi Conspiracy Case in 1951 was **Liaquat Ali Khan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

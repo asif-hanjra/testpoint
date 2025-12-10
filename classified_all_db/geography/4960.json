@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which features are included in the legend of the map?",
+      "options": {
+        "a": "Capital, Provincial Capital, International Boundary, Provincial Boundary, Line of Control",
+        "b": "Capital, National Parks, Rivers, Highways",
+        "c": "Provincial Capital, Rivers, Airports, International Boundary",
+        "d": "Capital, Provincial Capital, Airports, Mountains"
+      },
+      "one_liner": "The legend of the map includes symbols for **Capital, Provincial Capital, International Boundary, Provincial Boundary, and Line of Control**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Arabian Sea",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

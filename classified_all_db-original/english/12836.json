@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'enjoy':",
+      "options": {
+        "a": "despise",
+        "b": "relish",
+        "c": "hate",
+        "d": "dislike"
+      },
+      "one_liner": "'Enjoy' means to take pleasure in something, similar to 'relish' or 'savor'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

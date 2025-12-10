@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the charge of beta particles in nuclear radiation?",
+      "options": {
+        "a": "Positively charged",
+        "b": "Negatively charged",
+        "c": "Neutrally charged",
+        "d": "None of these"
+      },
+      "one_liner": "Beta particles in nuclear radiation are **negatively charged**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

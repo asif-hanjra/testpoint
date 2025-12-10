@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which preposition correctly completes the phrase: 'East ___ West, home is best'?",
+      "options": {
+        "a": "and",
+        "b": "or",
+        "c": "but",
+        "d": "nor"
+      },
+      "one_liner": "East 'or' West, home is best.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organ is responsible for secreting insulin in the human body?",
+      "options": {
+        "a": "Liver",
+        "b": "Pancreas",
+        "c": "Kidney",
+        "d": "Spleen"
+      },
+      "one_liner": "The organ that secretes insulin in the human body is the **pancreas**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

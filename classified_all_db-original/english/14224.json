@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fantastic':",
+      "options": {
+        "a": "spectacular:mundane",
+        "b": "awesome:fabulous",
+        "c": "extraordinary:exceptional",
+        "d": "incredible:amazing"
+      },
+      "one_liner": "'Spectacular' is a synonym of 'fantastic', while 'mundane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

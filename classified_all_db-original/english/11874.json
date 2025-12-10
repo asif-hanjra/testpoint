@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'radiant':",
+      "options": {
+        "a": "shining:dreary",
+        "b": "glowing:brilliant",
+        "c": "lustrous:shiny",
+        "d": "bright:light"
+      },
+      "one_liner": "'Beaming' is a synonym of 'radiant', while 'dreary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

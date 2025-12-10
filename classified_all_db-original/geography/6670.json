@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the highest point of the Salt Ranges?",
+      "options": {
+        "a": "Takht-e-Sulaiman",
+        "b": "Sakesar Peak",
+        "c": "Margalla Hill",
+        "d": "None of these"
+      },
+      "one_liner": "The highest point of the Salt Ranges is known as **Sakesar Peak**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

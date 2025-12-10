@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'foil':",
+      "options": {
+        "a": "aid",
+        "b": "obstruct",
+        "c": "hamper",
+        "d": "impede"
+      },
+      "one_liner": "As 'foil' means to prevent or hinder, 'aid' would be its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

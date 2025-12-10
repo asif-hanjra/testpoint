@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'commentator':",
+      "options": {
+        "a": "spectator",
+        "b": "analyst",
+        "c": "observer",
+        "d": "viewer"
+      },
+      "one_liner": "'Commentator' refers to someone who provides commentary or opinions, much like an 'analyst' or 'pundit'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

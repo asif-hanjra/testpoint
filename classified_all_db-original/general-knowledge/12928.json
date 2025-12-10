@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Mosul Dam, considered the most dangerous dam in the world, located?",
+      "options": {
+        "a": "Syria",
+        "b": "Iraq",
+        "c": "Turkey",
+        "d": "Iran"
+      },
+      "one_liner": "The Mosul Dam, widely regarded as the world's most dangerous dam, is situated in **Iraq**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prodigious':",
+      "options": {
+        "a": "tiny",
+        "b": "immense",
+        "c": "insignificant",
+        "d": "minute"
+      },
+      "one_liner": "'Prodigious' means enormous or extraordinary, similar to 'immense' in magnitude.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

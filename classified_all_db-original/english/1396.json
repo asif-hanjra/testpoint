@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: Have you received the prize?",
+      "options": {
+        "a": "Was the prize received?",
+        "b": "Had the prize been received?",
+        "c": "Has the prize been received?",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

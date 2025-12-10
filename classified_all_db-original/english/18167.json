@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'anger':",
+      "options": {
+        "a": "joy",
+        "b": "rage",
+        "c": "happiness",
+        "d": "delight"
+      },
+      "one_liner": "'Anger' can be synonymous with 'rage', both expressing intense emotional displeasure.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

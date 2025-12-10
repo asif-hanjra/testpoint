@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'preamble':",
+      "options": {
+        "a": "introduction",
+        "b": "prologue",
+        "c": "epilogue",
+        "d": "foreword"
+      },
+      "one_liner": "An antonym of 'preamble' is 'epilogue', which is a section at the end of a book or document.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

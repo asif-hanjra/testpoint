@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many neutrons does a hydrogen atom have?",
+      "options": {
+        "a": "One",
+        "b": "Two",
+        "c": "Zero",
+        "d": "Three"
+      },
+      "one_liner": "Hydrogen is unique among elements because it has **zero neutrons** in its most common isotope.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

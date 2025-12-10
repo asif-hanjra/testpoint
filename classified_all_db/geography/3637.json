@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the elevation of the Bodpola mountain pass?",
+      "options": {
+        "a": "18,290 feet",
+        "b": "19,412 feet",
+        "c": "20,000 feet",
+        "d": "None of these"
+      },
+      "one_liner": "The Bodpola mountain pass has an elevation of **19,412 feet** above sea level.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Mountains",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Mountain Passes",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

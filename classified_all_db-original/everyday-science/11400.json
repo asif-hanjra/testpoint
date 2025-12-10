@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following vitamins is NOT fat-soluble?",
+      "options": {
+        "a": "Vitamin A",
+        "b": "Vitamin D",
+        "c": "Vitamin C",
+        "d": "Vitamin K"
+      },
+      "one_liner": "Among the options, **Vitamin C** is not fat-soluble, while vitamins A, D, E, and K are fat-soluble.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

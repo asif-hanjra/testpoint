@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following best describes elements in terms of their complexity?",
+      "options": {
+        "a": "They are the most complex substances",
+        "b": "They are the simplest substances known",
+        "c": "They are mixtures of compounds",
+        "d": "None of these"
+      },
+      "one_liner": "Elements are considered the **simplest substances known** in chemistry.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

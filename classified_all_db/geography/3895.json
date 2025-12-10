@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is located at the northern corner of Africa?",
+      "options": {
+        "a": "Libya",
+        "b": "Morocco",
+        "c": "Egypt",
+        "d": "Tunisia"
+      },
+      "one_liner": "Egypt is situated at the **northern corner of Africa**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Islands",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

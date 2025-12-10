@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Singapore Airlines is the airline of which country?",
+      "options": {
+        "a": "Singapore",
+        "b": "Malaysia",
+        "c": "Thailand",
+        "d": "Indonesia"
+      },
+      "one_liner": "Singapore Airlines is the national airline of **Singapore**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

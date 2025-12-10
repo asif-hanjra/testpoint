@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is known as the hottest planet in the solar system?",
+      "options": {
+        "a": "Venus",
+        "b": "Mercury",
+        "c": "Mars",
+        "d": "Jupiter"
+      },
+      "one_liner": "Venus is recognized as the **hottest** planet in the solar system.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

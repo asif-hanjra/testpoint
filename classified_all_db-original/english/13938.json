@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ebullient':",
+      "options": {
+        "a": "energetic",
+        "b": "vivacious",
+        "c": "lethargic",
+        "d": "spirited"
+      },
+      "one_liner": "The word 'ebullient' conveys a sense of liveliness, making 'lethargic' its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

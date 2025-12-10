@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What major political change occurred in Pakistan in 1972 regarding martial law?",
+      "options": {
+        "a": "Imposed",
+        "b": "Lifted",
+        "c": "Extended",
+        "d": "None of these"
+      },
+      "one_liner": "Martial law was **lifted** in Pakistan in 1972, marking a significant political change.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

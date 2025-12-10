@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dangerous':",
+      "options": {
+        "a": "safe",
+        "b": "hazardous",
+        "c": "secure",
+        "d": "protected"
+      },
+      "one_liner": "'Dangerous' means likely to cause harm or injury, similar to 'hazardous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

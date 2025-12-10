@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "After lunch, let's go ___ for a coffee.",
+      "options": {
+        "a": "off",
+        "b": "out",
+        "c": "in",
+        "d": "over"
+      },
+      "one_liner": "After lunch, let's go 'out' for a coffee.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

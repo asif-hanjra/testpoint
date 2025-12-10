@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'discreet':",
+      "options": {
+        "a": "careless",
+        "b": "prudent",
+        "c": "loud",
+        "d": "obvious"
+      },
+      "one_liner": "'Discreet' means careful and circumspect in one's speech or actions, especially in order to avoid causing offense or to gain an advantage—words like 'prudent' and 'judicious' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'crease':",
+      "options": {
+        "a": "smooth",
+        "b": "crumple",
+        "c": "wrinkle",
+        "d": "pucker"
+      },
+      "one_liner": "An antonym of 'crease' is 'smooth', which means to remove folds or wrinkles.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

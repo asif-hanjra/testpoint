@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'antipathy':",
+      "options": {
+        "a": "hostility",
+        "b": "dislike",
+        "c": "sympathy",
+        "d": "detestation"
+      },
+      "one_liner": "The antonym of 'antipathy' is 'sympathy', which signifies feelings of pity and sorrow for someone else's misfortune.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

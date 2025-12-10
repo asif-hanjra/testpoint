@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abscond':",
+      "options": {
+        "a": "depart",
+        "b": "vanish",
+        "c": "remain",
+        "d": "escape"
+      },
+      "one_liner": "An antonym of 'abscond' is 'remain', which means to stay in the same place.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

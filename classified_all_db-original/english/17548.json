@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prosperous':",
+      "options": {
+        "a": "wealthy",
+        "b": "successful",
+        "c": "impoverished",
+        "d": "thriving"
+      },
+      "one_liner": "The opposite of 'prosperous' is 'impoverished', which means lacking in wealth or resources.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

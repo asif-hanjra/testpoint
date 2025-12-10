@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Can I help you? I think you are ___ for someone.",
+      "options": {
+        "a": "look",
+        "b": "looks",
+        "c": "looking",
+        "d": "looked"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: Close the windows before you go to bed.",
+      "options": {
+        "a": "The windows were being closed before bed.",
+        "b": "The windows must be closed before you go to bed.",
+        "c": "The windows are closed before you go to bed.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

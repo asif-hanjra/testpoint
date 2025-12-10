@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conform':",
+      "options": {
+        "a": "differ",
+        "b": "comply",
+        "c": "rebel",
+        "d": "disagree"
+      },
+      "one_liner": "'Conform' means to comply with rules or standards, similar to 'comply' and 'adhere'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deprivation':",
+      "options": {
+        "a": "want:surplus",
+        "b": "scarcity:excess",
+        "c": "shortfall:plenty",
+        "d": "deficit:abundance"
+      },
+      "one_liner": "'Want' is a synonym for 'deprivation', while 'surplus' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

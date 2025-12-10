@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was the first to win the FIFA World Cup?",
+      "options": {
+        "a": "Brazil",
+        "b": "Uruguay",
+        "c": "Italy",
+        "d": "Germany"
+      },
+      "one_liner": "Uruguay became the first country to win the FIFA World Cup, marking a historic achievement in international football.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

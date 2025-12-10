@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cogent':",
+      "options": {
+        "a": "confusing",
+        "b": "persuasive",
+        "c": "vague",
+        "d": "irrelevant"
+      },
+      "one_liner": "'Cogent' means convincing or clear, so 'persuasive' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

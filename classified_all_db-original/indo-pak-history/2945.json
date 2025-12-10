@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who led the Hindu delegation to England to protest against the partition of Bengal?",
+      "options": {
+        "a": "Tilak",
+        "b": "Ghokhlay",
+        "c": "Nehru",
+        "d": "None of these"
+      },
+      "one_liner": "The Hindu delegation protesting the partition of Bengal in England was led by **Ghokhlay**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Urdu-Hindi Controversy (Banaras) (1867)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Urdu-Hindi Controversy (Banaras) (1867)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

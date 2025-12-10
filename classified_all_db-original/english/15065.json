@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'frugal':",
+      "options": {
+        "a": "economical:lavish",
+        "b": "wasteful:thrifty",
+        "c": "sparing:extravagant",
+        "d": "careful:reckless"
+      },
+      "one_liner": "'Economical' is a synonym of 'frugal', while 'lavish' is its antonym, indicating a contrast between careful spending and excessive expenditure.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

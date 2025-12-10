@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the city of Mashhad located in?",
+      "options": {
+        "a": "Iraq",
+        "b": "Iran",
+        "c": "Turkey",
+        "d": "Afghanistan"
+      },
+      "one_liner": "Mashhad is a renowned city situated in **Iran**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Iran",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

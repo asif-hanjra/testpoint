@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal is the largest in the Earth's crust?",
+      "options": {
+        "a": "Iron",
+        "b": "Copper",
+        "c": "Aluminum",
+        "d": "Gold"
+      },
+      "one_liner": "Aluminum is the largest metal found in the Earth's crust, making it the most abundant metallic element there.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

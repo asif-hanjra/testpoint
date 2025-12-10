@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'somber':",
+      "options": {
+        "a": "dreary:lively",
+        "b": "cheerful:joyful",
+        "c": "gloomy:glum",
+        "d": "dark:shiny"
+      },
+      "one_liner": "'Dreary' is a synonym of 'somber', while 'lively' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

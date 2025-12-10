@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bog':",
+      "options": {
+        "a": "swamp:arid region",
+        "b": "marsh:desert",
+        "c": "fen:plateau",
+        "d": "mire:mountain"
+      },
+      "one_liner": "'Swamp' is a synonym of 'bog', while 'arid region' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

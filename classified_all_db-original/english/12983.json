@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'squander':",
+      "options": {
+        "a": "dissipate:hoard",
+        "b": "waste:accumulate",
+        "c": "misuse:conserve",
+        "d": "spend:save"
+      },
+      "one_liner": "'Dissipate' is a synonym of 'squander', while 'hoard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Punctuate the following sentence correctly:There was heavy fog in the morning; the service at the airport were closed. ,There was heavy fog in the morning the service at the airport were closed",
+      "options": {
+        "a": "There was heavy fog in the morning; the service at the airport were closed.",
+        "b": "There was heavy fog in the morning the service at the airport were closed.",
+        "c": "There was heavy fog in the morning: the service at the airport were closed.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term used for the second full moon in a single solar month?",
+      "options": {
+        "a": "Harvest moon",
+        "b": "Blood moon",
+        "c": "Blue moon",
+        "d": "None of these"
+      },
+      "one_liner": "The second full moon occurring within a single solar month is known as a **blue moon**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

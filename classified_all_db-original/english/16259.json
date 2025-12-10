@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is not eligible ___ this post.",
+      "options": {
+        "a": "to",
+        "b": "for",
+        "c": "at",
+        "d": "in"
+      },
+      "one_liner": "He is not eligible 'for' this post.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

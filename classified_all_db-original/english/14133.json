@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stale':",
+      "options": {
+        "a": "insipid:flavorful",
+        "b": "fresh:musty",
+        "c": "stagnant:crisp",
+        "d": "foul:ripe"
+      },
+      "one_liner": "'Insipid' is a synonym for 'stale', while 'flavorful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

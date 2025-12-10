@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'desperate':",
+      "options": {
+        "a": "frenzied:composed",
+        "b": "anxious:calm",
+        "c": "dire:pleased",
+        "d": "urgent:content"
+      },
+      "one_liner": "'Frenzied' is a synonym of 'desperate', while 'composed' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

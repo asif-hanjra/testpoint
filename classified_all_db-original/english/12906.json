@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wonderful':",
+      "options": {
+        "a": "dreadful",
+        "b": "marvelous",
+        "c": "terrible",
+        "d": "awful"
+      },
+      "one_liner": "'Wonderful' means inspiring delight or pleasure, similar to 'marvelous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

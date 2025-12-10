@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'crease':",
+      "options": {
+        "a": "fold:flatten",
+        "b": "wrinkle:smooth",
+        "c": "crinkle:stretch",
+        "d": "pucker:smooth"
+      },
+      "one_liner": "'Fold' is a synonym of 'crease', while 'flatten' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

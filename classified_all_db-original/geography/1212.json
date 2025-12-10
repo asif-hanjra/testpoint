@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the other name for the Mckinley Mountains in North America?",
+      "options": {
+        "a": "Rocky Mountains",
+        "b": "Denali Peak",
+        "c": "Andes",
+        "d": "None of these"
+      },
+      "one_liner": "The Mckinley Mountains in North America are also known as **Denali Peak**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

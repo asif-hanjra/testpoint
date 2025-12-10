@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many members were part of the Shimla Deputation?",
+      "options": {
+        "a": "25",
+        "b": "30",
+        "c": "35",
+        "d": "40"
+      },
+      "one_liner": "The Shimla Deputation was composed of **35 members**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

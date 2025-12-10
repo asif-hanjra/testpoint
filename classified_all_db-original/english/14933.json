@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bewildered':",
+      "options": {
+        "a": "clear",
+        "b": "baffled",
+        "c": "aware",
+        "d": "informed"
+      },
+      "one_liner": "'Bewildered' means confused or perplexed, similar to 'baffled'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was Gandhi's position on separate electorates or special safeguards for Muslims and other minorities at the Second Round Table Conference?",
+      "options": {
+        "a": "Supported separate electorates",
+        "b": "Supported special safeguards",
+        "c": "Opposed separate electorates and special safeguards",
+        "d": "None of these"
+      },
+      "one_liner": "Gandhi opposed **separate electorates or special safeguards for Muslims and other minorities** at the Second Round Table Conference.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Communal Award",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

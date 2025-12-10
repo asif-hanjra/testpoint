@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: The renowned Picasso painted this picture.",
+      "options": {
+        "a": "The picture was painted by the renowned Picasso.",
+        "b": "This picture has been painted by the renowned Picasso.",
+        "c": "The renowned Picasso was painted this picture by.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

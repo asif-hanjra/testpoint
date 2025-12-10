@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the famous Muslim historian and thinker Ibn Khuldun born?",
+      "options": {
+        "a": "Egypt",
+        "b": "Tunisia",
+        "c": "Morocco",
+        "d": "Iraq"
+      },
+      "one_liner": "The renowned Muslim historian and thinker Ibn Khuldun was born in **Tunisia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

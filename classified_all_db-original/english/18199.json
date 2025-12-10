@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'grill':",
+      "options": {
+        "a": "question:ignore",
+        "b": "interrogate:support",
+        "c": "harass:agree",
+        "d": "examine:comfort"
+      },
+      "one_liner": "'Question' is a synonym for 'grill', while 'ignore' is an antonym, especially in the context of questioning.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

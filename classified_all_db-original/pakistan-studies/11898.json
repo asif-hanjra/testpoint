@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which area of Pakistan was Kulbushan Jadhav arrested?",
+      "options": {
+        "a": "Karachi",
+        "b": "Maskhel",
+        "c": "Lahore",
+        "d": "Quetta"
+      },
+      "one_liner": "Kulbushan Jadhav was arrested in the **Maskhel area** of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

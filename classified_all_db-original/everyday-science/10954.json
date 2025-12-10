@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is food mainly digested in the human body?",
+      "options": {
+        "a": "Stomach",
+        "b": "Large intestine",
+        "c": "Small intestine",
+        "d": "Mouth"
+      },
+      "one_liner": "Food is primarily digested in the **small intestine** in the human digestive system.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

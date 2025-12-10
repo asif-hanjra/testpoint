@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "BIVOUAC is to SOLDIER as ALLIANCE is to ________?",
+      "options": {
+        "a": "General",
+        "b": "Diplomacy",
+        "c": "Treaty",
+        "d": "Ambassador"
+      },
+      "one_liner": "A bivouac is a temporary camp, often for soldiers; an alliance is a union, often achieved through diplomacy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

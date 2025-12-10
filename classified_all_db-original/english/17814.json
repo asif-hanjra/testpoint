@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "AXIS : SLUG :: LAND : ________?",
+      "options": {
+        "a": "River",
+        "b": "Mountain",
+        "c": "Ocean",
+        "d": "Valley"
+      },
+      "one_liner": "An axis is a central line, while a slug is a mollusk. Land and ocean are geographical features. The analogy is unclear.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

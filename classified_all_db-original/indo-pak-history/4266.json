@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which incident prompted Mahatma Gandhi to withdraw the Non-Cooperation Movement in 1922?",
+      "options": {
+        "a": "Jallianwala Bagh Massacre",
+        "b": "Chauri Chaura incident",
+        "c": "Simon Commission arrival",
+        "d": "Rowlatt Act protests"
+      },
+      "one_liner": "The Chauri Chaura incident in 1922 prompted Mahatma Gandhi to withdraw the Non-Cooperation Movement.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

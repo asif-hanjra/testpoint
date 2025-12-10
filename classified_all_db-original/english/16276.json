@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'decree':",
+      "options": {
+        "a": "mandate:plea",
+        "b": "proclamation:proposal",
+        "c": "edict:suggestion",
+        "d": "ruling:opinion"
+      },
+      "one_liner": "'Mandate' is a synonym of 'decree', while 'plea' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

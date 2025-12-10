@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'arrive':",
+      "options": {
+        "a": "come:leave",
+        "b": "enter:exit",
+        "c": "reach:depart",
+        "d": "approach:stay"
+      },
+      "one_liner": "'Come' is a synonym of 'arrive', while 'leave' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

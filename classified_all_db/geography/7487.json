@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river is Mangla Dam constructed?",
+      "options": {
+        "a": "Indus River",
+        "b": "Chenab River",
+        "c": "Jhelum River",
+        "d": "Ravi River"
+      },
+      "one_liner": "Mangla Dam is constructed on the **Jhelum River** in Azad Kashmir.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrage of Pakistan on Jehlum River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

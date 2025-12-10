@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fiasco':",
+      "options": {
+        "a": "disaster:achievement",
+        "b": "triumph:debacle",
+        "c": "failure:success",
+        "d": "calamity:triumph"
+      },
+      "one_liner": "'Disaster' is a synonym of 'fiasco', while 'achievement' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

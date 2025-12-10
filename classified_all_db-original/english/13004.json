@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'celibate':",
+      "options": {
+        "a": "single",
+        "b": "abstinent",
+        "c": "married",
+        "d": "chaste"
+      },
+      "one_liner": "An antonym of 'celibate' is 'married', which implies being in a legally recognized union typically involving sexual relations.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

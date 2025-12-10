@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "NYMPH : SERAPHIM :: ANGEL : ________?",
+      "options": {
+        "a": "Candle",
+        "b": "Cherub",
+        "c": "Spirit",
+        "d": "Light"
+      },
+      "one_liner": "A nymph is a mythological spirit, while a seraphim is a type of angel; this implies a hierarchy or category. The relationship with candle is unclear.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'jocular':",
+      "options": {
+        "a": "serious",
+        "b": "humorous",
+        "c": "sombre",
+        "d": "melancholy"
+      },
+      "one_liner": "'Jocular' means characterized by joking, so words like 'humorous' are synonymous.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

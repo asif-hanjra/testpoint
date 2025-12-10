@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'jovial':",
+      "options": {
+        "a": "cheerful:glum",
+        "b": "genial:melancholy",
+        "c": "merry:sorrowful",
+        "d": "jolly:joyous"
+      },
+      "one_liner": "'Genial' is a synonym of 'jovial', while 'melancholy' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

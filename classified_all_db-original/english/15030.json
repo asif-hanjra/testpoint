@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'evict':",
+      "options": {
+        "a": "expel",
+        "b": "dislodge",
+        "c": "harbor",
+        "d": "eject"
+      },
+      "one_liner": "Antonyms of 'evict' include 'admit' and 'harbor', both implying allowing someone to stay.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

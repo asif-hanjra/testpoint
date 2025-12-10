@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'help':",
+      "options": {
+        "a": "assist",
+        "b": "facilitate",
+        "c": "hinder",
+        "d": "aid"
+      },
+      "one_liner": "An antonym of 'help' is 'hinder', which means to make difficult or impede.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

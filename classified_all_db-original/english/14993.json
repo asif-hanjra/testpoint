@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'charming':",
+      "options": {
+        "a": "attractive",
+        "b": "delightful",
+        "c": "repulsive",
+        "d": "captivating"
+      },
+      "one_liner": "The opposite of 'charming', which conveys appeal, would be 'repulsive'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

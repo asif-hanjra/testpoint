@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "SEQUENTIAL : FILES :: SORT : ________?",
+      "options": {
+        "a": "Folder",
+        "b": "List",
+        "c": "Document",
+        "d": "Page"
+      },
+      "one_liner": "Sequential refers to things in a sequence, like files; sort means to arrange, like a list.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

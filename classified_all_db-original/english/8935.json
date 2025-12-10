@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change voice please pick it up",
+      "options": {
+        "a": "Please let it be picked up",
+        "b": "You are requested to pick it up",
+        "c": "Let me picked it up",
+        "d": "None of these"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

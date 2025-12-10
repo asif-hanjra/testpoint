@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "SEARCH : FIND :: VANQUISH : ________?",
+      "options": {
+        "a": "Battle",
+        "b": "Defeat",
+        "c": "Escape",
+        "d": "Hide"
+      },
+      "one_liner": "To search is to look for, and to defeat is to vanquish; to find is the result of searching.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

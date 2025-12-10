@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'provocative':",
+      "options": {
+        "a": "inflammatory:reassuring",
+        "b": "soothing:inciting",
+        "c": "stimulating:calming",
+        "d": "exciting:dull"
+      },
+      "one_liner": "'Inflammatory' is a synonym of 'provocative', while 'reassuring' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

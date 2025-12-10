@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: We are going to build a new school.",
+      "options": {
+        "a": "A new school was built.",
+        "b": "A new school was going to be built.",
+        "c": "A new school is going to be built by us.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

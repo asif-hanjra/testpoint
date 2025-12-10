@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a requirement for a metric space?",
+      "options": {
+        "a": "Distance from a point to itself must be non-zero",
+        "b": "Triangle inequality must hold",
+        "c": "Distance must be infinite",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

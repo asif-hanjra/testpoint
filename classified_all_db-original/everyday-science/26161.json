@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which process helps remove carbon dioxide from the atmosphere?",
+      "options": {
+        "a": "Deforestation",
+        "b": "Forestation",
+        "c": "Combustion",
+        "d": "Respiration"
+      },
+      "one_liner": "Carbon dioxide is removed from the atmosphere through the process of **Forestation**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

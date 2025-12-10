@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "AESOP : FABLE :: HOMER : ________?",
+      "options": {
+        "a": "Novel",
+        "b": "Poem",
+        "c": "Epic",
+        "d": "Play"
+      },
+      "one_liner": "Aesop is known for fables, just as Homer is known for epics.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

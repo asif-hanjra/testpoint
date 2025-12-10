@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'strut':",
+      "options": {
+        "a": "shuffle",
+        "b": "parade",
+        "c": "march",
+        "d": "sashay"
+      },
+      "one_liner": "The antonym of 'strut', which means to walk confidently, could be 'shuffle', indicating a lack of confidence.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

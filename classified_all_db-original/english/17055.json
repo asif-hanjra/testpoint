@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'assiduous':",
+      "options": {
+        "a": "negligent",
+        "b": "diligent",
+        "c": "lazy",
+        "d": "careless"
+      },
+      "one_liner": "'Assiduous' means showing great care and perseverance, similar to 'diligent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

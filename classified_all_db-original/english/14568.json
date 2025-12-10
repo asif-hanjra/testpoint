@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'unbiased':",
+      "options": {
+        "a": "neutral:biased",
+        "b": "fair:impartial",
+        "c": "objective:prejudiced",
+        "d": "impartial:partial"
+      },
+      "one_liner": "'Neutral' is a synonym of 'unbiased', while 'biased' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

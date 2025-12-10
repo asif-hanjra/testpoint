@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'undeniable':",
+      "options": {
+        "a": "doubtful",
+        "b": "incontestable",
+        "c": "questionable",
+        "d": "uncertain"
+      },
+      "one_liner": "'Undeniable' means irrefutable or incontestable, suggesting something that cannot be denied or disputed.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

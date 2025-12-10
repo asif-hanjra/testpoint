@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Quid pro quo' translate to in English?",
+      "options": {
+        "a": "For the greater good",
+        "b": "Something for something",
+        "c": "After this, therefore because of this",
+        "d": "To the man"
+      },
+      "one_liner": "'Quid pro quo' means an exchange of goods or services, where one transfer is contingent upon the other.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

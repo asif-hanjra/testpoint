@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What event marks the beginning of a baby's growth during sexual reproduction?",
+      "options": {
+        "a": "Fertilization",
+        "b": "Ovulation",
+        "c": "Implantation",
+        "d": "Menstruation"
+      },
+      "one_liner": "A baby's development starts when an egg and sperm cell fuse during conception, which typically follows sexual intercourse, making **fertilization** the key initiating event.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

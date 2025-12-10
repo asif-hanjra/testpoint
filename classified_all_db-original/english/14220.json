@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bewilder':",
+      "options": {
+        "a": "clarify",
+        "b": "perplex",
+        "c": "enlighten",
+        "d": "explain"
+      },
+      "one_liner": "'Bewilder' means to confuse or puzzle someone, much like 'perplex' does.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

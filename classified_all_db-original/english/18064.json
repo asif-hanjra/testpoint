@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'neat':",
+      "options": {
+        "a": "messy",
+        "b": "trim",
+        "c": "cluttered",
+        "d": "disheveled"
+      },
+      "one_liner": "'Neat' means tidy or orderly, similar to 'trim' or 'spruce'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

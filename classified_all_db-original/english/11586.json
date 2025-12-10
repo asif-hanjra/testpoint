@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She cares ___ the environment.",
+      "options": {
+        "a": "for",
+        "b": "about",
+        "c": "on",
+        "d": "with"
+      },
+      "one_liner": "She cares 'about' the environment.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

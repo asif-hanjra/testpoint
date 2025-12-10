@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conifer':",
+      "options": {
+        "a": "evergreen:deciduous",
+        "b": "perennial:annual",
+        "c": "needle-leaf:broad-leaf",
+        "d": "pine:flowering"
+      },
+      "one_liner": "'Evergreen' is a synonym for 'conifer', while 'deciduous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

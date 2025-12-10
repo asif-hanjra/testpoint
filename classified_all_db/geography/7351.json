@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Clark Glacier located?",
+      "options": {
+        "a": "Canada",
+        "b": "USA",
+        "c": "Russia",
+        "d": "None of these"
+      },
+      "one_liner": "Clark Glacier is situated in the **USA**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Glaciers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

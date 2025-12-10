@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following best describes Galileo Galilei's fields of expertise?",
+      "options": {
+        "a": "Chemist and biologist",
+        "b": "Astronomer and physicist",
+        "c": "Geologist and mathematician",
+        "d": "None of these"
+      },
+      "one_liner": "Galileo Galilei was both an **astronomer and physicist**, and is sometimes described as a polymath.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

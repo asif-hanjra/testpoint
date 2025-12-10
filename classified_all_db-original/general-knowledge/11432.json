@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "Which US President has also served as Vice President of the United States?",
+      "options": {
+        "a": "Donald Trump",
+        "b": "Barack Obama",
+        "c": "Joe Biden",
+        "d": "George W. Bush"
+      },
+      "one_liner": "Joe Biden is notable for having served as both the Vice President and later the President of the **United States**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Arab League",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

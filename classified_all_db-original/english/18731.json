@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'running on fumes' mean?",
+      "options": {
+        "a": "Running very fast",
+        "b": "Continuing to operate with very little resources or energy",
+        "c": "Escaping from a dangerous situation",
+        "d": "Performing a task with great enthusiasm"
+      },
+      "one_liner": "The idiom 'running on fumes' refers to continuing to operate with very little resources or energy, similar to a vehicle running with almost no fuel left.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

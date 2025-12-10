@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which cells are responsible for transporting oxygen to every cell in the human body?",
+      "options": {
+        "a": "White blood cells",
+        "b": "Red blood cells",
+        "c": "Platelets",
+        "d": "Nerve cells"
+      },
+      "one_liner": "Oxygen is delivered to all cells in the human body by **red blood cells**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

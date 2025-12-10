@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'beside' in the sentence 'Sit beside me.'",
+      "options": {
+        "a": "Adverb",
+        "b": "Pronoun",
+        "c": "Preposition",
+        "d": "Verb"
+      },
+      "one_liner": "'Beside' is a preposition showing the relationship between 'sit' and 'me'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

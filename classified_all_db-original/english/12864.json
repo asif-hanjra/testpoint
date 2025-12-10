@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'recreation':",
+      "options": {
+        "a": "entertainment",
+        "b": "leisure",
+        "c": "work",
+        "d": "pleasure"
+      },
+      "one_liner": "The antonym of 'recreation' is 'work', which refers to activities done to earn money or as a part of one's job.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

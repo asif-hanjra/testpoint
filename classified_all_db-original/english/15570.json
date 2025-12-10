@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'recreation':",
+      "options": {
+        "a": "labor",
+        "b": "amusement",
+        "c": "burden",
+        "d": "toil"
+      },
+      "one_liner": "'Recreation' refers to activities done for enjoyment when one is not working, similar to 'amusement'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a component of gun powder?",
+      "options": {
+        "a": "Sulphur",
+        "b": "Iron",
+        "c": "Copper",
+        "d": "Zinc"
+      },
+      "one_liner": "Gun powder is made by mixing **sulphur**, charcoal, and nitre together.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

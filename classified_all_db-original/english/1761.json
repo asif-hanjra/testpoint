@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the narration: You said to me, \"Water freezes at 0°C\".",
+      "options": {
+        "a": "You told me that water freezes at 0°C.",
+        "b": "You said me that water will freeze at 0°C.",
+        "c": "You told me that water freezing at 0°C.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

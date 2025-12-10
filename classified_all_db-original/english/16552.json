@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'volubility':",
+      "options": {
+        "a": "verbosity",
+        "b": "articulateness",
+        "c": "taciturnity",
+        "d": "eloquence"
+      },
+      "one_liner": "The opposite of 'volubility', which means talking a lot, would be 'taciturnity', indicating silence or reluctance to talk.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

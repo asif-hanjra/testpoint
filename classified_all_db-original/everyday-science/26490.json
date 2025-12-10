@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a raw material required for cement production?",
+      "options": {
+        "a": "Limestone",
+        "b": "Clay",
+        "c": "Iron ore",
+        "d": "Sand"
+      },
+      "one_liner": "The main raw materials needed for cement production are **limestone, clay, and iron ore**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

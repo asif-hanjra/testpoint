@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which province is the largest by population in Pakistan?",
+      "options": {
+        "a": "Sindh",
+        "b": "Balochistan",
+        "c": "Punjab",
+        "d": "Khyber Pakhtunkhwa"
+      },
+      "one_liner": "Punjab holds the distinction of being the **largest province by population** in Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

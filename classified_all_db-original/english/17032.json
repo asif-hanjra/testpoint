@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'convalesce':",
+      "options": {
+        "a": "deteriorate",
+        "b": "recuperate",
+        "c": "decline",
+        "d": "worsen"
+      },
+      "one_liner": "'Convalesce' means to recover from an illness or operation, similar to 'recuperate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

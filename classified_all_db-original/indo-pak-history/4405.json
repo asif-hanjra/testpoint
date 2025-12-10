@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which region did Nizam Khan conquer during his reign?",
+      "options": {
+        "a": "Bihar",
+        "b": "Sindh",
+        "c": "Punjab",
+        "d": "Bengal"
+      },
+      "one_liner": "During his reign, Nizam Khan successfully conquered **Bihar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

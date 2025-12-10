@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metallic element is liquid at room temperature?",
+      "options": {
+        "a": "Mercury",
+        "b": "Iron",
+        "c": "Copper",
+        "d": "Silver"
+      },
+      "one_liner": "The only metallic element that remains in a liquid state at room temperature is **Mercury**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

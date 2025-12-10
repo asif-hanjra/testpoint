@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of energy results from chemical reactions between atoms or molecules?",
+      "options": {
+        "a": "Kinetic energy",
+        "b": "Chemical energy",
+        "c": "Nuclear energy",
+        "d": "Electrical energy"
+      },
+      "one_liner": "**Chemical energy** results from chemical reactions between atoms or molecules.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

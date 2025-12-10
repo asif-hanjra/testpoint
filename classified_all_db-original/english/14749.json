@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'immune':",
+      "options": {
+        "a": "resistant",
+        "b": "susceptible",
+        "c": "protected",
+        "d": "impervious"
+      },
+      "one_liner": "An antonym of 'immune' is 'susceptible', which means easily affected or vulnerable.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

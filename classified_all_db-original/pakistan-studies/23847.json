@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was Quaid-e-Azam Muhammad Ali Jinnah sworn in as the governor general of Pakistan?",
+      "options": {
+        "a": "14th August 1947",
+        "b": "15th August 1947",
+        "c": "16th August 1947",
+        "d": "None of these"
+      },
+      "one_liner": "Quaid-e-Azam Muhammad Ali Jinnah took oath as the first governor general of Pakistan on **15th August 1947**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

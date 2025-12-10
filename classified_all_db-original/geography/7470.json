@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ocean lies to the north and east of South America?",
+      "options": {
+        "a": "Pacific Ocean",
+        "b": "Atlantic Ocean",
+        "c": "Indian Ocean",
+        "d": "Southern Ocean"
+      },
+      "one_liner": "The **Atlantic Ocean** lies to the north and east of South America.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

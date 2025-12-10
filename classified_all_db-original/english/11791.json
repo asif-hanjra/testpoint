@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'combat':",
+      "options": {
+        "a": "war",
+        "b": "struggle",
+        "c": "peace",
+        "d": "attack"
+      },
+      "one_liner": "The opposite of 'combat' is 'peace', which denotes the absence of conflict.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'craven':",
+      "options": {
+        "a": "timid:brave",
+        "b": "pusillanimous:heroic",
+        "c": "fearful:fearless",
+        "d": "cowardly:courageous"
+      },
+      "one_liner": "'Pusillanimous' is a synonym of 'craven', while 'heroic' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

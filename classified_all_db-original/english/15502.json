@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prolong':",
+      "options": {
+        "a": "shorten",
+        "b": "lengthen",
+        "c": "reduce",
+        "d": "contract"
+      },
+      "one_liner": "'Prolong' means to extend the duration of something, similar to 'lengthen'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

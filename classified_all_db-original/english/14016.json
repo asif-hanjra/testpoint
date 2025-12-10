@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'diminish':",
+      "options": {
+        "a": "reduce",
+        "b": "lessen",
+        "c": "augment",
+        "d": "decline"
+      },
+      "one_liner": "An antonym of 'diminish' is 'augment', which means to make larger or increase.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

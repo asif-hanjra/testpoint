@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which continent is the second smallest in size after Australia?",
+      "options": {
+        "a": "Europe",
+        "b": "Asia",
+        "c": "Africa",
+        "d": "South America"
+      },
+      "one_liner": "Europe is the second smallest continent in size after **Australia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

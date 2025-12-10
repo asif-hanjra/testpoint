@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the length of the Hispar Glacier?",
+      "options": {
+        "a": "49 km (30 mi)",
+        "b": "67 km (42 mi)",
+        "c": "63 km (39 mi)",
+        "d": "57 km (35 mi)"
+      },
+      "one_liner": "The Hispar Glacier is **49 km (30 mi) long**, contributing to the world's longest glacial system outside the polar regions.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

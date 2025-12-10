@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'manifest':",
+      "options": {
+        "a": "obscure",
+        "b": "evident",
+        "c": "hidden",
+        "d": "concealed"
+      },
+      "one_liner": "'Manifest' means clear or obvious, so 'evident' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

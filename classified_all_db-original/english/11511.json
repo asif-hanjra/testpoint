@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prosperity':",
+      "options": {
+        "a": "wealth:destitution",
+        "b": "affluence:riches",
+        "c": "success:failure",
+        "d": "abundance:scarcity"
+      },
+      "one_liner": "'Wealth' is a synonym of 'prosperity', while 'destitution' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

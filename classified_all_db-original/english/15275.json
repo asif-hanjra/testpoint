@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pillage':",
+      "options": {
+        "a": "plunder:rebuild",
+        "b": "despoil:protect",
+        "c": "ravage:preserve",
+        "d": "loot:conserve"
+      },
+      "one_liner": "'Plunder' is a synonym of 'pillage', while 'rebuild' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

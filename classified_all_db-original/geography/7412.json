@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Gwadar Port located?",
+      "options": {
+        "a": "Karachi",
+        "b": "Gwadar, Balochistan",
+        "c": "Chabahar, Iran",
+        "d": "None of these"
+      },
+      "one_liner": "**Gwadar Port** is located on the Arabian Sea at Gwadar, Balochistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Arabian Sea",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Important Seaports",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Coastal Area of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'leave word' mean?",
+      "options": {
+        "a": "To depart while someone is speaking",
+        "b": "To leave a message for someone",
+        "c": "To forget one's lines in a play",
+        "d": "To exit without notification"
+      },
+      "one_liner": "The idiom 'leave word' means to leave a message for someone, often when they are not available to speak directly.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

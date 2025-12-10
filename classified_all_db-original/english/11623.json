@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'modicum':",
+      "options": {
+        "a": "particle:multitude",
+        "b": "smidgen:excess",
+        "c": "fragment:plenty",
+        "d": "bit:abundance"
+      },
+      "one_liner": "'Particle' is a synonym of 'modicum', while 'multitude' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

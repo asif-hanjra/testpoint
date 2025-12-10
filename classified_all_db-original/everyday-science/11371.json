@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How do we use the chemical energy in fuels like coal?",
+      "options": {
+        "a": "Freezing them",
+        "b": "Burning them",
+        "c": "Dissolving them",
+        "d": "Compressing them"
+      },
+      "one_liner": "We use the chemical energy in fuels like coal by **burning them**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'doubt':",
+      "options": {
+        "a": "certainty",
+        "b": "mistrust",
+        "c": "belief",
+        "d": "faith"
+      },
+      "one_liner": "'Doubt' means to be uncertain or skeptical about something, similar to 'mistrust' or 'question'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

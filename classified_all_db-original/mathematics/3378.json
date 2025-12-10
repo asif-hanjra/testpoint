@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "In a family of six members: P is the father of Q, R is the mother of Q, S is the sister of Q, T is the brother of P. Who is the Uncle of Q?",
+      "options": {
+        "a": "R",
+        "b": "S",
+        "c": "T",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

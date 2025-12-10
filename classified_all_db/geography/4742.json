@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Trout Lake located?",
+      "options": {
+        "a": "United States",
+        "b": "Canada",
+        "c": "Australia",
+        "d": "None of these"
+      },
+      "one_liner": "Trout Lake is located in **Canada**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

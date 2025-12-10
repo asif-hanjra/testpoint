@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the duration of the Strategic Cooperation Pact signed between China and Iran?",
+      "options": {
+        "a": "10 years",
+        "b": "15 years",
+        "c": "20 years",
+        "d": "25 years"
+      },
+      "one_liner": "The Strategic Cooperation Pact between China and Iran is set for a duration of **25 years**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Iran",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

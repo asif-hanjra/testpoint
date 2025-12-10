@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nutrition':",
+      "options": {
+        "a": "sustenance:deprivation",
+        "b": "nourishment:starvation",
+        "c": "diet:fasting",
+        "d": "feeding:malnutrition"
+      },
+      "one_liner": "'Sustenance' is a synonym of 'nutrition', while 'deprivation' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

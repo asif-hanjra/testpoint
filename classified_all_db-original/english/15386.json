@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'intolerant':",
+      "options": {
+        "a": "accepting",
+        "b": "bigoted",
+        "c": "open-minded",
+        "d": "liberal"
+      },
+      "one_liner": "'Intolerant' means not tolerant of views, beliefs, or behavior that differ from one's own, similar to 'bigoted'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

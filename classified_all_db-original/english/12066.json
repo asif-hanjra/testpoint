@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obstinate':",
+      "options": {
+        "a": "stubborn:compliant",
+        "b": "rigid:flexible",
+        "c": "intransigent:amenable",
+        "d": "unyielding:yielding"
+      },
+      "one_liner": "'Stubborn' is a synonym of 'obstinate', while 'compliant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

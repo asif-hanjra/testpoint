@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the census held in Pakistan after a gap of 19 years?",
+      "options": {
+        "a": "2001",
+        "b": "2017",
+        "c": "2011",
+        "d": "1998"
+      },
+      "one_liner": "The census in Pakistan was conducted in **2017** after a gap of 19 years.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

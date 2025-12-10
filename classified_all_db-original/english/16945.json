@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deposit':",
+      "options": {
+        "a": "withdraw",
+        "b": "place",
+        "c": "discard",
+        "d": "elevate"
+      },
+      "one_liner": "'Deposit' can mean to place or drop something, similar to 'place' or 'put down'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

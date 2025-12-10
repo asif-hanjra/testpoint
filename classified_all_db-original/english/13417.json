@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'evanescent':",
+      "options": {
+        "a": "fugitive:perpetual",
+        "b": "lasting:transitory",
+        "c": "ephemeral:enduring",
+        "d": "transient:permanent"
+      },
+      "one_liner": "'Fugitive' is a synonym of 'evanescent', while 'perpetual' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

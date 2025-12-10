@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'charming':",
+      "options": {
+        "a": "repulsive",
+        "b": "enchanting",
+        "c": "unpleasant",
+        "d": "disgusting"
+      },
+      "one_liner": "'Charming' means delightful or pleasing, similar to 'enchanting'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

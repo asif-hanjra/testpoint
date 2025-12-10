@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many total members were there in the Imperial Legislative Council as per the Indian Councils Act of 1909?",
+      "options": {
+        "a": "50",
+        "b": "60",
+        "c": "70",
+        "d": "80"
+      },
+      "one_liner": "The Indian Councils Act of 1909 fixed the total number of members in the Imperial Legislative Council at **60**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Indian Councils Act (1892)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

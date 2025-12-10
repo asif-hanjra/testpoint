@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In an ecosystem, what form is nitrogen converted into to make it available to primary producers like plants?",
+      "options": {
+        "a": "Nitrate",
+        "b": "Nitrite",
+        "c": "Ammonia",
+        "d": "Urea"
+      },
+      "one_liner": "Nitrogen in ecosystems is made available to primary producers such as plants by being converted into **Ammonia**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

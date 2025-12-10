@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nonchalant':",
+      "options": {
+        "a": "anxious",
+        "b": "indifferent",
+        "c": "excitable",
+        "d": "nervous"
+      },
+      "one_liner": "'Nonchalant' describes a cool and unconcerned attitude, similar to being 'indifferent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

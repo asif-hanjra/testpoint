@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If a + b = 3(c + d), which of the following is the average (arithmetic mean) of a, b, c, and d?",
+      "options": {
+        "a": "3(c + d)/8",
+        "b": "(c + d)/2",
+        "c": "3(c + d)/4",
+        "d": "c + d"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

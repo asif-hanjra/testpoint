@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bashful':",
+      "options": {
+        "a": "outgoing",
+        "b": "timid",
+        "c": "brazen",
+        "d": "bold"
+      },
+      "one_liner": "'Bashful' means shy or reserved, similar to 'timid'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

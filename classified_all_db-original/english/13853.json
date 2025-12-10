@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pudgy':",
+      "options": {
+        "a": "slim",
+        "b": "chubby",
+        "c": "gaunt",
+        "d": "lean"
+      },
+      "one_liner": "'Pudgy' refers to someone who is slightly overweight, similar to 'chubby'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ornithology':",
+      "options": {
+        "a": "mammalogy",
+        "b": "herpetology",
+        "c": "bird science",
+        "d": "ichthyology"
+      },
+      "one_liner": "'Ornithology' is the study of birds, similar to how 'bird science' refers to the same field.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

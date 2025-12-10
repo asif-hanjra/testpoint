@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'surrgent':",
+      "options": {
+        "a": "rising",
+        "b": "emergent",
+        "c": "urgent",
+        "d": "nonexistent"
+      },
+      "one_liner": "'Surrgent' is not a recognized English word, so there are no synonyms.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fill':",
+      "options": {
+        "a": "empty",
+        "b": "replenish",
+        "c": "deplete",
+        "d": "reduce"
+      },
+      "one_liner": "'Fill' means to make full or occupy space—words like 'top up' and 'replenish' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

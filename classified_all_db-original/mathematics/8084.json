@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "a, A₁, A₂, A₃, ..., Aₙ, b   If it’s an arithmetic progression, then:",
+      "options": {
+        "a": "Aₙ = a + n(b − a)/n",
+        "b": "Aₙ = a + n(b − a)/(n + 1)",
+        "c": "Aₙ = a − n(b + a)/(n + 1)",
+        "d": "Aₙ = b + n(a − b)/n"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

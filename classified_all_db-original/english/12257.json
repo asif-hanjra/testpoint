@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pucker':",
+      "options": {
+        "a": "flatten",
+        "b": "smooth",
+        "c": "gather",
+        "d": "extend"
+      },
+      "one_liner": "'Pucker' refers to the action of tightening or contracting, similar to 'wrinkle' or 'gather'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

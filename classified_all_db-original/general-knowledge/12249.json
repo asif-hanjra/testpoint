@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country's highest military award is the War Cross with Sword?",
+      "options": {
+        "a": "Norway",
+        "b": "Thailand",
+        "c": "Myanmar",
+        "d": "Bangladesh"
+      },
+      "one_liner": "Norway's highest military award is the **War Cross with Sword**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

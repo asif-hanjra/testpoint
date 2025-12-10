@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following rocks is considered the most porous?",
+      "options": {
+        "a": "Granite",
+        "b": "Marble",
+        "c": "Sandstone",
+        "d": "Limestone"
+      },
+      "one_liner": "Among various types of rocks, **sandstone** is recognized as the most porous.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Plateaus in Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

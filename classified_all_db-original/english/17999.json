@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "QUICKSILVER : MERCURY :: GOLDBRICK : ________?",
+      "options": {
+        "a": "Worker",
+        "b": "Idler",
+        "c": "Miner",
+        "d": "Leader"
+      },
+      "one_liner": "Quicksilver is a synonym for mercury, just as a goldbrick is a synonym for an idler or shirker.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

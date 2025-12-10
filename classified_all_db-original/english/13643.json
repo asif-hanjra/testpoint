@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'encroach':",
+      "options": {
+        "a": "invade",
+        "b": "trespass",
+        "c": "retreat",
+        "d": "infringe"
+      },
+      "one_liner": "The antonym of 'encroach', which means to intrude, would be 'retreat', indicating moving back or withdrawing.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

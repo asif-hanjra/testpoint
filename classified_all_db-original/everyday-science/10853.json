@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the wave-like contractions that move food along the intestine?",
+      "options": {
+        "a": "Peristalsis",
+        "b": "Osmosis",
+        "c": "Diffusion",
+        "d": "Fermentation"
+      },
+      "one_liner": "The wave-like contractions that propel food through the intestine are known as **peristalsis**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

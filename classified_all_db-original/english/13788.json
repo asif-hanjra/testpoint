@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'difficult':",
+      "options": {
+        "a": "hard",
+        "b": "complex",
+        "c": "easy",
+        "d": "complicated"
+      },
+      "one_liner": "While 'difficult' describes something hard to do, 'easy' describes something that requires little effort.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

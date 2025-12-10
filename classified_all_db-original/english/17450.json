@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'constantly':",
+      "options": {
+        "a": "continuously",
+        "b": "frequently",
+        "c": "sporadically",
+        "d": "incessantly"
+      },
+      "one_liner": "Antonyms of 'constantly' include 'occasionally' and 'sporadically', both implying infrequency.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

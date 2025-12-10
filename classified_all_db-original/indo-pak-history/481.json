@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Cripps Mission arrive in India?",
+      "options": {
+        "a": "1939",
+        "b": "1940",
+        "c": "1942",
+        "d": "1945"
+      },
+      "one_liner": "The Cripps Mission arrived in India in **1942**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

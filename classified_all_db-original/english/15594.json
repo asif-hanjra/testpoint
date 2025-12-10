@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'interesting':",
+      "options": {
+        "a": "exciting",
+        "b": "intriguing",
+        "c": "boring",
+        "d": "compelling"
+      },
+      "one_liner": "An antonym of 'interesting' is 'boring', which means not engaging or dull.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

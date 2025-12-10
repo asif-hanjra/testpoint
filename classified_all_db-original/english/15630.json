@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'caustic':",
+      "options": {
+        "a": "harsh",
+        "b": "abrasive",
+        "c": "mild",
+        "d": "corrosive"
+      },
+      "one_liner": "Antonyms of 'caustic' include 'mild' and 'gentle', both suggesting a lack of harshness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

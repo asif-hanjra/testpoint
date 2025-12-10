@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is another famous book written by Abu Ali Sina?",
+      "options": {
+        "a": "Al-Muqaddimah",
+        "b": "Al-Shifa",
+        "c": "Kitab al-Jabr",
+        "d": "None of these"
+      },
+      "one_liner": "Apart from his medical encyclopedia, Abu Ali Sina also authored the famous book **Al-Shifa**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stale':",
+      "options": {
+        "a": "fresh",
+        "b": "musty",
+        "c": "crisp",
+        "d": "ripe"
+      },
+      "one_liner": "'Stale' refers to something that is no longer fresh or new, similar to 'musty' or 'stagnant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

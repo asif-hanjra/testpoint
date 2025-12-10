@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Choose the correct preposition to complete the sentence: 'My friend and benefactor has died ___ cancer.'",
+      "options": {
+        "a": "in",
+        "b": "of",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "My friend and benefactor has died 'of' cancer.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

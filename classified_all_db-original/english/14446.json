@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Pro tanto' mean?",
+      "options": {
+        "a": "For so much",
+        "b": "With all due respect",
+        "c": "For the time being",
+        "d": "To that extent"
+      },
+      "one_liner": "The Latin phrase 'Pro tanto' means 'To that extent' or 'For that much'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

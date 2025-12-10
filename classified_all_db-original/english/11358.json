@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Do not put all your eggs ___ one basket.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "Do not put all your eggs 'in' one basket.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

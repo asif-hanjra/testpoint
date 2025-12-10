@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the largest river in South America and the world?",
+      "options": {
+        "a": "Nile",
+        "b": "Amazon",
+        "c": "Yangtze",
+        "d": "Mississippi"
+      },
+      "one_liner": "The **Amazon River** is the largest river in both South America and the world.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

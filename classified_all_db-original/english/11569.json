@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hapless':",
+      "options": {
+        "a": "unfortunate:lucky",
+        "b": "miserable:joyful",
+        "c": "woeful:content",
+        "d": "dismal:fortunate"
+      },
+      "one_liner": "'Unfortunate' is a synonym of 'hapless', while 'lucky' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

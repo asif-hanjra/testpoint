@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin term 'Ergo' commonly mean in English?",
+      "options": {
+        "a": "Therefore",
+        "b": "Before",
+        "c": "After",
+        "d": "Within"
+      },
+      "one_liner": "'Ergo' is a Latin conjunction often used to mean 'therefore' or 'hence' in English.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

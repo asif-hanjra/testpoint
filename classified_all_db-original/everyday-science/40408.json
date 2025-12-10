@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following correctly lists all the inner layers of the Sun?",
+      "options": {
+        "a": "Core, Chromosphere, Convection Zone",
+        "b": "Core, Radiated Zone, Convection Zone",
+        "c": "Core, Photosphere, Radiated Zone",
+        "d": "Radiated Zone, Corona, Core"
+      },
+      "one_liner": "The three inner layers of the Sun are the **Core, Radiated Zone, and Convection Zone**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

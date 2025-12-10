@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'maverick':",
+      "options": {
+        "a": "rebel:traditionalist",
+        "b": "conformist:nonconformist",
+        "c": "dissenter:follower",
+        "d": "independent:dependent"
+      },
+      "one_liner": "'Rebel' is a synonym of 'maverick', while 'traditionalist' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

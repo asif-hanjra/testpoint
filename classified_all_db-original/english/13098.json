@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'occult':",
+      "options": {
+        "a": "mystical:evident",
+        "b": "arcane:transparent",
+        "c": "secret:obvious",
+        "d": "hidden:manifest"
+      },
+      "one_liner": "'Mystical' is a synonym for 'occult', while 'evident' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

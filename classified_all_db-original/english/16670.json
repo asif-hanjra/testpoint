@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stupid':",
+      "options": {
+        "a": "dumb:smart",
+        "b": "ignorant:knowledgeable",
+        "c": "silly:wise",
+        "d": "foolish:intelligent"
+      },
+      "one_liner": "'Dumb' is a synonym of 'stupid', while 'smart' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

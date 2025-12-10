@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'encourage':",
+      "options": {
+        "a": "discourage",
+        "b": "motivate",
+        "c": "deter",
+        "d": "hinder"
+      },
+      "one_liner": "'Encourage' means to give support or confidence, similar to 'motivate' or 'inspire'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of the eye is a transparent cover in front of the coloured part?",
+      "options": {
+        "a": "Cornea",
+        "b": "Lens",
+        "c": "Retina",
+        "d": "Sclera"
+      },
+      "one_liner": "The transparent cover that sits in front of the coloured part of the eye is called the **cornea**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

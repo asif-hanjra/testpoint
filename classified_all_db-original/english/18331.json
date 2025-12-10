@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tranquil':",
+      "options": {
+        "a": "placid:restless",
+        "b": "calm:turbulent",
+        "c": "serene:chaotic",
+        "d": "peaceful:loud"
+      },
+      "one_liner": "'Placid' is a synonym of 'tranquil', while 'restless' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

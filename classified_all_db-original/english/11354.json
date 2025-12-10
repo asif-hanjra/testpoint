@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gouge':",
+      "options": {
+        "a": "chisel:level",
+        "b": "excavate:flatten",
+        "c": "dig:heap",
+        "d": "scoop:fill"
+      },
+      "one_liner": "'Chisel' is a synonym for 'gouge', while 'level' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

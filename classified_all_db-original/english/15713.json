@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'oblivion':",
+      "options": {
+        "a": "awareness",
+        "b": "remembrance",
+        "c": "forgetfulness",
+        "d": "attention"
+      },
+      "one_liner": "'Oblivion' refers to the state of being forgotten or unaware, similar to 'forgetfulness'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A = [a b] then what is the order of matrix A?",
+      "options": {
+        "a": "1x1",
+        "b": "2x1",
+        "c": "1x2",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

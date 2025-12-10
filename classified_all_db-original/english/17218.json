@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impatient':",
+      "options": {
+        "a": "calm",
+        "b": "restive",
+        "c": "patient",
+        "d": "relaxed"
+      },
+      "one_liner": "'Impatient' describes someone who is restless or eager, similar to 'restive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

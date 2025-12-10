@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'slur':",
+      "options": {
+        "a": "enunciate",
+        "b": "mutter",
+        "c": "stammer",
+        "d": "murmur"
+      },
+      "one_liner": "The antonym of 'slur' is 'enunciate', which means to pronounce words clearly.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name for a narrow strip of land connecting two large land areas?",
+      "options": {
+        "a": "Strait",
+        "b": "Isthmus",
+        "c": "Fjord",
+        "d": "Gulf"
+      },
+      "one_liner": "A narrow strip of land connecting two large land areas is called an **isthmus**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

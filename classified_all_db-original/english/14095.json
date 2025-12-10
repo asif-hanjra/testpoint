@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "CURRENCY : MONEY :: URN : ________?",
+      "options": {
+        "a": "Flowers",
+        "b": "Ashes",
+        "c": "Water",
+        "d": "Coins"
+      },
+      "one_liner": "Currency is a form of money, just as an urn holds ashes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who made significant contributions to the understanding of vision, optics, and light?",
+      "options": {
+        "a": "Ibn al-Haytham",
+        "b": "Al-Razi",
+        "c": "Al-Biruni",
+        "d": "Ibn Sina"
+      },
+      "one_liner": "The renowned scholar who made significant contributions to the understanding of vision, optics, and light was **Ibn al-Haytham**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

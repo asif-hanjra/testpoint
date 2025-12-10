@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the first allotropic form of carbon and is one of the softest materials?",
+      "options": {
+        "a": "Diamond",
+        "b": "Graphite",
+        "c": "Buckyballs",
+        "d": "Charcoal"
+      },
+      "one_liner": "**Graphite** is the first allotropic form of carbon and is recognized as one of the softest materials.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

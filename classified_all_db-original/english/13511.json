@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'drastic':",
+      "options": {
+        "a": "severe",
+        "b": "harsh",
+        "c": "mild",
+        "d": "intense"
+      },
+      "one_liner": "The antonym of 'drastic' could be 'mild', indicating a much less severe or intense action.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

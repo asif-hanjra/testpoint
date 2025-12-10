@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'supplant':",
+      "options": {
+        "a": "maintain",
+        "b": "usurp",
+        "c": "preserve",
+        "d": "support"
+      },
+      "one_liner": "'Supplant' means to replace or take the place of something, similar to 'usurp'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

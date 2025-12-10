@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'concession':",
+      "options": {
+        "a": "allowance:denial",
+        "b": "compromise:agreement",
+        "c": "grant:rejection",
+        "d": "yielding:acceptance"
+      },
+      "one_liner": "'Allowance' is a synonym of 'concession', while 'denial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

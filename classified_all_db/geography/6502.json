@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the second largest oil producer in the world?",
+      "options": {
+        "a": "Russia",
+        "b": "United States",
+        "c": "Saudi Arabia",
+        "d": "China"
+      },
+      "one_liner": "Saudi Arabia holds the position as the **second largest oil producer in the world**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

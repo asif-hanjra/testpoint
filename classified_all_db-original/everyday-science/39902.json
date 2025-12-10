@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following principles are included in a healthful diet?",
+      "options": {
+        "a": "Balance, variety, and moderation",
+        "b": "Only balance and moderation",
+        "c": "Only variety and moderation",
+        "d": "None of these"
+      },
+      "one_liner": "A healthful diet is based on the principles of **balance, variety, and moderation**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Complete the proverb: 'If wishes ___ horses, beggars would ride.'",
+      "options": {
+        "a": "in",
+        "b": "were",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "If wishes 'were' horses, beggars would ride.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

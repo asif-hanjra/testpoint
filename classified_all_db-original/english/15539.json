@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tangential':",
+      "options": {
+        "a": "central",
+        "b": "irrelevant",
+        "c": "extraneous",
+        "d": "secondary"
+      },
+      "one_liner": "An antonym of 'tangential' is 'central', which means of primary importance or directly related.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

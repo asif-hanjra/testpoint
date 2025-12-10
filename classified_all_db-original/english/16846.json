@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dissemble':",
+      "options": {
+        "a": "reveal",
+        "b": "feign",
+        "c": "disclose",
+        "d": "uncover"
+      },
+      "one_liner": "'Dissemble' means to conceal one's true motives or feelings, making 'feign' a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

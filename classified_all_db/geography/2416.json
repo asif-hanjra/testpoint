@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which zone lies between the Tropic of Cancer and the Tropic of Capricorn?",
+      "options": {
+        "a": "Temperate Zone",
+        "b": "Frigid Zone",
+        "c": "Torrid Zone",
+        "d": "None of these"
+      },
+      "one_liner": "The **Torrid Zone** is the Earth's climatic region that lies between the Tropic of Cancer and the Tropic of Capricorn, characterized by consistently high temperatures.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'startle':",
+      "options": {
+        "a": "shock:console",
+        "b": "reassure:astonish",
+        "c": "frighten:soothe",
+        "d": "alarm:comfort"
+      },
+      "one_liner": "'Shock' is a synonym of 'startle', while 'console' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

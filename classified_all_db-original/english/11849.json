@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'opus':",
+      "options": {
+        "a": "composition:triviality",
+        "b": "achievement:failure",
+        "c": "masterwork:success",
+        "d": "creation:blunder"
+      },
+      "one_liner": "'Composition' is a synonym for 'opus', while 'triviality' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'Don't count your chickens before the eggs have hatched' mean?",
+      "options": {
+        "a": "Do not plan the outcome of an event until it has occurred",
+        "b": "Do not make plans based on future events that may not happen",
+        "c": "Counting the number of chickens you have",
+        "d": "Taking care of your possessions"
+      },
+      "one_liner": "The idiom 'Don't count your chickens before the eggs have hatched' advises against planning based on assumptions, as things may not turn out as expected.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'humorous':",
+      "options": {
+        "a": "funny:grave",
+        "b": "amusing:cheerful",
+        "c": "witty:joyful",
+        "d": "comical:happy"
+      },
+      "one_liner": "'Funny' is a synonym of 'humorous', while 'grave' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

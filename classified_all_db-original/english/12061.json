@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stationary':",
+      "options": {
+        "a": "mobile",
+        "b": "immobile",
+        "c": "active",
+        "d": "agile"
+      },
+      "one_liner": "'Stationary' means not moving or not intended to be moved—a synonym could be 'immobile'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

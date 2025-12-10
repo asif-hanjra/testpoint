@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'forgery':",
+      "options": {
+        "a": "authenticity",
+        "b": "deception",
+        "c": "imitation",
+        "d": "counterfeit"
+      },
+      "one_liner": "The opposite of 'forgery' is 'authenticity', which denotes something genuine or real.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

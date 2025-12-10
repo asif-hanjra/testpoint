@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Let a, b be in a ring R. If a ≠ 0, b ≠ 0 but ab = 0, then we say that a and b are _____?",
+      "options": {
+        "a": "Unit divisors",
+        "b": "Congruent",
+        "c": "Zero divisors",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

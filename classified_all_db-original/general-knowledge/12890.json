@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which street is known as the world's shortest street?",
+      "options": {
+        "a": "Fleet Street",
+        "b": "Ebenezer Place",
+        "c": "Wall Street",
+        "d": "Yonge Street"
+      },
+      "one_liner": "The world's shortest street is known as **Ebenezer Place**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

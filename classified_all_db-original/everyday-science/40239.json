@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organ develops first in the human body?",
+      "options": {
+        "a": "Heart",
+        "b": "Brain",
+        "c": "Lungs",
+        "d": "Liver"
+      },
+      "one_liner": "In the human body, the organ that develops first is the **heart**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

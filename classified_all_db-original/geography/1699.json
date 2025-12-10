@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which dialect of Punjabi is spoken in the Bari Doab region?",
+      "options": {
+        "a": "Majhi dialect",
+        "b": "Pothohari dialect",
+        "c": "Multani dialect",
+        "d": "None of these"
+      },
+      "one_liner": "The **Majhi dialect** of Punjabi is the main language spoken in the Bari Doab region.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

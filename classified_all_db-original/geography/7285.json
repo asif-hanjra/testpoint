@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the old name of Iraq?",
+      "options": {
+        "a": "Babylon",
+        "b": "Mesopotamia",
+        "c": "Persia",
+        "d": "Assyria"
+      },
+      "one_liner": "The region now known as Iraq was historically called **Babylon**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

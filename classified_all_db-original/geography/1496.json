@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which continents are involved in China's 'One Belt One Road' strategy?",
+      "options": {
+        "a": "Asia and Europe only",
+        "b": "Asia, Europe, and Africa only",
+        "c": "Asia, Europe, Africa, and the Middle East",
+        "d": "None of these"
+      },
+      "one_liner": "The 'One Belt One Road' strategy involves infrastructural development in **Asia, Europe, Africa, and the Middle East**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

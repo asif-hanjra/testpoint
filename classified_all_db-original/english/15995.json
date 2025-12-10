@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'jeopardize':",
+      "options": {
+        "a": "secure",
+        "b": "endanger",
+        "c": "protect",
+        "d": "save"
+      },
+      "one_liner": "'Jeopardize' means to put something at risk or in danger, similar to 'endanger'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

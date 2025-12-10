@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fervid':",
+      "options": {
+        "a": "apathetic",
+        "b": "ardent",
+        "c": "indifferent",
+        "d": "dispassionate"
+      },
+      "one_liner": "'Fervid' means intensely enthusiastic or passionate, similar to 'ardent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

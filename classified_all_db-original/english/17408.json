@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fervor':",
+      "options": {
+        "a": "enthusiasm:disinterest",
+        "b": "passion:apathy",
+        "c": "zeal:indifference",
+        "d": "ardor:enthusiasm"
+      },
+      "one_liner": "'Passion' is a synonym of 'fervor', while 'apathy' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

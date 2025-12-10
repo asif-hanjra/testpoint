@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'defeat':",
+      "options": {
+        "a": "overcome:prevail",
+        "b": "conquer:win",
+        "c": "beat:triumph",
+        "d": "vanquish:victory"
+      },
+      "one_liner": "'Overcome' is a synonym of 'defeat', while 'prevail' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

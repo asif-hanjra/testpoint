@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "All that glitters ___ not gold.",
+      "options": {
+        "a": "at",
+        "b": "is",
+        "c": "of",
+        "d": "by"
+      },
+      "one_liner": "All that glitters 'is' not gold.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

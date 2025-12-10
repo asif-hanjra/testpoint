@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "New legislation was introduced in the assembly, but it was not accepted ___ many.",
+      "options": {
+        "a": "at",
+        "b": "by",
+        "c": "with",
+        "d": "to"
+      },
+      "one_liner": "New legislation was not accepted 'by' many.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

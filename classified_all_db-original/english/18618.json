@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conceal':",
+      "options": {
+        "a": "disguise:disclose",
+        "b": "hide:exhibit",
+        "c": "mask:display",
+        "d": "veil:uncover"
+      },
+      "one_liner": "'Disguise' is a synonym of 'conceal', while 'disclose' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are parts of the Indian Ocean?",
+      "options": {
+        "a": "Bay of Bengal",
+        "b": "Arabian Sea",
+        "c": "Red Sea",
+        "d": "All of these"
+      },
+      "one_liner": "The Bay of Bengal, Arabian Sea, Persian Gulf, and Red Sea are all parts of the **Indian Ocean**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

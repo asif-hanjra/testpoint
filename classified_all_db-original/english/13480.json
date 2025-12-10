@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sporadic':",
+      "options": {
+        "a": "intermittent",
+        "b": "infrequent",
+        "c": "continuous",
+        "d": "erratic"
+      },
+      "one_liner": "The opposite of 'sporadic', which means irregular, would be 'continuous' or 'uninterrupted'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

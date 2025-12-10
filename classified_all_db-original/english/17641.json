@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'endeavor':",
+      "options": {
+        "a": "strive:neglect",
+        "b": "attempt:continue",
+        "c": "pursue:abandon",
+        "d": "try:persist"
+      },
+      "one_liner": "'Strive' is a synonym of 'endeavor', while 'neglect' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

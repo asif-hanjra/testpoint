@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "4 : 2 :: 16 : ________?",
+      "options": {
+        "a": "4",
+        "b": "8",
+        "c": "12",
+        "d": "32"
+      },
+      "one_liner": "4 is double of 2, just as 16 is double of 8 (or 2 is half of 4, and 8 is half of 16).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

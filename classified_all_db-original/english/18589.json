@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'since' in the sentence 'He has lived here since 2010'?",
+      "options": {
+        "a": "Conjunction",
+        "b": "Noun",
+        "c": "Preposition",
+        "d": "Adjective"
+      },
+      "one_liner": "'Since' is a preposition here because it shows the starting point of time.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

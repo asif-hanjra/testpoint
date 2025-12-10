@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river was the Simli Dam constructed?",
+      "options": {
+        "a": "Indus",
+        "b": "Soan",
+        "c": "Jhelum",
+        "d": "Ravi"
+      },
+      "one_liner": "Simli Dam was constructed on the **Soan River**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

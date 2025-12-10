@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gaffe':",
+      "options": {
+        "a": "blunder:accomplishment",
+        "b": "error:success",
+        "c": "slip:failure",
+        "d": "faux pas:achievement"
+      },
+      "one_liner": "'Blunder' is a synonym for 'gaffe', while 'accomplishment' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

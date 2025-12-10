@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'malarkey':",
+      "options": {
+        "a": "hogwash:verity",
+        "b": "truth:deception",
+        "c": "clarity:confusion",
+        "d": "fact:fiction"
+      },
+      "one_liner": "'Hogwash' is a synonym of 'malarkey', while 'verity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

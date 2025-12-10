@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the narrow strip in Afghanistan that separates Pakistan from Tajikistan?",
+      "options": {
+        "a": "Khyber Pass",
+        "b": "Wakhan Corridor",
+        "c": "Silk Route",
+        "d": "None of these"
+      },
+      "one_liner": "The narrow strip in Afghanistan that separates Pakistan from Tajikistan is called the **Wakhan Corridor**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Central Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

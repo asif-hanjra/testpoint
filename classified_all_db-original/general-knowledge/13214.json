@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the largest producer of rice?",
+      "options": {
+        "a": "India",
+        "b": "China",
+        "c": "Vietnam",
+        "d": "Thailand"
+      },
+      "one_liner": "China is recognized as the world's largest producer of rice, contributing significantly to global rice production.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'shrill':",
+      "options": {
+        "a": "muffled",
+        "b": "piercing",
+        "c": "melodious",
+        "d": "harmonious"
+      },
+      "one_liner": "'Shrill' describes a high-pitched and piercing sound, similar to 'piercing' or 'strident'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

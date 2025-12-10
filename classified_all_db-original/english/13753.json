@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'imperative':",
+      "options": {
+        "a": "mandatory:discretionary",
+        "b": "essential:crucial",
+        "c": "vital:optional",
+        "d": "critical:important"
+      },
+      "one_liner": "'Mandatory' is a synonym of 'imperative', while 'discretionary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

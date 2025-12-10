@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "ARM : WRIST :: BELT : ________?",
+      "options": {
+        "a": "Waist",
+        "b": "Buckle",
+        "c": "Bracelet",
+        "d": "Pants"
+      },
+      "one_liner": "The wrist is a part of the arm, and a belt is worn around the waist. A bracelet is worn on the wrist. This analogy is about body parts and accessories.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

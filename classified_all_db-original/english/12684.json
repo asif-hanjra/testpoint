@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'malarkey':",
+      "options": {
+        "a": "clarity",
+        "b": "balderdash",
+        "c": "truth",
+        "d": "fact"
+      },
+      "one_liner": "'Malarkey' refers to nonsense or foolish talk, similar to 'balderdash'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the second longest river in Europe?",
+      "options": {
+        "a": "Danube",
+        "b": "Volga",
+        "c": "Ural",
+        "d": "Rhine"
+      },
+      "one_liner": "The second longest river in Europe is the **Danube River**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

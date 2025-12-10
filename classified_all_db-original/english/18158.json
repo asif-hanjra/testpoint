@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'Aboriginal':",
+      "options": {
+        "a": "native",
+        "b": "indigenous",
+        "c": "immigrant",
+        "d": "original"
+      },
+      "one_liner": "An antonym of 'Aboriginal' is 'immigrant', which refers to someone who has come to live in a place from somewhere else.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

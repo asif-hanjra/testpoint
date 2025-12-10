@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'capture':",
+      "options": {
+        "a": "release",
+        "b": "seize",
+        "c": "ignore",
+        "d": "avoid"
+      },
+      "one_liner": "'Capture' means to take into one's possession or control by force, similar to 'seize'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

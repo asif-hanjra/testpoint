@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'skeptical':",
+      "options": {
+        "a": "doubtful",
+        "b": "questioning",
+        "c": "credulous",
+        "d": "wary"
+      },
+      "one_liner": "The opposite of being 'skeptical' is to be 'credulous' or 'gullible', which means easily convinced or believing too readily.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

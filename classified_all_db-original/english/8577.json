@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If you will come to me, I help you",
+      "options": {
+        "a": "If you come to me, I will help you",
+        "b": "If you come to me, I have help you",
+        "c": "If you come to me, I was help you",
+        "d": "If you come to me, I am help you"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

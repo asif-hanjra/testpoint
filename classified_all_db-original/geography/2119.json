@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country shares its western border with Pakistan?",
+      "options": {
+        "a": "India",
+        "b": "Afghanistan",
+        "c": "China",
+        "d": "Iran"
+      },
+      "one_liner": "Pakistan shares its western border with **Iran**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Pakistan-Iran",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Iran",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

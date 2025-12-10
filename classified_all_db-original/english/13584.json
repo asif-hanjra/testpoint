@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conventional':",
+      "options": {
+        "a": "innovative",
+        "b": "unusual",
+        "c": "traditional",
+        "d": "unique"
+      },
+      "one_liner": "'Conventional' means based on or in accordance with what is generally done or believed, similar to 'traditional'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

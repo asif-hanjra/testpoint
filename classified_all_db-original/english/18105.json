@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'edifice':",
+      "options": {
+        "a": "cottage",
+        "b": "structure",
+        "c": "hut",
+        "d": "shack"
+      },
+      "one_liner": "'Edifice' refers to a large and imposing building, much like a 'structure' or 'construction'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

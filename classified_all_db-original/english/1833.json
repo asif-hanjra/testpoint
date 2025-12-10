@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: The Engineers are repairing all the broken bridges.",
+      "options": {
+        "a": "All the broken bridges are being repaired by the Engineers.",
+        "b": "All the broken bridges were repaired by the Engineers.",
+        "c": "All the broken bridges are repaired by the Engineers.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

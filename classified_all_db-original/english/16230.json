@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Regular exercise is beneficial ___ health.",
+      "options": {
+        "a": "to",
+        "b": "for",
+        "c": "with",
+        "d": "at"
+      },
+      "one_liner": "Regular exercise is beneficial 'for' health.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'economy':",
+      "options": {
+        "a": "thrift",
+        "b": "conservation",
+        "c": "extravagance",
+        "d": "saving"
+      },
+      "one_liner": "The antonym of 'economy', which implies careful management, would be 'wastefulness' or 'extravagance'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

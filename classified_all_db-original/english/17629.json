@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Actions speak louder ___ words.",
+      "options": {
+        "a": "to",
+        "b": "than",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "Actions speak louder 'than' words.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

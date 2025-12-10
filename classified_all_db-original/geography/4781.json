@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for an Alpine glacier?",
+      "options": {
+        "a": "Continental Glacier",
+        "b": "Piedmont Glacier",
+        "c": "Valley Glacier",
+        "d": "None of these"
+      },
+      "one_liner": "An Alpine glacier is also commonly referred to as a **Valley Glacier**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Glaciers",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

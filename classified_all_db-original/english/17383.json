@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'before':",
+      "options": {
+        "a": "after",
+        "b": "earlier",
+        "c": "preceding",
+        "d": "former"
+      },
+      "one_liner": "The antonym of 'before' is 'after', indicating a later time.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

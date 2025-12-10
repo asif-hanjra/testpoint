@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'trifle':",
+      "options": {
+        "a": "bagatelle:treasure",
+        "b": "importance:inconsequence",
+        "c": "triviality:significance",
+        "d": "pettiness:substance"
+      },
+      "one_liner": "'Bagatelle' is a synonym of 'trifle', while 'treasure' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

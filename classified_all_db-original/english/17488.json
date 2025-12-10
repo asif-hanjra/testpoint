@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'entirely':",
+      "options": {
+        "a": "completely",
+        "b": "wholly",
+        "c": "partially",
+        "d": "fully"
+      },
+      "one_liner": "An antonym of 'entirely' is 'partially', which means not completely or only to some extent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

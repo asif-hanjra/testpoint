@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'drought':",
+      "options": {
+        "a": "aridity",
+        "b": "dryness",
+        "c": "deluge",
+        "d": "parchedness"
+      },
+      "one_liner": "The opposite of 'drought' is 'deluge', which means a great influx of water.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

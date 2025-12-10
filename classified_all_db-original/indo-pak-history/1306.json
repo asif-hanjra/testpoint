@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who announced the Partition of Bengal in 1905?",
+      "options": {
+        "a": "Lord Mountbatten",
+        "b": "Lord Curzon",
+        "c": "Lord Wavell",
+        "d": "Lord Minto"
+      },
+      "one_liner": "It was **Lord Curzon** who announced the Partition of Bengal in 1905.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'naughty':",
+      "options": {
+        "a": "obedient",
+        "b": "mischievous",
+        "c": "well-behaved",
+        "d": "respectful"
+      },
+      "one_liner": "'Naughty' refers to someone misbehaving or acting improperly, similar to 'mischievous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

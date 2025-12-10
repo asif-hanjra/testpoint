@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: The police are investigating the case.",
+      "options": {
+        "a": "The case is investigated by the police.",
+        "b": "The case is being investigated by the police.",
+        "c": "The case was investigated by the police.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

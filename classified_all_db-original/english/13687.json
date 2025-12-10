@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mesh':",
+      "options": {
+        "a": "netting",
+        "b": "transparent",
+        "c": "solid",
+        "d": "permeable"
+      },
+      "one_liner": "An antonym for 'mesh', which is a type of openwork fabric, would be 'solid', indicating a lack of openings.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

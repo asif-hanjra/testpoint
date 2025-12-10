@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Statements: All melons are apples. No apples are mangoes. Which of the following conclusions about the given statements are true? Conclusion 1: All melons are mangoes. Conclusion 2: Apples are not mangoes.",
+      "options": {
+        "a": "Only II",
+        "b": "Only I",
+        "c": "Neither II nor I",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

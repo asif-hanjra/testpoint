@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dissemble':",
+      "options": {
+        "a": "feign:disclose",
+        "b": "pretend:expose",
+        "c": "mask:reveal",
+        "d": "simulate:unveil"
+      },
+      "one_liner": "'Pretend' is a synonym of 'dissemble', while 'expose' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

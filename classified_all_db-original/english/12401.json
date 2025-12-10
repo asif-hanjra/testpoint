@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'thrifty':",
+      "options": {
+        "a": "frugal",
+        "b": "sparing",
+        "c": "extravagant",
+        "d": "careful"
+      },
+      "one_liner": "The opposite of being 'thrifty' is being 'extravagant', which means spending more freely or wastefully.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

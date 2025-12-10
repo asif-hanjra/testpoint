@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'blithe':",
+      "options": {
+        "a": "jovial",
+        "b": "merry",
+        "c": "somber",
+        "d": "buoyant"
+      },
+      "one_liner": "The opposite of 'blithe', which means carefree, would be 'somber', indicating a serious or solemn mood.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'accurate':",
+      "options": {
+        "a": "correct:inaccurate",
+        "b": "exact:erroneous",
+        "c": "precise:mistaken",
+        "d": "true:false"
+      },
+      "one_liner": "'Exact' is a synonym of 'accurate', while 'erroneous' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

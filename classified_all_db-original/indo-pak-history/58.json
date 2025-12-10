@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who among the following Indian political leaders did not attend the First Round Table Conference?",
+      "options": {
+        "a": "Gandhi",
+        "b": "Nehru",
+        "c": "Jinnah",
+        "d": "All of these"
+      },
+      "one_liner": "Indian political leader **Gandhi** did not participate in the First Round Table Conference.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jinnah-Gandhi Talks",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

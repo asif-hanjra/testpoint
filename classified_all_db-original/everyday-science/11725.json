@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which component is responsible for giving blood its red color?",
+      "options": {
+        "a": "Hemoglobin",
+        "b": "Chlorophyll",
+        "c": "Plasma",
+        "d": "None of these"
+      },
+      "one_liner": "The red color of blood is due to the presence of **hemoglobin**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

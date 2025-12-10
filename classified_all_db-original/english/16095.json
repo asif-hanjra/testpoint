@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'opaque':",
+      "options": {
+        "a": "clear",
+        "b": "transparent",
+        "c": "lucid",
+        "d": "obscure"
+      },
+      "one_liner": "'Opaque' means not transparent or hard to see through, similar to 'obscure'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obstetrician':",
+      "options": {
+        "a": "midwife",
+        "b": "nurse",
+        "c": "surgeon",
+        "d": "physician"
+      },
+      "one_liner": "An 'obstetrician' specializes in childbirth, whereas a 'surgeon' may specialize in various types of surgery not related to childbirth.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

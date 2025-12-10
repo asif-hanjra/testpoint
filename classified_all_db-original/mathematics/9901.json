@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Y = a/b x +c y = d/e x+c The equation of two perpendicular lines in the xy plane are shown above. where a, b, c, d, and e are constants. of 0<1 , which of the following must be true?",
+      "options": {
+        "a": "d/e <1",
+        "b": "-1<d/e<0",
+        "c": "0<1",
+        "d": "d/c<1"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

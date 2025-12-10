@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'topple':",
+      "options": {
+        "a": "ascend",
+        "b": "overturn",
+        "c": "rise",
+        "d": "stabilize"
+      },
+      "one_liner": "'Topple' means to fall or cause to fall, similar to 'tumble' or 'overturn'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

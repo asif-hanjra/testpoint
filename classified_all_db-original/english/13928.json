@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'excited' in the sentence 'The children were excited for the trip'?",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Adverb",
+        "d": "Verb"
+      },
+      "one_liner": "In the sentence 'The children were excited for the trip', the word 'excited' is an adjective because it describes the noun 'children'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

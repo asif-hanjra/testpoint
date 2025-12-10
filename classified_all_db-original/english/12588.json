@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intransigent':",
+      "options": {
+        "a": "adamant:amenable",
+        "b": "flexible:obstinate",
+        "c": "rigid:yielding",
+        "d": "unyielding:compliant"
+      },
+      "one_liner": "'Adamant' is a synonym of 'intransigent', while 'amenable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

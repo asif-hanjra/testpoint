@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'admonition':",
+      "options": {
+        "a": "praise",
+        "b": "caution",
+        "c": "approval",
+        "d": "compliment"
+      },
+      "one_liner": "'Admonition' refers to a warning or reprimand, similar to a 'caution'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

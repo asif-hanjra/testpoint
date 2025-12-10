@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'felon':",
+      "options": {
+        "a": "outlaw:innocent",
+        "b": "criminal:lawful",
+        "c": "malefactor:guilty",
+        "d": "convict:offender"
+      },
+      "one_liner": "'Outlaw' is a synonym of 'felon', while 'innocent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A = {1, 2, 3}, B = {a, b, c} and R = {(1, a), (2, a), (3, b)} then R is____?",
+      "options": {
+        "a": "One-one function",
+        "b": "Onto function",
+        "c": "Into function",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which new nuclear power plant was inaugurated by Prime Minister Imran Khan on May 21, 2021?",
+      "options": {
+        "a": "KANUPP-1",
+        "b": "KANUPP-2",
+        "c": "KANUPP-3",
+        "d": "CHASNUPP-IV"
+      },
+      "one_liner": "KANUPP-2, a new nuclear power plant established with China's assistance, was inaugurated by Prime Minister **Imran Khan** on May 21, 2021.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nuclear Power Plants",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Gas Companies and Refineries",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Nuclear Power Plants",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

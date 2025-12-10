@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gloomy':",
+      "options": {
+        "a": "cheerful",
+        "b": "dismal",
+        "c": "bright",
+        "d": "luminous"
+      },
+      "one_liner": "'Gloomy' describes a feeling of despondency, much like the word 'dismal'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

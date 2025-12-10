@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was admitted ___ the college.",
+      "options": {
+        "a": "in",
+        "b": "to",
+        "c": "at",
+        "d": "into"
+      },
+      "one_liner": "He was admitted 'to' the college.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

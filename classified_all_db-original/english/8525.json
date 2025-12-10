@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Correct the following sentences and rewrite that: A tiger runs fast that elephant",
+      "options": {
+        "a": "A tiger runs fast that elephant",
+        "b": "A tiger runs fast that an elephant",
+        "c": "A tiger runs fast that An Elephant",
+        "d": "A Tiger runs fast that an elephanT"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

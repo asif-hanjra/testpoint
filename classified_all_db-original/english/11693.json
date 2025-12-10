@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'generous':",
+      "options": {
+        "a": "stingy",
+        "b": "charitable",
+        "c": "lavish",
+        "d": "magnanimous"
+      },
+      "one_liner": "The opposite of 'generous' is 'stingy', which means not willing to give or spend.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'believe':",
+      "options": {
+        "a": "accept",
+        "b": "disbelieve",
+        "c": "acknowledge",
+        "d": "confirm"
+      },
+      "one_liner": "The opposite of 'believe' is 'disbelieve', which means to not accept something as true.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

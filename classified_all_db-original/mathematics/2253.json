@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For complex numbers Z1, Z2 which one of the following is true ____?",
+      "options": {
+        "a": "arg (Z1 Z2) = arg Z1 + arg Z2",
+        "b": "arg (Z1 Z2) = arg Z1 - arg Z2",
+        "c": "arg (Z1 Z2) = arg Z1 . arg Z2",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

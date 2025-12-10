@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the official residence of the British king and queen called?",
+      "options": {
+        "a": "Windsor Castle",
+        "b": "Buckingham Palace",
+        "c": "Kensington Palace",
+        "d": "Balmoral Castle"
+      },
+      "one_liner": "The official residence of the British king and queen is known as **Buckingham Palace**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

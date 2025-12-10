@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'posture':",
+      "options": {
+        "a": "carriage:disarray",
+        "b": "bearing:alignment",
+        "c": "stance:order",
+        "d": "position:neatness"
+      },
+      "one_liner": "'Carriage' is a synonym for 'posture', while 'disarray' is an antonym, indicating a lack of order or neatness in one's stance.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

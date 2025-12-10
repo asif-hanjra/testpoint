@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The client put the phone down ___ I could give an explanation.",
+      "options": {
+        "a": "after",
+        "b": "before",
+        "c": "during",
+        "d": "since"
+      },
+      "one_liner": "The client put the phone down 'before' I could give an explanation.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

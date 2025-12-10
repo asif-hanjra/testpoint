@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'continue':",
+      "options": {
+        "a": "persist",
+        "b": "maintain",
+        "c": "cease",
+        "d": "resume"
+      },
+      "one_liner": "An antonym of 'continue' is 'cease', which means to come to an end.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

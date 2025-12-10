@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of Pakistan's total area is covered with forests?",
+      "options": {
+        "a": "2.5%",
+        "b": "4.9%",
+        "c": "7.2%",
+        "d": "10%"
+      },
+      "one_liner": "Forests cover approximately **4.9%** of the total area of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

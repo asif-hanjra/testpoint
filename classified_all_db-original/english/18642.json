@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'deposit':",
+      "options": {
+        "a": "place",
+        "b": "leave",
+        "c": "withdraw",
+        "d": "lay"
+      },
+      "one_liner": "An antonym of 'deposit' is 'withdraw', which means to take something back or remove it.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

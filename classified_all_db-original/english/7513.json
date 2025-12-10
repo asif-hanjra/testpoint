@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "I don't understand this sentence. What _____?",
+      "options": {
+        "a": "Does this word mean",
+        "b": "Mean this word",
+        "c": "Means this word",
+        "d": "Does mean this word"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

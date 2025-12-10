@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hackneyed':",
+      "options": {
+        "a": "trite:innovative",
+        "b": "stereotyped:unique",
+        "c": "banal:fresh",
+        "d": "common:unusual"
+      },
+      "one_liner": "'Trite' is a synonym of 'hackneyed', while 'innovative' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

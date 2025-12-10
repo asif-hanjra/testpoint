@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'confident':",
+      "options": {
+        "a": "insecure",
+        "b": "self-assured",
+        "c": "bold",
+        "d": "certain"
+      },
+      "one_liner": "The opposite of being 'confident' is being 'insecure', which implies a lack of confidence or certainty.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

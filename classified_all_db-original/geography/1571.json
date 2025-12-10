@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which province is the second largest by population in Pakistan?",
+      "options": {
+        "a": "Balochistan",
+        "b": "Sindh",
+        "c": "Khyber Pakhtunkhwa",
+        "d": "None of these"
+      },
+      "one_liner": "Sindh is the **second largest province by population** in Pakistan, after Punjab.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

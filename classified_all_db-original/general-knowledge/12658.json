@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Sultan Bahu born?",
+      "options": {
+        "a": "Lahore",
+        "b": "Shorkot",
+        "c": "Multan",
+        "d": "Garh Maharaja"
+      },
+      "one_liner": "The birthplace of Sultan Bahu is **Shorkot**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

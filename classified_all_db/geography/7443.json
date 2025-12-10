@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries are separated by the Strait of Gibraltar?",
+      "options": {
+        "a": "Spain and Morocco",
+        "b": "India and Sri Lanka",
+        "c": "Alaska and Russia",
+        "d": "England and France"
+      },
+      "one_liner": "The Strait of Gibraltar separates **Gibraltar and Spain in Europe from Morocco in Africa**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

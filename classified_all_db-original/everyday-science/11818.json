@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the patella commonly known as?",
+      "options": {
+        "a": "Elbow bone",
+        "b": "Knee bone",
+        "c": "Shoulder bone",
+        "d": "Ankle bone"
+      },
+      "one_liner": "The patella is commonly referred to as the **knee bone**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

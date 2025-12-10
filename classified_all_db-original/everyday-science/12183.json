@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which atmospheric layer comes immediately after the troposphere?",
+      "options": {
+        "a": "Mesosphere",
+        "b": "Stratosphere",
+        "c": "Thermosphere",
+        "d": "Exosphere"
+      },
+      "one_liner": "The **stratosphere** is the second layer of the atmosphere, located just above the troposphere.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

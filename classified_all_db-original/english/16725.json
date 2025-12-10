@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "MOCCASIN : SNAKE :: SLIPPER : ________?",
+      "options": {
+        "a": "Sock",
+        "b": "Foot",
+        "c": "Shoe",
+        "d": "Sand"
+      },
+      "one_liner": "A moccasin is a type of snake, similar to how a slipper is a type of shoe.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

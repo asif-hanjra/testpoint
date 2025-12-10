@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prevent':",
+      "options": {
+        "a": "forbid",
+        "b": "block",
+        "c": "allow",
+        "d": "stop"
+      },
+      "one_liner": "The antonym of 'prevent' is 'allow', which means to give permission for something to happen.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

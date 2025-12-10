@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'precession':",
+      "options": {
+        "a": "rotation:inertia",
+        "b": "gyration:stability",
+        "c": "motion:stagnation",
+        "d": "spin:immobility"
+      },
+      "one_liner": "'Rotation' is a synonym for 'precession', while 'inertia' is its antonym, indicating a resistance to movement.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intentional':",
+      "options": {
+        "a": "deliberate:accidental",
+        "b": "planned:random",
+        "c": "purposeful:inadvertent",
+        "d": "intentional:deliberate"
+      },
+      "one_liner": "'Purposeful' is a synonym of 'intentional', while 'inadvertent' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

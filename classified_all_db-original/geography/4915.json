@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are the Margala Hills located in relation to Islamabad?",
+      "options": {
+        "a": "South",
+        "b": "East",
+        "c": "North and northeast",
+        "d": "West"
+      },
+      "one_liner": "The Margala Hills are situated to the **north and northeast** of Islamabad.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

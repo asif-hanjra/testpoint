@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'numerous':",
+      "options": {
+        "a": "abundant",
+        "b": "ample",
+        "c": "scarce",
+        "d": "plentiful"
+      },
+      "one_liner": "Antonyms of 'numerous' include 'few' and 'scarce', both implying a small quantity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

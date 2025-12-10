@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'separate':",
+      "options": {
+        "a": "disjoin:unify",
+        "b": "detach:attach",
+        "c": "divide:combine",
+        "d": "segregate:merge"
+      },
+      "one_liner": "'Disjoin' is a synonym for 'separate', while 'unify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

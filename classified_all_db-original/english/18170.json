@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'inauspicious':",
+      "options": {
+        "a": "favorable",
+        "b": "propitious",
+        "c": "ominous",
+        "d": "auspicious"
+      },
+      "one_liner": "'Inauspicious' means not conducive to success; synonyms include 'unfavorable' and 'ominous'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

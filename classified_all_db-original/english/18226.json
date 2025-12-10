@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stipulate':",
+      "options": {
+        "a": "specify:assume",
+        "b": "demand:offer",
+        "c": "require:grant",
+        "d": "dictate:accept"
+      },
+      "one_liner": "'Specify' is a synonym of 'stipulate', while 'assume' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

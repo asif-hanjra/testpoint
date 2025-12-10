@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct sentence from the following sentences: The bell has rang., The bell has ringing., The bell has ring., The bell has rung.",
+      "options": {
+        "a": "The bell has rang.",
+        "b": "The bell has ringing.",
+        "c": "The bell has rung",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

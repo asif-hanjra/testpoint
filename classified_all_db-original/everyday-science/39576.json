@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of the hormone released by the pineal gland?",
+      "options": {
+        "a": "Regulation of sleep and wake cycles",
+        "b": "Control of blood glucose",
+        "c": "Development of the body",
+        "d": "Coordination among organs"
+      },
+      "one_liner": "The hormone released by the pineal gland helps regulate when a person sleeps at night and wakes up in the morning, thus controlling circadian rhythms.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Goitre and enlarged thyroid gland are caused by deficiency of which mineral?",
+      "options": {
+        "a": "Iron",
+        "b": "Copper",
+        "c": "Iodine",
+        "d": "Phosphorus"
+      },
+      "one_liner": "Deficiency of **iodine** can cause goitre and an enlarged thyroid gland.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

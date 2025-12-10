@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'feckless':",
+      "options": {
+        "a": "incompetent",
+        "b": "useless",
+        "c": "competent",
+        "d": "weak"
+      },
+      "one_liner": "An antonym of 'feckless' is 'competent', which means having the necessary ability or knowledge.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

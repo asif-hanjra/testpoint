@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'embellish':",
+      "options": {
+        "a": "simplify",
+        "b": "garnish",
+        "c": "reduce",
+        "d": "strip"
+      },
+      "one_liner": "'Embellish' means to decorate or adorn, making 'garnish' a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

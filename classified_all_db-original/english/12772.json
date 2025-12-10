@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'perplex':",
+      "options": {
+        "a": "confuse:simplify",
+        "b": "complicate:clarify",
+        "c": "muddle:explain",
+        "d": "bewilder:enlighten"
+      },
+      "one_liner": "'Confuse' is a synonym of 'perplex', while 'simplify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

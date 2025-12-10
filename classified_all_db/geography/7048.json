@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest coral reef in the world?",
+      "options": {
+        "a": "Great Barrier Reef",
+        "b": "Red Sea Coral Reef",
+        "c": "New Caledonia Barrier Reef",
+        "d": "Mesoamerican Barrier Reef"
+      },
+      "one_liner": "The largest coral reef in the world is the **Great Barrier Reef**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Islands",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Seas of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

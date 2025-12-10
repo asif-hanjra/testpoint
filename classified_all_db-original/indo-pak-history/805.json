@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the ancient name of Bombay?",
+      "options": {
+        "a": "Malabar",
+        "b": "Calicut",
+        "c": "Surat",
+        "d": "Madras"
+      },
+      "one_liner": "The ancient name of Bombay was **Malabar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Malabar Riot",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Malabar Riot",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

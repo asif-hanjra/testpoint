@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The new law came ___ effect last week.",
+      "options": {
+        "a": "in",
+        "b": "into",
+        "c": "to",
+        "d": "on"
+      },
+      "one_liner": "The new law came 'into' effect last week.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

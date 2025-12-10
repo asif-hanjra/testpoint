@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Did I gave him a gift?",
+      "options": {
+        "a": "Has a gift given to him by me?",
+        "b": "Was a gift given to him by me?",
+        "c": "Have a gift given to him by me?",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

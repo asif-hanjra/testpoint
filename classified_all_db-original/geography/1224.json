@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the name of North-West Frontier Province changed to Khyber Pakhtunkhwa?",
+      "options": {
+        "a": "2008",
+        "b": "2010",
+        "c": "2012",
+        "d": "None of these"
+      },
+      "one_liner": "The name of North-West Frontier Province was changed to Khyber Pakhtunkhwa in **2010**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

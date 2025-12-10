@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which antibiotic is considered broad spectrum and may be used against many bacteria?",
+      "options": {
+        "a": "Penicillin",
+        "b": "Cephalosporin",
+        "c": "Tetracycline",
+        "d": "Erythromycin"
+      },
+      "one_liner": "**Tetracycline** is considered a broad spectrum antibiotic and can be used against many types of bacteria.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

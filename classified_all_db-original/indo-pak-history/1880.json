@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Did the British government agree to appoint two vice secretaries of State for Indian Affairs as demanded in the Lucknow Pact?",
+      "options": {
+        "a": "Yes, agreed",
+        "b": "No, refused",
+        "c": "Partially agreed",
+        "d": "None of these"
+      },
+      "one_liner": "The British government refused to appoint two vice secretaries of State for Indian Affairs, stating that the Secretary of State already had a council.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

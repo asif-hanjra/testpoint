@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'aphoristic':",
+      "options": {
+        "a": "verbose",
+        "b": "pithy",
+        "c": "rambling",
+        "d": "prolix"
+      },
+      "one_liner": "'Aphoristic' means expressing a truth or observation in a concise and witty manner, similar to 'pithy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

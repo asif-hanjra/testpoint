@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'felicity':",
+      "options": {
+        "a": "joy",
+        "b": "contentment",
+        "c": "misery",
+        "d": "delight"
+      },
+      "one_liner": "The antonym of 'felicity', which means happiness, is 'misery', indicating great distress.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

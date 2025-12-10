@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which sea does the Gulf of Oman connect to the Strait of Hormuz?",
+      "options": {
+        "a": "Red Sea",
+        "b": "Arabian Sea",
+        "c": "Mediterranean Sea",
+        "d": "Caspian Sea"
+      },
+      "one_liner": "The Gulf of Oman connects the **Arabian Sea** with the Strait of Hormuz.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

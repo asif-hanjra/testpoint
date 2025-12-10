@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lucid':",
+      "options": {
+        "a": "coherent:confusing",
+        "b": "clear:distinct",
+        "c": "intelligible:obvious",
+        "d": "transparent:opaque"
+      },
+      "one_liner": "'Coherent' is a synonym of 'lucid', while 'confusing' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

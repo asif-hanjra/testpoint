@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'Don't judge a book by its cover' imply?",
+      "options": {
+        "a": "Do not read books with unattractive covers",
+        "b": "Do not form an opinion based solely on appearance",
+        "c": "Always read the summary before buying a book",
+        "d": "Covers of books are not important"
+      },
+      "one_liner": "The idiom 'Don't judge a book by its cover' suggests that one should not form an opinion based solely on outward appearance.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

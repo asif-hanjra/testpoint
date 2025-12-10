@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following gases is considered the least polluted?",
+      "options": {
+        "a": "Chlorine",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Carbon dioxide"
+      },
+      "one_liner": "Among various gases, **chlorine** is regarded as the least polluted.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

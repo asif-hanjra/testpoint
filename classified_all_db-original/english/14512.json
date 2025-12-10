@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ragged':",
+      "options": {
+        "a": "smooth",
+        "b": "frayed",
+        "c": "pristine",
+        "d": "polished"
+      },
+      "one_liner": "'Ragged' describes something that is tattered or worn out, similar to 'frayed'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

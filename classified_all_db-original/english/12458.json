@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'antagonize':",
+      "options": {
+        "a": "appease",
+        "b": "provoke",
+        "c": "placate",
+        "d": "soothe"
+      },
+      "one_liner": "'Antagonize' means to cause someone to become hostile, similar to 'provoke'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'clear':",
+      "options": {
+        "a": "transparent",
+        "b": "lucid",
+        "c": "cloudy",
+        "d": "bright"
+      },
+      "one_liner": "Antonyms of 'clear' include 'obscure' and 'cloudy', both suggesting a lack of visibility or understanding.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

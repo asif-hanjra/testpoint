@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "It is wise to adhere ___ the rules of your parents.",
+      "options": {
+        "a": "with",
+        "b": "to",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "It is wise to adhere 'to' the rules of your parents.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

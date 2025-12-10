@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'scrawny':",
+      "options": {
+        "a": "plump",
+        "b": "gaunt",
+        "c": "robust",
+        "d": "hefty"
+      },
+      "one_liner": "'Scrawny' means being unattractively thin or lean, similar to 'emaciated' or 'gaunt'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

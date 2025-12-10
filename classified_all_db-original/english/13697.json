@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'There is no smoke without fire' imply?",
+      "options": {
+        "a": "Cooking often leads to accidental fires",
+        "b": "Rumors usually have some truth behind them",
+        "c": "Firefighters always find the source of smoke",
+        "d": "Precautions should be taken when there is smoke"
+      },
+      "one_liner": "The idiom 'There is no smoke without fire' suggests that rumors or accusations are often based on some degree of truth or reality.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

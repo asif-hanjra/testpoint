@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'loose':",
+      "options": {
+        "a": "relaxed:firm",
+        "b": "slack:stiff",
+        "c": "lax:rigid",
+        "d": "slack:tight"
+      },
+      "one_liner": "'Relaxed' is a synonym of 'loose', while 'firm' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

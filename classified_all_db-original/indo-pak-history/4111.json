@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of the incomplete building constructed by Ala-ud-Din Khiliji?",
+      "options": {
+        "a": "Qutub Minar",
+        "b": "Alai Minar",
+        "c": "Char Minar",
+        "d": "None of these"
+      },
+      "one_liner": "The incomplete building constructed by Ala-ud-Din Khiliji was known as the **Alai Minar**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

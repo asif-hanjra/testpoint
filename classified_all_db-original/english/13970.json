@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'cry wolf' mean?",
+      "options": {
+        "a": "To weep for a genuine reason",
+        "b": "To call for help when it's not needed",
+        "c": "To express regret",
+        "d": "To mourn the loss of a pet"
+      },
+      "one_liner": "The idiom 'cry wolf' refers to giving a false alarm or calling for help when it is not needed, leading others to doubt the truth of future claims.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

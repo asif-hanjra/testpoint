@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gratitude':",
+      "options": {
+        "a": "thankfulness",
+        "b": "appreciation",
+        "c": "ingratitude",
+        "d": "gratefulness"
+      },
+      "one_liner": "The opposite of 'gratitude' is 'ingratitude', which indicates a lack of thankfulness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

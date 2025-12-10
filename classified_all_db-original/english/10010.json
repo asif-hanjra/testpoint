@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Change Voice: The Doctor bandaged the arm of the injured man.",
+      "options": {
+        "a": "The arm of the injured man was bandaged by the doctor.",
+        "b": "The injured man bandaged his arm.",
+        "c": "The injured man made the doctor injure his arm.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2021
+}

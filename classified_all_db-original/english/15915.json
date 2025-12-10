@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ossified':",
+      "options": {
+        "a": "flexible",
+        "b": "petrified",
+        "c": "pliable",
+        "d": "malleable"
+      },
+      "one_liner": "'Ossified' means hardened or turned into bone, similar to 'petrified' or 'calcified'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

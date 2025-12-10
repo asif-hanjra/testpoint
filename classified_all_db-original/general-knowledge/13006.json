@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Acropolis of Athens located?",
+      "options": {
+        "a": "Rome, Italy",
+        "b": "Athens, Greece",
+        "c": "Istanbul, Turkey",
+        "d": "Cairo, Egypt"
+      },
+      "one_liner": "The Acropolis of Athens is an ancient citadel situated on a rocky outcrop above the city of **Athens, Greece**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Acropolis of Athens",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Acropolis of Athens",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

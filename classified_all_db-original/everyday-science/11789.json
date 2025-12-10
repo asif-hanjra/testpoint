@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term for a year in which an extra day is added to keep the calendar year synchronized with the seasonal or astronomical year?",
+      "options": {
+        "a": "Leap Year",
+        "b": "Solar Year",
+        "c": "Lunar Year",
+        "d": "Common Year"
+      },
+      "one_liner": "A year in which an extra day is added to synchronize the calendar with the seasonal or astronomical year is known as a **Leap Year**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

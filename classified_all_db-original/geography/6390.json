@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Mintaka Pass connects Pakistan with which region of China?",
+      "options": {
+        "a": "Tibet",
+        "b": "Xinjiang",
+        "c": "Yunnan",
+        "d": "Sichuan"
+      },
+      "one_liner": "Mintaka Pass connects Pakistan with **Xinjiang** in China.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Pakistan-Afghanistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

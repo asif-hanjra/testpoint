@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exodus':",
+      "options": {
+        "a": "departure",
+        "b": "leaving",
+        "c": "arrival",
+        "d": "migration"
+      },
+      "one_liner": "The antonym of 'exodus' is 'arrival', indicating the act of coming to a place.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

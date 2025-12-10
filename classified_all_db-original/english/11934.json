@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fraud':",
+      "options": {
+        "a": "imposture:authenticity",
+        "b": "deception:honesty",
+        "c": "swindle:integrity",
+        "d": "cheat:truth"
+      },
+      "one_liner": "'Imposture' is a synonym of 'fraud', while 'authenticity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

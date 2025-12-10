@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which languages did Munir Ahmed Niazi write poetry in?",
+      "options": {
+        "a": "English and Urdu",
+        "b": "Punjabi and Sindhi",
+        "c": "Urdu and Punjabi",
+        "d": "None of these"
+      },
+      "one_liner": "Munir Ahmed Niazi was a celebrated poet who wrote in both **Urdu and Punjabi** languages.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

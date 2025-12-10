@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abasement':",
+      "options": {
+        "a": "elevation",
+        "b": "humiliation",
+        "c": "promotion",
+        "d": "advancement"
+      },
+      "one_liner": "'Abasement' refers to the act of humiliation or degradation, similar to 'humiliation' itself.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

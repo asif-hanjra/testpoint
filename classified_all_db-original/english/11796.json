@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stimulate':",
+      "options": {
+        "a": "energize:quell",
+        "b": "activate:inspire",
+        "c": "motivate:encourage",
+        "d": "arouse:excite"
+      },
+      "one_liner": "'Energize' is a synonym of 'stimulate', while 'quell' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

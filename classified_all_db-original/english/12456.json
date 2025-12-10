@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Ab extra' mean?",
+      "options": {
+        "a": "From within",
+        "b": "From outside",
+        "c": "Above all",
+        "d": "In good faith"
+      },
+      "one_liner": "The Latin phrase 'Ab extra' translates to 'from outside', indicating something that comes from an external source.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

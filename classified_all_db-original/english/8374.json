@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "I saw a beautiful bird.",
+      "options": {
+        "a": "A beautiful bird is seen by me",
+        "b": "A beautiful bird was seen by me",
+        "c": "A beautiful bird will be seen by me",
+        "d": "A beautiful bird should be seen by me"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

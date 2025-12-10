@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bog':",
+      "options": {
+        "a": "desert",
+        "b": "marsh",
+        "c": "plateau",
+        "d": "mountain"
+      },
+      "one_liner": "'Bog' refers to a wet, muddy ground, so 'marsh' and 'swamp' are synonyms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

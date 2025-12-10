@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The horseman pulls ___ reins of the horse.",
+      "options": {
+        "a": "in",
+        "b": "the",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "The horseman pulls 'the' reins of the horse.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

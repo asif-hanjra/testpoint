@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who commanded the East India Company forces during the Battle of Buxar in 1764?",
+      "options": {
+        "a": "Robert Clive",
+        "b": "Hector Munro",
+        "c": "Warren Hastings",
+        "d": "Lord Cornwallis"
+      },
+      "one_liner": "The East India Company forces at the Battle of Buxar in 1764 were commanded by **Hector Munro**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

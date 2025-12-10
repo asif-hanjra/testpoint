@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'confrontation':",
+      "options": {
+        "a": "agreement",
+        "b": "conflict",
+        "c": "harmony",
+        "d": "peace"
+      },
+      "one_liner": "'Confrontation' implies a direct encounter or clash, similar to 'conflict' or 'contest'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

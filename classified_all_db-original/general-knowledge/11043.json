@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Qantas is the airline of which country?",
+      "options": {
+        "a": "New Zealand",
+        "b": "Australia",
+        "c": "Canada",
+        "d": "United States"
+      },
+      "one_liner": "Qantas is the flag carrier airline of **Australia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

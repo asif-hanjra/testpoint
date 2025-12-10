@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If X = {3,4,5,6} and Y = {1,2,3,8} then X∪Y is ______?",
+      "options": {
+        "a": "{3}",
+        "b": "{1,2,3,4,5,6,8}",
+        "c": "{1,2,3,4,5,6}",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

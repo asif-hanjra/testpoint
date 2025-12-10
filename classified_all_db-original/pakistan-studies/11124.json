@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Whose lyrics were selected as the national anthem of Pakistan?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Hafeez Jalandari",
+        "c": "Faiz Ahmed Faiz",
+        "d": "Josh Malihabadi"
+      },
+      "one_liner": "The lyrics of the national anthem of Pakistan were written by **Hafeez Jalandari**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

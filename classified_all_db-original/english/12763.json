@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deft':",
+      "options": {
+        "a": "adept:inept",
+        "b": "clumsy:skillful",
+        "c": "dexterous:awkward",
+        "d": "proficient:clumsy"
+      },
+      "one_liner": "'Adept' is a synonym of 'deft', while 'inept' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

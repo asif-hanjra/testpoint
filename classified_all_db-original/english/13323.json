@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'intriguing':",
+      "options": {
+        "a": "fascinating",
+        "b": "engrossing",
+        "c": "dull",
+        "d": "captivating"
+      },
+      "one_liner": "Antonyms of 'intriguing' include 'boring' and 'dull', both implying a lack of interest or excitement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

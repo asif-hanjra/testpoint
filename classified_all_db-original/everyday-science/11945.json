@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens when electricity passes through xenon gas?",
+      "options": {
+        "a": "It emits a red light",
+        "b": "It emits a bright white light",
+        "c": "It emits a blue light",
+        "d": "It does not emit light"
+      },
+      "one_liner": "When electricity passes through **xenon gas**, it emits a bright white light.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

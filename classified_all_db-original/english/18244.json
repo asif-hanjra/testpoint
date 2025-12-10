@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'satire':",
+      "options": {
+        "a": "compliment",
+        "b": "flattery",
+        "c": "praise",
+        "d": "critique"
+      },
+      "one_liner": "While 'satire' mocks or criticizes, 'flattery' is about excessive or insincere praise.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

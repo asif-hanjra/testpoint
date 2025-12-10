@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Did he ___ good health?",
+      "options": {
+        "a": "in",
+        "b": "have",
+        "c": "at",
+        "d": "with"
+      },
+      "one_liner": "He did 'have' good health.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

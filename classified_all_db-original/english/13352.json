@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'industrious':",
+      "options": {
+        "a": "energetic",
+        "b": "active",
+        "c": "lazy",
+        "d": "busy"
+      },
+      "one_liner": "An antonym of 'industrious' is 'lazy', which means not willing to work or use energy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

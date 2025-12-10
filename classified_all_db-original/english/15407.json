@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'maneuver':",
+      "options": {
+        "a": "navigate",
+        "b": "operate",
+        "c": "flounder",
+        "d": "execute"
+      },
+      "one_liner": "While 'maneuver' suggests a deliberate action, 'flounder' indicates a lack of control or clumsiness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

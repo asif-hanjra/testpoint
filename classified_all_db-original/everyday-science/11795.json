@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the term \"Equinox\" mean?",
+      "options": {
+        "a": "Equal duration of day and night",
+        "b": "Longest day of the year",
+        "c": "Shortest night of the year",
+        "d": "None of these"
+      },
+      "one_liner": "The term \"Equinox\" refers to the time when the duration of day and night are **equal**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

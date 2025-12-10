@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which area, later known as the North-West Frontier Province, was annexed by the East India Company after the Second Anglo-Sikh War?",
+      "options": {
+        "a": "Sindh",
+        "b": "North-West Frontier Province",
+        "c": "Bengal",
+        "d": "Hyderabad"
+      },
+      "one_liner": "The area that later became the **North-West Frontier Province** was annexed by the East India Company after the Second Anglo-Sikh War.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

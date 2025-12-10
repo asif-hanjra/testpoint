@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the east-facing door of Baba Farid's shrine?",
+      "options": {
+        "a": "Bahishti Darwaza",
+        "b": "Nuri Darwaza",
+        "c": "Ajodhan Darwaza",
+        "d": "Multani Darwaza"
+      },
+      "one_liner": "The east-facing door of Baba Farid's shrine is called the **Nuri Darwaza**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

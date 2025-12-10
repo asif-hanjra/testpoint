@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'magnify':",
+      "options": {
+        "a": "diminish",
+        "b": "reduce",
+        "c": "enlarge",
+        "d": "shrink"
+      },
+      "one_liner": "'Magnify' means to enlarge or amplify, so 'enlarge' is a synonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

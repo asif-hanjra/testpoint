@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which years did John F. Kennedy serve as president of the United States?",
+      "options": {
+        "a": "1959-1961",
+        "b": "1961-1963",
+        "c": "1963-1965",
+        "d": "1960-1962"
+      },
+      "one_liner": "John F. Kennedy served as president of the United States from **1961 until his assassination in 1963**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

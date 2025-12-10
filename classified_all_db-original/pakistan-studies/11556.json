@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date did Imran Khan assume office as Prime Minister of Pakistan in 2018?",
+      "options": {
+        "a": "July 25, 2018",
+        "b": "August 18, 2018",
+        "c": "August 1, 2018",
+        "d": "September 18, 2018"
+      },
+      "one_liner": "Imran Khan officially assumed the office of Prime Minister of Pakistan on **August 18, 2018**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

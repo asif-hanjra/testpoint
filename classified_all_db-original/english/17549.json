@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'disrobe':",
+      "options": {
+        "a": "undress:clothe",
+        "b": "strip:garb",
+        "c": "bare:dress",
+        "d": "uncover:attire"
+      },
+      "one_liner": "'Undress' is a synonym of 'disrobe', while 'clothe' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

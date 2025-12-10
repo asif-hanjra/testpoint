@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reciprocal':",
+      "options": {
+        "a": "mutual:unilateral",
+        "b": "shared:independent",
+        "c": "joint:singular",
+        "d": "common:separate"
+      },
+      "one_liner": "'Mutual' is a synonym of 'reciprocal', while 'unilateral' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

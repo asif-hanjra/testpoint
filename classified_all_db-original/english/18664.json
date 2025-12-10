@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'invincible':",
+      "options": {
+        "a": "undefeated",
+        "b": "invulnerable",
+        "c": "vulnerable",
+        "d": "unbeatable"
+      },
+      "one_liner": "Antonyms of 'invincible' include 'vulnerable' and 'defeatable', both implying susceptibility to defeat.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

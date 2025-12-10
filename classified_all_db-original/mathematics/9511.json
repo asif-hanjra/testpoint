@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What should be added to 2a³ + a² - 3a - 1 to get 7 + 2a - a² + 4a³?",
+      "options": {
+        "a": "2a³ - 2a² + 5a + 8",
+        "b": "4a³ - 2a² + 5a + 8",
+        "c": "5a³ - 3a² + 5a + 8",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

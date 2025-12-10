@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'subsequent':",
+      "options": {
+        "a": "previous",
+        "b": "initial",
+        "c": "consecutive",
+        "d": "prior"
+      },
+      "one_liner": "'Subsequent' means following in time or order; 'consecutive' is a synonym that also indicates something following sequentially.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

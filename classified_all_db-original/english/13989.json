@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'profound':",
+      "options": {
+        "a": "deep",
+        "b": "intense",
+        "c": "superficial",
+        "d": "complex"
+      },
+      "one_liner": "The opposite of 'profound', which suggests great depth, would be 'superficial', indicating a lack of depth or thoroughness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You must stick ___ your promise.",
+      "options": {
+        "a": "with",
+        "b": "to",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "You must stick 'to' your promise.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

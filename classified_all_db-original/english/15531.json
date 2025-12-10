@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'Produced':",
+      "options": {
+        "a": "fabricated:dismantled",
+        "b": "generated:constructed",
+        "c": "produced:created",
+        "d": "manufactured:assembled"
+      },
+      "one_liner": "'Fabricated' is a synonym of 'Produced', while 'dismantled' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

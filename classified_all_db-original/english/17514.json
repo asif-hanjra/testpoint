@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lackluster':",
+      "options": {
+        "a": "vibrant",
+        "b": "dull",
+        "c": "shiny",
+        "d": "luminous"
+      },
+      "one_liner": "'Lackluster' describes something dull or uninspiring, similar to 'tedious' or 'unexciting'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

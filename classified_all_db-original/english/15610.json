@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'recalcitrant':",
+      "options": {
+        "a": "compliant",
+        "b": "obstinate",
+        "c": "agreeable",
+        "d": "amenable"
+      },
+      "one_liner": "'Recalcitrant' means stubborn or uncooperative, similar to 'obstinate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

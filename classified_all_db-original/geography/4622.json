@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country is the River Euphrates an important river?",
+      "options": {
+        "a": "Syria",
+        "b": "Turkey",
+        "c": "Iraq",
+        "d": "Iran"
+      },
+      "one_liner": "The River Euphrates is an important river located in **Iraq**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

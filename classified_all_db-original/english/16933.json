@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'servile':",
+      "options": {
+        "a": "obsequious:autonomous",
+        "b": "submissive:dominant",
+        "c": "docile:independent",
+        "d": "deferential:assertive"
+      },
+      "one_liner": "'Obsequious' is a synonym of 'servile', while 'autonomous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

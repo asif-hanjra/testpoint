@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'refurbish':",
+      "options": {
+        "a": "enhance",
+        "b": "improve",
+        "c": "ruin",
+        "d": "upgrade"
+      },
+      "one_liner": "Antonyms of 'refurbish' include 'destroy' and 'ruin', which mean to cause damage or reduce to a state of disrepair.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

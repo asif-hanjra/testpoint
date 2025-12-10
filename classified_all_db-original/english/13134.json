@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'magnitude':",
+      "options": {
+        "a": "immensity:triviality",
+        "b": "greatness:enormity",
+        "c": "extent:immensity",
+        "d": "amplitude:grandeur"
+      },
+      "one_liner": "'Immensity' is a synonym of 'magnitude', while 'triviality' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

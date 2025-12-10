@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for the Hindu Kush range?",
+      "options": {
+        "a": "Trans-Himalayas",
+        "b": "Western Himalayas",
+        "c": "Sulaiman Range",
+        "d": "None of these"
+      },
+      "one_liner": "The Hindu Kush range is also known as the **Trans-Himalayas**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

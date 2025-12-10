@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rarefy':",
+      "options": {
+        "a": "purify:clarify",
+        "b": "refine:compress",
+        "c": "distill:condense",
+        "d": "thin:thicken"
+      },
+      "one_liner": "'Refine' is a synonym of 'rarefy', while 'compress' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

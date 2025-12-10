@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which district is the Baglihar Dam located?",
+      "options": {
+        "a": "Anantnag",
+        "b": "Ramban",
+        "c": "Baramulla",
+        "d": "Srinagar"
+      },
+      "one_liner": "The Baglihar Dam is located in the **Ramban district** of Indian-occupied Jammu and Kashmir.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Indian Dams violating Indus Water Treaty",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Pakistan-India",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Indian Dams violating Indus Water Treaty",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

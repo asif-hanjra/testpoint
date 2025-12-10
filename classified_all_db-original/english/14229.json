@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'preserve':",
+      "options": {
+        "a": "maintain",
+        "b": "safeguard",
+        "c": "destroy",
+        "d": "conserve"
+      },
+      "one_liner": "Antonyms of 'preserve' include 'destroy' and 'squander', both implying the opposite of protection or maintenance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

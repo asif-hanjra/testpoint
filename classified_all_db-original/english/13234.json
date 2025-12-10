@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You must pay ___ the judge for pardon.",
+      "options": {
+        "a": "at",
+        "b": "to",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "You must pay 'to' the judge for pardon.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

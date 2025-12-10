@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'intriguing':",
+      "options": {
+        "a": "dull",
+        "b": "fascinating",
+        "c": "boring",
+        "d": "mundane"
+      },
+      "one_liner": "'Intriguing' means captivating or interesting—words like 'fascinating' and 'engrossing' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'flatter':",
+      "options": {
+        "a": "compliment",
+        "b": "adulate",
+        "c": "criticize",
+        "d": "applaud"
+      },
+      "one_liner": "An antonym of 'flatter' is 'criticize', which means to express disapproval instead of excessive praise.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

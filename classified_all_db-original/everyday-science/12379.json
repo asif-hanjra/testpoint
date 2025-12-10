@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Are many viruses pathogenic?",
+      "options": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Only in plants",
+        "d": "None of these"
+      },
+      "one_liner": "Many viruses are **pathogenic**, meaning they can cause diseases in living organisms.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

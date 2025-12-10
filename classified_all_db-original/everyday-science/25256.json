@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following animals is NOT a reptile?",
+      "options": {
+        "a": "Snake",
+        "b": "Lizard",
+        "c": "Frog",
+        "d": "Crocodile"
+      },
+      "one_liner": "Among snakes, lizards, crocodiles, alligators, turtles, and frogs, only **frogs** are not reptiles.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'persuade':",
+      "options": {
+        "a": "dissuade",
+        "b": "convince",
+        "c": "ignore",
+        "d": "neglect"
+      },
+      "one_liner": "'Persuade' means to convince someone to do something, similar to 'convince' or 'influence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

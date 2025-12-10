@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Brass is an alloy of which metals?",
+      "options": {
+        "a": "Copper and tin",
+        "b": "Copper and zinc",
+        "c": "Iron and carbon",
+        "d": "None of these"
+      },
+      "one_liner": "Brass is an alloy formed by mixing **copper and zinc** together.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

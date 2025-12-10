@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prompt':",
+      "options": {
+        "a": "delayed",
+        "b": "immediate",
+        "c": "sluggish",
+        "d": "lethargic"
+      },
+      "one_liner": "'Prompt' means quick or on time, similar to 'immediate' or 'expeditious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

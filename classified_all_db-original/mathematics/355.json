@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard form of a quadratic equation?",
+      "options": {
+        "a": "ax^2 + bx + c = 0",
+        "b": "ax^2 + b = c",
+        "c": "a(x - h)^2 + k = 0",
+        "d": "a(x - p)(x - q) = 0"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

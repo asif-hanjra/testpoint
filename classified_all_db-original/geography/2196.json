@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the largest manmade waterfall located?",
+      "options": {
+        "a": "Guiyang",
+        "b": "Shanghai",
+        "c": "Beijing",
+        "d": "Karachi"
+      },
+      "one_liner": "The largest manmade waterfall in the world is located in **Guiyang**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

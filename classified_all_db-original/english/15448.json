@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'barbarous':",
+      "options": {
+        "a": "humane",
+        "b": "savage",
+        "c": "civilized",
+        "d": "gentle"
+      },
+      "one_liner": "'Barbarous' means cruel or uncivilized, similar to 'savage' in its connotations.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

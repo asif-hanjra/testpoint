@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the distinction of Qutub Minar among minarets worldwide?",
+      "options": {
+        "a": "Oldest minaret",
+        "b": "Tallest stone minaret",
+        "c": "World's tallest brick minaret",
+        "d": "None of these"
+      },
+      "one_liner": "Qutub Minar holds the distinction of being the **world's tallest brick minaret**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

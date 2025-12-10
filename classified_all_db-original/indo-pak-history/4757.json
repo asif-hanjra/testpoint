@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Were elections held in NWFP immediately after its formation in 1901?",
+      "options": {
+        "a": "Yes, in 1901",
+        "b": "Yes, in 1911",
+        "c": "No, not until 1937",
+        "d": "None of these"
+      },
+      "one_liner": "No elections were held in NWFP until **1937**, despite its formation as a separate province in 1901.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

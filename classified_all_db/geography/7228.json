@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which two countries is the Niagara waterfall located?",
+      "options": {
+        "a": "America and Mexico",
+        "b": "America and Canada",
+        "c": "Canada and Russia",
+        "d": "None of these"
+      },
+      "one_liner": "The Niagara waterfall is situated between **America and Canada**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Waterfalls",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

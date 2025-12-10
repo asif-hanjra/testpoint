@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is in liquid state at normal room temperature?",
+      "options": {
+        "a": "Mercury",
+        "b": "Iron",
+        "c": "Gold",
+        "d": "Copper"
+      },
+      "one_liner": "Unlike most metals, **Mercury** remains in a liquid state at normal room temperature.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

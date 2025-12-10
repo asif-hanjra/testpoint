@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'eminent':",
+      "options": {
+        "a": "distinguished:insignificant",
+        "b": "prominent:well-known",
+        "c": "notable:famous",
+        "d": "renowned:celebrated"
+      },
+      "one_liner": "'Distinguished' is a synonym of 'eminent', while 'insignificant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

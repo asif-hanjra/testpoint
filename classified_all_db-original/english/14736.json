@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stockade':",
+      "options": {
+        "a": "barrier",
+        "b": "exit",
+        "c": "enclosure",
+        "d": "wall"
+      },
+      "one_liner": "An antonym for 'stockade', which is a form of enclosure, would be 'opening' or 'exit'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

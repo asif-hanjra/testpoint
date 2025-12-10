@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You must do it ___ a position to do all we promised to do.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "You must do it 'in' a position to do all we promised to do.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

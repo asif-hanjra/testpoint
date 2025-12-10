@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which article of the Constitution of 1973 is related to the affairs of Zakat?",
+      "options": {
+        "a": "Article 31",
+        "b": "Article 25",
+        "c": "Article 19",
+        "d": "Article 62"
+      },
+      "one_liner": "Article 31 of the Constitution of 1973 specifically addresses the affairs of **Zakat** in Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

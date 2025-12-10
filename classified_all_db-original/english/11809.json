@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'awful':",
+      "options": {
+        "a": "pleasant",
+        "b": "terrible",
+        "c": "delightful",
+        "d": "wonderful"
+      },
+      "one_liner": "'Awful' means extremely bad or unpleasant, similar to 'terrible'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

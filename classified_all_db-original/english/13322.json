@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'advocate':",
+      "options": {
+        "a": "supporter",
+        "b": "proponent",
+        "c": "opponent",
+        "d": "ally"
+      },
+      "one_liner": "An antonym of 'advocate' is 'opponent', which refers to someone who is against a cause or idea.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

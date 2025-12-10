@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rapid':",
+      "options": {
+        "a": "quick",
+        "b": "hurried",
+        "c": "slow",
+        "d": "prompt"
+      },
+      "one_liner": "The antonym of 'rapid' is 'slow', indicating a lack of speed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

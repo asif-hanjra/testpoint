@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bogus':",
+      "options": {
+        "a": "counterfeit:legitimate",
+        "b": "genuine:fake",
+        "c": "fraudulent:real",
+        "d": "phony:authentic"
+      },
+      "one_liner": "'Counterfeit' is a synonym for 'bogus', while 'legitimate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

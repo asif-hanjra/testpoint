@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'annex':",
+      "options": {
+        "a": "detach",
+        "b": "connect",
+        "c": "join",
+        "d": "attach"
+      },
+      "one_liner": "The antonym of 'annex' is 'detach', which means to remove or disconnect.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You must attend ___ the lecture.",
+      "options": {
+        "a": "at",
+        "b": "",
+        "c": "to",
+        "d": "in"
+      },
+      "one_liner": "You must attend 'the lecture.'",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

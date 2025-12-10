@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the unit for measuring the intensity of noise?",
+      "options": {
+        "a": "Candela",
+        "b": "Decibel",
+        "c": "Hertz",
+        "d": "Joule"
+      },
+      "one_liner": "The intensity of noise is measured in the unit known as **Decibel**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

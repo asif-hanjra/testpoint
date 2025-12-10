@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gravel':",
+      "options": {
+        "a": "pebble:slab",
+        "b": "grit:boulder",
+        "c": "shingle:rock",
+        "d": "stone:sand"
+      },
+      "one_liner": "'Pebble' is a synonym for 'gravel', while 'slab' is its antonym, representing a large, flat piece of stone.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

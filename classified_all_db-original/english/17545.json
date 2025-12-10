@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I met a European ___ the street yesterday.",
+      "options": {
+        "a": "in",
+        "b": "out",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "I met a European 'out' on the street yesterday.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

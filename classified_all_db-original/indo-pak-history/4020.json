@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who gave the proposal to form a new political party for the Muslims of India?",
+      "options": {
+        "a": "Nawab Saleemullah Khan",
+        "b": "Sir Syed Ahmed Khan",
+        "c": "Allama Iqbal",
+        "d": "Liaquat Ali Khan"
+      },
+      "one_liner": "The proposal to form a new political party for the Muslims of India was given by **Nawab Saleemullah Khan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

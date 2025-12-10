@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A [ab ba] and A² = [ln mo] then the value of l,m =?",
+      "options": {
+        "a": "l = a² + b², m = 2ab",
+        "b": "l = a² + b², m = a² - b²",
+        "c": "l = 2ab, m = a² + b²",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

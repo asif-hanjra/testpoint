@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which fruit contains the highest amount of carbohydrates?",
+      "options": {
+        "a": "Apple",
+        "b": "Banana",
+        "c": "Orange",
+        "d": "Grapes"
+      },
+      "one_liner": "Among fruits, the banana is notable for having the **highest amount of carbohydrates**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

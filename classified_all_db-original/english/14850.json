@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'foolhardy':",
+      "options": {
+        "a": "cautious",
+        "b": "reckless",
+        "c": "prudent",
+        "d": "careful"
+      },
+      "one_liner": "'Foolhardy' means recklessly bold or rash, similar to 'reckless' in its disregard for safety.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

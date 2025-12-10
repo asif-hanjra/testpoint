@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'odorous':",
+      "options": {
+        "a": "colorless",
+        "b": "fragrant",
+        "c": "silent",
+        "d": "invisible"
+      },
+      "one_liner": "'Odorous' means having a distinct smell, so 'fragrant' is a synonym that also implies a noticeable scent.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'consternation':",
+      "options": {
+        "a": "calmness",
+        "b": "alarm",
+        "c": "joy",
+        "d": "serenity"
+      },
+      "one_liner": "'Consternation' often refers to feelings of anxiety or dismay, similar to 'alarm'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

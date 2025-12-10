@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are the Waziristan Hills located?",
+      "options": {
+        "a": "Pakistan-India border",
+        "b": "Pakistan-China border",
+        "c": "Pakistan-Afghanistan border in Waziristan district",
+        "d": "Pakistan-Iran border"
+      },
+      "one_liner": "The Waziristan Hills are located at the **Pakistan-Afghanistan border in Waziristan district**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

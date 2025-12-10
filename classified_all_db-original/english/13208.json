@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'malevolent':",
+      "options": {
+        "a": "benevolent",
+        "b": "malicious",
+        "c": "kind",
+        "d": "friendly"
+      },
+      "one_liner": "'Malevolent' means having or showing a wish to do evil to others, similar to 'malicious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

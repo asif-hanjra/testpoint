@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a galaxy?",
+      "options": {
+        "a": "A single star",
+        "b": "A system of solar systems and stars",
+        "c": "A planet",
+        "d": "None of these"
+      },
+      "one_liner": "A galaxy is a vast system that consists of solar systems and other stars, all held together by **gravity**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Galaxy",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Galaxy",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

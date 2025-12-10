@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'misanthrope':",
+      "options": {
+        "a": "philanthropist",
+        "b": "cynic",
+        "c": "optimist",
+        "d": "extrovert"
+      },
+      "one_liner": "'Misanthrope' refers to someone who dislikes humankind, similar to a 'cynic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

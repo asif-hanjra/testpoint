@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'standing':",
+      "options": {
+        "a": "upright:prone",
+        "b": "vertical:horizontal",
+        "c": "erect:lying",
+        "d": "raised:lowered"
+      },
+      "one_liner": "'Vertical' is a synonym of 'standing', while 'horizontal' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

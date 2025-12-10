@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If y = 2/x then Y + 1d²y/2dx² =?",
+      "options": {
+        "a": "2(1 + x²)/x³",
+        "b": "x³ - 1/2",
+        "c": "2 + x/x²",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

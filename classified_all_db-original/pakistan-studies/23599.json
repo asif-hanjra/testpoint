@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the second Governor General of Pakistan after the death of Muhammad Ali Jinnah?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Khawaja Nazim-ud-Din",
+        "c": "Ghulam Muhammad",
+        "d": "Iskander Mirza"
+      },
+      "one_liner": "After Muhammad Ali Jinnah's death, **Khawaja Nazim-ud-Din** became the second Governor General of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

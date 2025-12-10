@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which continent did Indigenous Australians originally migrate thousands of years ago?",
+      "options": {
+        "a": "Asia",
+        "b": "Africa",
+        "c": "Europe",
+        "d": "South America"
+      },
+      "one_liner": "Indigenous Australians originally migrated from **Africa** thousands of years ago.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Islands",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Australia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exculpate':",
+      "options": {
+        "a": "absolve",
+        "b": "vindicate",
+        "c": "incriminate",
+        "d": "acquit"
+      },
+      "one_liner": "An antonym of 'exculpate' is 'incriminate', which means to accuse someone of a wrongdoing.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

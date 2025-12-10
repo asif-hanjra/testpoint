@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of the Smooth Endoplasmic Reticulum in cells?",
+      "options": {
+        "a": "Protein synthesis",
+        "b": "Lipid synthesis and storage",
+        "c": "DNA replication",
+        "d": "Cell division"
+      },
+      "one_liner": "The Smooth Endoplasmic Reticulum plays a crucial role in the synthesis and storage of **lipids** within cells.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

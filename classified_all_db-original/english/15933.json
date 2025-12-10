@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'moving':",
+      "options": {
+        "a": "static",
+        "b": "stirring",
+        "c": "fixed",
+        "d": "stationary"
+      },
+      "one_liner": "'Moving' can be synonymous with 'stirring', as both can describe something that evokes a strong emotional response.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

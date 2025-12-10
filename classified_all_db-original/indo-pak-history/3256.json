@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Before the creation of NWFP, how many provinces existed in British India?",
+      "options": {
+        "a": "Four",
+        "b": "Five",
+        "c": "Six",
+        "d": "Seven"
+      },
+      "one_liner": "Prior to the formation of NWFP, there were **six provinces** in British India.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

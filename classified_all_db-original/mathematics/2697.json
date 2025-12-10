@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which statement is false?",
+      "options": {
+        "a": "Every real number is either a rational or irrational number",
+        "b": "Every whole number is natural number",
+        "c": "All natural numbers are integers",
+        "d": "All integers are rational numbers"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

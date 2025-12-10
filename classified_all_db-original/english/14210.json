@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'foreclosure':",
+      "options": {
+        "a": "repossession:acquisition",
+        "b": "sequestration:retention",
+        "c": "confiscation:conservation",
+        "d": "recovery:redemption"
+      },
+      "one_liner": "'Sequestration' is a synonym of 'foreclosure', while 'retention' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

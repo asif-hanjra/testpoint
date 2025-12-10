@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'detrimental':",
+      "options": {
+        "a": "beneficial",
+        "b": "harmful",
+        "c": "advantageous",
+        "d": "helpful"
+      },
+      "one_liner": "'Detrimental' means causing harm or damage, similar to 'harmful' or 'damaging'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where does the Indus River originate?",
+      "options": {
+        "a": "Nepal",
+        "b": "Tibet",
+        "c": "India",
+        "d": "Pakistan"
+      },
+      "one_liner": "The Indus River has its origin in **Tibet**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

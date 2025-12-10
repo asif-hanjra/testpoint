@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mirth':",
+      "options": {
+        "a": "joy",
+        "b": "hilarity",
+        "c": "sorrow",
+        "d": "glee"
+      },
+      "one_liner": "The opposite of 'mirth', which signifies joy, would be 'sorrow'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

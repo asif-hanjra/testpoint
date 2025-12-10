@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tyrant':",
+      "options": {
+        "a": "benevolent",
+        "b": "dictator",
+        "c": "oppressor",
+        "d": "autocrat"
+      },
+      "one_liner": "The opposite of a 'tyrant' is a 'benevolent' ruler, who is kind and fair.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

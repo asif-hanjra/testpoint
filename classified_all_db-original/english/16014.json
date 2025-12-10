@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'flustered':",
+      "options": {
+        "a": "calm",
+        "b": "perturbed",
+        "c": "serene",
+        "d": "peaceful"
+      },
+      "one_liner": "'Flustered' describes a state of agitated confusion, similar to being 'perturbed' or 'disconcerted'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

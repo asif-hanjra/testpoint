@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: My mother is cooking food.",
+      "options": {
+        "a": "Food is being cook by my mother.",
+        "b": "Food is being cooked by my mother.",
+        "c": "Food has been cooked by my mother.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

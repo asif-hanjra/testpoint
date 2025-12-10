@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the official residence of the British Prime Minister called?",
+      "options": {
+        "a": "Buckingham Palace",
+        "b": "10-Downing Street",
+        "c": "Whitehall",
+        "d": "Westminster Abbey"
+      },
+      "one_liner": "The official residence of the British Prime Minister is known as **10-Downing Street**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is famously known as the 'city of bazaars'?",
+      "options": {
+        "a": "Istanbul",
+        "b": "Cairo",
+        "c": "Karachi",
+        "d": "Tehran"
+      },
+      "one_liner": "Cairo is famously known as the **city of bazaars** due to its vibrant markets and trading history.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Africa",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

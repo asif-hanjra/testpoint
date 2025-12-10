@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'robust':",
+      "options": {
+        "a": "fragile",
+        "b": "sturdy",
+        "c": "weak",
+        "d": "delicate"
+      },
+      "one_liner": "'Robust' means strong and healthy; 'sturdy' is a synonym that conveys a similar sense of strength.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

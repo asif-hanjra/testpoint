@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exemplary':",
+      "options": {
+        "a": "mediocre",
+        "b": "superb",
+        "c": "excellent",
+        "d": "remarkable"
+      },
+      "one_liner": "An antonym for 'exemplary' is 'mediocre', which suggests a quality that is only average or not very good.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

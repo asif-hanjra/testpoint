@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'scrawny':",
+      "options": {
+        "a": "gaunt:muscular",
+        "b": "slim:stout",
+        "c": "thin:thick",
+        "d": "lean:plump"
+      },
+      "one_liner": "'Gaunt' is a synonym of 'scrawny', while 'muscular' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

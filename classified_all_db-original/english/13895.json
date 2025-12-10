@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "We will go there ___ foot.",
+      "options": {
+        "a": "by",
+        "b": "on",
+        "c": "in",
+        "d": "with"
+      },
+      "one_liner": "We will go there 'on' foot.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

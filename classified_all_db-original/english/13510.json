@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'extrovert':",
+      "options": {
+        "a": "sociable:reclusive",
+        "b": "shy:gregarious",
+        "c": "outgoing:introvert",
+        "d": "reserved:sociable"
+      },
+      "one_liner": "'Sociable' is a synonym of 'extrovert', while 'reclusive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

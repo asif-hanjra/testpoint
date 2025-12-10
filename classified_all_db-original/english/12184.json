@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bombast':",
+      "options": {
+        "a": "simplicity",
+        "b": "grandiloquence",
+        "c": "brevity",
+        "d": "conciseness"
+      },
+      "one_liner": "'Bombast' refers to pretentious or pompous speech, much like 'grandiloquence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

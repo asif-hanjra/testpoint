@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which noble gas is used in some types of photographic flashes for high speed photography?",
+      "options": {
+        "a": "Krypton",
+        "b": "Neon",
+        "c": "Argon",
+        "d": "Helium"
+      },
+      "one_liner": "Krypton is the noble gas that is used in certain photographic flashes designed for high speed photography, making it useful for capturing rapid events.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

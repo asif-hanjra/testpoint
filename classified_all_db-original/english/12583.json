@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'risky':",
+      "options": {
+        "a": "perilous:secure",
+        "b": "hazardous:safe",
+        "c": "dangerous:protected",
+        "d": "unsafe:safe"
+      },
+      "one_liner": "'Perilous' is a synonym of 'risky', while 'secure' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

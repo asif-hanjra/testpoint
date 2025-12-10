@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dead':",
+      "options": {
+        "a": "alive",
+        "b": "deceased",
+        "c": "vibrant",
+        "d": "active"
+      },
+      "one_liner": "'Dead' means no longer alive, similar to 'deceased'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

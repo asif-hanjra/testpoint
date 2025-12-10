@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'melancholy':",
+      "options": {
+        "a": "gloomy:buoyant",
+        "b": "happy:sad",
+        "c": "depressed:elated",
+        "d": "dismal:joyful"
+      },
+      "one_liner": "'Gloomy' is a synonym of 'melancholy', while 'buoyant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

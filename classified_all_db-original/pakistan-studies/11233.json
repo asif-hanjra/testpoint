@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which years did Pakistan win the Champions Trophy in hockey?",
+      "options": {
+        "a": "1978, 1980, 1994",
+        "b": "1976, 1982, 1990",
+        "c": "1971, 1978, 1982",
+        "d": "1980, 1982, 1994"
+      },
+      "one_liner": "Pakistan secured the Champions Trophy in hockey in the years **1978, 1980, and 1994**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

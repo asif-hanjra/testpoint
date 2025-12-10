@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I don't have as much time ___ reading as I would like to.",
+      "options": {
+        "a": "at",
+        "b": "for",
+        "c": "to",
+        "d": "with"
+      },
+      "one_liner": "I don't have as much time 'for' reading as I would like to.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

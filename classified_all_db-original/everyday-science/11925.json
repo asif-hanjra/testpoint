@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which gas is commonly used as a coolant in cold storage facilities?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Ammonia",
+        "c": "Carbon dioxide",
+        "d": "Nitrogen"
+      },
+      "one_liner": "Ammonia gas is widely used as a coolant in cold storage due to its effective cooling properties.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

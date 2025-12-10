@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sketchy':",
+      "options": {
+        "a": "rudimentary:comprehensive",
+        "b": "clear:obscure",
+        "c": "incomplete:complete",
+        "d": "shady:transparent"
+      },
+      "one_liner": "'Rudimentary' is a synonym for 'sketchy', while 'comprehensive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

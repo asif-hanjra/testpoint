@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'innocuous':",
+      "options": {
+        "a": "safe:toxic",
+        "b": "harmless:harmful",
+        "c": "benign:beneficial",
+        "d": "gentle:dangerous"
+      },
+      "one_liner": "'Safe' is a synonym of 'innocuous', while 'toxic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

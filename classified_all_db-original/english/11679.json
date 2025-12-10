@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stray':",
+      "options": {
+        "a": "stay",
+        "b": "wander",
+        "c": "converge",
+        "d": "align"
+      },
+      "one_liner": "'Stray' means to wander or drift—words like 'deviate' and 'wander' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

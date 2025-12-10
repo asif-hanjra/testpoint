@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nutrition':",
+      "options": {
+        "a": "deprivation",
+        "b": "nourishment",
+        "c": "starvation",
+        "d": "fasting"
+      },
+      "one_liner": "'Nutrition' refers to the process of providing or obtaining the food necessary for health and growth, similar to 'nourishment'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

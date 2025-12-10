@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dwindle':",
+      "options": {
+        "a": "shrink",
+        "b": "lessen",
+        "c": "reduce",
+        "d": "expand"
+      },
+      "one_liner": "An antonym of 'dwindle' would be 'grow' or 'expand', indicating an increase in size or amount.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

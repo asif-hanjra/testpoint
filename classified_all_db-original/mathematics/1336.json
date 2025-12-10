@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If the average of 5 students is given and one student leaves, how is the new average calculated?",
+      "options": {
+        "a": "Add the leaving student’s marks to the total and divide by 4",
+        "b": "Subtract the leaving student’s marks from total sum, then divide by 4",
+        "c": "Multiply the original average by 4",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

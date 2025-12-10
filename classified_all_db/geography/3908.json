@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country is the Yellow River located?",
+      "options": {
+        "a": "India",
+        "b": "China",
+        "c": "Japan",
+        "d": "None of these"
+      },
+      "one_liner": "The Yellow River is situated in **China**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

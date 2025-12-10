@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'grazing':",
+      "options": {
+        "a": "harvesting",
+        "b": "pasturing",
+        "c": "plowing",
+        "d": "reaping"
+      },
+      "one_liner": "'Grazing' refers to animals feeding on grass, similar to 'pasturing'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

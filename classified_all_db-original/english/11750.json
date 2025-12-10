@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'accurate':",
+      "options": {
+        "a": "inexact",
+        "b": "exact",
+        "c": "false",
+        "d": "vague"
+      },
+      "one_liner": "'Accurate' means precise or correct, similar to the word 'exact'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

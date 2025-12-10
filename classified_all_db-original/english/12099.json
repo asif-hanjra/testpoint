@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impede':",
+      "options": {
+        "a": "hinder",
+        "b": "facilitate",
+        "c": "block",
+        "d": "delay"
+      },
+      "one_liner": "The antonym of 'impede' is 'facilitate', which means to make an action or process easier.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

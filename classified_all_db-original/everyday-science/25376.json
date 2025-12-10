@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the potential of pure water?",
+      "options": {
+        "a": "Zero",
+        "b": "One",
+        "c": "Minus one",
+        "d": "None of these"
+      },
+      "one_liner": "The potential of pure water is exactly **zero**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

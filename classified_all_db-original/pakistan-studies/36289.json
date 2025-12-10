@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who inaugurated the Delhi-Lahore bus service during his visit to Pakistan on 20th February, 1999?",
+      "options": {
+        "a": "Nawaz Sharif",
+        "b": "Pervez Musharraf",
+        "c": "Atal Bihari Vajpayee",
+        "d": "None of these"
+      },
+      "one_liner": "The Delhi-Lahore bus service was inaugurated by **Atal Bihari Vajpayee** during his visit to Pakistan on 20th February, 1999.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is jealous ___ my fame.",
+      "options": {
+        "a": "at",
+        "b": "of",
+        "c": "for",
+        "d": "with"
+      },
+      "one_liner": "He is jealous 'of' my fame.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

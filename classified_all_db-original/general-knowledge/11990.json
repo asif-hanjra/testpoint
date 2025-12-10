@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the second man to set foot on the moon?",
+      "options": {
+        "a": "Michael Collins",
+        "b": "Buzz Aldrin",
+        "c": "Yuri Gagarin",
+        "d": "John Glenn"
+      },
+      "one_liner": "The second person to walk on the moon after Neil Armstrong was **Buzz Aldrin**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

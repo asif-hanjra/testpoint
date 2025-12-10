@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the current name of the province that was previously called NWFP?",
+      "options": {
+        "a": "Balochistan",
+        "b": "Sindh",
+        "c": "Khyber Pakhtunkhwa",
+        "d": "Punjab"
+      },
+      "one_liner": "The province previously called NWFP is now known as **Khyber Pakhtunkhwa**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Bab-el-Mandeb lies between which two regions?",
+      "options": {
+        "a": "Yemen and Somalia",
+        "b": "Yemen and Djibouti",
+        "c": "Yemen and Eritrea",
+        "d": "Yemen, Djibouti, and Eritrea"
+      },
+      "one_liner": "Bab-el-Mandeb lies between **Yemen** on the Arabian Peninsula and **Djibouti and Eritrea** in the Horn of Africa.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

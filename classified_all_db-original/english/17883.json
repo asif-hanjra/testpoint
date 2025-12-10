@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She is intent ___ winning the competition.",
+      "options": {
+        "a": "at",
+        "b": "on",
+        "c": "in",
+        "d": "for"
+      },
+      "one_liner": "She is intent 'on' winning the competition.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

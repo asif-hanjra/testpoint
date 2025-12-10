@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "How much energy is used by a 1kW electric heater running for 1 hour?",
+      "options": {
+        "a": "1 Joule",
+        "b": "1 Watt",
+        "c": "1 kilowatt hour (kWh)",
+        "d": "None of these"
+      },
+      "one_liner": "A 1kW electric heater running for 1 hour uses exactly **1 kilowatt hour (kWh)** of energy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

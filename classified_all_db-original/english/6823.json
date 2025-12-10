@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Punctuate the given sentence correctly. The teacher asked did you complete your homework",
+      "options": {
+        "a": "The teacher asked, did you complete your homework?",
+        "b": "The teacher asked, \"Did you complete your homework?\"",
+        "c": "The teacher asked, \"did you complete your homework\".",
+        "d": "The teacher asked, did you complete your homework."
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "She is not studying but I ___.",
+      "options": {
+        "a": "at",
+        "b": "am",
+        "c": "in",
+        "d": "on"
+      },
+      "one_liner": "She is not studying but I 'am.'",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'it' in the sentence 'It is raining outside'?",
+      "options": {
+        "a": "Verb",
+        "b": "Noun",
+        "c": "Pronoun",
+        "d": "Adjective"
+      },
+      "one_liner": "In the sentence 'It is raining outside', the word 'it' is a pronoun because it serves as a subject placeholder for the weather condition.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

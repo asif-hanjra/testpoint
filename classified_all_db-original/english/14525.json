@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'profound':",
+      "options": {
+        "a": "shallow",
+        "b": "insightful",
+        "c": "superficial",
+        "d": "simple"
+      },
+      "one_liner": "'Profound' implies deep insight or understanding, much like 'insightful' or 'penetrating'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

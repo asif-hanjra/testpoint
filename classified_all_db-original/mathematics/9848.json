@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "If (7^a) (7^b) = (7^c) (7^d), what is d in terms of a, b and c?",
+      "options": {
+        "a": "c - ab",
+        "b": "c/ab",
+        "c": "a + b - c",
+        "d": "c - a - b"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

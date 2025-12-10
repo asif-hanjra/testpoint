@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'strong':",
+      "options": {
+        "a": "mighty",
+        "b": "weak",
+        "c": "powerful",
+        "d": "solid"
+      },
+      "one_liner": "The opposite of 'strong' is 'weak', which means lacking strength or power.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

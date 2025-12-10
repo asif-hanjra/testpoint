@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which water body is covered by land from three sides and attached to water on the fourth side?",
+      "options": {
+        "a": "Gulf",
+        "b": "Bay",
+        "c": "Sea",
+        "d": "Fjord"
+      },
+      "one_liner": "A water body in oceans covered by land from three sides and attached to water on the fourth side is called a **bay**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

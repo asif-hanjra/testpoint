@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deduct':",
+      "options": {
+        "a": "subtract:add",
+        "b": "remove:attach",
+        "c": "decrease:increase",
+        "d": "take away:give"
+      },
+      "one_liner": "'Subtract' is a synonym of 'deduct', while 'add' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'They live far away,' what part of speech is 'away'?",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Adverb",
+        "d": "Conjunction"
+      },
+      "one_liner": "'Away' is an adverb showing location.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lumber':",
+      "options": {
+        "a": "metal",
+        "b": "timber",
+        "c": "plastic",
+        "d": "fabric"
+      },
+      "one_liner": "'Lumber' can refer to timber or wood, so 'timber' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

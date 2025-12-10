@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'placid':",
+      "options": {
+        "a": "turbulent",
+        "b": "serene",
+        "c": "boisterous",
+        "d": "loud"
+      },
+      "one_liner": "'Placid' means calm and peaceful, similar to 'serene'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

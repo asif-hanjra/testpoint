@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Bathsheba Beach located?",
+      "options": {
+        "a": "Jamaica",
+        "b": "Barbados",
+        "c": "Bahamas",
+        "d": "Trinidad"
+      },
+      "one_liner": "Bathsheba Beach is located in the Caribbean island nation of **Barbados**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Islands",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Islands",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

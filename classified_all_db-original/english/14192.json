@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Although he was a novice and new ___ the game, he played confidently.",
+      "options": {
+        "a": "in",
+        "b": "at",
+        "c": "on",
+        "d": "to"
+      },
+      "one_liner": "He was new 'at' the game.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I prefer banana ___ mango.",
+      "options": {
+        "a": "than",
+        "b": "to",
+        "c": "over",
+        "d": "with"
+      },
+      "one_liner": "I prefer banana 'to' mango.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

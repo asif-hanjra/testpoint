@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'spell':",
+      "options": {
+        "a": "permanence",
+        "b": "extension",
+        "c": "continuity",
+        "d": "stint"
+      },
+      "one_liner": "In the context of a period of time, 'spell' is opposed by 'permanence', which suggests an indefinite duration.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

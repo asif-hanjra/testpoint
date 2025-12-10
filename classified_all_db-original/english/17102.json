@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'innocent':",
+      "options": {
+        "a": "harmless:culpable",
+        "b": "naive:experienced",
+        "c": "guileless:deceptive",
+        "d": "pure:corrupt"
+      },
+      "one_liner": "'Harmless' is a synonym of 'innocent', while 'culpable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

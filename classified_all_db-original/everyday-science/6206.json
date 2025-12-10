@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A torque of 2 x 10^-4 Nm is applied to produce an angular acceleration of 4rad/s^2 in a rotating body. What is the moment of inertia of the body?",
+      "options": {
+        "a": "0.5 × 10^-4 kgm^2",
+        "b": "0.5 kgm^2",
+        "c": "0.5 × 10^4 kgm^2",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

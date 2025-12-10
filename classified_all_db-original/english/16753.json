@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'explicate':",
+      "options": {
+        "a": "elucidate:confound",
+        "b": "clarify:explain",
+        "c": "expound:obscure",
+        "d": "illuminate:clarify"
+      },
+      "one_liner": "'Elucidate' is a synonym of 'explicate', while 'confound' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

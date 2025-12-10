@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I am not concerned ___ his affairs.",
+      "options": {
+        "a": "about",
+        "b": "with",
+        "c": "for",
+        "d": "in"
+      },
+      "one_liner": "I am not concerned 'with' his affairs.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

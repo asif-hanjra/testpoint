@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who inaugurated the State Bank of Pakistan?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Quaid-e-Azam",
+        "c": "Allama Iqbal",
+        "d": "None of these"
+      },
+      "one_liner": "The State Bank of Pakistan was inaugurated by **Quaid-e-Azam**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

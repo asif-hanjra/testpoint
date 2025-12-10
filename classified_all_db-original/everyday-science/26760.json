@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which COVID-19 vaccines were manufactured in the United States?",
+      "options": {
+        "a": "Sinovac and Sinopharm",
+        "b": "Moderna and Pfizer",
+        "c": "Sputnik V",
+        "d": "None of these"
+      },
+      "one_liner": "The Moderna and Pfizer COVID-19 vaccines were **manufactured in the United States**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

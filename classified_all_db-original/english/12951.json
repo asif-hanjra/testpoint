@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'uphold':",
+      "options": {
+        "a": "maintain:reject",
+        "b": "support:confirm",
+        "c": "sustain:uphold",
+        "d": "endorse:accept"
+      },
+      "one_liner": "'Maintain' is a synonym of 'uphold', while 'reject' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

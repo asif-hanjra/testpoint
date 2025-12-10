@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who inaugurated the Karachi Radio Station on 14th August, 1948?",
+      "options": {
+        "a": "Muhammad Ali Jinnah",
+        "b": "Liaqat Ali Khan",
+        "c": "Khawaja Nazimuddin",
+        "d": "None of these"
+      },
+      "one_liner": "The Karachi Radio Station was inaugurated by **Liaqat Ali Khan** on 14th August, 1948.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Kachura Lake located?",
+      "options": {
+        "a": "Hunza",
+        "b": "Swat",
+        "c": "Skardu",
+        "d": "Murree"
+      },
+      "one_liner": "Kachura Lake is located in **Skardu**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Lakes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

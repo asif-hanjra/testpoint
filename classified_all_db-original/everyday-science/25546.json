@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Deficiency of which vitamin may cause beriberi?",
+      "options": {
+        "a": "Vitamin C",
+        "b": "Vitamin B",
+        "c": "Vitamin E",
+        "d": "Vitamin K"
+      },
+      "one_liner": "A deficiency of **Vitamin B** can result in the disease known as beriberi.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

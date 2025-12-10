@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who played the role of Quaid-e-Azam Muhammad Ali Jinnah in the feature film 'Jinnah'?",
+      "options": {
+        "a": "Christopher Lee",
+        "b": "Ben Kingsley",
+        "c": "Omar Sharif",
+        "d": "None of these"
+      },
+      "one_liner": "In the feature film 'Jinnah', the role of Quaid-e-Azam Muhammad Ali Jinnah was portrayed by **Christopher Lee**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

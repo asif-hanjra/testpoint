@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following bodies of water and mountain ranges separate Europe from Asia?",
+      "options": {
+        "a": "Caucasus Mountains, Ural River, Black Sea, Caspian Sea, Bosporus",
+        "b": "Himalayas, Red Sea, Atlantic Ocean",
+        "c": "Andes, Mediterranean Sea, Indian Ocean",
+        "d": "None of these"
+      },
+      "one_liner": "Europe is separated from Asia by natural features such as the **Caucasus Mountains, Ural River, Black Sea, Caspian Sea, and Bosporus**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

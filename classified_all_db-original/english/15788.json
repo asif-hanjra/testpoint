@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin abbreviation 'Q.E.D.' stand for after a mathematical proof is completed?",
+      "options": {
+        "a": "Question Evenly Discussed",
+        "b": "Quod Erat Demonstrandum",
+        "c": "Quickly Ended Discussion",
+        "d": "Quite Easily Done"
+      },
+      "one_liner": "Q.E.D. stands for 'Quod Erat Demonstrandum,' which is Latin for 'which was to be demonstrated,' used at the end of a proof.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

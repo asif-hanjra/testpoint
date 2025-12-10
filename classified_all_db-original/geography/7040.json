@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following best describes the Malacca Strait?",
+      "options": {
+        "a": "A mountain pass",
+        "b": "A strategic chokepoint",
+        "c": "A desert",
+        "d": "None of these"
+      },
+      "one_liner": "The Malacca Strait is considered a strategic '**chokepoint**' in global maritime trade.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Famous Straits of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

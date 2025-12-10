@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the function of the lens in the eye?",
+      "options": {
+        "a": "Produce tears",
+        "b": "Focus light rays on the retina",
+        "c": "Control eye movement",
+        "d": "None of these"
+      },
+      "one_liner": "The main function of the lens is to **focus light rays on the retina**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

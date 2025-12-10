@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "If you come across my keys, bring it to me, can you?",
+      "options": {
+        "a": "Can't you",
+        "b": "Don't you",
+        "c": "Will you",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2022
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which two rivers does the Sind Sagar Doab lie?",
+      "options": {
+        "a": "Indus and Jhelum",
+        "b": "Chenab and Ravi",
+        "c": "Beas and Sutlej",
+        "d": "Jhelum and Chenab"
+      },
+      "one_liner": "The Sind Sagar Doab lies between the **Indus River and the Jhelum River**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'finicky':",
+      "options": {
+        "a": "careless",
+        "b": "picky",
+        "c": "indifferent",
+        "d": "negligent"
+      },
+      "one_liner": "'Finicky' describes someone who is fussy or hard to please, similar to 'picky'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the line that runs horizontally across the center of the world map?",
+      "options": {
+        "a": "Prime Meridian",
+        "b": "Tropic of Cancer",
+        "c": "Equator",
+        "d": "Arctic Circle"
+      },
+      "one_liner": "The **Equator** is the imaginary line that runs horizontally across the center of the world map, dividing the Earth into northern and southern hemispheres.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Deserts",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

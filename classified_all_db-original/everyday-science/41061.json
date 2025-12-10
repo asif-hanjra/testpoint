@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the ozone layer located in the atmosphere?",
+      "options": {
+        "a": "Troposphere",
+        "b": "Stratosphere",
+        "c": "Mesosphere",
+        "d": "Thermosphere"
+      },
+      "one_liner": "The ozone layer, which absorbs ultraviolet rays, is primarily found within the **stratosphere**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

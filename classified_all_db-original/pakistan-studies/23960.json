@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Air Marshal Nur Khan propose the idea of the Hockey World Cup to FIH?",
+      "options": {
+        "a": "1968",
+        "b": "1969",
+        "c": "1971",
+        "d": "1978"
+      },
+      "one_liner": "The idea of the Hockey World Cup was proposed to the FIH by Air Marshal Nur Khan in **1969**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

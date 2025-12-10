@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tentative':",
+      "options": {
+        "a": "provisional:confirmed",
+        "b": "uncertain:definite",
+        "c": "experimental:permanent",
+        "d": "preliminary:final"
+      },
+      "one_liner": "'Provisional' is a synonym of 'tentative', while 'confirmed' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "For which discovery did Max Planck receive the Nobel Prize in Physics in 1918?",
+      "options": {
+        "a": "Theory of Relativity",
+        "b": "Energy Quantum",
+        "c": "Photoelectric Effect",
+        "d": "Radioactivity"
+      },
+      "one_liner": "Max Planck received the Nobel Prize in Physics in 1918 for his discovery of **Energy Quantum**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

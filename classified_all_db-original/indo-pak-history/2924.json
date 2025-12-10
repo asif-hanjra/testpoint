@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which empire did the Ghurids overthrow in 1186?",
+      "options": {
+        "a": "Mughal Empire",
+        "b": "Ghaznavid Empire",
+        "c": "Delhi Sultanate",
+        "d": "Ottoman Empire"
+      },
+      "one_liner": "In 1186, the Ghurids dynasty overthrew the **Ghaznavid Empire**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Ghurids Dynasty (1186-1215)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghurids Dynasty (1186-1215)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

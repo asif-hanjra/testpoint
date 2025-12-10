@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country currently controls the Falkland Islands and South Georgia Islands located in the South Atlantic Ocean?",
+      "options": {
+        "a": "Argentina",
+        "b": "United Kingdom",
+        "c": "Brazil",
+        "d": "None of these"
+      },
+      "one_liner": "The Falkland Islands and South Georgia Islands, situated in the South Atlantic Ocean, are under the control of the **British Government**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Falkland and South Georgia Islands",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of South America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Falkland and South Georgia Islands",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

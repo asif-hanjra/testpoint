@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'susceptible':",
+      "options": {
+        "a": "vulnerable:resilient",
+        "b": "prone:invulnerable",
+        "c": "liable:immune",
+        "d": "exposed:protected"
+      },
+      "one_liner": "'Vulnerable' is a synonym of 'susceptible', while 'resilient' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

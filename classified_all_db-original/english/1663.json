@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: He will repair the car.",
+      "options": {
+        "a": "The car has been repaired by him.",
+        "b": "The car is being repaired by him.",
+        "c": "The car will be repaired by him.",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

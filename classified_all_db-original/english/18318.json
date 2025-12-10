@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'banal':",
+      "options": {
+        "a": "stale",
+        "b": "hackneyed",
+        "c": "original",
+        "d": "commonplace"
+      },
+      "one_liner": "Antonyms of 'banal' include 'original' and 'novel', both implying freshness and uniqueness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

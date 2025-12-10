@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How long can Hepatitis A illness last?",
+      "options": {
+        "a": "A few days",
+        "b": "A few weeks or few months",
+        "c": "Several years",
+        "d": "None of these"
+      },
+      "one_liner": "Hepatitis A can be a mild illness that lasts a **few weeks or a few months**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

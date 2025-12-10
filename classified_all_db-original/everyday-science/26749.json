@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the Pakistani scientist known for working under Albert Einstein?",
+      "options": {
+        "a": "Abdus Salam",
+        "b": "Atta-ur-Rahman",
+        "c": "Muhammad Raziuddin Siddiquie",
+        "d": "None of these"
+      },
+      "one_liner": "The Pakistani scientist who worked under Albert Einstein is **Muhammad Raziuddin Siddiquie**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

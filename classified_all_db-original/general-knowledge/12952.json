@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many poems did Khawaja Ghulam Farid compose in Deewan-e-Farid?",
+      "options": {
+        "a": "100",
+        "b": "200",
+        "c": "272",
+        "d": "300"
+      },
+      "one_liner": "Khawaja Ghulam Farid composed as many as **272 poems** in Deewan-e-Farid.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

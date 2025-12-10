@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ocean is located at the northernmost part of the world map?",
+      "options": {
+        "a": "Arctic Ocean",
+        "b": "Indian Ocean",
+        "c": "Southern Ocean",
+        "d": "South Pacific Ocean"
+      },
+      "one_liner": "The northernmost ocean on the world map is the **Arctic Ocean**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

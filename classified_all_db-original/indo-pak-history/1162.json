@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Mughal ruler is known for banning music during his reign?",
+      "options": {
+        "a": "Akbar",
+        "b": "Aurangzeb",
+        "c": "Jahangir",
+        "d": "Shah Jahan"
+      },
+      "one_liner": "During his reign, the Mughal emperor **Aurangzeb** is known for banning music in his empire.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

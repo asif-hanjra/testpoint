@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a phobia?",
+      "options": {
+        "a": "A type of anxiety disorder causing irrational fear",
+        "b": "A type of depression",
+        "c": "A digestive disorder",
+        "d": "None of these"
+      },
+      "one_liner": "A phobia is a type of anxiety disorder that causes an individual to experience extreme, irrational fear about specific situations, creatures, places, or objects.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

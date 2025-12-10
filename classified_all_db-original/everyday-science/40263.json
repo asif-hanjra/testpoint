@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is mathematics often referred to as the mother of all sciences?",
+      "options": {
+        "a": "Because it is the oldest science",
+        "b": "Because it solves problems of every other science",
+        "c": "Because it is the hardest science",
+        "d": "None of these"
+      },
+      "one_liner": "Mathematics is often called the mother of all sciences because it provides solutions to problems in **every other science**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

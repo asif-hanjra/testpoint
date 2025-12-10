@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ecstasy':",
+      "options": {
+        "a": "misery",
+        "b": "rapture",
+        "c": "sorrow",
+        "d": "gloom"
+      },
+      "one_liner": "'Ecstasy' refers to a state of overwhelming joy or bliss, similar to 'rapture'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

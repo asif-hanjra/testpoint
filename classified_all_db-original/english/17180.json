@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'affable':",
+      "options": {
+        "a": "cordial",
+        "b": "genial",
+        "c": "unfriendly",
+        "d": "pleasant"
+      },
+      "one_liner": "An antonym of 'affable' is 'unfriendly', which describes someone who is not easy to talk to or approachable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

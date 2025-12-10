@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which two rivers does the Jech Doab lie?",
+      "options": {
+        "a": "Jhelum and Chenab",
+        "b": "Chenab and Ravi",
+        "c": "Beas and Sutlej",
+        "d": "Indus and Jhelum"
+      },
+      "one_liner": "The Jech Doab lies between the **Jhelum and Chenab rivers**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

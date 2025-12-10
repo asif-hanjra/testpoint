@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'eccentric':",
+      "options": {
+        "a": "ordinary",
+        "b": "idiosyncratic",
+        "c": "standard",
+        "d": "typical"
+      },
+      "one_liner": "'Eccentric' means unconventional or odd, similar to 'quirky' or 'idiosyncratic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

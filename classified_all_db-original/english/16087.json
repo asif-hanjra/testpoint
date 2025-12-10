@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gossamer':",
+      "options": {
+        "a": "ethereal:thick",
+        "b": "flimsy:robust",
+        "c": "delicate:heavy",
+        "d": "wispy:sturdy"
+      },
+      "one_liner": "'Ethereal' is a synonym of 'gossamer', while 'thick' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

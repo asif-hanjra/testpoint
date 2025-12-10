@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pardon':",
+      "options": {
+        "a": "penalty",
+        "b": "clemency",
+        "c": "retribution",
+        "d": "vengeance"
+      },
+      "one_liner": "'Pardon' means forgiveness or absolution, similar to 'clemency'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

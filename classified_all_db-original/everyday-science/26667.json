@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the product of mass and velocity called?",
+      "options": {
+        "a": "Force",
+        "b": "Momentum",
+        "c": "Acceleration",
+        "d": "Impulse"
+      },
+      "one_liner": "The product of mass and velocity is referred to as **Momentum**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

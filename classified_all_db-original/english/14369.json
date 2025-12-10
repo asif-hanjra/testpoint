@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'epistle':",
+      "options": {
+        "a": "novel",
+        "b": "missive",
+        "c": "speech",
+        "d": "report"
+      },
+      "one_liner": "'Epistle' is a letter, especially a formal or didactic one; 'missive' is another term for a written message.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

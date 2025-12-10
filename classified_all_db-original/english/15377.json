@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exonerate':",
+      "options": {
+        "a": "incriminate",
+        "b": "absolve",
+        "c": "accuse",
+        "d": "blame"
+      },
+      "one_liner": "'Exonerate' means to free from blame or guilt, similar to 'absolve'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

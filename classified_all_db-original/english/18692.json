@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impartial':",
+      "options": {
+        "a": "fair",
+        "b": "neutral",
+        "c": "biased",
+        "d": "just"
+      },
+      "one_liner": "An antonym of 'impartial' is 'biased', which means showing favoritism or prejudice.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

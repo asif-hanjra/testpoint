@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'modicum':",
+      "options": {
+        "a": "smidgen:plethora",
+        "b": "bit:excess",
+        "c": "trace:abundance",
+        "d": "particle:scarcity"
+      },
+      "one_liner": "A 'smidgen' is a synonym for 'modicum', while 'plethora' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

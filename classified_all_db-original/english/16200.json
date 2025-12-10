@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'selfish':",
+      "options": {
+        "a": "altruistic",
+        "b": "generous",
+        "c": "egocentric",
+        "d": "charitable"
+      },
+      "one_liner": "'Selfish' describes someone who is concerned excessively or exclusively with oneself, much like 'egocentric'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

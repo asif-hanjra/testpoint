@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for the galactic year?",
+      "options": {
+        "a": "Stellar year",
+        "b": "Cosmic year",
+        "c": "Sidereal year",
+        "d": "None of these"
+      },
+      "one_liner": "The galactic year is also commonly referred to as the **cosmic year**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Galaxy",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Galaxy",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

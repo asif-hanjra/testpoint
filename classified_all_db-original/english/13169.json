@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'she' in the sentence 'She likes to read books'?",
+      "options": {
+        "a": "Pronoun",
+        "b": "Noun",
+        "c": "Verb",
+        "d": "Adjective"
+      },
+      "one_liner": "In the sentence 'She likes to read books', the word 'she' is a pronoun because it replaces a noun (e.g., a person's name).",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

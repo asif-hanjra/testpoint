@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many votes does Pakistan need from FATF members to exit the grey list?",
+      "options": {
+        "a": "10",
+        "b": "12",
+        "c": "15",
+        "d": "20"
+      },
+      "one_liner": "To exit the FATF grey list, Pakistan requires support from **12** FATF member countries.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

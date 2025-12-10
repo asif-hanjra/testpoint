@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which decade did Fazlul Huq serve as Home Minister, and for how long?",
+      "options": {
+        "a": "2 years in the 1940s",
+        "b": "1 year in the 1950s",
+        "c": "3 years in the 1960s",
+        "d": "None of these"
+      },
+      "one_liner": "Fazlul Huq served as Home Minister for **1 year in the 1950s**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

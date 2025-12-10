@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river bank is the city of Paris located?",
+      "options": {
+        "a": "Thames",
+        "b": "Danube",
+        "c": "Seine",
+        "d": "Rhine"
+      },
+      "one_liner": "Paris is famously located on the banks of the **Seine** river.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

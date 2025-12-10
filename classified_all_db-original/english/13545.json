@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'patience':",
+      "options": {
+        "a": "endurance:restlessness",
+        "b": "calmness:anxiety",
+        "c": "tolerance:impatience",
+        "d": "steadfastness:haste"
+      },
+      "one_liner": "'Endurance' is a synonym of 'patience', while 'restlessness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

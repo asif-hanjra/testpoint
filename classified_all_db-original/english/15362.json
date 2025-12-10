@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'composure':",
+      "options": {
+        "a": "equanimity:anxiety",
+        "b": "tranquility:peace",
+        "c": "serenity:calmness",
+        "d": "quietude:quiet"
+      },
+      "one_liner": "'Equanimity' is a synonym for 'composure', while 'anxiety' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

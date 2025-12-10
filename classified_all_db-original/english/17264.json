@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'astute':",
+      "options": {
+        "a": "savvy:foolish",
+        "b": "clever:dull",
+        "c": "wise:smart",
+        "d": "shrewd:wise"
+      },
+      "one_liner": "'Savvy' is a synonym of 'astute', while 'foolish' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

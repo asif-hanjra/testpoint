@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the main products of photosynthesis?",
+      "options": {
+        "a": "Glucose and oxygen",
+        "b": "Water and carbon dioxide",
+        "c": "Nitrogen and glucose",
+        "d": "None of these"
+      },
+      "one_liner": "The main products of photosynthesis are **glucose (sugars) and oxygen**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

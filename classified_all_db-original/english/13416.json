@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'frown':",
+      "options": {
+        "a": "brood:beam",
+        "b": "glower:smirk",
+        "c": "scowl:grin",
+        "d": "grimace:smile"
+      },
+      "one_liner": "'Brood' is a synonym of 'frown', while 'beam' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

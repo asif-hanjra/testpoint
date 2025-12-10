@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I thought the conference was going ___ be boring but it turned out to be quite useful.",
+      "options": {
+        "a": "in",
+        "b": "to",
+        "c": "at",
+        "d": "for"
+      },
+      "one_liner": "I thought the conference was going 'to' be boring but it turned out to be quite useful.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

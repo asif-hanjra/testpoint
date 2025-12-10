@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which team did Pakistan lose to in the final of the 2016 Asian Men's Hockey Champions Trophy?",
+      "options": {
+        "a": "India",
+        "b": "Malaysia",
+        "c": "Japan",
+        "d": "South Korea"
+      },
+      "one_liner": "In the final of the 2016 Asian Men's Hockey Champions Trophy, Pakistan was defeated by **India**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

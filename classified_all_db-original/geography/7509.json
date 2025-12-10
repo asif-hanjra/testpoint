@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the founder of the Hashemite Kingdom of Jordan?",
+      "options": {
+        "a": "King Hussein",
+        "b": "Abdullah I",
+        "c": "Faisal I",
+        "d": "None of these"
+      },
+      "one_liner": "The founder of the Hashemite Kingdom of Jordan was **Abdullah I**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Middle East",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

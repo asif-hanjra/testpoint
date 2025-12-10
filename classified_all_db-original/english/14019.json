@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'shove':",
+      "options": {
+        "a": "push:pull",
+        "b": "thrust:embrace",
+        "c": "nudge:catch",
+        "d": "propel:attract"
+      },
+      "one_liner": "'Push' is a synonym for 'shove', while 'pull' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

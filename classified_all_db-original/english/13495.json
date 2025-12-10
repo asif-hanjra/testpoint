@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nostalgic':",
+      "options": {
+        "a": "futuristic",
+        "b": "wistful",
+        "c": "innovative",
+        "d": "prospective"
+      },
+      "one_liner": "'Nostalgic' refers to a sentimental longing for the past, similar to 'wistful'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

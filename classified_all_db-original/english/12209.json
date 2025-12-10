@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'intact':",
+      "options": {
+        "a": "fragmented",
+        "b": "whole",
+        "c": "shattered",
+        "d": "divided"
+      },
+      "one_liner": "'Intact' means unbroken or undamaged, similar to 'whole' or 'unimpaired'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

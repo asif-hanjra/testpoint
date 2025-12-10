@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'parity':",
+      "options": {
+        "a": "disparity",
+        "b": "uniformity",
+        "c": "inequality",
+        "d": "difference"
+      },
+      "one_liner": "'Parity' refers to equality or equivalence, as in 'sameness' or 'uniformity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

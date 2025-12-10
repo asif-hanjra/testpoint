@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary jurisdiction of the International Court of Justice?",
+      "options": {
+        "a": "Individuals",
+        "b": "Companies",
+        "c": "Countries",
+        "d": "None of these"
+      },
+      "one_liner": "The International Court of Justice primarily has jurisdiction to resolve disputes between **countries**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

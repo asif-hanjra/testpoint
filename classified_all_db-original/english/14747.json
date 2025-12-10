@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ridiculous':",
+      "options": {
+        "a": "ludicrous:prudent",
+        "b": "sensible:logical",
+        "c": "preposterous:reasonable",
+        "d": "absurd:sensible"
+      },
+      "one_liner": "'Ludicrous' is a synonym of 'ridiculous', while 'prudent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

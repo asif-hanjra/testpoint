@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'possible':",
+      "options": {
+        "a": "probable",
+        "b": "likely",
+        "c": "impossible",
+        "d": "certain"
+      },
+      "one_liner": "Antonyms of 'possible' include 'impossible' and 'unfeasible', both suggesting that something cannot be done.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Diamer Bhasha Dam being constructed?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Gilgit-Baltistan",
+        "d": "Balochistan"
+      },
+      "one_liner": "The Diamer Bhasha Dam is currently under construction in **Gilgit-Baltistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Proposed / Under Construction Dams",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Mountain Ranges / Peaks of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

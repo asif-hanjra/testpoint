@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'above':",
+      "options": {
+        "a": "over:under",
+        "b": "higher:lower",
+        "c": "beneath:above",
+        "d": "atop:below"
+      },
+      "one_liner": "'Over' is a synonym of 'above', while 'under' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

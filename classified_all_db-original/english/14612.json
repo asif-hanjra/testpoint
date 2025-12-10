@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'delicacy':",
+      "options": {
+        "a": "coarseness",
+        "b": "finesse",
+        "c": "crudeness",
+        "d": "roughness"
+      },
+      "one_liner": "'Delicacy' can refer to something fine or exquisite, similar to 'finesse' or 'elegance'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

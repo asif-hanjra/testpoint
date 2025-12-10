@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He insisted ___ having my fee paid.",
+      "options": {
+        "a": "at",
+        "b": "on",
+        "c": "in",
+        "d": "for"
+      },
+      "one_liner": "He insisted 'on' having my fee paid.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

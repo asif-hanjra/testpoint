@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He ___ very good at swimming.",
+      "options": {
+        "a": "on",
+        "b": "is",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "He 'is' very good at swimming.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

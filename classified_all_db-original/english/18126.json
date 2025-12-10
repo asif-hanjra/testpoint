@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'intermittent':",
+      "options": {
+        "a": "sporadic",
+        "b": "erratic",
+        "c": "continuous",
+        "d": "periodic"
+      },
+      "one_liner": "An antonym of 'intermittent' is 'continuous', which means without interruption.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "From which province was NWFP separated to become a new province?",
+      "options": {
+        "a": "Bengal",
+        "b": "Punjab",
+        "c": "UP",
+        "d": "Bombay"
+      },
+      "one_liner": "NWFP was carved out as a separate province from **Punjab** for administrative efficiency.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the last Governor General of Bengal?",
+      "options": {
+        "a": "William Bentinck",
+        "b": "Lord Dalhousie",
+        "c": "Lord Cornwallis",
+        "d": "Lord Canning"
+      },
+      "one_liner": "The last Governor General of Bengal was **William Bentinck**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

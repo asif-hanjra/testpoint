@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gird':",
+      "options": {
+        "a": "release",
+        "b": "brace",
+        "c": "detach",
+        "d": "loosen"
+      },
+      "one_liner": "'Gird' means to encircle or bind, similar to how 'brace' implies reinforcing or preparing for action.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

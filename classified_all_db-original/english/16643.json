@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The defense of the oil installation has been assigned ___ my regiment.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "The defense of the oil installation has been assigned 'to' my regiment.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

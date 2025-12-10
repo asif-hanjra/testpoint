@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries does the Amu Darya River pass through on its way to the Aral Sea?",
+      "options": {
+        "a": "Uzbekistan and Turkmenistan",
+        "b": "Kazakhstan and Kyrgyzstan",
+        "c": "Iran and Afghanistan",
+        "d": "None of these"
+      },
+      "one_liner": "The Amu Darya River passes through **Uzbekistan and Turkmenistan** before flowing into the Aral Sea.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Central Asia",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

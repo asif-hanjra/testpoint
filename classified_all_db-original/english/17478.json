@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'feckless':",
+      "options": {
+        "a": "ineffective:capable",
+        "b": "helpful:useless",
+        "c": "strong:weak",
+        "d": "powerful:ineffective"
+      },
+      "one_liner": "'Ineffective' is a synonym of 'feckless', while 'capable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

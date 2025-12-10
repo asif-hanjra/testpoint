@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'foible':",
+      "options": {
+        "a": "flaw",
+        "b": "defect",
+        "c": "strength",
+        "d": "weakness"
+      },
+      "one_liner": "An antonym of 'foible' is 'strength', which refers to a positive attribute or quality.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

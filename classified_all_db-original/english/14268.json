@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hospitable':",
+      "options": {
+        "a": "friendly",
+        "b": "warm",
+        "c": "inhospitable",
+        "d": "kind"
+      },
+      "one_liner": "The opposite of 'hospitable' is 'inhospitable', which means not welcoming or harsh.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

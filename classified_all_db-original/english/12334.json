@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'curb':",
+      "options": {
+        "a": "encourage",
+        "b": "restrain",
+        "c": "promote",
+        "d": "advance"
+      },
+      "one_liner": "'Curb' means to restrain or control, similar to how 'restrain' implies limiting action or movement.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

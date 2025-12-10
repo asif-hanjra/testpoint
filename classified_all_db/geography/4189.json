@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries are included in the region of Scandinavia in Northern Europe?",
+      "options": {
+        "a": "Denmark, Norway, Sweden, Finland, Iceland",
+        "b": "Denmark, Norway, Sweden, Germany, Iceland",
+        "c": "Denmark, Norway, Sweden, France, Iceland",
+        "d": "Denmark, Norway, Sweden, Russia, Iceland"
+      },
+      "one_liner": "Scandinavia in Northern Europe comprises the countries of **Denmark, Norway, Sweden, Finland, and Iceland**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continents of the World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Lakes",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Regions in Europe",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

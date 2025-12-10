@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'steep':",
+      "options": {
+        "a": "gentle",
+        "b": "abrupt",
+        "c": "sharp",
+        "d": "sheer"
+      },
+      "one_liner": "The antonym of 'steep' is 'gentle', referring to a gradual incline or decline.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

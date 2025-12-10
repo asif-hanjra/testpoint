@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'plead':",
+      "options": {
+        "a": "ignore",
+        "b": "implore",
+        "c": "demand",
+        "d": "refuse"
+      },
+      "one_liner": "'Plead' means to make an earnest request or appeal, similar to 'beg' or 'implore'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

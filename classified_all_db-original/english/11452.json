@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dirge':",
+      "options": {
+        "a": "ballad",
+        "b": "elegy",
+        "c": "anthem",
+        "d": "serenade"
+      },
+      "one_liner": "'Dirge' is a mournful song or lament, similar to an 'elegy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

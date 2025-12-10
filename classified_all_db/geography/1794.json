@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Quaid-e-Azam Solar Park, one of the biggest solar power generation projects in Pakistan, located?",
+      "options": {
+        "a": "Lahore",
+        "b": "Bahawalpur",
+        "c": "Karachi",
+        "d": "Islamabad"
+      },
+      "one_liner": "The Quaid-e-Azam Solar Park, a major solar power generation project in Pakistan, is situated in **Bahawalpur**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Solar Power Plants",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Solar Power Plants",
+          "chapter": "Natural Resources & Energy"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

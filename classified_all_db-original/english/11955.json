@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'retaliate':",
+      "options": {
+        "a": "avenge",
+        "b": "counter",
+        "c": "forgive",
+        "d": "revenge"
+      },
+      "one_liner": "An antonym of 'retaliate' is 'forgive', which means to stop feeling angry or resentful towards someone.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

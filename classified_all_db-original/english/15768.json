@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impediment':",
+      "options": {
+        "a": "obstacle:aid",
+        "b": "barrier:advantage",
+        "c": "hindrance:benefit",
+        "d": "block:enhancement"
+      },
+      "one_liner": "'Barrier' is a synonym of 'impediment', while 'advantage' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

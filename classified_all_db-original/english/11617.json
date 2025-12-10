@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'desiccate':",
+      "options": {
+        "a": "parch:saturate",
+        "b": "moisten:dry",
+        "c": "dehydrate:hydrate",
+        "d": "wither:soak"
+      },
+      "one_liner": "'Parch' is a synonym of 'desiccate', while 'saturate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

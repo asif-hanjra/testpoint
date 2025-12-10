@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'flaw':",
+      "options": {
+        "a": "defect",
+        "b": "error",
+        "c": "perfection",
+        "d": "mistake"
+      },
+      "one_liner": "The antonym of 'flaw' is 'perfection', indicating the absence of any defects or imperfections.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

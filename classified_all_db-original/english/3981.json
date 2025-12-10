@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: I ran the obstacle course in record time.",
+      "options": {
+        "a": "The obstacle course has run by me in record time",
+        "b": "The obstacle course was run by me in record time",
+        "c": "The obstacle course is run by me in record time",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

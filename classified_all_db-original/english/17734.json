@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Ab initio' mean?",
+      "options": {
+        "a": "To the end",
+        "b": "From the beginning",
+        "c": "With high honors",
+        "d": "In good faith"
+      },
+      "one_liner": "'Ab initio' is a Latin phrase meaning 'from the beginning'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

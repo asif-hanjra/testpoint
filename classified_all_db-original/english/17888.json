@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'active':",
+      "options": {
+        "a": "passive",
+        "b": "dynamic",
+        "c": "inactive",
+        "d": "lethargic"
+      },
+      "one_liner": "'Active' means engaged or energetic, similar to 'dynamic' and 'lively'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

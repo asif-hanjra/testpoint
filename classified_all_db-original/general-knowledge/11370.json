@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was German Chancellor Angela Merkel sworn in for the fourth time?",
+      "options": {
+        "a": "2016",
+        "b": "2017",
+        "c": "2018",
+        "d": "2019"
+      },
+      "one_liner": "Angela Merkel was sworn in as German Chancellor for the fourth time in **2018**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

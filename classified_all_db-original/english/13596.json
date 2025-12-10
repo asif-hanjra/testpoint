@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nag':",
+      "options": {
+        "a": "harass:comfort",
+        "b": "annoy:encourage",
+        "c": "badger:assist",
+        "d": "pester:calm"
+      },
+      "one_liner": "'Harass' is a synonym of 'nag', while 'comfort' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'superb':",
+      "options": {
+        "a": "mediocre",
+        "b": "splendid",
+        "c": "dull",
+        "d": "inferior"
+      },
+      "one_liner": "'Superb' means excellent or outstanding—words like 'magnificent' and 'splendid' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

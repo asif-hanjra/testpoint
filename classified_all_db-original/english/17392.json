@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "It was kind ___ you to help.",
+      "options": {
+        "a": "for",
+        "b": "of",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "It was kind 'of' you to help.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

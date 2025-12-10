@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If a, b, c ∈ R then _____?",
+      "options": {
+        "a": "a < b ⟹ b + c < a + c",
+        "b": "a < b ⟹ a + c = b + c",
+        "c": "a < b ⟹  a + c < b + c",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

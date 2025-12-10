@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organism is primarily responsible for spreading the Congo Virus?",
+      "options": {
+        "a": "Mosquito",
+        "b": "Tick",
+        "c": "Fly",
+        "d": "None of these"
+      },
+      "one_liner": "The Congo Virus is primarily spread by **ticks**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

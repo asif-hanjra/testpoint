@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obviate':",
+      "options": {
+        "a": "avert:require",
+        "b": "preclude:facilitate",
+        "c": "prevent:enhance",
+        "d": "forestall:advance"
+      },
+      "one_liner": "'Avert' is a synonym of 'obviate', while 'require' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

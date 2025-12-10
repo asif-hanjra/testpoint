@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'buttress':",
+      "options": {
+        "a": "weaken",
+        "b": "bolster",
+        "c": "diminish",
+        "d": "undermine"
+      },
+      "one_liner": "'Buttress' means to support or strengthen, similar to 'bolster' or 'reinforce'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which body of water is located on the southern corner of the North American continent?",
+      "options": {
+        "a": "Hudson Bay",
+        "b": "Gulf of Alaska",
+        "c": "Gulf of Mexico",
+        "d": "Caribbean Sea"
+      },
+      "one_liner": "The **Gulf of Mexico** is located on the southern corner of the North American continent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Bays and Gulfs",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Continent of North America",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

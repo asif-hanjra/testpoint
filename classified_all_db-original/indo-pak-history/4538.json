@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which European power allied with the Nawab of Bengal at the Battle of Plassey?",
+      "options": {
+        "a": "Dutch",
+        "b": "French",
+        "c": "Portuguese",
+        "d": "None of these"
+      },
+      "one_liner": "The Nawab of Bengal was allied with the **French** at the Battle of Plassey.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

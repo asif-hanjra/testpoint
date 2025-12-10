@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'wow' in 'Wow, you did a great job!'",
+      "options": {
+        "a": "Interjection",
+        "b": "Adverb",
+        "c": "Conjunction",
+        "d": "Adjective"
+      },
+      "one_liner": "'Wow' is an interjection used to express surprise or admiration.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dull':",
+      "options": {
+        "a": "monotonous:exciting",
+        "b": "bright:dark",
+        "c": "tedious:vivid",
+        "d": "boring:shiny"
+      },
+      "one_liner": "A synonym for 'dull' is 'monotonous', while 'exciting' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is unique about the properties of metalloids?",
+      "options": {
+        "a": "They are gases at room temperature",
+        "b": "They have properties between metals and nonmetals",
+        "c": "They are highly reactive",
+        "d": "They are only found in nature"
+      },
+      "one_liner": "Metalloids are unique because their properties are intermediate between those of **metals and nonmetals**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

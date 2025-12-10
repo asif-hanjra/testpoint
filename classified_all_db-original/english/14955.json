@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pliable':",
+      "options": {
+        "a": "flexible",
+        "b": "elastic",
+        "c": "inflexible",
+        "d": "adaptable"
+      },
+      "one_liner": "An antonym of 'pliable' is 'inflexible', which means not easily bent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'few':",
+      "options": {
+        "a": "scarce:numerous",
+        "b": "limited:abundant",
+        "c": "minimal:plenty",
+        "d": "sparse:ample"
+      },
+      "one_liner": "'Scarce' is a synonym of 'few', while 'numerous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

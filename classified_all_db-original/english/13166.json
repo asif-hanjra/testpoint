@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'reciprocal':",
+      "options": {
+        "a": "mutual",
+        "b": "shared",
+        "c": "one-sided",
+        "d": "joint"
+      },
+      "one_liner": "An antonym of 'reciprocal' is 'one-sided', which implies that something is not mutual or shared.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

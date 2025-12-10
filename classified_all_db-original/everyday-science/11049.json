@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is used in the extraction of uranium?",
+      "options": {
+        "a": "Calcium",
+        "b": "Magnesium",
+        "c": "Potassium",
+        "d": "Sodium"
+      },
+      "one_liner": "In the process of extracting uranium, **calcium** is commonly used.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

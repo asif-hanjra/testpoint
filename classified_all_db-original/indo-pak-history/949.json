@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When and where was the newspaper 'Hamdard' published?",
+      "options": {
+        "a": "1911, Calcutta",
+        "b": "1913, Delhi",
+        "c": "1913, Calcutta",
+        "d": "1911, Delhi"
+      },
+      "one_liner": "The Urdu newspaper **Hamdard** was published in **1913** from **Delhi** by Maulana Muhammad Ali Jauhar.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'spell':",
+      "options": {
+        "a": "continuation",
+        "b": "stint",
+        "c": "cessation",
+        "d": "pause"
+      },
+      "one_liner": "'Spell' can mean a period or stretch of time, similar to 'stint' or 'duration'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

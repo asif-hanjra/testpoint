@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dedication':",
+      "options": {
+        "a": "commitment:apathy",
+        "b": "loyalty:indifference",
+        "c": "devotion:neglect",
+        "d": "enthusiasm:disinterest"
+      },
+      "one_liner": "'Commitment' is a synonym for 'dedication', while 'apathy' is its antonym, indicating a lack of interest or concern.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

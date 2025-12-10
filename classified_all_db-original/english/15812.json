@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'artificial':",
+      "options": {
+        "a": "natural",
+        "b": "genuine",
+        "c": "synthetic",
+        "d": "authentic"
+      },
+      "one_liner": "'Artificial' refers to something made or produced by human beings rather than occurring naturally, similar to 'synthetic'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In the sentence 'She herself completed the task', what part of speech is 'herself'?",
+      "options": {
+        "a": "Noun",
+        "b": "Pronoun",
+        "c": "Adjective",
+        "d": "Verb"
+      },
+      "one_liner": "'Herself' is a pronoun, specifically a reflexive pronoun, because it refers back to the subject 'she'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

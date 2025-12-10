@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'meddle':",
+      "options": {
+        "a": "ignore",
+        "b": "interfere",
+        "c": "assist",
+        "d": "support"
+      },
+      "one_liner": "'Meddle' means to interfere or tamper, so 'interfere' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

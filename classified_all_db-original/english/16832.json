@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'enervate':",
+      "options": {
+        "a": "energize",
+        "b": "debilitate",
+        "c": "invigorate",
+        "d": "strengthen"
+      },
+      "one_liner": "'Enervate' means to weaken or drain of energy, similar to 'debilitate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

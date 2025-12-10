@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a black hole?",
+      "options": {
+        "a": "A star that emits light",
+        "b": "A planet with no atmosphere",
+        "c": "A cosmic body of intense gravity from which even light cannot escape",
+        "d": "A comet with a tail"
+      },
+      "one_liner": "A black hole is defined as a cosmic body with such intense gravity that even **light cannot escape** from it.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Galaxy",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

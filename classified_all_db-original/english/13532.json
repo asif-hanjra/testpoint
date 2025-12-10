@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'decree':",
+      "options": {
+        "a": "command",
+        "b": "request",
+        "c": "directive",
+        "d": "proclamation"
+      },
+      "one_liner": "An antonym of 'decree' is 'request', which implies asking rather than ordering.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

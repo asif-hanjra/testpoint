@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For which of the following purposes is chlorine commonly used?",
+      "options": {
+        "a": "Water treatment",
+        "b": "Cooking",
+        "c": "Fuel",
+        "d": "None of these"
+      },
+      "one_liner": "Chlorine is commonly used in **water treatment** and as an antiseptic due to its disinfectant properties.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

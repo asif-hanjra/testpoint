@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "DELAY : STALL :: ALLOW : ________?",
+      "options": {
+        "a": "Prevent",
+        "b": "Permit",
+        "c": "Refuse",
+        "d": "Deny"
+      },
+      "one_liner": "Delay is a synonym for stall, just as allow is a synonym for permit.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

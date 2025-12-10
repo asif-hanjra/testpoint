@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dawn':",
+      "options": {
+        "a": "sunrise:sunset",
+        "b": "morning:evening",
+        "c": "daybreak:noon",
+        "d": "beginning:end"
+      },
+      "one_liner": "'Sunrise' is a synonym of 'dawn', while 'sunset' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

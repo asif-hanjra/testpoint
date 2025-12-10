@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: They built this house in 1990.",
+      "options": {
+        "a": "This house was built by them in 1990.",
+        "b": "This house was being built by them in 1990.",
+        "c": "This house is built by them in 1990.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

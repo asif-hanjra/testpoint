@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He lives ___ a small income.",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "He lives 'on' a small income.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

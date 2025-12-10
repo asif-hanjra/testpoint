@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'homeopathy':",
+      "options": {
+        "a": "allopathy",
+        "b": "naturopathy",
+        "c": "osteopathy",
+        "d": "chiropractic"
+      },
+      "one_liner": "An antonym for 'homeopathy' is 'allopathy', which refers to mainstream medical use of pharmacologically active agents.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

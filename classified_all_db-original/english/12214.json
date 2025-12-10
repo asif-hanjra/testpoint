@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'esoteric':",
+      "options": {
+        "a": "obvious",
+        "b": "arcane",
+        "c": "simple",
+        "d": "clear"
+      },
+      "one_liner": "'Esoteric' refers to something understood by a select few, much like 'arcane' or 'cryptic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'acrimony':",
+      "options": {
+        "a": "amity",
+        "b": "hostility",
+        "c": "resentment",
+        "d": "rancor"
+      },
+      "one_liner": "The opposite of 'acrimony', which denotes bitterness, would be 'amity', signifying friendliness.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

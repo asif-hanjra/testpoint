@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Ad infinitum' mean?",
+      "options": {
+        "a": "With high honors",
+        "b": "To infinity",
+        "c": "After death",
+        "d": "To the man"
+      },
+      "one_liner": "The phrase 'Ad infinitum' means 'to infinity' or continuing forever without limit.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

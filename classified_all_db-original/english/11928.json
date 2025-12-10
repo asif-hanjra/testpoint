@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obsidian':",
+      "options": {
+        "a": "granite",
+        "b": "volcanic glass",
+        "c": "marble",
+        "d": "limestone"
+      },
+      "one_liner": "'Obsidian' is a type of volcanic glass, so 'volcanic glass' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

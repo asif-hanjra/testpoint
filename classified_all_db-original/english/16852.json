@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'large':",
+      "options": {
+        "a": "enormous",
+        "b": "gigantic",
+        "c": "small",
+        "d": "colossal"
+      },
+      "one_liner": "Antonyms of 'large' include 'small' and 'tiny', both implying a smaller size.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'important':",
+      "options": {
+        "a": "crucial",
+        "b": "significant",
+        "c": "trivial",
+        "d": "vital"
+      },
+      "one_liner": "Antonyms of 'important' include 'trivial' and 'inconsequential', both implying something of little significance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

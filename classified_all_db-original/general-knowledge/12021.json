@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country has the lengthiest written constitution in the world?",
+      "options": {
+        "a": "United States",
+        "b": "India",
+        "c": "Pakistan",
+        "d": "France"
+      },
+      "one_liner": "The distinction of having the world's lengthiest written constitution belongs to **India**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

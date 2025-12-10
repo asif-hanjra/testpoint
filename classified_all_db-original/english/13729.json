@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The hotel which is ___ the center of the town is beautiful.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "The hotel which is 'in' the center of the town is beautiful.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

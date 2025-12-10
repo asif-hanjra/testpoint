@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the first emperor of the Mughal Empire after the fall of the Lodhi dynasty?",
+      "options": {
+        "a": "Babur",
+        "b": "Akbar",
+        "c": "Sher Shah Suri",
+        "d": "Ibrahim Lodi"
+      },
+      "one_liner": "After the fall of the Lodhi dynasty, **Babur** became the first emperor of the Mughal Empire.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

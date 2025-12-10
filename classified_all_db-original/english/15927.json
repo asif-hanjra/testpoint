@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mysterious':",
+      "options": {
+        "a": "arcane:obscure",
+        "b": "cryptic:evident",
+        "c": "enigmatic:clear",
+        "d": "occult:transparent"
+      },
+      "one_liner": "'Cryptic' is a synonym of 'mysterious', while 'evident' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

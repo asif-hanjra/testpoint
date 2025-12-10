@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the C. Rajagopalachari formula, also known as the C. R. formula, proposed?",
+      "options": {
+        "a": "1940",
+        "b": "1942",
+        "c": "1943",
+        "d": "1945"
+      },
+      "one_liner": "The C. Rajagopalachari formula, often referred to as the C. R. formula, was proposed in **1943**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

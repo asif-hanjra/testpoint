@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'trivial':",
+      "options": {
+        "a": "inconsequential:crucial",
+        "b": "important:insignificant",
+        "c": "minor:major",
+        "d": "negligible:substantial"
+      },
+      "one_liner": "'Insignificant' is a synonym of 'trivial', while 'crucial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

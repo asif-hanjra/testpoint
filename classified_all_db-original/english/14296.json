@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "My father worked ___ this factory till he retired in 2005.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "My father worked 'in' this factory till he retired in 2005.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "In 'Several students failed the exam,' what part of speech is 'several'?",
+      "options": {
+        "a": "Verb",
+        "b": "Noun",
+        "c": "Adjective",
+        "d": "Conjunction"
+      },
+      "one_liner": "'Several' is an adjective modifying 'students'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

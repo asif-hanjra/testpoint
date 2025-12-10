@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'martinet':",
+      "options": {
+        "a": "authoritarian",
+        "b": "disciplinarian",
+        "c": "liberal",
+        "d": "enforcer"
+      },
+      "one_liner": "An antonym for 'martinet' is 'liberal', which suggests a more permissive attitude.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

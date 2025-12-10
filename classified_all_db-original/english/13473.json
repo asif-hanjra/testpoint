@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'competent':",
+      "options": {
+        "a": "able:inept",
+        "b": "capable:proficient",
+        "c": "skilled:unskilled",
+        "d": "adept:inept"
+      },
+      "one_liner": "'Able' is a synonym of 'competent', while 'inept' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

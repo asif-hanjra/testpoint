@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Through which country does the River Cano Cristales flow?",
+      "options": {
+        "a": "Brazil",
+        "b": "Colombia",
+        "c": "Peru",
+        "d": "Venezuela"
+      },
+      "one_liner": "The River Cano Cristales, known for its vibrant colors, flows through **Colombia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

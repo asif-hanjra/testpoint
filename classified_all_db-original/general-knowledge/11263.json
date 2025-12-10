@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which years did John Keats live?",
+      "options": {
+        "a": "1800-1850",
+        "b": "1795-1821",
+        "c": "1770-1830",
+        "d": "1821-1880"
+      },
+      "one_liner": "John Keats lived from **1795 to 1821**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

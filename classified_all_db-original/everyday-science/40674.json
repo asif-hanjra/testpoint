@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the imaginary line around an object in which it rotates called?",
+      "options": {
+        "a": "Equator",
+        "b": "Axis of rotation",
+        "c": "Meridian",
+        "d": "None of these"
+      },
+      "one_liner": "The imaginary line around which an object rotates is known as its **axis of rotation**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

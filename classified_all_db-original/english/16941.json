@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adulterate':",
+      "options": {
+        "a": "taint:sanctify",
+        "b": "degrade:enhance",
+        "c": "contaminate:cleanse",
+        "d": "spoil:preserve"
+      },
+      "one_liner": "'Taint' is a synonym of 'adulterate', while 'sanctify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

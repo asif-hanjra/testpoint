@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal can be recycled many times?",
+      "options": {
+        "a": "Aluminum",
+        "b": "Iron",
+        "c": "Copper",
+        "d": "Silver"
+      },
+      "one_liner": "**Aluminum** is notable for being recyclable many times without losing its properties.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

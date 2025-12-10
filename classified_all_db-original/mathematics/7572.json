@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A={1,2,3,4,5} and B={1,2,5,9} than which is true?",
+      "options": {
+        "a": "A is subset of B",
+        "b": "Bis subset of A",
+        "c": "A and B are dis joint set",
+        "d": "A and B are overlapping"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

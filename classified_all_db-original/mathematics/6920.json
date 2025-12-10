@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What numbers should replace the question marks? A = 2, 6, 3, 5 B = 6, 3, 6, 2 C = 3, 6, 3, 6 D = 7, 3, 6, 3 E = ?, ?, ?, ?",
+      "options": {
+        "a": "4,6,3,7",
+        "b": "3,4,6,7",
+        "c": "6,4,3,7",
+        "d": "7,4,3,6"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

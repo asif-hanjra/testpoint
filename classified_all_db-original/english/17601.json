@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prune':",
+      "options": {
+        "a": "clip:inflate",
+        "b": "trim:cultivate",
+        "c": "snip:grow",
+        "d": "cut:expand"
+      },
+      "one_liner": "'Trim' is a synonym of 'prune', while 'cultivate' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

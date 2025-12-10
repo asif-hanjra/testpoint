@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is significant about Shimogamo Shrine and Kamigamo Shrine in Japan?",
+      "options": {
+        "a": "They are the largest shrines in Japan",
+        "b": "They are the most modern shrines in Japan",
+        "c": "They are two of the most important and oldest shrines in Japan",
+        "d": "None of these"
+      },
+      "one_liner": "Shimogamo Shrine and Kamigamo Shrine are among the **most important and oldest shrines in Japan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Archaeological Sites in Pakistan",
+          "chapter": "Cultural & Historic Geography"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Regions of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Continent of Asia",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

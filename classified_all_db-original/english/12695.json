@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "FERN : PLANT :: MINNOW : ________?",
+      "options": {
+        "a": "River",
+        "b": "Fish",
+        "c": "Lake",
+        "d": "Pond"
+      },
+      "one_liner": "A fern is a type of plant, just as a minnow is a type of fish.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

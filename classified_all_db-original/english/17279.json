@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which word refers to a person sent on a special mission, usually as a diplomatic representative?",
+      "options": {
+        "a": "Envoy",
+        "b": "Emissary",
+        "c": "Executor",
+        "d": "Exemplar"
+      },
+      "one_liner": "'Emissary' is a person sent as a diplomatic representative on a special mission.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "One Word Substitutions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stupid':",
+      "options": {
+        "a": "dull",
+        "b": "silly",
+        "c": "intelligent",
+        "d": "idiotic"
+      },
+      "one_liner": "An antonym of 'stupid' is 'intelligent', which means having or showing intelligence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

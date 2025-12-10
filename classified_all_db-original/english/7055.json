@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Give me a book. The word \"Me\" is?",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Adjective",
+        "d": "Pronoun"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

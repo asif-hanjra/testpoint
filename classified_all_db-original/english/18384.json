@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "___ whom was the letter sent?",
+      "options": {
+        "a": "With",
+        "b": "By",
+        "c": "From",
+        "d": "To"
+      },
+      "one_liner": "The letter was sent 'by' whom?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

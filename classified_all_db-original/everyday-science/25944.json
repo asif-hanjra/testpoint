@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are examples of painkillers?",
+      "options": {
+        "a": "Aspirin and paracetamol",
+        "b": "Penicillin and cephalosporin",
+        "c": "Tetracycline and erythromycin",
+        "d": "None of these"
+      },
+      "one_liner": "**Aspirin and paracetamol** are common examples of painkillers used to relieve pain.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'wonderful':",
+      "options": {
+        "a": "magnificent:atrocious",
+        "b": "awful:amazing",
+        "c": "terrible:fabulous",
+        "d": "dreadful:marvelous"
+      },
+      "one_liner": "'Magnificent' is a synonym of 'wonderful', while 'atrocious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

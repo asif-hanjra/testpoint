@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A gas is said to behave like an ideal gas when relation PV/T= Constant. When do you expect a real gas to behave like ideal gas?",
+      "options": {
+        "a": "When the temperature is high and pressure is low",
+        "b": "When the temperature is low",
+        "c": "When both the temperature and pressure are low",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

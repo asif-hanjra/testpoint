@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which nutrients are required by the human body in large quantities?",
+      "options": {
+        "a": "Minerals and vitamins",
+        "b": "Carbohydrates, fats, proteins, and water",
+        "c": "Only carbohydrates and proteins",
+        "d": "None of these"
+      },
+      "one_liner": "Nutrients such as **carbohydrates, fats, proteins, and water** are required by the human body in large quantities.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

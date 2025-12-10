@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'genuine':",
+      "options": {
+        "a": "authentic:spurious",
+        "b": "legitimate:real",
+        "c": "true:false",
+        "d": "original:fake"
+      },
+      "one_liner": "'Authentic' is a synonym of 'genuine', while 'spurious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

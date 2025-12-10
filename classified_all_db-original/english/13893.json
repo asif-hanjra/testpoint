@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'proficient':",
+      "options": {
+        "a": "adept",
+        "b": "skilled",
+        "c": "inept",
+        "d": "capable"
+      },
+      "one_liner": "The opposite of 'proficient' is 'inept', which means lacking skill or ability.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

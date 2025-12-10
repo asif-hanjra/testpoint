@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which layer is found between the Upper Mantle and the Outer Core in the Earth's structure?",
+      "options": {
+        "a": "Lower Mantle",
+        "b": "Crust",
+        "c": "Inner Core",
+        "d": "None of these"
+      },
+      "one_liner": "The **Lower Mantle** is the layer found between the Upper Mantle and the Outer Core in the Earth's structure.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Rocks",
+          "chapter": "Earth Processes & Hazards"
+        },
+        {
+          "topic": "Structure of Earth",
+          "chapter": "Continents & World Regions"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vigilant':",
+      "options": {
+        "a": "careful",
+        "b": "alert",
+        "c": "negligent",
+        "d": "watchful"
+      },
+      "one_liner": "An antonym of 'vigilant' is 'negligent', which means failing to pay proper attention.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "During the meeting, John rudely told his colleague to _______.",
+      "options": {
+        "a": "bring up",
+        "b": "shut up",
+        "c": "take off",
+        "d": "run out"
+      },
+      "one_liner": "During the meeting, John rudely told his colleague to 'shut up'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

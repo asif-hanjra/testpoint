@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'In futuro' mean in English?",
+      "options": {
+        "a": "In the future",
+        "b": "In the past",
+        "c": "In the present",
+        "d": "In the beginning"
+      },
+      "one_liner": "The Latin phrase 'In futuro' translates to 'In the future' in English, indicating something that will happen or exist at a later time.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Is psychosis an illness or a symptom?",
+      "options": {
+        "a": "Illness",
+        "b": "Symptom",
+        "c": "Disease",
+        "d": "None of these"
+      },
+      "one_liner": "Psychosis is not an illness itself but a symptom that can occur in various mental health conditions.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lure':",
+      "options": {
+        "a": "attract:deter",
+        "b": "entice:encourage",
+        "c": "seduce:invite",
+        "d": "charm:appeal"
+      },
+      "one_liner": "'Attract' is a synonym of 'lure', while 'deter' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

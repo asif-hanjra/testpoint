@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which hydropower project diverts water from the Neelum River to a power station on the Jhelum River?",
+      "options": {
+        "a": "Ghazi-Barotha Hydropower Project",
+        "b": "Neelum-Jhelum Hydropower Project",
+        "c": "Gomal Zam Dam",
+        "d": "Satpara Dam"
+      },
+      "one_liner": "The Neelum-Jhelum Hydropower Project is designed to divert water from the **Neelum River to a power station on the Jhelum River**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Barrages of Pakistan on Indus River",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Power Generation in Pakistan",
+          "chapter": "Natural Resources & Energy"
+        },
+        {
+          "topic": "Dams of Pakistan",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

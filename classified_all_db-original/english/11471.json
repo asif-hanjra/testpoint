@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'overt':",
+      "options": {
+        "a": "manifest:clandestine",
+        "b": "hidden:exposed",
+        "c": "explicit:implicit",
+        "d": "public:private"
+      },
+      "one_liner": "'Manifest' is a synonym of 'overt', while 'clandestine' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

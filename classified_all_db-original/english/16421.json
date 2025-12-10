@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "RAMP : HIGHWAY :: ROOF : ________?",
+      "options": {
+        "a": "Wall",
+        "b": "House",
+        "c": "Ceiling",
+        "d": "Floor"
+      },
+      "one_liner": "A ramp connects to a highway, but the connection between house and head is not analogous.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many countries share the water of the Nile River?",
+      "options": {
+        "a": "7",
+        "b": "9",
+        "c": "11",
+        "d": "13"
+      },
+      "one_liner": "The Nile River's water is shared by **11 countries**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Rivers",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

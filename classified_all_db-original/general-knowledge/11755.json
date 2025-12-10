@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the real name of Shah Rukn-e-Alam?",
+      "options": {
+        "a": "Rukn-ud-Din Abul Fateh",
+        "b": "Sadar-Al-Din Arif",
+        "c": "Bahauddin Zakariya",
+        "d": "None of these"
+      },
+      "one_liner": "Shah Rukn-e-Alam was originally named **Rukn-ud-Din Abul Fateh** before he became known by his famous title.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Shah Rukn-e-Alam",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Shah Rukn-e-Alam",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

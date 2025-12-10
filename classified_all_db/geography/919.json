@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who recorded Dulla Bhatti's last words?",
+      "options": {
+        "a": "Rai Ahmed Nawaz Khan Kharal",
+        "b": "Shah Hussain",
+        "c": "Sandal",
+        "d": "None of these"
+      },
+      "one_liner": "Dulla Bhatti's last words were recorded by **Shah Hussain**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        },
+        {
+          "topic": "Indus River Plain",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Geography of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Bars of Punjab",
+          "chapter": "Rivers & Water Resources"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

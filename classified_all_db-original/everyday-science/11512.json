@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is present in the largest amount in the human body?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Carbon",
+        "c": "Hydrogen",
+        "d": "Nitrogen"
+      },
+      "one_liner": "Oxygen is the element found in the greatest quantity in the human body, making it the most abundant element in our composition.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'infuriate':",
+      "options": {
+        "a": "anger",
+        "b": "agitate",
+        "c": "placate",
+        "d": "irritate"
+      },
+      "one_liner": "An antonym of 'infuriate' is 'placate', which means to make someone less angry or hostile.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

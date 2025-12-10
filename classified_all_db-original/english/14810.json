@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "GIVE : TAKE :: APPROACH : ________?",
+      "options": {
+        "a": "Advance",
+        "b": "Retreat",
+        "c": "Arrive",
+        "d": "Move"
+      },
+      "one_liner": "Give is the opposite of take, similar to how approach is the opposite of retreat.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: \"Wash your face.\"",
+      "options": {
+        "a": "Let your face be washed.",
+        "b": "Let your face will be washed.",
+        "c": "Your face washed.",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

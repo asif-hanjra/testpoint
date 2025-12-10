@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Bulleh Shah born?",
+      "options": {
+        "a": "Lahore",
+        "b": "Kasur",
+        "c": "Multan",
+        "d": "Delhi"
+      },
+      "one_liner": "Bulleh Shah was born in the city of **Kasur**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Bulleh Shah",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Bulleh Shah",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

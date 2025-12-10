@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'humorous':",
+      "options": {
+        "a": "serious",
+        "b": "jovial",
+        "c": "hilarious",
+        "d": "merry"
+      },
+      "one_liner": "The opposite of 'humorous', which means causing laughter, would be 'serious', implying a lack of humor.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

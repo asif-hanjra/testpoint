@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'collision':",
+      "options": {
+        "a": "clash",
+        "b": "impact",
+        "c": "avoidance",
+        "d": "crash"
+      },
+      "one_liner": "The opposite of a 'collision' is 'avoidance', which means preventing an impact.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

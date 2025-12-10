@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'flippant':",
+      "options": {
+        "a": "glib:solemn",
+        "b": "frivolous:serious",
+        "c": "irreverent:respectful",
+        "d": "facetious:solemn"
+      },
+      "one_liner": "'Glib' is a synonym of 'flippant', while 'solemn' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

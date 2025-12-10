@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country has won the maximum number of Olympic titles?",
+      "options": {
+        "a": "China",
+        "b": "Russia",
+        "c": "United States",
+        "d": "Germany"
+      },
+      "one_liner": "The country that has secured the highest number of Olympic titles is the **United States**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

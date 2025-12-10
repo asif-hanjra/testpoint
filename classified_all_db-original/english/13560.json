@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The football match will _______ at 7 PM sharp.",
+      "options": {
+        "a": "call off",
+        "b": "kick off",
+        "c": "put up",
+        "d": "break down"
+      },
+      "one_liner": "The football match will 'kick off' at 7 PM sharp.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'disagree':",
+      "options": {
+        "a": "agree",
+        "b": "concur",
+        "c": "differ",
+        "d": "assent"
+      },
+      "one_liner": "'Disagree' means to have a different opinion, much like 'differ' or 'conflict'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

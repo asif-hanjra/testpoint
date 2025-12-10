@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'satire':",
+      "options": {
+        "a": "drama",
+        "b": "irony",
+        "c": "tragedy",
+        "d": "romance"
+      },
+      "one_liner": "'Satire' is a form of humor or criticism that is often 'ironic' or 'sarcastic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

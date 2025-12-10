@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'opportune':",
+      "options": {
+        "a": "inopportune",
+        "b": "unfavorable",
+        "c": "auspicious",
+        "d": "late"
+      },
+      "one_liner": "'Opportune' means timely or well-chosen, similar to 'auspicious' or 'favorable'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

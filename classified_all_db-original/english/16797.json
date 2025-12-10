@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fertile':",
+      "options": {
+        "a": "lush",
+        "b": "fruitful",
+        "c": "barren",
+        "d": "rich"
+      },
+      "one_liner": "The antonym of 'fertile' is 'barren', which means not capable of producing offspring or vegetation.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

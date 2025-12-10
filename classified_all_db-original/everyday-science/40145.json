@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the function of bone marrow related to blood cells?",
+      "options": {
+        "a": "Making white blood cells",
+        "b": "Making red blood cells",
+        "c": "Making platelets",
+        "d": "None of these"
+      },
+      "one_liner": "Bone marrow plays a crucial role in **making platelets** in the human body.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

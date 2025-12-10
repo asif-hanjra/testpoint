@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'shy':",
+      "options": {
+        "a": "outgoing",
+        "b": "timid",
+        "c": "bold",
+        "d": "confident"
+      },
+      "one_liner": "'Shy' means being reserved or having a nervousness around people, similar to 'timid'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

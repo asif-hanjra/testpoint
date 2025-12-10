@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abrupt':",
+      "options": {
+        "a": "sudden",
+        "b": "unexpected",
+        "c": "gradual",
+        "d": "hasty"
+      },
+      "one_liner": "Antonyms of 'abrupt' include 'gradual' and 'slow', both suggesting a measured pace.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

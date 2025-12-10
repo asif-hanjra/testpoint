@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'detest':",
+      "options": {
+        "a": "abhor",
+        "b": "despise",
+        "c": "admire",
+        "d": "hate"
+      },
+      "one_liner": "The opposite of 'detest', which means to intensely dislike, would be 'admire'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

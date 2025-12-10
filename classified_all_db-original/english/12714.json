@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'topple':",
+      "options": {
+        "a": "capsize:erect",
+        "b": "overturn:ascend",
+        "c": "fall:rise",
+        "d": "tumble:stabilize"
+      },
+      "one_liner": "'Capsize' is a synonym of 'topple', while 'erect' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

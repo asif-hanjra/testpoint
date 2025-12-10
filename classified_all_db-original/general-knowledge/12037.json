@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Statue of Liberty gifted to the United States?",
+      "options": {
+        "a": "1776",
+        "b": "1886",
+        "c": "1920",
+        "d": "1865"
+      },
+      "one_liner": "The Statue of Liberty was gifted to the United States in the year **1886**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

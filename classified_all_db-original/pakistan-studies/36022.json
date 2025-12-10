@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many years did it take to construct Minar-e-Pakistan?",
+      "options": {
+        "a": "Five years",
+        "b": "Six years",
+        "c": "Eight years",
+        "d": "Ten years"
+      },
+      "one_liner": "The construction of Minar-e-Pakistan took a total of **eight years** to complete.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

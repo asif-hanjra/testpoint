@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was accused ___ theft.",
+      "options": {
+        "a": "for",
+        "b": "of",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "He was accused 'of' theft.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

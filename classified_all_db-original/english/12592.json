@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lethargic':",
+      "options": {
+        "a": "energetic",
+        "b": "listless",
+        "c": "active",
+        "d": "vivacious"
+      },
+      "one_liner": "'Lethargic' means sluggish or lacking energy, similar to 'sluggish' and 'listless'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

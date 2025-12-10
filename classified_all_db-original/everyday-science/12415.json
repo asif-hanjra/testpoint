@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the three types of nuclear radiation?",
+      "options": {
+        "a": "Alpha, beta, and delta",
+        "b": "Alpha, beta, and gamma",
+        "c": "Gamma, delta, and epsilon",
+        "d": "None of these"
+      },
+      "one_liner": "The three types of nuclear radiation are **alpha, beta, and gamma**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

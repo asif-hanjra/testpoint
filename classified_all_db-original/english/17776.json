@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'malingerer':",
+      "options": {
+        "a": "shirker",
+        "b": "lazy",
+        "c": "hard worker",
+        "d": "slacker"
+      },
+      "one_liner": "The opposite of a 'malingerer' is a 'hard worker', someone who is diligent and committed to their duties.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

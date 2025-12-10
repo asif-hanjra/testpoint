@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rookie':",
+      "options": {
+        "a": "novice",
+        "b": "beginner",
+        "c": "veteran",
+        "d": "amateur"
+      },
+      "one_liner": "An antonym of 'rookie' is 'veteran', which means someone experienced or seasoned.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

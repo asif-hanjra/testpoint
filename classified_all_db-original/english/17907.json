@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ramification':",
+      "options": {
+        "a": "aftermath:inception",
+        "b": "consequence:source",
+        "c": "outcome:beginning",
+        "d": "effect:origin"
+      },
+      "one_liner": "'Aftermath' is a synonym of 'ramification', while 'inception' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

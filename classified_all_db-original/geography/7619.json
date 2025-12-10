@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where do the Indian Ocean and Atlantic Ocean meet?",
+      "options": {
+        "a": "Cape of Good Hope",
+        "b": "Strait of Gibraltar",
+        "c": "Cape Horn",
+        "d": "Bay of Bengal"
+      },
+      "one_liner": "The Indian Ocean and Atlantic Ocean converge near the **Cape of Good Hope**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geographical Terms",
+          "chapter": "Physical Geography of the World"
+        },
+        {
+          "topic": "Geography of World",
+          "chapter": "Continents & World Regions"
+        },
+        {
+          "topic": "Famous Oceans of the World",
+          "chapter": "Physical Geography of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

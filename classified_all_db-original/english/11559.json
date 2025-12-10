@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was walking ___ the road.",
+      "options": {
+        "a": "across",
+        "b": "alongside",
+        "c": "under",
+        "d": "between"
+      },
+      "one_liner": "He was walking 'alongside' the road.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

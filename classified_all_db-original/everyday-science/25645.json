@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for bleaching powder?",
+      "options": {
+        "a": "Chloride of lime",
+        "b": "Sodium chloride",
+        "c": "Calcium carbonate",
+        "d": "None of these"
+      },
+      "one_liner": "Bleaching powder is commonly known as **chloride of lime**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

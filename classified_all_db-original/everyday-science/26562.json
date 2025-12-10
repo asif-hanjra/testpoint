@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which enzyme is responsible for converting milk into casein?",
+      "options": {
+        "a": "Renin",
+        "b": "Pepsin",
+        "c": "Trypsin",
+        "d": "Amylase"
+      },
+      "one_liner": "The enzyme responsible for converting milk into casein is **renin**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'capricious':",
+      "options": {
+        "a": "constant",
+        "b": "fickle",
+        "c": "steady",
+        "d": "reliable"
+      },
+      "one_liner": "'Capricious' describes someone or something that is unpredictable or whimsical, much like the word 'fickle'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

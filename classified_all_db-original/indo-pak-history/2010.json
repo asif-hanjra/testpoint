@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of empire did Maharaja Ranjit Singh establish in Punjab?",
+      "options": {
+        "a": "Religious empire",
+        "b": "Secular empire",
+        "c": "Colonial empire",
+        "d": "None of these"
+      },
+      "one_liner": "Maharaja Ranjit Singh established a **secular empire** in Punjab.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

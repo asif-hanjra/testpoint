@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impassive':",
+      "options": {
+        "a": "apathetic:responsive",
+        "b": "stoic:indifferent",
+        "c": "unemotional:emotional",
+        "d": "detached:engaged"
+      },
+      "one_liner": "'Apathetic' is a synonym of 'impassive', while 'responsive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bleak':",
+      "options": {
+        "a": "bright",
+        "b": "grim",
+        "c": "cozy",
+        "d": "warm"
+      },
+      "one_liner": "'Bleak' means desolate or cheerless, similar to 'grim' or 'dismal'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

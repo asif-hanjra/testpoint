@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is connected to Pakistan via the Khunjerab Pass?",
+      "options": {
+        "a": "Afghanistan",
+        "b": "India",
+        "c": "China",
+        "d": "Iran"
+      },
+      "one_liner": "The Khunjerab Pass serves as a border crossing that directly connects Pakistan with **China**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Passes of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Important Routes via Gwadar Port",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Pakistan-China",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

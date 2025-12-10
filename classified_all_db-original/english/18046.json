@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Too many cooks spoil ___ the broth.",
+      "options": {
+        "a": "at",
+        "b": "",
+        "c": "with",
+        "d": "in"
+      },
+      "one_liner": "Too many cooks 'spoil' the broth.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'micro':",
+      "options": {
+        "a": "large",
+        "b": "minute",
+        "c": "gigantic",
+        "d": "enormous"
+      },
+      "one_liner": "'Micro' refers to something extremely small, similar to 'minute' or 'tiny'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

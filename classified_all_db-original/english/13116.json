@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tamp':",
+      "options": {
+        "a": "expand",
+        "b": "compact",
+        "c": "inflate",
+        "d": "enlarge"
+      },
+      "one_liner": "'Tamp' means to pack down or compress, similar to 'compact' or 'press'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

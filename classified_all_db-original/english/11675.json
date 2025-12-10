@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'strive':",
+      "options": {
+        "a": "persist",
+        "b": "continue",
+        "c": "surrender",
+        "d": "attempt"
+      },
+      "one_liner": "The opposite of 'strive' is 'surrender', which means to give up or stop trying.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

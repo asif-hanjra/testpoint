@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'diffident':",
+      "options": {
+        "a": "meek:bold",
+        "b": "shy:arrogant",
+        "c": "timid:confident",
+        "d": "bashful:brave"
+      },
+      "one_liner": "'Meek' is a synonym of 'diffident', while 'bold' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

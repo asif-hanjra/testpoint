@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented the X-ray?",
+      "options": {
+        "a": "Roentgen",
+        "b": "Curie",
+        "c": "Einstein",
+        "d": "Newton"
+      },
+      "one_liner": "The X-ray was invented by **Roentgen**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

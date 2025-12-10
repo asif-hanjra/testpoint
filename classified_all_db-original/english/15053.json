@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'flout':",
+      "options": {
+        "a": "defy:respect",
+        "b": "comply:disobey",
+        "c": "disregard:respect",
+        "d": "honor:disregard"
+      },
+      "one_liner": "'Disregard' is a synonym of 'flout', while 'respect' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

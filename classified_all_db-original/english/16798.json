@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'empty':",
+      "options": {
+        "a": "hollow:laden",
+        "b": "vacant:packed",
+        "c": "bare:stuffed",
+        "d": "desolate:brimming"
+      },
+      "one_liner": "'Hollow' is a synonym of 'empty', while 'laden' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

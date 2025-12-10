@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dank':",
+      "options": {
+        "a": "humid",
+        "b": "arid",
+        "c": "wet",
+        "d": "moist"
+      },
+      "one_liner": "An antonym of 'dank' would be 'arid', which means extremely dry.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

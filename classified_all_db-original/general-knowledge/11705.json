@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Pakistani poet received the Lenin Prize?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Faiz Ahmad Faiz",
+        "c": "Ahmed Faraz",
+        "d": "Josh Malihabadi"
+      },
+      "one_liner": "The renowned Pakistani poet **Faiz Ahmad Faiz** was honored with the Lenin Prize.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Vladimir Lenin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

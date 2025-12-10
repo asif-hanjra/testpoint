@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ranger':",
+      "options": {
+        "a": "visitor",
+        "b": "warden",
+        "c": "guest",
+        "d": "stranger"
+      },
+      "one_liner": "'Ranger' refers to a person who patrols an area, similar to a 'warden' or 'guardian'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

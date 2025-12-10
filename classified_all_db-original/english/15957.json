@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obdurate':",
+      "options": {
+        "a": "adamant:flexible",
+        "b": "compliant:stubborn",
+        "c": "inflexible:amenable",
+        "d": "resolute:yielding"
+      },
+      "one_liner": "'Unyielding' is a synonym of 'obdurate', while 'flexible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

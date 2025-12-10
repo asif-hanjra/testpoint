@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "HOVEL : DIRTY :: HUB : ________?",
+      "options": {
+        "a": "Quiet",
+        "b": "Busy",
+        "c": "Remote",
+        "d": "Empty"
+      },
+      "one_liner": "A hovel is typically dirty, just as a hub is typically busy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

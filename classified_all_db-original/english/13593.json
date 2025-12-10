@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stimulus':",
+      "options": {
+        "a": "provocation:enhancement",
+        "b": "impetus:suppression",
+        "c": "spur:promotion",
+        "d": "incentive:discouragement"
+      },
+      "one_liner": "'Provocation' is a synonym of 'stimulus', while 'suppression' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

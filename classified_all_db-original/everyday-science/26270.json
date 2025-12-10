@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the correct sequence of Earth's atmospheric layers from closest to farthest from the surface?",
+      "options": {
+        "a": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere",
+        "b": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere",
+        "c": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere",
+        "d": "None of these"
+      },
+      "one_liner": "The correct sequence of Earth's atmospheric layers from closest to farthest is **Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

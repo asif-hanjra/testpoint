@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'torpor':",
+      "options": {
+        "a": "energy",
+        "b": "lethargy",
+        "c": "vigor",
+        "d": "animation"
+      },
+      "one_liner": "'Torpor' refers to a state of physical or mental inactivity, similar to 'lethargy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

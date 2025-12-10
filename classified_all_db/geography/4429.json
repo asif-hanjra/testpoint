@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which town is considered the main town of South Waziristan Agency?",
+      "options": {
+        "a": "Wana",
+        "b": "Tank",
+        "c": "Miramshah",
+        "d": "Bannu"
+      },
+      "one_liner": "Wana is recognized as the main town of **South Waziristan Agency**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Valleys of Pakistan",
+          "chapter": "Physical Geography of Pakistan"
+        },
+        {
+          "topic": "Provinces of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        },
+        {
+          "topic": "Regions of Pakistan",
+          "chapter": "Borders & Strategic Geography"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}
