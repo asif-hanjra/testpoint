@@ -32,9 +32,14 @@ app.add_middleware(
 BACKEND_PORT = int(os.getenv("BACKEND_PORT", 8000))
 FRONTEND_PORT = int(os.getenv("PORT", 3009))
 SIMILARITY_THRESHOLD = float(os.getenv("SIMILARITY_THRESHOLD", 0.85))
-CLASSIFIED_DB_PATH = os.getenv("CLASSIFIED_DB_PATH", "/Users/mac/testpoint/classified_all_db")
-FINAL_DB_PATH = os.getenv("FINAL_DB_PATH", "/Users/mac/testpoint/final-db")
-REMOVED_DB_PATH = os.getenv("REMOVED_DB_PATH", "/Users/mac/testpoint/removed_duplicates_db")
+
+# Get project root directory (parent of backend folder)
+PROJECT_ROOT = Path(__file__).parent.parent
+
+# Use environment variables if set, otherwise use relative paths from project root
+CLASSIFIED_DB_PATH = os.getenv("CLASSIFIED_DB_PATH", str(PROJECT_ROOT / "classified_all_db"))
+FINAL_DB_PATH = os.getenv("FINAL_DB_PATH", str(PROJECT_ROOT / "final-db"))
+REMOVED_DB_PATH = os.getenv("REMOVED_DB_PATH", str(PROJECT_ROOT / "removed_duplicates_db"))
 
 # Initialize managers
 file_manager = FileManager(CLASSIFIED_DB_PATH, FINAL_DB_PATH, REMOVED_DB_PATH)
