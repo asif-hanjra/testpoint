@@ -12,6 +12,9 @@ class FileManager:
         self.classified_path = Path(classified_path)
         self.final_path = Path(final_path)
         self.removed_path = Path(removed_path)
+        # Calculate project root (parent of classified_path's parent)
+        # classified_path is like: project_root/classified_all_db
+        self.project_root = self.classified_path.parent
     
     def get_subjects(self) -> List[Dict]:
         """Get list of subjects with their status"""
@@ -229,7 +232,7 @@ class FileManager:
     def save_removed_tracking(self, subject: str) -> List[str]:
         """Save list of removed files to tracking JSON file (merges with existing tracking)"""
         removed_dir = self.removed_path / subject
-        tracking_path = Path("/Users/mac/testpoint/removed-track")
+        tracking_path = self.project_root / "removed-track"
         tracking_file = tracking_path / f"{subject}.json"
         
         # Create tracking directory if it doesn't exist
@@ -264,7 +267,7 @@ class FileManager:
     
     def load_removed_tracking(self, subject: str) -> List[str]:
         """Load list of removed files from tracking JSON file"""
-        tracking_file = Path("/Users/mac/testpoint/removed-track") / f"{subject}.json"
+        tracking_file = self.project_root / "removed-track" / f"{subject}.json"
         
         if not tracking_file.exists():
             return []
@@ -309,8 +312,8 @@ class FileManager:
     def prepare_subject_for_sbert(self, subject: str) -> Tuple[int, int]:
         """Copy non-removed files from original folder to working folder, using removed-track to filter"""
         working_path = self.classified_path / subject
-        backup_path = Path("/Users/mac/testpoint/classified_all_db_backup") / subject
-        original_path = Path("/Users/mac/testpoint/classified_all_db-original") / subject
+        backup_path = self.project_root / "classified_all_db_backup" / subject
+        original_path = self.project_root / "classified_all_db-original" / subject
         
         # Step 0: Delete all files in backup folder FIRST (before anything else)
         backup_path.mkdir(parents=True, exist_ok=True)
