@@ -9,12 +9,24 @@ import torch
 # Suppress warnings globally
 warnings.filterwarnings("ignore")
 
-# Force stdout/stderr to be unbuffered for real-time logging
+# Force stdout/stderr to be unbuffered and UTF-8 encoded for real-time logging
 try:
-    if hasattr(sys.stdout, 'reconfigure'):
-        sys.stdout.reconfigure(line_buffering=True)
-    if hasattr(sys.stderr, 'reconfigure'):
-        sys.stderr.reconfigure(line_buffering=True)
+    if sys.platform == 'win32':
+        # Windows: Set UTF-8 encoding
+        if hasattr(sys.stdout, 'reconfigure'):
+            sys.stdout.reconfigure(encoding='utf-8', errors='replace', line_buffering=True)
+            sys.stderr.reconfigure(encoding='utf-8', errors='replace', line_buffering=True)
+        else:
+            # Fallback for older Python versions
+            import io
+            sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace', line_buffering=True)
+            sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace', line_buffering=True)
+    else:
+        # Unix/Mac: Just set line buffering
+        if hasattr(sys.stdout, 'reconfigure'):
+            sys.stdout.reconfigure(line_buffering=True)
+        if hasattr(sys.stderr, 'reconfigure'):
+            sys.stderr.reconfigure(line_buffering=True)
 except:
     pass  # Fallback if reconfigure fails
 
