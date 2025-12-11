@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many total member countries are there in SAARC?",
+      "options": {
+        "a": "Six",
+        "b": "Seven",
+        "c": "Eight",
+        "d": "Nine"
+      },
+      "one_liner": "SAARC consists of a total of **eight** member countries.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

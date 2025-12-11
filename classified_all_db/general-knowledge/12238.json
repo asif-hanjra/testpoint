@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country gifted the Statue of Liberty to the United States of America?",
+      "options": {
+        "a": "France",
+        "b": "England",
+        "c": "Italy",
+        "d": "Spain"
+      },
+      "one_liner": "The Statue of Liberty was a gift from **France** to the United States of America.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

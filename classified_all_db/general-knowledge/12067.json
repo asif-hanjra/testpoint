@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Secretary General of the United Nations who died in an air crash?",
+      "options": {
+        "a": "Kofi Annan",
+        "b": "Dag Hammarskjold",
+        "c": "U Thant",
+        "d": "Ban Ki-moon"
+      },
+      "one_liner": "Dag Hammarskjold, who served as Secretary General of the United Nations, tragically died in an air crash.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

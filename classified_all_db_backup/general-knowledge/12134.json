@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Benin's currency is known as what?",
+      "options": {
+        "a": "West African CFA franc",
+        "b": "Bulgarian lev",
+        "c": "Brunei dollar",
+        "d": "Belarusian ruble"
+      },
+      "one_liner": "Benin uses the **West African CFA franc** as its official currency.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

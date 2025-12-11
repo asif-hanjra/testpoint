@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the President of the United States on 20 January 2017?",
+      "options": {
+        "a": "Barack Obama",
+        "b": "Joe Biden",
+        "c": "Donald Trump",
+        "d": "George W. Bush"
+      },
+      "one_liner": "On **20 January 2017**, Donald Trump assumed office as the President of the United States.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

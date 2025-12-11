@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does UNICEF stand for?",
+      "options": {
+        "a": "United Nations International Children Educational Foundation",
+        "b": "United Nations International Cultural Education Foundation",
+        "c": "United Nations International Child Emergency Fund",
+        "d": "None of these"
+      },
+      "one_liner": "UNICEF is an acronym for the **United Nations International Children Educational Foundation**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

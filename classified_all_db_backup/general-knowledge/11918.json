@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many Round Table Conferences did Allama Iqbal attend?",
+      "options": {
+        "a": "One",
+        "b": "Two",
+        "c": "Three",
+        "d": "None of these"
+      },
+      "one_liner": "Allama Iqbal attended a total of **two** Round Table Conferences during the British colonial period.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

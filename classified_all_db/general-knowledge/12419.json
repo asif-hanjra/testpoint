@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the maximum width of a cricket bat?",
+      "options": {
+        "a": "4 inches",
+        "b": "4.25 inches",
+        "c": "5 inches",
+        "d": "5.25 inches"
+      },
+      "one_liner": "The maximum width of a cricket bat is **4.25 inches (108 mm)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

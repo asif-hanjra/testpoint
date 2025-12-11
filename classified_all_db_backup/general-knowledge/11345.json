@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year did the attack on Sayed Al-Shuhada School take place?",
+      "options": {
+        "a": "June 2020",
+        "b": "May 2021",
+        "c": "April 2022",
+        "d": "March 2021"
+      },
+      "one_liner": "The attack on Sayed Al-Shuhada School took place in **May 2021**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

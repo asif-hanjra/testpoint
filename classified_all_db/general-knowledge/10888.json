@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the profession of Zia Mohyeddin?",
+      "options": {
+        "a": "Actor",
+        "b": "Comedian",
+        "c": "Politician",
+        "d": "Singer"
+      },
+      "one_liner": "Zia Mohyeddin is renowned as a **Comedian**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

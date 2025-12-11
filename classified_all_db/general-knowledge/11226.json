@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which archaeological site is considered a precursor to the Indus Valley Civilization?",
+      "options": {
+        "a": "Mehrgarh",
+        "b": "Harappa",
+        "c": "Mohenjo-daro",
+        "d": "Lothal"
+      },
+      "one_liner": "Mehrgarh is recognized as a precursor to the Indus Valley Civilization due to its early evidence of settled life.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

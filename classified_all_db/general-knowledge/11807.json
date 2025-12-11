@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which century did Sultan Bahu live?",
+      "options": {
+        "a": "16th century",
+        "b": "17th century",
+        "c": "18th century",
+        "d": "19th century"
+      },
+      "one_liner": "Sultan Bahu lived during the **17th century**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

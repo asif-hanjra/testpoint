@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Emirates Spinnaker Tower located?",
+      "options": {
+        "a": "London, United Kingdom",
+        "b": "Portsmouth, United Kingdom",
+        "c": "Manchester, United Kingdom",
+        "d": "Liverpool, United Kingdom"
+      },
+      "one_liner": "The Emirates Spinnaker Tower is located in the city of **Portsmouth, United Kingdom**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

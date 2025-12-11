@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who created the character of Sherlock Holmes?",
+      "options": {
+        "a": "Agatha Christie",
+        "b": "Sir Arthur Conan Doyle",
+        "c": "J.K. Rowling",
+        "d": "None of these"
+      },
+      "one_liner": "The famous detective character Sherlock Holmes was created by **Sir Arthur Conan Doyle**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

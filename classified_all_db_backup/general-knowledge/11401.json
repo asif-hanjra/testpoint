@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "International Customs Day is observed on which date?",
+      "options": {
+        "a": "January 26",
+        "b": "January 27",
+        "c": "January 28",
+        "d": "January 30"
+      },
+      "one_liner": "International Customs Day is observed on **January 26th**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

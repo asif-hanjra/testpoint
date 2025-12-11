@@ -87,13 +87,36 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   }, [autoScrollActive]);
   
   // Range-based pagination state
-  const [similarityRangeStart, setSimilarityRangeStart] = useState<number>(100.0);
-  const [similarityRangeEnd, setSimilarityRangeEnd] = useState<number>(99.9);
-  const [targetGroupsPerPage, setTargetGroupsPerPage] = useState<number>(100); // Default 100 (target, not strict)
+  // Load saved range from localStorage synchronously to avoid showing default values on refresh
+  const loadSavedRange = () => {
+    const session = storage.loadSession(subject);
+    if (session?.similarityRangeStart !== undefined && session?.similarityRangeEnd !== undefined) {
+      return {
+        start: session.similarityRangeStart,
+        end: session.similarityRangeEnd,
+        isManual: session.isManualRange ?? false,
+        targetGroups: session.targetGroupsPerPage ?? 100,
+        hasSaved: true
+      };
+    }
+    return {
+      start: 100.0,
+      end: 99.9,
+      isManual: false,
+      targetGroups: 100,
+      hasSaved: false
+    };
+  };
+  
+  const savedRange = loadSavedRange();
+  const [similarityRangeStart, setSimilarityRangeStart] = useState<number>(savedRange.start);
+  const [similarityRangeEnd, setSimilarityRangeEnd] = useState<number>(savedRange.end);
+  const [targetGroupsPerPage, setTargetGroupsPerPage] = useState<number>(savedRange.targetGroups);
   const [pageCompleted, setPageCompleted] = useState<boolean>(false);
   const [pageHistory, setPageHistory] = useState<Array<{ start: number; end: number }>>([]);
-  const [isManualRange, setIsManualRange] = useState<boolean>(false); // Track if range was manually adjusted
+  const [isManualRange, setIsManualRange] = useState<boolean>(savedRange.isManual); // Track if range was manually adjusted
   const rangeInitialized = useRef<boolean>(false);
+  const hasRestoredRangeRef = useRef<boolean>(savedRange.hasSaved); // Track if we restored a saved range (prevents recalculation)
   // Guard refs to prevent infinite loops
   const loadingStatusesRef = useRef<boolean>(false);
   const loadingMCQDataRef = useRef<boolean>(false);
@@ -186,20 +209,35 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   }, [subject, fileStatusContext]);
 
   // Recalculate selections when checkAllMode changes
+  // IMPORTANT: Preserve existing autoSelections (user modifications) - only apply auto-selections for missing values
   useEffect(() => {
     if (!initializing && groups.length > 0) {
       const session = storage.loadSession(subject);
       const metadata = session?.mcqMetadata || {};
       
-      const selections: { [groupIndex: number]: { [filename: string]: boolean } } = {};
-      
-      for (let groupIndex = 0; groupIndex < groups.length; groupIndex++) {
-        const groupFiles = groups[groupIndex].files;
-        const groupSelections = autoSelectBestMCQ(groupFiles, metadata, checkAllMode);
-        selections[groupIndex] = groupSelections;
-      }
-      
-      setAutoSelections(selections);
+      setAutoSelections(prev => {
+        const updated: { [groupIndex: number]: { [filename: string]: boolean } } = { ...prev };
+        
+        for (let groupIndex = 0; groupIndex < groups.length; groupIndex++) {
+          const groupFiles = groups[groupIndex].files;
+          const groupSelections = autoSelectBestMCQ(groupFiles, metadata, checkAllMode);
+          
+          // Preserve existing selections (user modifications), only add auto-selections for missing files
+          const existingSelections = updated[groupIndex] || {};
+          const merged: { [filename: string]: boolean } = { ...existingSelections };
+          
+          // Only apply auto-selections for files that don't have existing selections
+          for (const filename of groupFiles) {
+            if (!(filename in merged)) {
+              merged[filename] = groupSelections[filename] ?? false;
+            }
+          }
+          
+          updated[groupIndex] = merged;
+        }
+        
+        return updated;
+      });
     }
   }, [checkAllMode, groups, subject, autoSelectBestMCQ, initializing]);
 
@@ -232,17 +270,19 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
 
     // File statuses are now loaded via Context (no need to set local state)
     
-    // Load saved similarity range and targetGroupsPerPage from localStorage
+    // Load saved targetGroupsPerPage first (priority)
     const session = storage.loadSession(subject);
-    if (session?.similarityRangeStart !== undefined && session?.similarityRangeEnd !== undefined) {
-      setSimilarityRangeStart(session.similarityRangeStart);
-      setSimilarityRangeEnd(session.similarityRangeEnd);
-    }
     if (session?.targetGroupsPerPage !== undefined) {
       setTargetGroupsPerPage(session.targetGroupsPerPage);
     } else if (session?.maxGroupsPerPage !== undefined) {
       // Backward compatibility: migrate from maxGroupsPerPage
       setTargetGroupsPerPage(session.maxGroupsPerPage);
+    }
+    
+    // Load isManualRange flag (used to determine if range should be recalculated when targetGroupsPerPage changes)
+    // Note: Range and isManualRange are already loaded synchronously in initial state, so we just mark that we have a saved range
+    if (session?.similarityRangeStart !== undefined && session?.similarityRangeEnd !== undefined) {
+      hasRestoredRangeRef.current = true; // Mark that we have a saved range (already loaded in initial state)
     }
     
     // OPTIMIZED: Load metadata for ALL groups before auto-selection
@@ -300,17 +340,32 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     // Rule 1: Saved files → checked | Rule 2: Removed files → unchecked
     // Rule 3: Unknown files → select highest priority (hasYear > smallest fileNum)
     // Use the finalMetadata directly instead of reading from localStorage
-    const selections: { [groupIndex: number]: { [filename: string]: boolean } } = {};
-    
-    for (let groupIndex = 0; groupIndex < groups.length; groupIndex++) {
-      const groupFiles = groups[groupIndex].files;
+    // IMPORTANT: Preserve existing autoSelections (user modifications) - only apply auto-selections for missing values
+    setAutoSelections(prev => {
+      const updated: { [groupIndex: number]: { [filename: string]: boolean } } = { ...prev };
       
-      // Pass metadata and checkAllMode to autoSelectBestMCQ (uses Context internally)
-      const groupSelections = autoSelectBestMCQ(groupFiles, finalMetadata, checkAllMode);
-      selections[groupIndex] = groupSelections;
-    }
-    
-    setAutoSelections(selections);
+      for (let groupIndex = 0; groupIndex < groups.length; groupIndex++) {
+        const groupFiles = groups[groupIndex].files;
+        
+        // Pass metadata and checkAllMode to autoSelectBestMCQ (uses Context internally)
+        const groupSelections = autoSelectBestMCQ(groupFiles, finalMetadata, checkAllMode);
+        
+        // Preserve existing selections (user modifications), only add auto-selections for missing files
+        const existingSelections = updated[groupIndex] || {};
+        const merged: { [filename: string]: boolean } = { ...existingSelections };
+        
+        // Only apply auto-selections for files that don't have existing selections
+        for (const filename of groupFiles) {
+          if (!(filename in merged)) {
+            merged[filename] = groupSelections[filename] ?? false;
+          }
+        }
+        
+        updated[groupIndex] = merged;
+      }
+      
+      return updated;
+    });
     
     setInitializing(false);
   };
@@ -380,11 +435,21 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
       }
     }
     
-    // If we haven't reached a reasonable number of groups, include all remaining levels (last page)
+    // If we haven't reached a reasonable number of groups, check if we're at the end
+    // Only set to minLevel if we're truly at the last page (no more groups available)
     if (totalGroups < targetGroups * 0.5) {
-      rangeEnd = similarityLevels[similarityLevels.length - 1];
-      // Recalculate total groups for the full range
-      totalGroups = calculateGroupsInRange(rangeStart, rangeEnd).length;
+      const minLevel = similarityLevels[similarityLevels.length - 1];
+      const allRemainingGroups = calculateGroupsInRange(rangeStart, minLevel).length;
+      
+      // If there are groups available but less than target, include them all
+      // This ensures we show remaining groups even if less than target
+      if (allRemainingGroups > 0) {
+        rangeEnd = minLevel;
+        totalGroups = allRemainingGroups;
+      } else {
+        // Truly no more groups, return current range
+        // Don't change rangeEnd if we're already showing all available groups
+      }
     }
     
     return { start: rangeStart, end: rangeEnd };
@@ -458,14 +523,11 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   }, [similarityLevels, groupsBySimilarity, targetGroupsPerPage, calculateGroupsInRange]);
 
   // Get groups for current page (within current range)
-  // If range was manually adjusted, show ALL groups in range (no limit)
-  // If range was auto-calculated, limit to approximately targetGroupsPerPage
+  // Always show ALL groups in the selected range, no matter the count
   const getGroupsForCurrentPage = useCallback((): number[] => {
-    // If range was manually adjusted, show all groups (no limit)
-    // Otherwise, apply targetGroupsPerPage limit for auto-calculated ranges
-    const limit = isManualRange ? undefined : targetGroupsPerPage;
-    return calculateGroupsInRange(similarityRangeStart, similarityRangeEnd, limit);
-  }, [similarityRangeStart, similarityRangeEnd, targetGroupsPerPage, isManualRange, calculateGroupsInRange]);
+    // Always show all groups in range (no limit)
+    return calculateGroupsInRange(similarityRangeStart, similarityRangeEnd);
+  }, [similarityRangeStart, similarityRangeEnd, calculateGroupsInRange]);
 
   // Reorder groups to keep file appearances together
   // When a file appears in multiple groups, those groups should be consecutive
@@ -580,19 +642,35 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   }, [getGroupsForCurrentPage, reorderGroupsByFileAppearances]);
 
   // Initialize first page range on mount
+  // ALWAYS restore saved range if available, regardless of manual/auto flag
+  // This preserves user's position even after page refresh
+  // NOTE: Range is already loaded synchronously in initial state, this just verifies it's still valid
+  // NOTE: targetGroupsPerPage is NOT in deps - we only want to restore once, not recalculate when it changes
   useEffect(() => {
     if (similarityLevels.length > 0 && groupsBySimilarity && Object.keys(groupsBySimilarity).length > 0 && !rangeInitialized.current) {
-      // Check if we have saved range values in localStorage
       const session = storage.loadSession(subject);
-      if (session?.similarityRangeStart !== undefined && session?.similarityRangeEnd !== undefined) {
-        // Use saved range values
-        setSimilarityRangeStart(session.similarityRangeStart);
-        setSimilarityRangeEnd(session.similarityRangeEnd);
+      
+      // If we have a saved range (already loaded in initial state), verify it's still valid and mark as initialized
+      if (hasRestoredRangeRef.current && session?.similarityRangeStart !== undefined && session?.similarityRangeEnd !== undefined) {
+        // Verify the current state matches the saved range (it should, since we loaded it synchronously)
+        // If for some reason it doesn't match, restore it
+        const currentStart = similarityRangeStart;
+        const currentEnd = similarityRangeEnd;
+        if (Math.abs(currentStart - session.similarityRangeStart) > 0.001 || 
+            Math.abs(currentEnd - session.similarityRangeEnd) > 0.001) {
+          setSimilarityRangeStart(session.similarityRangeStart);
+          setSimilarityRangeEnd(session.similarityRangeEnd);
+          setIsManualRange(session.isManualRange ?? false);
+        }
         rangeInitialized.current = true;
         return;
       }
       
-      // Default first page: Calculate range based on targetGroupsPerPage (approximate)
+      // No saved range - mark that we didn't restore (allows recalculation if needed)
+      hasRestoredRangeRef.current = false;
+      
+      // Only if no saved range exists, calculate new range based on targetGroupsPerPage
+      // Use current targetGroupsPerPage value (already loaded from session in initializeGroups)
       const maxLevel = similarityLevels[0]; // Highest similarity
       const calculatedRange = calculateRangeFromTargetGroups(maxLevel, targetGroupsPerPage);
       
@@ -601,7 +679,62 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
       setIsManualRange(false); // Mark as auto-calculated (not manual)
       rangeInitialized.current = true;
     }
-  }, [similarityLevels, groupsBySimilarity, calculateRangeFromTargetGroups, subject, targetGroupsPerPage]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [similarityLevels, groupsBySimilarity, calculateRangeFromTargetGroups, subject]); // Range values checked inside, not in deps to avoid loops
+
+  // Recalculate range when targetGroupsPerPage changes (if range is auto-calculated, not manual)
+  // This handles cases where targetGroupsPerPage is changed after initial load
+  // IMPORTANT: Only recalculate if user explicitly changes targetGroupsPerPage, NOT on initial load
+  // CRITICAL: NEVER recalculate if a saved range exists (preserve user's position on refresh)
+  const prevTargetGroupsPerPageRef = useRef<number | undefined>(undefined);
+  
+  useEffect(() => {
+    if (similarityLevels.length > 0 && groupsBySimilarity && Object.keys(groupsBySimilarity).length > 0 && rangeInitialized.current) {
+      // ALWAYS check if saved range exists FIRST - if it does, NEVER recalculate (preserve user position)
+      // This check must happen BEFORE any other logic to prevent overwriting restored range
+      const session = storage.loadSession(subject);
+      const savedStart = session?.similarityRangeStart;
+      const savedEnd = session?.similarityRangeEnd;
+      const hasSavedRange = savedStart !== undefined && savedEnd !== undefined;
+      
+      // If we have a saved range, NEVER recalculate - preserve it at all costs
+      if (hasSavedRange) {
+        hasRestoredRangeRef.current = true;
+        
+        // Double-check: if current range doesn't match saved range, restore it
+        // This handles cases where recalculation might have already happened
+        if (Math.abs(similarityRangeStart - savedStart) > 0.001 || Math.abs(similarityRangeEnd - savedEnd) > 0.001) {
+          console.log('Restoring saved range from recalculation useEffect:', savedStart, savedEnd);
+          setSimilarityRangeStart(savedStart);
+          setSimilarityRangeEnd(savedEnd);
+        }
+        
+        // Update ref to track previous value (but don't recalculate)
+        prevTargetGroupsPerPageRef.current = targetGroupsPerPage;
+        return; // Exit early - never recalculate if saved range exists
+      }
+      
+      // Only recalculate if:
+      // 1. No saved range exists
+      // 2. Range is NOT manually adjusted
+      // 3. targetGroupsPerPage actually changed (not just initial load)
+      const targetChanged = prevTargetGroupsPerPageRef.current !== undefined && 
+                           prevTargetGroupsPerPageRef.current !== targetGroupsPerPage;
+      
+      if (!isManualRange && targetChanged) {
+        const maxLevel = similarityLevels[0]; // Highest similarity
+        const calculatedRange = calculateRangeFromTargetGroups(maxLevel, targetGroupsPerPage);
+        
+        setSimilarityRangeStart(calculatedRange.start);
+        setSimilarityRangeEnd(calculatedRange.end);
+        // Keep isManualRange as false (auto-calculated)
+      }
+      
+      // Update ref to track previous value
+      prevTargetGroupsPerPageRef.current = targetGroupsPerPage;
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [targetGroupsPerPage, similarityLevels, groupsBySimilarity, calculateRangeFromTargetGroups, isManualRange, subject]);
 
   // Update ref whenever similarityRangeStart changes
   useEffect(() => {
@@ -613,8 +746,8 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   const groupsInCurrentPage = getGroupsForCurrentPage();
   const totalGroupsInPage = groupsInCurrentPage.length;
 
-  // Use Context to load file statuses for current range
-  // If range was manually adjusted, load all groups; otherwise limit to targetGroupsPerPage
+      // Use Context to load file statuses for current range
+  // Always load ALL groups in range (no limit)
   const loadFileStatusesForRange = useCallback(async (start: number, end: number) => {
     // Guard: Prevent duplicate calls for same range
     if (lastLoadedRangeRef.current?.start === start && lastLoadedRangeRef.current?.end === end) {
@@ -629,9 +762,8 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     loadingStatusesRef.current = true;
     
     try {
-      // If range was manually adjusted, load all groups; otherwise limit to targetGroupsPerPage
-      const limit = isManualRange ? undefined : targetGroupsPerPage;
-      const groupsInRange = calculateGroupsInRange(start, end, limit);
+      // Always load all groups in range (no limit)
+      const groupsInRange = calculateGroupsInRange(start, end);
       const allFilenames = new Set<string>();
       
       // Collect all unique filenames in this range
@@ -653,10 +785,10 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     } finally {
       loadingStatusesRef.current = false;
     }
-  }, [groups, subject, calculateGroupsInRange, targetGroupsPerPage, isManualRange]); // Removed fileStatusContext from deps
+  }, [groups, subject, calculateGroupsInRange]); // Removed fileStatusContext from deps
 
   // Use Context to load MCQ data for current range
-  // If range was manually adjusted, load all groups; otherwise limit to targetGroupsPerPage
+  // Always load ALL groups in range (no limit)
   const loadMCQDataForRange = useCallback(async (start: number, end: number) => {
     // Guard: Prevent concurrent calls
     if (loadingMCQDataRef.current) {
@@ -666,9 +798,8 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     loadingMCQDataRef.current = true;
     
     try {
-      // If range was manually adjusted, load all groups; otherwise limit to targetGroupsPerPage
-      const limit = isManualRange ? undefined : targetGroupsPerPage;
-      const groupsInRange = calculateGroupsInRange(start, end, limit);
+      // Always load all groups in range (no limit)
+      const groupsInRange = calculateGroupsInRange(start, end);
       const allFilenames = new Set<string>();
       
       // Collect all unique filenames in this range
@@ -690,7 +821,7 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     } finally {
       loadingMCQDataRef.current = false;
     }
-  }, [groups, subject, calculateGroupsInRange, targetGroupsPerPage, isManualRange]); // Removed fileStatusContext from deps
+  }, [groups, subject, calculateGroupsInRange]); // Removed fileStatusContext from deps
 
   // Load statuses when range changes (always fetch from backend - single source of truth)
   useEffect(() => {
@@ -729,18 +860,30 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     lastLoadedRangeRef.current = null;
   }, [similarityRangeStart, similarityRangeEnd]);
 
-  // Save similarity range and targetGroupsPerPage to localStorage whenever they change
+  // Save similarity range, targetGroupsPerPage, and isManualRange to localStorage whenever they change
+  // ALWAYS save to preserve state across page refreshes
   useEffect(() => {
     if (similarityRangeStart !== undefined && similarityRangeEnd !== undefined) {
-      const session = storage.loadSession(subject);
-      if (session) {
-        session.similarityRangeStart = similarityRangeStart;
-        session.similarityRangeEnd = similarityRangeEnd;
-        session.targetGroupsPerPage = targetGroupsPerPage;
-        storage.saveSession(session);
+      let session = storage.loadSession(subject);
+      
+      // Create session if it doesn't exist (ensures range is always saved)
+      if (!session) {
+        session = {
+          subject,
+          currentGroupIndex: 0,
+          completedGroups: [],
+          checkedFiles: {},
+          lastUpdated: Date.now()
+        };
       }
+      
+      session.similarityRangeStart = similarityRangeStart;
+      session.similarityRangeEnd = similarityRangeEnd;
+      session.targetGroupsPerPage = targetGroupsPerPage;
+      session.isManualRange = isManualRange; // Save whether range was manually adjusted
+      storage.saveSession(session);
     }
-  }, [similarityRangeStart, similarityRangeEnd, targetGroupsPerPage, subject]);
+  }, [similarityRangeStart, similarityRangeEnd, targetGroupsPerPage, isManualRange, subject]);
 
   // Detect conflicts and appearance counts for current page
   // Use reordered groups so appearance order matches display order
@@ -939,11 +1082,37 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   const groupsReadyForSubmit = allGroupsHaveAutoSelections();
 
   // Check if there's a next page
-  const hasNextPage = () => {
-    if (similarityLevels.length === 0) return false;
+  // Fixed: Check ALL groups in the range, not just limited ones
+  const hasNextPage = useCallback(() => {
+    if (similarityLevels.length === 0 || groups.length === 0) {
+      return false;
+    }
     const minLevel = similarityLevels[similarityLevels.length - 1];
-    return similarityRangeEnd > minLevel;
-  };
+    
+    // Simple check: if end is greater than minLevel, there's definitely a next page
+    if (similarityRangeEnd > minLevel) {
+      return true;
+    }
+    
+    // If we're at minLevel, check if there are more groups available
+    // Get ALL groups in current range (no limit) to check properly
+    const allGroupsInCurrentRange = calculateGroupsInRange(similarityRangeStart, similarityRangeEnd);
+    const currentPageGroupIndices = new Set(allGroupsInCurrentRange);
+    
+    // Check if there are any groups NOT in current range with similarity less than current range end
+    for (let i = 0; i < groups.length; i++) {
+      if (!currentPageGroupIndices.has(i)) {
+        const group = groups[i];
+        const roundedSimilarity = Math.round(group.max_similarity * 1000) / 10;
+        // If there's a group with similarity less than current range end, there's a next page
+        if (roundedSimilarity < similarityRangeEnd) {
+          return true;
+        }
+      }
+    }
+    
+    return false;
+  }, [similarityLevels, groups, similarityRangeStart, similarityRangeEnd, calculateGroupsInRange]);
 
   // Check if there's a previous page
   const hasPreviousPage = () => {
@@ -951,7 +1120,13 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   };
 
   const goToNextPage = () => {
-    if (!hasNextPage()) return;
+    if (!hasNextPage()) {
+      console.warn('goToNextPage: hasNextPage() returned false');
+      return;
+    }
+    
+    console.log('goToNextPage: Starting navigation');
+    console.log('Current range:', similarityRangeStart, '-', similarityRangeEnd);
     
     // Save current page to history
     setPageHistory(prev => [...prev, { start: similarityRangeStart, end: similarityRangeEnd }]);
@@ -960,21 +1135,65 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     // This ensures continuity (no gaps) while bringing approximately the target number of groups
     const minLevel = similarityLevels.length > 0 ? similarityLevels[similarityLevels.length - 1] : 85.0;
     
-    // Start exactly where current range ends (continuous, no gaps)
-    const nextStart = similarityRangeEnd;
+    // Determine next start point
+    let nextStart = similarityRangeEnd;
+    
+    // If current range start equals end (e.g., 100 - 100), we've shown all groups at that level
+    // Start from the next level down
+    if (Math.abs(similarityRangeStart - similarityRangeEnd) < 0.01) {
+      // Find the next similarity level below current end
+      for (let i = 0; i < similarityLevels.length; i++) {
+        if (similarityLevels[i] < similarityRangeEnd) {
+          nextStart = similarityLevels[i];
+          console.log('Range start == end, using next level:', nextStart);
+          break;
+        }
+      }
+    }
+    
+    // If current end is at minLevel, find the next lower similarity level that has groups
+    if (Math.abs(similarityRangeEnd - minLevel) < 0.01) {
+      // Find the lowest similarity level that has groups with similarity less than current end
+      let nextAvailableLevel = minLevel;
+      for (let i = 0; i < groups.length; i++) {
+        const group = groups[i];
+        const roundedSimilarity = Math.round(group.max_similarity * 1000) / 10;
+        if (roundedSimilarity < similarityRangeEnd && roundedSimilarity < nextAvailableLevel) {
+          nextAvailableLevel = roundedSimilarity;
+        }
+      }
+      
+      // If we found a lower level, use it; otherwise we're truly at the end
+      if (nextAvailableLevel < minLevel) {
+        nextStart = nextAvailableLevel;
+        console.log('At minLevel, found next available:', nextStart);
+      } else {
+        // No more groups available
+        console.log('No more groups available');
+        return;
+      }
+    }
+    
+    console.log('Calculating next range from:', nextStart, 'with target:', targetGroupsPerPage);
     
     // Calculate range from nextStart that brings approximately targetGroupsPerPage groups
     const nextRange = calculateRangeFromTargetGroups(nextStart, targetGroupsPerPage);
+    console.log('Calculated next range:', nextRange);
     
     // Ensure we don't go below minLevel
     if (nextRange.end < minLevel) {
       nextRange.end = minLevel;
     }
     
+    console.log('Setting new range:', nextRange.start, '-', nextRange.end);
+    
+    // Update the range - this will trigger re-render and show new groups
     setSimilarityRangeStart(nextRange.start);
     setSimilarityRangeEnd(nextRange.end);
     setIsManualRange(false); // Mark as auto-calculated (not manual)
     setPageCompleted(false);
+    
+    console.log('Range updated, should trigger re-render');
   };
 
   const goToPreviousPage = () => {
@@ -1255,8 +1474,14 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
       let totalNewlyAddedToSaved = 0; // Files newly added to saved_db (from unknown or removed)
       let totalGroupsSubmitted = 0;
       
-      // Submit all groups in current page
-      for (const groupIndex of groupsInPage) {
+      // Determine batch size based on total number of groups
+      const totalGroups = groupsInPage.length;
+      const batchSize = totalGroups > 505 ? 30 : 5;
+      
+      console.log(`Submitting ${totalGroups} groups with batch size of ${batchSize}`);
+      
+      // Helper function to process a single group
+      const processGroup = async (groupIndex: number) => {
         const group = groups[groupIndex];
         
         // Build checkedFiles list based on final state, not just this group's selection
@@ -1274,7 +1499,6 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
         }
         
         const response = await api.submitGroup(subject, groupIndex, checkedFiles);
-        totalGroupsSubmitted++;
         
         // Update Context after each group submit based on final state
         for (const filename of group.files) {
@@ -1286,17 +1510,6 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
           fileStatusContext.setFileChecked(filename, finalState);
         }
         
-        // Accumulate statistics
-        if (response.moved_to_removed) {
-          totalMovedToRemoved += response.moved_to_removed;
-        }
-        if (response.unchecked_from_saved) {
-          totalUncheckedFromSaved += response.unchecked_from_saved;
-        }
-        if (response.newly_added_to_saved) {
-          totalNewlyAddedToSaved += response.newly_added_to_saved;
-        }
-        
         console.log(`Group ${groupIndex} submitted:`, {
           moved_to_removed: response.moved_to_removed,
           unchecked_from_saved: response.unchecked_from_saved,
@@ -1304,6 +1517,38 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
           saved_count: response.saved_count,
           removed_count: response.removed_count
         });
+        
+        return response;
+      };
+      
+      // Process groups in batches
+      for (let i = 0; i < groupsInPage.length; i += batchSize) {
+        const batch = groupsInPage.slice(i, i + batchSize);
+        const batchNumber = Math.floor(i / batchSize) + 1;
+        const totalBatches = Math.ceil(groupsInPage.length / batchSize);
+        
+        console.log(`Processing batch ${batchNumber}/${totalBatches} (${batch.length} groups)`);
+        
+        // Process all groups in the current batch in parallel
+        const batchPromises = batch.map(groupIndex => processGroup(groupIndex));
+        const batchResponses = await Promise.all(batchPromises);
+        
+        // Accumulate statistics from all responses in this batch
+        for (const response of batchResponses) {
+          totalGroupsSubmitted++;
+          
+          if (response.moved_to_removed) {
+            totalMovedToRemoved += response.moved_to_removed;
+          }
+          if (response.unchecked_from_saved) {
+            totalUncheckedFromSaved += response.unchecked_from_saved;
+          }
+          if (response.newly_added_to_saved) {
+            totalNewlyAddedToSaved += response.newly_added_to_saved;
+          }
+        }
+        
+        console.log(`Batch ${batchNumber}/${totalBatches} completed. Total groups submitted so far: ${totalGroupsSubmitted}`);
       }
       
       console.log(`Total - Moved to removed: ${totalMovedToRemoved}, Unchecked from saved: ${totalUncheckedFromSaved}, Newly added to saved: ${totalNewlyAddedToSaved}, Groups: ${totalGroupsSubmitted}`);
@@ -1352,19 +1597,43 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
         });
         
         // Calculate next page: start from currentEnd and expand until approximately targetGroupsPerPage groups
+        // Always calculate next range, even if there are no more groups (to show what it would be)
         let nextRange: { start: number; end: number } | null = null;
         let hasNext = false;
         
-        if (hasNextPage()) {
-          const minLevel = similarityLevels.length > 0 ? similarityLevels[similarityLevels.length - 1] : 85.0;
-          const nextStart = similarityRangeEnd;
-          const calculatedNext = calculateRangeFromTargetGroups(nextStart, targetGroupsPerPage);
-          
-          if (calculatedNext.end >= minLevel) {
-            nextRange = calculatedNext;
-            hasNext = true;
+        const minLevel = similarityLevels.length > 0 ? similarityLevels[similarityLevels.length - 1] : 85.0;
+        
+        // Always calculate next range (even if hasNextPage is false)
+        // Start exactly where current range ends (continuous, no gaps)
+        let nextStart = similarityRangeEnd;
+        
+        // If current end is at minLevel, find the next lower similarity level that has groups
+        if (Math.abs(similarityRangeEnd - minLevel) < 0.01) {
+          // Find the lowest similarity level that has groups with similarity less than current end
+          let nextAvailableLevel = minLevel;
+          for (let i = 0; i < groups.length; i++) {
+            const group = groups[i];
+            const roundedSimilarity = Math.round(group.max_similarity * 1000) / 10;
+            if (roundedSimilarity < similarityRangeEnd && roundedSimilarity < nextAvailableLevel) {
+              nextAvailableLevel = roundedSimilarity;
+            }
           }
+          
+          // If we found a lower level, use it; otherwise calculate theoretical next range
+          if (nextAvailableLevel < minLevel) {
+            nextStart = nextAvailableLevel;
+          }
+          // If no lower level found, still calculate theoretical next range starting from minLevel
         }
+        
+        // Calculate next range (always, even if no more groups)
+        const calculatedNext = calculateRangeFromTargetGroups(nextStart, targetGroupsPerPage);
+        
+        // Check if there are actually more groups available
+        hasNext = hasNextPage();
+        
+        // Always set nextRange (even if hasNext is false, to show what it would be)
+        nextRange = calculatedNext;
         
         // Set next page info and start loading in background
         setNextPageInfo({
@@ -1505,6 +1774,15 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
                     <p className="text-sm text-gray-700">
                       Next page ready: {nextPageInfo.nextRange.start.toFixed(2)}% - {nextPageInfo.nextRange.end.toFixed(2)}%
                     </p>
+                  ) : nextPageInfo.nextRange ? (
+                    <div className="space-y-1">
+                      <p className="text-sm text-gray-700 font-semibold">
+                        ✓ All pages completed! No more groups to review.
+                      </p>
+                      <p className="text-sm text-gray-600">
+                        Next similarity range would be: {nextPageInfo.nextRange.start.toFixed(2)}% - {nextPageInfo.nextRange.end.toFixed(2)}%
+                      </p>
+                    </div>
                   ) : (
                     <p className="text-sm text-gray-700 font-semibold">
                       ✓ All pages completed! No more groups to review.
@@ -1681,70 +1959,17 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
                 {autoScrollEnabled ? (autoScrollActive ? 'ON' : 'PAUSED') : 'OFF'}
               </span>
             </div>
-            <button
-              onClick={goToPreviousPage}
-              disabled={!hasPreviousPage()}
-              className="px-4 py-2 bg-gray-300 hover:bg-gray-400 disabled:bg-gray-200 disabled:cursor-not-allowed rounded-lg font-semibold"
-            >
-              ← Previous Page
-            </button>
-            
-            <button
-              onClick={goToNextPage}
-              disabled={!hasNextPage()}
-              className="px-4 py-2 bg-gray-300 hover:bg-gray-400 disabled:bg-gray-200 disabled:cursor-not-allowed rounded-lg font-semibold"
-            >
-              Next Page →
-            </button>
           </div>
         </div>
         
-        {/* Range Controls and Target Groups Selector */}
+        {/* Range Controls */}
         {similarityLevels.length > 0 && (
           <div className="mt-4 mb-4">
-            {/* Target Groups Per Page Selector */}
-            <div className="flex items-center gap-4 bg-blue-50 border border-blue-200 rounded-lg p-4 mb-4">
-              <div className="flex items-center gap-3">
-                <label className="text-sm font-semibold text-gray-700">Target Groups Per Page:</label>
-                <select
-                  value={targetGroupsPerPage}
-                  onChange={(e) => {
-                    const newTarget = parseInt(e.target.value);
-                    setTargetGroupsPerPage(newTarget);
-                    // Recalculate current range based on new target (preserve current start position)
-                    const currentStart = currentRangeStartRef.current;
-                    const recalculatedRange = calculateRangeFromTargetGroups(currentStart, newTarget);
-                    setSimilarityRangeStart(recalculatedRange.start);
-                    setSimilarityRangeEnd(recalculatedRange.end);
-                    setIsManualRange(false); // Mark as auto-calculated (not manual)
-                    setPageHistory([]);
-                    setPageCompleted(false);
-                  }}
-                  className="px-3 py-1 border border-gray-300 rounded-lg bg-white text-gray-700 font-semibold focus:outline-none focus:ring-2 focus:ring-blue-500"
-                >
-                  <option value={100}>100</option>
-                  <option value={200}>200</option>
-                  <option value={300}>300</option>
-                </select>
-                <span className="text-xs text-gray-500">(approximate, not strict)</span>
-              </div>
-              <div className="flex-1">
-                <span className="text-sm text-gray-600">
-                  Showing <span className="font-bold text-blue-600">{totalGroupsInPage}</span> / <span className="font-semibold text-gray-700">{groups.length}</span> groups
-                  {similarityRangeStart !== undefined && similarityRangeEnd !== undefined && (
-                    <span className="text-gray-500">
-                      {' '}(Range: {similarityRangeStart.toFixed(2)}% - {similarityRangeEnd.toFixed(2)}%)
-                    </span>
-                  )}
-                </span>
-              </div>
-            </div>
-
             {/* Similarity Range Sliders */}
             <div className="bg-purple-50 border border-purple-200 rounded-lg p-4">
               <div className="mb-3">
                 <span className="text-sm text-gray-600">
-                  Adjust similarity range manually (or use Next Page for auto-calculation)
+                  Adjust similarity range manually
                 </span>
               </div>
           <div className="mt-4">

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which religion is considered the third largest in the world after Christianity and Islam?",
+      "options": {
+        "a": "Buddhism",
+        "b": "Hinduism",
+        "c": "Judaism",
+        "d": "Sikhism"
+      },
+      "one_liner": "Following Christianity and Islam, the world's third largest religion by number of adherents is **Hinduism**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

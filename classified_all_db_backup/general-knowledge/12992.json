@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which parallel separates North Korea and South Korea?",
+      "options": {
+        "a": "17th Parallel",
+        "b": "38th Parallel",
+        "c": "49th Parallel",
+        "d": "24th Parallel"
+      },
+      "one_liner": "The 38th Parallel is the boundary line that separates **North Korea and South Korea**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

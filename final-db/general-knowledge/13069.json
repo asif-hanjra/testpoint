@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which book by Napolean Hill, published in 1937, is among the most read books in the world?",
+      "options": {
+        "a": "Think and Grow Rich",
+        "b": "Into Thin Air",
+        "c": "The Alchemist",
+        "d": "The Holy Bible"
+      },
+      "one_liner": "**Think and Grow Rich**, published in **1937** by **Napolean Hill**, is among the most read books globally.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

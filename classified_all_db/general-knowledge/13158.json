@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How long is the penalty area in football, measured in meters?",
+      "options": {
+        "a": "12 meters",
+        "b": "16.5 meters",
+        "c": "18 meters",
+        "d": "20 meters"
+      },
+      "one_liner": "The penalty area in football is **16.5 meters** long.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

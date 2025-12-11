@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are all cricket terms?",
+      "options": {
+        "a": "Toss, Run, Wicket, Pitch, Stump",
+        "b": "Goal, Net, Referee, Corner, Offside",
+        "c": "Serve, Smash, Net, Deuce, Ace",
+        "d": "Dribble, Basket, Foul, Rebound, Dunk"
+      },
+      "one_liner": "Terms like **Toss, Run, Wicket, Pitch, and Stump** are all associated with cricket.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

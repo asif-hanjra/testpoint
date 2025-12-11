@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which international organization, along with 19 countries, forms the G-20 forum?",
+      "options": {
+        "a": "African Union",
+        "b": "ASEAN",
+        "c": "European Union",
+        "d": "United Nations"
+      },
+      "one_liner": "The G-20 forum includes **the European Union** alongside 19 countries as its members.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

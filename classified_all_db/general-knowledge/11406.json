@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a term used in table tennis?",
+      "options": {
+        "a": "Volley",
+        "b": "Chop",
+        "c": "Drive spin",
+        "d": "None of these"
+      },
+      "one_liner": "Terms like volley, late service, drive spin, half volley, back hand, and chop are all used in **table tennis**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Khushal Khan Khattak born?",
+      "options": {
+        "a": "Peshawar",
+        "b": "Akora, Nowshera District",
+        "c": "Kabul",
+        "d": "Quetta"
+      },
+      "one_liner": "Khushal Khan Khattak was born in **Akora, Nowshera District, Khyber Pakhtunkhwa**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khushal Khan Khattak",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Khushal Khan Khattak",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

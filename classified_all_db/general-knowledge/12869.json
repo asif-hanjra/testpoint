@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the 29th Winter Universiade youth games held?",
+      "options": {
+        "a": "Krasnoyarsk",
+        "b": "Sochi",
+        "c": "Moscow",
+        "d": "St. Petersburg"
+      },
+      "one_liner": "The 29th Winter Universiade youth games took place in **Krasnoyarsk**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

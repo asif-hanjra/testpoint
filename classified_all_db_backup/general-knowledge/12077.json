@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many states are there in the United States of America?",
+      "options": {
+        "a": "48",
+        "b": "49",
+        "c": "50",
+        "d": "51"
+      },
+      "one_liner": "The United States of America is comprised of **50 states**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

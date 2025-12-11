@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is Kashgar a city in?",
+      "options": {
+        "a": "India",
+        "b": "Pakistan",
+        "c": "China",
+        "d": "Afghanistan"
+      },
+      "one_liner": "Kashgar is a city located in **China**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "China",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

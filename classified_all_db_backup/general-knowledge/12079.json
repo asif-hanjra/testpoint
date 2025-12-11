@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which UN organ is responsible for dealing with peacekeeping missions?",
+      "options": {
+        "a": "General Assembly",
+        "b": "Security Council",
+        "c": "Economic and Social Council",
+        "d": "International Court of Justice"
+      },
+      "one_liner": "The UN organ responsible for handling peacekeeping missions is the **Security Council**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

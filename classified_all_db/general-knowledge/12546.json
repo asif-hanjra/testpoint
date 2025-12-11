@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is considered the most populous in the world?",
+      "options": {
+        "a": "Tokyo",
+        "b": "Mumbai",
+        "c": "Shanghai",
+        "d": "New York"
+      },
+      "one_liner": "Shanghai holds the distinction of being the **most populous city in the world**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

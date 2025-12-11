@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the national animal of Scotland?",
+      "options": {
+        "a": "Lion",
+        "b": "Unicorn",
+        "c": "Eagle",
+        "d": "None of these"
+      },
+      "one_liner": "The national animal of Scotland is the mythical creature, the **Unicorn**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Aeroflot is the airline of which country?",
+      "options": {
+        "a": "Ukraine",
+        "b": "Russia",
+        "c": "Poland",
+        "d": "Kazakhstan"
+      },
+      "one_liner": "Aeroflot is the national airline of **Russia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

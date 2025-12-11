@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose rule was the Blue Mosque constructed?",
+      "options": {
+        "a": "Suleiman the Magnificent",
+        "b": "Mehmed II",
+        "c": "Ahmed I",
+        "d": "Selim II"
+      },
+      "one_liner": "The Blue Mosque was constructed during the rule of **Ahmed I**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blue Mosque: Istanbul",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Blue Mosque: Istanbul",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

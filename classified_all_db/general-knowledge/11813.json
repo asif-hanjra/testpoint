@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the meaning of the term \"Subway\"?",
+      "options": {
+        "a": "Overhead bridge",
+        "b": "Underground path or down path",
+        "c": "Highway",
+        "d": "None of these"
+      },
+      "one_liner": "The term \"Subway\" refers to an **underground path or down path**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

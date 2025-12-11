@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is called the Great Britain of the Pacific?",
+      "options": {
+        "a": "Japan",
+        "b": "Australia",
+        "c": "New Zealand",
+        "d": "Philippines"
+      },
+      "one_liner": "Japan is often called the **Great Britain of the Pacific** due to its island status and economic power in Asia.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

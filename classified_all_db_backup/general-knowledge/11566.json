@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who designed the Statue of Liberty?",
+      "options": {
+        "a": "Gustave Eiffel",
+        "b": "Frederic Auguste Bartholdi",
+        "c": "Auguste Rodin",
+        "d": "None of these"
+      },
+      "one_liner": "The Statue of Liberty was designed by the French sculptor **Frederic Auguste Bartholdi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

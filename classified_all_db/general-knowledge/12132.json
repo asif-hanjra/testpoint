@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "From which country did Algeria gain its independence in 1962?",
+      "options": {
+        "a": "Britain",
+        "b": "Italy",
+        "c": "France",
+        "d": "Spain"
+      },
+      "one_liner": "Algeria gained its independence from **France** in 1962.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

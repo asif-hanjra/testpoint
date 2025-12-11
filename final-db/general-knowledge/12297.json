@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the minimum level of water in soil called?",
+      "options": {
+        "a": "Field Capacity",
+        "b": "Wilting Point",
+        "c": "Saturation Point",
+        "d": "None of these"
+      },
+      "one_liner": "The minimum level of water present in soil is known as the **Wilting Point**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

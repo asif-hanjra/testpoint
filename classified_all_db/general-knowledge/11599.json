@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the official currency of China?",
+      "options": {
+        "a": "Yen",
+        "b": "Won",
+        "c": "Renminbi",
+        "d": "Dollar"
+      },
+      "one_liner": "The official currency of China is the **Renminbi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

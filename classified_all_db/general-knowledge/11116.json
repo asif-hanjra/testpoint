@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many seats are reserved for women in the National Assembly of Pakistan?",
+      "options": {
+        "a": "50",
+        "b": "60",
+        "c": "70",
+        "d": "None of these"
+      },
+      "one_liner": "The National Assembly of Pakistan reserves **60** seats specifically for women.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

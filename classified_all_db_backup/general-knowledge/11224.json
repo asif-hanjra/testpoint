@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did the United Nations officially come into existence?",
+      "options": {
+        "a": "10 December 1948",
+        "b": "24 October 1945",
+        "c": "15 August 1947",
+        "d": "1 January 1946"
+      },
+      "one_liner": "The United Nations officially came into existence on **24 October 1945**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

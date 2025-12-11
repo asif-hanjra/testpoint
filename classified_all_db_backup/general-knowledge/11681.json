@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard length range of a tennis racket?",
+      "options": {
+        "a": "25-27 inches",
+        "b": "27-29 inches",
+        "c": "29-31 inches",
+        "d": "None of these"
+      },
+      "one_liner": "The standard length range of a tennis racket is **27 to 29 inches**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

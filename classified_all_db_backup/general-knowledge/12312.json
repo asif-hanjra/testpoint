@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What remarkable feat did MM Alam achieve during the Indo-Pakistani War of 1965?",
+      "options": {
+        "a": "Shot five planes in less than a minute",
+        "b": "Led a ground assault",
+        "c": "Captured an enemy base",
+        "d": "None of these"
+      },
+      "one_liner": "MM Alam achieved the remarkable feat of shooting down **five planes in less than a minute** during the Indo-Pakistani War of 1965.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

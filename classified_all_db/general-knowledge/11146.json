@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which century was the Taj Mahal built?",
+      "options": {
+        "a": "16th century",
+        "b": "17th century",
+        "c": "18th century",
+        "d": "19th century"
+      },
+      "one_liner": "The Taj Mahal was constructed during the **17th century**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

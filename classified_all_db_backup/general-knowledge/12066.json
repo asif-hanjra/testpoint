@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of Human Rights Watch (HRW) located?",
+      "options": {
+        "a": "London",
+        "b": "Geneva",
+        "c": "New York",
+        "d": "Paris"
+      },
+      "one_liner": "The headquarters of Human Rights Watch (HRW) is situated in **New York**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

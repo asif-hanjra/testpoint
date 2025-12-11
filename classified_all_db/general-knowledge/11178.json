@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the United States launch a strike in Afghanistan?",
+      "options": {
+        "a": "11 September 2001",
+        "b": "7 October 2001",
+        "c": "15 August 2001",
+        "d": "25 December 2001"
+      },
+      "one_liner": "The United States launched a strike in Afghanistan on **7 October 2001**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

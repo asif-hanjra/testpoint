@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What position did Sohail Abbas play in field hockey?",
+      "options": {
+        "a": "Goalkeeper",
+        "b": "Forward",
+        "c": "Midfielder",
+        "d": "Defender"
+      },
+      "one_liner": "Sohail Abbas, the top goal scorer in field hockey history, played as a **defender**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

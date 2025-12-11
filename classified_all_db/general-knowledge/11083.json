@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "From which country did the Black Lives Matter movement originate?",
+      "options": {
+        "a": "United Kingdom",
+        "b": "South Africa",
+        "c": "United States",
+        "d": "Canada"
+      },
+      "one_liner": "The Black Lives Matter movement began in the **United States**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country won the ICC Men's T20 World Cup in 2021?",
+      "options": {
+        "a": "Australia",
+        "b": "India",
+        "c": "England",
+        "d": "Pakistan"
+      },
+      "one_liner": "The winner of the ICC Men's T20 World Cup in 2021 was **Australia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In 2018, which country was the world's fifth-largest exporter of liquefied natural gas (LNG)?",
+      "options": {
+        "a": "Qatar",
+        "b": "Australia",
+        "c": "Nigeria",
+        "d": "Russia"
+      },
+      "one_liner": "In 2018, Nigeria was the **world's fifth-largest exporter of liquefied natural gas (LNG)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

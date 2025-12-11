@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the 42nd president of the United States from 1993 to 2001?",
+      "options": {
+        "a": "George W. Bush",
+        "b": "William Jefferson Clinton",
+        "c": "Barack Obama",
+        "d": "Ronald Reagan"
+      },
+      "one_liner": "The 42nd president of the United States, serving from 1993 to 2001, was **William Jefferson Clinton**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the full name of the Sufi saint known as Baba Farid?",
+      "options": {
+        "a": "Farid-ud-Din Masud Ganjshakar",
+        "b": "Nizamuddin Auliya",
+        "c": "Bahauddin Zakariya",
+        "d": "None of these"
+      },
+      "one_liner": "The full name of Baba Farid is **Farid-ud-Din Masud Ganjshakar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

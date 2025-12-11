@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country does the news agency KUNA belong to?",
+      "options": {
+        "a": "Kuwait",
+        "b": "Qatar",
+        "c": "Oman",
+        "d": "Bahrain"
+      },
+      "one_liner": "KUNA is the official news agency of **Kuwait**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

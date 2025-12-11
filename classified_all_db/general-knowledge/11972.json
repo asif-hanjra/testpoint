@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard height of the tennis net?",
+      "options": {
+        "a": "1.0 meter",
+        "b": "0.9 meter",
+        "c": "1.2 meters",
+        "d": "None of these"
+      },
+      "one_liner": "The standard height of the tennis net is **0.9 meters (3 feet)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

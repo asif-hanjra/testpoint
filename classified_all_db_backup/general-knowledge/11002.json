@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following organizations is not a part of the United Nations?",
+      "options": {
+        "a": "World Trade Organization",
+        "b": "UNESCO",
+        "c": "UNICEF",
+        "d": "WHO"
+      },
+      "one_liner": "Unlike many international organizations, the **World Trade Organization** is not a part of the United Nations system.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary responsibility of the UN Security Council under the UN Charter?",
+      "options": {
+        "a": "Overseeing economic development",
+        "b": "Maintenance of international peace and security",
+        "c": "Supervising humanitarian aid",
+        "d": "Managing cultural exchanges"
+      },
+      "one_liner": "The UN Security Council's primary responsibility under the Charter is the maintenance of **international peace and security**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

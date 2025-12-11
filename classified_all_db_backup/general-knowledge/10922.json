@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country's special forces conducted the raid that killed Osama bin Laden in Abbottabad?",
+      "options": {
+        "a": "Pakistan",
+        "b": "Russia",
+        "c": "United States",
+        "d": "United Kingdom"
+      },
+      "one_liner": "The raid that killed Osama bin Laden in Abbottabad was conducted by **United States Special Forces**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

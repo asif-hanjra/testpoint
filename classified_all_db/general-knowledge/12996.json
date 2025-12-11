@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is considered the smallest sea in the world?",
+      "options": {
+        "a": "Baltic Sea",
+        "b": "Red Sea",
+        "c": "Arabian Sea",
+        "d": "Caspian Sea"
+      },
+      "one_liner": "The Baltic Sea is recognized as the **smallest sea in the world**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

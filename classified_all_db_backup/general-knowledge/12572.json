@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Statue of Liberty was gifted to the United States on which occasion?",
+      "options": {
+        "a": "End of World War I",
+        "b": "American Independence",
+        "c": "French Revolution",
+        "d": "None of these"
+      },
+      "one_liner": "The Statue of Liberty was presented as a gift to commemorate **American Independence**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

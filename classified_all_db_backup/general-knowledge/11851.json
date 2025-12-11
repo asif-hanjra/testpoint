@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which decade has the United Nations General Assembly declared as the decade on ecosystem restoration?",
+      "options": {
+        "a": "2011-2020",
+        "b": "2021-2030",
+        "c": "2001-2010",
+        "d": "2031-2040"
+      },
+      "one_liner": "The United Nations General Assembly has designated the years **2021-2030** as the decade on ecosystem restoration.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

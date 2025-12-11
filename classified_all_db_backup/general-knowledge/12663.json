@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The Watergate scandal is primarily associated with which activity?",
+      "options": {
+        "a": "Spying",
+        "b": "Tax evasion",
+        "c": "Bribery",
+        "d": "Money laundering"
+      },
+      "one_liner": "The Watergate scandal is famously linked to **spying** activities during the Nixon administration.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

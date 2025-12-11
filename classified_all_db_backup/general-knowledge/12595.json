@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the United Nations founded?",
+      "options": {
+        "a": "14 August 1947",
+        "b": "26 January 1950",
+        "c": "24 October 1945",
+        "d": "1 January 1942"
+      },
+      "one_liner": "The United Nations was established on **24 October 1945** as an international organization promoting peace and cooperation.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

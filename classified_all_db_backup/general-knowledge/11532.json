@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the artist associated with painting the Mona Lisa?",
+      "options": {
+        "a": "Michelangelo",
+        "b": "Leonardo da Vinci",
+        "c": "Raphael",
+        "d": "None of these"
+      },
+      "one_liner": "The famous painting Mona Lisa is associated with the renowned artist **Leonardo da Vinci**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

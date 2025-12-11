@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Yemen crisis begin?",
+      "options": {
+        "a": "2010",
+        "b": "2011",
+        "c": "2012",
+        "d": "2014"
+      },
+      "one_liner": "The Yemen crisis began in **2011**, marking the start of ongoing conflict in the country.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Arab League",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

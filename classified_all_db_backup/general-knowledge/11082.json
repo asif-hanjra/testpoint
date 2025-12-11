@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the full name of the famous British professional boxer known as Fury?",
+      "options": {
+        "a": "Tyson Luke Fury",
+        "b": "Anthony Joshua",
+        "c": "Lennox Lewis",
+        "d": "David Haye"
+      },
+      "one_liner": "The full name of the famous British professional boxer known as Fury is **Tyson Luke Fury**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

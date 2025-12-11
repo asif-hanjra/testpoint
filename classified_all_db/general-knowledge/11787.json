@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the North Atlantic Treaty Organization (NATO) established?",
+      "options": {
+        "a": "1945",
+        "b": "1949",
+        "c": "1955",
+        "d": "1960"
+      },
+      "one_liner": "The North Atlantic Treaty Organization (NATO) was established in **1949**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "North Atlantic Treaty Organization (NATO)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "North Atlantic Treaty Organization (NATO)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does ANC stand for in the context of South African politics?",
+      "options": {
+        "a": "African National Committee",
+        "b": "African National Congress",
+        "c": "African National Coalition",
+        "d": "None of these"
+      },
+      "one_liner": "In South African politics, ANC stands for **African National Congress**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who began the construction of the Colosseum?",
+      "options": {
+        "a": "Augustus",
+        "b": "Nero",
+        "c": "Vespasian",
+        "d": "Trajan"
+      },
+      "one_liner": "Construction of the Colosseum began under the Roman Emperor **Vespasian** in 72 AD.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Colosseum",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Colosseum",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who conferred the highest Chinese scientific award to Pakistani Scientist Prof. Dr. Atta-ur-Rahman?",
+      "options": {
+        "a": "President of Pakistan",
+        "b": "President of China",
+        "c": "Prime Minister of China",
+        "d": "None of these"
+      },
+      "one_liner": "The highest Chinese scientific award was conferred to Prof. Dr. Atta-ur-Rahman by the **President of China**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

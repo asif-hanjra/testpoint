@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How far is the front service line from the net in badminton?",
+      "options": {
+        "a": "1.5 meters",
+        "b": "1.98 meters",
+        "c": "2.5 meters",
+        "d": "3.0 meters"
+      },
+      "one_liner": "The front service line in badminton is **1.98 meters (6 feet 6 inches)** from the net.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

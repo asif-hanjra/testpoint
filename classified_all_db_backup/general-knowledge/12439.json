@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Bandar Abbas is a significant seaport of which country?",
+      "options": {
+        "a": "Iran",
+        "b": "Iraq",
+        "c": "Pakistan",
+        "d": "Oman"
+      },
+      "one_liner": "Bandar Abbas is a significant seaport belonging to **Iran**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

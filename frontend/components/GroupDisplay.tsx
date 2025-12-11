@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { MCQCard } from './MCQCard';
 import { api } from '../lib/api';
 import { storage } from '../lib/storage';
@@ -61,13 +61,41 @@ export const GroupDisplay: React.FC<GroupDisplayProps> = ({
   // Use globalExpandState from parent instead of local state
   const groupExpanded = globalExpandState;
 
+  // Track previous group files to detect group changes
+  const prevGroupFilesRef = useRef<string>('');
+  const prevInitialCheckedFilesRef = useRef<{ [key: string]: boolean } | undefined>(undefined);
+  const userModifiedFilesRef = useRef<Set<string>>(new Set());
+  const isInitialMountRef = useRef(true);
+  // Track the value user set to prevent race conditions
+  const lastUserActionRef = useRef<{ [filename: string]: boolean }>({});
+  
+  // EFFECT 1: Initialize state on mount and group change only (NOT on initialCheckedFiles change)
+  // This prevents resetting state when user clicks checkbox
   useEffect(() => {
-    // Initialize checked state from Context or initialCheckedFiles
+    const currentGroupFiles = group.files.join(',');
+    const groupChanged = prevGroupFilesRef.current !== currentGroupFiles;
+    
+    // Reset user modifications when group changes (new group = fresh start)
+    if (groupChanged) {
+      userModifiedFilesRef.current.clear();
+      lastUserActionRef.current = {};
+      prevGroupFilesRef.current = currentGroupFiles;
+    }
+    
+    // Initialize checked state from initialCheckedFiles or Context
+    // Only sync on mount or group change - NOT on initialCheckedFiles prop changes
     const initChecked: { [key: string]: boolean } = {};
     
     group.files.forEach(filename => {
+      // If user has manually modified this file, preserve their choice (unless group changed)
+      if (userModifiedFilesRef.current.has(filename) && !groupChanged && !isInitialMountRef.current) {
+        // Preserve user's choice - local state is source of truth
+        initChecked[filename] = checkedFiles[filename] ?? fileStatusContext.getFileChecked(filename);
+        return;
+      }
+      
+      // On initial mount or group change, apply initialCheckedFiles if available
       if (initialCheckedFiles && filename in initialCheckedFiles) {
-        // Page-level selection (from autoSelections / user toggles) wins
         initChecked[filename] = initialCheckedFiles[filename];
       } else {
         // Use Context to get checked state
@@ -75,15 +103,133 @@ export const GroupDisplay: React.FC<GroupDisplayProps> = ({
       }
     });
     
+    // Always update on mount or group change
     setCheckedFiles(initChecked);
-  }, [group, subject, initialCheckedFiles, fileStatusContext]);
+    isInitialMountRef.current = false;
+    // Note: fileStatusContext is read-only here (fallback value), not a trigger
+    // We don't want Effect 1 to run when Context changes - Effect 2 handles syncs
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [group.files.join(','), subject]); // Removed fileStatusContext - only mount/group change trigger
+  
+  // EFFECT 2: Handle external changes (auto-select or cross-group sync)
+  // Per-file sync: Only sync files user hasn't modified in THIS group
+  // This enables: User checks file X in Group A → all instances of X sync across groups
+  useEffect(() => {
+    // Skip on initial mount (handled by EFFECT 1)
+    if (isInitialMountRef.current) {
+      // Initialize prevInitialCheckedFilesRef on mount
+      prevInitialCheckedFilesRef.current = initialCheckedFiles;
+      return;
+    }
+    
+    const prevInitial = prevInitialCheckedFilesRef.current;
+    const currentInitial = initialCheckedFiles;
+    
+    // Check if initialCheckedFiles actually changed (value comparison, not reference)
+    // Handle undefined cases properly
+    const prevIsUndefined = prevInitial === undefined;
+    const currentIsUndefined = currentInitial === undefined;
+    
+    let initialChanged = false;
+    
+    if (prevIsUndefined && currentIsUndefined) {
+      // Both undefined - no change
+      initialChanged = false;
+    } else if (prevIsUndefined !== currentIsUndefined) {
+      // One undefined, one not - changed
+      initialChanged = true;
+    } else if (prevInitial && currentInitial) {
+      // Both defined - compare values
+      const prevKeys = Object.keys(prevInitial);
+      const currentKeys = Object.keys(currentInitial);
+      
+      // Check if keys changed
+      if (prevKeys.length !== currentKeys.length) {
+        initialChanged = true;
+      } else {
+        // Check if any file value changed
+        initialChanged = currentKeys.some(f => (prevInitial[f] ?? false) !== (currentInitial[f] ?? false));
+      }
+    }
+    
+    // Always update ref to current value (even if no change detected)
+    // This ensures we don't miss rapid successive changes
+    prevInitialCheckedFilesRef.current = initialCheckedFiles;
+    
+    if (!initialChanged) {
+      return;
+    }
+    
+    // Update files that user hasn't modified in THIS group
+    // This enables cross-group sync: if user modified file X in Group A,
+    // Group B will sync file X because Group B's userModifiedFilesRef doesn't have X
+    // Use functional update to ensure we work with latest state
+    setCheckedFiles(prevChecked => {
+      const updated: { [key: string]: boolean } = { ...prevChecked };
+      let hasChanges = false;
+      
+      group.files.forEach(filename => {
+        // Skip if user modified this file in THIS group
+        if (userModifiedFilesRef.current.has(filename)) {
+          // Double-check: if the new value matches what user just set, definitely preserve it
+          const lastAction = lastUserActionRef.current[filename];
+          if (lastAction !== undefined && initialCheckedFiles && filename in initialCheckedFiles) {
+            const newValue = initialCheckedFiles[filename];
+            if (newValue === lastAction) {
+              // This change came from user's action - preserve it
+              return;
+            }
+          }
+          // User modified this file - preserve their choice
+          return;
+        }
+        
+        // User hasn't modified this file in THIS group - sync it
+        // This enables:
+        // 1. Auto-selection for untouched files
+        // 2. Cross-group sync when user modifies file in another group
+        if (initialCheckedFiles && filename in initialCheckedFiles) {
+          const newValue = initialCheckedFiles[filename];
+          // Use explicit boolean comparison to handle undefined cases
+          const currentValue = prevChecked[filename] ?? false;
+          const newValueBool = newValue ?? false;
+          
+          // Only sync if values are actually different
+          if (newValueBool !== currentValue) {
+            updated[filename] = newValueBool;
+            hasChanges = true;
+          }
+        } else if (initialCheckedFiles === undefined && prevChecked[filename] !== undefined) {
+          // If initialCheckedFiles becomes undefined, don't reset - preserve current state
+          // This prevents reverting when prop temporarily becomes undefined
+        }
+      });
+      
+      // Only return new object if there are changes (prevents unnecessary re-renders)
+      return hasChanges ? updated : prevChecked;
+    });
+    
+    // Note: fileStatusContext is not used in this effect, so no need to react to it
+    // All external syncs come through initialCheckedFiles prop changes
+  }, [initialCheckedFiles, group.files.join(',')]);
 
   // Update Context and localStorage when toggling
   const handleToggle = (filename: string, checked: boolean) => {
+    // Mark this file as user-modified to preserve user's choice
+    userModifiedFilesRef.current.add(filename);
+    // Track the value user just set (for race condition protection)
+    lastUserActionRef.current[filename] = checked;
+    
+    // Update local state immediately (source of truth)
     setCheckedFiles(prev => ({ ...prev, [filename]: checked }));
+    
+    // Update Context
     fileStatusContext.setFileChecked(filename, checked);
 
-    // Call external toggle handler if provided
+    // Call external toggle handler to sync with parent
+    // This updates autoSelections for ALL groups containing this filename
+    // Effect 2 in other groups will sync it (because they don't have this file in their userModifiedFilesRef)
+    // Effect 2 in THIS group will preserve it (because userModifiedFilesRef.has(filename) = true)
     if (onFileToggle) {
       onFileToggle(filename, checked);
     }

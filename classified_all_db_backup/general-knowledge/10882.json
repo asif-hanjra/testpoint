@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of the Organization of Islamic Cooperation located?",
+      "options": {
+        "a": "Jakarta, Indonesia",
+        "b": "Jeddah, Saudi Arabia",
+        "c": "Dubai, UAE",
+        "d": "London, UK"
+      },
+      "one_liner": "The Organization of Islamic Cooperation has its headquarters in **Jeddah, Saudi Arabia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

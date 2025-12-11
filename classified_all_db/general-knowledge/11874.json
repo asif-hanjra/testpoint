@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Wall Street is famous for what?",
+      "options": {
+        "a": "Theatres",
+        "b": "Banking, finance and stock exchange",
+        "c": "Shopping",
+        "d": "Official residences"
+      },
+      "one_liner": "Wall Street is globally renowned for its association with **banking, finance, and the stock exchange**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

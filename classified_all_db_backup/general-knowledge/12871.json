@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is home to the airline Cathay Pacific?",
+      "options": {
+        "a": "Singapore",
+        "b": "Hong Kong",
+        "c": "Japan",
+        "d": "None of these"
+      },
+      "one_liner": "Cathay Pacific is an airline based in **Hong Kong**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

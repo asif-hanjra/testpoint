@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "During which global conflict was air support considered most crucial?",
+      "options": {
+        "a": "World War I",
+        "b": "World War II",
+        "c": "Korean War",
+        "d": "Vietnam War"
+      },
+      "one_liner": "Air support was considered most crucial during **World War II**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which parallel forms part of the boundary between the USA and Canada?",
+      "options": {
+        "a": "17th Parallel",
+        "b": "38th Parallel",
+        "c": "49th Parallel",
+        "d": "45th Parallel"
+      },
+      "one_liner": "The 49th Parallel forms part of the boundary between **USA and Canada**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

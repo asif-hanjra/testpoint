@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the main outcome of Mikhail Gorbachev's policies of glasnost and perestroika in Soviet society?",
+      "options": {
+        "a": "Increased military spending",
+        "b": "Return to strict communism",
+        "c": "New willingness to tolerate significant changes",
+        "d": "None of these"
+      },
+      "one_liner": "Mikhail Gorbachev's policies of glasnost and perestroika led to a new willingness to tolerate significant changes in **Soviet society**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Vladimir Lenin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Joseph Stalin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of the Asian Infrastructure Investment Bank (AIIB) located?",
+      "options": {
+        "a": "Beijing, China",
+        "b": "Shanghai, China",
+        "c": "Manila, Philippines",
+        "d": "New York, USA"
+      },
+      "one_liner": "The Asian Infrastructure Investment Bank (AIIB) has its headquarters in **Beijing, China**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

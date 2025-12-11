@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the Acropolis of Athens known for?",
+      "options": {
+        "a": "Roman civilization",
+        "b": "Egyptian civilization",
+        "c": "Greek civilization",
+        "d": "Persian civilization"
+      },
+      "one_liner": "The Acropolis of Athens is renowned as one of the most impressive remains of the ancient **Greek civilization**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Acropolis of Athens",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Acropolis of Athens",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

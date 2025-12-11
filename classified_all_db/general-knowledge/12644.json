@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which region has the largest cluster of population in the world?",
+      "options": {
+        "a": "South America",
+        "b": "South Asia",
+        "c": "Europe",
+        "d": "Africa"
+      },
+      "one_liner": "The largest cluster of population in the world is found in **South Asia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

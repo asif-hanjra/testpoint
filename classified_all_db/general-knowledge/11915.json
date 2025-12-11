@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which exercise is commonly used to measure upper body strength and endurance?",
+      "options": {
+        "a": "Push up",
+        "b": "Squat",
+        "c": "Sit up",
+        "d": "Pull up"
+      },
+      "one_liner": "Push up is widely recognized as the exercise that measures **upper body strength and endurance**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the current Secretary General of SAARC?",
+      "options": {
+        "a": "Esala Weerakoon",
+        "b": "Ahmed Saleem",
+        "c": "Arjun Bahadur Thapa",
+        "d": "None of these"
+      },
+      "one_liner": "The current Secretary General of SAARC is **Esala Weerakoon**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

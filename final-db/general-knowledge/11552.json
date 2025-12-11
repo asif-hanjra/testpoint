@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city became the capital of Tanzania in 1996, replacing Dar es Salaam?",
+      "options": {
+        "a": "Dodoma",
+        "b": "Arusha",
+        "c": "Mwanza",
+        "d": "Mbeya"
+      },
+      "one_liner": "Dodoma became the new capital of Tanzania in **1996**, replacing Dar es Salaam.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

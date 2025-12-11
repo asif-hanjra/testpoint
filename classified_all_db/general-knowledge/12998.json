@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Broadway Street, famous for theatres, is located in which country?",
+      "options": {
+        "a": "United Kingdom",
+        "b": "France",
+        "c": "United States",
+        "d": "Canada"
+      },
+      "one_liner": "Broadway Street, renowned for its theatres, is located in the **United States**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

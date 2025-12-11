@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the currency of Israel?",
+      "options": {
+        "a": "Dinar",
+        "b": "Shekel",
+        "c": "Rupee",
+        "d": "Dollar"
+      },
+      "one_liner": "The official currency used in Israel is the **Shekel**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

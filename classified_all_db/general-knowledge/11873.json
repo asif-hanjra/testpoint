@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which international judicial body reopened the case of Kulbhushan Jadhav in 2018?",
+      "options": {
+        "a": "International Criminal Court",
+        "b": "International Court of Justice",
+        "c": "Permanent Court of Arbitration",
+        "d": "None of these"
+      },
+      "one_liner": "The case of Kulbhushan Jadhav was reopened in 2018 by the **International Court of Justice**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

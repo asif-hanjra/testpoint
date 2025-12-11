@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What significant event caused a 10-day pause in government business during Liz Truss's premiership?",
+      "options": {
+        "a": "General elections",
+        "b": "Death of Queen Elizabeth II",
+        "c": "Parliamentary session",
+        "d": "None of these"
+      },
+      "one_liner": "Government business was paused for 10 days during Liz Truss's premiership due to the **death of Queen Elizabeth II**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

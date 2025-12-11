@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Bristol is a seaport found in which country?",
+      "options": {
+        "a": "Scotland",
+        "b": "England",
+        "c": "Ireland",
+        "d": "Wales"
+      },
+      "one_liner": "Bristol is a well-known seaport located in **England**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

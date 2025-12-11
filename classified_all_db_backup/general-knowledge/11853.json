@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country is the Eiffel Tower, Paris, located?",
+      "options": {
+        "a": "Italy",
+        "b": "Germany",
+        "c": "France",
+        "d": "Spain"
+      },
+      "one_liner": "The Eiffel Tower, a famous landmark in Paris, is located in **France**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eiffel Tower",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Eiffel Tower",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

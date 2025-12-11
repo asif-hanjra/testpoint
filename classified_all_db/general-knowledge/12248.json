@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country refers to its parliament as Majles Shoraye Eslami?",
+      "options": {
+        "a": "Turkey",
+        "b": "Iran",
+        "c": "Israel",
+        "d": "Japan"
+      },
+      "one_liner": "Iran's parliament is officially called the **Majles Shoraye Eslami**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

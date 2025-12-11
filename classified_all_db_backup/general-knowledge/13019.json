@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What were the years of birth and death of Emily Dickinson?",
+      "options": {
+        "a": "1820-1880",
+        "b": "1830-1886",
+        "c": "1840-1890",
+        "d": "None of these"
+      },
+      "one_liner": "Emily Dickinson was born in **1830** and died in **1886**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

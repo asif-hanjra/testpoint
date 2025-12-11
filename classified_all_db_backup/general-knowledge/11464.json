@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of security system is NATO considered to be?",
+      "options": {
+        "a": "Unilateral security system",
+        "b": "Collective security system",
+        "c": "Bilateral security system",
+        "d": "None of these"
+      },
+      "one_liner": "NATO is considered a **collective security system** where member states agree to defend each other.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "North Atlantic Treaty Organization (NATO)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "North Atlantic Treaty Organization (NATO)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

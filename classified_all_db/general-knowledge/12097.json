@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Benito Mussolini executed?",
+      "options": {
+        "a": "1942",
+        "b": "1943",
+        "c": "1944",
+        "d": "1945"
+      },
+      "one_liner": "**Benito Mussolini was executed in 1945**, marking the end of his rule.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

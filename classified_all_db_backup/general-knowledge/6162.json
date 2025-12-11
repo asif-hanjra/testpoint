@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the duration of football match?",
+      "options": {
+        "a": "Two 15 minute period with a reset at half time",
+        "b": "Two 25 minute period with a reset at half time",
+        "c": "Two 35 minute period with a reset at half time",
+        "d": "Two 45 minute period with a reset at half time"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

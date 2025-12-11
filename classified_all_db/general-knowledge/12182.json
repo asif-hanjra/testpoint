@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The 26th Parallel south passes through which continents?",
+      "options": {
+        "a": "Africa, Australia, and South America",
+        "b": "Europe, Asia, and North America",
+        "c": "Asia, Africa, and Australia",
+        "d": "None of these"
+      },
+      "one_liner": "The 26th Parallel south is a circle of latitude that crosses through **Africa, Australia, and South America**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

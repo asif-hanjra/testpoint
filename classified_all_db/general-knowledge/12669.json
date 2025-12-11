@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many years did Lee Kuan Yew serve as a leader?",
+      "options": {
+        "a": "21 years",
+        "b": "25 years",
+        "c": "31 years",
+        "d": "35 years"
+      },
+      "one_liner": "Lee Kuan Yew served as a leader for a total of **31 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was assassinated, leading to the immediate cause of World War I?",
+      "options": {
+        "a": "Archduke Ferdinand",
+        "b": "Kaiser Wilhelm II",
+        "c": "Tsar Nicholas II",
+        "d": "King George V"
+      },
+      "one_liner": "The assassination of **Archduke Ferdinand**, the heir to the Austrian throne, directly triggered the start of World War I.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World Historic Landmarks & Buildings",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

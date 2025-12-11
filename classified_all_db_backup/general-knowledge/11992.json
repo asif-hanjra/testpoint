@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following countries is not a member of NATO?",
+      "options": {
+        "a": "China",
+        "b": "France",
+        "c": "Germany",
+        "d": "United States"
+      },
+      "one_liner": "China is not a member of **NATO**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "North Atlantic Treaty Organization (NATO)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "North Atlantic Treaty Organization (NATO)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

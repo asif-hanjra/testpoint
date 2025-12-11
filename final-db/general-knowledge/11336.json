@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organization offers scholarships to Pakistani students?",
+      "options": {
+        "a": "Hanns Seidel Foundation (HSF)",
+        "b": "British Council",
+        "c": "Fulbright Program",
+        "d": "None of these"
+      },
+      "one_liner": "The organization that offers scholarships to Pakistani students is the **Hanns Seidel Foundation (HSF)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the capital city of Bhutan?",
+      "options": {
+        "a": "Thimphu",
+        "b": "Kathmandu",
+        "c": "Dhaka",
+        "d": "Colombo"
+      },
+      "one_liner": "The capital city of Bhutan is **Thimphu**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

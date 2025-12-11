@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first man to circumnavigate the world?",
+      "options": {
+        "a": "Christopher Columbus",
+        "b": "Vasco da Gama",
+        "c": "Ferdinand Magellan",
+        "d": "James Cook"
+      },
+      "one_liner": "The first man to circumnavigate the world was **Ferdinand Magellan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

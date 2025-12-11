@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which currency is used in Cambodia?",
+      "options": {
+        "a": "Cambodian riel",
+        "b": "Canadian dollar",
+        "c": "Czech koruna",
+        "d": "Colombian peso"
+      },
+      "one_liner": "Cambodia uses the **Cambodian riel** as its official currency.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

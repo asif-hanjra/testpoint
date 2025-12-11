@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a secret agency of Pakistan?",
+      "options": {
+        "a": "IB",
+        "b": "ISI",
+        "c": "FIA",
+        "d": "None of these"
+      },
+      "one_liner": "The secret agencies of Pakistan include **IB, ISI, and FIA**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the Association of Southeast Asian Nations (ASEAN) established?",
+      "options": {
+        "a": "8 August 1967",
+        "b": "7 January 1984",
+        "c": "23 July 1997",
+        "d": "30 April 1999"
+      },
+      "one_liner": "The Association of Southeast Asian Nations (ASEAN) was established on **8 August 1967**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

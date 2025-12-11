@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which period has been designated as the International Decade for People of African Descent?",
+      "options": {
+        "a": "2005-2014",
+        "b": "2010-2019",
+        "c": "2015-2024",
+        "d": "2020-2029"
+      },
+      "one_liner": "The years **2015-2024** have been designated as the International Decade for People of African Descent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

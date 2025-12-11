@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major works did Karl Marx publish?",
+      "options": {
+        "a": "The Communist Manifesto and Das Kapital",
+        "b": "Wealth of Nations and Utopia",
+        "c": "Origin of Species and Social Contract",
+        "d": "None of these"
+      },
+      "one_liner": "Karl Marx published influential works such as **The Communist Manifesto** and the three volumes of **Das Kapital**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Karl Marx",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Karl Marx",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

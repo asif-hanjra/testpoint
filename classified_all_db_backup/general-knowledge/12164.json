@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Sachal Sarmast from?",
+      "options": {
+        "a": "Larkana",
+        "b": "Daraza Sindh",
+        "c": "Hyderabad",
+        "d": "Sukkur"
+      },
+      "one_liner": "Sachal Sarmast was originally from **Daraza Sindh**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sachal Sarmast",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Sachal Sarmast",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

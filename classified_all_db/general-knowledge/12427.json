@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where were all six of North Korea's nuclear weapons tests conducted?",
+      "options": {
+        "a": "Mount Paektu",
+        "b": "Mount Mantapsan",
+        "c": "Mount Kumgang",
+        "d": "None of these"
+      },
+      "one_liner": "All six of North Korea's nuclear weapons tests were conducted at **Mount Mantapsan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

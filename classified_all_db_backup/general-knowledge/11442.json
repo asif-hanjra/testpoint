@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did George Herbert Walker Bush belong to?",
+      "options": {
+        "a": "Democratic Party",
+        "b": "Republican Party",
+        "c": "Libertarian Party",
+        "d": "Green Party"
+      },
+      "one_liner": "George Herbert Walker Bush was a member of the **Republican Party**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

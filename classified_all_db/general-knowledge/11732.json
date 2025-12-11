@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which United Nations body is responsible for handling refugee issues?",
+      "options": {
+        "a": "UNICEF",
+        "b": "UNESCO",
+        "c": "UNHCR",
+        "d": "WHO"
+      },
+      "one_liner": "The United Nations body that deals specifically with refugee issues is the **UNHCR**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

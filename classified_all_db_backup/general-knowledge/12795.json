@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries will host the 2023 FIFA Women's World Cup?",
+      "options": {
+        "a": "France and Germany",
+        "b": "Australia and New Zealand",
+        "c": "USA and Canada",
+        "d": "England and Spain"
+      },
+      "one_liner": "The 2023 FIFA Women's World Cup is scheduled to be held in **Australia and New Zealand**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

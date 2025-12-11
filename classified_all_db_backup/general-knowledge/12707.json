@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Near which city was Bahauddin Zakariya born?",
+      "options": {
+        "a": "Lahore",
+        "b": "Multan",
+        "c": "Faisalabad",
+        "d": "Sukkur"
+      },
+      "one_liner": "Bahauddin Zakariya was born in a town near **Multan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

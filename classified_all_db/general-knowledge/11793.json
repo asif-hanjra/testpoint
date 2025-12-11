@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of Israel's parliament?",
+      "options": {
+        "a": "Knesset",
+        "b": "Eduskunta",
+        "c": "Federal Assembly",
+        "d": "The Cortes"
+      },
+      "one_liner": "The parliament of Israel is known as the **Knesset**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

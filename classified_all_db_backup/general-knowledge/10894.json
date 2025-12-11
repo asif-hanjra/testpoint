@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the length of the table used in table tennis?",
+      "options": {
+        "a": "2.74m",
+        "b": "2.44m",
+        "c": "3.05m",
+        "d": "2.54m"
+      },
+      "one_liner": "The standard length of a table tennis table is **2.74 meters**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

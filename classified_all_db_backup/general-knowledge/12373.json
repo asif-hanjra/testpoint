@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Qantas Airways is the national airline of which country?",
+      "options": {
+        "a": "Australia",
+        "b": "Canada",
+        "c": "United Kingdom",
+        "d": "New Zealand"
+      },
+      "one_liner": "Qantas Airways is the national airline of **Australia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

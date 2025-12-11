@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the largest oil producer in Africa?",
+      "options": {
+        "a": "Nigeria",
+        "b": "Egypt",
+        "c": "Angola",
+        "d": "Libya"
+      },
+      "one_liner": "Nigeria is recognized as the **largest oil producer in Africa**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

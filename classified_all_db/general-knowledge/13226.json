@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the modern name of the town where Bahauddin Zakariya was born?",
+      "options": {
+        "a": "Karor Lal Esan",
+        "b": "Dera Ghazi Khan",
+        "c": "Bahawalpur",
+        "d": "Rahim Yar Khan"
+      },
+      "one_liner": "The town where Bahauddin Zakariya was born, Kot Kehror, is now known as **Karor Lal Esan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

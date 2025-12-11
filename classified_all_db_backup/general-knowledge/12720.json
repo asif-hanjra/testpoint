@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country gives the Cross of Honour for Valour as its highest military award?",
+      "options": {
+        "a": "Germany",
+        "b": "Poland",
+        "c": "Australia",
+        "d": "Canada"
+      },
+      "one_liner": "Germany's highest military award is the **Cross of Honour for Valour**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is associated with the concept of the history of class struggle?",
+      "options": {
+        "a": "Adam Smith",
+        "b": "Karl Marx",
+        "c": "John Locke",
+        "d": "None of these"
+      },
+      "one_liner": "The concept of the history of class struggle is famously associated with **Karl Marx**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Karl Marx",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Karl Marx",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

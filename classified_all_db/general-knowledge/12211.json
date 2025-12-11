@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the founder of Alibaba?",
+      "options": {
+        "a": "Jack Ma",
+        "b": "Ma Huateng",
+        "c": "Lei Jun",
+        "d": "None of these"
+      },
+      "one_liner": "The founder of Alibaba is **Jack Ma**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

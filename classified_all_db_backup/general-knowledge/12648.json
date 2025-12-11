@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country collaborates with Pakistan to produce the JF-17 Thunder fighter aircraft?",
+      "options": {
+        "a": "Russia",
+        "b": "USA",
+        "c": "China",
+        "d": "France"
+      },
+      "one_liner": "The JF-17 Thunder fighter aircraft is produced by Pakistan in collaboration with **China**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote the famous book on statecraft titled \"The Prince\"?",
+      "options": {
+        "a": "Plato",
+        "b": "Aristotle",
+        "c": "Machiavelli",
+        "d": "Rousseau"
+      },
+      "one_liner": "The renowned treatise on statecraft, \"The Prince,\" was authored by **Machiavelli**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

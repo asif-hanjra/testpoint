@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the International Court of Justice reopen the case of Kulbhushan Jadhav?",
+      "options": {
+        "a": "2016",
+        "b": "2017",
+        "c": "2018",
+        "d": "2019"
+      },
+      "one_liner": "The International Court of Justice reopened the case of Kulbhushan Jadhav in **2018**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

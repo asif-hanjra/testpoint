@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many member countries are there in the Organization of Islamic Cooperation (OIC)?",
+      "options": {
+        "a": "47",
+        "b": "52",
+        "c": "57",
+        "d": "62"
+      },
+      "one_liner": "The Organization of Islamic Cooperation (OIC) has a total of **57** member countries.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Rial or Riyal is the official currency of which of the following countries?",
+      "options": {
+        "a": "Iran",
+        "b": "Libya",
+        "c": "Jordan",
+        "d": "Kuwait"
+      },
+      "one_liner": "The official currency known as Rial or Riyal is used in **Iran, Oman, Yemen, Qatar, and Saudi Arabia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

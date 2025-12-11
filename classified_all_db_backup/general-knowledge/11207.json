@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who painted the famous artwork known as the Mona Lisa?",
+      "options": {
+        "a": "Pablo Picasso",
+        "b": "Vincent van Gogh",
+        "c": "Leonardo da Vinci",
+        "d": "Claude Monet"
+      },
+      "one_liner": "The renowned painting Mona Lisa was created by **Leonardo da Vinci**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

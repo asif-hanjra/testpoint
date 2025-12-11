@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is home to the Port of Cardiff?",
+      "options": {
+        "a": "England",
+        "b": "France",
+        "c": "Germany",
+        "d": "Portugal"
+      },
+      "one_liner": "The Port of Cardiff serves as a major seaport in **England**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

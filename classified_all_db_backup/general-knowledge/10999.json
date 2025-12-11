@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Usman Marwandi, later known as Lal Shahbaz Qalandar, born?",
+      "options": {
+        "a": "Sehwan, Sindh",
+        "b": "Marwand, Sistan (nowadays Iran)",
+        "c": "Multan",
+        "d": "Delhi"
+      },
+      "one_liner": "Usman Marwandi, later known as Lal Shahbaz Qalandar, was born in **Marwand, Sistan (nowadays Iran)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Usman Marwandi",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Usman Marwandi",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

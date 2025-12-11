@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the art of writing code words called?",
+      "options": {
+        "a": "Calligraphy",
+        "b": "Cryptography",
+        "c": "Cartography",
+        "d": "None of these"
+      },
+      "one_liner": "The art of writing code words is known as **Cryptography**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

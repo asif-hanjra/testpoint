@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was Mother's Day observed in 2022?",
+      "options": {
+        "a": "1 May",
+        "b": "8 May",
+        "c": "15 May",
+        "d": "22 May"
+      },
+      "one_liner": "Mother's Day in 2022 was observed on **8 May**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the average weight range of a tennis ball?",
+      "options": {
+        "a": "1.50-1.80 ounces",
+        "b": "1.98-2.10 ounces",
+        "c": "2.20-2.50 ounces",
+        "d": "None of these"
+      },
+      "one_liner": "The average weight range of a tennis ball is **1.98 to 2.10 ounces**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

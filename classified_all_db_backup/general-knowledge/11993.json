@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest pyramid built in ancient Egypt?",
+      "options": {
+        "a": "Pyramid of Djoser",
+        "b": "Great Pyramid at Giza",
+        "c": "Red Pyramid",
+        "d": "Bent Pyramid"
+      },
+      "one_liner": "The largest pyramid constructed in ancient Egypt is the **Great Pyramid at Giza**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Great Pyramid of Giza",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Great Pyramid of Giza",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

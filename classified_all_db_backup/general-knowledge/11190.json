@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the outcome for the Axis powers in World War II?",
+      "options": {
+        "a": "They won the war",
+        "b": "They remained neutral",
+        "c": "They were defeated",
+        "d": "None of these"
+      },
+      "one_liner": "The Axis powers, including Italy, **were defeated in World War II**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

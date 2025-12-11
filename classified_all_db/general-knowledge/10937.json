@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the Eiffel Tower constructed?",
+      "options": {
+        "a": "1870-1872",
+        "b": "1887-1889",
+        "c": "1890-1892",
+        "d": "None of these"
+      },
+      "one_liner": "The Eiffel Tower was constructed between **1887 and 1889**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Sydney Opera House",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Eiffel Tower",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

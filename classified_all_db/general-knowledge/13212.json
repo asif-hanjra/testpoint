@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main benefit of the Schengen Area for EU citizens?",
+      "options": {
+        "a": "Free healthcare",
+        "b": "Free movement",
+        "c": "Free education",
+        "d": "None of these"
+      },
+      "one_liner": "The Schengen Area guarantees **free movement** to more than 425 million EU citizens.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

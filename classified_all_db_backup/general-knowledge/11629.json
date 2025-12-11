@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the grandfather and spiritual predecessor of Shah Rukn-e-Alam?",
+      "options": {
+        "a": "Sheikh Bahauddin Zakariya",
+        "b": "Sadar-Al-Din Arif",
+        "c": "Shams Tabrez",
+        "d": "None of these"
+      },
+      "one_liner": "The renowned Sufi saint **Sheikh Bahauddin Zakariya** was both the grandfather and spiritual predecessor of Shah Rukn-e-Alam.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Shah Rukn-e-Alam",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Shah Rukn-e-Alam",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

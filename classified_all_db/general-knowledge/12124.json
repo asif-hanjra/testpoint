@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the United Nations Conference on Environment and Development (UNCED), also known as the Rio Summit, held?",
+      "options": {
+        "a": "1982",
+        "b": "1992",
+        "c": "2002",
+        "d": "2012"
+      },
+      "one_liner": "The United Nations Conference on Environment and Development, commonly called the Rio Summit, was held in **1992**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

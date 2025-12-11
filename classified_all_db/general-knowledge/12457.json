@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the second largest and oldest salt mine in the world?",
+      "options": {
+        "a": "Khewra Salt Mine",
+        "b": "Sifto Salt Mine",
+        "c": "Wieliczka Salt Mine",
+        "d": "None of these"
+      },
+      "one_liner": "The Khewra Salt Mine in Pakistan is recognized as the **second largest and oldest salt mine in the world**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

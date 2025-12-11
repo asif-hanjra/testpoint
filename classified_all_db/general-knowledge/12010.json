@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Josip Broz Tito was the president of which country?",
+      "options": {
+        "a": "Albania",
+        "b": "Yugoslavia",
+        "c": "Romania",
+        "d": "Hungary"
+      },
+      "one_liner": "Josip Broz Tito served as the president of **Yugoslavia**, leading the country during a significant period in its history.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

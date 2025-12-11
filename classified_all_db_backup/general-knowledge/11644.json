@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who created the world's most famous painting 'The Last Supper'?",
+      "options": {
+        "a": "Pablo Picasso",
+        "b": "Vincent van Gogh",
+        "c": "Leonardo da Vinci",
+        "d": "Michelangelo"
+      },
+      "one_liner": "The world's most famous painting 'The Last Supper' was created by **Leonardo da Vinci**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

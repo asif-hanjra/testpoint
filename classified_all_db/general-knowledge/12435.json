@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which years did Adolf Hitler serve as chancellor of Germany?",
+      "options": {
+        "a": "1929 and 1930",
+        "b": "1933 and 1934",
+        "c": "1939 and 1940",
+        "d": "1945 and 1946"
+      },
+      "one_liner": "Adolf Hitler served as chancellor of Germany in **1933 and 1934**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

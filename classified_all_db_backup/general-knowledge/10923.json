@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the full name of Amir Khusro?",
+      "options": {
+        "a": "Abu'l Hasan Yamīn ud-Din Khusrau",
+        "b": "Jalaluddin Rumi",
+        "c": "Sheikh Saadi",
+        "d": "None of these"
+      },
+      "one_liner": "Amir Khusro's full name was **Abu'l Hasan Yamīn ud-Din Khusrau**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Amir Khusro",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Amir Khusro",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

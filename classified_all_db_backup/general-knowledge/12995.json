@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "From which international agreement did the concept of Carbon Credits originate?",
+      "options": {
+        "a": "Kyoto Protocol",
+        "b": "Paris Agreement",
+        "c": "Montreal Protocol",
+        "d": "Rio Declaration"
+      },
+      "one_liner": "The concept of Carbon Credits was first introduced by the **Kyoto Protocol**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

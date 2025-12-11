@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many years did Joe Biden serve in the United States Senate?",
+      "options": {
+        "a": "20 years",
+        "b": "25 years",
+        "c": "36 years",
+        "d": "40 years"
+      },
+      "one_liner": "Joe Biden served in the United States Senate for **36 years**, from 1973 to 2009.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

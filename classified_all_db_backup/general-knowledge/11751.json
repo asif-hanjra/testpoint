@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which topic is addressed by Article 3 of the United Nations Sustainable Development Goals (SDGs)?",
+      "options": {
+        "a": "Education",
+        "b": "Health",
+        "c": "Gender Equality",
+        "d": "Climate Action"
+      },
+      "one_liner": "Article 3 of the United Nations Sustainable Development Goals (SDGs) specifically focuses on **Health**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who coined the term 'sociology'?",
+      "options": {
+        "a": "Herbert Spencer",
+        "b": "Karl Marx",
+        "c": "Auguste Comte",
+        "d": "Max Weber"
+      },
+      "one_liner": "The term 'sociology' was first introduced by **Auguste Comte**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

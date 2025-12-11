@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the range of the Shaheen-III missile?",
+      "options": {
+        "a": "1500 km",
+        "b": "2000 km",
+        "c": "2750 km",
+        "d": "3500 km"
+      },
+      "one_liner": "The Shaheen-III missile has a range of **2750 km**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

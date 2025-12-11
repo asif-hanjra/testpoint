@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country has won the most Hockey World Cups?",
+      "options": {
+        "a": "India",
+        "b": "Australia",
+        "c": "Pakistan",
+        "d": "Germany"
+      },
+      "one_liner": "**Pakistan** has won the most Hockey World Cups, with four championships.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Shah Rukn-e-Alam die?",
+      "options": {
+        "a": "1251",
+        "b": "1335",
+        "c": "1320",
+        "d": "1350"
+      },
+      "one_liner": "Shah Rukn-e-Alam passed away in the year **1335**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Shah Rukn-e-Alam",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Shah Rukn-e-Alam",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

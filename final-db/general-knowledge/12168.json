@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following countries was among the first to open its embassy in Baku?",
+      "options": {
+        "a": "Pakistan",
+        "b": "India",
+        "c": "Turkey",
+        "d": "Iran"
+      },
+      "one_liner": "Pakistan was among the earliest countries to establish its embassy in **Baku**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

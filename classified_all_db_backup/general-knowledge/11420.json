@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a term used in tennis?",
+      "options": {
+        "a": "Service",
+        "b": "Grand Slam",
+        "c": "Advantage",
+        "d": "None of these"
+      },
+      "one_liner": "Terms like Service, Grand Slam, Deuce, and Advantage are all used in tennis, so **None of these** is not a tennis term.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

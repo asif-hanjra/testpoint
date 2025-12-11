@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote The Lord of the Rings, one of the most read books of all time?",
+      "options": {
+        "a": "J.K. Rowling",
+        "b": "J. R. R. Tolkien",
+        "c": "Napolean Hill",
+        "d": "Margaret Mitchell"
+      },
+      "one_liner": "The classic fantasy novel **The Lord of the Rings** was written by **J. R. R. Tolkien**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

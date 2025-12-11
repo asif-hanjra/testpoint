@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country presided over the COP-23 climate change conference?",
+      "options": {
+        "a": "Germany",
+        "b": "Fiji",
+        "c": "France",
+        "d": "Japan"
+      },
+      "one_liner": "The COP-23 climate change conference was presided over by **Fiji**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

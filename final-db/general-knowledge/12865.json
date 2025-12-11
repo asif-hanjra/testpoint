@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which agreement ended the Crimean War?",
+      "options": {
+        "a": "Paris agreement",
+        "b": "Versailles Treaty",
+        "c": "Geneva Convention",
+        "d": "Treaty of Tordesillas"
+      },
+      "one_liner": "The Crimean War was brought to an end by the signing of the **Paris agreement**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

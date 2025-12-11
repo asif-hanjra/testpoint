@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The 24th Parallel is a boundary between which two countries?",
+      "options": {
+        "a": "India and China",
+        "b": "India and Pakistan",
+        "c": "North Korea and South Korea",
+        "d": "USA and Canada"
+      },
+      "one_liner": "The 24th Parallel is a boundary line between **India and Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

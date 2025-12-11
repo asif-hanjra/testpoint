@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happened to the French monarch as a result of the French Revolution?",
+      "options": {
+        "a": "Exiled",
+        "b": "Abolished and executed",
+        "c": "Reinstated",
+        "d": "None of these"
+      },
+      "one_liner": "The French monarch was **abolished and executed** as a result of the French Revolution.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "French Revolution (1789-1799)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Napoleon Bonaparte",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "French Revolution (1789-1799)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

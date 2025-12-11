@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Downing Street is famous for being the official residence of the Prime Minister of which country?",
+      "options": {
+        "a": "United States",
+        "b": "United Kingdom",
+        "c": "India",
+        "d": "France"
+      },
+      "one_liner": "Downing Street is renowned as the official residence of the Prime Minister of the **United Kingdom**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

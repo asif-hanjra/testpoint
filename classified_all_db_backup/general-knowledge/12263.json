@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the national animal of China?",
+      "options": {
+        "a": "Panda",
+        "b": "Chinese Dragon",
+        "c": "Tiger",
+        "d": "None of these"
+      },
+      "one_liner": "The national animal of China is the **Chinese Dragon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "China",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

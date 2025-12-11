@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country introduced equal payments for male and female workers in the private sector?",
+      "options": {
+        "a": "Saudi Arabia",
+        "b": "Kuwait",
+        "c": "United Arab Emirates",
+        "d": "Qatar"
+      },
+      "one_liner": "The country that introduced equal payments for male and female workers in the private sector is the **United Arab Emirates**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Universal Declaration of Human Rights (1948)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the nationality of T. S. Eliot by birth?",
+      "options": {
+        "a": "American",
+        "b": "British",
+        "c": "Canadian",
+        "d": "Australian"
+      },
+      "one_liner": "T. S. Eliot was originally born as an **American** before later becoming a British citizen.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Bernama is the news agency of which country?",
+      "options": {
+        "a": "Malaysia",
+        "b": "Singapore",
+        "c": "Indonesia",
+        "d": "Thailand"
+      },
+      "one_liner": "Bernama is the national news agency of **Malaysia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

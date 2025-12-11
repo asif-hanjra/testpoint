@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "The most advanced form of ROM is ?",
+      "options": {
+        "a": "PROM",
+        "b": "RAM",
+        "c": "EEPROM",
+        "d": "Cache Memory"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

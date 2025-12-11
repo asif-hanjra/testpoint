@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was one of the international consequences of the French Revolution?",
+      "options": {
+        "a": "Peace treaties",
+        "b": "Numerous international conflicts",
+        "c": "Colonial expansion",
+        "d": "None of these"
+      },
+      "one_liner": "One of the international consequences of the French Revolution was the generation of **numerous international conflicts**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "French Revolution (1789-1799)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Napoleon Bonaparte",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "French Revolution (1789-1799)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

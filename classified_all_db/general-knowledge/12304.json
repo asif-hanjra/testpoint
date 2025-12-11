@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "TASS is the news agency of which country?",
+      "options": {
+        "a": "Russia",
+        "b": "Ukraine",
+        "c": "Belarus",
+        "d": "Kazakhstan"
+      },
+      "one_liner": "TASS is the official news agency of **Russia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

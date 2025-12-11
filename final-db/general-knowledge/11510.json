@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who constructed the Dome of the Rock?",
+      "options": {
+        "a": "Abdul Malik bin Marwan",
+        "b": "Walid bin Abdul Malik",
+        "c": "Harun al-Rashid",
+        "d": "None of these"
+      },
+      "one_liner": "The Dome of the Rock was constructed under the rule of **Walid bin Abdul Malik**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

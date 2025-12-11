@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country awards the Virtuti Military as its highest military honor?",
+      "options": {
+        "a": "Poland",
+        "b": "France",
+        "c": "Germany",
+        "d": "Australia"
+      },
+      "one_liner": "The **Virtuti Military** is the highest military award in **Poland**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

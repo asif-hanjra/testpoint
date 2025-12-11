@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is known as the Buffer State of Asia?",
+      "options": {
+        "a": "Afghanistan",
+        "b": "Nepal",
+        "c": "Thailand",
+        "d": "Pakistan"
+      },
+      "one_liner": "Afghanistan is famously referred to as the **Buffer State of Asia** due to its strategic location between major powers.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

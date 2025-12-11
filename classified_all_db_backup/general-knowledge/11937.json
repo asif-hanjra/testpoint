@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country did the Bolshevik Revolution take place?",
+      "options": {
+        "a": "France",
+        "b": "Germany",
+        "c": "Russia",
+        "d": "Italy"
+      },
+      "one_liner": "The Bolshevik Revolution occurred in **Russia**, marking a significant turning point in world history.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Vladimir Lenin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Joseph Stalin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

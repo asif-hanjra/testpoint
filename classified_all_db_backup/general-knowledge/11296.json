@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is known as the old capital of Japan?",
+      "options": {
+        "a": "Tokyo",
+        "b": "Kyoto",
+        "c": "Osaka",
+        "d": "Nara"
+      },
+      "one_liner": "The old capital of Japan is **Kyoto**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

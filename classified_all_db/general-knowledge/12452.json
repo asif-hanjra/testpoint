@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the national animal of England?",
+      "options": {
+        "a": "Tiger",
+        "b": "Lion",
+        "c": "Leopard",
+        "d": "None of these"
+      },
+      "one_liner": "The national animal of England is the **Lion**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

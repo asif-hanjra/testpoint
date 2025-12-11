@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did Tony Blair represent during his tenure as Prime Minister?",
+      "options": {
+        "a": "Conservative Party",
+        "b": "Liberal Democrats",
+        "c": "Labour Party",
+        "d": "Green Party"
+      },
+      "one_liner": "During his time as Prime Minister, Tony Blair was a member of the **Labour Party**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

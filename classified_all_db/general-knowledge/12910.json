@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Israel withdraw its troops from Lebanon after 23 years of occupation?",
+      "options": {
+        "a": "1998",
+        "b": "1999",
+        "c": "2000",
+        "d": "2001"
+      },
+      "one_liner": "Israel ended its 23-year military presence in Lebanon by withdrawing its troops in **2000**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

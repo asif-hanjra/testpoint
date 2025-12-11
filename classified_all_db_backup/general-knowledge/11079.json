@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who requested the creation of the World Food Program, an organization of the United Nations?",
+      "options": {
+        "a": "Franklin D. Roosevelt",
+        "b": "Dwight Eisenhower",
+        "c": "John F. Kennedy",
+        "d": "None of these"
+      },
+      "one_liner": "The World Food Program, a United Nations organization, was established at the request of **Dwight Eisenhower**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

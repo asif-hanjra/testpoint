@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was Sultan Bahu born?",
+      "options": {
+        "a": "17 January 1630",
+        "b": "1 March 1691",
+        "c": "15 August 1620",
+        "d": "None of these"
+      },
+      "one_liner": "Sultan Bahu was born on **17 January 1630** in Shorkot.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

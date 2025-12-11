@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which currency is used in the United Arab Emirates?",
+      "options": {
+        "a": "Dinar",
+        "b": "Dirham",
+        "c": "Dollar",
+        "d": "Euro"
+      },
+      "one_liner": "The **Dirham** is the official currency of the United Arab Emirates.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

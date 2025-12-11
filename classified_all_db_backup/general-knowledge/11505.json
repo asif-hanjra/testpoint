@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'Politics and the State in Pakistan'?",
+      "options": {
+        "a": "Muhammad Waseem",
+        "b": "Ayesha Jalal",
+        "c": "Hamza Alavi",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'Politics and the State in Pakistan' was authored by **Muhammad Waseem**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Dr Muhammad Farukh Hafeez",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

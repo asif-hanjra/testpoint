@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many member countries are there in the Association of Southeast Asian Nations (ASEAN)?",
+      "options": {
+        "a": "8",
+        "b": "10",
+        "c": "12",
+        "d": "15"
+      },
+      "one_liner": "The Association of Southeast Asian Nations (ASEAN) consists of **10 member countries**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

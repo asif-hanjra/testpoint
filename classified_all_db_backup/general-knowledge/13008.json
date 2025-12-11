@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the largest producer of oil?",
+      "options": {
+        "a": "Russia",
+        "b": "Saudi Arabia",
+        "c": "USA",
+        "d": "None of these"
+      },
+      "one_liner": "The United States is recognized as the world's **largest producer of oil**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

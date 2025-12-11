@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is diamond an allotropic form of?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Carbon",
+        "c": "Hydrogen",
+        "d": "Nitrogen"
+      },
+      "one_liner": "Diamond is an allotropic form of **Carbon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

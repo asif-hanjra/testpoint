@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was elected as the youngest ever president of France in 2017?",
+      "options": {
+        "a": "François Hollande",
+        "b": "Nicolas Sarkozy",
+        "c": "Emmanuel Macron",
+        "d": "Jacques Chirac"
+      },
+      "one_liner": "The youngest ever president of France, elected in 2017, was **Emmanuel Macron**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is home to the Interfax news agency?",
+      "options": {
+        "a": "France",
+        "b": "Russia",
+        "c": "China",
+        "d": "None of these"
+      },
+      "one_liner": "The Interfax news agency is based in **Russia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

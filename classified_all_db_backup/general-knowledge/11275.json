@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which nationality did Michael Jackson belong to?",
+      "options": {
+        "a": "British",
+        "b": "Canadian",
+        "c": "Australian",
+        "d": "American"
+      },
+      "one_liner": "The world-famous singer Michael Jackson was an **American** by nationality.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

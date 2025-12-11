@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which date is recognized as the shortest day in the Northern Hemisphere?",
+      "options": {
+        "a": "21st June",
+        "b": "22nd December",
+        "c": "1st January",
+        "d": "15th August"
+      },
+      "one_liner": "The shortest day in the Northern Hemisphere falls on **22nd December** each year.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two countries were directly involved in the Cuban Missile Crisis during Kennedy's presidency?",
+      "options": {
+        "a": "United States and China",
+        "b": "United States and Vietnam",
+        "c": "Soviet Union and Cuba",
+        "d": "United States and Germany"
+      },
+      "one_liner": "The Cuban Missile Crisis during Kennedy's presidency involved the **Soviet Union and Cuba**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

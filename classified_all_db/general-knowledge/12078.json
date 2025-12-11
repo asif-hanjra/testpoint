@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who conducted the genocide of European Jews known as the Holocaust?",
+      "options": {
+        "a": "Adolf Hitler",
+        "b": "Vladimir Lenin",
+        "c": "Mao Zedong",
+        "d": "None of these"
+      },
+      "one_liner": "The genocide of European Jews in the Holocaust was conducted by **Adolf Hitler**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

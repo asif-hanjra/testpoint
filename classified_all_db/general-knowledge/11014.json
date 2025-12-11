@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the height of the net surface of a badminton court?",
+      "options": {
+        "a": "1.2 meters",
+        "b": "1.525 meters",
+        "c": "1.8 meters",
+        "d": "2.0 meters"
+      },
+      "one_liner": "The net surface of a badminton court is set at a height of **1.525 meters (5 feet)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

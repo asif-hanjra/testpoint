@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first batsman to hit six sixes in an over in international cricket?",
+      "options": {
+        "a": "Yuvraj Singh",
+        "b": "Gibbs",
+        "c": "Chris Gayle",
+        "d": "Shahid Afridi"
+      },
+      "one_liner": "The distinction of being the first batsman to hit six sixes in an over in international cricket belongs to **Gibbs**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

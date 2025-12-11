@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was the Gestapo the secret police of?",
+      "options": {
+        "a": "Italy",
+        "b": "Germany",
+        "c": "France",
+        "d": "Russia"
+      },
+      "one_liner": "The Gestapo served as the secret police force of **Germany** during its existence.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

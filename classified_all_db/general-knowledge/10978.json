@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which years did Joseph Robinette Biden serve as vice president of the United States?",
+      "options": {
+        "a": "2001-2009",
+        "b": "2009-2017",
+        "c": "2017-2021",
+        "d": "1993-2001"
+      },
+      "one_liner": "Joseph Robinette Biden served as vice president of the United States from **2009 to 2017**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

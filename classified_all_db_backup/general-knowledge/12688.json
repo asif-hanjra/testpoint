@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does NAFTA stand for?",
+      "options": {
+        "a": "North American Free Trade Agreement",
+        "b": "National American Financial Trade Association",
+        "c": "North Atlantic Free Trade Agreement",
+        "d": "None of these"
+      },
+      "one_liner": "NAFTA is an acronym for the **North American Free Trade Agreement**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "At which conference was the World Bank founded?",
+      "options": {
+        "a": "Geneva Conference",
+        "b": "Versailles Conference",
+        "c": "Bretton Woods Conference",
+        "d": "San Francisco Conference"
+      },
+      "one_liner": "The World Bank was founded at the **Bretton Woods Conference** in 1944.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

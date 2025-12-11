@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which century did Habba Khatoon live?",
+      "options": {
+        "a": "14th century",
+        "b": "15th century",
+        "c": "16th century",
+        "d": "17th century"
+      },
+      "one_liner": "Habba Khatoon was a renowned Kashmiri Muslim poet who lived in the **16th century**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Habba Khatoon",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Habba Khatoon",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

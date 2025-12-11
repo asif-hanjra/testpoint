@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the prime minister of the United Kingdom from 2010 to 2016?",
+      "options": {
+        "a": "Theresa May",
+        "b": "David Cameron",
+        "c": "Boris Johnson",
+        "d": "Gordon Brown"
+      },
+      "one_liner": "The prime minister of the United Kingdom from 2010 to 2016 was **David Cameron**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many non-permanent members are there in the United Nations Security Council?",
+      "options": {
+        "a": "5",
+        "b": "10",
+        "c": "15",
+        "d": "20"
+      },
+      "one_liner": "The United Nations Security Council consists of **10 non-permanent members** in addition to its permanent members.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

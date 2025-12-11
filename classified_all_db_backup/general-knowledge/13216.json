@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the ethnic background of Sher Shah Suri?",
+      "options": {
+        "a": "Turk",
+        "b": "Pashtun",
+        "c": "Arab",
+        "d": "Mughal"
+      },
+      "one_liner": "Sher Shah Suri was ethnically a **Pashtun**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

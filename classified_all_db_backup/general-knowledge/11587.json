@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which number presidential election was held in the United States in 2024?",
+      "options": {
+        "a": "58th",
+        "b": "59th",
+        "c": "60th",
+        "d": "61st"
+      },
+      "one_liner": "The United States presidential election held in 2024 was the **60th** presidential election in the country's history.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

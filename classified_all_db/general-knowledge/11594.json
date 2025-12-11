@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which famous painting, besides the Vitruvian Man, was created by Leonardo da Vinci?",
+      "options": {
+        "a": "The Starry Night",
+        "b": "The Scream",
+        "c": "Mona Lisa",
+        "d": "The Last Supper"
+      },
+      "one_liner": "Besides the Vitruvian Man, Leonardo da Vinci also painted the renowned **Mona Lisa**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "French Revolution (1789-1799)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Napoleon Bonaparte",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

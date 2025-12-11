@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which state is James David Vance a senator?",
+      "options": {
+        "a": "Minnesota",
+        "b": "Ohio",
+        "c": "California",
+        "d": "Texas"
+      },
+      "one_liner": "James David Vance is the junior U.S. senator from the state of **Ohio**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

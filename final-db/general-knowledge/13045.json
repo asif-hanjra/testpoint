@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which Sikh scripture is Baba Farid's poetry included?",
+      "options": {
+        "a": "Adi Granth",
+        "b": "Dasam Granth",
+        "c": "Guru Granth Sahib",
+        "d": "Japji Sahib"
+      },
+      "one_liner": "Baba Farid's poetry is included in the **Guru Granth Sahib**, the most sacred scripture of Sikhism.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

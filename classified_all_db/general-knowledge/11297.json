@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who initiated the idea of the Asia Europe Meeting (ASEM) organization in 1994?",
+      "options": {
+        "a": "Prime Minister of Singapore",
+        "b": "Prime Minister of Japan",
+        "c": "President of France",
+        "d": "Chancellor of Germany"
+      },
+      "one_liner": "The Asia Europe Meeting (ASEM) organization was initiated in 1994 by the Prime Minister of **Singapore**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which book is considered the most read in the world of all time?",
+      "options": {
+        "a": "The Holy Quran",
+        "b": "The Harry Potter Series",
+        "c": "The Lord of the Rings",
+        "d": "The Holy Bible"
+      },
+      "one_liner": "Among all the books ever published, the most read in the world of all time is the **Holy Quran**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

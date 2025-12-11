@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Usain Bolt, the record-holding sprinter, belongs to which country?",
+      "options": {
+        "a": "USA",
+        "b": "Jamaica",
+        "c": "Kenya",
+        "d": "Canada"
+      },
+      "one_liner": "Usain Bolt, the legendary sprinter who won 3 Olympic Gold medals in the 100 meters, is from **Jamaica**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

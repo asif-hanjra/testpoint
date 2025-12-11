@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did the Duke of Wellington represent during his tenure as Prime Minister of the United Kingdom?",
+      "options": {
+        "a": "Whig party",
+        "b": "Labour party",
+        "c": "Tory party",
+        "d": "Liberal party"
+      },
+      "one_liner": "The Duke of Wellington served as Prime Minister of the United Kingdom representing the **Tory party**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Battle of Waterloo (1815)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

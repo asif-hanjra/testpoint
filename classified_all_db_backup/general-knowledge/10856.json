@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country possesses the largest natural gas reserves in the world?",
+      "options": {
+        "a": "Russia",
+        "b": "United States",
+        "c": "Iran",
+        "d": "Qatar"
+      },
+      "one_liner": "Russia is recognized as the country with the **largest natural gas reserves** globally.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

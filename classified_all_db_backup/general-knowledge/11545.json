@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the maximum font size available in MS Word by default?",
+      "options": {
+        "a": "60",
+        "b": "72",
+        "c": "80",
+        "d": "100"
+      },
+      "one_liner": "The maximum font size that can be set in MS Word by default is **72**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

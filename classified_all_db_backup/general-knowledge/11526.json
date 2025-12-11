@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Cathay Pacific is the national airline of which region?",
+      "options": {
+        "a": "Hong Kong",
+        "b": "Singapore",
+        "c": "Japan",
+        "d": "China"
+      },
+      "one_liner": "Cathay Pacific is recognized as the national airline of **Hong Kong**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

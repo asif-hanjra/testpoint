@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of the United Nations Children's Fund (UNICEF) located?",
+      "options": {
+        "a": "Washington D.C., USA",
+        "b": "New York, USA",
+        "c": "Shanghai, China",
+        "d": "Manila, Philippines"
+      },
+      "one_liner": "The headquarters of the United Nations Children's Fund (UNICEF) is in **New York, USA**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

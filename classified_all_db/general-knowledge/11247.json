@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of the world's land area is occupied by the D-8 countries?",
+      "options": {
+        "a": "7%",
+        "b": "13%",
+        "c": "20%",
+        "d": "None of these"
+      },
+      "one_liner": "The D-8 countries together occupy approximately **7%** of the world's land area.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

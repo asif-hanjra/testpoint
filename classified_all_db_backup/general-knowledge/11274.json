@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ancient structure is recognized as one of the wonders of the world?",
+      "options": {
+        "a": "Colosseum",
+        "b": "Lighthouse of Alexandria",
+        "c": "Great Wall of China",
+        "d": "None of these"
+      },
+      "one_liner": "The Lighthouse of Alexandria is famously known as one of the ancient wonders of the world, making it a significant historical monument.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

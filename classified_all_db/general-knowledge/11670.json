@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Police Order enforced in Pakistan?",
+      "options": {
+        "a": "2000",
+        "b": "2001",
+        "c": "2002",
+        "d": "2003"
+      },
+      "one_liner": "The Police Order was enforced in Pakistan in the year **2002**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

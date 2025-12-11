@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which war did the Duke of Wellington participate as a colonel, leading to the martyrdom of Tipu Sultan?",
+      "options": {
+        "a": "First Anglo-Mysore War",
+        "b": "Second Anglo-Mysore War",
+        "c": "Third Anglo-Mysore War",
+        "d": "Fourth Anglo-Mysore War"
+      },
+      "one_liner": "The Duke of Wellington participated as a colonel in the **Fourth Anglo-Mysore War**, during which Tipu Sultan was martyred.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Battle of Waterloo (1815)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

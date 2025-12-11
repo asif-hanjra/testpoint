@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the World Trade Organization (WTO) established?",
+      "options": {
+        "a": "January 1, 1995",
+        "b": "March 23, 1945",
+        "c": "July 4, 1971",
+        "d": "December 10, 1980"
+      },
+      "one_liner": "The World Trade Organization was established on **January 1, 1995**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

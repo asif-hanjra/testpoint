@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries were known as the Allied Powers during World War I?",
+      "options": {
+        "a": "Germany, Austria-Hungary, Ottoman Empire",
+        "b": "Russia, France, United Kingdom, Japan, Italy",
+        "c": "USA, Germany, Italy, Ottoman Empire",
+        "d": "None of these"
+      },
+      "one_liner": "The Allied Powers in World War I included **Russia, France, United Kingdom, Japan, and Italy**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Boko Haram terrorist group belongs to which country?",
+      "options": {
+        "a": "Sudan",
+        "b": "Nigeria",
+        "c": "Somalia",
+        "d": "Libya"
+      },
+      "one_liner": "The Boko Haram terrorist group is based in **Nigeria**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

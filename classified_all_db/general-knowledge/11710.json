@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the width of a tennis court for doubles matches?",
+      "options": {
+        "a": "8.23 meters",
+        "b": "10.97 meters",
+        "c": "12.00 meters",
+        "d": "None of these"
+      },
+      "one_liner": "The width of a tennis court for doubles matches is **10.97 meters (36 feet)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

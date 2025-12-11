@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Delta Air Lines belongs to which country?",
+      "options": {
+        "a": "Canada",
+        "b": "United States",
+        "c": "Australia",
+        "d": "United Kingdom"
+      },
+      "one_liner": "Delta Air Lines is a major airline based in the **United States**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

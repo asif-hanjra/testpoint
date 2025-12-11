@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which decade has been designated by the United Nations as the Decade of Sustainable Energy for All?",
+      "options": {
+        "a": "2000-2010",
+        "b": "2010-2020",
+        "c": "2014-2024",
+        "d": "2020-2030"
+      },
+      "one_liner": "The United Nations declared the years from **2014 to 2024** as the Decade of Sustainable Energy for All.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

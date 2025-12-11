@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When is the World Interfaith Harmony Week observed?",
+      "options": {
+        "a": "1-7 February",
+        "b": "24-30 April",
+        "c": "1-7 March",
+        "d": "None of these"
+      },
+      "one_liner": "World Interfaith Harmony Week is observed annually from **1-7 February**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "International Weeks",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "International Weeks",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

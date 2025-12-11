@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who famously stated, \"Man is born free, but he is everywhere in chains\"?",
+      "options": {
+        "a": "Karl Marx",
+        "b": "Jean Jacques Rousseau",
+        "c": "John Locke",
+        "d": "Voltaire"
+      },
+      "one_liner": "The famous quote, \"Man is born free, but he is everywhere in chains,\" was stated by **Jean Jacques Rousseau**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "French Revolution (1789-1799)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

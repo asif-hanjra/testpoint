@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term used when the stock market is rising?",
+      "options": {
+        "a": "Bearish",
+        "b": "Bullish",
+        "c": "Stagnant",
+        "d": "None of these"
+      },
+      "one_liner": "A rising stock market is referred to as a **Bullish** market.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Great Recession",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Great Depression (1930)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

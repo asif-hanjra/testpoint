@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the distance of the rear service line from the back boundary in badminton?",
+      "options": {
+        "a": "0.5 meters",
+        "b": "0.76 meters",
+        "c": "1.0 meters",
+        "d": "1.5 meters"
+      },
+      "one_liner": "The rear service line in badminton is **0.76 meters (2 feet 6 inches)** from the back boundary.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

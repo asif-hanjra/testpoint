@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date is International Mother Language Day celebrated?",
+      "options": {
+        "a": "1st January",
+        "b": "21st February",
+        "c": "5th June",
+        "d": "15th August"
+      },
+      "one_liner": "International Mother Language Day is observed annually on **21st February** to promote linguistic and cultural diversity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the former name of Sri Lanka before 1972?",
+      "options": {
+        "a": "Burma",
+        "b": "Ceylon",
+        "c": "Malaya",
+        "d": "None of these"
+      },
+      "one_liner": "Before 1972, the country now called Sri Lanka was known as **Ceylon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

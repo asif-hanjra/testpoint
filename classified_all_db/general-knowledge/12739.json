@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Khalil Gibran is renowned for his contributions in which fields?",
+      "options": {
+        "a": "Essayist, poet, and philosopher",
+        "b": "Scientist, painter, and musician",
+        "c": "Politician, soldier, and explorer",
+        "d": "None of these"
+      },
+      "one_liner": "Khalil Gibran is widely recognized as a distinguished **essayist, poet, and philosopher**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

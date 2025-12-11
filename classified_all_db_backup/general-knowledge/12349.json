@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Since which year was Japan already at war with China before World War II officially began?",
+      "options": {
+        "a": "1935",
+        "b": "1936",
+        "c": "1937",
+        "d": "1938"
+      },
+      "one_liner": "Japan had already been at war with China since **1937**, before the official start of World War II.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "League of Nations (1920)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

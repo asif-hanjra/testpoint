@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of Adolf Hitler's autobiography?",
+      "options": {
+        "a": "Mein Kampf",
+        "b": "Das Kapital",
+        "c": "The Prince",
+        "d": "None of these"
+      },
+      "one_liner": "Adolf Hitler's autobiography is famously known as **Mein Kampf**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country has the largest reserves of oil in the world?",
+      "options": {
+        "a": "Saudi Arabia",
+        "b": "Russia",
+        "c": "Venezuela",
+        "d": "United States"
+      },
+      "one_liner": "Venezuela is recognized as the country with the **largest reserves of oil** globally.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

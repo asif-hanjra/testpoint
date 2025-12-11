@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the KL Tower located?",
+      "options": {
+        "a": "Singapore",
+        "b": "Kuala Lumpur",
+        "c": "Bangkok",
+        "d": "Jakarta"
+      },
+      "one_liner": "KL Tower is situated in the city of **Kuala Lumpur** in Malaysia.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first Pakistani to be nominated for a Grammy Award?",
+      "options": {
+        "a": "Abida Parveen",
+        "b": "Atif Aslam",
+        "c": "Nusrat Fateh Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The first Pakistani nominated for a Grammy Award was **Nusrat Fateh Ali Khan** in 1997.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

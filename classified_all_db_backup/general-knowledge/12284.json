@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Pakistani scientist received the highest Chinese scientific award from the President of China?",
+      "options": {
+        "a": "Dr. Abdul Qadeer Khan",
+        "b": "Dr. Samar Mubarakmand",
+        "c": "Prof. Dr. Atta-ur-Rahman",
+        "d": "None of these"
+      },
+      "one_liner": "Prof. Dr. Atta-ur-Rahman, a renowned Pakistani scientist, received the highest Chinese scientific award from the **President of China**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Cloud Gate located?",
+      "options": {
+        "a": "New York",
+        "b": "Los Angeles",
+        "c": "Chicago",
+        "d": "None of these"
+      },
+      "one_liner": "Cloud Gate, a famous public sculpture, is located in **Chicago**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

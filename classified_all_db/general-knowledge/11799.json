@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organ of the United Nations is considered its main deliberative, policymaking, and representative body?",
+      "options": {
+        "a": "Security Council",
+        "b": "General Assembly",
+        "c": "Economic and Social Council",
+        "d": "International Court of Justice"
+      },
+      "one_liner": "The main deliberative, policymaking, and representative organ of the United Nations is the **General Assembly**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

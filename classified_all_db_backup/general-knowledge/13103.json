@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Baba Farid receive his early education?",
+      "options": {
+        "a": "Delhi",
+        "b": "Ajodhan",
+        "c": "Multan",
+        "d": "Faridkot"
+      },
+      "one_liner": "Baba Farid received his early education in **Multan**, which was a center for Muslim education.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

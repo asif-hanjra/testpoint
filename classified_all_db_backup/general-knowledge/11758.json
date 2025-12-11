@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Khawaja Ghulam Farid born?",
+      "options": {
+        "a": "Multan",
+        "b": "Chachran Town",
+        "c": "Mithankot",
+        "d": "Bahawalpur"
+      },
+      "one_liner": "Khawaja Ghulam Farid was born in **Chachran Town of district Rahim Yar Khan** in 1845 AD.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

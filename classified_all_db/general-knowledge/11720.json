@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the 44th president of the United States?",
+      "options": {
+        "a": "George W. Bush",
+        "b": "Barack Obama",
+        "c": "Donald Trump",
+        "d": "Bill Clinton"
+      },
+      "one_liner": "The 44th president of the United States was **Barack Obama**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

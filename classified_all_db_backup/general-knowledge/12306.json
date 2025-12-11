@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the maximum length of a cricket bat according to the rules?",
+      "options": {
+        "a": "36 inches",
+        "b": "38 inches",
+        "c": "40 inches",
+        "d": "42 inches"
+      },
+      "one_liner": "The maximum length allowed for a cricket bat is **38 inches (965 mm)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

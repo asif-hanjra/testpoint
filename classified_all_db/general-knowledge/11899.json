@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who played the main role in the drama 'Waris'?",
+      "options": {
+        "a": "Abid Ali",
+        "b": "Qavi Khan",
+        "c": "Firdous Jamal",
+        "d": "None of these"
+      },
+      "one_liner": "The main role in the drama 'Waris' was portrayed by **Abid Ali**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

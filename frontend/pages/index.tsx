@@ -15,6 +15,7 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [subjectSessions, setSubjectSessions] = useState<{ [key: string]: boolean }>({});
+  const [subjectRemovedTrack, setSubjectRemovedTrack] = useState<{ [key: string]: boolean }>({});
   const [selectedSubject, setSelectedSubject] = useState<string | null>(null);
   const [confirmationAction, setConfirmationAction] = useState<'resume' | 'start_again' | 'resume_sbert' | null>(null);
   const [processing, setProcessing] = useState(false);
@@ -37,19 +38,23 @@ export default function Home() {
       const data = await api.getSubjects();
       setSubjects(data.subjects || []);
       
-      // Check which subjects have existing sessions
+      // Check which subjects have existing sessions or removed-track JSON
       const sessions: { [key: string]: boolean } = {};
+      const removedTrack: { [key: string]: boolean } = {};
       for (const subject of data.subjects || []) {
         if (subject.enabled) {
           try {
             const sessionCheck = await api.checkSession(subject.name);
-            sessions[subject.name] = sessionCheck.exists;
+            sessions[subject.name] = sessionCheck.exists || false;
+            removedTrack[subject.name] = sessionCheck.has_removed_track || false;
           } catch {
             sessions[subject.name] = false;
+            removedTrack[subject.name] = false;
           }
         }
       }
       setSubjectSessions(sessions);
+      setSubjectRemovedTrack(removedTrack);
       setError('');
     } catch (err) {
       console.error('Failed to load subjects:', err);
@@ -62,12 +67,12 @@ export default function Home() {
   const handleSelectSubject = (subject: Subject) => {
     if (!subject.enabled) return;
     
-    // Check if session exists
-    if (subjectSessions[subject.name]) {
+    // Check if session exists OR removed-track JSON exists
+    if (subjectSessions[subject.name] || subjectRemovedTrack[subject.name]) {
       // Show resume/start again dialog
       setSelectedSubject(subject.name);
     } else {
-      // No session, go directly
+      // No session and no removed-track, go directly
       router.push(`/process/${subject.name}`);
     }
   };
@@ -245,8 +250,8 @@ export default function Home() {
                       : 'border-gray-200 bg-gray-50 cursor-not-allowed opacity-50'
                   }`}
                 >
-                  {/* Session exists badge */}
-                  {subject.enabled && subjectSessions[subject.name] && (
+                  {/* Session exists or removed-track exists badge */}
+                  {subject.enabled && (subjectSessions[subject.name] || subjectRemovedTrack[subject.name]) && (
                     <div className="absolute top-2 right-2 bg-green-500 text-white text-xs px-2 py-1 rounded-full">
                       In Progress
                     </div>
@@ -262,7 +267,7 @@ export default function Home() {
                   </p>
                   {subject.enabled && (
                     <div className="mt-4 text-blue-600 font-medium">
-                      {subjectSessions[subject.name] ? 'Resume / Restart →' : 'Start Processing →'}
+                      {(subjectSessions[subject.name] || subjectRemovedTrack[subject.name]) ? 'Resume / Restart →' : 'Start Processing →'}
                     </div>
                   )}
                 </button>

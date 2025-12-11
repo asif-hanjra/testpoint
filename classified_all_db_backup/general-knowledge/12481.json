@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which religious groups consider Mount Fuji in Japan to be sacred?",
+      "options": {
+        "a": "Buddhists and Shintoists",
+        "b": "Christians and Hindus",
+        "c": "Muslims and Jews",
+        "d": "None of these"
+      },
+      "one_liner": "Mount Fuji in Japan is considered sacred by both **Buddhists and Shintoists**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

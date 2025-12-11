@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which international organization is known for having no formal structure?",
+      "options": {
+        "a": "G-8",
+        "b": "UN",
+        "c": "NATO",
+        "d": "OPEC"
+      },
+      "one_liner": "The international organization G-8 is notable for having **no formal structure**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

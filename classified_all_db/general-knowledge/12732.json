@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the intelligence agency of Afghanistan?",
+      "options": {
+        "a": "ISI",
+        "b": "RAW",
+        "c": "Khad",
+        "d": "CIA"
+      },
+      "one_liner": "The intelligence agency of Afghanistan is known as **Khad**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

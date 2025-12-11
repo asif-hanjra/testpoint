@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the youngest ever president of France?",
+      "options": {
+        "a": "Francois Hollande",
+        "b": "Emmanuel Macron",
+        "c": "Nicolas Sarkozy",
+        "d": "None of these"
+      },
+      "one_liner": "The youngest ever president of France is **Emmanuel Macron**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

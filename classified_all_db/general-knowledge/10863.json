@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When did the European Union adopt the Euro as its currency?",
+      "options": {
+        "a": "January 1997",
+        "b": "January 1998",
+        "c": "January 1999",
+        "d": "January 2000"
+      },
+      "one_liner": "The European Union officially adopted the Euro as its currency in **January 1999**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

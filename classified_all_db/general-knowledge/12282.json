@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does each star on the Malaysian flag represent?",
+      "options": {
+        "a": "A Malaysian city",
+        "b": "A Malaysian state and the Federal Government",
+        "c": "A Malaysian river",
+        "d": "None of these"
+      },
+      "one_liner": "Each of the **fourteen stars** on the Malaysian flag represents one of the 13 states or the Federal Government of Malaysia.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

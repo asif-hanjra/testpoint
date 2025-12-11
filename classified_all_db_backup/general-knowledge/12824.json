@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the United States enter Afghanistan?",
+      "options": {
+        "a": "1999",
+        "b": "2001",
+        "c": "2003",
+        "d": "2005"
+      },
+      "one_liner": "The United States entered Afghanistan in **2001**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "North Atlantic Treaty Organization (NATO)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

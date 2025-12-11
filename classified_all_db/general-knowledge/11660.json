@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the north-facing door of Baba Farid's shrine?",
+      "options": {
+        "a": "Nuri Darwaza",
+        "b": "Bahishti Darwaza",
+        "c": "Ajodhan Darwaza",
+        "d": "Pakpattan Darwaza"
+      },
+      "one_liner": "The north-facing door of Baba Farid's shrine is known as the **Bahishti Darwaza**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

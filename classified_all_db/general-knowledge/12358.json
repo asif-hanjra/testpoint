@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is set to host the 2022 FIFA World Cup?",
+      "options": {
+        "a": "Brazil",
+        "b": "Qatar",
+        "c": "Russia",
+        "d": "Germany"
+      },
+      "one_liner": "The 2022 FIFA World Cup is scheduled to be hosted by **Qatar**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

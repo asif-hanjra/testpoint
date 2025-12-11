@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the economic term 'deficit financing' imply?",
+      "options": {
+        "a": "Government spends less than revenue",
+        "b": "Government spends equal to revenue",
+        "c": "Government spends more than revenue",
+        "d": "None of these"
+      },
+      "one_liner": "Deficit financing refers to the situation when the Government spends **more money than it receives as revenue**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Great Depression (1930)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Great Recession",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

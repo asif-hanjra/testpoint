@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the height of the statue up to the torch?",
+      "options": {
+        "a": "93 meters",
+        "b": "50 meters",
+        "c": "46 meters",
+        "d": "60 meters"
+      },
+      "one_liner": "The height of the statue up to the torch is **46 meters**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

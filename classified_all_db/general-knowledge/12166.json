@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of majority is needed for the General Assembly to decide on questions other than important matters?",
+      "options": {
+        "a": "Simple majority",
+        "b": "Two-thirds majority",
+        "c": "Unanimous",
+        "d": "None of these"
+      },
+      "one_liner": "For questions other than important matters, the General Assembly decides by a **simple majority**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

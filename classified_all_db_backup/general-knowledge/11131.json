@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the outcome of the earthquake that struck KPK and Kashmir on October 8, 2005?",
+      "options": {
+        "a": "No casualties",
+        "b": "Hundreds of people killed",
+        "c": "Thousands of people killed",
+        "d": "None of these"
+      },
+      "one_liner": "The earthquake that hit KPK and Kashmir on October 8, 2005, resulted in the deaths of **thousands of people**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

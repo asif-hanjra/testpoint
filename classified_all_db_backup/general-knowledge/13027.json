@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who started the ancient Olympic Games?",
+      "options": {
+        "a": "Romans",
+        "b": "Greeks",
+        "c": "Egyptians",
+        "d": "Persians"
+      },
+      "one_liner": "The ancient Olympic Games were started by the **Greeks**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

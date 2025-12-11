@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Swiss Airlines belongs to which country?",
+      "options": {
+        "a": "Switzerland",
+        "b": "Austria",
+        "c": "Germany",
+        "d": "France"
+      },
+      "one_liner": "Swiss Airlines is the national airline of **Switzerland**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

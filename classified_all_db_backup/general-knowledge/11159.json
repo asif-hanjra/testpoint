@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a term associated with badminton?",
+      "options": {
+        "a": "Smash",
+        "b": "Love",
+        "c": "Double-fault",
+        "d": "None of these"
+      },
+      "one_liner": "Terms like shuttle cock, service court, double-fault, forehand, backhand, smash, hit, drop, net, and love are all associated with badminton, so any term outside these is not related.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

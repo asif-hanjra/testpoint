@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the highest military award of Myanmar?",
+      "options": {
+        "a": "Aung San Thiriya",
+        "b": "Order of Rama",
+        "c": "Order of August First",
+        "d": "Medal of Valour"
+      },
+      "one_liner": "Myanmar's highest military honor is the **Aung San Thiriya**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

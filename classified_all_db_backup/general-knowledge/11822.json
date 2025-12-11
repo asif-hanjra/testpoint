@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country became the world's leading exporter of Liquefied Natural Gas (LNG)?",
+      "options": {
+        "a": "Qatar",
+        "b": "Russia",
+        "c": "Australia",
+        "d": "United States"
+      },
+      "one_liner": "Australia achieved the distinction of becoming the world's leading exporter of Liquefied Natural Gas (LNG), surpassing other nations in this sector.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Organization of the Petroleum Exporting Countries (OPEC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

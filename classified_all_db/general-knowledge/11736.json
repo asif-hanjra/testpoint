@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the 32nd president of the United States?",
+      "options": {
+        "a": "Franklin Delano Roosevelt",
+        "b": "Harry S. Truman",
+        "c": "Woodrow Wilson",
+        "d": "Dwight D. Eisenhower"
+      },
+      "one_liner": "The 32nd president of the United States was **Franklin Delano Roosevelt**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

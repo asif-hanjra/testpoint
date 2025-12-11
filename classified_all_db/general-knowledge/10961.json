@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which day is marked as World day for War orphans?",
+      "options": {
+        "a": "January 6",
+        "b": "January 8",
+        "c": "January 10",
+        "d": "January 11"
+      },
+      "one_liner": "World day for War orphans is marked on **January 6th**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

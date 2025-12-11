@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of The Diary of Anne Frank, one of the most read books globally?",
+      "options": {
+        "a": "Anne Frank",
+        "b": "Stephenie Meyer",
+        "c": "Jon Krakauer",
+        "d": "J.K. Rowling"
+      },
+      "one_liner": "**Anne Frank** is the author of the globally renowned book **The Diary of Anne Frank**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

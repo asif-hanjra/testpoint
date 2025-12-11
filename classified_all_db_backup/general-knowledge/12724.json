@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was the last to join SAARC?",
+      "options": {
+        "a": "Nepal",
+        "b": "Afghanistan",
+        "c": "Bhutan",
+        "d": "Maldives"
+      },
+      "one_liner": "Afghanistan became the last country to join SAARC in **April 2007**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

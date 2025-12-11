@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which team won the Cricket World Cup in 1992?",
+      "options": {
+        "a": "Australia",
+        "b": "England",
+        "c": "Pakistan",
+        "d": "India"
+      },
+      "one_liner": "The team that won the Cricket World Cup in 1992 was **Pakistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

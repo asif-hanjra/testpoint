@@ -8,6 +8,7 @@ export interface SessionState {
   similarityLevelIndex?: number;
   similarityRangeStart?: number;
   similarityRangeEnd?: number;
+  isManualRange?: boolean; // Track if range was manually adjusted
   maxGroupsPerPage?: number; // Deprecated, kept for backward compatibility
   targetGroupsPerPage?: number; // Target groups per page (approximate, not strict)
   pageCompleted?: boolean;

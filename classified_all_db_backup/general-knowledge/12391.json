@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which book, published in 1964, is among the most read books in the world?",
+      "options": {
+        "a": "The Alchemist",
+        "b": "Quotations From Chairman Mao Tse Tung",
+        "c": "Into Thin Air",
+        "d": "Gone With the Wind"
+      },
+      "one_liner": "**Quotations From Chairman Mao Tse Tung**, published in **1964**, is one of the most read books globally.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

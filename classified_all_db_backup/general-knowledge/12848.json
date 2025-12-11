@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard length of a hockey ground?",
+      "options": {
+        "a": "91.4 meters",
+        "b": "100 meters",
+        "c": "80 meters",
+        "d": "60 meters"
+      },
+      "one_liner": "The standard length of a hockey ground is **91.4 meters**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

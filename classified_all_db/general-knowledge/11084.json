@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The Ganga Ram Hospital in Lahore is named after which personality?",
+      "options": {
+        "a": "Sir Syed Ahmed Khan",
+        "b": "Sir Ganga Ram",
+        "c": "Sir Aga Khan",
+        "d": "Sir Zafarullah Khan"
+      },
+      "one_liner": "The Ganga Ram Hospital in Lahore is named after **Sir Ganga Ram**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

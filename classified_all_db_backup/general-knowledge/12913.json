@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the reason Junaid Jamshed left his music career?",
+      "options": {
+        "a": "Health issues",
+        "b": "Financial problems",
+        "c": "Considered it haram",
+        "d": "None of these"
+      },
+      "one_liner": "Junaid Jamshed decided to leave music because he considered it **haram**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

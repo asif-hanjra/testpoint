@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the previous name of Khyber Pakhtunkhwa (KPK) before the 18th amendment?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "NWFP",
+        "d": "Balochistan"
+      },
+      "one_liner": "Before the 18th amendment, Khyber Pakhtunkhwa was known as **NWFP (North-West Frontier Province)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

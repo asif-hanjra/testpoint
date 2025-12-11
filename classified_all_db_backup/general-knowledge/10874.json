@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date is New Year's Day celebrated internationally?",
+      "options": {
+        "a": "January 1",
+        "b": "January 4",
+        "c": "January 10",
+        "d": "January 31"
+      },
+      "one_liner": "New Year's Day is celebrated internationally on **January 1st** each year.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

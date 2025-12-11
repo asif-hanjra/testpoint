@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which traditional game is associated with Punjab?",
+      "options": {
+        "a": "Kabadi",
+        "b": "Hockey",
+        "c": "Cricket",
+        "d": "Football"
+      },
+      "one_liner": "The traditional game that is closely associated with Punjab is **Kabadi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

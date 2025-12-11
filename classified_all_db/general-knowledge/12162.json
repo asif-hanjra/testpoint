@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for the Cuban Missile Crisis?",
+      "options": {
+        "a": "Berlin Crisis",
+        "b": "Caribbean Crisis",
+        "c": "Bay of Pigs Invasion",
+        "d": "Vietnam Crisis"
+      },
+      "one_liner": "The Cuban Missile Crisis is also known as the **Caribbean Crisis**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

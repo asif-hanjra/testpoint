@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many stars are present on the Malaysian flag and what do they represent?",
+      "options": {
+        "a": "Ten",
+        "b": "Thirteen",
+        "c": "Fourteen",
+        "d": "Fifteen"
+      },
+      "one_liner": "The Malaysian flag features **fourteen stars**, symbolizing the country's 13 states and the Federal Government.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

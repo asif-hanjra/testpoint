@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date is Human Rights Day observed?",
+      "options": {
+        "a": "1st May",
+        "b": "10th December",
+        "c": "14th August",
+        "d": "26th January"
+      },
+      "one_liner": "Human Rights Day is celebrated every year on **10th December**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Universal Declaration of Human Rights (1948)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

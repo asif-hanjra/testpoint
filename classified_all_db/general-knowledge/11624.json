@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following countries was NOT among the original six founders of the European Union?",
+      "options": {
+        "a": "Belgium",
+        "b": "Italy",
+        "c": "Spain",
+        "d": "Luxembourg"
+      },
+      "one_liner": "Among the original six founders of the European Union, **Spain** was not included.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city hosted the SAARC summit in 2005?",
+      "options": {
+        "a": "Islamabad",
+        "b": "Colombo",
+        "c": "Dhaka",
+        "d": "Kathmandu"
+      },
+      "one_liner": "The city that hosted the SAARC summit in 2005 was **Dhaka**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many countries are members of the Commonwealth?",
+      "options": {
+        "a": "44",
+        "b": "54",
+        "c": "64",
+        "d": "74"
+      },
+      "one_liner": "The Commonwealth is an international organization consisting of **54 countries** as its members.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

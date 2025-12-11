@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who coined the name 'UNO'?",
+      "options": {
+        "a": "Churchill",
+        "b": "Stalin",
+        "c": "Roosevelt",
+        "d": "None of these"
+      },
+      "one_liner": "The name 'UNO' was coined by **Roosevelt**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

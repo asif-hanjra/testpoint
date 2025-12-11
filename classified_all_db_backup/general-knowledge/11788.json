@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the 47th vice president of the United States?",
+      "options": {
+        "a": "Joseph Robinette Biden",
+        "b": "Mike Pence",
+        "c": "Dick Cheney",
+        "d": "Kamala Harris"
+      },
+      "one_liner": "Joseph Robinette Biden held the position of the 47th vice president of the United States.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

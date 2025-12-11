@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country is the Khewra Salt Mine located?",
+      "options": {
+        "a": "India",
+        "b": "Pakistan",
+        "c": "China",
+        "d": "Afghanistan"
+      },
+      "one_liner": "Located in **Pakistan**, the Khewra Salt Mine is famous for its size and historical significance.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

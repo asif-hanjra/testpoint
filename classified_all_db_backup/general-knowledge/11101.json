@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is known as the father of the Iranian Revolution of 1979?",
+      "options": {
+        "a": "Ayatollah Khamenei",
+        "b": "Imam Khomeini",
+        "c": "Reza Shah",
+        "d": "None of these"
+      },
+      "one_liner": "Imam Khomeini is widely recognized as the **father of the Iranian Revolution of 1979**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

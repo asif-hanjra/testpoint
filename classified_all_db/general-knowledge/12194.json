@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of the Islamic Military Alliance located?",
+      "options": {
+        "a": "Cairo",
+        "b": "Riyadh",
+        "c": "Istanbul",
+        "d": "Tehran"
+      },
+      "one_liner": "The headquarters of the Islamic Military Alliance is situated in **Riyadh**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

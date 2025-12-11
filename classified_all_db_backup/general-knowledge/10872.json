@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two countries dispute the territory of Donbas?",
+      "options": {
+        "a": "Russia and Ukraine",
+        "b": "China and India",
+        "c": "USA and Canada",
+        "d": "France and Germany"
+      },
+      "one_liner": "Donbas is a region that has been the subject of territorial disputes between **Russia** and **Ukraine**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

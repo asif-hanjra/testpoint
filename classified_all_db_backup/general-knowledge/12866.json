@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of the world's population lives in the European Union?",
+      "options": {
+        "a": "3.2%",
+        "b": "4.5%",
+        "c": "5.6%",
+        "d": "7.1%"
+      },
+      "one_liner": "The European Union accounts for **5.6%** of the world's population.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

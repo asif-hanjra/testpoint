@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is known as the oldest monarchy in the world?",
+      "options": {
+        "a": "Japan",
+        "b": "United Kingdom",
+        "c": "Saudi Arabia",
+        "d": "Thailand"
+      },
+      "one_liner": "Japan is recognized as the country with the **oldest monarchy** in the world.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country's constitution is considered the briefest in the world?",
+      "options": {
+        "a": "United States of America",
+        "b": "United Kingdom",
+        "c": "France",
+        "d": "Germany"
+      },
+      "one_liner": "The constitution of the United States of America is recognized as the **briefest constitution in the world**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

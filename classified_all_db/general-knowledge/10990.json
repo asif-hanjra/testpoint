@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Port of Cape Town is a major seaport in which part of the world?",
+      "options": {
+        "a": "South Africa",
+        "b": "Australia",
+        "c": "New Zealand",
+        "d": "None of these"
+      },
+      "one_liner": "The Port of Cape Town is a major seaport located in **South Africa**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

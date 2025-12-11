@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who selects the judges of the International Court of Justice?",
+      "options": {
+        "a": "General Assembly and Security Council",
+        "b": "Only the General Assembly",
+        "c": "Only the Security Council",
+        "d": "None of these"
+      },
+      "one_liner": "Judges of the International Court of Justice are selected by both the **General Assembly and the Security Council**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

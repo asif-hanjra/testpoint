@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a secret agency of Pakistan?",
+      "options": {
+        "a": "IB",
+        "b": "PTV",
+        "c": "PEMRA",
+        "d": "NADRA"
+      },
+      "one_liner": "Among Pakistan's secret agencies, **IB** is one of the main intelligence organizations.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

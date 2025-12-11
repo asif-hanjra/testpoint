@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "After completing his education, where did Baba Farid move to further his studies?",
+      "options": {
+        "a": "Lahore",
+        "b": "Delhi",
+        "c": "Ajodhan",
+        "d": "Faridkot"
+      },
+      "one_liner": "After completing his education, Baba Farid moved to **Delhi** to learn Islamic doctrine from his master.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Nizam-ud-Din Auliya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

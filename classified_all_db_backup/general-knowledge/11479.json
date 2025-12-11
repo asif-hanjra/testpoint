@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the official name of Mauritania?",
+      "options": {
+        "a": "Islamic Republic of Mauritania",
+        "b": "Republic of Mauritania",
+        "c": "Mauritanian Federation",
+        "d": "None of these"
+      },
+      "one_liner": "The official name of Mauritania is the **Islamic Republic of Mauritania**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

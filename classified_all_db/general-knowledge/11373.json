@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does NATO stand for?",
+      "options": {
+        "a": "North Atlantic Treaty Organization",
+        "b": "National Atlantic Treaty Organization",
+        "c": "North American Treaty Organization",
+        "d": "None of these"
+      },
+      "one_liner": "NATO is the abbreviation for the **North Atlantic Treaty Organization**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "North Atlantic Treaty Organization (NATO)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "North Atlantic Treaty Organization (NATO)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

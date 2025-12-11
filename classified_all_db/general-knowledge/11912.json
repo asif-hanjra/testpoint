@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How are human rights enforced within a legal system?",
+      "options": {
+        "a": "By direct government orders",
+        "b": "By interpreting legislation and common law rules to align with convention rights",
+        "c": "Through international treaties only",
+        "d": "None of these"
+      },
+      "one_liner": "Human rights are enforced by interpreting both legislation and common law rules to ensure consistency with **convention rights**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Universal Declaration of Human Rights (1948)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Universal Declaration of Human Rights (1948)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries' independence was arranged by Winston Churchill's government?",
+      "options": {
+        "a": "Burma and Ceylon",
+        "b": "India and Pakistan",
+        "c": "Malaysia and Singapore",
+        "d": "None of these"
+      },
+      "one_liner": "Winston Churchill's government arranged the independence of **Burma (Myanmar) and Ceylon (Sri Lanka)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

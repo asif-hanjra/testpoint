@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was the first to accept Pakistan after its independence?",
+      "options": {
+        "a": "Iran",
+        "b": "Iraq",
+        "c": "Afghanistan",
+        "d": "Turkey"
+      },
+      "one_liner": "Iraq was the first country to officially accept the newly independent state of **Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

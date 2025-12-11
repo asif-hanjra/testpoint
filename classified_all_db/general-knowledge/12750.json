@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which rank of generals are eligible to become the Chief of Army Staff in Pakistan?",
+      "options": {
+        "a": "Three star generals",
+        "b": "Four star generals",
+        "c": "Two star generals",
+        "d": "None of these"
+      },
+      "one_liner": "Only **four star generals** are eligible for the post of Chief of Army Staff in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

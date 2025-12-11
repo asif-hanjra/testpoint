@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following organizations is known as The World Bank?",
+      "options": {
+        "a": "International financial institution",
+        "b": "Children's welfare organization",
+        "c": "Environmental protection agency",
+        "d": "None of these"
+      },
+      "one_liner": "The World Bank is an international financial institution that provides loans and grants to the governments of **low- and middle-income countries**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

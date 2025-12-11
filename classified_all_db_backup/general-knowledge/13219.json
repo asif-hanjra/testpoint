@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the birth and death years of Sultan Bahu?",
+      "options": {
+        "a": "1500-1550",
+        "b": "1630-1691",
+        "c": "1700-1750",
+        "d": "1800-1850"
+      },
+      "one_liner": "Sultan Bahu was born in **1630** and passed away in **1691**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

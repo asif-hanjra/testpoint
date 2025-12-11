@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How often are the Asian Games held?",
+      "options": {
+        "a": "Every two years",
+        "b": "Every four years",
+        "c": "Every five years",
+        "d": "None of these"
+      },
+      "one_liner": "The Asian Games are held every **four years**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

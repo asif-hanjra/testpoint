@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the world's highest ATM located in Pakistan?",
+      "options": {
+        "a": "Wagah Border",
+        "b": "Torkham Border",
+        "c": "Pak-China border, Khunjerab Pass",
+        "d": "Ghulam Khan Border"
+      },
+      "one_liner": "The world's highest ATM in Pakistan is located at the **Pak-China border, Khunjerab Pass**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

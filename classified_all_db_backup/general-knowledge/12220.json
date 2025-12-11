@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Arab country became the first to launch a Mars probe?",
+      "options": {
+        "a": "Saudi Arabia",
+        "b": "Egypt",
+        "c": "United Arab Emirates",
+        "d": "Morocco"
+      },
+      "one_liner": "The United Arab Emirates became the first Arab country to launch a Mars probe, marking a significant achievement in space exploration for the region.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who led the British forces to victory against Napoleon at the Battle of Waterloo in 1815?",
+      "options": {
+        "a": "James Ramsay MacDonald",
+        "b": "Duke of Wellington",
+        "c": "Winston Churchill",
+        "d": "Benjamin Disraeli"
+      },
+      "one_liner": "The historic victory against Napoleon at the Battle of Waterloo in 1815 was achieved by the **Duke of Wellington**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Battle of Waterloo (1815)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who remained the leader of the ANC, the ruling party of South Africa?",
+      "options": {
+        "a": "Nelson Mandela",
+        "b": "Desmond Tutu",
+        "c": "Jacob Zuma",
+        "d": "Thabo Mbeki"
+      },
+      "one_liner": "Nelson Mandela served as the leader of the ANC, which is the ruling party of **South Africa**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

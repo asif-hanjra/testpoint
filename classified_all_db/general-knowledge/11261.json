@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which state did Joe Biden represent in the United States Senate?",
+      "options": {
+        "a": "California",
+        "b": "Delaware",
+        "c": "New York",
+        "d": "Texas"
+      },
+      "one_liner": "Joe Biden represented the state of **Delaware** in the United States Senate.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

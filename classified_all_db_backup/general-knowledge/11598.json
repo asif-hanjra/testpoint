@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries were known as the Central Powers in World War I?",
+      "options": {
+        "a": "Russia, France, United Kingdom",
+        "b": "Germany, Austria-Hungary, Ottoman Empire",
+        "c": "USA, Italy, Japan",
+        "d": "None of these"
+      },
+      "one_liner": "The Central Powers in World War I consisted of **Germany, Austria-Hungary, and the Ottoman Empire**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard width of a badminton court?",
+      "options": {
+        "a": "4.5 meters",
+        "b": "5.18 meters",
+        "c": "6.2 meters",
+        "d": "7.0 meters"
+      },
+      "one_liner": "The standard width of a badminton court is **5.18 meters (17 feet)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

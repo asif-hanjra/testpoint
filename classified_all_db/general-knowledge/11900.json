@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote 'Pathway to Pakistan'?",
+      "options": {
+        "a": "Ch. Khaliq-uz-Zaman",
+        "b": "K. K. Aziz",
+        "c": "Stanley Wolpert",
+        "d": "I. H. Qureshi"
+      },
+      "one_liner": "The book 'Pathway to Pakistan' was authored by **Ch. Khaliq-uz-Zaman**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

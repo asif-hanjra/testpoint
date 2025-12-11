@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Alexandria is a famous seaport located in which country?",
+      "options": {
+        "a": "Greece",
+        "b": "Egypt",
+        "c": "Italy",
+        "d": "Libya"
+      },
+      "one_liner": "Alexandria is a well-known seaport situated in **Egypt**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

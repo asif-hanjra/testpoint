@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Nokia Mobile Company is associated with which country?",
+      "options": {
+        "a": "Sweden",
+        "b": "Finland",
+        "c": "Germany",
+        "d": "None of these"
+      },
+      "one_liner": "Nokia Mobile Company is originally from **Finland**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

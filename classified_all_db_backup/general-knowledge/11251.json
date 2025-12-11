@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which book is ranked second among the most read books in the world of all time?",
+      "options": {
+        "a": "The Holy Quran",
+        "b": "The Holy Bible",
+        "c": "The Alchemist",
+        "d": "Gone With the Wind"
+      },
+      "one_liner": "The **Holy Bible** is ranked as the second most read book in the world of all time.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

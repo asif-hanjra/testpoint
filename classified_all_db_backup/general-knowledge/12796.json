@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard distance of a marathon race?",
+      "options": {
+        "a": "20 miles (32 km)",
+        "b": "22 miles (36 km)",
+        "c": "26 miles (41 km)",
+        "d": "30 miles (48 km)"
+      },
+      "one_liner": "The standard distance for a marathon is **26 miles (41 kilometers)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

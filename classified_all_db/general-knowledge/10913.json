@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Hong Kong International Airport located?",
+      "options": {
+        "a": "Singapore",
+        "b": "Hong Kong",
+        "c": "Shanghai",
+        "d": "Beijing"
+      },
+      "one_liner": "Hong Kong International Airport is situated in **Hong Kong**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Airports",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airports",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

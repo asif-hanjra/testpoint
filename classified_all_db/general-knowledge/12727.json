@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many judges are there in the International Court of Justice?",
+      "options": {
+        "a": "10",
+        "b": "12",
+        "c": "15",
+        "d": "20"
+      },
+      "one_liner": "The International Court of Justice is comprised of **15 judges**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

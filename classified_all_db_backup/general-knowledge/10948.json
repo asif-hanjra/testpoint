@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is responsible for deciding when and where a UN peacekeeping mission will operate?",
+      "options": {
+        "a": "UN General Assembly",
+        "b": "UN Security Council",
+        "c": "International Court of Justice",
+        "d": "None of these"
+      },
+      "one_liner": "The authority to determine the timing and location of UN peacekeeping missions rests with the **UN Security Council**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who launched the political party Tehreek-e-Istaqlal?",
+      "options": {
+        "a": "Zulfiqar Ali Bhutto",
+        "b": "Air Marshal Asgar Khan",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The political party Tehreek-e-Istaqlal was founded by **Air Marshal Asgar Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

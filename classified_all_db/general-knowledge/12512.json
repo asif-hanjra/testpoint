@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Perestroika movement for reforming and reconstructing started by Mikhail Gorbachev?",
+      "options": {
+        "a": "1982",
+        "b": "1985",
+        "c": "1989",
+        "d": "1991"
+      },
+      "one_liner": "The Perestroika movement for reforming and reconstructing was started by Mikhail Gorbachev in **1985**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Vladimir Lenin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

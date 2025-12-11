@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two countries established the Shanghai Cooperation Organisation (SCO) in 2001?",
+      "options": {
+        "a": "China and Russia",
+        "b": "India and Pakistan",
+        "c": "China and India",
+        "d": "Russia and Iran"
+      },
+      "one_liner": "The Shanghai Cooperation Organisation (SCO) was established in 2001 by **China and Russia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Shanghai Cooperation Organisation (SCO)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Shanghai Cooperation Organisation (SCO)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

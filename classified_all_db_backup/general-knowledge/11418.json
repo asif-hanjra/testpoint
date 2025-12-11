@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which body appoints the Secretary-General of the United Nations?",
+      "options": {
+        "a": "Security Council",
+        "b": "Economic and Social Council",
+        "c": "General Assembly",
+        "d": "International Court of Justice"
+      },
+      "one_liner": "The **General Assembly** appoints the Secretary-General of the United Nations.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

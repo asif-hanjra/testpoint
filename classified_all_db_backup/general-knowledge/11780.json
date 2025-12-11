@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "ISI and FIA are secret agencies of which country?",
+      "options": {
+        "a": "India",
+        "b": "Pakistan",
+        "c": "Bangladesh",
+        "d": "Afghanistan"
+      },
+      "one_liner": "The ISI and FIA are both secret agencies belonging to **Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

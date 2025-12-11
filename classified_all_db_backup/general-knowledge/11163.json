@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Dalal Street is situated in which country?",
+      "options": {
+        "a": "Pakistan",
+        "b": "India",
+        "c": "United States",
+        "d": "England"
+      },
+      "one_liner": "Dalal Street, known for its financial significance, is situated in **India**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Oslo Airport is located in which country?",
+      "options": {
+        "a": "Sweden",
+        "b": "Denmark",
+        "c": "Norway",
+        "d": "Finland"
+      },
+      "one_liner": "Oslo Airport is located in **Norway**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Airports",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airports",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

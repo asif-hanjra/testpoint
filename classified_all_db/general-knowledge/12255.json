@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard length of a badminton court?",
+      "options": {
+        "a": "12.0 meters",
+        "b": "13.4 meters",
+        "c": "15.0 meters",
+        "d": "17.2 meters"
+      },
+      "one_liner": "The standard length of a badminton court is **13.4 meters (44 feet)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

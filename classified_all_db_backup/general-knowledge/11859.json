@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "To which Sufi order did Baba Farid belong?",
+      "options": {
+        "a": "Qadriya",
+        "b": "Chistia",
+        "c": "Suhrawardiya",
+        "d": "Naqshbandiya"
+      },
+      "one_liner": "Baba Farid was a prominent figure associated with the **Chistia** Sufi order.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Moin Uddin Chishti",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

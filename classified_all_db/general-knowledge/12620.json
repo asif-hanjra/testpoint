@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "From what source is natural rubber primarily obtained?",
+      "options": {
+        "a": "Animal",
+        "b": "Mineral",
+        "c": "Tree",
+        "d": "Plant root"
+      },
+      "one_liner": "Natural rubber is primarily obtained from a special kind of **tree**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

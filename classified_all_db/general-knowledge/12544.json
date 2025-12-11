@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How did Adolf Hitler gain popular support in Germany?",
+      "options": {
+        "a": "Treaty of Versailles",
+        "b": "League of Nations",
+        "c": "Munich Agreement",
+        "d": "None of these"
+      },
+      "one_liner": "Adolf Hitler gained popular support in Germany by speaking against the **Treaty of Versailles**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

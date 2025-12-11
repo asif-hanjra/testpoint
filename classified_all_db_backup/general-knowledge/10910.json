@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following countries is NOT a member of BRICS as of 2024?",
+      "options": {
+        "a": "Brazil",
+        "b": "Russia",
+        "c": "United States",
+        "d": "India"
+      },
+      "one_liner": "As of 2024, the BRICS intergovernmental organization includes nine member countries, among which **the United States is not a member**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

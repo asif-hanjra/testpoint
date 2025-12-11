@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Gwadar Port, purchased from Oman in 1958 for US$3 million, is located in which country?",
+      "options": {
+        "a": "Oman",
+        "b": "Pakistan",
+        "c": "UAE",
+        "d": "India"
+      },
+      "one_liner": "Gwadar Port, bought from Oman in 1958 for US$3 million, is now a prominent seaport in **Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

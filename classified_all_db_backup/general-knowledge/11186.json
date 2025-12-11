@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of organization is the Shanghai Cooperation Organisation (SCO)?",
+      "options": {
+        "a": "Sports organization",
+        "b": "Cultural organization",
+        "c": "Eurasian political, economic, international security and defence organization",
+        "d": "Trade union"
+      },
+      "one_liner": "The Shanghai Cooperation Organisation (SCO) is a **Eurasian political, economic, international security and defence organization**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Shanghai Cooperation Organisation (SCO)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Shanghai Cooperation Organisation (SCO)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

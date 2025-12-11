@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the President of the United States during the Cuban Missile Crisis of 1962?",
+      "options": {
+        "a": "John F Kennedy",
+        "b": "Richard Nixon",
+        "c": "Dwight D Eisenhower",
+        "d": "Lyndon B Johnson"
+      },
+      "one_liner": "During the Cuban Missile Crisis of 1962, the President of the United States was **John F Kennedy**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

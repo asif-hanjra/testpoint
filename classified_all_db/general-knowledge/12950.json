@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the 41st president of the United States?",
+      "options": {
+        "a": "Bill Clinton",
+        "b": "Ronald Reagan",
+        "c": "George Herbert Walker Bush",
+        "d": "Barack Obama"
+      },
+      "one_liner": "The 41st president of the United States was **George Herbert Walker Bush**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

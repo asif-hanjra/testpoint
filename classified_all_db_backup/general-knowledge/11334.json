@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Rishi Sunak is the first British Prime Minister of which origin(s)?",
+      "options": {
+        "a": "Indian origin",
+        "b": "Pakistani origin",
+        "c": "Both Pakistani and Indian origin",
+        "d": "None of these"
+      },
+      "one_liner": "Rishi Sunak made history as the first British Prime Minister of **Pakistani and Indian origin**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

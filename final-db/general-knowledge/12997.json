@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the term HPP stand for in relation to fruits?",
+      "options": {
+        "a": "High Pressure Processing",
+        "b": "High Protein Processing",
+        "c": "High pH Processing",
+        "d": "None of these"
+      },
+      "one_liner": "In the context of fruits, the abbreviation HPP refers to **High Pressure Processing**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

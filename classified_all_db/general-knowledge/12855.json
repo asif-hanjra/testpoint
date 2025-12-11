@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the current Secretary-General of the United Nations as of 2024?",
+      "options": {
+        "a": "Ban Ki-moon",
+        "b": "Kofi Annan",
+        "c": "António Guterres",
+        "d": "Boutros Boutros-Ghali"
+      },
+      "one_liner": "As of 2024, the current Secretary-General of the United Nations is **António Guterres**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

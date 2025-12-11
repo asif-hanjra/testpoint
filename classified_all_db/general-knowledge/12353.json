@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who built the metal framework of the Statue of Liberty?",
+      "options": {
+        "a": "Frederic Auguste Bartholdi",
+        "b": "Gustave Eiffel",
+        "c": "Alexandre Gustave",
+        "d": "None of these"
+      },
+      "one_liner": "The metal framework of the Statue of Liberty was constructed by **Gustave Eiffel**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

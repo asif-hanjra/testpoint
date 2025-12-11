@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many Member States were given the administration of the Trust Territories under the Trusteeship Council?",
+      "options": {
+        "a": "Five",
+        "b": "Seven",
+        "c": "Nine",
+        "d": "Eleven"
+      },
+      "one_liner": "Seven Member States were responsible for administering the Trust Territories under the Trusteeship Council.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

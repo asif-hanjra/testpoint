@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Hagia Sophia located?",
+      "options": {
+        "a": "Cairo, Egypt",
+        "b": "Istanbul, Turkey",
+        "c": "Athens, Greece",
+        "d": "Rome, Italy"
+      },
+      "one_liner": "The Hagia Sophia is located in **Istanbul, Turkey**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Hagia Sophia",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Blue Mosque: Istanbul",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Hagia Sophia",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

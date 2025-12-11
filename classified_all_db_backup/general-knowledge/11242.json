@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries are members of the BRICS association?",
+      "options": {
+        "a": "China, India, Russia, South Africa, Brazil",
+        "b": "USA, UK, France, Germany, Italy",
+        "c": "Japan, South Korea, Australia, Canada, Mexico",
+        "d": "None of these"
+      },
+      "one_liner": "BRICS is an association that includes the emerging economies of **China, India, Russia, South Africa, and Brazil**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which profession is Sir Laurence Olivier best known for?",
+      "options": {
+        "a": "Director",
+        "b": "Actor",
+        "c": "Musician",
+        "d": "Writer"
+      },
+      "one_liner": "Sir Laurence Olivier is renowned as an accomplished **actor**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

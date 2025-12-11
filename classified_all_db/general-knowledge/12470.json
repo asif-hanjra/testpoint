@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the term 'downsizing' refer to?",
+      "options": {
+        "a": "Making in a larger size",
+        "b": "Making in a smaller size",
+        "c": "Making in the same size",
+        "d": "None of these"
+      },
+      "one_liner": "The term 'downsizing' refers to making something in a **smaller size**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

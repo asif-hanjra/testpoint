@@ -91,9 +91,20 @@ async def check_session(subject: str):
     import time
     start_time = time.time()
     try:
+        # Check if removed-track JSON exists
+        tracking_file = file_manager.project_root / "removed-track" / f"{subject}.json"
+        has_removed_track = tracking_file.exists()
+        
         # Check if session file exists first (fast file system check)
-        if not session_manager.session_exists(subject):
-            return {"exists": False}
+        session_exists = session_manager.session_exists(subject)
+        
+        # If neither exists, return False
+        if not session_exists and not has_removed_track:
+            return {"exists": False, "has_removed_track": False}
+        
+        # If only removed-track exists, return that info
+        if not session_exists and has_removed_track:
+            return {"exists": False, "has_removed_track": True}
         
         # Load only metadata (no groups - fast!)
         # Run in thread pool to avoid blocking event loop
@@ -117,9 +128,12 @@ async def check_session(subject: str):
             elapsed = time.time() - start_time
             return {
                 "exists": True,
+                "has_removed_track": has_removed_track,
                 "session": session_metadata
             }
-        return {"exists": False}
+        
+        # Session file exists but no metadata - return with removed-track info
+        return {"exists": False, "has_removed_track": has_removed_track}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "International Holocaust Remembrance Day is commemorated on which date?",
+      "options": {
+        "a": "January 27",
+        "b": "January 28",
+        "c": "January 30",
+        "d": "January 31"
+      },
+      "one_liner": "International Holocaust Remembrance Day is commemorated on **January 27th**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

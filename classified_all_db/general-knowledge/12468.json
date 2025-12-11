@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did Winston Churchill belong to during his tenure as Prime Minister of the United Kingdom?",
+      "options": {
+        "a": "Labour Party",
+        "b": "Liberal Party",
+        "c": "Conservative Party",
+        "d": "None of these"
+      },
+      "one_liner": "Winston Churchill was a prominent leader of the **Conservative Party** during his time as Prime Minister of the United Kingdom.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

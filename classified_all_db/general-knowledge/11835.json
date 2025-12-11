@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date was the United States presidential election 2024 held?",
+      "options": {
+        "a": "November 3, 2024",
+        "b": "November 5, 2024",
+        "c": "November 7, 2024",
+        "d": "November 9, 2024"
+      },
+      "one_liner": "The United States presidential election of 2024 took place on **November 5, 2024**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

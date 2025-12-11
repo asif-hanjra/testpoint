@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who designed the Sydney Opera House?",
+      "options": {
+        "a": "Frank Lloyd Wright",
+        "b": "Jørn Utzon",
+        "c": "Peter Hall",
+        "d": "Gustave Eiffel"
+      },
+      "one_liner": "The Sydney Opera House was designed by the Danish architect **Jørn Utzon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Sydney Opera House",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Eiffel Tower",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

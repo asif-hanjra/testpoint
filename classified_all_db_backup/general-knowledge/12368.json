@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did James Abram Garfield become president of the United States?",
+      "options": {
+        "a": "1877",
+        "b": "1881",
+        "c": "1890",
+        "d": "1865"
+      },
+      "one_liner": "James Abram Garfield became president of the United States in **1881**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

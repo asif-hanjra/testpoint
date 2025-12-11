@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two parties signed the Doha Agreement in February 2020?",
+      "options": {
+        "a": "US and Al-Qaeda",
+        "b": "US and Taliban",
+        "c": "US and Pakistan",
+        "d": "None of these"
+      },
+      "one_liner": "The **US and the Taliban** were the two parties that signed the Doha Agreement in February 2020.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

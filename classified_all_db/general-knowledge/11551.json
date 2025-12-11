@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Pakistani scientist awarded the Nobel Prize in 1979?",
+      "options": {
+        "a": "Dr. Abdul Qadeer Khan",
+        "b": "Dr. Abdus Salam",
+        "c": "Dr. Samar Mubarakmand",
+        "d": "None of these"
+      },
+      "one_liner": "The Pakistani scientist who received the Nobel Prize in 1979 was **Dr. Abdus Salam**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

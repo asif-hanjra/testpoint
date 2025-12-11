@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the capital city of Indonesia?",
+      "options": {
+        "a": "Jakarta",
+        "b": "Bangkok",
+        "c": "Kuala Lumpur",
+        "d": "Manila"
+      },
+      "one_liner": "The capital of Indonesia is **Jakarta**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date is World Water Day celebrated every year?",
+      "options": {
+        "a": "March 22",
+        "b": "April 7",
+        "c": "June 5",
+        "d": "December 10"
+      },
+      "one_liner": "World Water Day is observed annually on **March 22** to highlight the importance of freshwater and advocate for sustainable management of water resources.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

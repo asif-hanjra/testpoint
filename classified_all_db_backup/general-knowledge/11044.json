@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the acronym DNS stand for?",
+      "options": {
+        "a": "Data Network Service",
+        "b": "Domain Name System",
+        "c": "Digital Number Sequence",
+        "d": "None of these"
+      },
+      "one_liner": "The acronym DNS stands for the **Domain Name System**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

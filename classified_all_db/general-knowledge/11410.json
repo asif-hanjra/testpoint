@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the highest military award in Australia?",
+      "options": {
+        "a": "Victoria Cross of Australia",
+        "b": "Victoria Cross of Canada",
+        "c": "Order of Rama",
+        "d": "Aung San Thiriya"
+      },
+      "one_liner": "Australia's highest military award is the **Victoria Cross of Australia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

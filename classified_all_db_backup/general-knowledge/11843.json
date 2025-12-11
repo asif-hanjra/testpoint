@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Indian ruler was martyred during the Fourth Anglo-Mysore War (1798-1799)?",
+      "options": {
+        "a": "Haider Ali",
+        "b": "Tipu Sultan",
+        "c": "Bahadur Shah Zafar",
+        "d": "Ranjit Singh"
+      },
+      "one_liner": "**Tipu Sultan** was martyred during the Fourth Anglo-Mysore War (1798-1799).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Battle of Waterloo (1815)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

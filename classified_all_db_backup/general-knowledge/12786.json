@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the primary purpose of the Great Wall of China?",
+      "options": {
+        "a": "Religious ceremonies",
+        "b": "Defense against invasions",
+        "c": "Trade route",
+        "d": "None of these"
+      },
+      "one_liner": "The Great Wall of China was primarily constructed as a defensive fortification to protect ancient Chinese states and Imperial China from nomadic groups of the Eurasian Steppe, with its main purpose being **defense against invasions**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Great Wall of China",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Great Wall of China",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

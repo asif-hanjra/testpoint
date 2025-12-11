@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the opening words of the United Nations Charter?",
+      "options": {
+        "a": "We the peoples of United Nations",
+        "b": "We the people of the world",
+        "c": "United for peace",
+        "d": "None of these"
+      },
+      "one_liner": "The opening words of the United Nations Charter are **'We the peoples of United Nations'**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

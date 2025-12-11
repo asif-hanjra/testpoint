@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which of the following fields is the Nobel Prize NOT awarded?",
+      "options": {
+        "a": "Physics",
+        "b": "Astronomy",
+        "c": "Chemistry",
+        "d": "Literature"
+      },
+      "one_liner": "The Nobel Prize is not awarded in the field of **Astronomy**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

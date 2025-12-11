@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first European to reach India through the Atlantic Ocean?",
+      "options": {
+        "a": "Christopher Columbus",
+        "b": "Ferdinand Magellan",
+        "c": "Vasco da Gama",
+        "d": "None of these"
+      },
+      "one_liner": "The first European to reach India through the Atlantic Ocean was **Vasco da Gama**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

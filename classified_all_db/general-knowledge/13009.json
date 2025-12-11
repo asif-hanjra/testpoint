@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What event prompted the United States to enter World War II?",
+      "options": {
+        "a": "Attack on Pearl Harbor by Japan",
+        "b": "German invasion of Poland",
+        "c": "Battle of Stalingrad",
+        "d": "None of these"
+      },
+      "one_liner": "The United States entered World War II after the **Pearl Harbor attack by Japan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "American Revolution (1765-1783)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

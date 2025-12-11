@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country has the second largest number of Nobel laureates after the United States?",
+      "options": {
+        "a": "France",
+        "b": "Germany",
+        "c": "United Kingdom",
+        "d": "Japan"
+      },
+      "one_liner": "The United Kingdom holds the distinction of having the second largest number of Nobel laureates after the **United States**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

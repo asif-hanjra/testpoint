@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the broken chain at the feet of the Statue of Liberty represent?",
+      "options": {
+        "a": "Unity",
+        "b": "Abolition of slavery and independence",
+        "c": "Victory in war",
+        "d": "None of these"
+      },
+      "one_liner": "The broken chain at the feet of the Statue of Liberty signifies **independence and the abolition of slavery**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

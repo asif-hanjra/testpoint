@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does FAO stand for?",
+      "options": {
+        "a": "Food and Agriculture Organization",
+        "b": "Federal Agricultural Office",
+        "c": "Food Association Organization",
+        "d": "None of these"
+      },
+      "one_liner": "FAO is the abbreviation for the **Food and Agriculture Organization**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

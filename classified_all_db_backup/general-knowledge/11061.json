@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who chaired the Asia Pacific Group of UNESCO for the year 2020 from Pakistan?",
+      "options": {
+        "a": "Moin-ul-Haq",
+        "b": "Maleeha Lodhi",
+        "c": "Abdul Basit",
+        "d": "None of these"
+      },
+      "one_liner": "For the year 2020, the Asia Pacific Group of UNESCO was chaired by **Moin-ul-Haq** from Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

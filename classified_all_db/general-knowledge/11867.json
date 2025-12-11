@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the Arab League formed?",
+      "options": {
+        "a": "Baghdad",
+        "b": "Cairo",
+        "c": "Riyadh",
+        "d": "Beirut"
+      },
+      "one_liner": "The Arab League was formed in **Cairo**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Arab League",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Arab League",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

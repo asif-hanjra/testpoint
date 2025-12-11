@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the world's narrowest street called?",
+      "options": {
+        "a": "Ebenezer Place",
+        "b": "Vicolo della Virilita",
+        "c": "Wall Street",
+        "d": "Dalal Street"
+      },
+      "one_liner": "The world's narrowest street is called **Vicolo della Virilita**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

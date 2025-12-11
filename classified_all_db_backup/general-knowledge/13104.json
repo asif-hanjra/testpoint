@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the height of the Leaning Tower of Pisa on its low side?",
+      "options": {
+        "a": "50 metres",
+        "b": "55.86 metres",
+        "c": "60 metres",
+        "d": "56.67 metres"
+      },
+      "one_liner": "On its low side, the Leaning Tower of Pisa stands at a height of **55.86 metres (183 feet 3 inches)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Leaning Tower of Pisa",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Leaning Tower of Pisa",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

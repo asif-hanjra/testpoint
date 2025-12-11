@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The 30th Parallel north is located how far between the equator and the North Pole?",
+      "options": {
+        "a": "Halfway",
+        "b": "One-third of the way",
+        "c": "Two-thirds of the way",
+        "d": "None of these"
+      },
+      "one_liner": "The 30th Parallel north is a line of latitude that stands **one-third of the way between the equator and the North Pole**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

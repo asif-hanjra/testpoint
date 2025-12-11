@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which region is known as the 'Land of Prophets'?",
+      "options": {
+        "a": "Egypt",
+        "b": "Palestine",
+        "c": "Iraq",
+        "d": "Syria"
+      },
+      "one_liner": "Palestine is famously referred to as the **Land of Prophets** due to its historical and religious significance.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}
