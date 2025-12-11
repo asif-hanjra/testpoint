@@ -74,6 +74,10 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   const [keptAppearanceOrder, setKeptAppearanceOrder] = useState<{ [removedFilename: string]: { [keptFilename: string]: number } }>({});
   const [checkAllMode, setCheckAllMode] = useState<boolean>(false); // Toggle for check all mode
   
+  // Track user-modified files at SimilarityGroupView level (for saved/removed file sync)
+  // When user manually changes a file, we respect their choice even for saved/removed files
+  const userModifiedFilesRef = useRef<Set<string>>(new Set());
+  
   // Auto-scroll state
   const [autoScrollEnabled, setAutoScrollEnabled] = useState<boolean>(false); // Button ON/OFF state
   const [autoScrollActive, setAutoScrollActive] = useState<boolean>(false); // Currently scrolling
@@ -202,7 +206,8 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
       });
       
       // Select only the highest priority unknown file
-      selections[unknownFiles[0].filename] = true;
+      const selectedUnknown = unknownFiles[0].filename;
+      selections[selectedUnknown] = true;
     }
     
     return selections;
@@ -210,6 +215,7 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
 
   // Recalculate selections when checkAllMode changes
   // IMPORTANT: Preserve existing autoSelections (user modifications) - only apply auto-selections for missing values
+  // FIX: Always override for saved/removed files (status-based rules), only preserve for unknown files
   useEffect(() => {
     if (!initializing && groups.length > 0) {
       const session = storage.loadSession(subject);
@@ -220,18 +226,39 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
         
         for (let groupIndex = 0; groupIndex < groups.length; groupIndex++) {
           const groupFiles = groups[groupIndex].files;
-          const groupSelections = autoSelectBestMCQ(groupFiles, metadata, checkAllMode);
           
-          // Preserve existing selections (user modifications), only add auto-selections for missing files
+          // Preserve existing selections (user modifications), but always override for saved/removed files
           const existingSelections = updated[groupIndex] || {};
           const merged: { [filename: string]: boolean } = { ...existingSelections };
           
-          // Only apply auto-selections for files that don't have existing selections
-          for (const filename of groupFiles) {
-            if (!(filename in merged)) {
-              merged[filename] = groupSelections[filename] ?? false;
+          // First, check which files are user-modified and skip auto-selection for them
+          const userModifiedInGroup = groupFiles.filter(f => userModifiedFilesRef.current.has(f));
+          
+          // Only run auto-selection for files that are NOT user-modified
+          const filesForAutoSelect = groupFiles.filter(f => !userModifiedFilesRef.current.has(f));
+          
+          if (filesForAutoSelect.length > 0) {
+            const groupSelections = autoSelectBestMCQ(filesForAutoSelect, metadata, checkAllMode);
+            
+            // Apply auto-selections only for non-user-modified files
+            for (const filename of filesForAutoSelect) {
+              const fileStatus = fileStatusContext.getFileStatus(filename);
+              const status = fileStatus?.status || 'unknown';
+              const newSelection = groupSelections[filename] ?? false;
+              
+              // Always override for saved/removed files (status-based rules must be enforced)
+              // These files are not user-modified, so apply rules
+              if (status === 'saved' || status === 'removed') {
+                merged[filename] = newSelection;
+              } else if (!(filename in merged)) {
+                // Only preserve for unknown files if not already set
+                merged[filename] = newSelection;
+              }
             }
           }
+          
+          // For user-modified files, preserve their existing value (don't run auto-selection on them)
+          // Keep existing value - don't override
           
           updated[groupIndex] = merged;
         }
@@ -239,10 +266,14 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
         return updated;
       });
     }
-  }, [checkAllMode, groups, subject, autoSelectBestMCQ, initializing]);
+  }, [checkAllMode, groups, subject, autoSelectBestMCQ, initializing, fileStatusContext]);
 
   const initializeGroups = async () => {
     setInitializing(true);
+    
+    // Clear user modifications when groups are reinitialized (new subject or groups changed)
+    // This ensures fresh start for new groups, but preserves modifications within same session
+    userModifiedFilesRef.current.clear();
     
     // Group by similarity levels (rounded to 0.1%)
     const grouped: { [key: number]: number[] } = {};
@@ -323,12 +354,6 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
         
         // Save metadata to localStorage
         storage.updateMCQMetadata(subject, mcqMetadata);
-        
-        // Debug: Log metadata for verification
-        console.log('Loaded MCQ metadata for all files:', mcqMetadata);
-        console.log('Files with year keys:', Object.entries(mcqMetadata)
-          .filter(([f, m]) => m.hasYear)
-          .map(([f]) => f));
       } catch (error) {
         console.error('Failed to load MCQ metadata:', error);
         // Fallback to cached metadata if API fails
@@ -341,30 +366,51 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     // Rule 3: Unknown files → select highest priority (hasYear > smallest fileNum)
     // Use the finalMetadata directly instead of reading from localStorage
     // IMPORTANT: Preserve existing autoSelections (user modifications) - only apply auto-selections for missing values
+    // FIX: Always override for saved/removed files (status-based rules), only preserve for unknown files
     setAutoSelections(prev => {
       const updated: { [groupIndex: number]: { [filename: string]: boolean } } = { ...prev };
       
       for (let groupIndex = 0; groupIndex < groups.length; groupIndex++) {
         const groupFiles = groups[groupIndex].files;
         
-        // Pass metadata and checkAllMode to autoSelectBestMCQ (uses Context internally)
-        const groupSelections = autoSelectBestMCQ(groupFiles, finalMetadata, checkAllMode);
-        
-        // Preserve existing selections (user modifications), only add auto-selections for missing files
+        // Preserve existing selections (user modifications), but always override for saved/removed files
         const existingSelections = updated[groupIndex] || {};
         const merged: { [filename: string]: boolean } = { ...existingSelections };
         
-        // Only apply auto-selections for files that don't have existing selections
-        for (const filename of groupFiles) {
-          if (!(filename in merged)) {
-            merged[filename] = groupSelections[filename] ?? false;
+        // First, check which files are user-modified and skip auto-selection for them
+        const userModifiedInGroup = groupFiles.filter(f => userModifiedFilesRef.current.has(f));
+        
+        // Only run auto-selection for files that are NOT user-modified
+        const filesForAutoSelect = groupFiles.filter(f => !userModifiedFilesRef.current.has(f));
+        
+        if (filesForAutoSelect.length > 0) {
+          // Pass metadata and checkAllMode to autoSelectBestMCQ (uses Context internally)
+          const groupSelections = autoSelectBestMCQ(filesForAutoSelect, finalMetadata, checkAllMode);
+          
+            // Apply auto-selections only for non-user-modified files
+            for (const filename of filesForAutoSelect) {
+              const fileStatus = fileStatusContext.getFileStatus(filename);
+              const status = fileStatus?.status || 'unknown';
+              const newSelection = groupSelections[filename] ?? false;
+              
+              // Always override for saved/removed files (status-based rules must be enforced)
+              // These files are not user-modified, so apply rules
+              if (status === 'saved' || status === 'removed') {
+                merged[filename] = newSelection;
+              } else if (!(filename in merged)) {
+                // Only preserve for unknown files if not already set
+                merged[filename] = newSelection;
+              }
+            }
           }
+          
+          // For user-modified files, preserve their existing value (don't run auto-selection on them)
+          // Keep existing value - don't override
+          
+          updated[groupIndex] = merged;
         }
         
-        updated[groupIndex] = merged;
-      }
-      
-      return updated;
+        return updated;
     });
     
     setInitializing(false);
@@ -1344,6 +1390,10 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   // When user checks/unchecks one instance of a filename, apply the same
   // checked state to all its appearances (in all groups) on THIS page only.
   const handleFileToggleAll = useCallback((filename: string, checked: boolean) => {
+    // Mark this file as user-modified so auto-selection respects user's choice
+    // This allows saved/removed files to sync when user manually changes them
+    userModifiedFilesRef.current.add(filename);
+    
     setAutoSelections(prev => {
       const updated: { [groupIndex: number]: { [filename: string]: boolean } } = { ...prev };
       const groupsInPage = getGroupsForCurrentPage();

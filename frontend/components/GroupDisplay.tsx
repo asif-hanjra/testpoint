@@ -87,6 +87,9 @@ export const GroupDisplay: React.FC<GroupDisplayProps> = ({
     const initChecked: { [key: string]: boolean } = {};
     
     group.files.forEach(filename => {
+      const fileStatus = fileStatusContext.getFileStatus(filename);
+      const status = fileStatus?.status || 'unknown';
+      
       // If user has manually modified this file, preserve their choice (unless group changed)
       if (userModifiedFilesRef.current.has(filename) && !groupChanged && !isInitialMountRef.current) {
         // Preserve user's choice - local state is source of truth
@@ -193,6 +196,9 @@ export const GroupDisplay: React.FC<GroupDisplayProps> = ({
           // Use explicit boolean comparison to handle undefined cases
           const currentValue = prevChecked[filename] ?? false;
           const newValueBool = newValue ?? false;
+          
+          const fileStatus = fileStatusContext.getFileStatus(filename);
+          const status = fileStatus?.status || 'unknown';
           
           // Only sync if values are actually different
           if (newValueBool !== currentValue) {
