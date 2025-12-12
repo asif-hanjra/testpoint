@@ -45,7 +45,7 @@ app.add_middleware(
 # Configuration
 BACKEND_PORT = int(os.getenv("BACKEND_PORT", 8000))
 FRONTEND_PORT = int(os.getenv("PORT", 3009))
-SIMILARITY_THRESHOLD = float(os.getenv("SIMILARITY_THRESHOLD", 0.85))
+SIMILARITY_THRESHOLD = float(os.getenv("SIMILARITY_THRESHOLD", 0.95))
 
 # Get project root directory (parent of backend folder)
 PROJECT_ROOT = Path(__file__).parent.parent
@@ -90,6 +90,10 @@ class BatchStatusRequest(BaseModel):
     filenames: List[str]
 
 class BatchMCQDataRequest(BaseModel):
+    subject: str
+    filenames: List[str]
+
+class BatchFileDataRequest(BaseModel):
     subject: str
     filenames: List[str]
 
@@ -407,6 +411,7 @@ async def toggle_mcq(request: ToggleMCQRequest):
         if to_removed:
             # Add to removed-track
             file_manager.save_removed_tracking(request.subject, [request.filename])
+            # STRATEGY 3: Cache is already updated in save_removed_tracking
         else:
             # Remove from removed-track
             current_removed = set(file_manager.load_removed_tracking(request.subject))
@@ -418,6 +423,8 @@ async def toggle_mcq(request: ToggleMCQRequest):
                 try:
                     with open(tracking_file, 'w', encoding='utf-8') as f:
                         json.dump(sorted(list(updated_removed)), f, indent=2)
+                    # STRATEGY 3: Invalidate cache
+                    file_manager._removed_tracking_cache[request.subject] = updated_removed
                 except Exception as e:
                     print(f"[MAIN] Warning: Failed to update removed-track: {e}")
         
@@ -519,6 +526,10 @@ async def submit_group(request: SubmitGroupRequest):
                     if source.exists() and not dest.exists():
                         import shutil
                         shutil.copy2(str(source), str(dest))
+                        # STRATEGY 3: Invalidate cache
+                        cache_key = f"{request.subject}_final"
+                        if cache_key in file_manager._final_files_cache:
+                            file_manager._final_files_cache[cache_key].add(filename)
                         saved_count += 1
                         newly_added_to_saved += 1
                         kept_files.append(filename)
@@ -541,6 +552,10 @@ async def submit_group(request: SubmitGroupRequest):
                     if source.exists():
                         try:
                             source.unlink()
+                            # STRATEGY 3: Invalidate cache
+                            cache_key = f"{request.subject}_final"
+                            if cache_key in file_manager._final_files_cache:
+                                file_manager._final_files_cache[cache_key].discard(filename)
                             print(f"Removed unchecked file {filename} from final_db (will be added to removed-track)")
                         except Exception as e:
                             print(f"Warning: Failed to delete {filename} from final_db: {e}")
@@ -643,6 +658,7 @@ async def submit_group(request: SubmitGroupRequest):
         if removed_files:
             print(f"[MAIN] Updating removed-track with {len(removed_files)} removed files...")
             file_manager.save_removed_tracking(request.subject, removed_files)
+            # STRATEGY 3: Cache is already updated in save_removed_tracking
         
         # Remove files from removed-track if they were checked (un-removed)
         if kept_files:
@@ -660,6 +676,8 @@ async def submit_group(request: SubmitGroupRequest):
                 try:
                     with open(tracking_file, 'w', encoding='utf-8') as f:
                         json.dump(sorted(list(updated_removed)), f, indent=2)
+                    # STRATEGY 3: Invalidate cache
+                    file_manager._removed_tracking_cache[request.subject] = updated_removed
                     print(f"[MAIN] Updated removed-track: removed {len(files_to_remove_from_tracking)} files")
                 except Exception as e:
                     print(f"[MAIN] Warning: Failed to update removed-track: {e}")
@@ -709,11 +727,20 @@ async def get_mcq_data(subject: str, filename: str):
 
 @app.post("/api/batch-file-statuses")
 async def batch_file_statuses(request: BatchStatusRequest):
-    """Get file statuses, removal history, and year info for multiple files at once (OPTIMIZED)"""
+    """Get file statuses, removal history, and year info for multiple files at once (OPTIMIZED - STRATEGY 1)"""
     try:
         # Load session once (not per file)
         session = session_manager.load_session(request.subject)
         removal_history = session.get("removal_history", {}) if session else {}
+        
+        # STRATEGY 1: Load removed-track ONCE before loop
+        removed_files_set = file_manager.get_removed_tracking_set(request.subject)
+        
+        # STRATEGY 6: Batch check file existence
+        final_dir = file_manager.final_path / request.subject
+        classified_dir = file_manager.classified_path / request.subject
+        final_files_set = set(f.name for f in final_dir.glob("*.json")) if final_dir.exists() else set()
+        classified_files_set = set(f.name for f in classified_dir.glob("*.json")) if classified_dir.exists() else set()
         
         results = {}
         
@@ -731,7 +758,8 @@ async def batch_file_statuses(request: BatchStatusRequest):
         
         # Batch check file statuses and year info
         for filename in request.filenames:
-            status = file_manager.get_file_status(request.subject, filename)
+            # STRATEGY 1: Use cached sets instead of loading removed-track again
+            status = file_manager.get_file_status(request.subject, filename, removed_files_set, final_files_set, classified_files_set)
             # Status can be: "saved", "removed", or "unknown"
             removal_info = removal_history.get(filename)
             
@@ -760,28 +788,116 @@ async def batch_file_statuses(request: BatchStatusRequest):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.post("/api/batch-file-data")
+async def batch_file_data(request: BatchFileDataRequest):
+    """STRATEGY 2: Combined endpoint - returns both status and MCQ data in one call"""
+    try:
+        # STRATEGY 1: Load session ONCE before loop
+        session = session_manager.load_session(request.subject)
+        removal_history = session.get("removal_history", {}) if session else {}
+        
+        # STRATEGY 1: Load removed-track ONCE before loop
+        removed_files_set = file_manager.get_removed_tracking_set(request.subject)
+        
+        # STRATEGY 6: Batch check file existence
+        final_dir = file_manager.final_path / request.subject
+        classified_dir = file_manager.classified_path / request.subject
+        final_files_set = set(f.name for f in final_dir.glob("*.json")) if final_dir.exists() else set()
+        classified_files_set = set(f.name for f in classified_dir.glob("*.json")) if classified_dir.exists() else set()
+        
+        # STRATEGY 1: Collect all kept filenames to batch load them
+        kept_filenames_to_load = set()
+        for filename in request.filenames:
+            removal_info = removal_history.get(filename)
+            if removal_info and "kept_files" in removal_info and len(removal_info["kept_files"]) > 0:
+                kept_filenames_to_load.add(removal_info["kept_files"][0])
+        
+        # Batch load kept file data
+        kept_files_data = {}
+        for kept_filename in kept_filenames_to_load:
+            kept_files_data[kept_filename] = file_manager.load_mcq_data(request.subject, kept_filename)
+        
+        results = {}
+        
+        # Process all files in one pass
+        for filename in request.filenames:
+            # Load MCQ data (cached)
+            mcq_data = file_manager.load_mcq_data(request.subject, filename)
+            
+            # Get status using cached sets
+            status = file_manager.get_file_status(request.subject, filename, removed_files_set, final_files_set, classified_files_set)
+            
+            # Get removal history
+            removal_info = removal_history.get(filename)
+            
+            # Check for year key
+            has_year = 'year' in mcq_data and mcq_data.get('year') is not None
+            
+            # Get kept file data if available
+            kept_file_data = None
+            if removal_info and "kept_files" in removal_info and len(removal_info["kept_files"]) > 0:
+                kept_filename = removal_info["kept_files"][0]
+                kept_file_data = kept_files_data.get(kept_filename)
+            
+            results[filename] = {
+                "filename": filename,
+                "data": mcq_data,
+                "status": status,
+                "removal_info": removal_info,
+                "kept_file_data": kept_file_data,
+                "has_year": has_year
+            }
+        
+        return {
+            "success": True,
+            "file_data": results
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
 @app.post("/api/batch-mcq-data")
 async def batch_mcq_data(request: BatchMCQDataRequest):
-    """Get MCQ data for multiple files at once (OPTIMIZED)"""
+    """Get MCQ data for multiple files at once (OPTIMIZED - STRATEGY 1)"""
     try:
+        # STRATEGY 1: Load session ONCE before loop
+        session = session_manager.load_session(request.subject)
+        removal_history = session.get("removal_history", {}) if session else {}
+        
+        # STRATEGY 1: Load removed-track ONCE before loop
+        removed_files_set = file_manager.get_removed_tracking_set(request.subject)
+        
+        # STRATEGY 6: Batch check file existence
+        final_dir = file_manager.final_path / request.subject
+        classified_dir = file_manager.classified_path / request.subject
+        final_files_set = set(f.name for f in final_dir.glob("*.json")) if final_dir.exists() else set()
+        classified_files_set = set(f.name for f in classified_dir.glob("*.json")) if classified_dir.exists() else set()
+        
+        # STRATEGY 1: Collect all kept filenames to batch load them
+        kept_filenames_to_load = set()
+        for filename in request.filenames:
+            removal_info = removal_history.get(filename)
+            if removal_info and "kept_files" in removal_info and len(removal_info["kept_files"]) > 0:
+                kept_filenames_to_load.add(removal_info["kept_files"][0])
+        
+        # Batch load kept file data
+        kept_files_data = {}
+        for kept_filename in kept_filenames_to_load:
+            kept_files_data[kept_filename] = file_manager.load_mcq_data(request.subject, kept_filename)
+        
         results = {}
         
         # Batch load MCQ data for all files
         for filename in request.filenames:
             data = file_manager.load_mcq_data(request.subject, filename)
-            status = file_manager.get_file_status(request.subject, filename)
+            # STRATEGY 1: Use cached sets instead of loading removed-track again
+            status = file_manager.get_file_status(request.subject, filename, removed_files_set, final_files_set, classified_files_set)
             
-            # Check removal history
-            removal_info = None
+            # Check removal history (already loaded above)
+            removal_info = removal_history.get(filename)
             kept_file_data = None
-            session = session_manager.load_session(request.subject)
-            if session and "removal_history" in session:
-                if filename in session["removal_history"]:
-                    removal_info = session["removal_history"][filename]
-                    # OPTIMIZED: Load kept file data if available
-                    if removal_info and "kept_files" in removal_info and len(removal_info["kept_files"]) > 0:
-                        kept_filename = removal_info["kept_files"][0]
-                        kept_file_data = file_manager.load_mcq_data(request.subject, kept_filename)
+            if removal_info and "kept_files" in removal_info and len(removal_info["kept_files"]) > 0:
+                kept_filename = removal_info["kept_files"][0]
+                kept_file_data = kept_files_data.get(kept_filename)
             
             results[filename] = {
                 "filename": filename,

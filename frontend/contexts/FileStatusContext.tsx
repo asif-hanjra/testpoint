@@ -56,17 +56,18 @@ export const FileStatusProvider: React.FC<FileStatusProviderProps> = ({ children
   const [loadingStatuses, setLoadingStatuses] = useState(false);
   const [loadingMCQData, setLoadingMCQData] = useState(false);
 
-  // Load file statuses from backend (batch API call)
+  // STRATEGY 2: Combined loading - loads both status and MCQ data in one call
   const loadFileStatuses = useCallback(async (subjectName: string, filenames: string[]) => {
     if (filenames.length === 0) return;
     
     setLoadingStatuses(true);
     try {
-      const response = await api.batchFileStatuses(subjectName, filenames);
+      // Use combined endpoint for better performance
+      const response = await api.batchFileData(subjectName, filenames);
       
       const newStatuses: { [filename: string]: FileStatus } = {};
       
-      for (const [filename, data] of Object.entries(response.statuses)) {
+      for (const [filename, data] of Object.entries(response.file_data)) {
         const fileData = data as any;
         const fileNum = parseInt(filename.replace(/\D/g, '')) || 999999;
         
@@ -83,7 +84,8 @@ export const FileStatusProvider: React.FC<FileStatusProviderProps> = ({ children
           hasYear: fileData.has_year || false,
           fileNum: fileNum,
           removalInfo: fileData.removal_info || undefined,
-          keptFileData: fileData.kept_file_data || undefined
+          keptFileData: fileData.kept_file_data || undefined,
+          mcqData: fileData.data || undefined  // STRATEGY 2: Include MCQ data
         };
       }
       
@@ -106,17 +108,18 @@ export const FileStatusProvider: React.FC<FileStatusProviderProps> = ({ children
     }
   }, []);
 
-  // Load MCQ data from backend (batch API call)
+  // Load MCQ data from backend (batch API call) - STRATEGY 2: Now uses combined endpoint
   const loadMCQData = useCallback(async (subjectName: string, filenames: string[]) => {
     if (filenames.length === 0) return;
     
     setLoadingMCQData(true);
     try {
-      const response = await api.batchMCQData(subjectName, filenames);
+      // STRATEGY 2: Use combined endpoint (already includes MCQ data)
+      const response = await api.batchFileData(subjectName, filenames);
       
       setFileStatuses(prev => {
         const updated = { ...prev };
-        for (const [filename, fileData] of Object.entries(response.mcq_data)) {
+        for (const [filename, fileData] of Object.entries(response.file_data)) {
           const data = fileData as any;
           if (updated[filename]) {
             updated[filename] = {
@@ -124,6 +127,20 @@ export const FileStatusProvider: React.FC<FileStatusProviderProps> = ({ children
               mcqData: data.data,
               removalInfo: data.removal_info || updated[filename].removalInfo,
               keptFileData: data.kept_file_data || updated[filename].keptFileData
+            };
+          } else {
+            // Create new entry if it doesn't exist
+            const fileNum = parseInt(filename.replace(/\D/g, '')) || 999999;
+            updated[filename] = {
+              status: data.status === 'saved' ? 'saved' : 
+                     data.status === 'removed' ? 'removed' : 'unknown',
+              checked: data.status === 'saved' ? true : 
+                      data.status === 'removed' ? false : false,
+              hasYear: data.has_year || false,
+              fileNum: fileNum,
+              removalInfo: data.removal_info || undefined,
+              keptFileData: data.kept_file_data || undefined,
+              mcqData: data.data || undefined
             };
           }
         }

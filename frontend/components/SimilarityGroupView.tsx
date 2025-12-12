@@ -881,17 +881,23 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [similarityRangeStart, similarityRangeEnd, similarityLevels.length]); // Simplified deps to prevent infinite loop
 
-  // Load MCQ data when range changes (after statuses are loaded)
+  // STRATEGY 2: MCQ data is now loaded together with statuses in loadFileStatuses
+  // No need for separate loading phase - data comes in combined API call
+  // Keep this effect for backward compatibility but it will be a no-op if data already loaded
   useEffect(() => {
     if (similarityLevels.length > 0 && groupsBySimilarity && Object.keys(groupsBySimilarity).length > 0) {
       const groupsInRange = getGroupsForCurrentPage();
       
       if (groupsInRange.length === 0) return;
       
-      // Always load MCQ data for the range (no caching needed, it's fast)
-      // Add small delay to ensure statuses are loaded first
+      // STRATEGY 2: MCQ data is already loaded with statuses, but check if we need to load it separately
+      // This is a fallback for cases where statuses were loaded but MCQ data wasn't
+      // The combined endpoint should handle both, so this may not be needed
       const timer = setTimeout(() => {
-        loadMCQDataForRange(similarityRangeStart, similarityRangeEnd);
+        // Only load if statuses are done and MCQ data might be missing
+        if (!fileStatusContext.loadingStatuses) {
+          loadMCQDataForRange(similarityRangeStart, similarityRangeEnd);
+        }
       }, 100);
       
       return () => clearTimeout(timer);

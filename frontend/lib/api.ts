@@ -83,6 +83,15 @@ export const api = {
     return response.data;
   },
 
+  // STRATEGY 2: Combined endpoint - returns both status and MCQ data in one call
+  batchFileData: async (subject: string, filenames: string[]) => {
+    const response = await axios.post(`${API_BASE_URL}/api/batch-file-data`, {
+      subject,
+      filenames
+    });
+    return response.data;
+  },
+
   // Get summary
   getSummary: async (subject: string) => {
     const response = await axios.get(`${API_BASE_URL}/api/summary/${subject}`);

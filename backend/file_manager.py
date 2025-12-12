@@ -15,6 +15,14 @@ class FileManager:
         # Calculate project root (parent of classified_path's parent)
         # classified_path is like: project_root/classified_all_db
         self.project_root = self.classified_path.parent
+        
+        # STRATEGY 3: In-memory caching layer for performance
+        self._removed_tracking_cache = {}  # subject -> set of filenames
+        self._saved_tracking_cache = {}    # subject -> list of filenames
+        self._file_status_cache = {}       # (subject, filename) -> status
+        self._mcq_data_cache = {}          # (subject, filename) -> data
+        self._final_files_cache = {}       # subject -> set of filenames
+        self._classified_files_cache = {}   # subject -> set of filenames
     
     def get_subjects(self) -> List[Dict]:
         """Get list of subjects with their status"""
@@ -104,6 +112,10 @@ class FileManager:
                 source = self.final_path / subject / filename
                 if source.exists():
                     source.unlink()
+                    # STRATEGY 3: Invalidate cache
+                    cache_key = f"{subject}_final"
+                    if cache_key in self._final_files_cache:
+                        self._final_files_cache[cache_key].discard(filename)
                     return True
             else:
                 # Copy from classified_db to final_db (removed-track will be updated by caller)
@@ -112,11 +124,15 @@ class FileManager:
                 dest_dir.mkdir(parents=True, exist_ok=True)
                 dest = dest_dir / filename
                 
-                if source.exists() and not dest.exists():
-                    shutil.copy2(str(source), str(dest))
-                    return True
-                elif dest.exists():
-                    return True  # Already exists
+            if source.exists() and not dest.exists():
+                shutil.copy2(str(source), str(dest))
+                # STRATEGY 3: Invalidate cache
+                cache_key = f"{subject}_final"
+                if cache_key in self._final_files_cache:
+                    self._final_files_cache[cache_key].add(filename)
+                return True
+            elif dest.exists():
+                return True  # Already exists
             
             return False
         except Exception as e:
@@ -132,25 +148,42 @@ class FileManager:
             
             if source.exists() and not dest.exists():
                 shutil.copy2(str(source), str(dest))
+                # STRATEGY 3: Invalidate cache
+                cache_key = f"{subject}_final"
+                if cache_key in self._final_files_cache:
+                    self._final_files_cache[cache_key].add(filename)
                 return True
             return False
         except Exception as e:
             return False
     
-    def get_file_status(self, subject: str, filename: str) -> str:
-        """Get current status of file (saved/removed/unknown)"""
-        final_file = self.final_path / subject / filename
-        classified_file = self.classified_path / subject / filename
+    def get_file_status(self, subject: str, filename: str, removed_files_set: set = None, final_files_set: set = None, classified_files_set: set = None) -> str:
+        """Get current status of file (saved/removed/unknown) - STRATEGY 1: Accept cached sets"""
+        # STRATEGY 1 & 3: Use cached sets if provided, otherwise load
+        if removed_files_set is None:
+            removed_files_set = self.get_removed_tracking_set(subject)
         
-        # Check if file is in removed-track JSON (instead of removed_db folder)
-        removed_files = set(self.load_removed_tracking(subject))
+        # STRATEGY 3: Cache file existence checks
+        if final_files_set is None:
+            cache_key = f"{subject}_final"
+            if cache_key not in self._final_files_cache:
+                final_dir = self.final_path / subject
+                self._final_files_cache[cache_key] = set(f.name for f in final_dir.glob("*.json")) if final_dir.exists() else set()
+            final_files_set = self._final_files_cache[cache_key]
+        
+        if classified_files_set is None:
+            cache_key = f"{subject}_classified"
+            if cache_key not in self._classified_files_cache:
+                classified_dir = self.classified_path / subject
+                self._classified_files_cache[cache_key] = set(f.name for f in classified_dir.glob("*.json")) if classified_dir.exists() else set()
+            classified_files_set = self._classified_files_cache[cache_key]
         
         # Priority: removed > saved > unknown (removed takes priority)
-        if filename in removed_files:
+        if filename in removed_files_set:
             return "removed"
-        elif final_file.exists():
+        elif filename in final_files_set:
             return "saved"
-        elif classified_file.exists():
+        elif filename in classified_files_set:
             return "unknown"
         else:
             return "unknown"
@@ -194,8 +227,14 @@ class FileManager:
         # removed_duplicates_db is not used, so removed_deleted is always 0
         return final_deleted, 0
     
-    def load_mcq_data(self, subject: str, filename: str) -> Dict:
-        """Load MCQ data from file"""
+    def load_mcq_data(self, subject: str, filename: str, use_cache: bool = True) -> Dict:
+        """Load MCQ data from file (with caching) - STRATEGY 3"""
+        cache_key = (subject, filename)
+        
+        # STRATEGY 3: Check cache first
+        if use_cache and cache_key in self._mcq_data_cache:
+            return self._mcq_data_cache[cache_key]
+        
         # Try final_db first, then classified_db (removed_db folder not used)
         paths = [
             self.final_path / subject / filename,
@@ -206,11 +245,55 @@ class FileManager:
             if path.exists():
                 try:
                     with open(path, 'r', encoding='utf-8') as f:
-                        return json.load(f)
+                        data = json.load(f)
+                        # STRATEGY 3: Cache the result
+                        if use_cache:
+                            self._mcq_data_cache[cache_key] = data
+                        return data
                 except Exception as e:
                     pass
         
+        # Cache empty result
+        if use_cache:
+            self._mcq_data_cache[cache_key] = {}
         return {}
+    
+    def clear_cache(self, subject: str = None):
+        """Clear cache for subject or all - STRATEGY 3"""
+        if subject:
+            # Clear specific subject cache
+            keys_to_remove = [k for k in self._removed_tracking_cache.keys() if k == subject]
+            for k in keys_to_remove:
+                del self._removed_tracking_cache[k]
+            
+            keys_to_remove = [k for k in self._saved_tracking_cache.keys() if k == subject]
+            for k in keys_to_remove:
+                del self._saved_tracking_cache[k]
+            
+            keys_to_remove = [k for k in self._file_status_cache.keys() if k[0] == subject]
+            for k in keys_to_remove:
+                del self._file_status_cache[k]
+            
+            keys_to_remove = [k for k in self._mcq_data_cache.keys() if k[0] == subject]
+            for k in keys_to_remove:
+                del self._mcq_data_cache[k]
+            
+            # Clear file sets cache
+            keys_to_remove = [k for k in self._final_files_cache.keys() if k.startswith(f"{subject}_")]
+            for k in keys_to_remove:
+                del self._final_files_cache[k]
+            
+            keys_to_remove = [k for k in self._classified_files_cache.keys() if k.startswith(f"{subject}_")]
+            for k in keys_to_remove:
+                del self._classified_files_cache[k]
+        else:
+            # Clear all cache
+            self._removed_tracking_cache.clear()
+            self._saved_tracking_cache.clear()
+            self._file_status_cache.clear()
+            self._mcq_data_cache.clear()
+            self._final_files_cache.clear()
+            self._classified_files_cache.clear()
     
     def save_removed_tracking(self, subject: str, new_removed_files: List[str] = None) -> List[str]:
         """Save list of removed files to tracking JSON file (merges with existing tracking)"""
@@ -242,39 +325,67 @@ class FileManager:
             with open(tracking_file, 'w', encoding='utf-8') as f:
                 json.dump(removed_files, f, indent=2)
             print(f"[FileManager] Saved {len(removed_files)} removed files to tracking: {tracking_file}")
+            # STRATEGY 3: Invalidate cache
+            self._removed_tracking_cache[subject] = set(removed_files)
         except Exception as e:
             print(f"[FileManager] Error saving tracking file: {e}")
         
         return removed_files
     
-    def load_removed_tracking(self, subject: str) -> List[str]:
-        """Load list of removed files from tracking JSON file"""
+    def load_removed_tracking(self, subject: str, use_cache: bool = True) -> List[str]:
+        """Load list of removed files from tracking JSON file (with caching)"""
+        # STRATEGY 3: Check cache first
+        if use_cache and subject in self._removed_tracking_cache:
+            return list(self._removed_tracking_cache[subject])
+        
         tracking_file = self.project_root / "removed-track" / f"{subject}.json"
         
         if not tracking_file.exists():
+            # Cache empty result
+            if use_cache:
+                self._removed_tracking_cache[subject] = set()
             return []
         
         try:
             with open(tracking_file, 'r', encoding='utf-8') as f:
                 removed_files = json.load(f)
                 if isinstance(removed_files, list):
+                    # STRATEGY 3: Cache the result
+                    if use_cache:
+                        self._removed_tracking_cache[subject] = set(removed_files)
                     return removed_files
                 return []
         except Exception as e:
             print(f"[FileManager] Error loading tracking file: {e}")
             return []
     
-    def load_saved_tracking(self, subject: str) -> List[str]:
-        """Load list of saved (non-duplicate) files from tracking JSON file"""
+    def get_removed_tracking_set(self, subject: str) -> set:
+        """Get removed files as a set (cached) - STRATEGY 1 optimization"""
+        if subject not in self._removed_tracking_cache:
+            self.load_removed_tracking(subject)
+        return self._removed_tracking_cache.get(subject, set())
+    
+    def load_saved_tracking(self, subject: str, use_cache: bool = True) -> List[str]:
+        """Load list of saved (non-duplicate) files from tracking JSON file (with caching)"""
+        # STRATEGY 3: Check cache first
+        if use_cache and subject in self._saved_tracking_cache:
+            return self._saved_tracking_cache[subject]
+        
         tracking_file = self.project_root / "saved-track" / f"{subject}.json"
         
         if not tracking_file.exists():
+            # Cache empty result
+            if use_cache:
+                self._saved_tracking_cache[subject] = []
             return []
         
         try:
             with open(tracking_file, 'r', encoding='utf-8') as f:
                 saved_files = json.load(f)
                 if isinstance(saved_files, list):
+                    # STRATEGY 3: Cache the result
+                    if use_cache:
+                        self._saved_tracking_cache[subject] = saved_files
                     return saved_files
                 return []
         except Exception as e:
@@ -318,6 +429,8 @@ class FileManager:
             with open(tracking_file, 'w', encoding='utf-8') as f:
                 json.dump(saved_files, f, indent=2)
             print(f"[FileManager] Saved {len(saved_files)} saved files to tracking: {tracking_file}")
+            # STRATEGY 3: Invalidate cache
+            self._saved_tracking_cache[subject] = saved_files
         except Exception as e:
             print(f"[FileManager] Error saving saved tracking file: {e}")
         
