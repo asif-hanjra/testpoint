@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the United Nations founded?",
+      "options": {
+        "a": "1919",
+        "b": "1945",
+        "c": "1950",
+        "d": "1965"
+      },
+      "one_liner": "The United Nations was established in the year **1945** as an international organization.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

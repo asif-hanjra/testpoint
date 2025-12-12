@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which street is considered the world's longest street?",
+      "options": {
+        "a": "Wall Street",
+        "b": "Fleet Street",
+        "c": "Yonge Street",
+        "d": "Canal Street"
+      },
+      "one_liner": "The world's longest street is **Yonge Street**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World's Famous Streets",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

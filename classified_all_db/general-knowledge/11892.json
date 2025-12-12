@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following languages is NOT an official language of the United Nations?",
+      "options": {
+        "a": "Hindi",
+        "b": "French",
+        "c": "Russian",
+        "d": "Chinese"
+      },
+      "one_liner": "Hindi is not among the official languages recognized by the United Nations, making it distinct from languages like Arabic, Chinese, English, French, Russian, and Spanish, which hold that status.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

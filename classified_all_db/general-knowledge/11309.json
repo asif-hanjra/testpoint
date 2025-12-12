@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was the first to grant women the right to vote?",
+      "options": {
+        "a": "Australia",
+        "b": "United States",
+        "c": "New Zealand",
+        "d": "Canada"
+      },
+      "one_liner": "New Zealand became the first country in the world to grant women the right to vote, setting a historic precedent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

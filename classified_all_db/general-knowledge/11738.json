@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the width of a tennis court for singles matches?",
+      "options": {
+        "a": "10.97 meters",
+        "b": "8.23 meters",
+        "c": "9.50 meters",
+        "d": "None of these"
+      },
+      "one_liner": "The width of a tennis court for singles matches is **8.23 meters (27 feet)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the official currency of Bhutan?",
+      "options": {
+        "a": "Bhutanese ngultrum",
+        "b": "Bangladeshi taka",
+        "c": "Brunei dollar",
+        "d": "Bulgarian lev"
+      },
+      "one_liner": "The official currency of Bhutan is the **Bhutanese ngultrum**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the World Bank headquartered?",
+      "options": {
+        "a": "New York, USA",
+        "b": "Washington D.C., USA",
+        "c": "Shanghai, China",
+        "d": "Beijing, China"
+      },
+      "one_liner": "The World Bank's headquarters is situated in **Washington D.C., USA**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

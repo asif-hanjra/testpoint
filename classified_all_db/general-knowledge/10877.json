@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the standard weight range for a cricket ball?",
+      "options": {
+        "a": "4-4.5 ounces",
+        "b": "5-5.25 ounces",
+        "c": "5.5-5.75 ounces",
+        "d": "6-6.25 ounces"
+      },
+      "one_liner": "A cricket ball typically weighs between **5.5 and 5.75 ounces (155.9 grams)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

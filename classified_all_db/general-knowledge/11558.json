@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where were the Winter Olympics 2022 held?",
+      "options": {
+        "a": "Tokyo, Japan",
+        "b": "Beijing, China",
+        "c": "Paris, France",
+        "d": "Sydney, Australia"
+      },
+      "one_liner": "The Winter Olympics 2022 were hosted by **Beijing, China**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

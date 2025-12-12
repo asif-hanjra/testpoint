@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following countries is NOT a member of BRICS?",
+      "options": {
+        "a": "Canada",
+        "b": "India",
+        "c": "China",
+        "d": "South Africa"
+      },
+      "one_liner": "Canada is not included among the member countries of the BRICS group, which consists of Brazil, Russia, India, China, and South Africa, making **Canada** the correct answer.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

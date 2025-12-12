@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of Iran's new currency?",
+      "options": {
+        "a": "Rial",
+        "b": "Toman",
+        "c": "Dinar",
+        "d": "Dirham"
+      },
+      "one_liner": "Iran's new currency is called the **Toman**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

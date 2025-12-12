@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the currency of Indonesia?",
+      "options": {
+        "a": "Baht",
+        "b": "Ringgit",
+        "c": "Rupiah",
+        "d": "Yen"
+      },
+      "one_liner": "The official currency used in Indonesia is the **Rupiah**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which century did Khawaja Ghulam Farid live?",
+      "options": {
+        "a": "18th century",
+        "b": "19th century",
+        "c": "20th century",
+        "d": "17th century"
+      },
+      "one_liner": "Khawaja Ghulam Farid was a prominent Sufi poet who lived during the **19th century**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

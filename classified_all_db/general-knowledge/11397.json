@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Russia invade Afghanistan?",
+      "options": {
+        "a": "December 1979",
+        "b": "January 1980",
+        "c": "March 1978",
+        "d": "November 1981"
+      },
+      "one_liner": "Russia invaded Afghanistan in **December 1979**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

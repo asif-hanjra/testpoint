@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year was the Atlantic Charter signed?",
+      "options": {
+        "a": "July 1940",
+        "b": "August 1941",
+        "c": "September 1942",
+        "d": "June 1943"
+      },
+      "one_liner": "The Atlantic Charter was signed in **August 1941** by the leaders of the United States and the United Kingdom.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

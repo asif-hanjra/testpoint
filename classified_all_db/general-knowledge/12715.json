@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the 3rd president of the United States?",
+      "options": {
+        "a": "George Washington",
+        "b": "John Adams",
+        "c": "Thomas Jefferson",
+        "d": "James Madison"
+      },
+      "one_liner": "The 3rd president of the United States was **Thomas Jefferson**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

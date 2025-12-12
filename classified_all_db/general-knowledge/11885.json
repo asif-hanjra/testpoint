@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the African Union (AU) officially launched?",
+      "options": {
+        "a": "1999",
+        "b": "2002",
+        "c": "1963",
+        "d": "2010"
+      },
+      "one_liner": "The African Union (AU) was officially launched in **2002** as a continental organization.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

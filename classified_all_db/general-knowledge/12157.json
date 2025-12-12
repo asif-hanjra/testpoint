@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who appoints the Secretary-General of the United Nations?",
+      "options": {
+        "a": "General Assembly",
+        "b": "Security Council",
+        "c": "International Court of Justice",
+        "d": "Economic and Social Council"
+      },
+      "one_liner": "The **General Assembly**, on the recommendation of the Security Council, appoints the Secretary-General of the United Nations.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Secretary General of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

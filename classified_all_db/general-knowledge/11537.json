@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of 'India Wins Freedom'?",
+      "options": {
+        "a": "Abul Kalam Azad",
+        "b": "Ch. Khaliq-uz-Zaman",
+        "c": "Syed Riaz Hassan",
+        "d": "Imam Ghazali"
+      },
+      "one_liner": "The book 'India Wins Freedom' was written by **Abul Kalam Azad**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

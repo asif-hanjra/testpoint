@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the League of Nations founded?",
+      "options": {
+        "a": "1918",
+        "b": "1920",
+        "c": "1945",
+        "d": "1914"
+      },
+      "one_liner": "The League of Nations was founded in **1920** following the end of World War I.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "League of Nations (1920)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "League of Nations (1920)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}
