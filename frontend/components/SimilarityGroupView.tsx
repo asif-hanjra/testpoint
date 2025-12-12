@@ -105,7 +105,7 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     }
     return {
       start: 100.0,
-      end: 99.9,
+      end: 99.99,
       isManual: false,
       targetGroups: 100,
       hasSaved: false
@@ -440,7 +440,7 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   // Calculate range starting from a specific start point, expanding until approximately targetGroupsPerPage groups
   const calculateRangeFromTargetGroups = useCallback((startPoint: number, targetGroups: number): { start: number; end: number } => {
     if (similarityLevels.length === 0) {
-      return { start: 100.0, end: 99.9 };
+      return { start: 100.0, end: 99.99 };
     }
     
     // Find the index of the level that matches or is closest to startPoint (from above)
@@ -500,73 +500,6 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     
     return { start: rangeStart, end: rangeEnd };
   }, [similarityLevels, groupsBySimilarity, calculateGroupsInRange]);
-
-  // Calculate next range automatically (expands until >= 100 groups)
-  const calculateNextRange = useCallback((currentEnd: number, currentStart?: number): { start: number; end: number } => {
-    if (similarityLevels.length === 0) {
-      return { start: 100.0, end: 99.9 };
-    }
-    
-    // Determine if we've shown all groups at currentEnd level
-    // If currentStart equals currentEnd, we've shown all groups at that level
-    // Otherwise, we might have more groups at currentEnd level
-    const allGroupsShownAtEnd = currentStart !== undefined && Math.abs(currentStart - currentEnd) < 0.01;
-    
-    let nextStartIndex = -1;
-    if (allGroupsShownAtEnd) {
-      // We've shown all groups at currentEnd level, so start from next level below
-      for (let i = 0; i < similarityLevels.length; i++) {
-        if (similarityLevels[i] < currentEnd) {
-          nextStartIndex = i;
-          break;
-        }
-      }
-    } else {
-      // We might have more groups at currentEnd level, so start from currentEnd to ensure continuity
-      for (let i = 0; i < similarityLevels.length; i++) {
-        if (similarityLevels[i] <= currentEnd) {
-          nextStartIndex = i;
-          break;
-        }
-      }
-    }
-    
-    // If no level found, we're at the end
-    if (nextStartIndex === -1) {
-      return { start: similarityLevels[similarityLevels.length - 1], end: similarityLevels[similarityLevels.length - 1] };
-    }
-    
-    const nextStart = similarityLevels[nextStartIndex];
-    let nextEnd = nextStart;
-    let totalGroups = 0;
-    
-      // Expand range by adding consecutive levels until approximately targetGroupsPerPage groups
-      for (let i = nextStartIndex; i < similarityLevels.length; i++) {
-        const level = similarityLevels[i];
-        const groupsInLevel = groupsBySimilarity[level] || [];
-        totalGroups += groupsInLevel.length;
-        nextEnd = level;
-        
-        // Stop when we've reached approximately the target (within 20% or at least targetGroups)
-        if (totalGroups >= targetGroupsPerPage * 0.8 && totalGroups >= targetGroupsPerPage) {
-          break;
-        }
-        
-        // Also stop if we've significantly exceeded the target (more than 50% over)
-        if (totalGroups > targetGroupsPerPage * 1.5) {
-          break;
-        }
-      }
-    
-    // If we haven't reached a reasonable number of groups, include all remaining levels (last page)
-    if (totalGroups < targetGroupsPerPage * 0.5) {
-      nextEnd = similarityLevels[similarityLevels.length - 1];
-      // Recalculate total groups for the full range
-      totalGroups = calculateGroupsInRange(nextStart, nextEnd).length;
-    }
-    
-    return { start: nextStart, end: nextEnd };
-  }, [similarityLevels, groupsBySimilarity, targetGroupsPerPage, calculateGroupsInRange]);
 
   // Get groups for current page (within current range)
   // Always show ALL groups in the selected range, no matter the count
