@@ -45,7 +45,7 @@ app.add_middleware(
 # Configuration
 BACKEND_PORT = int(os.getenv("BACKEND_PORT", 8000))
 FRONTEND_PORT = int(os.getenv("PORT", 3009))
-SIMILARITY_THRESHOLD = float(os.getenv("SIMILARITY_THRESHOLD", 0.99))
+SIMILARITY_THRESHOLD = float(os.getenv("SIMILARITY_THRESHOLD", 0.85))
 
 # Get project root directory (parent of backend folder)
 PROJECT_ROOT = Path(__file__).parent.parent
