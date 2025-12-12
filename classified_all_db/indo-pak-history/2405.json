@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Gandhi start the Non Cooperation Movement?",
+      "options": {
+        "a": "March 1919",
+        "b": "March 1920",
+        "c": "August 1920",
+        "d": "None of these"
+      },
+      "one_liner": "The Non Cooperation Movement was started by Gandhi in **March 1920**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

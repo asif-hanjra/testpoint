@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who gave the title 'Ambassador of Hindu-Muslim Unity' to Mr. Jinnah?",
+      "options": {
+        "a": "Gandhi",
+        "b": "Sarojini Naidu",
+        "c": "Nehru",
+        "d": "Maulana Azad"
+      },
+      "one_liner": "Sarojini Naidu gave the title of 'Ambassador of Hindu-Muslim Unity' to **Mr. Jinnah**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

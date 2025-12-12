@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did India come directly under the British Raj after the War of Independence 1857?",
+      "options": {
+        "a": "August 15, 1857",
+        "b": "January 1, 1858",
+        "c": "November 1, 1858",
+        "d": "December 31, 1859"
+      },
+      "one_liner": "India came directly under the **British Raj on November 1, 1858** after the War of Independence 1857.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

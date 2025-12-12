@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Between which years did the Sayyid Dynasty rule?",
+      "options": {
+        "a": "1206-1290",
+        "b": "1414-1450",
+        "c": "1526-1556",
+        "d": "None of these"
+      },
+      "one_liner": "The Sayyid Dynasty ruled from **1414 CE to 1450 CE**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

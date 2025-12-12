@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following was NOT a previous name for the Grand Trunk Road?",
+      "options": {
+        "a": "Sadak-e-Azam",
+        "b": "Badshahi Sadak",
+        "c": "Shahrah-e-Azam",
+        "d": "None of these"
+      },
+      "one_liner": "The Grand Trunk Road was historically known as **Sadak-e-Azam, Badshahi Sadak, and Shahrah-e-Azam**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Maurya Empire",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

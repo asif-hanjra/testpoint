@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which British monarch befriended Duleep Singh during his exile?",
+      "options": {
+        "a": "Queen Elizabeth",
+        "b": "Queen Victoria",
+        "c": "King George",
+        "d": "None of these"
+      },
+      "one_liner": "During his exile in Britain, Duleep Singh was befriended by **Queen Victoria**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

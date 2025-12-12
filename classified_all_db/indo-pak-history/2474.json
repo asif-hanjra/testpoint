@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city did Nizam Khan found and make the new capital of his empire?",
+      "options": {
+        "a": "Agra",
+        "b": "Jaunpur",
+        "c": "Lahore",
+        "d": "Gwalior"
+      },
+      "one_liner": "Nizam Khan founded the city of **Agra** and shifted the capital there from Delhi.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

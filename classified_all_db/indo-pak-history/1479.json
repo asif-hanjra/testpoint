@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What did the Gandhi-Irwin Pact decide regarding the properties of Satyagrahis?",
+      "options": {
+        "a": "Auction them",
+        "b": "Restore them to Satyagrahis",
+        "c": "Donate to charity",
+        "d": "None of these"
+      },
+      "one_liner": "The Gandhi-Irwin Pact stipulated that the government would restore confiscated properties of the **Satyagrahis**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

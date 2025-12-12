@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the only woman to participate in all three Round Table Conferences?",
+      "options": {
+        "a": "Begum Jahanara Shahnawaz",
+        "b": "Fatima Jinnah",
+        "c": "Sarojini Naidu",
+        "d": "None of these"
+      },
+      "one_liner": "Begum Jahanara Shahnawaz was the only woman who participated in **all three Round Table Conferences**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

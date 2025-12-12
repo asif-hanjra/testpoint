@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the First Battle of Panipat fought?",
+      "options": {
+        "a": "1524",
+        "b": "1526",
+        "c": "1556",
+        "d": "1540"
+      },
+      "one_liner": "The First Battle of Panipat took place in the year **1526**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

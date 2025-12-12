@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who among the following accepted Din-i-Ilahi?",
+      "options": {
+        "a": "Birbal",
+        "b": "Abul Fazl",
+        "c": "Todar Mal",
+        "d": "Raja Man Singh"
+      },
+      "one_liner": "Among Akbar's courtiers, **Birbal** was one of the notable figures who accepted Din-i-Ilahi.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

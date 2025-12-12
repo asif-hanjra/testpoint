@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was established by Babar in the Sub-continent?",
+      "options": {
+        "a": "A university",
+        "b": "A kingdom",
+        "c": "A mosque",
+        "d": "A market"
+      },
+      "one_liner": "Babar established a **kingdom** in the Sub-continent.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Second Battle of Panipat (1556)",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

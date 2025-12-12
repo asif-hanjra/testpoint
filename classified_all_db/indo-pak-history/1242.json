@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose reign was Dars-e-Nizamia established?",
+      "options": {
+        "a": "Akbar",
+        "b": "Aurangzeb",
+        "c": "Humayoun",
+        "d": "Shah Jahan"
+      },
+      "one_liner": "Dars-e-Nizamia was established during the reign of **Humayoun**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

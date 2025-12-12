@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "From which city was the newspaper Comrade published by Maulana Muhammad Ali Jauhar in 1911?",
+      "options": {
+        "a": "Delhi",
+        "b": "Lahore",
+        "c": "Calcutta",
+        "d": "Karachi"
+      },
+      "one_liner": "Maulana Muhammad Ali Jauhar published the newspaper Comrade in 1911 from **Calcutta**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

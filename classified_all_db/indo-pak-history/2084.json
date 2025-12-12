@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is considered the first poet of the Punjabi language?",
+      "options": {
+        "a": "Baba Farid Ganji Shakr",
+        "b": "Bulleh Shah",
+        "c": "Waris Shah",
+        "d": "None of these"
+      },
+      "one_liner": "Baba Farid Ganji Shakr is widely regarded as the **first poet of the Punjabi language**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

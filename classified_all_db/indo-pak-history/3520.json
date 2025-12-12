@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was Hazrat Mahal, who played a significant role in the 1857 War of Independence?",
+      "options": {
+        "a": "Begum of Awadh",
+        "b": "Queen of Delhi",
+        "c": "Rani of Jhansi",
+        "d": "None of these"
+      },
+      "one_liner": "Hazrat Mahal, famously known as the Begum of **Awadh**, played a prominent role in rebelling against the British during the 1857 War of Independence.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

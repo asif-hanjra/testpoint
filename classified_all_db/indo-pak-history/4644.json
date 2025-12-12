@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which subjects were managed by the provincial government under the Diarchy system?",
+      "options": {
+        "a": "Defence, foreign affairs, customs",
+        "b": "Local government, public health, police, education",
+        "c": "Currency, law, railway",
+        "d": "None of these"
+      },
+      "one_liner": "Under the Diarchy system, unimportant subjects such as **local government, public health, police, and education** were managed by the provincial government.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

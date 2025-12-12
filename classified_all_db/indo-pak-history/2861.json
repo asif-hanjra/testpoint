@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many seats did the Indian National Congress win in the 1945 Central Elections?",
+      "options": {
+        "a": "30",
+        "b": "59",
+        "c": "102",
+        "d": "375"
+      },
+      "one_liner": "In the 1945 Central Elections, the Indian National Congress secured **59 seats** out of the total contested.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

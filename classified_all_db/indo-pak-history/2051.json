@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is associated with the date December 31 in the context of the Nehru Report?",
+      "options": {
+        "a": "Delhi",
+        "b": "Lahore",
+        "c": "Calcutta",
+        "d": "Bombay"
+      },
+      "one_liner": "The city of **Calcutta** is associated with the date December 31 in the context of the Nehru Report.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

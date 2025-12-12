@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did the War of Independence 1857 begin?",
+      "options": {
+        "a": "Lucknow",
+        "b": "Meerut",
+        "c": "Kanpur",
+        "d": "Delhi"
+      },
+      "one_liner": "The War of Independence 1857 began in **Meerut**, a city near Delhi.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

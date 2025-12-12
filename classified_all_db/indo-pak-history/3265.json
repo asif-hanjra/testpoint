@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Sultan Muiz-ud-Din Muhammad of the Ghurid Empire assassinated?",
+      "options": {
+        "a": "1186",
+        "b": "1192",
+        "c": "1206",
+        "d": "1215"
+      },
+      "one_liner": "Sultan Muiz-ud-Din Muhammad of the Ghurid Empire was assassinated in **1206**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Ghurids Dynasty (1186-1215)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghurids Dynasty (1186-1215)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

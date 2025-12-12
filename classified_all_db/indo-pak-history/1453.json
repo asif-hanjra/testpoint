@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the construction of the Red Fort in Delhi undertaken?",
+      "options": {
+        "a": "1620-1630",
+        "b": "1638-1648",
+        "c": "1650-1660",
+        "d": "None of these"
+      },
+      "one_liner": "The construction of the Red Fort in Delhi was undertaken between **1638 and 1648** during Shah Jahan's reign.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

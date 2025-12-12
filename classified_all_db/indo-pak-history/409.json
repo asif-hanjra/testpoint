@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which battle is considered one of the largest battles fought in the 18th century?",
+      "options": {
+        "a": "Battle of Plassey",
+        "b": "Battle of Buxar",
+        "c": "3rd Battle of Panipat",
+        "d": "None of these"
+      },
+      "one_liner": "The 3rd Battle of Panipat is considered one of the **largest battles fought in the 18th century**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose period was the first census in India conducted?",
+      "options": {
+        "a": "Lord Canning",
+        "b": "Lord Mayo",
+        "c": "Lord Curzon",
+        "d": "Lord Ripon"
+      },
+      "one_liner": "The first census in India was conducted during the period of **Lord Mayo**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

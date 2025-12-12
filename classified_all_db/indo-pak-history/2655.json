@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Afghan Amir when the Durand Line was established in 1893?",
+      "options": {
+        "a": "Habibullah Khan",
+        "b": "Abdur Rahman Khan",
+        "c": "Amanullah Khan",
+        "d": "Zahir Shah"
+      },
+      "one_liner": "Abdur Rahman Khan was the Afghan Amir at the time the Durand Line was established in **1893**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

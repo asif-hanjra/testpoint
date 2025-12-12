@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Sultan established the Diwan-i-Kohi, a new department of agriculture?",
+      "options": {
+        "a": "Alauddin Khilji",
+        "b": "Muhammad-bin-Tughlaq",
+        "c": "Firoz Shah Tughlaq",
+        "d": "Balban"
+      },
+      "one_liner": "The Diwan-i-Kohi, a department focused on agricultural development, was established by **Muhammad-bin-Tughlaq**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

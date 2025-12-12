@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "To which place was Muslim leader Saifuddin Kitchlew exiled in 1919?",
+      "options": {
+        "a": "Shimla",
+        "b": "Dharamshala",
+        "c": "Lahore",
+        "d": "Delhi"
+      },
+      "one_liner": "In 1919, Saifuddin Kitchlew, a prominent Muslim leader, was exiled to **Dharamshala**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

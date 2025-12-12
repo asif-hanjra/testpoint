@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many members were there in the Lower House (Indian Legislative Assembly), and how many were elected Indians?",
+      "options": {
+        "a": "145 members, 103 elected Indians",
+        "b": "120 members, 80 elected Indians",
+        "c": "100 members, 60 elected Indians",
+        "d": "None of these"
+      },
+      "one_liner": "The Lower House (Indian Legislative Assembly) consisted of 145 members, with **103 elected Indians** and 42 British officials nominated by the Governor General.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

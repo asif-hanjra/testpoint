@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When were the last general elections held in British India?",
+      "options": {
+        "a": "1937",
+        "b": "1945",
+        "c": "1947",
+        "d": "1970"
+      },
+      "one_liner": "The last general elections in British India were held in **1945**, marking the end of the colonial electoral process before independence.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

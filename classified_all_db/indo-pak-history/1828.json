@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Mohtarma Fatima Jinnah join the Muslim League?",
+      "options": {
+        "a": "1937",
+        "b": "1938",
+        "c": "1939",
+        "d": "1940"
+      },
+      "one_liner": "Mohtarma Fatima Jinnah joined the **Muslim League** in 1939.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

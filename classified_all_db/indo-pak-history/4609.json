@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who were the wives of Jahangir?",
+      "options": {
+        "a": "Bano Begam and Noor Jahan/Mehr-un-Nissa",
+        "b": "Mumtaz Mahal and Bano Begam",
+        "c": "Anarkali and Noor Jahan",
+        "d": "None of these"
+      },
+      "one_liner": "Jahangir married both **Bano Begam** and **Noor Jahan/Mehr-un-Nissa**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

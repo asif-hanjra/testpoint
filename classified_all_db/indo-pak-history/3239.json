@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which party emerged as the sole representative of Muslims in the Subcontinent after the 1945 Central Elections?",
+      "options": {
+        "a": "Indian National Congress",
+        "b": "Muslim League",
+        "c": "Unionist Party",
+        "d": "None of these"
+      },
+      "one_liner": "Following the 1945 Central Elections, the **Muslim League** emerged as the sole representative of Muslims in the Subcontinent.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

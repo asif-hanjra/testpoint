@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who built Rohtas Fort in Pakistan?",
+      "options": {
+        "a": "Akbar",
+        "b": "Sher Shah Suri",
+        "c": "Aurangzeb",
+        "d": "None of these"
+      },
+      "one_liner": "Rohtas Fort, located in present-day Pakistan, was constructed by **Sher Shah Suri** during his rule.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

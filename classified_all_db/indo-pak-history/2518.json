@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the original name of Hazrat Lal Shabaz Qalandar?",
+      "options": {
+        "a": "Hazrat Usman Marvandi",
+        "b": "Hazrat Ali Hajveri",
+        "c": "Hazrat Bahauddin Zakariya",
+        "d": "None of these"
+      },
+      "one_liner": "The original name of Hazrat Lal Shabaz Qalandar was **Hazrat Usman Marvandi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

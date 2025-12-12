@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What status did the Nehru Report demand for India?",
+      "options": {
+        "a": "Dominion Status with parliamentary government",
+        "b": "Complete independence",
+        "c": "Crown Colony",
+        "d": "None of these"
+      },
+      "one_liner": "The Nehru Report demanded that India be granted **Dominion Status with a parliamentary form of government**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

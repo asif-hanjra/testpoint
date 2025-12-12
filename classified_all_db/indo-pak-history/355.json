@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the last Governor of undivided Punjab before partition?",
+      "options": {
+        "a": "Sir Francis Mudie",
+        "b": "Sir Evan Jenkins",
+        "c": "Sir Bertrand Glancy",
+        "d": "None of these"
+      },
+      "one_liner": "The last Governor of undivided Punjab before partition was **Sir Evan Jenkins**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

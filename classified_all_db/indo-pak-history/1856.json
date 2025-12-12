@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is credited with building the 238-foot high Qutub Minar in Delhi?",
+      "options": {
+        "a": "Qutub-ud-din Aibak",
+        "b": "Iltutmish",
+        "c": "Alauddin Khilji",
+        "d": "Balban"
+      },
+      "one_liner": "The 238-foot high Qutub Minar in Delhi was built by **Qutub-ud-din Aibak**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first Indian ruler to take steps for trade and industrial progress in the Sub-continent?",
+      "options": {
+        "a": "Aurangzeb",
+        "b": "Tipu Sultan",
+        "c": "Bahadur Shah Zafar",
+        "d": "None of these"
+      },
+      "one_liner": "The first Indian ruler to initiate trade and industrial progress in the Sub-continent was **Tipu Sultan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

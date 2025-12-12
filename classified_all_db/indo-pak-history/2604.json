@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Viceroy of British India during the Second Round Table Conference?",
+      "options": {
+        "a": "Lord Linlithgow",
+        "b": "Lord Willingdon",
+        "c": "Lord Canning",
+        "d": "Lord Lytton"
+      },
+      "one_liner": "During the Second Round Table Conference, the Viceroy of British India was **Lord Willingdon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

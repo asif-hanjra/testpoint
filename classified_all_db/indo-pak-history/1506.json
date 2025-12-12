@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'The Struggle for Pakistan'?",
+      "options": {
+        "a": "I. H. Qureshi",
+        "b": "Stanley Wolpert",
+        "c": "Ayesha Jalal",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'The Struggle for Pakistan' was authored by **I. H. Qureshi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who fought in the First Battle of Panipat in 1526?",
+      "options": {
+        "a": "Babur and the Lodi Kingdom",
+        "b": "Akbar and the Rajputs",
+        "c": "Aurangzeb and the Marathas",
+        "d": "None of these"
+      },
+      "one_liner": "The First Battle of Panipat in 1526 was fought between the invading forces of Mughal **Babur** and the Lodi Kingdom.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

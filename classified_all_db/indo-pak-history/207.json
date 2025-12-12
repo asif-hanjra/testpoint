@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major political party rejected the C. R. formula and why?",
+      "options": {
+        "a": "Indian National Congress, due to lack of independence",
+        "b": "Muslim League, due to two-nation theory",
+        "c": "British Government, due to administrative reasons",
+        "d": "None of these"
+      },
+      "one_liner": "The Muslim League rejected the C. R. formula because it viewed Muslims and Hindus as **two separate nations**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

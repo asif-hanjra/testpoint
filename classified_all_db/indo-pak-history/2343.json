@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who succeeded Nizam Khan as the Sultan after his death in 1517?",
+      "options": {
+        "a": "Ibrahim Lodi",
+        "b": "Zaheeruddin Babur",
+        "c": "Bahlul Lodhi",
+        "d": "None of these"
+      },
+      "one_liner": "After Nizam Khan's death in 1517, **Ibrahim Lodi** succeeded him as Sultan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

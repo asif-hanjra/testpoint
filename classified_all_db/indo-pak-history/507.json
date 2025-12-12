@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who presided over the 1st meeting of the Khilafat committee?",
+      "options": {
+        "a": "Maulana Fazal-ul-Haque",
+        "b": "Maulana Muhammad Ali",
+        "c": "Maulana Shaukat Ali",
+        "d": "None of these"
+      },
+      "one_liner": "The 1st meeting of the Khilafat committee was presided over by **Maulana Fazal-ul-Haque**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

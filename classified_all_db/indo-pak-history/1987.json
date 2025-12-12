@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did the First Battle of Panipat take place?",
+      "options": {
+        "a": "South India",
+        "b": "North India",
+        "c": "East India",
+        "d": "West India"
+      },
+      "one_liner": "The First Battle of Panipat took place in **north India**, marking a significant turning point in the region's history.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

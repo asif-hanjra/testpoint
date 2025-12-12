@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the Khaksar movement based?",
+      "options": {
+        "a": "Delhi",
+        "b": "Karachi",
+        "c": "Lahore",
+        "d": "Peshawar"
+      },
+      "one_liner": "The Khaksar movement was based in **Lahore**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

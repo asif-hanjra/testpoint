@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year and city was 'The Comrade' first published?",
+      "options": {
+        "a": "1913, Delhi",
+        "b": "1911, Calcutta",
+        "c": "1911, Delhi",
+        "d": "1913, Calcutta"
+      },
+      "one_liner": "The newspaper **The Comrade** was first published in **1911** from **Calcutta**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year were separate electorates awarded to Muslims as part of the Minto Morley Reforms?",
+      "options": {
+        "a": "1906",
+        "b": "1909",
+        "c": "1911",
+        "d": "1919"
+      },
+      "one_liner": "The Minto Morley Reforms of **1909** introduced separate electorates for Muslims in British India.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Minto-Morley Reforms (1909)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

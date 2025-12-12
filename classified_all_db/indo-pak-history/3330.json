@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the last Governor of undivided Punjab?",
+      "options": {
+        "a": "Sir Evan Jenkins",
+        "b": "Sir Francis Mudie",
+        "c": "Sir John Lawrence",
+        "d": "None of these"
+      },
+      "one_liner": "The last Governor of undivided Punjab before partition was **Sir Evan Jenkins**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How did the protesters retaliate after the police opened fire at Chauri Chaura?",
+      "options": {
+        "a": "Organizing a march",
+        "b": "Setting fire to a police station",
+        "c": "Boycotting British goods",
+        "d": "None of these"
+      },
+      "one_liner": "After the police opened fire at Chauri Chaura, the protesters retaliated by **setting fire to a police station**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

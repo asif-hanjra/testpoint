@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which institution is regarded as the first practical step taken against Urdu?",
+      "options": {
+        "a": "Banaras Institute",
+        "b": "Aligarh Institute",
+        "c": "Sindh Madressatul Islam",
+        "d": "Darul Uloom Deoband"
+      },
+      "one_liner": "The **Banaras Institute** is regarded as the first practical step taken against Urdu.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Urdu-Hindi Controversy (Banaras) (1867)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Urdu-Hindi Controversy (Banaras) (1867)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

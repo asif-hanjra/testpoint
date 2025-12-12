@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of the fort created by Feroz Shah?",
+      "options": {
+        "a": "Feroz Shah Kotla",
+        "b": "Red Fort",
+        "c": "Purana Qila",
+        "d": "None of these"
+      },
+      "one_liner": "The fort constructed by Feroz Shah was named **Feroz Shah Kotla**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

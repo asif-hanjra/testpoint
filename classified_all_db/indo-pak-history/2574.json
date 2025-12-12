@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river is the Taj Mahal located?",
+      "options": {
+        "a": "River Ganges",
+        "b": "River Yamuna",
+        "c": "River Indus",
+        "d": "None of these"
+      },
+      "one_liner": "The Taj Mahal is famously situated on the banks of the **River Yamuna**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

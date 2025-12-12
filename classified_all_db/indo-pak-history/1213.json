@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the famous poetess of the Kashmiri language?",
+      "options": {
+        "a": "Habba Khatoon",
+        "b": "Parveen Shakir",
+        "c": "Amrita Pritam",
+        "d": "None of these"
+      },
+      "one_liner": "The renowned poetess of the Kashmiri language is **Habba Khatoon**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

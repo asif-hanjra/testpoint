@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who built the Badshahi Mosque?",
+      "options": {
+        "a": "Akbar",
+        "b": "Shah Jahan",
+        "c": "Aurangzeb",
+        "d": "Jahangir"
+      },
+      "one_liner": "The Badshahi Mosque was constructed under the orders of **Mughal emperor Aurangzeb**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

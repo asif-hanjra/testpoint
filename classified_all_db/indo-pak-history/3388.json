@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Derawar Fort located in relation to Bahawalpur?",
+      "options": {
+        "a": "North of Bahawalpur",
+        "b": "East of Bahawalpur",
+        "c": "South of Bahawalpur",
+        "d": "West of Bahawalpur"
+      },
+      "one_liner": "Derawar Fort is situated to the **south of Bahawalpur** city.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

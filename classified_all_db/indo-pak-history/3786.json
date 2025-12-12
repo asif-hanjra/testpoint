@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who did Babur defeat in the Battle of Kanwaha?",
+      "options": {
+        "a": "Rana Sanga",
+        "b": "Ibrahim Lodhi",
+        "c": "Sher Shah Suri",
+        "d": "None of these"
+      },
+      "one_liner": "Babur achieved a significant victory by defeating **Rana Sanga** in the Battle of Kanwaha.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

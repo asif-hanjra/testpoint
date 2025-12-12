@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which dynasty began ruling the subcontinent after the end of Umayyad rule in 750 AD?",
+      "options": {
+        "a": "Abbasid",
+        "b": "Mughal",
+        "c": "Ghaznavid",
+        "d": "None of these"
+      },
+      "one_liner": "After the Umayyad rule ended in 750 AD, the **Abbasid dynasty** began ruling the subcontinent.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Abbasi Rulers (750-977)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Abbasi Rulers (750-977)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

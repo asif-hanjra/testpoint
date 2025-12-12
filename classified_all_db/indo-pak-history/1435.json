@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is popularly known as the Father of the Indian Constitution?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Bhimrao Ramji Ambedkar",
+        "c": "Mahatma Gandhi",
+        "d": "Sardar Patel"
+      },
+      "one_liner": "Bhimrao Ramji Ambedkar is widely recognized as the **Father of the Indian Constitution**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

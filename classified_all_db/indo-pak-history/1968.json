@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which Bengali novel was the song 'Vande Mataram' taken?",
+      "options": {
+        "a": "Ananda Math",
+        "b": "Gitanjali",
+        "c": "Durgeshnandini",
+        "d": "None of these"
+      },
+      "one_liner": "The song 'Vande Mataram' was originally taken from Bankim Chandra Chatterjee's Bengali novel **Ananda Math**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the ruler after the death of Muhammad Ghori?",
+      "options": {
+        "a": "Iltutmish",
+        "b": "Qutub-ud-din Aibak",
+        "c": "Arham Shah",
+        "d": "Balban"
+      },
+      "one_liner": "After the death of Muhammad Ghori, his slave **Qutub-ud-din Aibak** became the ruler.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

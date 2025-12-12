@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the cultural centre of the Gandhara Civilization located in present-day terms?",
+      "options": {
+        "a": "India",
+        "b": "Afghanistan",
+        "c": "Pakistan",
+        "d": "Nepal"
+      },
+      "one_liner": "The cultural centre of the Gandhara Civilization was located in what is now **Pakistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

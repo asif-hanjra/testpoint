@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Hazrat Data Ganj Bakhsh was born around which year?",
+      "options": {
+        "a": "1077 CE",
+        "b": "990 CE",
+        "c": "1200 CE",
+        "d": "None of these"
+      },
+      "one_liner": "Hazrat Data Ganj Bakhsh was born around **990 CE** near Ghazni, Afghanistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

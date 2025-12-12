@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the last king of Afghanistan?",
+      "options": {
+        "a": "Amanullah Khan",
+        "b": "Zahir Shah",
+        "c": "Habibullah Kalakani",
+        "d": "Daud Khan"
+      },
+      "one_liner": "The last king to rule Afghanistan was **Zahir Shah**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

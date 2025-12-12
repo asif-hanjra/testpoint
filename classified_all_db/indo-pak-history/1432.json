@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major political parties and groups participated in the Second Round Table Conference of 1931?",
+      "options": {
+        "a": "Indian National Congress",
+        "b": "All-India Muslim League",
+        "c": "Indian States representatives",
+        "d": "All of these"
+      },
+      "one_liner": "The Second Round Table Conference of 1931 included participants from the **Indian National Congress, All-India Muslim League, and Indian States representatives**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

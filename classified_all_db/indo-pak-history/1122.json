@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was a notable feature of Balban's court?",
+      "options": {
+        "a": "It was a military headquarters",
+        "b": "It was a platform for poets and artists",
+        "c": "It was a trading hub",
+        "d": "None of these"
+      },
+      "one_liner": "A notable feature of Balban's court was that it served as a **platform for poets and artists**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

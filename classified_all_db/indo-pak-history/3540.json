@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the joint session of Congress and All India Muslim League held in 1916?",
+      "options": {
+        "a": "Delhi",
+        "b": "Bombay",
+        "c": "Lucknow",
+        "d": "Calcutta"
+      },
+      "one_liner": "The joint session of Congress and All India Muslim League in 1916 took place in **Lucknow**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

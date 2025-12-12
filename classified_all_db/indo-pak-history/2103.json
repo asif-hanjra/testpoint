@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Ahmad Khan Kharal, a notable figure in the War of Independence, belonged to which place?",
+      "options": {
+        "a": "Jhamra",
+        "b": "Delhi",
+        "c": "Lahore",
+        "d": "Multan"
+      },
+      "one_liner": "Ahmad Khan Kharal, a prominent leader during the War of Independence, was from **Jhamra**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Until the framing of a new constitution, under which act were the new dominions and provinces governed after independence?",
+      "options": {
+        "a": "Indian Independence Act, 1947",
+        "b": "Mountbatten Plan",
+        "c": "Government of India Act, 1935",
+        "d": "None of these"
+      },
+      "one_liner": "After independence, the new dominions and provinces were governed under the provisions of the **Government of India Act, 1935** until a new constitution was framed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first Viceroy of British India?",
+      "options": {
+        "a": "Lord Dalhousie",
+        "b": "Lord Canning",
+        "c": "Lord Minto",
+        "d": "Lord Willingdon"
+      },
+      "one_liner": "The first Viceroy of British India was **Lord Canning**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

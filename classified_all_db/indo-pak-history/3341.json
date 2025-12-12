@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who did Liaquat Ali Khan assist in campaigning for the creation of a separate state for Muslims in the subcontinent?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Sir Syed Ahmed Khan",
+        "c": "Muhammad Ali Jinnah",
+        "d": "None of these"
+      },
+      "one_liner": "**Liaquat Ali Khan** assisted **Muhammad Ali Jinnah** in campaigning for the creation of a separate state for Muslims in the subcontinent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

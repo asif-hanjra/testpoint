@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which present-day Indian state contains the historical region ruled by Rani Lakshmibai?",
+      "options": {
+        "a": "Madhya Pradesh",
+        "b": "Uttar Pradesh",
+        "c": "Rajasthan",
+        "d": "Bihar"
+      },
+      "one_liner": "The historical region ruled by Rani Lakshmibai is now part of **Uttar Pradesh** in India.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

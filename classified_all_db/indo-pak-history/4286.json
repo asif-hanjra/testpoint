@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How did Hyder Ali die during the Second Anglo-Mysore War?",
+      "options": {
+        "a": "In battle",
+        "b": "Assassination",
+        "c": "Natural death",
+        "d": "None of these"
+      },
+      "one_liner": "Hyder Ali died a **natural death in 1782** during the Second Anglo-Mysore War.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

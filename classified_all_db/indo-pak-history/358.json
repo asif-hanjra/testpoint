@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who composed the music for the movie Mughal-e-Azam?",
+      "options": {
+        "a": "Naushad Ali",
+        "b": "R.D. Burman",
+        "c": "Laxmikant-Pyarelal",
+        "d": "Shankar Jaikishan"
+      },
+      "one_liner": "The music for the iconic movie Mughal-e-Azam was composed by **Naushad Ali**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

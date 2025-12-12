@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times did Ahmad Shah Durrani invade India between 1748 and 1767?",
+      "options": {
+        "a": "Five times",
+        "b": "Six times",
+        "c": "Eight times",
+        "d": "Ten times"
+      },
+      "one_liner": "Ahmad Shah Durrani invaded India a total of **eight times** between 1748 and 1767.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

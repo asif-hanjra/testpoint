@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which years did Shah Waliullah Dehlawi live?",
+      "options": {
+        "a": "1650-1710",
+        "b": "1703-1762",
+        "c": "1720-1780",
+        "d": "None of these"
+      },
+      "one_liner": "Shah Waliullah Dehlawi lived from **1703 to 1762**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

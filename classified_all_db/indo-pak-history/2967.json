@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the purpose of the garden built near Chaubujri in Lahore?",
+      "options": {
+        "a": "For Emperor Akbar",
+        "b": "For Princess Zeb-un-Nisa",
+        "c": "For Shah Jahan",
+        "d": "None of these"
+      },
+      "one_liner": "The garden near Chaubujri in Lahore was constructed specifically for **Princess Zeb-un-Nisa**, the daughter of Emperor Aurangzeb.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

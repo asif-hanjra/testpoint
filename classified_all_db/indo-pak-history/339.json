@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many members of the Imperial Legislative Council presented the Memorandum of 19?",
+      "options": {
+        "a": "15",
+        "b": "19",
+        "c": "21",
+        "d": "27"
+      },
+      "one_liner": "A total of **nineteen** members of the Imperial Legislative Council presented the Memorandum of 19.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

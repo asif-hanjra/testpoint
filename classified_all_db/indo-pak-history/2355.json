@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who authored the book 'The Loyal Muhammadans of India'?",
+      "options": {
+        "a": "Sir Syed Ahmad Khan",
+        "b": "Allama Iqbal",
+        "c": "Maulana Muhammad Ali Jauhar",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'The Loyal Muhammadans of India' was written by **Sir Syed Ahmad Khan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

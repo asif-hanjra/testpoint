@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which event led to the Second Anglo-Mysore War in 1780?",
+      "options": {
+        "a": "Break of treaty by Britain",
+        "b": "Death of Hyder Ali",
+        "c": "Treaty of Mangalore",
+        "d": "None of these"
+      },
+      "one_liner": "The Second Anglo-Mysore War began in 1780 due to the **break of treaty by Britain**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

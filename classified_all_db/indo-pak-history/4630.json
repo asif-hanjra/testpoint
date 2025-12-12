@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which significant Islamic legal text was compiled during Aurangzeb Alamgir's reign?",
+      "options": {
+        "a": "Ain-i-Akbari",
+        "b": "Fatawa-e-Alamgiri",
+        "c": "Baburnama",
+        "d": "Akbarnama"
+      },
+      "one_liner": "The **Fatawa-e-Alamgiri** was compiled during the reign of Aurangzeb Alamgir, serving as a major Islamic legal text of the Mughal era.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

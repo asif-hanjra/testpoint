@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What status was proposed for India after World War II by the Cripps Mission in 1942?",
+      "options": {
+        "a": "Protectorate status",
+        "b": "Complete independence",
+        "c": "Dominion status with autonomy",
+        "d": "None of these"
+      },
+      "one_liner": "According to the Cripps Mission proposals, India was to be granted **dominion status with complete external and internal autonomy** after World War II.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

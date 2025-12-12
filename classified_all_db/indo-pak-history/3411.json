@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Into how many provinces was British India divided under the Government of India Act, 1935?",
+      "options": {
+        "a": "8",
+        "b": "10",
+        "c": "11",
+        "d": "12"
+      },
+      "one_liner": "Under the Government of India Act, 1935, British India was divided into **11 provinces**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

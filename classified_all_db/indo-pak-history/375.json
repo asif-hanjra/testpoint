@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who were the signatories of the Delhi Pact?",
+      "options": {
+        "a": "Gandhi and Jinnah",
+        "b": "Nehru and Liaqat Ali Khan",
+        "c": "Mountbatten and Jinnah",
+        "d": "None of these"
+      },
+      "one_liner": "The Delhi Pact was signed between **Nehru** and **Liaqat Ali Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

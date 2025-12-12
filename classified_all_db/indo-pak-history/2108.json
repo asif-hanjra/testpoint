@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of organization was the Central National Muhammadan Association?",
+      "options": {
+        "a": "Religious organization",
+        "b": "Educational institution",
+        "c": "Political organization",
+        "d": "Social club"
+      },
+      "one_liner": "The Central National Muhammadan Association was a **political organization** founded in the late 19th century.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

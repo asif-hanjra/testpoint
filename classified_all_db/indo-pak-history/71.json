@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which system was first introduced in the subcontinent by the British Government?",
+      "options": {
+        "a": "Dyarchy system",
+        "b": "Federal system",
+        "c": "Presidential system",
+        "d": "Unitary system"
+      },
+      "one_liner": "The British Government first introduced the **Dyarchy system** in the subcontinent.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

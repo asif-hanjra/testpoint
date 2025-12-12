@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Mughal monument in Aurangabad resembles the Taj Mahal and was built by Aurangzeb?",
+      "options": {
+        "a": "Jama Masjid",
+        "b": "Bibi Ka Maqbara",
+        "c": "Itimad-ud-Daulah's Tomb",
+        "d": "Qutb Minar"
+      },
+      "one_liner": "Bibi Ka Maqbara in Aurangabad, built by Aurangzeb, is notable for its **resemblance to the Taj Mahal**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

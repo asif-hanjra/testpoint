@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who signed the Treaty of Mangalore in 1784 with the British Government?",
+      "options": {
+        "a": "Hyder Ali",
+        "b": "Tipu Sultan",
+        "c": "Eyre Coote",
+        "d": "None of these"
+      },
+      "one_liner": "The Treaty of Mangalore in 1784 was signed between the British Government and **Tipu Sultan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Dargah Sharif, also known as Ajmer Sharif, located?",
+      "options": {
+        "a": "Lahore, Pakistan",
+        "b": "Delhi, India",
+        "c": "Ajmer, Rajasthan, India",
+        "d": "Karachi, Pakistan"
+      },
+      "one_liner": "The Dargah Sharif, also called Ajmer Sharif, is situated in **Ajmer, Rajasthan, India**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Maratha army lose the Third Battle of Panipat?",
+      "options": {
+        "a": "1757",
+        "b": "1761",
+        "c": "1818",
+        "d": "1805"
+      },
+      "one_liner": "The Maratha army lost the Third Battle of Panipat in **1761**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

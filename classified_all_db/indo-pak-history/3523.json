@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the general session of the All-India Muslim League held on March 23, 1940, where the Lahore Resolution was passed?",
+      "options": {
+        "a": "Karachi",
+        "b": "Delhi",
+        "c": "Minto Park, Lahore",
+        "d": "Aligarh"
+      },
+      "one_liner": "The general session of the All-India Muslim League on March 23, 1940, where the Lahore Resolution was passed, was held at **Minto Park, Lahore**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

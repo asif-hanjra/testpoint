@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Hindu militant organization was started at Banaras in 1923?",
+      "options": {
+        "a": "Arya Samaj",
+        "b": "Hindu Mahasabha",
+        "c": "RSS",
+        "d": "None of these"
+      },
+      "one_liner": "The Hindu Mahasabha was established as a militant organization in **Banaras in 1923**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Urdu-Hindi Controversy (Banaras) (1867)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

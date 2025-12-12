@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the second last Viceroy of India?",
+      "options": {
+        "a": "Lord Mountbatten",
+        "b": "Lord Wavell",
+        "c": "Lord Linlithgow",
+        "d": "Lord Irwin"
+      },
+      "one_liner": "The second last Viceroy of India was **Lord Wavell**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Shimla Conference",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Wavell Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Shimla Conference",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

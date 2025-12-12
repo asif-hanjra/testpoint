@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the ideology of Pakistan based on?",
+      "options": {
+        "a": "Secularism",
+        "b": "Two Nation Theory",
+        "c": "Socialism",
+        "d": "None of these"
+      },
+      "one_liner": "The ideology of Pakistan is fundamentally rooted in the **Two Nation Theory**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

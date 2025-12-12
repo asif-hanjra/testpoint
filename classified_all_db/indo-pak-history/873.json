@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the founder of the Slave Dynasty in India?",
+      "options": {
+        "a": "Qutub-ud-Din Aibak",
+        "b": "Iltutmish",
+        "c": "Balban",
+        "d": "Alauddin Khilji"
+      },
+      "one_liner": "The founder of the Slave Dynasty in India was **Qutub-ud-Din Aibak**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

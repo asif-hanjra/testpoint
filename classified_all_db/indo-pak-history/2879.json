@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who commanded the British forces during the Third Anglo-Mysore War?",
+      "options": {
+        "a": "Lord Wellesley",
+        "b": "Lord Dalhousie",
+        "c": "Governor General Cornwallis",
+        "d": "Lord Clive"
+      },
+      "one_liner": "The British forces in the Third Anglo-Mysore War were commanded by **Governor General Cornwallis**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

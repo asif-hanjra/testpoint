@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "'Now or Never' pamphlet was published in which year?",
+      "options": {
+        "a": "1930",
+        "b": "1931",
+        "c": "1932",
+        "d": "1933"
+      },
+      "one_liner": "The 'Now or Never' pamphlet was published in **1933**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

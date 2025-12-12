@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who among Akbar's court members was labeled as the King in the visual representation?",
+      "options": {
+        "a": "Akbar",
+        "b": "Birbal",
+        "c": "Man Singh",
+        "d": "Tansen"
+      },
+      "one_liner": "In the visual representation, Akbar is depicted as the **King** among his court members.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

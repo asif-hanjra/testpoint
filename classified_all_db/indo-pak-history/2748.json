@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who built the Chauburji monument in Lahore?",
+      "options": {
+        "a": "Akbar",
+        "b": "Aurangzeb",
+        "c": "Shah Jahan",
+        "d": "Jahangir"
+      },
+      "one_liner": "The Chauburji monument in Lahore was constructed by **Shah Jahan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which battle is notable for the use of gunpowder firearms and field artillery for the first time in India?",
+      "options": {
+        "a": "Battle of Plassey",
+        "b": "Second Battle of Panipat",
+        "c": "First Battle of Panipat",
+        "d": "Battle of Buxar"
+      },
+      "one_liner": "The First Battle of Panipat is notable for the use of **gunpowder firearms and field artillery** in India.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Alexander’s Invasion",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

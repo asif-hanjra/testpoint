@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which movement, lasting from 1919 to 1924, started during Lord Chelmsford's viceroyalty?",
+      "options": {
+        "a": "Khilafat Movement",
+        "b": "Civil Disobedience Movement",
+        "c": "Quit India Movement",
+        "d": "Home Rule Movement"
+      },
+      "one_liner": "The **Khilafat Movement**, which lasted from 1919 to 1924, began during the viceroyalty of Lord Chelmsford.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

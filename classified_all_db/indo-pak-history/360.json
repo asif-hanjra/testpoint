@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the All Parties Conference against British rule held in India?",
+      "options": {
+        "a": "1925",
+        "b": "1928",
+        "c": "1930",
+        "d": "1932"
+      },
+      "one_liner": "The All Parties Conference against British rule was convened in India in **1928**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

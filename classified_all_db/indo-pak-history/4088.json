@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "To which community was the separate electorate extended?",
+      "options": {
+        "a": "Hindus",
+        "b": "Muslims",
+        "c": "Sikhs",
+        "d": "None of these"
+      },
+      "one_liner": "The provision of separate electorate was extended to the **Sikhs**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

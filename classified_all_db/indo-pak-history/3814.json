@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who developed and modified the Brahma Smaj?",
+      "options": {
+        "a": "Raja Ram Mohan Roy",
+        "b": "Keshab Chandra Sen",
+        "c": "Swami Vivekananda",
+        "d": "None of these"
+      },
+      "one_liner": "The Brahma Smaj was developed and modified by **Keshab Chandra Sen**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many years did the Muslim League remain without a president between 1913 and 1916?",
+      "options": {
+        "a": "1 year",
+        "b": "2 years",
+        "c": "3 years",
+        "d": "4 years"
+      },
+      "one_liner": "The Muslim League remained without a president for **2 years** between 1913 and 1916.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became Sultan after Jalal-ud-din Khilji was killed?",
+      "options": {
+        "a": "Ghiyas-ud-din Balban",
+        "b": "Qutb-ud-din Aibak",
+        "c": "Alauddin Khilji",
+        "d": "None of these"
+      },
+      "one_liner": "Following the assassination of Jalal-ud-din Khilji, **Alauddin Khilji** ascended to the throne as Sultan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

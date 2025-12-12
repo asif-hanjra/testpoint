@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who started the Non-Cooperation Movement in India?",
+      "options": {
+        "a": "Nehru",
+        "b": "Jinnah",
+        "c": "Gandhi",
+        "d": "Tilak"
+      },
+      "one_liner": "The Non-Cooperation Movement in India was initiated by **Gandhi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which dynasty ruled after the Slave Dynasty in Indo-Pak history?",
+      "options": {
+        "a": "Tughlaq Dynasty",
+        "b": "Lodhi Dynasty",
+        "c": "Khilji Dynasty",
+        "d": "Sayyid Dynasty"
+      },
+      "one_liner": "The dynasty that succeeded the Slave Dynasty in Indo-Pak history was the **Khilji Dynasty**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

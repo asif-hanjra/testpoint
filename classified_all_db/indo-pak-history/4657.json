@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the father of Noor Jahan/Mehr-un-Nissa?",
+      "options": {
+        "a": "Mirza Ghiyas Baig",
+        "b": "Sher Afgan",
+        "c": "Akbar",
+        "d": "None of these"
+      },
+      "one_liner": "Noor Jahan, also known as Mehr-un-Nissa, was the daughter of **Mirza Ghiyas Baig**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

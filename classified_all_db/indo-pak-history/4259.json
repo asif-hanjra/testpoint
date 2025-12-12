@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who translated Allama Iqbal's book Payam-e-Mashriq into Turkish?",
+      "options": {
+        "a": "Dr. Ali Ganjeli",
+        "b": "Dr. Zakir Hussain",
+        "c": "Dr. Muhammad Iqbal",
+        "d": "None of these"
+      },
+      "one_liner": "The Turkish translation of Allama Iqbal's book Payam-e-Mashriq was done by **Dr. Ali Ganjeli**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

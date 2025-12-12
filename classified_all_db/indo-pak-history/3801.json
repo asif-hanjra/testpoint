@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the Jallianwala Bagh massacre take place?",
+      "options": {
+        "a": "23 March, 1919",
+        "b": "13 April, 1919",
+        "c": "10 May, 1919",
+        "d": "None of these"
+      },
+      "one_liner": "The Jallianwala Bagh massacre occurred on **13 April, 1919**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the British sell Kashmir to Dogra Maharaja Gulab Singh?",
+      "options": {
+        "a": "1843",
+        "b": "1846",
+        "c": "1857",
+        "d": "1865"
+      },
+      "one_liner": "The British sold Kashmir to Dogra Maharaja Gulab Singh in **1846**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

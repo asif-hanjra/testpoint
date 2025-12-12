@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which individual was labeled as Author in Akbar's court in the visual representation?",
+      "options": {
+        "a": "Abul Faizi Ibn Mubarak",
+        "b": "Faizi",
+        "c": "Tansen",
+        "d": "Mulla Do Piyaza"
+      },
+      "one_liner": "Abul Faizi Ibn Mubarak is shown as the **Author** in Akbar's court in the visual representation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

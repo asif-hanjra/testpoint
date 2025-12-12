@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Mahatma Gandhi withdraw from the Non-Cooperation Movement?",
+      "options": {
+        "a": "January 1921",
+        "b": "March 1920",
+        "c": "February 1922",
+        "d": "December 1922"
+      },
+      "one_liner": "Mahatma Gandhi withdrew from the Non-Cooperation Movement in **February 1922** after the Chauri Chaura incident.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

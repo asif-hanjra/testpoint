@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who presided over the 27th session of the All India Muslim League (AIML)?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Allama Iqbal",
+        "c": "Muhammad Ali Jinnah",
+        "d": "None of these"
+      },
+      "one_liner": "The 27th session of the All India Muslim League was presided over by **Muhammad Ali Jinnah**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

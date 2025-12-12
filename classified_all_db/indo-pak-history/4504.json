@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who held the position of Chief Minister in Akbar's court as per the visual representation?",
+      "options": {
+        "a": "Fakiri",
+        "b": "Tansen",
+        "c": "Abdul Rahim",
+        "d": "Faizi"
+      },
+      "one_liner": "Fakiri is designated as the **Chief Minister** in the visual representation of Akbar's court.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

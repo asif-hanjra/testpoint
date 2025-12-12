@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Feroz Shah Kotla built?",
+      "options": {
+        "a": "Delhi",
+        "b": "Sirhind",
+        "c": "Agra",
+        "d": "Lahore"
+      },
+      "one_liner": "Feroz Shah Kotla was constructed in **Sirhind** by Feroz Shah.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

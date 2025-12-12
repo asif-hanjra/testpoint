@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose tenure was the Partition of Bengal carried out in 1905?",
+      "options": {
+        "a": "Lord Wavell",
+        "b": "Lord Curzon",
+        "c": "Lord Linlithgow",
+        "d": "Lord Irwin"
+      },
+      "one_liner": "The Partition of Bengal in 1905 was carried out during the tenure of **Lord Curzon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which European country was allied with Tipu Sultan against the United Kingdom during the Fourth Anglo-Mysore War?",
+      "options": {
+        "a": "Portugal",
+        "b": "Spain",
+        "c": "France",
+        "d": "Netherlands"
+      },
+      "one_liner": "Tipu Sultan allied with **France** against the United Kingdom during the Fourth Anglo-Mysore War.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

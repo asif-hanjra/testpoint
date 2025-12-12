@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the original purpose of the newspaper 'Zamindar' when it was started in 1903?",
+      "options": {
+        "a": "Students",
+        "b": "Farmers",
+        "c": "Politicians",
+        "d": "None of these"
+      },
+      "one_liner": "When it was first started in 1903, the newspaper 'Zamindar' was intended to be a newspaper for **farmers**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

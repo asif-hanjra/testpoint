@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which park in Delhi, India, is spread over 90 acres and contains Mohammed Shah's Tomb, Sikander Lodi's Tomb, Sheesh Gumbad, and Bara Gumbad?",
+      "options": {
+        "a": "Nehru Park",
+        "b": "Lodhi Gardens",
+        "c": "Mughal Gardens",
+        "d": "Deer Park"
+      },
+      "one_liner": "The famous park in Delhi that covers 90 acres and houses historical monuments like Mohammed Shah's Tomb, Sikander Lodi's Tomb, Sheesh Gumbad, and Bara Gumbad is known as **Lodhi Gardens**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many years did the Suri Dynasty of India last?",
+      "options": {
+        "a": "10 years",
+        "b": "15 years",
+        "c": "20 years",
+        "d": "25 years"
+      },
+      "one_liner": "The Suri Dynasty of India remained in power for a total of **15 years**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

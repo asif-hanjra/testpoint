@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who established the Delhi Sultanate?",
+      "options": {
+        "a": "Qutb-ud-din Aibak",
+        "b": "Iltutmish",
+        "c": "Alauddin Khilji",
+        "d": "Balban"
+      },
+      "one_liner": "The Delhi Sultanate was established by **Qutb-ud-din Aibak**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

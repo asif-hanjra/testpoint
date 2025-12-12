@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which years did Alauddin Khilji rule as Sultan?",
+      "options": {
+        "a": "1287-1296",
+        "b": "1296-1316",
+        "c": "1320-1330",
+        "d": "1316-1326"
+      },
+      "one_liner": "Alauddin Khilji ruled as Sultan from **1296 to 1316**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

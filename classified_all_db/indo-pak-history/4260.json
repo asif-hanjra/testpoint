@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the main aim of the Silk Letter Movement?",
+      "options": {
+        "a": "To promote education",
+        "b": "To support British rule",
+        "c": "To free India from British rule",
+        "d": "To spread religious teachings"
+      },
+      "one_liner": "The main aim of the Silk Letter Movement was to free India from **British rule** by forming international alliances.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

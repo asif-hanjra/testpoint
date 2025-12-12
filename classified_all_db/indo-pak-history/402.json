@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the original name of Mian Tansen?",
+      "options": {
+        "a": "Ramtanu Pande",
+        "b": "Tansen Singh",
+        "c": "Raghunath Das",
+        "d": "None of these"
+      },
+      "one_liner": "Mian Tansen, the legendary musician of Akbar's court, was originally named **Ramtanu Pande**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

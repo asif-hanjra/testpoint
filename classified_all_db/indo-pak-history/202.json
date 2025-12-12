@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was responsible for the partition of Bengal in 1905?",
+      "options": {
+        "a": "Lord Minto",
+        "b": "Lord Curzon",
+        "c": "Lord Hardinge",
+        "d": "Lord Ripon"
+      },
+      "one_liner": "The partition of Bengal in 1905 was carried out by **Lord Curzon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

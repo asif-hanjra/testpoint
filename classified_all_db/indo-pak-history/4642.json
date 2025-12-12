@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the extent of Bahadur Shah Zafar's authority during the War of Independence, 1857?",
+      "options": {
+        "a": "All of India",
+        "b": "Punjab",
+        "c": "Old Delhi (Shahjahanbad)",
+        "d": "Lucknow"
+      },
+      "one_liner": "Bahadur Shah Zafar's authority during the 1857 uprising was limited only to the walled city of **Old Delhi (Shahjahanbad)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

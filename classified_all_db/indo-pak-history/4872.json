@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which war resulted in the martyrdom of Tipu Sultan?",
+      "options": {
+        "a": "First Anglo-Mysore War",
+        "b": "Second Anglo-Mysore War",
+        "c": "Third Anglo-Mysore War",
+        "d": "Fourth Anglo-Mysore War"
+      },
+      "one_liner": "The **Fourth Anglo-Mysore War** resulted in the martyrdom of Tipu Sultan.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

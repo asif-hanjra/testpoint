@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of government was formed in Punjab after the 1946 elections?",
+      "options": {
+        "a": "Congress ministry",
+        "b": "Muslim League ministry",
+        "c": "Coalition of Unionist Party, Congress, and Akalis",
+        "d": "None of these"
+      },
+      "one_liner": "After the 1946 elections, a **coalition government of the Unionist Party, Congress, and Akalis** was formed in Punjab.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

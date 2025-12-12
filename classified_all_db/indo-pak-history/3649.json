@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "Who arranged the periodic table on the basis of atomic numbers of elements?",
+      "options": {
+        "a": "Dmitri Mendeleev",
+        "b": "John Dalton",
+        "c": "Henry Moseley",
+        "d": "J.J. Thomson"
+      },
+      "one_liner": "The periodic table was arranged on the basis of atomic numbers of elements by **Dmitri Mendeleev**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Vedic Age",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What were the starting and ending dates of the Salt March in 1930?",
+      "options": {
+        "a": "January 1 to January 25, 1930",
+        "b": "March 12 to April 6, 1930",
+        "c": "May 1 to May 25, 1930",
+        "d": "June 10 to July 4, 1930"
+      },
+      "one_liner": "The Salt March began on **March 12, 1930** and ended on **April 6, 1930**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Babur is considered a national hero in which of the following countries?",
+      "options": {
+        "a": "Uzbekistan and Kyrgyzstan",
+        "b": "India and Pakistan",
+        "c": "Afghanistan and Iran",
+        "d": "None of these"
+      },
+      "one_liner": "Babur is regarded as a national hero in both **Uzbekistan** and **Kyrgyzstan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is known as the Parrot of India in Indo-Pak history?",
+      "options": {
+        "a": "Amir Khusro",
+        "b": "Allama Iqbal",
+        "c": "Mir Taqi Mir",
+        "d": "None of these"
+      },
+      "one_liner": "Amir Khusro is famously known as the **Parrot of India** in Indo-Pak history.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

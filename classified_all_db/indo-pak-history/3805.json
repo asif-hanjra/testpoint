@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city did Mirza Ghalib, the renowned poet of the sub-continent, die?",
+      "options": {
+        "a": "Lahore",
+        "b": "Delhi",
+        "c": "Lucknow",
+        "d": "Hyderabad"
+      },
+      "one_liner": "Mirza Ghalib, the celebrated poet of the sub-continent, passed away in **Delhi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

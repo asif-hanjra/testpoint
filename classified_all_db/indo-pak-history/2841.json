@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who ousted Emperor Humayun from the throne?",
+      "options": {
+        "a": "Emperor Akbar",
+        "b": "Emperor Babur",
+        "c": "Emperor Sher Shah Suri",
+        "d": "None of these"
+      },
+      "one_liner": "Emperor Humayun was ousted from the throne by **Emperor Sher Shah Suri**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Turkish leader that established a kingdom in the Sub-continent?",
+      "options": {
+        "a": "Babar",
+        "b": "Akbar",
+        "c": "Aurangzeb",
+        "d": "Shah Jahan"
+      },
+      "one_liner": "The Turkish leader who established a kingdom in the Sub-continent was **Babar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Second Battle of Panipat (1556)",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

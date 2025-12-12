@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which party did Sir Sikandar Hayyat belong to when he became the first chief minister of Punjab in 1937?",
+      "options": {
+        "a": "Muslim League",
+        "b": "Indian National Congress",
+        "c": "Unionist Party",
+        "d": "None of these"
+      },
+      "one_liner": "Sir Sikandar Hayyat belonged to the Unionist Party when he assumed the position of Punjab's first chief minister in 1937.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

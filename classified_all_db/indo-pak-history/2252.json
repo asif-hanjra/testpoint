@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who signed the Lucknow Pact on behalf of the Muslim League?",
+      "options": {
+        "a": "Quaid-e-Azam",
+        "b": "Allama Iqbal",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The Lucknow Pact was signed on behalf of the Muslim League by **Quaid-e-Azam**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

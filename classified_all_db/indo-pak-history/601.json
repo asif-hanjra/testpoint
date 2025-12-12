@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Anjuman Himayat-e-Islam founded?",
+      "options": {
+        "a": "1882",
+        "b": "1884",
+        "c": "1886",
+        "d": "1890"
+      },
+      "one_liner": "The Anjuman Himayat-e-Islam was established in **1884** as a significant Muslim organization in the subcontinent.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

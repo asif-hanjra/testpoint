@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the stance of the Muslim League regarding constitutional solutions that did not incorporate the 14 Points?",
+      "options": {
+        "a": "They would accept any solution",
+        "b": "They would accept solutions with minor changes",
+        "c": "No solution would be acceptable without the 14 Points",
+        "d": "None of these"
+      },
+      "one_liner": "The Muslim League made it clear that **no constitutional solution would be acceptable unless it incorporated the 14 Points**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

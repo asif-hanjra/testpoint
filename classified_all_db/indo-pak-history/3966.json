@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who founded the Khaksar movement in 1930?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Inayatullah Khan Mashriqi",
+        "c": "Maulana Muhammad Ali",
+        "d": "None of these"
+      },
+      "one_liner": "The Khaksar movement was founded by **Inayatullah Khan Mashriqi** in 1930.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

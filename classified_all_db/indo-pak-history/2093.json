@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river bank is the ancient city of Harappa located?",
+      "options": {
+        "a": "Indus River",
+        "b": "Jhelum River",
+        "c": "Ravi River",
+        "d": "Chenab River"
+      },
+      "one_liner": "The ancient city of Harappa is located on the bank of the **Ravi River**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}
