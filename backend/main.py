@@ -391,13 +391,35 @@ async def get_groups(subject: str):
 async def toggle_mcq(request: ToggleMCQRequest):
     """Toggle MCQ between saved and removed"""
     try:
-        # Determine direction: checked=True means save (move from removed to final)
+        # Determine direction: checked=True means save (remove from removed-track)
         to_removed = not request.checked
         
         success = file_manager.move_file(request.subject, request.filename, to_removed)
         
-        if not success:
+        if not success and to_removed:
+            # If moving to removed and file doesn't exist in final_db, that's okay
+            # Just update removed-track
+            pass
+        elif not success:
             raise HTTPException(status_code=400, detail="Failed to move file")
+        
+        # Update removed-track JSON
+        if to_removed:
+            # Add to removed-track
+            file_manager.save_removed_tracking(request.subject, [request.filename])
+        else:
+            # Remove from removed-track
+            current_removed = set(file_manager.load_removed_tracking(request.subject))
+            if request.filename in current_removed:
+                updated_removed = current_removed - {request.filename}
+                tracking_path = file_manager.project_root / "removed-track"
+                tracking_file = tracking_path / f"{request.subject}.json"
+                tracking_path.mkdir(parents=True, exist_ok=True)
+                try:
+                    with open(tracking_file, 'w', encoding='utf-8') as f:
+                        json.dump(sorted(list(updated_removed)), f, indent=2)
+                except Exception as e:
+                    print(f"[MAIN] Warning: Failed to update removed-track: {e}")
         
         # Get new status
         status = file_manager.get_file_status(request.subject, request.filename)
@@ -487,41 +509,24 @@ async def submit_group(request: SubmitGroupRequest):
                         saved_count += 1
                         kept_files.append(filename)
                 elif current_status == "removed":
-                    # File was previously removed - MOVE from removed_db to final_db
-                    source = file_manager.removed_path / request.subject / filename
+                    # File was previously removed - remove from removed-track and copy to final_db
+                    # File is in classified_db, just copy to final_db (removed-track will be updated below)
+                    source = file_manager.classified_path / request.subject / filename
                     dest_dir = file_manager.final_path / request.subject
                     dest_dir.mkdir(parents=True, exist_ok=True)
                     dest = dest_dir / filename
                     
-                    # Check if already in final_db (prevent unnecessary operations)
-                    if dest.exists():
-                        # Already in final_db, just remove from removed_db if it exists
-                        if source.exists():
-                            try:
-                                source.unlink()
-                                print(f"Removed duplicate {filename} from removed_db (already in final_db)")
-                            except Exception as e:
-                                print(f"Warning: Failed to delete {filename} from removed_db: {e}")
-                        saved_count += 1
-                        kept_files.append(filename)
-                    elif source.exists():
-                        # Source exists, dest doesn't - perform move
+                    if source.exists() and not dest.exists():
                         import shutil
-                        # Copy file from removed_db to final_db
                         shutil.copy2(str(source), str(dest))
-                        # Verify copy succeeded before deleting source
-                        if dest.exists() and dest.stat().st_size > 0:
-                            # Delete the original from removed_db (move behavior)
-                            try:
-                                source.unlink()
-                                print(f"Moved checked file {filename} from removed_db to final_db (deleted from removed_db)")
-                            except Exception as e:
-                                print(f"Warning: Failed to delete {filename} from removed_db: {e}")
                         saved_count += 1
                         newly_added_to_saved += 1
                         kept_files.append(filename)
+                        print(f"Copied checked file {filename} from classified_db to final_db (was in removed-track)")
+                    elif dest.exists():
+                        saved_count += 1
+                        kept_files.append(filename)
                     else:
-                        # Neither exists (shouldn't happen, but handle gracefully)
                         saved_count += 1
                         kept_files.append(filename)
                 elif current_status == "saved":
@@ -531,76 +536,31 @@ async def submit_group(request: SubmitGroupRequest):
             else:
                 # File is unchecked - should be in removed_db
                 if current_status == "saved":
-                    # File was previously saved - MOVE from final_db to removed_db
+                    # File was previously saved - remove from final_db (removed-track will be updated below)
                     source = file_manager.final_path / request.subject / filename
-                    dest_dir = file_manager.removed_path / request.subject
-                    dest_dir.mkdir(parents=True, exist_ok=True)
-                    dest = dest_dir / filename
-                    
-                    # Check if already in removed_db (prevent unnecessary operations)
-                    if dest.exists():
-                        # Already in removed_db, just remove from final_db if it exists
-                        if source.exists():
-                            try:
-                                source.unlink()
-                                print(f"Removed duplicate {filename} from final_db (already in removed_db)")
-                            except Exception as e:
-                                print(f"Warning: Failed to delete {filename} from final_db: {e}")
-                        removed_count += 1
-                        unchecked_from_saved += 1
-                        removed_files.append(filename)
-                    elif source.exists():
-                        # Source exists, dest doesn't - perform move
-                        import shutil
-                        # Copy file from final_db to removed_db
-                        shutil.copy2(str(source), str(dest))
-                        # Verify copy succeeded before deleting source
-                        if dest.exists() and dest.stat().st_size > 0:
-                            # Delete the original from final_db (move behavior)
-                            try:
-                                source.unlink()
-                                print(f"Moved unchecked file {filename} from final_db to removed_db (deleted from final_db)")
-                            except Exception as e:
-                                print(f"Warning: Failed to delete {filename} from final_db: {e}")
-                        removed_count += 1
-                        moved_to_removed += 1
-                        unchecked_from_saved += 1
-                        newly_added_to_removed += 1
-                        removed_files.append(filename)
-                    else:
-                        # Neither exists (shouldn't happen, but handle gracefully)
-                        removed_count += 1
-                        removed_files.append(filename)
+                    if source.exists():
+                        try:
+                            source.unlink()
+                            print(f"Removed unchecked file {filename} from final_db (will be added to removed-track)")
+                        except Exception as e:
+                            print(f"Warning: Failed to delete {filename} from final_db: {e}")
+                    removed_count += 1
+                    moved_to_removed += 1
+                    unchecked_from_saved += 1
+                    newly_added_to_removed += 1
+                    removed_files.append(filename)
                 elif current_status == "removed":
                     # File already removed - no action needed
                     removed_count += 1
                     unchecked_from_saved += 1
                     removed_files.append(filename)
                 elif current_status == "unknown":
-                    # File is in classified_db only - COPY to removed_db (don't move)
-                    # Create removed_db folder if needed and copy file there
-                    source = file_manager.classified_path / request.subject / filename
-                    dest_dir = file_manager.removed_path / request.subject
-                    dest_dir.mkdir(parents=True, exist_ok=True)
-                    dest = dest_dir / filename
-                    
-                    # Only copy if dest doesn't exist (prevent unnecessary overwrites)
-                    if source.exists() and not dest.exists():
-                        import shutil
-                        # Copy file from classified_db to removed_db (keep original in classified_db)
-                        shutil.copy2(str(source), str(dest))
-                        removed_count += 1
-                        newly_added_to_removed += 1
-                        removed_files.append(filename)
-                        print(f"Copied unchecked file {filename} from classified_db to removed_db")
-                    elif dest.exists():
-                        # Already copied, just count it
-                        removed_count += 1
-                        removed_files.append(filename)
-                    else:
-                        # Source doesn't exist (shouldn't happen, but handle gracefully)
-                        removed_count += 1
-                        removed_files.append(filename)
+                    # File is in classified_db only - just mark as removed (no file copy needed)
+                    # File stays in classified_db, just added to removed-track JSON
+                    removed_count += 1
+                    newly_added_to_removed += 1
+                    removed_files.append(filename)
+                    print(f"Marked unchecked file {filename} as removed (added to removed-track, file stays in classified_db)")
         
         # Mark group as completed in session (metadata only)
         session = session_manager.load_session(request.subject)
@@ -679,6 +639,31 @@ async def submit_group(request: SubmitGroupRequest):
             if request.subject in sessions:
                 sessions[request.subject].update(session_metadata)
         
+        # Update removed-track JSON with newly removed files (if any)
+        if removed_files:
+            print(f"[MAIN] Updating removed-track with {len(removed_files)} removed files...")
+            file_manager.save_removed_tracking(request.subject, removed_files)
+        
+        # Remove files from removed-track if they were checked (un-removed)
+        if kept_files:
+            # Load current removed-track
+            current_removed = set(file_manager.load_removed_tracking(request.subject))
+            # Remove kept files from removed-track (they're no longer removed)
+            files_to_remove_from_tracking = [f for f in kept_files if f in current_removed]
+            if files_to_remove_from_tracking:
+                updated_removed = current_removed - set(files_to_remove_from_tracking)
+                print(f"[MAIN] Removing {len(files_to_remove_from_tracking)} files from removed-track (they were checked/kept)...")
+                # Save updated list (convert to list and sort)
+                tracking_path = file_manager.project_root / "removed-track"
+                tracking_file = tracking_path / f"{request.subject}.json"
+                tracking_path.mkdir(parents=True, exist_ok=True)
+                try:
+                    with open(tracking_file, 'w', encoding='utf-8') as f:
+                        json.dump(sorted(list(updated_removed)), f, indent=2)
+                    print(f"[MAIN] Updated removed-track: removed {len(files_to_remove_from_tracking)} files")
+                except Exception as e:
+                    print(f"[MAIN] Warning: Failed to update removed-track: {e}")
+        
         return {
             "success": True,
             "saved_count": saved_count,
@@ -686,7 +671,7 @@ async def submit_group(request: SubmitGroupRequest):
             "moved_to_removed": moved_to_removed,  # Files moved FROM saved TO removed in this submission
             "unchecked_from_saved": unchecked_from_saved,  # All files unchecked that were/are in saved folder
             "newly_added_to_saved": newly_added_to_saved,  # Files newly copied to saved_db
-            "newly_added_to_removed": newly_added_to_removed  # Files newly copied to removed_db
+            "newly_added_to_removed": newly_added_to_removed  # Files added to removed-track (no file copy)
         }
     except HTTPException:
         raise

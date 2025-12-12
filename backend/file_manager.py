@@ -97,28 +97,26 @@ class FileManager:
         return len(copied_files), errors
     
     def move_file(self, subject: str, filename: str, to_removed: bool) -> bool:
-        """Move file between final_db and removed_db"""
+        """Move file between final_db and removed-track (removed_db folder not used)"""
         try:
             if to_removed:
-                # Move from final to removed
+                # Remove from final_db (removed-track will be updated by caller)
                 source = self.final_path / subject / filename
-                dest_dir = self.removed_path / subject
-                dest_dir.mkdir(parents=True, exist_ok=True)
-                dest = dest_dir / filename
-                
                 if source.exists():
-                    shutil.move(str(source), str(dest))
+                    source.unlink()
                     return True
             else:
-                # Move from removed to final
-                source = self.removed_path / subject / filename
+                # Copy from classified_db to final_db (removed-track will be updated by caller)
+                source = self.classified_path / subject / filename
                 dest_dir = self.final_path / subject
                 dest_dir.mkdir(parents=True, exist_ok=True)
                 dest = dest_dir / filename
                 
-                if source.exists():
-                    shutil.move(str(source), str(dest))
+                if source.exists() and not dest.exists():
+                    shutil.copy2(str(source), str(dest))
                     return True
+                elif dest.exists():
+                    return True  # Already exists
             
             return False
         except Exception as e:
@@ -142,11 +140,13 @@ class FileManager:
     def get_file_status(self, subject: str, filename: str) -> str:
         """Get current status of file (saved/removed/unknown)"""
         final_file = self.final_path / subject / filename
-        removed_file = self.removed_path / subject / filename
         classified_file = self.classified_path / subject / filename
         
-        # Priority: removed > saved > unknown (removed takes priority if file exists in both)
-        if removed_file.exists():
+        # Check if file is in removed-track JSON (instead of removed_db folder)
+        removed_files = set(self.load_removed_tracking(subject))
+        
+        # Priority: removed > saved > unknown (removed takes priority)
+        if filename in removed_files:
             return "removed"
         elif final_file.exists():
             return "saved"
@@ -158,10 +158,10 @@ class FileManager:
     def get_statistics(self, subject: str) -> Dict:
         """Get statistics for subject"""
         final_dir = self.final_path / subject
-        removed_dir = self.removed_path / subject
         
         final_count = len(list(final_dir.glob("*.json"))) if final_dir.exists() else 0
-        removed_count = len(list(removed_dir.glob("*.json"))) if removed_dir.exists() else 0
+        # Count removed files from removed-track JSON (not from removed_db folder)
+        removed_count = len(self.load_removed_tracking(subject))
         
         return {
             "final_count": final_count,
@@ -170,12 +170,10 @@ class FileManager:
         }
     
     def clear_subject_files(self, subject: str) -> Tuple[int, int]:
-        """Clear all files from final-db and removed_duplicates_db for a subject"""
+        """Clear all files from final-db for a subject (removed_duplicates_db not used)"""
         final_dir = self.final_path / subject
-        removed_dir = self.removed_path / subject
         
         final_deleted = 0
-        removed_deleted = 0
         
         # Delete all files from final-db
         if final_dir.exists():
@@ -186,36 +184,21 @@ class FileManager:
                 except Exception:
                     pass
         
-        # Delete all files from removed_duplicates_db
-        if removed_dir.exists():
-            for json_file in removed_dir.glob("*.json"):
-                try:
-                    json_file.unlink()
-                    removed_deleted += 1
-                except Exception:
-                    pass
-        
-        # Remove directories if they're empty (optional cleanup)
+        # Remove directory if it's empty (optional cleanup)
         try:
             if final_dir.exists() and not any(final_dir.iterdir()):
                 final_dir.rmdir()
         except Exception:
             pass
         
-        try:
-            if removed_dir.exists() and not any(removed_dir.iterdir()):
-                removed_dir.rmdir()
-        except Exception:
-            pass
-        
-        return final_deleted, removed_deleted
+        # removed_duplicates_db is not used, so removed_deleted is always 0
+        return final_deleted, 0
     
     def load_mcq_data(self, subject: str, filename: str) -> Dict:
         """Load MCQ data from file"""
-        # Try final_db first, then removed_db, then classified_db
+        # Try final_db first, then classified_db (removed_db folder not used)
         paths = [
             self.final_path / subject / filename,
-            self.removed_path / subject / filename,
             self.classified_path / subject / filename
         ]
         
@@ -229,9 +212,8 @@ class FileManager:
         
         return {}
     
-    def save_removed_tracking(self, subject: str) -> List[str]:
+    def save_removed_tracking(self, subject: str, new_removed_files: List[str] = None) -> List[str]:
         """Save list of removed files to tracking JSON file (merges with existing tracking)"""
-        removed_dir = self.removed_path / subject
         tracking_path = self.project_root / "removed-track"
         tracking_file = tracking_path / f"{subject}.json"
         
@@ -242,15 +224,15 @@ class FileManager:
         existing_removed = set(self.load_removed_tracking(subject))
         print(f"[FileManager] Found {len(existing_removed)} files in existing tracking")
         
-        # Get current removed files from removed_duplicates_db
-        current_removed = set()
-        if removed_dir.exists():
-            current_removed = {f.name for f in removed_dir.glob("*.json")}
-        print(f"[FileManager] Found {len(current_removed)} files currently in removed_duplicates_db")
-        
-        # Merge: combine existing + current (union) to preserve all removed files
-        all_removed = existing_removed.union(current_removed)
-        print(f"[FileManager] Merged total: {len(all_removed)} removed files (existing: {len(existing_removed)}, current: {len(current_removed)}, new: {len(current_removed - existing_removed)})")
+        # Merge with new removed files if provided
+        if new_removed_files:
+            new_removed_set = set(new_removed_files)
+            all_removed = existing_removed.union(new_removed_set)
+            print(f"[FileManager] Merged total: {len(all_removed)} removed files (existing: {len(existing_removed)}, new: {len(new_removed_set)}, newly added: {len(new_removed_set - existing_removed)})")
+        else:
+            # No new files, just return existing
+            all_removed = existing_removed
+            print(f"[FileManager] No new removed files, keeping existing {len(all_removed)} files")
         
         # Convert to sorted list for consistent ordering and JSON serialization
         removed_files = sorted(list(all_removed))
