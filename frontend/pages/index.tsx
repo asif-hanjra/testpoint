@@ -19,7 +19,7 @@ export default function Home() {
   const [selectedSubject, setSelectedSubject] = useState<string | null>(null);
   const [confirmationAction, setConfirmationAction] = useState<'resume' | 'start_again' | 'resume_sbert' | null>(null);
   const [processing, setProcessing] = useState(false);
-  const [preparationStats, setPreparationStats] = useState<{total_files: number, removed_files: number, files_to_process: number} | null>(null);
+  const [preparationStats, setPreparationStats] = useState<{total_files: number, finalized_files?: number, removed_files: number, files_to_process: number} | null>(null);
   const [sbertResult, setSbertResult] = useState<{
     non_duplicates: number;
     total_files: number;
@@ -83,9 +83,18 @@ export default function Home() {
     }
   };
 
-  const handleStartAgain = () => {
+  const handleStartAgain = async () => {
     if (selectedSubject) {
-      setConfirmationAction('start_again');
+      try {
+        // Fetch preparation stats before showing confirmation
+        const stats = await api.getPreparationStats(selectedSubject);
+        setPreparationStats(stats);
+        setConfirmationAction('start_again');
+      } catch (error) {
+        console.error('Failed to get preparation stats:', error);
+        // Still show confirmation even if stats fail
+        setConfirmationAction('start_again');
+      }
     }
   };
 
@@ -174,10 +183,7 @@ export default function Home() {
       case 'start_again':
         return 'This will clear all progress and start fresh. Continue?';
       case 'resume_sbert':
-        if (preparationStats) {
-          return `This will run SBERT on non-removed files only.\n\nTotal files: ${preparationStats.total_files}\nRemoved files: ${preparationStats.removed_files}\nFiles SBERT will process: ${preparationStats.files_to_process}\n\nContinue?`;
-        }
-        return 'This will run SBERT again on non-removed files only. Continue?';
+        return 'This will run SBERT on non-removed and non-finalized files only. Continue?';
       default:
         return '';
     }
@@ -327,14 +333,23 @@ export default function Home() {
                   {selectedSubject.replace(/-/g, ' ')}
                 </h2>
                 <div className="text-gray-600 mb-6">
-                  {confirmationAction === 'resume_sbert' && preparationStats ? (
+                  {(confirmationAction === 'start_again' || confirmationAction === 'resume_sbert') && preparationStats ? (
                     <div className="space-y-2">
-                      <p>This will run SBERT on non-removed files only.</p>
-                      <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 space-y-1">
-                        <p className="font-semibold">File Statistics:</p>
-                        <p>Total files: <span className="font-bold">{preparationStats.total_files}</span></p>
-                        <p>Removed files: <span className="font-bold text-red-600">{preparationStats.removed_files}</span></p>
-                        <p>Files SBERT will process: <span className="font-bold text-green-600">{preparationStats.files_to_process}</span></p>
+                      <p>
+                        {confirmationAction === 'start_again' 
+                          ? 'This will clear all progress and run SBERT on non-finalized and non-removed files.'
+                          : 'This will run SBERT on non-removed and non-finalized files only.'}
+                      </p>
+                      <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 space-y-2">
+                        <p className="font-semibold text-gray-800">File Statistics:</p>
+                        <div className="space-y-1 text-sm">
+                          <p>Total MCQs: <span className="font-bold text-gray-900">{preparationStats.total_files.toLocaleString()}</span></p>
+                          <p>Finalized MCQs: <span className="font-bold text-blue-600">{preparationStats.finalized_files?.toLocaleString() || 0}</span></p>
+                          <p>Removed MCQs: <span className="font-bold text-red-600">{preparationStats.removed_files.toLocaleString()}</span></p>
+                          <div className="pt-2 border-t border-blue-200">
+                            <p className="font-semibold">Sending to SBERT: <span className="font-bold text-green-600 text-base">{preparationStats.files_to_process.toLocaleString()}</span></p>
+                          </div>
+                        </div>
                       </div>
                       <p className="mt-2">Continue?</p>
                     </div>

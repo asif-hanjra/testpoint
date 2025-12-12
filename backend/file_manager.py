@@ -282,29 +282,91 @@ class FileManager:
             print(f"[FileManager] Error loading tracking file: {e}")
             return []
     
+    def load_saved_tracking(self, subject: str) -> List[str]:
+        """Load list of saved (non-duplicate) files from tracking JSON file"""
+        tracking_file = self.project_root / "saved-track" / f"{subject}.json"
+        
+        if not tracking_file.exists():
+            return []
+        
+        try:
+            with open(tracking_file, 'r', encoding='utf-8') as f:
+                saved_files = json.load(f)
+                if isinstance(saved_files, list):
+                    return saved_files
+                return []
+        except Exception as e:
+            print(f"[FileManager] Error loading saved tracking file: {e}")
+            return []
+    
+    def save_saved_tracking(self, subject: str, new_non_duplicates: List[str]) -> List[str]:
+        """Save list of saved (non-duplicate) files to tracking JSON file (merges with existing, sorts by number)"""
+        tracking_path = self.project_root / "saved-track"
+        tracking_file = tracking_path / f"{subject}.json"
+        
+        # Create tracking directory if it doesn't exist
+        tracking_path.mkdir(parents=True, exist_ok=True)
+        
+        # Load existing tracking file first (preserve history)
+        existing_saved = set(self.load_saved_tracking(subject))
+        print(f"[FileManager] Found {len(existing_saved)} files in existing saved tracking")
+        
+        # Merge: combine existing + new (union) to preserve all saved files
+        new_saved_set = set(new_non_duplicates)
+        all_saved = existing_saved.union(new_saved_set)
+        print(f"[FileManager] Merged total: {len(all_saved)} saved files (existing: {len(existing_saved)}, new: {len(new_saved_set)}, newly added: {len(new_saved_set - existing_saved)})")
+        
+        # Sort by filename number (extract number from filename for proper numeric sorting)
+        def extract_number(filename: str) -> int:
+            """Extract number from filename like '1.json', '2.json', '10.json'"""
+            try:
+                # Remove .json extension and extract number
+                name_without_ext = filename.replace('.json', '')
+                # Extract all digits
+                number_str = ''.join(filter(str.isdigit, name_without_ext))
+                return int(number_str) if number_str else 999999
+            except:
+                return 999999
+        
+        # Convert to sorted list (sorted by numeric value, not string)
+        saved_files = sorted(list(all_saved), key=extract_number)
+        
+        # Save merged and sorted list to JSON file
+        try:
+            with open(tracking_file, 'w', encoding='utf-8') as f:
+                json.dump(saved_files, f, indent=2)
+            print(f"[FileManager] Saved {len(saved_files)} saved files to tracking: {tracking_file}")
+        except Exception as e:
+            print(f"[FileManager] Error saving saved tracking file: {e}")
+        
+        return saved_files
+    
     def get_preparation_stats(self, subject: str) -> Dict:
         """Get statistics about files before preparation (for display)"""
-        working_path = self.classified_path / subject
+        original_path = self.project_root / "classified_all_db-original" / subject
         
-        if not working_path.exists():
-            return {
-                "total_files": 0,
-                "removed_files": 0,
-                "files_to_process": 0
-            }
-        
-        # Count total files in current working folder
-        total_files = len(list(working_path.glob("*.json")))
+        # Count total files in master copy (original folder)
+        if original_path.exists():
+            total_files = len(list(original_path.glob("*.json")))
+        else:
+            total_files = 0
         
         # Load removed files list
         removed_files = self.load_removed_tracking(subject)
         removed_count = len(removed_files)
         
-        # Files to process = total - removed
-        files_to_process = total_files - removed_count
+        # Load saved (finalized) files list
+        saved_files = self.load_saved_tracking(subject)
+        finalized_count = len(saved_files)
+        
+        # Files to process = total - finalized - removed
+        files_to_process = total_files - finalized_count - removed_count
+        if files_to_process < 0:
+            files_to_process = 0
         
         return {
             "total_files": total_files,
+            "finalized_files": finalized_count,
             "removed_files": removed_count,
             "files_to_process": files_to_process
         }
@@ -355,20 +417,26 @@ class FileManager:
                 except Exception as e:
                     print(f"[FileManager] Warning: Failed to remove {json_file.name}: {e}")
         
-        # Step 3: Load removed files list
+        # Step 3: Load removed files list and saved files list
         removed_files = set(self.load_removed_tracking(subject))
-        print(f"[FileManager] Step 3: Found {len(removed_files)} removed files to exclude from original folder")
+        saved_files = set(self.load_saved_tracking(subject))
+        print(f"[FileManager] Step 3: Found {len(removed_files)} removed files and {len(saved_files)} saved files to exclude from original folder")
         
-        # Step 4: Copy only non-removed files from original folder to working folder
-        print(f"[FileManager] Step 4: Copying non-removed files from original folder: {original_path}")
+        # Step 4: Copy only non-removed and non-saved files from original folder to working folder
+        print(f"[FileManager] Step 4: Copying non-removed and non-saved files from original folder: {original_path}")
         working_path.mkdir(parents=True, exist_ok=True)
         
         copied_count = 0
-        skipped_count = 0
+        skipped_removed_count = 0
+        skipped_saved_count = 0
         
         for json_file in original_path.glob("*.json"):
             if json_file.name in removed_files:
-                skipped_count += 1
+                skipped_removed_count += 1
+                continue
+            
+            if json_file.name in saved_files:
+                skipped_saved_count += 1
                 continue
             
             try:
@@ -377,8 +445,9 @@ class FileManager:
                 copied_count += 1
             except Exception as e:
                 print(f"[FileManager] Error copying {json_file.name}: {e}")
-                skipped_count += 1
+                skipped_removed_count += 1
         
-        print(f"[FileManager] Prepared subject for SBERT: {copied_count} copied from original, {skipped_count} skipped (removed)")
+        skipped_count = skipped_removed_count + skipped_saved_count
+        print(f"[FileManager] Prepared subject for SBERT: {copied_count} copied from original, {skipped_removed_count} skipped (removed), {skipped_saved_count} skipped (saved)")
         return copied_count, skipped_count
 

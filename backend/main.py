@@ -164,11 +164,26 @@ async def get_subjects():
 async def process_subject(subject: str):
     """Process subject with SBERT and auto-save non-duplicates"""
     try:
+        # Load saved-track files to exclude from processing
+        saved_files = set(file_manager.load_saved_tracking(subject))
+        if saved_files:
+            print(f"[MAIN] Excluding {len(saved_files)} saved (finalized) files from SBERT processing")
+        
         # Load MCQ files
-        mcqs = file_manager.load_mcq_files(subject)
+        all_mcqs = file_manager.load_mcq_files(subject)
+        
+        if not all_mcqs:
+            raise HTTPException(status_code=404, detail=f"No files found for subject: {subject}")
+        
+        # Exclude saved-track files from processing
+        mcqs = {filename: data for filename, data in all_mcqs.items() if filename not in saved_files}
         
         if not mcqs:
-            raise HTTPException(status_code=404, detail=f"No files found for subject: {subject}")
+            raise HTTPException(status_code=404, detail=f"No files to process after excluding saved-track files for subject: {subject}")
+        
+        excluded_count = len(all_mcqs) - len(mcqs)
+        if excluded_count > 0:
+            print(f"[MAIN] Excluded {excluded_count} files from saved-track, processing {len(mcqs):,} files")
         
         total_files = len(mcqs)
         
@@ -334,6 +349,12 @@ async def process_subject(subject: str):
         print(f"   Actually saved: {actual_file_count}")
         print(f"   Duplicates incorrectly saved: {len(incorrectly_saved)}")
         print(f"   Non-duplicates missing: {len(missing_non_duplicates)}")
+        
+        # Save non-duplicates to saved-track (merge with existing, sort by number)
+        if non_duplicate_files:
+            print(f"[MAIN] Saving {len(non_duplicate_files)} non-duplicates to saved-track...")
+            saved_tracking_list = file_manager.save_saved_tracking(subject, non_duplicate_files)
+            print(f"[MAIN] Saved-track now contains {len(saved_tracking_list)} total non-duplicate files")
         
         # Return result
         return {
