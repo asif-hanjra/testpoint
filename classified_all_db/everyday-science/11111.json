@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which gas is commonly used in electric bulbs?",
+      "options": {
+        "a": "Argon",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Hydrogen"
+      },
+      "one_liner": "Argon gas is commonly used in electric bulbs to prevent the filament from oxidizing, making **argon** the correct answer.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

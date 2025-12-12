@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are the main organs of the human nervous system?",
+      "options": {
+        "a": "Brain, spinal cord, and nerves",
+        "b": "Heart, lungs, and liver",
+        "c": "Kidneys, stomach, and intestines",
+        "d": "None of these"
+      },
+      "one_liner": "The main organs of the human nervous system are the **brain, spinal cord, and nerves**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the disease caused by the parasitic roundworm Ascaris called?",
+      "options": {
+        "a": "Ascariasis",
+        "b": "Ringworm",
+        "c": "Malaria",
+        "d": "Threadworm infection"
+      },
+      "one_liner": "The disease caused by the parasitic roundworm Ascaris is known as **Ascariasis**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

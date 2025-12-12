@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following bones are found in the human leg?",
+      "options": {
+        "a": "Femur, tibia, and fibula",
+        "b": "Humerus, radius, and ulna",
+        "c": "Scapula, clavicle, and sternum",
+        "d": "None of these"
+      },
+      "one_liner": "The human leg contains the bones known as the **femur, tibia, and fibula**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

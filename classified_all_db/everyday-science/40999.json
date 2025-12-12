@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of disease is Alzheimer?",
+      "options": {
+        "a": "Cardiovascular disease",
+        "b": "Neurological disease",
+        "c": "Respiratory disease",
+        "d": "Digestive disease"
+      },
+      "one_liner": "Alzheimer is classified as a **neurological disease** affecting the brain and nervous system.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

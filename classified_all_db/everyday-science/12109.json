@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented the Bunsen burner?",
+      "options": {
+        "a": "Robert Bunsen",
+        "b": "Isaac Newton",
+        "c": "Marie Curie",
+        "d": "None of these"
+      },
+      "one_liner": "The Bunsen burner was invented by **Robert Bunsen**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

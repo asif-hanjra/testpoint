@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organ in the human body demands the most glucose?",
+      "options": {
+        "a": "Liver",
+        "b": "Brain",
+        "c": "Heart",
+        "d": "Kidneys"
+      },
+      "one_liner": "Among all organs, the human brain requires the highest amount of **glucose** for its energy needs.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which instrument is used for measuring humidity of the air?",
+      "options": {
+        "a": "Hygrometer",
+        "b": "Hydrometer",
+        "c": "Barometer",
+        "d": "Anemometer"
+      },
+      "one_liner": "A hygrometer is specifically designed to measure the **humidity of the air**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

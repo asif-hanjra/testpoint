@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main use of analgesics or painkillers?",
+      "options": {
+        "a": "To treat infections",
+        "b": "To relieve pain",
+        "c": "To prevent diseases",
+        "d": "To induce sleep"
+      },
+      "one_liner": "Analgesics or painkillers are mainly used to achieve **relief from pain**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

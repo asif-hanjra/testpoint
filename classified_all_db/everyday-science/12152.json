@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What disease is responsible for causing inflammation of the liver?",
+      "options": {
+        "a": "Tuberculosis",
+        "b": "Hepatitis",
+        "c": "Diabetes",
+        "d": "None of these"
+      },
+      "one_liner": "The inflammation of the liver is caused by **Hepatitis**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

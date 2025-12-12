@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered the circulation of blood in the human body?",
+      "options": {
+        "a": "William Harvey",
+        "b": "Isaac Newton",
+        "c": "Louis Pasteur",
+        "d": "Alexander Fleming"
+      },
+      "one_liner": "The discovery that blood circulates throughout the human body was made by **William Harvey**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

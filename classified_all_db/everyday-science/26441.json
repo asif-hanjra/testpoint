@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Threadworms are most commonly seen in which group?",
+      "options": {
+        "a": "Adults",
+        "b": "Children",
+        "c": "Elderly",
+        "d": "Infants"
+      },
+      "one_liner": "Threadworms are most commonly seen in **children**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

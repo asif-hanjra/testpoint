@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who referred to microbes as 'animalcule'?",
+      "options": {
+        "a": "Pasteur",
+        "b": "Leeuwenhoek",
+        "c": "Koch",
+        "d": "None of these"
+      },
+      "one_liner": "The scientist who described microbes as 'animalcule' was **Leeuwenhoek**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

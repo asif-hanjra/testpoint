@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Besides gases, what else is present in the atmosphere?",
+      "options": {
+        "a": "Clouds",
+        "b": "Rocks",
+        "c": "Soil",
+        "d": "None of these"
+      },
+      "one_liner": "In addition to gases, **clouds** are also present in Earth's atmosphere.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

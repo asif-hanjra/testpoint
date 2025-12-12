@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where do the calories in tea or coffee come from?",
+      "options": {
+        "a": "From tea or coffee itself",
+        "b": "From milk and sugar added",
+        "c": "From water",
+        "d": "None of these"
+      },
+      "one_liner": "Tea or coffee themselves have **no calories**, and calories only come from added milk or sugar.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

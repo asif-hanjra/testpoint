@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of disease is pellagra?",
+      "options": {
+        "a": "Skin disease",
+        "b": "Heart disease",
+        "c": "Lung disease",
+        "d": "Bone disease"
+      },
+      "one_liner": "Pellagra is classified as a skin disease, with its primary symptoms affecting the skin.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

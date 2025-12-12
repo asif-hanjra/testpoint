@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If the RC value (Resistance × Capacitance) is small in a circuit, what happens to the charging of a capacitor?",
+      "options": {
+        "a": "It charges slowly",
+        "b": "It charges faster",
+        "c": "It doesn't charge",
+        "d": "It discharges immediately"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

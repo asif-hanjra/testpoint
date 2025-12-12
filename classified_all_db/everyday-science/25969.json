@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the definition of energy in physics?",
+      "options": {
+        "a": "Capacity for doing work",
+        "b": "Ability to move",
+        "c": "Ability to heat",
+        "d": "None of these"
+      },
+      "one_liner": "In physics, energy is defined as the **capacity for doing work**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

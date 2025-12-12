@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why do water-soluble vitamins need to be replaced more often?",
+      "options": {
+        "a": "They are stored in fat",
+        "b": "Body cannot store them",
+        "c": "They are not needed",
+        "d": "None of these"
+      },
+      "one_liner": "Water-soluble vitamins need to be replaced more often because the body **cannot store them** and they are quickly excreted.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

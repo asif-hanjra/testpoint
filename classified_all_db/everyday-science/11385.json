@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the function of insulin in blood glucose regulation?",
+      "options": {
+        "a": "Increases glucose",
+        "b": "Reduces glucose",
+        "c": "No effect on glucose",
+        "d": "None of these"
+      },
+      "one_liner": "**Insulin** lowers blood glucose levels to maintain them within a reasonable range.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

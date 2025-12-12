@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of process is photosynthesis?",
+      "options": {
+        "a": "Exothermic",
+        "b": "Endothermic",
+        "c": "Isothermal",
+        "d": "None of these"
+      },
+      "one_liner": "Photosynthesis is classified as an **endothermic process** because it absorbs energy from its surroundings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which scientific theory is Dr Abdus Salam known for contributing to?",
+      "options": {
+        "a": "Quantum Mechanics",
+        "b": "Electroweak Unification Theory",
+        "c": "Relativity",
+        "d": "String Theory"
+      },
+      "one_liner": "Dr Abdus Salam is renowned for his contribution to the **electroweak unification theory**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

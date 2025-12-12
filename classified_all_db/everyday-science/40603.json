@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the approximate percentage of carbon dioxide in Earth's atmosphere?",
+      "options": {
+        "a": "0.03%",
+        "b": "0.9%",
+        "c": "21%",
+        "d": "78%"
+      },
+      "one_liner": "Carbon dioxide makes up roughly **0.03%** of the Earth's atmosphere.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

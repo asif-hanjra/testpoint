@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Dr Abdus Salam born?",
+      "options": {
+        "a": "District Sahiwal",
+        "b": "District Multan",
+        "c": "District Lahore",
+        "d": "District Faisalabad"
+      },
+      "one_liner": "Dr Abdus Salam was born in **District Sahiwal** in Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

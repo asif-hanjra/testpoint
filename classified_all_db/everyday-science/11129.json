@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is an element defined as in terms of atomic structure?",
+      "options": {
+        "a": "A substance made up of atoms with the same number of protons",
+        "b": "A substance made up of molecules only",
+        "c": "A substance made up of different types of atoms",
+        "d": "None of these"
+      },
+      "one_liner": "An element is a substance made up of atoms that all have the **same number of protons**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary role of thyroid hormones in the human body?",
+      "options": {
+        "a": "Development of the body",
+        "b": "Regulation of sleep",
+        "c": "Control of blood glucose",
+        "d": "Production of sweat"
+      },
+      "one_liner": "Thyroid hormones play a crucial role in the development of the body, influencing growth and metabolic processes.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

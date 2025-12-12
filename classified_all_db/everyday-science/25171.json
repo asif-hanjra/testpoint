@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is Newton's First Law of Motion also known as?",
+      "options": {
+        "a": "Law of acceleration",
+        "b": "Law of inertia",
+        "c": "Law of gravity",
+        "d": "Law of reaction"
+      },
+      "one_liner": "Newton's First Law of Motion is also known as the **law of inertia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

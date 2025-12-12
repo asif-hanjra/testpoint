@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which system in the human body is responsible for transmitting signals between different parts of the body?",
+      "options": {
+        "a": "Respiratory system",
+        "b": "Digestive system",
+        "c": "Nervous system",
+        "d": "Circulatory system"
+      },
+      "one_liner": "The system responsible for transmitting signals throughout the human body is the **nervous system**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is one way to gain heat from biomass?",
+      "options": {
+        "a": "By freezing it",
+        "b": "By burning it",
+        "c": "By dissolving it in water",
+        "d": "None of these"
+      },
+      "one_liner": "Heat can be **gained by burning biomass**, making it a useful energy source.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

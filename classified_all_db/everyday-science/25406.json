@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the frequency range above which sound waves are considered ultrasound?",
+      "options": {
+        "a": "2,000 hertz",
+        "b": "20,000 hertz",
+        "c": "200 hertz",
+        "d": "200,000 hertz"
+      },
+      "one_liner": "Sound waves with frequencies higher than **20,000 hertz (20 kilohertz)** are classified as ultrasound, which is beyond the upper audible limit of human hearing.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main advantage of using red light in traffic signals?",
+      "options": {
+        "a": "It is less likely to fade",
+        "b": "It is more energy efficient",
+        "c": "It can be easily noticed from a long distance",
+        "d": "All of these"
+      },
+      "one_liner": "The main advantage of using red light in traffic signals is that it can be **easily noticed from a long distance** due to its long wavelength.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which substance is commonly used as an anti-freeze in automobile engines?",
+      "options": {
+        "a": "Ethanol",
+        "b": "Methane",
+        "c": "Acetone",
+        "d": "None of these"
+      },
+      "one_liner": "Ethanol is commonly used as an anti-freeze in automobile engines due to its ability to lower the freezing point of water.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How should a patient with hysteria be treated regarding communication?",
+      "options": {
+        "a": "Should not be allowed to speak",
+        "b": "Should be allowed to speak as much as possible",
+        "c": "Should be isolated",
+        "d": "None of these"
+      },
+      "one_liner": "A patient with hysteria should be allowed to speak as much as they wish, as part of their management.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

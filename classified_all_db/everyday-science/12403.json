@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What organ does tuberculosis primarily affect?",
+      "options": {
+        "a": "Heart",
+        "b": "Lungs",
+        "c": "Liver",
+        "d": "Kidneys"
+      },
+      "one_liner": "Tuberculosis is an infectious disease that primarily affects the **lungs**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

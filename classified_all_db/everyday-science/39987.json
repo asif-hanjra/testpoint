@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of material is primarily responsible for blood clotting in the human body?",
+      "options": {
+        "a": "Carbohydrate",
+        "b": "Lipid",
+        "c": "Protein",
+        "d": "Mineral"
+      },
+      "one_liner": "The substance that plays a key role in blood clotting is a **protein**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

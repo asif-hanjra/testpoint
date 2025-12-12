@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which glands are responsible for the secretion of tears in the human body?",
+      "options": {
+        "a": "Lachrymal glands",
+        "b": "Pituitary glands",
+        "c": "Salivary glands",
+        "d": "Adrenal glands"
+      },
+      "one_liner": "The glands that secrete tears in the human body are the **lachrymal glands**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

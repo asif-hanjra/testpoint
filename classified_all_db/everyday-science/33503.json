@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Arrange in Descending: Mammal, Fish, Insects, Reptile",
+      "options": {
+        "a": "Mammal<Insect<Fish<Reptile",
+        "b": "Insect<Fish<Reptile<Mammal",
+        "c": "Insect<Reptile<Fish<Mammal",
+        "d": "Insect > Fish > Reptile > Mammal"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

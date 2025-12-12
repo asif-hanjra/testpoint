@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How can humans contract the Congo Virus?",
+      "options": {
+        "a": "By eating cooked meat",
+        "b": "By being bitten by an infected tick or contact with infected animal blood or meat",
+        "c": "By drinking water",
+        "d": "None of these"
+      },
+      "one_liner": "Humans can contract the Congo Virus by being bitten by an infected tick or coming into contact with the blood or fresh meat of an infected animal.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

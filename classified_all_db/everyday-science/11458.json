@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is regarded as the founder of the modern science of genetics?",
+      "options": {
+        "a": "Alexander Fleming",
+        "b": "Gregor Mendel",
+        "c": "Marconi",
+        "d": "Alexander Graham Bell"
+      },
+      "one_liner": "The founder of the modern science of genetics is **Gregor Mendel**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which vessel is the main artery that leaves the left ventricle of the heart?",
+      "options": {
+        "a": "Pulmonary artery",
+        "b": "Aorta",
+        "c": "Vena cava",
+        "d": "Carotid artery"
+      },
+      "one_liner": "The main artery that carries blood away from the left ventricle of the heart is the **Aorta**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

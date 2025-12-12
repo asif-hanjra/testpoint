@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main symptom of cholera?",
+      "options": {
+        "a": "Cough",
+        "b": "Loose motion (diarrhea)",
+        "c": "Rash",
+        "d": "Fever"
+      },
+      "one_liner": "The main symptom of cholera is **loose motion (diarrhea)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Vienna Convention for the Protection of the Ozone Layer signed?",
+      "options": {
+        "a": "1983",
+        "b": "1985",
+        "c": "1987",
+        "d": "1992"
+      },
+      "one_liner": "The Vienna Convention for the Protection of the Ozone Layer was signed in **1985** to address the issue of ozone depletion.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

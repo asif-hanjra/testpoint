@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How far does the stratosphere extend above the Earth's surface?",
+      "options": {
+        "a": "10 km to 18 km",
+        "b": "18 km to 50 km",
+        "c": "50 km to 85 km",
+        "d": "85 km to 120 km"
+      },
+      "one_liner": "The stratosphere extends from about **18 km to 50 km** above the Earth's surface, covering a span of 32 km.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

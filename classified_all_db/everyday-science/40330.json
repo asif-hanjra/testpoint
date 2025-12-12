@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are protons and neutrons located in an atom?",
+      "options": {
+        "a": "In the nucleus",
+        "b": "In the electron cloud",
+        "c": "In the outer shell",
+        "d": "None of these"
+      },
+      "one_liner": "Protons and neutrons are found together at the **centre of the atom, called the nucleus**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

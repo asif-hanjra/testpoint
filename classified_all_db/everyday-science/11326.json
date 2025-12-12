@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of chemicals are responsible for the pleasant smell of perfumes?",
+      "options": {
+        "a": "Alcohols",
+        "b": "Esters",
+        "c": "Aldehydes",
+        "d": "Ketones"
+      },
+      "one_liner": "The pleasant smell of perfumes is due to the presence of chemicals called **Esters** used in their synthesis.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

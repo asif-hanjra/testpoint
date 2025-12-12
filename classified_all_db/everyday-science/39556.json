@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the total capacity of human lungs?",
+      "options": {
+        "a": "4 liters",
+        "b": "5 liters",
+        "c": "6 liters",
+        "d": "8 liters"
+      },
+      "one_liner": "The total capacity of human lungs is approximately **6 liters**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

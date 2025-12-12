@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens to Vitamin C when it is heated?",
+      "options": {
+        "a": "It gets destroyed",
+        "b": "It becomes more potent",
+        "c": "It remains unchanged",
+        "d": "None of these"
+      },
+      "one_liner": "Vitamin C is sensitive to heat and gets destroyed upon heating, making it important to avoid excessive cooking of foods rich in **Vitamin C**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

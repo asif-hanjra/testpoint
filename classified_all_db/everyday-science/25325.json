@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which diagnostic method allows doctors to see inside the human body without surgery?",
+      "options": {
+        "a": "EEG",
+        "b": "CT scan",
+        "c": "ECG",
+        "d": "None of these"
+      },
+      "one_liner": "A **CT scan** enables doctors to view the inside of the human body non-invasively, aiding in the diagnosis of various conditions.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

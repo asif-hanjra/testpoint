@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are enzymes primarily composed of?",
+      "options": {
+        "a": "Carbohydrates",
+        "b": "Proteins",
+        "c": "Lipids",
+        "d": "Nucleic acids"
+      },
+      "one_liner": "Enzymes are biological catalysts that are primarily made up of **proteins**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

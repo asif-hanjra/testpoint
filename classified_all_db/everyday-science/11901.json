@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of the esophagus in the digestive system?",
+      "options": {
+        "a": "Absorbs nutrients",
+        "b": "Breaks down food with gastric juices",
+        "c": "Moves food from throat to stomach",
+        "d": "Stores bile"
+      },
+      "one_liner": "The esophagus acts as a stretchy pipe about 10 inches long that moves food from the throat to the stomach, playing a key role in transporting food within the digestive system.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

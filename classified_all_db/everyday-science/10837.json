@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a metalloid?",
+      "options": {
+        "a": "Boron",
+        "b": "Oxygen",
+        "c": "Sodium",
+        "d": "Chlorine"
+      },
+      "one_liner": "Elements such as boron, germanium, arsenic, and antimony are classified as **metalloids** on the periodic table.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

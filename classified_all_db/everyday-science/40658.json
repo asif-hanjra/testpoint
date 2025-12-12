@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What instrument is used to measure the amount of liquid precipitation over a set period of time?",
+      "options": {
+        "a": "Barometer",
+        "b": "Rain gauge",
+        "c": "Thermometer",
+        "d": "Anemometer"
+      },
+      "one_liner": "A rain gauge is specifically designed to measure the amount of liquid precipitation, such as rain, over a set period of time, making it an essential tool for meteorologists.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

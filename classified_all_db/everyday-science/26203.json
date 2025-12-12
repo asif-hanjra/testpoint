@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered penicillin in 1928?",
+      "options": {
+        "a": "Louis Pasteur and Robert Koch",
+        "b": "Sir Alexander Fleming and Sir Howard Florey",
+        "c": "Edward Jenner and Jonas Salk",
+        "d": "None of these"
+      },
+      "one_liner": "**Sir Alexander Fleming and Sir Howard Florey** discovered penicillin in 1928.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

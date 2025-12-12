@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does horticulture primarily study?",
+      "options": {
+        "a": "Animals and Birds",
+        "b": "Plants and Fruits",
+        "c": "Minerals and Rocks",
+        "d": "None of these"
+      },
+      "one_liner": "Horticulture is the branch of science that focuses on the study of **plants and fruits**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

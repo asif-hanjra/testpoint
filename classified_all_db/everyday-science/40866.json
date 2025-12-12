@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens to atmospheric pressure when the temperature is low?",
+      "options": {
+        "a": "Pressure is high",
+        "b": "Pressure is low",
+        "c": "Pressure remains unchanged",
+        "d": "None of these"
+      },
+      "one_liner": "When the temperature in the atmosphere drops, the pressure typically becomes **high**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

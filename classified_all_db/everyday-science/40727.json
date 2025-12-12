@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of energy does a moving cricket ball possess?",
+      "options": {
+        "a": "Potential energy",
+        "b": "Chemical energy",
+        "c": "Kinetic energy",
+        "d": "Nuclear energy"
+      },
+      "one_liner": "A moving cricket ball is an example of **kinetic energy**, which is the energy of motion.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

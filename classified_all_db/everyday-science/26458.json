@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is heat energy the result of?",
+      "options": {
+        "a": "Large objects",
+        "b": "Tiny particles like atoms, molecules, or ions",
+        "c": "Electric current",
+        "d": "None of these"
+      },
+      "one_liner": "Heat energy results from the movement of **tiny particles like atoms, molecules, or ions** in solids, liquids, and gases.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

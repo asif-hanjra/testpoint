@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following symptoms is NOT commonly associated with Ascariasis?",
+      "options": {
+        "a": "Abdominal swelling",
+        "b": "Abdominal pain",
+        "c": "Diarrhea",
+        "d": "Headache"
+      },
+      "one_liner": "Common symptoms of Ascariasis include abdominal swelling, abdominal pain, and diarrhea, but **headache** is not typically associated with this infection.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

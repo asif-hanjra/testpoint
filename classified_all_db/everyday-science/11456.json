@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does ecology study?",
+      "options": {
+        "a": "The structure of atoms",
+        "b": "The interactions among organisms and their environment",
+        "c": "The laws of motion",
+        "d": "The history of Earth"
+      },
+      "one_liner": "Ecology is the scientific study of the interactions among organisms and their environment, making it a key branch of biology.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

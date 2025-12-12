@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented the Linotype machine?",
+      "options": {
+        "a": "Mergenthaler",
+        "b": "Edison",
+        "c": "Bell",
+        "d": "Marconi"
+      },
+      "one_liner": "The Linotype machine was invented by **Mergenthaler**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

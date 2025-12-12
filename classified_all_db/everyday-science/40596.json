@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "After fertilization, which part of the plant develops into a fruit?",
+      "options": {
+        "a": "Ovary",
+        "b": "Stamen",
+        "c": "Petal",
+        "d": "Root"
+      },
+      "one_liner": "After fertilization, the fruit of a plant develops from the **ovary**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

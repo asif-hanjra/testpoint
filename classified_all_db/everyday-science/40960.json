@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which university did Abdul Qadeer Khan receive his Ph.D?",
+      "options": {
+        "a": "Oxford University, UK",
+        "b": "Heidelberg University, Germany",
+        "c": "Leon University, Belgium",
+        "d": "Cambridge University, UK"
+      },
+      "one_liner": "Abdul Qadeer Khan earned his Ph.D from **Leon University, Belgium**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

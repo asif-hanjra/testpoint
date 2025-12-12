@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If the dot product of two nonzero vectors A and B is zero then the magnitude of their cross product is?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "AB",
+        "d": "-AB"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The thymus gland is primarily located in which part of the body?",
+      "options": {
+        "a": "Chest",
+        "b": "Neck",
+        "c": "Abdomen",
+        "d": "Brain"
+      },
+      "one_liner": "The thymus gland is situated in the **chest**, behind the sternum and between the lungs.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

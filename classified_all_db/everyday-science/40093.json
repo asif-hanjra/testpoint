@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a tsunami?",
+      "options": {
+        "a": "A large ocean wave triggered by certain natural events",
+        "b": "A type of hurricane",
+        "c": "A strong wind current",
+        "d": "A tidal bore"
+      },
+      "one_liner": "A tsunami is defined as an ocean wave caused by the sudden displacement of a large volume of water, often due to natural events such as earthquakes or landslides, making it a significant natural hazard.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

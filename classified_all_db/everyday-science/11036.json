@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the spinal cord located?",
+      "options": {
+        "a": "In the cavity of the backbone",
+        "b": "In the chest",
+        "c": "In the skull",
+        "d": "None of these"
+      },
+      "one_liner": "The spinal cord is located in the **cavity of the backbone**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

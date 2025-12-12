@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many bones are present in an adult human being?",
+      "options": {
+        "a": "206",
+        "b": "210",
+        "c": "205",
+        "d": "201"
+      },
+      "one_liner": "An adult human being has a total of **206 bones** in their body.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main reason soap and detergents are effective in removing dirt from clothes?",
+      "options": {
+        "a": "Increase in temperature",
+        "b": "Lowering of interfacial tension",
+        "c": "Chemical reaction with dirt",
+        "d": "None of these"
+      },
+      "one_liner": "Soap and detergents clean clothes effectively because they lower the interfacial tension, making it easier to remove dirt, with the key factor being the reduction of **interfacial tension**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

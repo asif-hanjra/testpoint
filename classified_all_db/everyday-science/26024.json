@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The human body is classified as which of the following in terms of electrical conductivity?",
+      "options": {
+        "a": "Conductor",
+        "b": "Insulator",
+        "c": "Semiconductor",
+        "d": "None of these"
+      },
+      "one_liner": "The **human body** is considered a conductor of electricity due to its water and electrolyte content.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

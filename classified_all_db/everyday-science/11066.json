@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the uncharged particle found in an atom?",
+      "options": {
+        "a": "Proton",
+        "b": "Electron",
+        "c": "Neutron",
+        "d": "Photon"
+      },
+      "one_liner": "The uncharged particle present in an atom is known as a **Neutron**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

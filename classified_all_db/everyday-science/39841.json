@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the pineal gland located in the human body?",
+      "options": {
+        "a": "Middle of the brain",
+        "b": "Front of the neck",
+        "c": "On top of the kidneys",
+        "d": "Base of the brain"
+      },
+      "one_liner": "The pineal gland is located in the middle of the brain, where it plays a role in regulating sleep cycles.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

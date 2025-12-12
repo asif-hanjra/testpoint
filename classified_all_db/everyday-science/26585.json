@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who created the Brain virus?",
+      "options": {
+        "a": "Pakistani brothers",
+        "b": "American scientists",
+        "c": "Indian engineers",
+        "d": "None of these"
+      },
+      "one_liner": "The Brain virus was created by two brothers from **Pakistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary use of graphite?",
+      "options": {
+        "a": "Lubricant",
+        "b": "Fuel",
+        "c": "Fertilizer",
+        "d": "Explosive"
+      },
+      "one_liner": "**Graphite** is primarily used as a lubricant due to its softness.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

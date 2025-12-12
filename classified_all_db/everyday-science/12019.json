@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the second kingdom known as in biological classification?",
+      "options": {
+        "a": "Eubacteria",
+        "b": "Protista",
+        "c": "Fungi",
+        "d": "Plantae"
+      },
+      "one_liner": "In biological classification, the second kingdom is referred to as **Eubacteria**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

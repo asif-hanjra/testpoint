@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which acid is used for toilet cleaning and should be handled with great care due to its powerful nature?",
+      "options": {
+        "a": "Hydrochloric acid",
+        "b": "Muriatic acid",
+        "c": "Citric acid",
+        "d": "Acetic acid"
+      },
+      "one_liner": "Toilet cleaning often involves the use of **muriatic acid**, which is a very strong chemical requiring careful handling.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

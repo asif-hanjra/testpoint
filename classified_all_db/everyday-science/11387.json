@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does acceleration refer to in physics?",
+      "options": {
+        "a": "Rate of increase of speed",
+        "b": "Rate of change of velocity",
+        "c": "Both A and B",
+        "d": "None of these"
+      },
+      "one_liner": "In physics, acceleration refers to the **rate of increase of speed or the rate of change of velocity**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

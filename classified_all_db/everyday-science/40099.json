@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are animals that are no longer present on earth called?",
+      "options": {
+        "a": "Endangered animals",
+        "b": "Extinct animals",
+        "c": "Rare animals",
+        "d": "None of these"
+      },
+      "one_liner": "Animals that have completely disappeared from earth are known as **extinct animals**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of electromagnetic wave has the smallest wavelengths?",
+      "options": {
+        "a": "Infrared rays",
+        "b": "Ultraviolet rays",
+        "c": "Gamma rays",
+        "d": "Radio waves"
+      },
+      "one_liner": "Gamma rays are known for having the **smallest wavelengths** in the electromagnetic spectrum.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

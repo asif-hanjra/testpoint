@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who gave the theory of motion?",
+      "options": {
+        "a": "Einstein",
+        "b": "Newton",
+        "c": "Galileo",
+        "d": "Bohr"
+      },
+      "one_liner": "The theory of motion was given by **Newton**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of the digestive system includes the duodenum and jejunum?",
+      "options": {
+        "a": "Large Intestine",
+        "b": "Small Intestine",
+        "c": "Stomach",
+        "d": "Esophagus"
+      },
+      "one_liner": "The duodenum and jejunum are both sections of the **small intestine** in the human digestive system.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

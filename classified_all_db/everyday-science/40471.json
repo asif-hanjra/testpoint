@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is electrical energy?",
+      "options": {
+        "a": "Moving protons",
+        "b": "Moving electrons in an electric conductor",
+        "c": "Stationary charges",
+        "d": "None of these"
+      },
+      "one_liner": "Electrical energy is the energy carried by **moving electrons in an electric conductor**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the ozone layer, which prevents ultraviolet rays, made up of?",
+      "options": {
+        "a": "Nitrogen",
+        "b": "Oxygen",
+        "c": "Carbon Dioxide",
+        "d": "Hydrogen"
+      },
+      "one_liner": "The ozone layer, which protects the Earth from ultraviolet rays, is composed of **oxygen** molecules.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

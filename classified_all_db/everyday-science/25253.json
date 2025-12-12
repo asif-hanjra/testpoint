@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How is iodine deficiency commonly prevented in the general population?",
+      "options": {
+        "a": "Adding iodine to sugar",
+        "b": "Adding iodine to salt",
+        "c": "Adding iodine to water",
+        "d": "Adding iodine to milk"
+      },
+      "one_liner": "Iodine deficiency is commonly prevented by adding **iodine to salt** (iodized salt).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

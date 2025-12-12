@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens when an electron moves from a higher energy orbit to a lower energy orbit?",
+      "options": {
+        "a": "Light is absorbed",
+        "b": "Light is emitted",
+        "c": "Electron disappears",
+        "d": "None of these"
+      },
+      "one_liner": "When an electron transitions from a higher to a lower energy orbit, it emits **light** as a result of the energy difference.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

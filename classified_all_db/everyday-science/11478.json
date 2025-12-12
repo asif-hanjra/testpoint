@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two gases are primarily mixed to form cooking gas?",
+      "options": {
+        "a": "Propane and Methane",
+        "b": "Propane and Butane",
+        "c": "Butane and Ethane",
+        "d": "Methane and Ethane"
+      },
+      "one_liner": "Cooking gas commonly used in households is a mixture of **Propane and Butane**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

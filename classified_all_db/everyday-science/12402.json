@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which gas is known to damage iron and steel structures?",
+      "options": {
+        "a": "Sulphur dioxide",
+        "b": "Carbon monoxide",
+        "c": "Methane",
+        "d": "Oxygen"
+      },
+      "one_liner": "Iron and steel structures are particularly susceptible to damage caused by **Sulphur dioxide**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

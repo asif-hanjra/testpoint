@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the two types of psychosis?",
+      "options": {
+        "a": "Delirium and Mania",
+        "b": "Delirium and Depression",
+        "c": "Depression and Mania",
+        "d": "None of these"
+      },
+      "one_liner": "The two types of psychosis are Delirium and Depression, each with distinct symptoms and effects.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

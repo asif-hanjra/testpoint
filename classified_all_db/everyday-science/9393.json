@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The bullets are filled simultaneously, horizontally and with different speeds from the same place. Which bullet will hit the ground first?",
+      "options": {
+        "a": "The faster one",
+        "b": "Depends on their mass",
+        "c": "The slower one",
+        "d": "Both will reach simultaneously"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the names of the upper and lower chambers of the heart?",
+      "options": {
+        "a": "Atria and ventricles",
+        "b": "Ventricles and atria",
+        "c": "Valves and septa",
+        "d": "None of these"
+      },
+      "one_liner": "The upper chambers of the heart are called **atria**, while the lower chambers are called **ventricles**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

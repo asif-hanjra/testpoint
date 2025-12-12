@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the term 'insomnia' refer to?",
+      "options": {
+        "a": "Excessive sleep",
+        "b": "Inability to sleep",
+        "c": "Dreaming frequently",
+        "d": "None of these"
+      },
+      "one_liner": "The term insomnia refers to the **inability to sleep**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

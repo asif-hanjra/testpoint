@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "At what temperature does water have its highest density?",
+      "options": {
+        "a": "0°C",
+        "b": "4°C",
+        "c": "10°C",
+        "d": "100°C"
+      },
+      "one_liner": "Water reaches its highest density at **4°C**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

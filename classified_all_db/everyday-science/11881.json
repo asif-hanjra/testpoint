@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which instrument is used to measure temperature?",
+      "options": {
+        "a": "Barometer",
+        "b": "Thermometer",
+        "c": "Hygrometer",
+        "d": "Anemometer"
+      },
+      "one_liner": "Temperature is commonly measured using a **thermometer**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

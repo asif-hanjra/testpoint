@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the largest part of the human brain?",
+      "options": {
+        "a": "Cerebellum",
+        "b": "Medulla oblongata",
+        "c": "Cerebrum",
+        "d": "Pons"
+      },
+      "one_liner": "The largest part of the human brain is the **cerebrum**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What will be time period of a spring mass system. If mass m is connected with two springs k1 and k2 in parallel?",
+      "options": {
+        "a": "T=2π√m/k1+k2",
+        "b": "T=2π√m/k1",
+        "c": "T=2π√k1+k2/m",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many calories are contained in one gram of carbohydrates or protein?",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "7",
+        "d": "9"
+      },
+      "one_liner": "Both carbohydrates and protein each provide **4 calories per gram**, making them equal in caloric content per gram.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following books were written by Aristotle?",
+      "options": {
+        "a": "Republic and Symposium",
+        "b": "Politics and Poetics",
+        "c": "Apology and Crito",
+        "d": "None of these"
+      },
+      "one_liner": "The famous books *Politics* and *Poetics* were authored by **Aristotle**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Three Best-Known Greek Philosophers",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Three Best-Known Greek Philosophers",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

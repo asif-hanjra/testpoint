@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organ secretes bile (gall) to aid in the breakdown of fats in the small intestine?",
+      "options": {
+        "a": "Gallbladder",
+        "b": "Pancreas",
+        "c": "Liver",
+        "d": "Stomach"
+      },
+      "one_liner": "The gallbladder releases **bile** into the small intestine to help break down fats during digestion.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

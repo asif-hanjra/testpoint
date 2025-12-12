@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which medicines are useful for treating bacterial infections?",
+      "options": {
+        "a": "Vaccines",
+        "b": "Antibiotics",
+        "c": "Antivirals",
+        "d": "Narcotics"
+      },
+      "one_liner": "**Antibiotics** are medicines that are effective in treating bacterial infections.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The testis in males is located in which region of the body?",
+      "options": {
+        "a": "Groin region",
+        "b": "Chest",
+        "c": "Neck",
+        "d": "Brain"
+      },
+      "one_liner": "The testis in males is situated in the **groin region**, outside the abdominal cavity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

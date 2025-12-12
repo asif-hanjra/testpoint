@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What hormone is produced by the thyroid gland?",
+      "options": {
+        "a": "Thyroxin",
+        "b": "Insulin",
+        "c": "Adrenaline",
+        "d": "Melatonin"
+      },
+      "one_liner": "The thyroid gland produces the hormone thyroxin, which is essential for the body's development and metabolism.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

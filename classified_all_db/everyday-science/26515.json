@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of bond is formed between atoms in conductors?",
+      "options": {
+        "a": "Covalent bond",
+        "b": "Ionic bond",
+        "c": "Metallic bond",
+        "d": "None of these"
+      },
+      "one_liner": "In conductors, the atoms are typically held together by a **metallic bond**, not an ionic bond.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

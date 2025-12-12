@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which group of vascular plants does not produce flowers but forms seeds?",
+      "options": {
+        "a": "Gymnosperms",
+        "b": "Angiosperms",
+        "c": "Bryophytes",
+        "d": "Ferns"
+      },
+      "one_liner": "Gymnosperms are unique among vascular plants because they do not produce flowers but instead form seeds, making them distinct from flowering plants.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

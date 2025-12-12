@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is anabolism?",
+      "options": {
+        "a": "A destructive set of reactions",
+        "b": "A constructive set of reactions",
+        "c": "A neutral process",
+        "d": "None of these"
+      },
+      "one_liner": "Anabolism is a **constructive set of chemical reactions** that builds complex molecules from simpler ones.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

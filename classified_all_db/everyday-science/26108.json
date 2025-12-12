@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the female reproductive part of a flower called?",
+      "options": {
+        "a": "Stamen",
+        "b": "Pistil",
+        "c": "Petal",
+        "d": "Sepal"
+      },
+      "one_liner": "The female reproductive part of a flower is known as the **pistil**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

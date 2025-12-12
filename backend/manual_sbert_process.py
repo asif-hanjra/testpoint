@@ -28,10 +28,13 @@ from file_manager import FileManager
 # ============================================================================
 
 # Input folder containing JSON files to process
-INPUT_FOLDER = "/Users/mac/testpoint/classified_all_db-original/pakistan-studies"
+INPUT_FOLDER = "/Users/mac/testpoint/classified_all_db/everyday-science"
 
 # Output file path for removed files tracking
-OUTPUT_FILE = "/Users/mac/testpoint/removed-track/pakistan-studies.json"
+OUTPUT_FILE = "/Users/mac/testpoint/removed-track/everyday-science.json"
+
+# Saved-track file path for non-duplicate files
+SAVED_TRACK_FILE = "/Users/mac/testpoint/saved-track/everyday-science.json"
 
 # Similarity range (0.98 = 98%, 1.0 = 100%)
 MIN_SIMILARITY = 0.98
@@ -116,24 +119,41 @@ def main():
     print("MANUAL SBERT PROCESSING")
     print("=" * 80)
     print(f"Input folder: {INPUT_FOLDER}")
-    print(f"Output file: {OUTPUT_FILE}")
+    print(f"Removed-track file: {OUTPUT_FILE}")
+    print(f"Saved-track file: {SAVED_TRACK_FILE}")
     print(f"Similarity range: {MIN_SIMILARITY * 100:.1f}% - {MAX_SIMILARITY * 100:.1f}%")
     print("=" * 80)
     print()
     
-    # Step 1: Load existing removed-track file
-    print("[Step 1] Loading existing removed-track file...")
+    # Step 1: Load existing tracking files
+    print("[Step 1] Loading existing tracking files...")
+    
+    # Load removed-track
     existing_removed = set()
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
                 existing_removed = set(json.load(f))
-            print(f"  Found {len(existing_removed)} files already in removed-track")
+            print(f"  ✓ Removed-track: Found {len(existing_removed):,} files")
         except Exception as e:
-            print(f"  Warning: Failed to load existing removed-track: {e}")
+            print(f"  ⚠ Warning: Failed to load removed-track: {e}")
             existing_removed = set()
     else:
-        print("  No existing removed-track file found (will create new one)")
+        print(f"  ✓ Removed-track: No existing file (will create new one)")
+    
+    # Load saved-track
+    existing_saved = set()
+    if os.path.exists(SAVED_TRACK_FILE):
+        try:
+            with open(SAVED_TRACK_FILE, 'r', encoding='utf-8') as f:
+                existing_saved = set(json.load(f))
+            print(f"  ✓ Saved-track: Found {len(existing_saved):,} files")
+        except Exception as e:
+            print(f"  ⚠ Warning: Failed to load saved-track: {e}")
+            existing_saved = set()
+    else:
+        print(f"  ✓ Saved-track: No existing file (will create new one)")
+    
     print()
     
     # Step 2: Initialize FileManager
@@ -149,7 +169,7 @@ def main():
         str(removed_path)
     )
     
-    # Step 3: Load all MCQ files from input folder
+    # Step 2: Load all MCQ files from input folder (excluding removed-track and saved-track)
     print(f"[Step 2] Loading MCQ files from {INPUT_FOLDER}...")
     subject_name = Path(INPUT_FOLDER).name
     
@@ -158,16 +178,24 @@ def main():
     input_path = Path(INPUT_FOLDER)
     
     if not input_path.exists():
-        print(f"  ERROR: Input folder does not exist: {INPUT_FOLDER}")
+        print(f"  ❌ ERROR: Input folder does not exist: {INPUT_FOLDER}")
         return
     
     json_files = list(input_path.glob("*.json"))
-    print(f"  Found {len(json_files)} JSON files")
+    print(f"  Found {len(json_files):,} JSON files in input folder")
+    
+    excluded_removed = 0
+    excluded_saved = 0
     
     for json_file in json_files:
         filename = json_file.name
         # Skip files already in removed-track
         if filename in existing_removed:
+            excluded_removed += 1
+            continue
+        # Skip files already in saved-track
+        if filename in existing_saved:
+            excluded_saved += 1
             continue
         
         try:
@@ -175,18 +203,22 @@ def main():
                 data = json.load(f)
                 all_mcqs[filename] = data
         except Exception as e:
-            print(f"  Warning: Failed to load {filename}: {e}")
+            print(f"  ⚠ Warning: Failed to load {filename}: {e}")
     
-    print(f"  Loaded {len(all_mcqs)} files (excluded {len(existing_removed)} already removed)")
+    print(f"  ✓ Loaded {len(all_mcqs):,} files for processing")
+    print(f"  - Excluded {excluded_removed:,} files (already in removed-track)")
+    print(f"  - Excluded {excluded_saved:,} files (already in saved-track)")
     
     if len(all_mcqs) == 0:
-        print("  ERROR: No files to process!")
+        print("  ❌ ERROR: No files to process after exclusions!")
         return
     print()
     
-    # Step 4: Extract statements
+    # Step 3: Extract statements
     print("[Step 3] Extracting statements from MCQs...")
     statements = {}
+    failed_extractions = 0
+    
     for filename, data in all_mcqs.items():
         try:
             if "mcq" in data and len(data["mcq"]) > 0:
@@ -196,15 +228,21 @@ def main():
             
             if statement:
                 statements[filename] = statement
+            else:
+                failed_extractions += 1
         except Exception as e:
-            print(f"  Warning: Failed to extract statement from {filename}: {e}")
+            print(f"  ⚠ Warning: Failed to extract statement from {filename}: {e}")
+            failed_extractions += 1
     
-    print(f"  Extracted {len(statements)} statements")
+    print(f"  ✓ Extracted {len(statements):,} statements")
+    if failed_extractions > 0:
+        print(f"  ⚠ Failed to extract {failed_extractions:,} statements")
     print()
     
-    # Step 5: Run SBERT processing
+    # Step 4: Run SBERT processing
     print("[Step 4] Running SBERT similarity check...")
-    print(f"  Processing {len(statements)} files...")
+    print(f"  Processing {len(statements):,} files for similarity detection...")
+    print()
     
     sbert_processor = SBERTProcessor(threshold=MIN_SIMILARITY)
     
@@ -215,10 +253,12 @@ def main():
             progress_callback=None
         )
         
-        print(f"  Found {len(groups_pairwise)} similar pairs")
-        print(f"  Non-duplicate files: {non_duplicate_count}")
+        print()
+        print(f"  ✓ SBERT processing complete!")
+        print(f"  - Found {len(groups_pairwise):,} similar pairs")
+        print(f"  - Non-duplicate files: {non_duplicate_count:,}")
     except Exception as e:
-        print(f"  ERROR: SBERT processing failed: {e}")
+        print(f"  ❌ ERROR: SBERT processing failed: {e}")
         import traceback
         traceback.print_exc()
         return
@@ -226,22 +266,108 @@ def main():
         sbert_processor.stop()
     print()
     
-    # Step 6: Filter groups to similarity range
-    print(f"[Step 5] Filtering groups to similarity range {MIN_SIMILARITY * 100:.1f}% - {MAX_SIMILARITY * 100:.1f}%...")
+    # Step 5: Identify non-duplicate files and save to saved-track
+    print("[Step 5] Identifying non-duplicate files...")
+    
+    # Find all files that appear in similar pairs
+    files_in_pairs = set()
+    for group in groups_pairwise:
+        files_in_pairs.update(group['files'])
+    
+    # Non-duplicates are files NOT in any pair
+    non_duplicate_files = set(statements.keys()) - files_in_pairs
+    
+    print(f"  - Files in similar pairs: {len(files_in_pairs):,}")
+    print(f"  - Non-duplicate files: {len(non_duplicate_files):,}")
+    print()
+    
+    # Merge with existing saved-track and save
+    print("[Step 6] Saving non-duplicate files to saved-track...")
+    all_saved = existing_saved.union(non_duplicate_files)
+    newly_saved = non_duplicate_files - existing_saved
+    
+    # Sort numerically
+    sorted_saved = sort_filenames_numerically(list(all_saved))
+    
+    # Ensure output directory exists
+    saved_track_path = Path(SAVED_TRACK_FILE)
+    saved_track_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    try:
+        with open(SAVED_TRACK_FILE, 'w', encoding='utf-8') as f:
+            json.dump(sorted_saved, f, indent=2)
+        print(f"  ✓ Saved {len(sorted_saved):,} files to saved-track")
+        print(f"  - Existing saved files: {len(existing_saved):,}")
+        print(f"  - Newly saved files: {len(newly_saved):,}")
+    except Exception as e:
+        print(f"  ❌ ERROR: Failed to save saved-track file: {e}")
+        return
+    print()
+    
+    # Step 7: Filter groups to similarity range
+    print(f"[Step 7] Filtering groups to similarity range {MIN_SIMILARITY * 100:.1f}% - {MAX_SIMILARITY * 100:.1f}%...")
     filtered_groups = []
     for group in groups_pairwise:
         similarity = group.get('similarity', 0)
         if MIN_SIMILARITY <= similarity <= MAX_SIMILARITY:
             filtered_groups.append(group)
     
-    print(f"  Found {len(filtered_groups)} groups in similarity range")
+    print(f"  ✓ Found {len(filtered_groups):,} groups in similarity range")
+    print()
+    
+    # Step 8: Generate and display report
+    print("=" * 80)
+    print("PROCESSING REPORT")
+    print("=" * 80)
+    print(f"Total files in input folder: {len(json_files):,}")
+    print(f"Files excluded (removed-track): {excluded_removed:,}")
+    print(f"Files excluded (saved-track): {excluded_saved:,}")
+    print(f"Files processed by SBERT: {len(all_mcqs):,}")
+    print()
+    print(f"SBERT Results:")
+    print(f"  - Total similar pairs found: {len(groups_pairwise):,}")
+    print(f"  - Pairs in similarity range ({MIN_SIMILARITY * 100:.1f}%-{MAX_SIMILARITY * 100:.1f}%): {len(filtered_groups):,}")
+    print(f"  - Files in similar pairs: {len(files_in_pairs):,}")
+    print(f"  - Non-duplicate files (saved): {len(non_duplicate_files):,}")
+    print()
+    
+    # Show similarity distribution
+    if similarity_bins:
+        print(f"Similarity Distribution:")
+        for bin_info in similarity_bins:
+            if bin_info['count'] > 0:
+                print(f"  - {bin_info['range']}%: {bin_info['count']:,} pairs")
     print()
     
     if len(filtered_groups) == 0:
-        print("  No groups found in specified similarity range. Nothing to process.")
+        print("  ℹ No groups found in specified similarity range.")
+        print("  ✓ Non-duplicate files have been saved to saved-track.")
+        print("  ✓ Processing complete - nothing to remove.")
+        print("=" * 80)
         return
     
-    # Step 7: Process groups and track selections
+    print(f"Next Steps:")
+    print(f"  - Will process {len(filtered_groups):,} similar pairs")
+    print(f"  - Will select best MCQ from each pair")
+    print(f"  - Will mark unselected files for removal")
+    print("=" * 80)
+    print()
+    
+    # Step 9: Ask for user confirmation
+    print("⚠️  READY TO PROCEED WITH SELECTION AND REMOVAL")
+    print()
+    response = input("Do you want to proceed with selecting MCQs and updating removed-track? (yes/no): ").strip().lower()
+    print()
+    
+    if response not in ['yes', 'y']:
+        print("❌ User cancelled. Exiting without updating removed-track.")
+        print("✓ Non-duplicate files have been saved to saved-track.")
+        return
+    
+    print("✓ Proceeding with selection and removal...")
+    print()
+    
+    # Step 10: Process groups and track selections
     print("[Step 6] Processing groups and selecting MCQs...")
     
     # Track selections per file: {filename: [selected_in_group1, selected_in_group2, ...]}

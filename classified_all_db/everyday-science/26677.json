@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT one of the greenhouse gases regulated by the Kyoto Protocol?",
+      "options": {
+        "a": "Carbon dioxide (CO2)",
+        "b": "Methane (CH4)",
+        "c": "Nitrous oxide (N2O)",
+        "d": "Ozone (O3)"
+      },
+      "one_liner": "Among the greenhouse gases regulated by the Kyoto Protocol are **Carbon dioxide (CO2), Methane (CH4), and Nitrous oxide (N2O)**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

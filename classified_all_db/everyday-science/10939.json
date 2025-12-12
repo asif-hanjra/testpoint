@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "At what temperature is crude oil heated in the furnace during the refining process?",
+      "options": {
+        "a": "200°C",
+        "b": "300°C",
+        "c": "400°C",
+        "d": "500°C"
+      },
+      "one_liner": "During the refining process, crude oil is typically heated in the furnace up to **400°C**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

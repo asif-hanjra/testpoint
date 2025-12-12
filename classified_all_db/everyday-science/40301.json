@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What condition is caused by iron deficiency?",
+      "options": {
+        "a": "Goiter",
+        "b": "Anemia",
+        "c": "Rickets",
+        "d": "Scurvy"
+      },
+      "one_liner": "A deficiency of iron in the body causes **anemia**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

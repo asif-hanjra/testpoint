@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which metal is used in radiators, AC units, and heating systems due to its thermal conductivity?",
+      "options": {
+        "a": "Copper",
+        "b": "Aluminum",
+        "c": "Silver",
+        "d": "Iron"
+      },
+      "one_liner": "Thanks to its high thermal conductivity, **copper** is used in radiators, AC units, and heating systems.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who transmitted the first radio signal through air?",
+      "options": {
+        "a": "Marconi",
+        "b": "Edison",
+        "c": "Newton",
+        "d": "Einstein"
+      },
+      "one_liner": "The first radio signal transmitted through air was sent by **Marconi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

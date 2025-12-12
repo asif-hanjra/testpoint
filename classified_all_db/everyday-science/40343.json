@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which virus is responsible for causing HIV infection and eventually AIDS?",
+      "options": {
+        "a": "Hepatitis B Virus",
+        "b": "Human Immunodeficiency Virus",
+        "c": "Influenza Virus",
+        "d": "None of these"
+      },
+      "one_liner": "The virus responsible for causing HIV infection and eventually AIDS is the **Human Immunodeficiency Virus (HIV)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

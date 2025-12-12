@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which antibiotic is effective against bacteria not controlled by penicillin?",
+      "options": {
+        "a": "Cephalosporin",
+        "b": "Penicillin",
+        "c": "Aspirin",
+        "d": "Paracetamol"
+      },
+      "one_liner": "**Cephalosporin** is an antibiotic effective against bacteria that are not controlled by penicillin.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

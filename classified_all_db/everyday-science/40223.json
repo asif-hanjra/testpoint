@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of lens is used in cameras?",
+      "options": {
+        "a": "Concave lens",
+        "b": "Convex lens",
+        "c": "Plano lens",
+        "d": "None of these"
+      },
+      "one_liner": "A **convex lens** is commonly used in cameras to focus light and form clear images.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

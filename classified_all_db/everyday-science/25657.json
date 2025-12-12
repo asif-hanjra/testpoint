@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are considered greenhouse gases found in the Earth's atmosphere?",
+      "options": {
+        "a": "Carbon dioxide, water vapour, methane",
+        "b": "Oxygen, nitrogen, argon",
+        "c": "Ozone, helium, neon",
+        "d": "None of these"
+      },
+      "one_liner": "Greenhouse gases such as **carbon dioxide, water vapour, and methane** are present in the Earth's atmosphere and play a key role in regulating its temperature.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

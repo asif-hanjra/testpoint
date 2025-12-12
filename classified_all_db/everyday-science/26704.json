@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which acid is commonly found in citrus fruits such as oranges and lemons?",
+      "options": {
+        "a": "Citric acid",
+        "b": "Carbonic acid",
+        "c": "Sulphuric acid",
+        "d": "Acetic acid"
+      },
+      "one_liner": "Citrus fruits like oranges and lemons are rich sources of **citric acid**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

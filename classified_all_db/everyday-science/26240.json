@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month does the smallest distance between the Earth and the Sun occur?",
+      "options": {
+        "a": "January",
+        "b": "March",
+        "c": "July",
+        "d": "September"
+      },
+      "one_liner": "The Earth is closest to the Sun, known as perihelion, during the month of **January**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

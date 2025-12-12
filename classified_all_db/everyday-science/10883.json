@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which chemical is used in the manufacture of foam for mattresses and cushions?",
+      "options": {
+        "a": "Phenol",
+        "b": "Benzene",
+        "c": "Methanol",
+        "d": "Acetone"
+      },
+      "one_liner": "Foam used in mattresses and cushions is manufactured using **phenol**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

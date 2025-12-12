@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of electromagnetic wave possesses the most energy?",
+      "options": {
+        "a": "Microwaves",
+        "b": "Gamma rays",
+        "c": "Visible light",
+        "d": "X-rays"
+      },
+      "one_liner": "Among all electromagnetic waves, **gamma rays** possess the highest amount of energy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

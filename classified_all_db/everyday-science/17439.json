@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Capacitance of a parallel plate capacitor in the presence of insulator having dielectric constant εr is C. If the dielectric is removed from plates, then new capacitance will be",
+      "options": {
+        "a": "C · εr",
+        "b": "εr / C",
+        "c": "C / εr",
+        "d": "C + εr"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

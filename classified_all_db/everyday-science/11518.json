@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why does cream rise and float on top of milk?",
+      "options": {
+        "a": "Because cream is heavier than milk",
+        "b": "Because cream is less dense than milk",
+        "c": "Because cream is more viscous than milk",
+        "d": "None of these"
+      },
+      "one_liner": "Cream rises and floats on top of milk because its density is **less than that of milk**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

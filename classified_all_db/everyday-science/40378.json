@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Is human-to-human transmission of Congo Virus possible?",
+      "options": {
+        "a": "Yes, through close contact with bodily fluids",
+        "b": "No, only animal-to-human",
+        "c": "No, only tick bites",
+        "d": "None of these"
+      },
+      "one_liner": "Human-to-human transmission of the Congo Virus is possible through close contact with the bodily fluids of an infected person.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

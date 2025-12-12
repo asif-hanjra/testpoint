@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main use of angiography?",
+      "options": {
+        "a": "To check heart rhythm",
+        "b": "To view blood vessels",
+        "c": "To scan bones",
+        "d": "To record brain waves"
+      },
+      "one_liner": "**Angiography** is mainly used to view the body's blood vessels using X-rays and to detect any blockages.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

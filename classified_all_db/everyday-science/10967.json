@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Muhammad Raziuddin Siddiquie is a scientist of which nationality?",
+      "options": {
+        "a": "Indian",
+        "b": "Pakistani",
+        "c": "Bangladeshi",
+        "d": "None of these"
+      },
+      "one_liner": "**Muhammad Raziuddin Siddiquie** is a scientist of Pakistani nationality.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

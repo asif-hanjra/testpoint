@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which process is used to make margarine?",
+      "options": {
+        "a": "Fermentation",
+        "b": "Hydrogenation",
+        "c": "Pasteurization",
+        "d": "Distillation"
+      },
+      "one_liner": "Margarine is produced by the process of **Hydrogenation**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

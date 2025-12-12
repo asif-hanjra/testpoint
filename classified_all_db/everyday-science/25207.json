@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of chart is suitable to divide the components of a factor into sectors?",
+      "options": {
+        "a": "Bar chart",
+        "b": "Pie-chart",
+        "c": "Line graph",
+        "d": "Histogram"
+      },
+      "one_liner": "A pie-chart is most suitable for dividing the components of a factor into **sectors**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

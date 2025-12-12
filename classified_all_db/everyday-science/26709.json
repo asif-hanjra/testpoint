@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is used as silica gel in small packets to absorb moisture?",
+      "options": {
+        "a": "Silicon",
+        "b": "Calcium",
+        "c": "Iron",
+        "d": "Aluminum"
+      },
+      "one_liner": "**Silicon** is used as silica gel in small packets to absorb moisture and protect products.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

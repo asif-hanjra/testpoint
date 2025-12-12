@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the most common form of acetic acid used for cooking and in salads?",
+      "options": {
+        "a": "Vinegar",
+        "b": "Citric acid",
+        "c": "Carbonic acid",
+        "d": "Muriatic acid"
+      },
+      "one_liner": "The most familiar form of **acetic acid** used in cooking and salads is vinegar.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

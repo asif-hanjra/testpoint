@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the second man to set foot on the moon?",
+      "options": {
+        "a": "Buzz Aldrin",
+        "b": "Yuri Gagarin",
+        "c": "Michael Collins",
+        "d": "Alan Shepard"
+      },
+      "one_liner": "Buzz Aldrin was the second man to set foot on the moon, following Neil Armstrong.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

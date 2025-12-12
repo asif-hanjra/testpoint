@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the liquid portion of blood called?",
+      "options": {
+        "a": "Serum",
+        "b": "Plasma",
+        "c": "Hemoglobin",
+        "d": "Leukocytes"
+      },
+      "one_liner": "The liquid portion of blood is known as **plasma**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

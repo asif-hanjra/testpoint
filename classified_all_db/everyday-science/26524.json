@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens when a ship crosses the International Date Line from west to east?",
+      "options": {
+        "a": "It adds one day",
+        "b": "It subtracts one day",
+        "c": "It adds one hour",
+        "d": "None of these"
+      },
+      "one_liner": "When a ship crosses the International Date Line from west to east, it adds **one day** to its calendar.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

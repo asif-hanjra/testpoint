@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which industry uses chlorine in the production process?",
+      "options": {
+        "a": "Textile",
+        "b": "Paper and plastics",
+        "c": "Automobile",
+        "d": "None of these"
+      },
+      "one_liner": "Chlorine is utilized in the production of **papers, plastics, and waterproof products**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

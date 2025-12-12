@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of organism are bacteria classified as?",
+      "options": {
+        "a": "Parasites",
+        "b": "Producers",
+        "c": "Decomposers",
+        "d": "None of these"
+      },
+      "one_liner": "Bacteria are classified as **parasites** because they often live off other organisms.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

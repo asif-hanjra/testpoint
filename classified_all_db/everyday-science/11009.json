@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which component is responsible for identifying blood groups?",
+      "options": {
+        "a": "Antibody",
+        "b": "Hormone",
+        "c": "Enzyme",
+        "d": "Vitamin"
+      },
+      "one_liner": "Blood groups are identified by the presence of specific **antibodies** in the blood.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

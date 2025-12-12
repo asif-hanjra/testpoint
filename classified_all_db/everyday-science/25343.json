@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of Ibn al-Haytham's famous book on optics?",
+      "options": {
+        "a": "Kitab al-Manazir",
+        "b": "Al-Qanun",
+        "c": "Al-Tasrif",
+        "d": "Al-Muqaddimah"
+      },
+      "one_liner": "The famous book on optics written by Ibn al-Haytham is called **Kitab al-Manazir**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

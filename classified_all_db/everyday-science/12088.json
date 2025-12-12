@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented the safety pin?",
+      "options": {
+        "a": "Edison",
+        "b": "Hunt",
+        "c": "Bell",
+        "d": "Newton"
+      },
+      "one_liner": "The safety pin was invented by **Hunt**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

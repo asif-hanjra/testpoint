@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which types of organisms can be affected by coronaviruses?",
+      "options": {
+        "a": "Only mammals",
+        "b": "Only birds",
+        "c": "Mammals and birds",
+        "d": "Only reptiles"
+      },
+      "one_liner": "Coronaviruses are known to cause diseases in both **mammals and birds**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

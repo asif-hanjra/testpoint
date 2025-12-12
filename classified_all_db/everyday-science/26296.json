@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two crops are primarily used for sugar production in Pakistan?",
+      "options": {
+        "a": "Sugarcane and Beet",
+        "b": "Wheat and Rice",
+        "c": "Maize and Barley",
+        "d": "Cotton and Jute"
+      },
+      "one_liner": "In Pakistan, sugar is primarily produced from **Sugarcane** and **Beet**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is essential for solar energy conversion?",
+      "options": {
+        "a": "Copper",
+        "b": "Iron",
+        "c": "Silicon",
+        "d": "None of these"
+      },
+      "one_liner": "The element that plays a crucial role in solar energy conversion is **Silicon**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What environmental phenomenon is responsible for changes in temperature and drought?",
+      "options": {
+        "a": "Urbanization",
+        "b": "Deforestation",
+        "c": "Global Change Impact",
+        "d": "Industrial Revolution"
+      },
+      "one_liner": "Changes in temperature and drought are primarily attributed to the effects of **Global Change Impact**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Sustainable Development Goals (SDGs)",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

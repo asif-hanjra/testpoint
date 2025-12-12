@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who shared the 1979 Nobel Prize in Physics with Dr Abdus Salam?",
+      "options": {
+        "a": "Sheldon Glashow and Steven Weinberg",
+        "b": "Richard Feynman and Paul Dirac",
+        "c": "Albert Einstein and Niels Bohr",
+        "d": "None of these"
+      },
+      "one_liner": "Dr Abdus Salam shared the 1979 Nobel Prize in Physics with **Sheldon Glashow and Steven Weinberg**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

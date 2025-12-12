@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of organism transmits the Zika virus?",
+      "options": {
+        "a": "Bacteria",
+        "b": "Viruses",
+        "c": "Mosquitoes",
+        "d": "Fungi"
+      },
+      "one_liner": "The Zika virus is transmitted by **mosquitoes**, classifying it as a mosquito-borne virus.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

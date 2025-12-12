@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which war did Florence Nightingale organize care for wounded soldiers?",
+      "options": {
+        "a": "World War I",
+        "b": "Crimean War",
+        "c": "World War II",
+        "d": "None of these"
+      },
+      "one_liner": "Florence Nightingale organized care for wounded soldiers during the **Crimean War**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

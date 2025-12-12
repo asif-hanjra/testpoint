@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the rate of change of displacement called?",
+      "options": {
+        "a": "Speed",
+        "b": "Velocity",
+        "c": "Acceleration",
+        "d": "Force"
+      },
+      "one_liner": "The rate of change of displacement is known as **velocity**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the approximate circumference of the Earth?",
+      "options": {
+        "a": "30,000 km",
+        "b": "35,000 km",
+        "c": "40,000 km",
+        "d": "45,000 km"
+      },
+      "one_liner": "The Earth's circumference is approximately **40,000 km**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

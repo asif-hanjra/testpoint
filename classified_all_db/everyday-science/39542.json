@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many watts are equivalent to one horsepower?",
+      "options": {
+        "a": "746 watts",
+        "b": "1000 watts",
+        "c": "550 watts",
+        "d": "None of these"
+      },
+      "one_liner": "One horsepower is exactly equal to **746 watts**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

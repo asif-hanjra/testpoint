@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the duration of a day at the North and South Poles?",
+      "options": {
+        "a": "24 hours",
+        "b": "1 month",
+        "c": "6 months",
+        "d": "12 months"
+      },
+      "one_liner": "A day at both the North and South Poles lasts for **6 months** due to the tilt of the Earth's axis.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the scientific study of stars called?",
+      "options": {
+        "a": "Geology",
+        "b": "Astronomy",
+        "c": "Biology",
+        "d": "Chemistry"
+      },
+      "one_liner": "The scientific study of stars is known as **Astronomy**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

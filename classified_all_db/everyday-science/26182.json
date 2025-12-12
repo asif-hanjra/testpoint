@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a common trigger for asthma?",
+      "options": {
+        "a": "Bacteria",
+        "b": "Allergy",
+        "c": "Virus",
+        "d": "None of these"
+      },
+      "one_liner": "A common trigger for asthma is an **allergy**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

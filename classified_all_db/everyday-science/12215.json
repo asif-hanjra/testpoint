@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Through which of the following can HIV be transmitted?",
+      "options": {
+        "a": "Blood",
+        "b": "Vaginal fluids",
+        "c": "Rectal fluids",
+        "d": "All of these"
+      },
+      "one_liner": "HIV can be transmitted through bodily fluids such as **blood, vaginal, and rectal fluids**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does NASA stand for?",
+      "options": {
+        "a": "National Aeronautics and Space Administration",
+        "b": "National Aerospace and Science Agency",
+        "c": "North American Space Association",
+        "d": "None of these"
+      },
+      "one_liner": "NASA is an acronym for the **National Aeronautics and Space Administration**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

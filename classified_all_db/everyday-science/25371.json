@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which chemical is commonly used for the purification of water?",
+      "options": {
+        "a": "Chlorine",
+        "b": "Iodine",
+        "c": "Sodium",
+        "d": "Potassium"
+      },
+      "one_liner": "The chemical most commonly used for water purification is **chlorine**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

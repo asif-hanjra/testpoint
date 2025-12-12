@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term used for a disease that is generally prevalent in a particular area?",
+      "options": {
+        "a": "Pandemic disease",
+        "b": "Epidemic disease",
+        "c": "Endemic disease",
+        "d": "Sporadic disease"
+      },
+      "one_liner": "A disease that is commonly found in a specific geographic region is known as an **endemic disease**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

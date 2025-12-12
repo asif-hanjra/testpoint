@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How do hepatitis A, B, and C affect the liver and spread to others?",
+      "options": {
+        "a": "Spread the same way and affect liver similarly",
+        "b": "Spread in different ways and affect the liver differently",
+        "c": "Do not affect the liver",
+        "d": "None of these"
+      },
+      "one_liner": "Although hepatitis A, B, and C cause similar symptoms, they are **spread in different ways and affect the liver differently**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

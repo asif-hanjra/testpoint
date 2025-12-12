@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is formed when the nucleus breaks apart during nuclear fission?",
+      "options": {
+        "a": "Two smaller atoms",
+        "b": "One larger atom",
+        "c": "No atoms",
+        "d": "All of these"
+      },
+      "one_liner": "When the nucleus breaks apart during nuclear fission, it forms two smaller atoms and releases energy.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

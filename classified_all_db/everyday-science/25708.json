@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the function of antibodies in the human body?",
+      "options": {
+        "a": "Store energy",
+        "b": "Provide immunity",
+        "c": "Build bones",
+        "d": "Aid digestion"
+      },
+      "one_liner": "Antibodies, which are proteins, **provide immunity against diseases** in the human body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

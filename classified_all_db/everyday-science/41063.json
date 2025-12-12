@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a source of Vitamin B?",
+      "options": {
+        "a": "Oranges",
+        "b": "Pork",
+        "c": "Eggs",
+        "d": "Sweet red peppers"
+      },
+      "one_liner": "Oranges, pork, and eggs are all sources of **Vitamin B**, but sweet red peppers are not.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

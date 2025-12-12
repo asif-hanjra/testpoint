@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the reason for the blue color of the sky?",
+      "options": {
+        "a": "Reflection",
+        "b": "Refraction",
+        "c": "Dispersion",
+        "d": "Absorption"
+      },
+      "one_liner": "The blue color of the sky is primarily due to the phenomenon of **dispersion**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

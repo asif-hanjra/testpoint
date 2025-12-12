@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of a camera is analogous to the retina in the human eye?",
+      "options": {
+        "a": "Lens",
+        "b": "Shutter",
+        "c": "Film",
+        "d": "Aperture"
+      },
+      "one_liner": "In a camera, the film serves a similar function to the retina in the human eye, as both capture images formed by light.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

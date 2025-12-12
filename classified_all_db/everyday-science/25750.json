@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are naturally occurring allotropes of carbon?",
+      "options": {
+        "a": "Graphite, diamond, and buckyballs",
+        "b": "Charcoal and soot",
+        "c": "Graphite and charcoal",
+        "d": "Diamond and soot"
+      },
+      "one_liner": "The naturally occurring allotropes of carbon include **graphite, diamond, and buckyballs**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

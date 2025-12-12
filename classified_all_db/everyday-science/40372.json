@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which branch of science deals with fruit-growing?",
+      "options": {
+        "a": "Sericulture",
+        "b": "Pomology",
+        "c": "Apiculture",
+        "d": "Silviculture"
+      },
+      "one_liner": "The scientific study of fruit-growing is called **Pomology**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

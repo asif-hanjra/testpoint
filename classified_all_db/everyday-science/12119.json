@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the result of parthenocarpy in fruits?",
+      "options": {
+        "a": "Fruits with seeds",
+        "b": "Seedless fruits",
+        "c": "Flowers only",
+        "d": "None of these"
+      },
+      "one_liner": "The main outcome of parthenocarpy in plants is the development of **seedless** fruits.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

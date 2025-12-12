@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What material are the optical fibres used in fibre optics made of?",
+      "options": {
+        "a": "Plastic",
+        "b": "Glass",
+        "c": "Copper",
+        "d": "Aluminium"
+      },
+      "one_liner": "The optical fibres used in fibre optics are typically made of **glass**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

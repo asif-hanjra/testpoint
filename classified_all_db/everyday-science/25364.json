@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of the eye controls how much light passes through the pupil?",
+      "options": {
+        "a": "Lens",
+        "b": "Cornea",
+        "c": "Iris",
+        "d": "Retina"
+      },
+      "one_liner": "The **iris** controls how much light passes through the pupil by changing its shape.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

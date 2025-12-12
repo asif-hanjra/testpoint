@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which logic gate has only one gate?",
+      "options": {
+        "a": "AND gate",
+        "b": "OR gate",
+        "c": "NOT gate",
+        "d": "NAND gate"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

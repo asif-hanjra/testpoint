@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many dwarf planets are there in our Solar System?",
+      "options": {
+        "a": "One",
+        "b": "Three",
+        "c": "Six",
+        "d": "Ten"
+      },
+      "one_liner": "There are **six dwarf planets** in our Solar System, not just Pluto.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

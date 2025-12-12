@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Lumped parameter circuit delay line is a ______ filter?",
+      "options": {
+        "a": "Low-pass filter",
+        "b": "High-pass filter",
+        "c": "Band-pass filter",
+        "d": "Notch filter"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

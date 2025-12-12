@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times has Dr. Linus Carl Pauling won the Nobel Prize?",
+      "options": {
+        "a": "Once",
+        "b": "Twice",
+        "c": "Thrice",
+        "d": "None of these"
+      },
+      "one_liner": "Dr. Linus Carl Pauling has achieved the rare distinction of winning the Nobel Prize **twice** in his lifetime.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

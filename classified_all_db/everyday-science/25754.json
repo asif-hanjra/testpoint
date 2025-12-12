@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary role of capillaries in the circulatory system?",
+      "options": {
+        "a": "Carry blood to the lungs",
+        "b": "Transfer oxygen and nutrients to tissues and collect waste",
+        "c": "Transport blood from the heart to organs",
+        "d": "None of these"
+      },
+      "one_liner": "The primary role of capillaries is to **transfer oxygen and nutrients from the bloodstream to tissues and collect carbon dioxide waste**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

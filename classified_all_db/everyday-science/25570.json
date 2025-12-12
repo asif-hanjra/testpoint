@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does reflection refer to in scientific terms?",
+      "options": {
+        "a": "Absorption",
+        "b": "Reflection",
+        "c": "Refraction",
+        "d": "Diffusion"
+      },
+      "one_liner": "In scientific terms, reflection refers to the fact of reflecting or the state of being reflected, which is known as **reflection**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

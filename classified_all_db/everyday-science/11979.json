@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main consequence of AIDS on the human body?",
+      "options": {
+        "a": "Failure of the immune system",
+        "b": "Hair loss",
+        "c": "Increased appetite",
+        "d": "None of these"
+      },
+      "one_liner": "AIDS leads to the **failure of the immune system**, making the body susceptible to life-threatening infections and cancers.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

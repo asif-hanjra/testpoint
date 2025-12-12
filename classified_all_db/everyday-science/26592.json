@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the increase in global temperature due to the Greenhouse effect called?",
+      "options": {
+        "a": "Global cooling",
+        "b": "Global warming",
+        "c": "Climate neutrality",
+        "d": "None of these"
+      },
+      "one_liner": "The rise in global temperature caused by the Greenhouse effect is known as **Global warming**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

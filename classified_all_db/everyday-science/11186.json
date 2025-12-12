@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the hardest substance present in the human body?",
+      "options": {
+        "a": "Bone",
+        "b": "Cartilage",
+        "c": "Dental enamel",
+        "d": "None of these"
+      },
+      "one_liner": "Dental enamel is considered the **hardest substance** found in the human body.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

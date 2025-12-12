@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Are both human lungs of the same size?",
+      "options": {
+        "a": "Yes, they are the same size",
+        "b": "No, they are not the same size",
+        "c": "Both are absent",
+        "d": "None of these"
+      },
+      "one_liner": "The two human lungs are **not of the same size**, as the left lung is slightly smaller than the right.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

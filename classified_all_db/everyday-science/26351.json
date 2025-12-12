@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which radioactive element is an important nuclear fuel?",
+      "options": {
+        "a": "Uranium",
+        "b": "Plutonium",
+        "c": "Thorium",
+        "d": "Radium"
+      },
+      "one_liner": "An important nuclear fuel, **uranium** is a naturally radioactive element.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

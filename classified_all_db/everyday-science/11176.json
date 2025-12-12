@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which material is more elastic: steel or rubber?",
+      "options": {
+        "a": "Steel",
+        "b": "Rubber",
+        "c": "Both are equally elastic",
+        "d": "None of these"
+      },
+      "one_liner": "In terms of elasticity, **steel** is more elastic than rubber.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

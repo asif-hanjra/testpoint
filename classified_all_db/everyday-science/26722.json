@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where does the main digestion and absorption of nutrients occur in the digestive system?",
+      "options": {
+        "a": "Mouth",
+        "b": "Stomach",
+        "c": "Small intestine",
+        "d": "Large intestine"
+      },
+      "one_liner": "The main digestion and absorption of nutrients such as vitamins, minerals, proteins, carbohydrates, and fats occur in the small intestine, making it a crucial part of the digestive system.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

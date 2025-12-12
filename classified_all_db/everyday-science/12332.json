@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For which scientific principle is Archimedes famous?",
+      "options": {
+        "a": "Pascal's Law",
+        "b": "Archimedes' Principle",
+        "c": "Newton's Law",
+        "d": "None of these"
+      },
+      "one_liner": "Archimedes is especially famous for formulating **Archimedes' Principle**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

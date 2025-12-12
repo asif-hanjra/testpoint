@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which acid is used in the preparation of soda or cold drinks?",
+      "options": {
+        "a": "Citric acid",
+        "b": "Carbonic acid",
+        "c": "Sulphuric acid",
+        "d": "Hydrochloric acid"
+      },
+      "one_liner": "The acid responsible for the fizz in soda and cold drinks is **carbonic acid**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

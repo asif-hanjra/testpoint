@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which form of carbon is used in pencils?",
+      "options": {
+        "a": "Diamond",
+        "b": "Graphite",
+        "c": "Buckyballs",
+        "d": "Charcoal"
+      },
+      "one_liner": "The form of carbon used in pencils is **graphite**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

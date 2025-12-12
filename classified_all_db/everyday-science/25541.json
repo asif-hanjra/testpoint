@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of medicine is used to treat people who have already been infected by a virus?",
+      "options": {
+        "a": "Antiviral",
+        "b": "Antibiotic",
+        "c": "Vaccine",
+        "d": "Painkiller"
+      },
+      "one_liner": "Medicines known as **antivirals** are used to treat individuals who are already infected by a virus.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

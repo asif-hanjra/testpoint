@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What mechanism allows blotting paper to absorb liquids?",
+      "options": {
+        "a": "Osmosis",
+        "b": "Diffusion",
+        "c": "Capillary action",
+        "d": "Evaporation"
+      },
+      "one_liner": "Blotting paper absorbs liquids due to the process known as **capillary action**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many joules are equivalent to 1 BTU?",
+      "options": {
+        "a": "1000 joules",
+        "b": "1055 joules",
+        "c": "1100 joules",
+        "d": "None of these"
+      },
+      "one_liner": "One BTU is exactly equal to **1055 joules**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

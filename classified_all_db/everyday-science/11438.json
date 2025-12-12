@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What scientific field did Alfred Russel's research, jointly published with Charles Darwin, focus on?",
+      "options": {
+        "a": "Genetics",
+        "b": "Evolution",
+        "c": "Chemistry",
+        "d": "None of these"
+      },
+      "one_liner": "The scientific field that Alfred Russel's research, jointly published with Charles Darwin, focused on was **evolution**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

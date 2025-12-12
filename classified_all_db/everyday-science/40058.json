@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In hydroelectric power production, what is used to move the turbines?",
+      "options": {
+        "a": "Wind energy",
+        "b": "Solar energy",
+        "c": "Kinetic energy of water",
+        "d": "Geothermal energy"
+      },
+      "one_liner": "In hydroelectric power production, the **kinetic energy of moving water** is used to move the turbines.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

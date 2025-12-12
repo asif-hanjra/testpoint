@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens during nuclear fusion?",
+      "options": {
+        "a": "Atoms are combined and energy is released",
+        "b": "Atoms are split and energy is absorbed",
+        "c": "Atoms remain unchanged",
+        "d": "None of these"
+      },
+      "one_liner": "During nuclear fusion, one atom is combined with another atom, resulting in the release of energy.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

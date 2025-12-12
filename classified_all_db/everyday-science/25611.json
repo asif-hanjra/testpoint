@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are xenon bulbs also known as?",
+      "options": {
+        "a": "LED bulbs",
+        "b": "Incandescent bulbs",
+        "c": "High intensity discharge bulbs",
+        "d": "Fluorescent bulbs"
+      },
+      "one_liner": "Xenon bulbs are also referred to as **high intensity discharge (HID) bulbs**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

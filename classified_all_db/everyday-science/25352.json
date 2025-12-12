@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why are sun rays able to pass through the greenhouse gases layer to reach the Earth?",
+      "options": {
+        "a": "They are weak longwave rays",
+        "b": "They are powerful shortwave length rays",
+        "c": "They are ultraviolet rays",
+        "d": "None of these"
+      },
+      "one_liner": "Sun rays can pass through the greenhouse gases layer because these rays are **powerful shortwave length rays** that penetrate the atmosphere effectively.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

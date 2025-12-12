@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term for the random thermal motion of atoms, molecules, clusters of atoms, etc., in gases, liquids, and some solids?",
+      "options": {
+        "a": "Diffraction",
+        "b": "Reflection",
+        "c": "Brownian motion",
+        "d": "Refraction"
+      },
+      "one_liner": "The random thermal motion of atoms, molecules, and clusters in gases, liquids, and some solids is known as **diffraction**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

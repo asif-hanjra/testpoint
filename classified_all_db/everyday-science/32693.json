@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The area of the parallelogram formed by A and B as two adjacent sides is equal to?",
+      "options": {
+        "a": "AB",
+        "b": "AB cos θ",
+        "c": "AB sin  θ",
+        "d": "AB tan θ"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

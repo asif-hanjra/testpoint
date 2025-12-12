@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where does the 0º line of longitude start?",
+      "options": {
+        "a": "Equator",
+        "b": "Prime meridian",
+        "c": "Tropic of Cancer",
+        "d": "International Date Line"
+      },
+      "one_liner": "The 0º line of longitude begins at the **prime meridian**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

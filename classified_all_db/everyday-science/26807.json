@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organ does a frog use for respiration besides its lungs?",
+      "options": {
+        "a": "Skin",
+        "b": "Heart",
+        "c": "Liver",
+        "d": "Stomach"
+      },
+      "one_liner": "The skin of a frog acts as a respiratory organ, allowing it to exchange gases directly with its environment.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

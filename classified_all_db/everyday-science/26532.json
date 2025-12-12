@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented the first practical telephone?",
+      "options": {
+        "a": "Thomas Edison",
+        "b": "Alexander Graham Bell",
+        "c": "Marconi",
+        "d": "Gregor Mendel"
+      },
+      "one_liner": "The first practical telephone was invented by **Alexander Graham Bell**, an American scientist.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

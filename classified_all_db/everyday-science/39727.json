@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to Newton's law of universal gravitation, the force between two particles is directly proportional to what?",
+      "options": {
+        "a": "Their volumes",
+        "b": "Their masses",
+        "c": "Their velocities",
+        "d": "Their temperatures"
+      },
+      "one_liner": "According to Newton's law of universal gravitation, the force between two particles is directly proportional to **their masses**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

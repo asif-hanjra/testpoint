@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following foods is a good source of carbohydrates?",
+      "options": {
+        "a": "Rice",
+        "b": "Meat",
+        "c": "Eggs",
+        "d": "Fish"
+      },
+      "one_liner": "Foods like **rice, wheat, chapati, and bread** are good sources of carbohydrates.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

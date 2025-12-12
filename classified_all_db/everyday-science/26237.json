@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are chromosomes primarily composed of?",
+      "options": {
+        "a": "Lipids",
+        "b": "Nucleoprotein",
+        "c": "Carbohydrates",
+        "d": "None of these"
+      },
+      "one_liner": "Chromosomes are primarily composed of nucleoprotein, which is arranged into units called genes, so the correct answer is **nucleoprotein**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which state of matter is the speed of sound the greatest?",
+      "options": {
+        "a": "Solids",
+        "b": "Liquids",
+        "c": "Gases",
+        "d": "None of these"
+      },
+      "one_liner": "The speed of sound is greatest in **solids** compared to liquids and gases.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

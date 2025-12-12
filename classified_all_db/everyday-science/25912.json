@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main constituent of biogas?",
+      "options": {
+        "a": "Methane",
+        "b": "Ethane",
+        "c": "Propane",
+        "d": "Butane"
+      },
+      "one_liner": "The main constituent of biogas is **Methane**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

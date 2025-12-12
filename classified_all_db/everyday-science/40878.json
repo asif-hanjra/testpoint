@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which nutrients are pregnant women most commonly deficient in?",
+      "options": {
+        "a": "Calcium and iron",
+        "b": "Vitamin C and D",
+        "c": "Potassium and sodium",
+        "d": "None of these"
+      },
+      "one_liner": "Pregnant women are particularly prone to deficiencies in **calcium** and **iron** during pregnancy.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

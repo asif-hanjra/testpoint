@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How is cholera typically treated?",
+      "options": {
+        "a": "Antibiotics",
+        "b": "Hydration",
+        "c": "Surgery",
+        "d": "None of these"
+      },
+      "one_liner": "Cholera is typically treated by **hydrating the infected individual**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

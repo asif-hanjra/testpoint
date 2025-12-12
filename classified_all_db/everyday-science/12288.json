@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How much blood does the human body typically contain?",
+      "options": {
+        "a": "3-4 liters",
+        "b": "5-6 liters",
+        "c": "7-8 liters",
+        "d": "None of these"
+      },
+      "one_liner": "The human body typically contains about **5-6 liters** of blood.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

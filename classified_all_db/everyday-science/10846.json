@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Bronze is an alloy made from which two metals?",
+      "options": {
+        "a": "Copper and Zinc",
+        "b": "Copper and Tin",
+        "c": "Copper and Lead",
+        "d": "Copper and Iron"
+      },
+      "one_liner": "Bronze is an alloy that is primarily composed of **Copper and Tin**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

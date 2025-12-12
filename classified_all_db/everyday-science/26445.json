@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the chemical formula for table salt?",
+      "options": {
+        "a": "NaCl",
+        "b": "Na2CO3",
+        "c": "NaHCO3",
+        "d": "CaCl2"
+      },
+      "one_liner": "Table salt, commonly used in food, has the chemical formula **NaCl**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

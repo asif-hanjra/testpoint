@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why does the sun appear red at sunrise and sunset?",
+      "options": {
+        "a": "Due to reflection",
+        "b": "Due to refraction",
+        "c": "Due to scattering of light",
+        "d": "None of these"
+      },
+      "one_liner": "The sun appears red at sunrise and sunset because of the scattering of light by dust particles and air molecules, which allows only the longer wavelength red light to reach our eyes.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

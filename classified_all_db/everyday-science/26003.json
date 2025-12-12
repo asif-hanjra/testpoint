@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organization downgraded the status of Pluto to that of a 'dwarf planet'?",
+      "options": {
+        "a": "NASA",
+        "b": "International Astronomical Union (IAU)",
+        "c": "European Space Agency",
+        "d": "None of these"
+      },
+      "one_liner": "The International Astronomical Union (IAU) is the organization that downgraded the status of Pluto to a 'dwarf planet'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

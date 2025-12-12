@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Chlorofluorocarbons, which cause ozone depletion, are commonly used in which of the following products?",
+      "options": {
+        "a": "Spray cans and refrigerators",
+        "b": "Automobiles and airplanes",
+        "c": "Batteries and bulbs",
+        "d": "None of these"
+      },
+      "one_liner": "Chlorofluorocarbons, which contribute to ozone depletion, are widely used in **spray cans and refrigerators**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

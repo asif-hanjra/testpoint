@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which instrument is used to measure the amount of water vapors in the atmosphere?",
+      "options": {
+        "a": "Barometer",
+        "b": "Hygrometer",
+        "c": "Thermometer",
+        "d": "Anemometer"
+      },
+      "one_liner": "A **hygrometer** is the scientific instrument used to measure the amount of water vapors present in the atmosphere.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

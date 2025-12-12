@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How long does it take for the Earth to rotate once around its axis?",
+      "options": {
+        "a": "12 hours",
+        "b": "24 hours",
+        "c": "48 hours",
+        "d": "365 days"
+      },
+      "one_liner": "The Earth takes **24 hours** to rotate once around its axis.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

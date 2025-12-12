@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to Newton's Second Law of Motion, what happens when a force acts on an object?",
+      "options": {
+        "a": "Stop",
+        "b": "Accelerate",
+        "c": "Remain at rest",
+        "d": "None of these"
+      },
+      "one_liner": "According to Newton's Second Law of Motion, when a force acts on an object, it causes the object to **accelerate**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

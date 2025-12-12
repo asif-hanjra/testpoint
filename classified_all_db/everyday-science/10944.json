@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Italian city was the birthplace of Galileo Galilei?",
+      "options": {
+        "a": "Florence",
+        "b": "Venice",
+        "c": "Pisa",
+        "d": "Rome"
+      },
+      "one_liner": "Galileo Galilei was born in the Italian city of **Pisa**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

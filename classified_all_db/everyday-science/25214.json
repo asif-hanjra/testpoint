@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the title of the book written by Charles Darwin that is famous for outlining his theory of evolution?",
+      "options": {
+        "a": "The Descent of Man",
+        "b": "On the Origin of Species",
+        "c": "The Double Helix",
+        "d": "None of these"
+      },
+      "one_liner": "Charles Darwin wrote the influential book \"On the Origin of Species,\" which outlines his theory of evolution.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Three Best-Known Greek Philosophers",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the two parts found behind the cornea in the coloured part of the eye?",
+      "options": {
+        "a": "Sclera and retina",
+        "b": "Iris and pupil",
+        "c": "Lens and retina",
+        "d": "None of these"
+      },
+      "one_liner": "Behind the cornea, the coloured part of the eye consists of the **iris and the pupil**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

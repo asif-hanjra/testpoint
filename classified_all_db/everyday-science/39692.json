@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many degrees does the Earth rotate in 24 hours?",
+      "options": {
+        "a": "180°",
+        "b": "360°",
+        "c": "90°",
+        "d": "24°"
+      },
+      "one_liner": "The Earth completes a full rotation of **360°** in 24 hours.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

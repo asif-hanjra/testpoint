@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of hepatitis can cause chronic liver disease?",
+      "options": {
+        "a": "Hepatitis A",
+        "b": "Hepatitis B",
+        "c": "Hepatitis C",
+        "d": "None of these"
+      },
+      "one_liner": "Hepatitis B is a contagious viral infection that can **cause chronic liver disease**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

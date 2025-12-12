@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the color of chlorine gas?",
+      "options": {
+        "a": "Colorless",
+        "b": "Greenish",
+        "c": "Yellow",
+        "d": "Blue"
+      },
+      "one_liner": "Chlorine gas is characterized by its distinctive **greenish** color.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

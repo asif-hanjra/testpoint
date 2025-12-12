@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which noble gas is present in the atmosphere at about 0.9%?",
+      "options": {
+        "a": "Neon",
+        "b": "Krypton",
+        "c": "Argon",
+        "d": "Xenon"
+      },
+      "one_liner": "Argon is the noble gas that constitutes about **0.9%** of Earth's atmosphere.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

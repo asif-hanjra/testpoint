@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which gas is commonly known as laughing gas?",
+      "options": {
+        "a": "Nitrous Oxide",
+        "b": "Carbon Dioxide",
+        "c": "Oxygen",
+        "d": "Ammonia"
+      },
+      "one_liner": "The gas popularly referred to as laughing gas is **Nitrous Oxide**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

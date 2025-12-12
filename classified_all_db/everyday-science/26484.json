@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the universe contain?",
+      "options": {
+        "a": "All galaxies",
+        "b": "Only the Milky Way",
+        "c": "Only stars",
+        "d": "None of these"
+      },
+      "one_liner": "The universe is defined as the entity that contains **all galaxies**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Galaxy",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

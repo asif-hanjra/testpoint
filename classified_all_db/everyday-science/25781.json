@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "If both parents have blood type AB, what are the possible ABO blood types for their child?",
+      "options": {
+        "a": "A, B, or AB",
+        "b": "A or O",
+        "c": "A, B, AB, or O",
+        "d": "O only"
+      },
+      "one_liner": "When both parents are blood type AB, their child can be **A, B, or AB** but not O.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

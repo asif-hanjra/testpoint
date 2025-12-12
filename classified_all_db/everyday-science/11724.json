@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of radiation among alpha, beta, and gamma particles has no electric charge?",
+      "options": {
+        "a": "Alpha particles",
+        "b": "Beta particles",
+        "c": "Gamma particles",
+        "d": "None of these"
+      },
+      "one_liner": "Gamma particles are unique among alpha, beta, and gamma radiations because they have **no electric charge**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

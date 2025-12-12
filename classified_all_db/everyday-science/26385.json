@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the brain receive from nerves and spinal cord?",
+      "options": {
+        "a": "Blood",
+        "b": "Impulses",
+        "c": "Hormones",
+        "d": "None of these"
+      },
+      "one_liner": "The brain receives **impulses from nerves and the spinal cord**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

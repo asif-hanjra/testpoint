@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What process do plants use to produce sugar and starch using sunlight?",
+      "options": {
+        "a": "Respiration",
+        "b": "Photosynthesis",
+        "c": "Transpiration",
+        "d": "Fermentation"
+      },
+      "one_liner": "Plants produce sugar and starch by means of sunlight through the process of **photosynthesis**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

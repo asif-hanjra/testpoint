@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What roles did Florence Nightingale serve during the Crimean War?",
+      "options": {
+        "a": "Manager and trainer of nurses",
+        "b": "Medical doctor",
+        "c": "Ambulance driver",
+        "d": "None of these"
+      },
+      "one_liner": "Florence Nightingale served as both a manager and trainer of nurses during the **Crimean War**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are chemical substances that increase the earth's surface temperature commonly known as?",
+      "options": {
+        "a": "Greenhouse gases",
+        "b": "Acids",
+        "c": "Bases",
+        "d": "Salts"
+      },
+      "one_liner": "Chemical substances that raise the earth's surface temperature are referred to as **Greenhouse gases**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

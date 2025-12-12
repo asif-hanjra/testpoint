@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If we have \"No\" number of any radioactive element then after a period of \"n\" half-lives the number of atoms left behind is?",
+      "options": {
+        "a": "(2No)^n",
+        "b": "(1/2 No)^n",
+        "c": "2^n No",
+        "d": "(1/2)^n No"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

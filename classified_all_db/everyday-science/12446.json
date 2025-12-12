@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which nutrients are most likely to be affected by food processing and storage?",
+      "options": {
+        "a": "Proteins",
+        "b": "Vitamins",
+        "c": "Carbohydrates",
+        "d": "Fats"
+      },
+      "one_liner": "Vitamins are the nutrients most likely to be affected by food processing and storage, making them sensitive to such changes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

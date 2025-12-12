@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What instrument is used to measure atmospheric pressure?",
+      "options": {
+        "a": "Barometer",
+        "b": "Thermometer",
+        "c": "Hygrometer",
+        "d": "Anemometer"
+      },
+      "one_liner": "A barometer is an instrument specifically designed to measure **atmospheric pressure**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

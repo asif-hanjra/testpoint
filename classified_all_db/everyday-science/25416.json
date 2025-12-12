@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of resource are fossil fuels classified as?",
+      "options": {
+        "a": "Renewable",
+        "b": "Non-renewable",
+        "c": "Inexhaustible",
+        "d": "None of these"
+      },
+      "one_liner": "Fossil fuels are classified as **non-renewable resources** because they cannot be replenished within a human timescale.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

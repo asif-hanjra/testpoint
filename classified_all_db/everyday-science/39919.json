@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which vitamin is produced by the body and is not found in fruits and vegetables?",
+      "options": {
+        "a": "Vitamin C",
+        "b": "Vitamin B12",
+        "c": "Vitamin D",
+        "d": "Vitamin A"
+      },
+      "one_liner": "Vitamin B12 is unique because it is produced by the body and is not present in fruits and vegetables, making **Vitamin B12** the correct answer.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

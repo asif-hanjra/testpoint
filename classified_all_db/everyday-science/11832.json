@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a likely consequence of a decrease in platelets in dengue patients?",
+      "options": {
+        "a": "Swelling",
+        "b": "Bleeding",
+        "c": "Fever",
+        "d": "None of these"
+      },
+      "one_liner": "A decrease in platelets in dengue patients would result in **bleeding**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

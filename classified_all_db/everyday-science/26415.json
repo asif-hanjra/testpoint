@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does neurosis refer to?",
+      "options": {
+        "a": "A mental imbalance causing distress without loss of rational thought",
+        "b": "A type of psychosis",
+        "c": "A physical illness",
+        "d": "None of these"
+      },
+      "one_liner": "Neurosis refers to any mental imbalance that causes distress but does not interfere with rational thought or daily functioning.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

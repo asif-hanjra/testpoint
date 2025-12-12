@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which college did Isaac Newton attend?",
+      "options": {
+        "a": "Oxford College",
+        "b": "Harvard College",
+        "c": "Cambridge College",
+        "d": "Yale College"
+      },
+      "one_liner": "Isaac Newton attended **Cambridge College** during his academic career.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

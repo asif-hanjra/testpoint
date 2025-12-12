@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which units are commonly used to measure velocity?",
+      "options": {
+        "a": "Kilograms",
+        "b": "Metres per second",
+        "c": "Joules",
+        "d": "None of these"
+      },
+      "one_liner": "Velocity is commonly measured in units such as **metres per second** or **miles per hour**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

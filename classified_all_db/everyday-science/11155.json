@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which material among the following is an insulator and not a conductor?",
+      "options": {
+        "a": "Mica",
+        "b": "Silver",
+        "c": "Copper",
+        "d": "Gold"
+      },
+      "one_liner": "**Mica** is an example of an insulator and is not a conductor of electricity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

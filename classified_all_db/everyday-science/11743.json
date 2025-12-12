@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "If one parent is blood type A and the other is blood type O, what are the possible ABO blood types for their child?",
+      "options": {
+        "a": "A or O",
+        "b": "A only",
+        "c": "O only",
+        "d": "A, B, AB, or O"
+      },
+      "one_liner": "A child with one parent of blood type A and the other of blood type O can only be **A** or **O**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which process is used to convert cooking oil into vegetable ghee?",
+      "options": {
+        "a": "Fermentation",
+        "b": "Hydrogenation",
+        "c": "Distillation",
+        "d": "Oxidation"
+      },
+      "one_liner": "Cooking oil is converted into vegetable ghee by the process of **Hydrogenation**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

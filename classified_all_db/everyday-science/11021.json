@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are examples of non-metallic elements?",
+      "options": {
+        "a": "Iron, copper, sodium, magnesium",
+        "b": "Carbon, hydrogen, oxygen, nitrogen",
+        "c": "Gold, silver, platinum, mercury",
+        "d": "None of these"
+      },
+      "one_liner": "Carbon, hydrogen, oxygen, and nitrogen are all examples of **non-metallic elements**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

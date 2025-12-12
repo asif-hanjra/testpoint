@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What condition may develop in adults due to Vitamin D deficiency?",
+      "options": {
+        "a": "Osteomalacia",
+        "b": "Rickets",
+        "c": "Scurvy",
+        "d": "None of these"
+      },
+      "one_liner": "In adults, a deficiency of Vitamin D may cause **osteomalacia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

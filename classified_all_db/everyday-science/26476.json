@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How is Hepatitis B transmitted?",
+      "options": {
+        "a": "Air",
+        "b": "Blood or bodily fluids",
+        "c": "Food",
+        "d": "None of these"
+      },
+      "one_liner": "Hepatitis B spreads through **blood or bodily fluids**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

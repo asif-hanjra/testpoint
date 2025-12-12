@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is renowned for his contributions to the field of Chemistry?",
+      "options": {
+        "a": "Ibn Sina",
+        "b": "Al-Khwarizmi",
+        "c": "Jabir ibn Haiyan",
+        "d": "Al-Razi"
+      },
+      "one_liner": "The scientist widely recognized for his pioneering work in Chemistry is **Jabir ibn Haiyan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

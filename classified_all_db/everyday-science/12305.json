@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book \"A Brief History of Time\"?",
+      "options": {
+        "a": "Stephen Hawking",
+        "b": "Albert Einstein",
+        "c": "Isaac Newton",
+        "d": "Carl Sagan"
+      },
+      "one_liner": "The renowned physicist **Stephen Hawking** wrote the book \"A Brief History of Time\".",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

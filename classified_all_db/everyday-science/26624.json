@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is catabolism?",
+      "options": {
+        "a": "A constructive process",
+        "b": "A destructive process",
+        "c": "A neutral process",
+        "d": "None of these"
+      },
+      "one_liner": "Catabolism is a **destructive set of chemical reactions** that break down large molecules into smaller ones.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

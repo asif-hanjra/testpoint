@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the functional unit of the kidney in the human body?",
+      "options": {
+        "a": "Neuron",
+        "b": "Nephron",
+        "c": "Alveolus",
+        "d": "Osteon"
+      },
+      "one_liner": "The nephron serves as the **functional unit of the kidney** in the human body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

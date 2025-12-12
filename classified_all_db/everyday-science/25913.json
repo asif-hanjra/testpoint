@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following statements about radon is correct?",
+      "options": {
+        "a": "Radon is a radioactive noble gas.",
+        "b": "Radon is a metallic element.",
+        "c": "Radon is a coloured gas.",
+        "d": "Radon has a strong odour."
+      },
+      "one_liner": "Radon is a radioactive, colourless, odourless, tasteless noble gas that is classified as a non-metal element.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

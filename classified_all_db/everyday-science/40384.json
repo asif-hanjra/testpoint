@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which instrument is used to measure water humidity?",
+      "options": {
+        "a": "Barometer",
+        "b": "Hygrometer",
+        "c": "Thermometer",
+        "d": "Anemometer"
+      },
+      "one_liner": "The instrument used to measure water humidity is the **hygrometer**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

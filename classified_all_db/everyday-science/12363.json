@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which layer of the atmosphere do seasons and clouds occur?",
+      "options": {
+        "a": "Stratosphere",
+        "b": "Mesosphere",
+        "c": "Troposphere",
+        "d": "Thermosphere"
+      },
+      "one_liner": "Seasons and clouds are phenomena that occur within the **troposphere** layer of the atmosphere.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

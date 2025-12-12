@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Newton's third law of motion states that for every action, there is an equal and opposite reaction. Which of the following statements can be inferred from the above-mentioned law of motion? Statement 1: For every interaction, there is a pair of forces acting on the two interacting objects., Statement 2: The magnitude of the force on the first object equal the magnitude of the force on the second object., Statement 3: Forces always comes in pairs - equal and opposite action reaction force pairs., Statement 4: Action and its reaction act on two same bodies., Statement 5: Action and its reaction act on two different bodies.",
+      "options": {
+        "a": "Only 1st statement can be inferred from 3rd Law of Motion",
+        "b": "All statement except 4th can be inferred from 3rd Law of Motion",
+        "c": "All statement except 5th can be inferred from 3rd Law of Motion",
+        "d": "All statements can be inferred from 3rd Law of Motion"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

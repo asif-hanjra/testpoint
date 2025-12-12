@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was DNA polymerase discovered from the cell of E. coli?",
+      "options": {
+        "a": "1944",
+        "b": "1956",
+        "c": "1962",
+        "d": "1970"
+      },
+      "one_liner": "DNA polymerase was discovered from the cell of E. coli in the year **1956**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How do snakes primarily perceive sound?",
+      "options": {
+        "a": "Through their skin",
+        "b": "Through their tongue",
+        "c": "Through their eyes",
+        "d": "Through their nostrils"
+      },
+      "one_liner": "Unlike humans, snakes primarily perceive sound vibrations through their **skin** rather than through external ears.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

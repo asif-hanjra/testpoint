@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the reason behind the glitter of diamond?",
+      "options": {
+        "a": "Its hardness",
+        "b": "Its ability to reflect light",
+        "c": "Its color",
+        "d": "None of these"
+      },
+      "one_liner": "The glitter of diamond is attributed to its exceptional ability to **reflect light**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

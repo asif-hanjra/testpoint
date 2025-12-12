@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of microorganism causes cholera?",
+      "options": {
+        "a": "Virus",
+        "b": "Fungus",
+        "c": "Bacteria",
+        "d": "Protozoa"
+      },
+      "one_liner": "Cholera is a disease that is specifically caused by the bacterium **Vibrio cholerae**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

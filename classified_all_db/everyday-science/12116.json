@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary use of heavy water in an atomic reactor?",
+      "options": {
+        "a": "Coolant",
+        "b": "Fuel",
+        "c": "Moderator",
+        "d": "Shield"
+      },
+      "one_liner": "Heavy water is primarily used as a moderator in atomic reactors, helping to slow down neutrons during the nuclear fission process.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

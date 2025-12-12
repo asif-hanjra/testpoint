@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where does the Aedes aegypti mosquito typically live?",
+      "options": {
+        "a": "Urban habitats and clean water",
+        "b": "Forests and dirty water",
+        "c": "Deserts",
+        "d": "None of these"
+      },
+      "one_liner": "The Aedes aegypti mosquito, which spreads dengue, typically lives in **urban habitats and clean water**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

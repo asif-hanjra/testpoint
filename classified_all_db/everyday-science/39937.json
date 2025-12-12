@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the approximate percentage of oxygen in atmospheric air?",
+      "options": {
+        "a": "16%",
+        "b": "21%",
+        "c": "78%",
+        "d": "1%"
+      },
+      "one_liner": "Atmospheric air contains approximately **21%** oxygen by volume.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

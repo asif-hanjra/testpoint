@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the SI unit of power?",
+      "options": {
+        "a": "Joule",
+        "b": "Watt",
+        "c": "Kilowatt hour",
+        "d": "None of these"
+      },
+      "one_liner": "The SI unit of power is the **Watt**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

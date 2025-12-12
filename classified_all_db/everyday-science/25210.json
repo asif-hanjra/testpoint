@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the density of water in kg/m3?",
+      "options": {
+        "a": "100 kg/m3",
+        "b": "500 kg/m3",
+        "c": "1000 kg/m3",
+        "d": "2000 kg/m3"
+      },
+      "one_liner": "The density of water is commonly accepted as **1000 kg/m3** under standard conditions.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

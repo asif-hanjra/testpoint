@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is helium commonly used in weather balloons?",
+      "options": {
+        "a": "It is heavier than air",
+        "b": "It is lighter than air",
+        "c": "It is toxic",
+        "d": "None of these"
+      },
+      "one_liner": "Helium is used in weather balloons because it is **lighter than air**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

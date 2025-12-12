@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which enzyme is responsible for digesting starch in the human body?",
+      "options": {
+        "a": "Lipase",
+        "b": "Protease",
+        "c": "Amylase",
+        "d": "None of these"
+      },
+      "one_liner": "The enzyme responsible for digesting starch in the human body is **amylase**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

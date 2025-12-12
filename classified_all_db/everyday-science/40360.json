@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term used for animals that feed on plants and their products?",
+      "options": {
+        "a": "Carnivores",
+        "b": "Herbivores",
+        "c": "Omnivores",
+        "d": "None of these"
+      },
+      "one_liner": "Animals that feed on plants and their products are known as **herbivores**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

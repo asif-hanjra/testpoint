@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For what purpose is nitrous oxide commonly used in the medical field?",
+      "options": {
+        "a": "Surgery",
+        "b": "Dental treatment",
+        "c": "Eye treatment",
+        "d": "None of these"
+      },
+      "one_liner": "Nitrous oxide, or laughing gas, is commonly used in **dental treatment**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

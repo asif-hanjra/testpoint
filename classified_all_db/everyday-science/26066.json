@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is responsible for the sun's color changes at different times of the day?",
+      "options": {
+        "a": "Reflection by clouds",
+        "b": "Scattering by dust and air molecules",
+        "c": "Absorption by ozone",
+        "d": "None of these"
+      },
+      "one_liner": "The color changes of the sun at different times of the day are mainly due to the scattering of light by dust particles and air molecules in the atmosphere.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

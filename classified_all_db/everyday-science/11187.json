@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the process of chewing called?",
+      "options": {
+        "a": "Deglutition",
+        "b": "Mastication",
+        "c": "Peristalsis",
+        "d": "Digestion"
+      },
+      "one_liner": "The process of chewing is scientifically known as **Mastication**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

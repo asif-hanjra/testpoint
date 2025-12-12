@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which acid is strong enough that a single drop can cause severe skin damage?",
+      "options": {
+        "a": "Citric acid",
+        "b": "Carbonic acid",
+        "c": "Sulphuric acid",
+        "d": "Hydrochloric acid"
+      },
+      "one_liner": "Even a single drop of **sulphuric acid** can cause serious damage to the skin due to its strong corrosive properties.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

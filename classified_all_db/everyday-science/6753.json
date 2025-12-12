@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the divergence of the vector field f = 3x^2i + 5xyj + xyz^3kA at the point (1, 2, 3)?",
+      "options": {
+        "a": "65",
+        "b": "80",
+        "c": "89",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the characteristics of the image formed by a camera using a convex lens?",
+      "options": {
+        "a": "Virtual, upright, magnified",
+        "b": "Real, inverted, diminished",
+        "c": "Virtual, inverted, diminished",
+        "d": "None of these"
+      },
+      "one_liner": "The image formed by a camera using a convex lens is **real, inverted, and diminished**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

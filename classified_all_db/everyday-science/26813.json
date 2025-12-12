@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many kingdoms are recognized in the modern classification system?",
+      "options": {
+        "a": "Five",
+        "b": "Six",
+        "c": "Seven",
+        "d": "Four"
+      },
+      "one_liner": "The modern classification system recognizes **six kingdoms**: Animalia, Plantae, Fungi, Protista, Archaea/Archaebacteria, and Bacteria/Eubacteria.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

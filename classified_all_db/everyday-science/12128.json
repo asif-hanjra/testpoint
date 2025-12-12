@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the percentage of oxygen in the Earth's crust?",
+      "options": {
+        "a": "11.9%",
+        "b": "46.6%",
+        "c": "88.1%",
+        "d": "4%"
+      },
+      "one_liner": "Oxygen constitutes **46.6%** of the Earth's crust, making it the most prevalent element.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

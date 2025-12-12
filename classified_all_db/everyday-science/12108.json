@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What device converts the wind's kinetic energy into electrical energy?",
+      "options": {
+        "a": "Solar panel",
+        "b": "Wind turbine",
+        "c": "Hydroelectric dam",
+        "d": "Thermal generator"
+      },
+      "one_liner": "A **wind turbine** is the device that converts the wind's kinetic energy into electrical energy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

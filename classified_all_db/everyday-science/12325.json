@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which function is controlled by the adrenal glands?",
+      "options": {
+        "a": "Quantity of glucose in blood",
+        "b": "Production of saliva",
+        "c": "Regulation of body temperature",
+        "d": "Release of digestive enzymes"
+      },
+      "one_liner": "The adrenal glands control the quantity of glucose in the blood, which is vital for energy and metabolic balance.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

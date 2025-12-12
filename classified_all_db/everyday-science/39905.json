@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "DNA polymerase was first discovered from the cell of which organism in 1956?",
+      "options": {
+        "a": "Yeast",
+        "b": "E. coli",
+        "c": "Bacillus subtilis",
+        "d": "None of these"
+      },
+      "one_liner": "The first discovery of DNA polymerase in 1956 was made from the cell of **E. coli**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

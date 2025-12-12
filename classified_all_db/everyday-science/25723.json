@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term for the heat received by the Earth from the Sun?",
+      "options": {
+        "a": "Solar wind",
+        "b": "Solar radiation",
+        "c": "Solar eclipse",
+        "d": "None of these"
+      },
+      "one_liner": "The heat that the Earth receives from the Sun is called **solar radiation**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

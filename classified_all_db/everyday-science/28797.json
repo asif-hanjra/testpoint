@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Consider the given reaction: N₂ + 3H₂ → 2NH₃ If 56 g of N₂ reacts with 12 g of H₂ and produces 51 g of NH₃, what is the theoretical yield (TY) of NH₃ and the percentage yield (PY) of the reaction? (Molar mass of N₂ = 28 g/mol, H₂ = 2 g/mol and NH₃ = 17 g/mol)",
+      "options": {
+        "a": "TY = 34 g and PY = 33%",
+        "b": "TY = 68 g and PY = 75%",
+        "c": "TY = 34 g and PY = 75%",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

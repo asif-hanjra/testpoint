@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "MRI is mostly used to detect problems in which part of the body?",
+      "options": {
+        "a": "Bones",
+        "b": "Brain and nervous system",
+        "c": "Lungs",
+        "d": "Stomach"
+      },
+      "one_liner": "MRI is most commonly used to detect problems in the **brain and nervous system**, such as brain tumours.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

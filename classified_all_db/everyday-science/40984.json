@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is true about baking soda?",
+      "options": {
+        "a": "It contains acidifying agents",
+        "b": "It contains drying agents",
+        "c": "It is pure sodium bicarbonate",
+        "d": "None of these"
+      },
+      "one_liner": "Baking soda is pure **sodium bicarbonate** without any added acidifying or drying agents.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

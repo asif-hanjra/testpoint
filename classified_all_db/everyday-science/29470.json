@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "How does differential thermal analysis (DTA) differ from differential scanning calorimetry (DSC)?",
+      "options": {
+        "a": "DTA measures changes in temperature while DSC measures changes in heat flow",
+        "b": "DTA and DSC are the same technique used interchangeably",
+        "c": "DTA measures changes in heat flow",
+        "d": "while DSC measures changes in temperature"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

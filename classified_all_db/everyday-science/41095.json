@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is an example of an insulator in gaseous form?",
+      "options": {
+        "a": "Dry air",
+        "b": "Oxygen",
+        "c": "Hydrogen",
+        "d": "Nitrogen"
+      },
+      "one_liner": "**Dry air** is an example of a gaseous insulator, preventing the flow of electric current.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

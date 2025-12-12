@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Roman god is the planet Neptune named after?",
+      "options": {
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Venus"
+      },
+      "one_liner": "The planet Neptune derives its name from the Roman god of the sea, **Neptune**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

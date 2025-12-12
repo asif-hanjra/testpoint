@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How are the four chambers of the heart arranged?",
+      "options": {
+        "a": "All in a line",
+        "b": "Two above two",
+        "c": "Three above one",
+        "d": "None of these"
+      },
+      "one_liner": "The four chambers of the heart are arranged with **two chambers sitting at the top of the other two**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

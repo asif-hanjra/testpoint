@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is considered the founder of modern nursing?",
+      "options": {
+        "a": "Florence Nightingale",
+        "b": "Marie Curie",
+        "c": "Clara Barton",
+        "d": "None of these"
+      },
+      "one_liner": "The founder of modern nursing is **Florence Nightingale**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

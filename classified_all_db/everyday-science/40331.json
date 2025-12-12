@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organ is primarily affected by Parkinson's disease?",
+      "options": {
+        "a": "Heart",
+        "b": "Brain",
+        "c": "Lungs",
+        "d": "Liver"
+      },
+      "one_liner": "Parkinson's disease primarily affects the **brain**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the typical form of DNA found in Eubacteria?",
+      "options": {
+        "a": "Multiple linear chromosomes",
+        "b": "Single circular chromosome",
+        "c": "Double-stranded RNA",
+        "d": "None of these"
+      },
+      "one_liner": "The DNA of Eubacteria is typically found as a **single circular chromosome** within the cell.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the orbital path of comets in the solar system?",
+      "options": {
+        "a": "Jupiter",
+        "b": "Earth",
+        "c": "Sun",
+        "d": "None of these"
+      },
+      "one_liner": "Comets follow an orbital path around the **Sun** in our solar system.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Galaxy",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

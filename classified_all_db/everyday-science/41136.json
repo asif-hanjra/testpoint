@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which statement is true about the physical state and sources of fats and oils?",
+      "options": {
+        "a": "Oils are solid and from animals; fats are liquid and from plants",
+        "b": "Oils are liquid and from plants; fats are solid and from animals",
+        "c": "Both are liquid and from plants",
+        "d": "Both are solid and from animals"
+      },
+      "one_liner": "**Oils are in liquid form and obtained from plants, while fats are solid and obtained from animals.**",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

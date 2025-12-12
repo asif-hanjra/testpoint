@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the small finger-like structures in the small intestine called?",
+      "options": {
+        "a": "Villi",
+        "b": "Cilia",
+        "c": "Alveoli",
+        "d": "Papillae"
+      },
+      "one_liner": "The small finger-like structures found in the small intestine are known as **villi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

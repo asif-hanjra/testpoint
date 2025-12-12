@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which test is used in tennis to check the fitness of players?",
+      "options": {
+        "a": "Dyer test",
+        "b": "Cooper test",
+        "c": "Yo-Yo test",
+        "d": "Beep test"
+      },
+      "one_liner": "The Dyer test is specifically used in tennis to assess the fitness of players, making it a key tool in the sport's training regimen.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

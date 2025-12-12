@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which injection is used for the treatment of tuberculosis?",
+      "options": {
+        "a": "Polio vaccine",
+        "b": "Tetanus toxoid",
+        "c": "BCG injection",
+        "d": "Rabies vaccine"
+      },
+      "one_liner": "The **BCG injection** is used for the treatment and prevention of tuberculosis.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

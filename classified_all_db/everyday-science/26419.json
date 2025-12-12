@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which acid is used in a car battery?",
+      "options": {
+        "a": "Hydrochloric Acid",
+        "b": "Nitric Acid",
+        "c": "Sulphuric Acid",
+        "d": "Acetic Acid"
+      },
+      "one_liner": "The acid commonly used in car batteries is **Sulphuric Acid**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

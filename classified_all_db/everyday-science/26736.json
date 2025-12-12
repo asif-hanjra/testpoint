@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is the second most abundant in the Earth's crust after oxygen?",
+      "options": {
+        "a": "Iron",
+        "b": "Aluminum",
+        "c": "Silicon",
+        "d": "Calcium"
+      },
+      "one_liner": "After oxygen, **silicon** is the second most abundant element in the Earth's crust.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

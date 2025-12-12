@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the partially digested food that enters the small intestine after leaving the stomach?",
+      "options": {
+        "a": "Chime",
+        "b": "Bolus",
+        "c": "Bile",
+        "d": "None of these"
+      },
+      "one_liner": "The partially digested food that moves from the stomach into the small intestine is known as **chime**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

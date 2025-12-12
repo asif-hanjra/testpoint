@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happens to the waste parts of food that the body can't use?",
+      "options": {
+        "a": "Absorbed in small intestine",
+        "b": "Stored in gallbladder",
+        "c": "Sent to large intestine and out through anus",
+        "d": "Filtered by pancreas"
+      },
+      "one_liner": "The waste parts of food that the body can't use are sent to the large intestine, which eventually pushes them to the rectum and out through the anus.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

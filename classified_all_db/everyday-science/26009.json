@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What structure is formed by the centrosome during cell division?",
+      "options": {
+        "a": "Chromosomes",
+        "b": "Spindles",
+        "c": "Nucleus",
+        "d": "Mitochondria"
+      },
+      "one_liner": "During cell division, the centrosome is responsible for forming the **spindles**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

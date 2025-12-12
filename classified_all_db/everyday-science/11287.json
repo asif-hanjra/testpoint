@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of antibiotic is penicillin classified as?",
+      "options": {
+        "a": "Broad spectrum",
+        "b": "Narrow spectrum",
+        "c": "All of these",
+        "d": "None of these"
+      },
+      "one_liner": "**Penicillin** is classified as a narrow spectrum antibiotic.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

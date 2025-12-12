@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which atomic spectroscopy technique is commonly used for the analysis of trace elements in biological samples?",
+      "options": {
+        "a": "Flame atomic absorption spectroscopy (FAAS)",
+        "b": "Inductively coupled plasma optical emission spectroscopy (ICP-OES)",
+        "c": "Atomic fluorescence spectroscopy (AFS)",
+        "d": "X-ray photoelectron spectroscopy (XPS)"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

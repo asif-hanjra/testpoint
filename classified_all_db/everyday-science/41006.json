@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Refraction occurs when a wave passes from one medium to another; what property of the wave changes in the new medium?",
+      "options": {
+        "a": "Frequency",
+        "b": "Velocity",
+        "c": "Amplitude",
+        "d": "Wavelength"
+      },
+      "one_liner": "When a wave undergoes refraction by passing from one medium to another, its **velocity** changes in the new medium.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the basic building blocks of living things called?",
+      "options": {
+        "a": "Tissues",
+        "b": "Organs",
+        "c": "Cells",
+        "d": "Molecules"
+      },
+      "one_liner": "The basic building blocks of living things are known as **Cells**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

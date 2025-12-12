@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the correct order of increasing energy among alpha, beta, and gamma radiations?",
+      "options": {
+        "a": "Alpha, Beta, Gamma",
+        "b": "Gamma, Beta, Alpha",
+        "c": "Beta, Alpha, Gamma",
+        "d": "None of these"
+      },
+      "one_liner": "The energy of radiations increases in the order of **alpha, then beta, and finally gamma**, with gamma being the most energetic.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

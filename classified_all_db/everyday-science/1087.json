@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary purpose of baseline correction in differential scanning calorimetry (DSC)?",
+      "options": {
+        "a": "To eliminate instrumental noise",
+        "b": "To adjust for variations in heat flow",
+        "c": "To correct for changes in temperature",
+        "d": "To improve the accuracy of heat capacity measurements"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

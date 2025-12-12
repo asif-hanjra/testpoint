@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are the three most common types of hepatitis?",
+      "options": {
+        "a": "Hepatitis A, Hepatitis B, Hepatitis C",
+        "b": "Hepatitis D, Hepatitis E, Hepatitis F",
+        "c": "Hepatitis G, Hepatitis H, Hepatitis I",
+        "d": "None of these"
+      },
+      "one_liner": "The three most common types of hepatitis are **hepatitis A, hepatitis B, and hepatitis C**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

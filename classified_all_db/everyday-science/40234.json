@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a common way typhoid is transmitted?",
+      "options": {
+        "a": "Airborne droplets",
+        "b": "Contaminated food and water",
+        "c": "Insect bites",
+        "d": "Direct contact"
+      },
+      "one_liner": "Typhoid is commonly transmitted through **contaminated food and drinking water**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "To what is the upper end of the spinal cord attached?",
+      "options": {
+        "a": "Heart",
+        "b": "Lungs",
+        "c": "Brain",
+        "d": "None of these"
+      },
+      "one_liner": "The upper end of the spinal cord is attached to the **brain**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

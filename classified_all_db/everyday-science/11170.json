@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the role of enzymes in the human body?",
+      "options": {
+        "a": "They help in digestion of food",
+        "b": "They transport oxygen",
+        "c": "They produce hormones",
+        "d": "None of these"
+      },
+      "one_liner": "Enzymes play a crucial role in the human body by aiding in the digestion of food, making them essential for breaking down nutrients.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which nutrient should be given to an athlete for instant energy?",
+      "options": {
+        "a": "Proteins",
+        "b": "Fats",
+        "c": "Carbohydrates",
+        "d": "Vitamins"
+      },
+      "one_liner": "For instant energy, athletes are recommended to consume **carbohydrates**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

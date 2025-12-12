@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of radiation is emitted by Digital TV?",
+      "options": {
+        "a": "Infrared rays",
+        "b": "X-rays",
+        "c": "Ultraviolet rays",
+        "d": "Gamma rays"
+      },
+      "one_liner": "Digital TVs are known to emit **X-rays** as a form of radiation.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

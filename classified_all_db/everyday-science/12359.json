@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the color of Oxyhaemoglobin?",
+      "options": {
+        "a": "Dark blue",
+        "b": "Bright red",
+        "c": "Green",
+        "d": "Yellow"
+      },
+      "one_liner": "Oxyhaemoglobin is characterized by its **bright red** color.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

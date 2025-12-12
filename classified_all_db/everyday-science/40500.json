@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In a diesel engine, what initiates the ignition process?",
+      "options": {
+        "a": "Compression",
+        "b": "Spark plug",
+        "c": "Battery",
+        "d": "None of these"
+      },
+      "one_liner": "In a diesel engine, ignition is caused by **compression** rather than a spark.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

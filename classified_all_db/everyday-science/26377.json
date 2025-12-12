@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "At what temperature must milk be heated for complete pasteurization?",
+      "options": {
+        "a": "121°F",
+        "b": "131°F",
+        "c": "161°F",
+        "d": "181°F"
+      },
+      "one_liner": "For complete pasteurization, milk must be heated to **161°F**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

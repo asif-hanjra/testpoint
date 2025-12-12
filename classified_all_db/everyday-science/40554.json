@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is biomass primarily derived from?",
+      "options": {
+        "a": "Fossil fuels",
+        "b": "Living or recently living plant and animal materials",
+        "c": "Minerals",
+        "d": "Synthetic chemicals"
+      },
+      "one_liner": "Biomass is considered a renewable energy source because it is derived from **living or recently living plant and animal materials**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

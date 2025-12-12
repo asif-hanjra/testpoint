@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which layer of Earth's atmosphere is closest to the Earth's surface?",
+      "options": {
+        "a": "Troposphere",
+        "b": "Stratosphere",
+        "c": "Mesosphere",
+        "d": "Exosphere"
+      },
+      "one_liner": "The layer of Earth's atmosphere that is closest to the surface is the **Troposphere**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "If both parents have Rh positive blood types, what is the possible Rh blood type for their child?",
+      "options": {
+        "a": "Rh negative",
+        "b": "Rh positive",
+        "c": "Both Rh positive and negative",
+        "d": "None of these"
+      },
+      "one_liner": "If both parents are Rh positive, their child will also be **Rh positive**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

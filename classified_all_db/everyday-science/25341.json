@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is essential for the burning process?",
+      "options": {
+        "a": "Nitrogen",
+        "b": "Oxygen",
+        "c": "Hydrogen",
+        "d": "Carbon Dioxide"
+      },
+      "one_liner": "The presence of **oxygen** is crucial for any burning process to occur.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

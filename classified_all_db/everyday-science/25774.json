@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which structure connects the ear drum to the inner ear by transmitting vibrations?",
+      "options": {
+        "a": "Cochlea",
+        "b": "Auditory Canal",
+        "c": "Hammer, Anvil, and Stirrup",
+        "d": "Semicircular Canals"
+      },
+      "one_liner": "The **Hammer, Anvil, and Stirrup** are the three small bones that transmit vibrations from the ear drum to the inner ear.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Ear",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

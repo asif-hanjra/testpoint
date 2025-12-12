@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is the smallest in our solar system?",
+      "options": {
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Mercury",
+        "d": "Neptune"
+      },
+      "one_liner": "The **smallest planet** in our solar system is Mercury.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

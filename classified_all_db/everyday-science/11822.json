@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are convex mirrors placed to prevent collisions or accidents?",
+      "options": {
+        "a": "On corners of mountainous roads",
+        "b": "In large offices",
+        "c": "Both a and b",
+        "d": "None of these"
+      },
+      "one_liner": "**Convex mirrors** are placed on corners of mountainous roads or in large offices to prevent collisions or accidents.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Greek philosopher is known for using argumentative dialogue to stimulate critical thinking?",
+      "options": {
+        "a": "Plato",
+        "b": "Aristotle",
+        "c": "Socrates",
+        "d": "None of these"
+      },
+      "one_liner": "The use of argumentative dialogue to encourage critical thinking is a notable idea of **Socrates**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Three Best-Known Greek Philosophers",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Three Best-Known Greek Philosophers",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

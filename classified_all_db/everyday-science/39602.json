@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which decade did scientists first identify the coronavirus in animals?",
+      "options": {
+        "a": "1910s",
+        "b": "1920s",
+        "c": "1930s",
+        "d": "1940s"
+      },
+      "one_liner": "Scientists first identified coronavirus in animals during the **1920s**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

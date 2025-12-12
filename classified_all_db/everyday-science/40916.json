@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which gland helps the body respond to unintentional stimuli such as anger and preparing to fight?",
+      "options": {
+        "a": "Adrenal glands",
+        "b": "Pituitary gland",
+        "c": "Thyroid gland",
+        "d": "Pineal gland"
+      },
+      "one_liner": "The adrenal glands help the body respond to unintentional stimuli like anger and getting prepared to fight, making them essential for the stress response.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

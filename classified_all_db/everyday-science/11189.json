@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which scientist's work became the basis for physics through his three laws of motion?",
+      "options": {
+        "a": "Isaac Newton",
+        "b": "Marie Curie",
+        "c": "Niels Bohr",
+        "d": "Michael Faraday"
+      },
+      "one_liner": "The three laws of motion that became the basis for physics were formulated by **Isaac Newton**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

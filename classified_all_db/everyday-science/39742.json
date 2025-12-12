@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who gave the law of magnetic induction?",
+      "options": {
+        "a": "Newton",
+        "b": "Faraday",
+        "c": "Einstein",
+        "d": "Maxwell"
+      },
+      "one_liner": "The law of magnetic induction was formulated by **Faraday**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

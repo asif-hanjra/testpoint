@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which form of energy can be converted to electrical energy in power plants?",
+      "options": {
+        "a": "Kinetic energy",
+        "b": "Potential energy",
+        "c": "Chemical energy",
+        "d": "Heat energy"
+      },
+      "one_liner": "Power plants convert **chemical energy stored in fuels like coal** into electricity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

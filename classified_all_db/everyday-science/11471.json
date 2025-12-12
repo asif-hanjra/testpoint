@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the only metal in the liquid state at room temperature?",
+      "options": {
+        "a": "Mercury",
+        "b": "Sodium",
+        "c": "Potassium",
+        "d": "Gallium"
+      },
+      "one_liner": "**Mercury** is unique as the only metal that is liquid at room temperature.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

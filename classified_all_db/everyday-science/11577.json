@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the only person to have won the Nobel Prize twice?",
+      "options": {
+        "a": "Dr. Linus Carl Pauling",
+        "b": "Marie Curie",
+        "c": "Albert Einstein",
+        "d": "None of these"
+      },
+      "one_liner": "Dr. Linus Carl Pauling is notable for being the only person to have won the Nobel Prize twice, making him a unique figure in Nobel history.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

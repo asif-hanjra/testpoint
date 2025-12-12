@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the chemical name of baking soda?",
+      "options": {
+        "a": "Sodium carbonate",
+        "b": "Sodium bicarbonate",
+        "c": "Potassium nitrate",
+        "d": "Calcium carbonate"
+      },
+      "one_liner": "Baking soda is chemically known as **sodium bicarbonate**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

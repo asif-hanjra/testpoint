@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many bones are there in the adult human body?",
+      "options": {
+        "a": "206",
+        "b": "210",
+        "c": "201",
+        "d": "None of these"
+      },
+      "one_liner": "The adult human body contains approximately **206** bones.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

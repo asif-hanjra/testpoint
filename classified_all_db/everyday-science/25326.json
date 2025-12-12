@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are non-flowering plants called?",
+      "options": {
+        "a": "Phanerogams",
+        "b": "Cryptogams",
+        "c": "Angiosperms",
+        "d": "Gymnosperms"
+      },
+      "one_liner": "Non-flowering plants are scientifically referred to as **Cryptogams**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

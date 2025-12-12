@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why does cooking occur more quickly in a pressure cooker?",
+      "options": {
+        "a": "It uses less water",
+        "b": "It increases boiling point of water",
+        "c": "It reduces air pressure",
+        "d": "None of these"
+      },
+      "one_liner": "Cooking is faster in a pressure cooker because the boiling point of water is raised, allowing food to cook at a higher temperature.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

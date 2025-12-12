@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many neutrons are present in the nucleus of a hydrogen atom?",
+      "options": {
+        "a": "One",
+        "b": "Two",
+        "c": "Zero",
+        "d": "None of these"
+      },
+      "one_liner": "The nucleus of a hydrogen atom contains **zero neutrons**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

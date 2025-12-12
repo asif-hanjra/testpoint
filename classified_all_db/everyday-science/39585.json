@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of the ear is a tube that channels sound waves to the ear drum?",
+      "options": {
+        "a": "Cochlea",
+        "b": "Auditory Canal",
+        "c": "Semicircular Canals",
+        "d": "Anvil"
+      },
+      "one_liner": "The **Auditory Canal** is the tube that channels sound waves to the ear drum.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Ear",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

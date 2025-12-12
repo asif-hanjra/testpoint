@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many time zones is the Earth divided into?",
+      "options": {
+        "a": "12",
+        "b": "18",
+        "c": "24",
+        "d": "36"
+      },
+      "one_liner": "The Earth is divided into **24 time zones**, each roughly corresponding to one hour of time difference from its neighbors.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

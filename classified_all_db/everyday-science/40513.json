@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organs in the mouth are primarily responsible for breaking down food to make it easier to swallow?",
+      "options": {
+        "a": "Teeth, tongue, and saliva",
+        "b": "Esophagus and stomach",
+        "c": "Pancreas and liver",
+        "d": "Gallbladder and rectum"
+      },
+      "one_liner": "Teeth, tongue, and saliva in the mouth work together to break down food and make it easier to swallow, highlighting the importance of these components in the initial stage of digestion.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

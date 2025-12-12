@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main purpose of the digestive system in the human body?",
+      "options": {
+        "a": "To break down food into usable components",
+        "b": "To circulate blood",
+        "c": "To produce hormones",
+        "d": "To control movement"
+      },
+      "one_liner": "The digestive system's main role is to break down food into usable components such as **glucose for energy, proteins for cell repair, and essential nutrients for cell function**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

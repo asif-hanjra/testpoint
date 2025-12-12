@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which vitamin controls the browning in fruits with the help of enzymes?",
+      "options": {
+        "a": "Vitamin A",
+        "b": "Vitamin B",
+        "c": "Vitamin C",
+        "d": "Vitamin D"
+      },
+      "one_liner": "The browning in fruits is controlled by enzymes with the help of **Vitamin C**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

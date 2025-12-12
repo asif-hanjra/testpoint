@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who formulated a model of the universe that placed the Sun at the center instead of the Earth?",
+      "options": {
+        "a": "Galileo Galilei",
+        "b": "Johannes Kepler",
+        "c": "Nicolaus Copernicus",
+        "d": "Isaac Newton"
+      },
+      "one_liner": "The astronomer who proposed a heliocentric model with the Sun at the center of the universe was **Nicolaus Copernicus**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

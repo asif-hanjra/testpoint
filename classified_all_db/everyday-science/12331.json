@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the Earth's path around the Sun called?",
+      "options": {
+        "a": "Axis",
+        "b": "Orbit",
+        "c": "Equator",
+        "d": "Rotation"
+      },
+      "one_liner": "The Earth's path around the Sun is called its **orbit**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

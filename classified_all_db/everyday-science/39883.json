@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "From which organism is formic acid obtained?",
+      "options": {
+        "a": "Bee",
+        "b": "Ant",
+        "c": "Butterfly",
+        "d": "None of these"
+      },
+      "one_liner": "Formic acid is naturally obtained from **ants**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

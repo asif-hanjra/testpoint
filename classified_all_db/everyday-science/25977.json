@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What are oxides called that can behave as both acidic and basic oxides?",
+      "options": {
+        "a": "Neutral",
+        "b": "Basic",
+        "c": "Amphoteric",
+        "d": "Acidic"
+      },
+      "one_liner": "Oxides that can act as both acids and bases are known as **Amphoteric** oxides.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

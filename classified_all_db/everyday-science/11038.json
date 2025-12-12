@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who won the Nobel Prize in the field of Physics from Pakistan?",
+      "options": {
+        "a": "Dr. Abdul Salam",
+        "b": "Dr. Atta-ur-Rahman",
+        "c": "Dr. Samar Mubarakmand",
+        "d": "Dr. Pervez Hoodbhoy"
+      },
+      "one_liner": "Pakistan's only Nobel laureate in Physics is **Dr. Abdul Salam**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which device converts the energy of light directly into electricity?",
+      "options": {
+        "a": "Wind turbine",
+        "b": "Solar cell",
+        "c": "Turbine",
+        "d": "Generator"
+      },
+      "one_liner": "A **solar cell** is an electrical device that converts the energy of light directly into electricity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

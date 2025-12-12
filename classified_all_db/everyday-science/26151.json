@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which disease is caused by the deficiency of iodine?",
+      "options": {
+        "a": "Goiter",
+        "b": "Scurvy",
+        "c": "Rickets",
+        "d": "Night blindness"
+      },
+      "one_liner": "A deficiency of iodine in the diet leads to the development of **Goiter**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

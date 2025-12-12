@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the function of the heart valves?",
+      "options": {
+        "a": "Produce blood",
+        "b": "Control blood flow",
+        "c": "Store oxygen",
+        "d": "None of these"
+      },
+      "one_liner": "Heart valves act like doors, opening and closing to control the **flow of blood** between chambers and to the rest of the body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

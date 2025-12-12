@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is credited with the invention of zero?",
+      "options": {
+        "a": "Aryabhata",
+        "b": "Brahmagupta",
+        "c": "Al-Khwarizmi",
+        "d": "Euclid"
+      },
+      "one_liner": "The concept of zero as a number was invented by **Brahmagupta**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

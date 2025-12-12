@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What structure within the cell contains the genetic material?",
+      "options": {
+        "a": "Mitochondria",
+        "b": "Nucleus",
+        "c": "Ribosome",
+        "d": "Cell membrane"
+      },
+      "one_liner": "The **nucleus** is the structure within a cell that contains its genetic material.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

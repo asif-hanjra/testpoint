@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the digestive system provide for building and repairing body cells?",
+      "options": {
+        "a": "Glucose",
+        "b": "Fats",
+        "c": "Protein",
+        "d": "Water"
+      },
+      "one_liner": "The digestive system supplies **protein** from food, which is essential for building and repairing body cells.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

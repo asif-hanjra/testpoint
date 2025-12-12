@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the brain send in response to impulses received?",
+      "options": {
+        "a": "Instructions to muscles and glands",
+        "b": "Oxygen",
+        "c": "Blood",
+        "d": "None of these"
+      },
+      "one_liner": "In response to impulses, the brain sends **instructions to muscles and glands**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

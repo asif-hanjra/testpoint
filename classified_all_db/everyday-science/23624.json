@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is applicable only for linear systems?",
+      "options": {
+        "a": "Maximum power transfer theorem",
+        "b": "Principle of superposition",
+        "c": "Thevenin's theorem",
+        "d": "Ohm's law"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

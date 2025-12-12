@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many calories are in one gram of fat?",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "7",
+        "d": "9"
+      },
+      "one_liner": "Fat is the most calorie-dense macronutrient, providing **9 calories per gram**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

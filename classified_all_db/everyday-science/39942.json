@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which industry most commonly uses uranium?",
+      "options": {
+        "a": "Nuclear power industry",
+        "b": "Jewellery industry",
+        "c": "Automotive industry",
+        "d": "Electronics industry"
+      },
+      "one_liner": "The nuclear power industry most commonly uses **uranium** to generate electricity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

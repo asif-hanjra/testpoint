@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is insomnia?",
+      "options": {
+        "a": "Inability to eat",
+        "b": "Inability to sleep",
+        "c": "Inability to walk",
+        "d": "None of these"
+      },
+      "one_liner": "Insomnia is a disease characterized by the **inability to sleep**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

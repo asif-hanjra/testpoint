@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which form of phosphorus is used in safety matches?",
+      "options": {
+        "a": "White phosphorus",
+        "b": "Red phosphorus",
+        "c": "Black phosphorus",
+        "d": "Yellow phosphorus"
+      },
+      "one_liner": "Red phosphorus is the form of phosphorus that is commonly used in the manufacture of safety matches.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

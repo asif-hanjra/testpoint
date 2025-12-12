@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What poisonous gas is produced when coal is burned without enough air supply?",
+      "options": {
+        "a": "Carbon dioxide",
+        "b": "Sulphur dioxide",
+        "c": "Carbon monoxide",
+        "d": "Methane"
+      },
+      "one_liner": "When coal is burned without enough air supply, the poisonous gas **carbon monoxide** is produced.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

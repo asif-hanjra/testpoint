@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are considered primary colours?",
+      "options": {
+        "a": "Red, blue, green",
+        "b": "Red, yellow, blue",
+        "c": "Green, yellow, orange",
+        "d": "None of these"
+      },
+      "one_liner": "The primary colours in science are **red, blue, and green**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the chemical formula of baking soda?",
+      "options": {
+        "a": "NaCl",
+        "b": "Na2CO3",
+        "c": "NaHCO3",
+        "d": "K2CO3"
+      },
+      "one_liner": "The chemical formula for baking soda is **NaHCO3**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

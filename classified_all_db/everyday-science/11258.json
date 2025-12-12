@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which fruit is considered the richest source of ascorbic acid?",
+      "options": {
+        "a": "Apple",
+        "b": "Banana",
+        "c": "Guava",
+        "d": "Orange"
+      },
+      "one_liner": "Among fruits, the richest source of ascorbic acid is the **guava**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

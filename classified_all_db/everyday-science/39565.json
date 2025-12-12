@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT one of the six kingdoms in biological classification?",
+      "options": {
+        "a": "Animalia",
+        "b": "Plantae",
+        "c": "Monera",
+        "d": "Fungi"
+      },
+      "one_liner": "Among the six kingdoms of biological classification, **Monera** is not included, as it has been split into Archaea/Archaebacteria and Bacteria/Eubacteria.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

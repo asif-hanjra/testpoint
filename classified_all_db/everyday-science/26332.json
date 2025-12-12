@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following can trigger a tsunami?",
+      "options": {
+        "a": "Large earthquakes near or under the ocean",
+        "b": "Volcanic eruptions",
+        "c": "Submarine landslides",
+        "d": "All of these"
+      },
+      "one_liner": "Tsunamis can be triggered by large earthquakes near or under the ocean, volcanic eruptions, submarine landslides, or massive debris falling into water, with all these events capable of displacing enough water to generate these powerful waves.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

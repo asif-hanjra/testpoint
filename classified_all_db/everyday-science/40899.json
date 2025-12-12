@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In a transistor, what controls the current flowing between two electrodes?",
+      "options": {
+        "a": "Temperature",
+        "b": "Mechanical force",
+        "c": "Voltage or current applied to specified electrodes",
+        "d": "None of these"
+      },
+      "one_liner": "In a transistor, the current between two electrodes is controlled by a **voltage or current applied to one or more specified electrodes**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

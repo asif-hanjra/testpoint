@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is mica used in an electric iron?",
+      "options": {
+        "a": "It is a good conductor of electricity",
+        "b": "It is a bad conductor of electricity",
+        "c": "It is magnetic",
+        "d": "None of these"
+      },
+      "one_liner": "Mica is used in electric irons because it is a **bad conductor of electricity**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

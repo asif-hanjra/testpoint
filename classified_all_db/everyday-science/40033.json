@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a common consequence of rickets or osteomalacia?",
+      "options": {
+        "a": "Hardening of the bones",
+        "b": "Softening of the bones",
+        "c": "Muscle cramps",
+        "d": "None of these"
+      },
+      "one_liner": "Both rickets and osteomalacia are characterized by the **softening of the bones**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the common nickname for the pituitary gland due to its regulatory role over other endocrine glands?",
+      "options": {
+        "a": "Master gland",
+        "b": "Butterfly gland",
+        "c": "Control gland",
+        "d": "Sleep gland"
+      },
+      "one_liner": "The pituitary gland is often called the \"master gland\" because it controls many other endocrine glands through its hormones.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of white blood cells?",
+      "options": {
+        "a": "Carrying oxygen",
+        "b": "Blood clotting",
+        "c": "Immune response against diseases",
+        "d": "Transporting nutrients"
+      },
+      "one_liner": "White blood cells are essential for the body's **immune response against diseases**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

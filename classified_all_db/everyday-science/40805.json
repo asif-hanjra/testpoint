@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of materials have conductivity that lies between insulators and conductors?",
+      "options": {
+        "a": "Metals",
+        "b": "Semiconductors",
+        "c": "Insulators",
+        "d": "None of these"
+      },
+      "one_liner": "Semiconductors are materials whose electrical conductivity is intermediate between that of **insulators and conductors**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

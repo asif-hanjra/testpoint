@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of genetic material do coronaviruses contain?",
+      "options": {
+        "a": "DNA",
+        "b": "RNA",
+        "c": "Protein",
+        "d": "None of these"
+      },
+      "one_liner": "Coronaviruses are characterized by having **RNA** as their genetic material.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

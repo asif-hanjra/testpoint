@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How are the bones of the arms attached to the vertebral column?",
+      "options": {
+        "a": "Through pectoral girdles",
+        "b": "Through pelvic girdles",
+        "c": "Directly to the spine",
+        "d": "None of these"
+      },
+      "one_liner": "The bones of the arms are connected to the vertebral column by the **pectoral girdles**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

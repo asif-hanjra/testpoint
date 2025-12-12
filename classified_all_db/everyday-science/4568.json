@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the formula for the maximum height of a projectile?",
+      "options": {
+        "a": "(vi² * sin²θ) / 2g",
+        "b": "(vi² * sin²θ) / g",
+        "c": "(vi² * cos²θ) / 2g",
+        "d": "(sin²θ) / 2g"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

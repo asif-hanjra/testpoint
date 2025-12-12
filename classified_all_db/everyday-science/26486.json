@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary function of red blood cells?",
+      "options": {
+        "a": "Carrying oxygen and carbon dioxide",
+        "b": "Blood clotting",
+        "c": "Immune response",
+        "d": "Producing hormones"
+      },
+      "one_liner": "The main responsibility of red blood cells is to transport **oxygen and carbon dioxide** throughout the body.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

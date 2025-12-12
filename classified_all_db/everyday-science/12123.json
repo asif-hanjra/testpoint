@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of lens is used to correct long-sight (hypermetropia) defect?",
+      "options": {
+        "a": "Concave lens",
+        "b": "Convex lens",
+        "c": "Cylindrical lens",
+        "d": "None of these"
+      },
+      "one_liner": "Long-sight defect, also known as hypermetropia, can be corrected by using a **convex lens**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

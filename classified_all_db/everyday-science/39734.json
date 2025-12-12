@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are conductors?",
+      "options": {
+        "a": "Materials that conduct heat",
+        "b": "Materials that conduct electricity",
+        "c": "Materials that do not conduct electricity",
+        "d": "None of these"
+      },
+      "one_liner": "Materials that allow electricity to pass through them are known as **conductors**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following gives correct equation for Hooke's law for the spring? (F is force, k is spring constant and x is extension/compression in spring)",
+      "options": {
+        "a": "F=k-x",
+        "b": "F=kx",
+        "c": "F=k+x",
+        "d": "Fs = -kx"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

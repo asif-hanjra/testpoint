@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For a positive charged particle (q) moving with a velocity (v) in a magnetic Filed of flux density B, the force (F) acting on the charge particle is given by the expression?",
+      "options": {
+        "a": "q = Fv × B",
+        "b": "F = qv × B",
+        "c": "F = v × B/q",
+        "d": "q = v × B/F"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

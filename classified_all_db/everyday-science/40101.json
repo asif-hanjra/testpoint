@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which acid is used in car batteries?",
+      "options": {
+        "a": "Acetic acid",
+        "b": "Sulphuric acid",
+        "c": "Hydrochloric acid",
+        "d": "Carbonic acid"
+      },
+      "one_liner": "Car batteries commonly use **sulphuric acid** as their electrolyte.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

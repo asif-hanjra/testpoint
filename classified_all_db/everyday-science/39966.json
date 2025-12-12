@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the scientific cultivation of vegetables, fruits, and lawn grass called?",
+      "options": {
+        "a": "Agronomy",
+        "b": "Horticulture",
+        "c": "Sericulture",
+        "d": "None of these"
+      },
+      "one_liner": "The scientific cultivation of vegetables, fruits, and lawn grass is known as **Horticulture**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

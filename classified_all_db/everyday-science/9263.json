@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following devices is bidirectional but without a gate?",
+      "options": {
+        "a": "Triac",
+        "b": "SCR",
+        "c": "MOSFET",
+        "d": "Diac"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the average lifespan of a red blood cell?",
+      "options": {
+        "a": "1-3 days",
+        "b": "120 days",
+        "c": "30 days",
+        "d": "365 days"
+      },
+      "one_liner": "Red blood cells typically survive in the bloodstream for about **120 days** before being replaced.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

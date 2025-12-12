@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Vitamin E primarily stored in the human body?",
+      "options": {
+        "a": "Adipose Tissues",
+        "b": "Liver",
+        "c": "Kidneys",
+        "d": "Muscles"
+      },
+      "one_liner": "Vitamin E is primarily stored in the body's **adipose tissues**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

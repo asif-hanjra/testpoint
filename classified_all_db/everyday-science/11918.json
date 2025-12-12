@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which category of elements exists on the periodic table in addition to metals and nonmetals?",
+      "options": {
+        "a": "Metalloids",
+        "b": "Halogens",
+        "c": "Noble gases",
+        "d": "Lanthanides"
+      },
+      "one_liner": "Besides metals and nonmetals, the periodic table also features a category of elements known as **metalloids**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

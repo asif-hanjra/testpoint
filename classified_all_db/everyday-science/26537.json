@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Optical fibres are used in special cameras for what purpose?",
+      "options": {
+        "a": "Capturing wide landscapes",
+        "b": "Seeing inside small spaces",
+        "c": "Recording underwater scenes",
+        "d": "None of these"
+      },
+      "one_liner": "Special cameras that utilize optical fibres are designed to see inside **small spaces** where traditional cameras cannot reach.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

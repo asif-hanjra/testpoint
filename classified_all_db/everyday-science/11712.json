@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is the first in the periodic table?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Hydrogen",
+        "c": "Helium",
+        "d": "Carbon"
+      },
+      "one_liner": "Hydrogen is recognized as the **first element** in the periodic table.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

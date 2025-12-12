@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What do isotopes of an element have in common?",
+      "options": {
+        "a": "Number of protons",
+        "b": "Number of neutrons",
+        "c": "Number of electrons",
+        "d": "Number of energy levels"
+      },
+      "one_liner": "Isotopes of an element always have the same number of **protons** in their nuclei.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

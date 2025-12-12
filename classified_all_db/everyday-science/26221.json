@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is common to all bases?",
+      "options": {
+        "a": "Hydrogen",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Carbon"
+      },
+      "one_liner": "Oxygen is the element that is common to all bases, making it a defining component of their chemical structure.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which materials are used as the anode and cathode in a dry battery?",
+      "options": {
+        "a": "Zinc anode and Carbon cathode",
+        "b": "Copper anode and Zinc cathode",
+        "c": "Lead anode and Silver cathode",
+        "d": "None of these"
+      },
+      "one_liner": "A dry battery uses a **Zinc anode** and a **Carbon cathode** as its main electrodes.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who first identified the electron?",
+      "options": {
+        "a": "Ernest Rutherford",
+        "b": "J.J. Thomson",
+        "c": "Niels Bohr",
+        "d": "James Chadwick"
+      },
+      "one_liner": "The electron was first identified by **J.J. Thomson**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

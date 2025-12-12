@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the reaction called when an acid reacts with a base to form salt and water?",
+      "options": {
+        "a": "Neutralization",
+        "b": "Oxidation",
+        "c": "Reduction",
+        "d": "Sublimation"
+      },
+      "one_liner": "The reaction in which an acid and a base combine to form salt and water is known as **neutralization**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

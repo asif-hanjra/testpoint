@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "At what times of the day does the Aedes aegypti mosquito usually bite?",
+      "options": {
+        "a": "Midnight",
+        "b": "Early in the morning and in the evening before dusk",
+        "c": "Afternoon",
+        "d": "None of these"
+      },
+      "one_liner": "The Aedes aegypti mosquito, carrier of dengue, usually bites **early in the morning and in the evening before dusk**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

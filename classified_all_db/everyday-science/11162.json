@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which material can be recycled multiple times without losing its quality?",
+      "options": {
+        "a": "Plastic",
+        "b": "Glass",
+        "c": "Aluminum",
+        "d": "Paper"
+      },
+      "one_liner": "Aluminum is notable for being able to be recycled many times without significant loss of quality, making it a sustainable material.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Sustainable Development Goals (SDGs)",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

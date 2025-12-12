@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are examples of metallic elements?",
+      "options": {
+        "a": "Iron, copper, sodium, magnesium",
+        "b": "Carbon, hydrogen, oxygen, nitrogen",
+        "c": "Helium, neon, argon, krypton",
+        "d": "None of these"
+      },
+      "one_liner": "Iron, copper, sodium, and magnesium are all examples of **metallic elements**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where does photosynthesis primarily take place in plants?",
+      "options": {
+        "a": "Roots",
+        "b": "Stems",
+        "c": "Leaves",
+        "d": "Flowers"
+      },
+      "one_liner": "The process of photosynthesis primarily occurs in the **leaves** of plants.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

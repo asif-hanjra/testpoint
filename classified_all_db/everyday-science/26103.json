@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is an important precaution to prevent Hepatitis C transmission?",
+      "options": {
+        "a": "Needles and syringes should be reused",
+        "b": "Needles and syringes should not be reused",
+        "c": "Only use new gloves",
+        "d": "None of these"
+      },
+      "one_liner": "To prevent Hepatitis C transmission, **needles and syringes should not be reused**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

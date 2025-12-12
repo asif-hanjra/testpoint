@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the latitude of the South Pole?",
+      "options": {
+        "a": "0 degree",
+        "b": "45 degree S",
+        "c": "90 degree S",
+        "d": "180 degree S"
+      },
+      "one_liner": "The latitude of the South Pole is exactly **90 degrees South**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

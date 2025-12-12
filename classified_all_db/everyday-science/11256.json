@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What can excessive intake of calcium chloride cause?",
+      "options": {
+        "a": "Low blood sugar",
+        "b": "High blood pressure",
+        "c": "Goiter",
+        "d": "Anemia"
+      },
+      "one_liner": "Excessive intake of calcium chloride can cause **high blood pressure**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

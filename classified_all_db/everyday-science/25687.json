@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element takes part in the formation of haemoglobin?",
+      "options": {
+        "a": "Iron",
+        "b": "Copper",
+        "c": "Calcium",
+        "d": "Magnesium"
+      },
+      "one_liner": "The formation of haemoglobin in blood requires the metal **iron**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

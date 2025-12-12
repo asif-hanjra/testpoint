@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Biscuits and cakes are most commonly made using which leavening agent?",
+      "options": {
+        "a": "Baking soda",
+        "b": "Baking powder",
+        "c": "Yeast",
+        "d": "None of these"
+      },
+      "one_liner": "**Biscuits and cakes** are most commonly made using baking powder as the leavening agent.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Difference between Baking Soda and Baking Powder",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

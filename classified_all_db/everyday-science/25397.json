@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which disease is characterized as a disease of the blood?",
+      "options": {
+        "a": "Leukaemia",
+        "b": "Tuberculosis",
+        "c": "Diabetes",
+        "d": "Arthritis"
+      },
+      "one_liner": "The disease known as leukaemia specifically affects the **blood**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which species does the penguin belong to?",
+      "options": {
+        "a": "Reptile",
+        "b": "Animal",
+        "c": "Bird",
+        "d": "Mammal"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who introduced experimental medicine?",
+      "options": {
+        "a": "Ibn Sina",
+        "b": "Al-Farabi",
+        "c": "Abu Bakr Muhammad bin Zakariyya al-Razi",
+        "d": "Al-Biruni"
+      },
+      "one_liner": "The introduction of experimental medicine is attributed to **Abu Bakr Muhammad bin Zakariyya al-Razi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

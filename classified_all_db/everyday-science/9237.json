@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "In which component does the resistance decrease with a rise in temperature?",
+      "options": {
+        "a": "PTC Thermistor",
+        "b": "Resistor",
+        "c": "NTC Thermistor",
+        "d": "Variable Resistor"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

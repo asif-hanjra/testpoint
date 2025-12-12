@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the typical appearance of a ringworm rash?",
+      "options": {
+        "a": "Red, itchy, circular",
+        "b": "Blue, swollen, linear",
+        "c": "Yellow, dry, patchy",
+        "d": "Black, crusty, oval"
+      },
+      "one_liner": "A ringworm rash is usually **red, itchy, and circular** in appearance.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the sixth most abundant element in the universe?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Nitrogen",
+        "c": "Carbon",
+        "d": "Neon"
+      },
+      "one_liner": "**Carbon** ranks as the sixth most abundant element in the universe.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

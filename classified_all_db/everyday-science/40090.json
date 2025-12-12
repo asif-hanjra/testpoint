@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is known for revolving slowly around the sun?",
+      "options": {
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Venus"
+      },
+      "one_liner": "Neptune is recognized as the planet that revolves most slowly around the sun, making it unique in our solar system for its lengthy orbital period.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is psychosis?",
+      "options": {
+        "a": "A condition affecting brain information processing",
+        "b": "A type of anxiety disorder",
+        "c": "A digestive disorder",
+        "d": "None of these"
+      },
+      "one_liner": "Psychosis is a condition that affects the way the brain processes information, leading to a loss of contact with reality, and is considered a symptom rather than an illness.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

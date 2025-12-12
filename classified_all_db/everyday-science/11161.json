@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a common symptom of malaria?",
+      "options": {
+        "a": "Fever",
+        "b": "Tiredness",
+        "c": "Vomiting",
+        "d": "All of these are symptoms"
+      },
+      "one_liner": "Common symptoms of malaria include **fever, tiredness, vomiting, and headaches**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

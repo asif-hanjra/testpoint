@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which bone is the smallest named bone in the human body?",
+      "options": {
+        "a": "Ulna",
+        "b": "Stapes",
+        "c": "Fibula",
+        "d": "Scapula"
+      },
+      "one_liner": "The **stapes**, located in the middle ear, is the smallest named bone in the human body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

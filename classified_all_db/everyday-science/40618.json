@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How does tetanus bacteria usually enter the body?",
+      "options": {
+        "a": "Inhalation",
+        "b": "Wounds",
+        "c": "Contaminated food",
+        "d": "Water"
+      },
+      "one_liner": "Tetanus bacteria usually enter the body through **wounds**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

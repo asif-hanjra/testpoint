@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote the medical encyclopedia 'Al-Qanun fi-at-tibb'?",
+      "options": {
+        "a": "Al-Razi",
+        "b": "Al-Farabi",
+        "c": "Avicenna",
+        "d": "Ibn Khaldun"
+      },
+      "one_liner": "The renowned medical encyclopedia 'Al-Qanun fi-at-tibb' was authored by **Avicenna**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

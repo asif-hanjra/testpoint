@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of the skeleton is made up of phosphorus?",
+      "options": {
+        "a": "14 to 17 percent",
+        "b": "5 to 10 percent",
+        "c": "20 to 25 percent",
+        "d": "None of these"
+      },
+      "one_liner": "Phosphorus constitutes about **14 to 17 percent** of the human skeleton.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

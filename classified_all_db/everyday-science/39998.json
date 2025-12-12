@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What do solar plates consist of?",
+      "options": {
+        "a": "Photo Voltaic Cells",
+        "b": "Electrolytic Cells",
+        "c": "Thermal Cells",
+        "d": "None of these"
+      },
+      "one_liner": "A solar plate is made up of **Photo Voltaic Cells** that convert sunlight into electricity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

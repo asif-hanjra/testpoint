@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many seconds should milk be heated at 161°F for complete pasteurization?",
+      "options": {
+        "a": "5 seconds",
+        "b": "10 seconds",
+        "c": "15 seconds",
+        "d": "30 seconds"
+      },
+      "one_liner": "Milk should be heated at 161°F for **15 seconds** to achieve complete pasteurization.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

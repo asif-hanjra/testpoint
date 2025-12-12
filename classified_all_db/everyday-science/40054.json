@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "A.L. Breguet, the inventor of the Watch, belonged to which country?",
+      "options": {
+        "a": "France",
+        "b": "Germany",
+        "c": "Switzerland",
+        "d": "Italy"
+      },
+      "one_liner": "The inventor of the Watch, A.L. Breguet, was a scientist from **Switzerland**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

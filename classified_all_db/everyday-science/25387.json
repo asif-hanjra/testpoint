@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which famous physicist did Muhammad Raziuddin Siddiquie work?",
+      "options": {
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Marie Curie",
+        "d": "None of these"
+      },
+      "one_liner": "Muhammad Raziuddin Siddiquie worked under the renowned physicist **Albert Einstein**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

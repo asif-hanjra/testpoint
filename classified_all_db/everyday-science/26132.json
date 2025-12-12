@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does a solar system consist of?",
+      "options": {
+        "a": "Only a star",
+        "b": "A star and the objects affected by its gravity",
+        "c": "Only planets",
+        "d": "Only moons"
+      },
+      "one_liner": "A solar system is made up of a star, like the **sun**, and the objects influenced by its gravity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

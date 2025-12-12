@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following foods is NOT a source of Vitamin D?",
+      "options": {
+        "a": "Fatty fish",
+        "b": "Eggs",
+        "c": "Beef liver",
+        "d": "None of these"
+      },
+      "one_liner": "Fatty fish, eggs, beef liver, and mushrooms are all **sources of Vitamin D**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

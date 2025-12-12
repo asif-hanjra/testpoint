@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the chemical name of Vitamin C?",
+      "options": {
+        "a": "Citric Acid",
+        "b": "Ascorbic Acid",
+        "c": "Acetic Acid",
+        "d": "Folic Acid"
+      },
+      "one_liner": "Vitamin C is commonly known by its chemical name, which is **Ascorbic Acid**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

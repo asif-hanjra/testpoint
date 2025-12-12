@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many calories does a male athlete typically consume per day?",
+      "options": {
+        "a": "2000",
+        "b": "3500",
+        "c": "5000",
+        "d": "7000"
+      },
+      "one_liner": "A male athlete typically consumes upwards of **7000 calories** a day.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

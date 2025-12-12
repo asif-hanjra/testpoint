@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What mental health condition is characterized by mood swings from normal to extreme behavior?",
+      "options": {
+        "a": "Schizophrenia",
+        "b": "Bipolar Disorder",
+        "c": "Depression",
+        "d": "None of these"
+      },
+      "one_liner": "Mood swings from normal to extreme behavior are a hallmark of **Bipolar Disorder**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of platelets in the blood?",
+      "options": {
+        "a": "Transport oxygen",
+        "b": "Fight infections",
+        "c": "Help blood clotting to stop bleeding",
+        "d": "None of these"
+      },
+      "one_liner": "Platelets are tiny blood cells that help **blood clotting to stop bleeding**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

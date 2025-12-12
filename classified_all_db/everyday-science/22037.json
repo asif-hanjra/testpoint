@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What of these equation explains logistic model?",
+      "options": {
+        "a": "dN/dt = KN",
+        "b": "dN/dt = RN",
+        "c": "dN/dt = rN",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

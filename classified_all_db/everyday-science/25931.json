@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "At what temperature does water reach its maximum density?",
+      "options": {
+        "a": "0ºC",
+        "b": "4ºC",
+        "c": "100ºC",
+        "d": "4ºK"
+      },
+      "one_liner": "Water achieves its highest density at a temperature of **4ºC**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

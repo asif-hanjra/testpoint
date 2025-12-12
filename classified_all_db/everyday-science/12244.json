@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT considered a vestigial organ in human beings?",
+      "options": {
+        "a": "Appendix",
+        "b": "Coccyx",
+        "c": "Eyelid",
+        "d": "Wisdom teeth"
+      },
+      "one_liner": "Unlike some other body parts, the **eyelid** is not classified as a vestigial organ in humans.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

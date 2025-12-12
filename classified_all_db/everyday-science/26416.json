@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of villi in the small intestine?",
+      "options": {
+        "a": "To secrete digestive enzymes",
+        "b": "To increase surface area for nutrient absorption",
+        "c": "To move food along the intestine",
+        "d": "None of these"
+      },
+      "one_liner": "Villi in the small intestine serve to increase the surface area, allowing for the efficient absorption of nutrients into the **bloodstream**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}
