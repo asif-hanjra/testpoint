@@ -254,7 +254,7 @@ async def process_subject(subject: str):
         # Save session to file (metadata only, no groups)
         session_manager.save_session(subject, session_data)
         
-        # Auto-save non-duplicate files (files not in any group)
+        # Identify non-duplicate files (files not in any group) for saved-track
         # IMPORTANT: Track duplicates correctly - files in ANY group are duplicates
         files_in_groups = set()
         total_files_in_groups_count = 0
@@ -263,7 +263,7 @@ async def process_subject(subject: str):
             files_in_groups.update(group_files)
             total_files_in_groups_count += len(group_files)
         
-        # Only save files that are NOT in any group (non-duplicates)
+        # Only identify files that are NOT in any group (non-duplicates)
         non_duplicate_files = [f for f in statements.keys() if f not in files_in_groups]
         
         # Detailed logging for tracking
@@ -282,75 +282,8 @@ async def process_subject(subject: str):
         if len(files_in_groups) + len(non_duplicate_files) != total_files:
             print(f"ERROR: Math doesn't add up! Missing {total_files - (len(files_in_groups) + len(non_duplicate_files))} files")
         
-        auto_saved_count = 0
-        already_saved_count = 0
-        errors = []
-        
-        # Ensure final_db base directory and subject folder exist
-        file_manager.final_path.mkdir(parents=True, exist_ok=True)
-        dest_dir = file_manager.final_path / subject
-        dest_dir.mkdir(parents=True, exist_ok=True)
-        
-        # IMPORTANT: Only copy non-duplicate files (files NOT in any group)
-        import shutil
-        for filename in non_duplicate_files:
-            try:
-                source = file_manager.classified_path / subject / filename
-                dest = dest_dir / filename
-                
-                if not source.exists():
-                    errors.append(f"{filename}: source file not found")
-                    continue
-                
-                if dest.exists():
-                    already_saved_count += 1
-                else:
-                    # Copy file
-                    shutil.copy2(str(source), str(dest))
-                    # Verify copy succeeded
-                    if dest.exists() and dest.stat().st_size > 0:
-                        auto_saved_count += 1
-                    else:
-                        errors.append(f"{filename}: copy verification failed")
-            except Exception as e:
-                errors.append(f"{filename}: {e}")
-                if len(errors) <= 3:
-                    import traceback
-                    traceback.print_exc()
-        
-        # Verify final count and ensure no duplicates were saved
-        final_dir = file_manager.final_path / subject
-        actual_files = list(final_dir.glob("*.json")) if final_dir.exists() else []
-        actual_file_count = len(actual_files)
-        saved_filenames = {f.name for f in actual_files}
-        
-        # Double-check: verify no files in groups were saved
-        incorrectly_saved = saved_filenames.intersection(files_in_groups)
-        if incorrectly_saved:
-            print(f"\n⚠️  WARNING: Found {len(incorrectly_saved)} duplicate files incorrectly saved!")
-            print(f"   These files are in duplicate groups but were saved anyway.")
-            # Remove incorrectly saved files
-            for filename in incorrectly_saved:
-                try:
-                    (dest_dir / filename).unlink()
-                    print(f"   ✓ Removed incorrectly saved duplicate: {filename}")
-                except Exception as e:
-                    print(f"   ✗ Failed to remove {filename}: {e}")
-            actual_file_count = len(list(final_dir.glob("*.json"))) if final_dir.exists() else 0
-        
-        # Verify all non-duplicates were saved
-        missing_non_duplicates = set(non_duplicate_files) - saved_filenames
-        if missing_non_duplicates:
-            print(f"\n⚠️  WARNING: {len(missing_non_duplicates)} non-duplicate files were NOT saved!")
-            print(f"   First 10 missing: {list(missing_non_duplicates)[:10]}")
-        
-        print(f"\n✓ VERIFICATION COMPLETE:")
-        print(f"   Expected non-duplicates to save: {len(non_duplicate_files)}")
-        print(f"   Actually saved: {actual_file_count}")
-        print(f"   Duplicates incorrectly saved: {len(incorrectly_saved)}")
-        print(f"   Non-duplicates missing: {len(missing_non_duplicates)}")
-        
         # Save non-duplicates to saved-track (merge with existing, sort by number)
+        # NOTE: Files are NOT automatically copied to final-db - user must save manually
         if non_duplicate_files:
             print(f"[MAIN] Saving {len(non_duplicate_files)} non-duplicates to saved-track...")
             saved_tracking_list = file_manager.save_saved_tracking(subject, non_duplicate_files)
@@ -363,11 +296,11 @@ async def process_subject(subject: str):
             "non_duplicate_count": non_duplicate_count,
             "similar_count": total_files - non_duplicate_count,
             "group_count": len(groups_pairwise),
-            "auto_saved_count": auto_saved_count,
-            "already_saved_count": already_saved_count,
-            "actual_saved_count": actual_file_count,
-            "errors": len(errors),
-            "error_details": errors[:10] if errors else [],
+            "auto_saved_count": 0,  # No auto-save to final-db
+            "already_saved_count": 0,  # No auto-save to final-db
+            "actual_saved_count": 0,  # No auto-save to final-db
+            "errors": 0,  # No file copy errors
+            "error_details": [],  # No file copy errors
             "similarity_bins": similarity_bins
         }
         
