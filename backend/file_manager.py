@@ -372,22 +372,9 @@ class FileManager:
         }
     
     def prepare_subject_for_sbert(self, subject: str) -> Tuple[int, int]:
-        """Copy non-removed files from original folder to working folder, using removed-track to filter"""
+        """Copy non-removed and non-saved files from original folder to working folder"""
         working_path = self.classified_path / subject
-        backup_path = self.project_root / "classified_all_db_backup" / subject
         original_path = self.project_root / "classified_all_db-original" / subject
-        
-        # Step 0: Delete all files in backup folder FIRST (before anything else)
-        backup_path.mkdir(parents=True, exist_ok=True)
-        print(f"[FileManager] Step 0: Deleting all files in backup folder: {backup_path}")
-        backup_deleted_count = 0
-        for existing_file in backup_path.glob("*.json"):
-            try:
-                existing_file.unlink()
-                backup_deleted_count += 1
-            except Exception as e:
-                print(f"[FileManager] Warning: Failed to delete {existing_file.name} from backup: {e}")
-        print(f"[FileManager] Deleted {backup_deleted_count} files from backup folder")
         
         # Check if original folder exists
         if not original_path.exists():
@@ -396,20 +383,8 @@ class FileManager:
         if not any(original_path.glob("*.json")):
             raise FileNotFoundError(f"No JSON files found in original folder: {original_path}")
         
-        # Step 1: Backup current working folder (always overwrite)
-        print(f"[FileManager] Step 1: Backing up current working folder to: {backup_path}")
-        backup_count = 0
-        if working_path.exists():
-            for json_file in working_path.glob("*.json"):
-                try:
-                    shutil.copy2(json_file, backup_path / json_file.name)
-                    backup_count += 1
-                except Exception as e:
-                    print(f"[FileManager] Warning: Failed to backup {json_file.name}: {e}")
-        print(f"[FileManager] Backed up {backup_count} files to backup folder")
-        
-        # Step 2: Clear working folder
-        print(f"[FileManager] Step 2: Clearing working folder: {working_path}")
+        # Step 1: Clear working folder
+        print(f"[FileManager] Step 1: Clearing working folder: {working_path}")
         if working_path.exists():
             for json_file in working_path.glob("*.json"):
                 try:
@@ -417,13 +392,13 @@ class FileManager:
                 except Exception as e:
                     print(f"[FileManager] Warning: Failed to remove {json_file.name}: {e}")
         
-        # Step 3: Load removed files list and saved files list
+        # Step 2: Load removed files list and saved files list
         removed_files = set(self.load_removed_tracking(subject))
         saved_files = set(self.load_saved_tracking(subject))
-        print(f"[FileManager] Step 3: Found {len(removed_files)} removed files and {len(saved_files)} saved files to exclude from original folder")
+        print(f"[FileManager] Step 2: Found {len(removed_files)} removed files and {len(saved_files)} saved files to exclude from original folder")
         
-        # Step 4: Copy only non-removed and non-saved files from original folder to working folder
-        print(f"[FileManager] Step 4: Copying non-removed and non-saved files from original folder: {original_path}")
+        # Step 3: Copy only non-removed and non-saved files from original folder to working folder
+        print(f"[FileManager] Step 3: Copying non-removed and non-saved files from original folder: {original_path}")
         working_path.mkdir(parents=True, exist_ok=True)
         
         copied_count = 0
