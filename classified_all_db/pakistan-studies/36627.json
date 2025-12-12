@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country opposed Pakistan's membership in the United Nations due to the Durand Line issue?",
+      "options": {
+        "a": "Iran",
+        "b": "Afghanistan",
+        "c": "India",
+        "d": "China"
+      },
+      "one_liner": "Afghanistan opposed Pakistan's entry into the United Nations because of the dispute over the **Durand Line**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

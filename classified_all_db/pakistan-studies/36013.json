@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Pakistan open its first embassy?",
+      "options": {
+        "a": "Saudi Arabia",
+        "b": "Iran",
+        "c": "Turkey",
+        "d": "Egypt"
+      },
+      "one_liner": "Pakistan opened its first embassy in **Iran**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

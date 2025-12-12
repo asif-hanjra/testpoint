@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "At the time of partition, which country received the Muslim-majority districts of Gurdaspur and Ferozepur?",
+      "options": {
+        "a": "Pakistan",
+        "b": "India",
+        "c": "Bangladesh",
+        "d": "None of these"
+      },
+      "one_liner": "Despite being Muslim-majority areas, **Gurdaspur and Ferozepur** were awarded to India at the time of partition.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

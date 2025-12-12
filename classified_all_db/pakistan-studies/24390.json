@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many years did Gwadar remain under Oman's rule?",
+      "options": {
+        "a": "100 years",
+        "b": "174 years",
+        "c": "200 years",
+        "d": "None of these"
+      },
+      "one_liner": "Gwadar was under the control of Oman for a period of **174 years**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1950)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

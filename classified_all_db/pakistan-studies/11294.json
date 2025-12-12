@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Quaid-e-Azam stay during his last illness in 1948?",
+      "options": {
+        "a": "Murree",
+        "b": "Ziarat",
+        "c": "Karachi",
+        "d": "Lahore"
+      },
+      "one_liner": "During his last illness in 1948, Quaid-e-Azam stayed in **Ziarat**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

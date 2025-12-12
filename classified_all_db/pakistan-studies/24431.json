@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the profession of the famous Urdu poet Mustafa Zaidi?",
+      "options": {
+        "a": "Civil Servant",
+        "b": "Lawyer",
+        "c": "Doctor",
+        "d": "Engineer"
+      },
+      "one_liner": "The famous Urdu poet Mustafa Zaidi was professionally a **Civil Servant**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

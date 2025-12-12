@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Foreign Minister of Pakistan during the Tashkent Declaration?",
+      "options": {
+        "a": "Z. A. Bhutto",
+        "b": "Liaquat Ali Khan",
+        "c": "Ayub Khan",
+        "d": "None of these"
+      },
+      "one_liner": "During the Tashkent Declaration, the Foreign Minister of Pakistan was **Z. A. Bhutto**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

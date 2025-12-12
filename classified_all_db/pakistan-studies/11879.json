@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose government in Pakistan did Atal Bihari Vajpayee visit in February 1999?",
+      "options": {
+        "a": "Benazir Bhutto",
+        "b": "Nawaz Sharif",
+        "c": "Pervez Musharraf",
+        "d": "Yousaf Raza Gillani"
+      },
+      "one_liner": "Atal Bihari Vajpayee visited Pakistan in February 1999 when **Nawaz Sharif** was the Prime Minister of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

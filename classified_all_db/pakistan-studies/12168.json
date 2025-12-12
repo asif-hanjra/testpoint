@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year did the government of Pakistan form a committee to prepare the National Anthem of Pakistan?",
+      "options": {
+        "a": "August 1947",
+        "b": "March 1950",
+        "c": "February 1949",
+        "d": "June 1951"
+      },
+      "one_liner": "The committee to prepare the National Anthem of Pakistan was formed by the government in **February 1949**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

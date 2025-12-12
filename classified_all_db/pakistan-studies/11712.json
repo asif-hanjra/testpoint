@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Karachi Agreement was signed after which conflict between India and Pakistan?",
+      "options": {
+        "a": "Indo-Pakistani War of 1965",
+        "b": "Indo-Pakistani War of 1947",
+        "c": "Indo-Pakistani War of 1971",
+        "d": "None of these"
+      },
+      "one_liner": "The Karachi Agreement was signed following the **Indo-Pakistani War of 1947**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

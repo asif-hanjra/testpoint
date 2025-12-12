@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Delhi Agreement of 1973 was signed after which major conflict?",
+      "options": {
+        "a": "1965 War",
+        "b": "1971 War",
+        "c": "Kargil Conflict",
+        "d": "Indo-China War"
+      },
+      "one_liner": "The Delhi Agreement of 1973 was signed following the **1971 War** between India and Pakistan, which led to the creation of Bangladesh.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

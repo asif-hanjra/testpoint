@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times did Pakistan win the Champions Trophy in hockey?",
+      "options": {
+        "a": "Two times",
+        "b": "Three times",
+        "c": "Four times",
+        "d": "Five times"
+      },
+      "one_liner": "Pakistan's hockey team emerged victorious in the Champions Trophy tournament **three times**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

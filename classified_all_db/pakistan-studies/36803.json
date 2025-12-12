@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date did the Indian Prime Minister visit Pakistan in 1999?",
+      "options": {
+        "a": "15 August, 1999",
+        "b": "20 February, 1999",
+        "c": "12 December, 1999",
+        "d": "5 May, 1999"
+      },
+      "one_liner": "The Indian Prime Minister visited Pakistan on **20 February, 1999**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

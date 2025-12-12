@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party boycotted the election of Shehbaz Sharif as the 23rd prime minister of Pakistan?",
+      "options": {
+        "a": "PPP",
+        "b": "PML-N",
+        "c": "PTI",
+        "d": "MQM"
+      },
+      "one_liner": "The **PTI** boycotted the election in which Shehbaz Sharif became the 23rd prime minister of Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

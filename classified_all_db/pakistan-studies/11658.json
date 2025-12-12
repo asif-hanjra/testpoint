@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Paul H. Ealing assume charge as the first US ambassador to Pakistan?",
+      "options": {
+        "a": "14th August, 1947",
+        "b": "23rd September, 1947",
+        "c": "1st January, 1948",
+        "d": "None of these"
+      },
+      "one_liner": "Paul H. Ealing assumed charge as the first US ambassador to Pakistan on **23rd September, 1947**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1947)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

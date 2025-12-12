@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the national motto of Pakistan?",
+      "options": {
+        "a": "Justice, Peace, Progress",
+        "b": "Faith, Unity, Discipline",
+        "c": "Strength, Honor, Courage",
+        "d": "None of these"
+      },
+      "one_liner": "The national motto of Pakistan is **Faith, Unity, Discipline**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

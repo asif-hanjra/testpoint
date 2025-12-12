@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the tenure of Liaquat Ali Khan as Prime Minister of Pakistan?",
+      "options": {
+        "a": "August 15, 1947 – October 16, 1951",
+        "b": "August 14, 1947 – October 16, 1951",
+        "c": "August 15, 1948 – October 16, 1952",
+        "d": "None of these"
+      },
+      "one_liner": "Liaquat Ali Khan served as Prime Minister of Pakistan from **August 15, 1947 to October 16, 1951**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

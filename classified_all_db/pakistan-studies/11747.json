@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which province is the Uch gas field located?",
+      "options": {
+        "a": "Sindh",
+        "b": "Punjab",
+        "c": "Balochistan",
+        "d": "Khyber Pakhtunkhwa"
+      },
+      "one_liner": "The Uch gas field is situated in the province of **Balochistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

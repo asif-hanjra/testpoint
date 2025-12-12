@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organization announced the detailed schedule for the 2024 general elections in Pakistan?",
+      "options": {
+        "a": "Supreme Court of Pakistan",
+        "b": "Election Commission of Pakistan",
+        "c": "National Assembly",
+        "d": "None of these"
+      },
+      "one_liner": "The detailed schedule for the 2024 general elections in Pakistan was announced by the **Election Commission of Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is known as the youngest Certified Microsoft Professional?",
+      "options": {
+        "a": "Afra Karim",
+        "b": "Arfa Siddiqui",
+        "c": "Samina Baig",
+        "d": "None of these"
+      },
+      "one_liner": "The youngest Certified Microsoft Professional is **Afra Karim**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

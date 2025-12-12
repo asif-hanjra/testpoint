@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the second census of Pakistan held?",
+      "options": {
+        "a": "1951",
+        "b": "1961",
+        "c": "1972",
+        "d": "1998"
+      },
+      "one_liner": "The second census of Pakistan was held in **1961**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

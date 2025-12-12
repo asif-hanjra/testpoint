@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the Public Representative Office Disqualification Act (PRODA) passed?",
+      "options": {
+        "a": "January 1949",
+        "b": "March 1950",
+        "c": "August 1947",
+        "d": "None of these"
+      },
+      "one_liner": "The Public Representative Office Disqualification Act (PRODA) was passed in **January 1949**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1950)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

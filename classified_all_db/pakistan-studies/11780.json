@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who directed the feature film 'Jinnah'?",
+      "options": {
+        "a": "Sharmeen Obaid-Chinoy",
+        "b": "Jamil Dehlavi",
+        "c": "Shoaib Mansoor",
+        "d": "None of these"
+      },
+      "one_liner": "The feature film 'Jinnah' was directed by **Jamil Dehlavi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

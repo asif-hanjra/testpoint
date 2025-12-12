@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which international organization brokered the Indus Waters Treaty of 1960 between India and Pakistan?",
+      "options": {
+        "a": "United Nations",
+        "b": "World Bank",
+        "c": "International Monetary Fund",
+        "d": "None of these"
+      },
+      "one_liner": "The Indus Waters Treaty of 1960 between India and Pakistan was brokered by the **World Bank**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Olympics",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

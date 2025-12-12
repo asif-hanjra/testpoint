@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Prime Minister of Pakistan when the first constitution was adopted in 1956?",
+      "options": {
+        "a": "Ch. Muhammad Ali",
+        "b": "Liaquat Ali Khan",
+        "c": "Khawaja Nazimuddin",
+        "d": "None of these"
+      },
+      "one_liner": "Chaudhry Muhammad Ali was the Prime Minister of Pakistan at the time the first constitution was adopted in **1956**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1956 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

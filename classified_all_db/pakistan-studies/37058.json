@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the oldest barrage in Pakistan?",
+      "options": {
+        "a": "Guddu Barrage",
+        "b": "Sukkur Barrage",
+        "c": "Taunsa Barrage",
+        "d": "Chashma Barrage"
+      },
+      "one_liner": "The oldest barrage in Pakistan is the **Sukkur Barrage**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

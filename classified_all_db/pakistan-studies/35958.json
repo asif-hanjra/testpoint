@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The APS Peshawar attack was launched in retaliation to which military operation?",
+      "options": {
+        "a": "Operation Rah-e-Nijat",
+        "b": "Operation Zarb-e-Azb",
+        "c": "Operation Black Thunderstorm",
+        "d": "None of these"
+      },
+      "one_liner": "The APS Peshawar attack was a response to **Operation Zarb-e-Azb**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

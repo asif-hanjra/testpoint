@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the main reason for Pakistan's nuclear tests in 1998?",
+      "options": {
+        "a": "US sanctions",
+        "b": "China's nuclear program",
+        "c": "India's second nuclear tests",
+        "d": "UN resolutions"
+      },
+      "one_liner": "Pakistan's nuclear tests in 1998 were a direct response to **India's second nuclear tests on 11 and 13 May 1998**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

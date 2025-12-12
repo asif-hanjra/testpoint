@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the code name for the US Navy SEALs operation in Abbottabad that targeted Osama bin Laden?",
+      "options": {
+        "a": "Desert Storm",
+        "b": "Neptune Spear",
+        "c": "Enduring Freedom",
+        "d": "Red Dawn"
+      },
+      "one_liner": "The code name for the US Navy SEALs operation in Abbottabad targeting Osama bin Laden was **Neptune Spear**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the Soviet Union invade Afghanistan?",
+      "options": {
+        "a": "24 December 1979",
+        "b": "15 August 1978",
+        "c": "5 July 1977",
+        "d": "None of these"
+      },
+      "one_liner": "The Soviet Union invaded Afghanistan on **24 December 1979**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

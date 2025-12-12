@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which corridor connects the Darbar Sahib Gurdwara to India?",
+      "options": {
+        "a": "Wagah corridor",
+        "b": "Kartarpur corridor",
+        "c": "Attari corridor",
+        "d": "None of these"
+      },
+      "one_liner": "The Kartarpur corridor serves as a link between the Darbar Sahib Gurdwara and **India**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

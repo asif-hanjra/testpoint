@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the war of 1965 between Pakistan and India begin?",
+      "options": {
+        "a": "14 August 1965",
+        "b": "6 September 1965",
+        "c": "23 March 1965",
+        "d": "1 January 1965"
+      },
+      "one_liner": "The war of 1965 between Pakistan and India began on **6 September 1965**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

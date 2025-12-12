@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who elects the President of Pakistan?",
+      "options": {
+        "a": "Members of National Assembly only",
+        "b": "Members of Senate only",
+        "c": "Members of both Houses of Parliament and Provincial Assemblies",
+        "d": "None of these"
+      },
+      "one_liner": "The President of Pakistan is elected by the members of both Houses of Parliament and the Provincial Assemblies, making the process a joint electoral exercise.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

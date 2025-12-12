@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was a member of the first delegation sent to the United Nations after the establishment of Pakistan?",
+      "options": {
+        "a": "Begum Salma Tasadduq",
+        "b": "Fatima Jinnah",
+        "c": "Begum Rana Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Begum Salma Tasadduq was among those who participated in the first delegation sent to the United Nations after Pakistan was established, making her a significant figure in Pakistan's early diplomatic history.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

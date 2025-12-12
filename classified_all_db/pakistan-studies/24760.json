@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Chief Justice that gave the famous judgment against Maulvi Tamizuddin in the Federal Court?",
+      "options": {
+        "a": "Justice Cornelius",
+        "b": "Justice Muhammad Munir",
+        "c": "Justice Sajjad Ali Shah",
+        "d": "Justice A.R. Cornelius"
+      },
+      "one_liner": "The famous judgment against Maulvi Tamizuddin in the Federal Court was given by **Chief Justice Muhammad Munir**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

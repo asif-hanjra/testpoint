@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the highest rank in the Pakistan Army?",
+      "options": {
+        "a": "Colonel",
+        "b": "Major General",
+        "c": "General",
+        "d": "Lieutenant General"
+      },
+      "one_liner": "The highest rank in the Pakistan Army is **General**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Pakistan become a member of the International Labor Organization?",
+      "options": {
+        "a": "1947",
+        "b": "1950",
+        "c": "1960",
+        "d": "1971"
+      },
+      "one_liner": "Pakistan became a member of the International Labor Organization in **1947** shortly after its independence.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

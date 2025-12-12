@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which direction does Russia lie from Pakistan?",
+      "options": {
+        "a": "South-West",
+        "b": "North-East",
+        "c": "North-West",
+        "d": "South-East"
+      },
+      "one_liner": "Russia is located to the **north-east** of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the playing position of Lionel Messi?",
+      "options": {
+        "a": "Goalkeeper",
+        "b": "Defender",
+        "c": "Midfielder",
+        "d": "Forward"
+      },
+      "one_liner": "Lionel Messi's main playing position is as a **forward**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

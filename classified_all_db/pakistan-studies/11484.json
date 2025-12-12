@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who assumed the office of President of Pakistan in 2001 while also remaining Chief of Army Staff?",
+      "options": {
+        "a": "General Pervez Musharraf",
+        "b": "General Ashfaq Parvez Kayani",
+        "c": "Nawaz Sharif",
+        "d": "Benazir Bhutto"
+      },
+      "one_liner": "In 2001, **General Pervez Musharraf** became President of Pakistan while continuing as Chief of Army Staff.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

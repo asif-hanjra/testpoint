@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many articles are there in the Constitution of 1973 of Pakistan?",
+      "options": {
+        "a": "280",
+        "b": "290",
+        "c": "272",
+        "d": "300"
+      },
+      "one_liner": "The Constitution of 1973 of Pakistan contains a total of **280 articles**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

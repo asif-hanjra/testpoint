@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Pakistani tabla player is renowned worldwide for his skill and mastery of the tabla?",
+      "options": {
+        "a": "Mian Qadir Baksh",
+        "b": "Ustad Shaukat Hussain",
+        "c": "Tari Khan",
+        "d": "All of these"
+      },
+      "one_liner": "**Mian Qadir Baksh** is renowned worldwide for his exceptional skill and mastery of the tabla.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

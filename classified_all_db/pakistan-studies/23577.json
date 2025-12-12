@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which province of Pakistan is the Khyber Pass located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Khyber Pakhtunkhwa (KPK)",
+        "d": "Balochistan"
+      },
+      "one_liner": "The Khyber Pass, a historic mountain pass, is situated in the province of **Khyber Pakhtunkhwa (KPK)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

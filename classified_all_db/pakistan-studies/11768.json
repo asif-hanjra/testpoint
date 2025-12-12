@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'The Making of Pakistan'?",
+      "options": {
+        "a": "K. K. Aziz",
+        "b": "I. H. Qureshi",
+        "c": "Stanley Wolpert",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'The Making of Pakistan' was authored by **K. K. Aziz**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

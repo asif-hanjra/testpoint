@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "To which musical family does Shafqat Amanat Ali belong?",
+      "options": {
+        "a": "Gwalior",
+        "b": "Patiala",
+        "c": "Delhi",
+        "d": "None of these"
+      },
+      "one_liner": "Shafqat Amanat Ali is associated with the **Patiala** musical family.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

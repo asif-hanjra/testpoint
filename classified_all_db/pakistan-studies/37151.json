@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Pakistan leave the Commonwealth?",
+      "options": {
+        "a": "January 1972",
+        "b": "August 1947",
+        "c": "March 1965",
+        "d": "September 1973"
+      },
+      "one_liner": "Pakistan left the Commonwealth in **January 1972**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

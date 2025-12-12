@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many members, nominated by the Prime Minister, are part of the Council of Common Interests (CCI) in Pakistan?",
+      "options": {
+        "a": "Two",
+        "b": "Three",
+        "c": "Four",
+        "d": "None of these"
+      },
+      "one_liner": "The Council of Common Interests (CCI) includes **three** members nominated by the Prime Minister of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

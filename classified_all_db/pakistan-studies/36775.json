@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organization is responsible for export promotion in Pakistan?",
+      "options": {
+        "a": "TDAP",
+        "b": "FBR",
+        "c": "SBP",
+        "d": "SECP"
+      },
+      "one_liner": "The organization responsible for export promotion in Pakistan is the **TDAP** (Trade Development Authority of Pakistan).",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

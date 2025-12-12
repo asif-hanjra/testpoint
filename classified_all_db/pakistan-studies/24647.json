@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was required to be the president of Pakistan under the constitution?",
+      "options": {
+        "a": "A Hindu",
+        "b": "A Christian",
+        "c": "A Muslim",
+        "d": "None of these"
+      },
+      "one_liner": "The constitution required that the president of Pakistan must be a **Muslim**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constitution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

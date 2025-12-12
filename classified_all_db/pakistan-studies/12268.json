@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was the 1973 constitution of Pakistan enforced?",
+      "options": {
+        "a": "23 March 1973",
+        "b": "1 July 1973",
+        "c": "14 August 1973",
+        "d": "25 December 1973"
+      },
+      "one_liner": "The 1973 constitution of Pakistan was enforced on **14 August 1973**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

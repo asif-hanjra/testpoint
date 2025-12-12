@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Pakistani leader returned to Pakistan in 2007 after about 8 years of exile?",
+      "options": {
+        "a": "Nawaz Sharif",
+        "b": "Benazir Bhutto",
+        "c": "Pervez Musharraf",
+        "d": "Yousaf Raza Gillani"
+      },
+      "one_liner": "**Benazir Bhutto** returned to Pakistan in 2007 after nearly 8 years in exile.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

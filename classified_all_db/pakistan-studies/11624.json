@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of the Economic Cooperation Organization (ECO) located?",
+      "options": {
+        "a": "Islamabad",
+        "b": "Ankara",
+        "c": "Tehran",
+        "d": "Kabul"
+      },
+      "one_liner": "The headquarters of the Economic Cooperation Organization (ECO) is located in **Tehran, Iran**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

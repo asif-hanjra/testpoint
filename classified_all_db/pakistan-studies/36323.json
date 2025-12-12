@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year were the Zakat and Usher Ordinance promulgated in Pakistan?",
+      "options": {
+        "a": "1977",
+        "b": "1980",
+        "c": "1985",
+        "d": "1990"
+      },
+      "one_liner": "The Zakat and Usher Ordinance were promulgated in **1980** in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

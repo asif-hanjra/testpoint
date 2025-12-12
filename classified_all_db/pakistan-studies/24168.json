@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What new title replaced 'commander-in-chief' for the head of Pakistan Army in 1972?",
+      "options": {
+        "a": "Field Marshal",
+        "b": "Chief of Army Staff",
+        "c": "General Secretary",
+        "d": "None of these"
+      },
+      "one_liner": "In 1972, the title 'commander-in-chief' was replaced with **Chief of Army Staff** for the head of the Pakistan Army.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

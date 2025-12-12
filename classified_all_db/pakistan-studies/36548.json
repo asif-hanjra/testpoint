@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the foreign minister of Pakistan in 1963?",
+      "options": {
+        "a": "Ayub Khan",
+        "b": "Zulfikar Ali Bhutto",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "In 1963, **Zulfikar Ali Bhutto** was appointed as the foreign minister of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constitution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

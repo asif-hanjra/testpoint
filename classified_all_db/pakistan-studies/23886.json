@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which amendment led to the removal of Article 58(2)(b) from the Constitution of Pakistan?",
+      "options": {
+        "a": "Eighth Amendment",
+        "b": "Seventh Amendment",
+        "c": "Twelfth Amendment",
+        "d": "None of these"
+      },
+      "one_liner": "The removal of Article 58(2)(b) from the Constitution of Pakistan was enacted through the **Eighth Amendment**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

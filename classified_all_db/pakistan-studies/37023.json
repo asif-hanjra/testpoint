@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which title was officially approved for Muhammad Ali Jinnah by a resolution on 12th August 1947?",
+      "options": {
+        "a": "Baba-e-Qaum",
+        "b": "Father of the Nation",
+        "c": "Quaid-i-Azam",
+        "d": "Sir"
+      },
+      "one_liner": "On 12th August 1947, a resolution was approved to officially address Muhammad Ali Jinnah as **Quaid-i-Azam**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the average elevation of Deosai National Park?",
+      "options": {
+        "a": "2,000 metres",
+        "b": "3,000 metres",
+        "c": "4,114 metres",
+        "d": "5,000 metres"
+      },
+      "one_liner": "Deosai National Park stands out as one of the world's highest plateaus with an average elevation of **4,114 metres**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

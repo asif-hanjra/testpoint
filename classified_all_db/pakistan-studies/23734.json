@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the National Action Plan announced in Pakistan?",
+      "options": {
+        "a": "December 2014",
+        "b": "January 2015",
+        "c": "November 2014",
+        "d": "October 2013"
+      },
+      "one_liner": "The National Action Plan was announced in **December 2014** to address terrorism in Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

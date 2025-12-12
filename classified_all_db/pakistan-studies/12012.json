@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which region of Pakistan was Indian spy Kulbhushan Yadav apprehended?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Khyber Pakhtunkhwa",
+        "d": "Baluchistan"
+      },
+      "one_liner": "The Indian spy Kulbhushan Yadav was apprehended in the region of **Baluchistan** in Pakistan.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

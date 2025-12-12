@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which act did Pakistan adopt as its governing law after its creation in 1947?",
+      "options": {
+        "a": "Indian Independence Act, 1947",
+        "b": "Constitution of 1956",
+        "c": "Government of India Act, 1935",
+        "d": "None of these"
+      },
+      "one_liner": "After its creation, Pakistan adopted the **Government of India Act, 1935** as its governing law.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

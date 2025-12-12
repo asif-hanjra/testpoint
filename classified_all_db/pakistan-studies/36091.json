@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which order was the legal setup established during Zia's martial law regime?",
+      "options": {
+        "a": "Provisional Constitution Order (PCO)",
+        "b": "Legal Framework Order (LFO)",
+        "c": "Constitution of 1973",
+        "d": "None of these"
+      },
+      "one_liner": "The legal framework during Zia's martial law was established through the **Provisional Constitution Order (PCO)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

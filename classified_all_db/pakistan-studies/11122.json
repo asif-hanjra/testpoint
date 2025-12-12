@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Sindh announce Sindhi as its official language?",
+      "options": {
+        "a": "14 August 1947",
+        "b": "7 July 1972",
+        "c": "16 December 1971",
+        "d": "23 March 1956"
+      },
+      "one_liner": "Sindh declared Sindhi as its official language on **7 July 1972**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

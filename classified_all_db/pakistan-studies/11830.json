@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What title is popularly used for Fatima Jinnah?",
+      "options": {
+        "a": "Madar-e-Millat",
+        "b": "Quaid-e-Azam",
+        "c": "Shaheed-e-Millat",
+        "d": "None of these"
+      },
+      "one_liner": "Fatima Jinnah is popularly known as the **Madar-e-Millat**, which means Mother of the Nation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

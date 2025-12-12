@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the Chairman of the National Economic Council in Pakistan?",
+      "options": {
+        "a": "President",
+        "b": "Chief Justice",
+        "c": "Prime Minister",
+        "d": "Finance Minister"
+      },
+      "one_liner": "The Chairman of the National Economic Council in Pakistan is the **Prime Minister**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

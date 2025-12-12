@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who took oath as President of Pakistan after Pervez Musharraf stepped down in 2008?",
+      "options": {
+        "a": "Yousaf Raza Gilani",
+        "b": "Mamnoon Hussain",
+        "c": "Asif Zardari",
+        "d": "Raza Rabbani"
+      },
+      "one_liner": "Following Pervez Musharraf's resignation in 2008, **Asif Zardari** took oath as President of Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

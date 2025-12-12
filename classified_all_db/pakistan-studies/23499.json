@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the second President of Pakistan?",
+      "options": {
+        "a": "Iskander Mirza",
+        "b": "Ayub Khan",
+        "c": "Yahya Khan",
+        "d": "Zulfikar Ali Bhutto"
+      },
+      "one_liner": "The second President of Pakistan was **Ayub Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

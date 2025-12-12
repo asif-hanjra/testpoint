@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which location served as the summer residence of the chief commissioner of Baluchistan?",
+      "options": {
+        "a": "Quetta",
+        "b": "Ziarat",
+        "c": "Gwadar",
+        "d": "Khuzdar"
+      },
+      "one_liner": "Ziarat was historically used as the summer residence by the chief commissioner of **Baluchistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

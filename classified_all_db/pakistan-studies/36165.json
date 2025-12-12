@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the biggest barrage of Pakistan?",
+      "options": {
+        "a": "Guddu Barrage",
+        "b": "Taunsa Barrage",
+        "c": "Sukkur Barrage",
+        "d": "Kotri Barrage"
+      },
+      "one_liner": "The biggest barrage in Pakistan is the **Sukkur Barrage**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "More Facts about Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

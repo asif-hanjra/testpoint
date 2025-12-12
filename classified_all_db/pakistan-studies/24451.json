@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which was the first princely state to join Pakistan in 1947?",
+      "options": {
+        "a": "Bahawalpur",
+        "b": "Kalat",
+        "c": "Swat",
+        "d": "None of these"
+      },
+      "one_liner": "Bahawalpur was the first princely state to join **Pakistan** in 1947 after independence.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

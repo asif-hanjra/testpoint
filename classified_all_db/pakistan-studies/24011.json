@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which section of the Criminal Procedure Code (CrPC) does the High Court have the power to transfer a case or try it itself?",
+      "options": {
+        "a": "Section 230",
+        "b": "Section 154",
+        "c": "Section 302",
+        "d": "Section 190"
+      },
+      "one_liner": "The High Court is empowered to transfer a case or try it itself under **section 230 of the Criminal Procedure Code (CrPC)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

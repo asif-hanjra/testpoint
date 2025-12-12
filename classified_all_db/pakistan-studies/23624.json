@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which country was the 1992 Cricket World Cup, won by Pakistan, held?",
+      "options": {
+        "a": "England",
+        "b": "India",
+        "c": "Australia",
+        "d": "South Africa"
+      },
+      "one_liner": "The 1992 Cricket World Cup, which Pakistan won, was held in **Australia**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

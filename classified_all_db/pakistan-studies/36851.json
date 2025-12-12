@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How did General Pervaiz Musharraf become President of Pakistan in 2002?",
+      "options": {
+        "a": "General elections",
+        "b": "Presidential nomination",
+        "c": "Referendum",
+        "d": "Military appointment"
+      },
+      "one_liner": "General Pervaiz Musharraf became President of Pakistan in 2002 by being elected through a **referendum**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

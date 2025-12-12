@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many articles and schedules are there in the 1973 Constitution of Pakistan?",
+      "options": {
+        "a": "100 articles and 5 schedules",
+        "b": "280 articles and 7 schedules",
+        "c": "200 articles and 6 schedules",
+        "d": "None of these"
+      },
+      "one_liner": "The 1973 Constitution of Pakistan contains **280 articles and 7 schedules**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constitution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

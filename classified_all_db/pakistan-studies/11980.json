@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who dismissed the Khawaja Nazimuddin government in 1953?",
+      "options": {
+        "a": "Muhammad Ali Bogra",
+        "b": "Malik Ghulam Mohammad",
+        "c": "Chaudhary Muhammad Ali",
+        "d": "Iskander Mirza"
+      },
+      "one_liner": "The Khawaja Nazimuddin government was dismissed by **Governor General Malik Ghulam Mohammad** in 1953.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

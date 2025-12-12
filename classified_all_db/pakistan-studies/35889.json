@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the terrorist attack on Army Public School Peshawar take place?",
+      "options": {
+        "a": "December 16, 2014",
+        "b": "January 1, 2014",
+        "c": "August 14, 2014",
+        "d": "March 23, 2014"
+      },
+      "one_liner": "The Army Public School Peshawar attack occurred on **December 16, 2014**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

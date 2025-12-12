@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which areas of Jalandar were handed over to India despite being Muslim majority during the partition?",
+      "options": {
+        "a": "All of these",
+        "b": "Only Hindu majority areas",
+        "c": "Only Sikh majority areas",
+        "d": "None of these"
+      },
+      "one_liner": "Several **Muslim majority areas of Jalandar** were handed over to India during the partition, despite their demographic composition.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "After which war was the Tashkent Pact signed between India and Pakistan?",
+      "options": {
+        "a": "War of 1948",
+        "b": "War of 1965",
+        "c": "War of 1971",
+        "d": "None of these"
+      },
+      "one_liner": "The Tashkent Pact was signed between India and Pakistan after the **war of 1965**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was Pakistan's first permanent representative to the United Nations?",
+      "options": {
+        "a": "Patras Bokhari",
+        "b": "Zafarullah Khan",
+        "c": "Abdul Sattar",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan's first permanent representative to the United Nations was **Patras Bokhari**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

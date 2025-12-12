@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was the State Bank of Pakistan inaugurated?",
+      "options": {
+        "a": "14th August 1947",
+        "b": "23rd March 1948",
+        "c": "1st July 1948",
+        "d": "1st January 1949"
+      },
+      "one_liner": "The State Bank of Pakistan was inaugurated on **1st July 1948**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

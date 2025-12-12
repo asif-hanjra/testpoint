@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country did Pakistan defeat in the ICC Champions Trophy on 18th June?",
+      "options": {
+        "a": "Australia",
+        "b": "England",
+        "c": "India",
+        "d": "None of these"
+      },
+      "one_liner": "On 18th June, Pakistan secured victory against **India** in the ICC Champions Trophy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

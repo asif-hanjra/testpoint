@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How is Pakistan ranked in the world by area?",
+      "options": {
+        "a": "23rd",
+        "b": "33rd",
+        "c": "43rd",
+        "d": "53rd"
+      },
+      "one_liner": "Pakistan is the **33rd-largest country by area** in the world.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

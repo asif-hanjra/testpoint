@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was Ghulam Mohammad's profession before becoming the first finance minister of Pakistan?",
+      "options": {
+        "a": "Lawyer",
+        "b": "Civil Servant",
+        "c": "Army Officer",
+        "d": "Businessman"
+      },
+      "one_liner": "Before becoming the first finance minister of Pakistan, Ghulam Mohammad was a **civil servant**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

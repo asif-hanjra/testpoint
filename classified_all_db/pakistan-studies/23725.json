@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did East Pakistan separate from Pakistan and become Bangladesh?",
+      "options": {
+        "a": "December 16, 1971",
+        "b": "December 20, 1971",
+        "c": "March 23, 1971",
+        "d": "August 14, 1971"
+      },
+      "one_liner": "East Pakistan officially became **Bangladesh** on December 16, 1971, marking its separation from Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

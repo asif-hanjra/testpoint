@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which additional portfolios did Liaquat Ali Khan hold besides being the Prime Minister of Pakistan?",
+      "options": {
+        "a": "Defence and Commonwealth",
+        "b": "Finance and Interior",
+        "c": "Education and Health",
+        "d": "None of these"
+      },
+      "one_liner": "Liaquat Ali Khan, apart from serving as the Prime Minister of Pakistan, also held the portfolios of **defence and Commonwealth**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

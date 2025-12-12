@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What proposal did Pakistan give to India to resolve the Sir Creek dispute?",
+      "options": {
+        "a": "International arbitration",
+        "b": "Bilateral talks only",
+        "c": "UN mediation",
+        "d": "Military intervention"
+      },
+      "one_liner": "Pakistan proposed that the Sir Creek dispute should be resolved through **international arbitration**, but India rejected this suggestion.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

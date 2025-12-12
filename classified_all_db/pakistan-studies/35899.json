@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was the referendum regarding Pervez Musharraf's continuation as president held in Pakistan?",
+      "options": {
+        "a": "March 23, 2002",
+        "b": "April 30, 2002",
+        "c": "August 14, 2002",
+        "d": "December 16, 2002"
+      },
+      "one_liner": "The referendum to decide whether Pervez Musharraf should continue as president for five years was held in Pakistan on **April 30, 2002**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

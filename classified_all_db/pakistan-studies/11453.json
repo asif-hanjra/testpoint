@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Pakistani leader's government announced land reforms on 1 March, 1972?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Zulfiqar Ali Bhutto",
+        "c": "Benazir Bhutto",
+        "d": "Pervez Musharraf"
+      },
+      "one_liner": "It was **Zulfiqar Ali Bhutto's** government that announced land reforms on 1 March, 1972.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

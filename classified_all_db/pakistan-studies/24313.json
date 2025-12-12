@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was Pakistan's initial status after independence in 1947?",
+      "options": {
+        "a": "Republic",
+        "b": "Dominion of the British Commonwealth",
+        "c": "Islamic State",
+        "d": "None of these"
+      },
+      "one_liner": "After independence in 1947, Pakistan was initially a **Dominion of the British Commonwealth**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

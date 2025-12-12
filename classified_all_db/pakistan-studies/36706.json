@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is regarded as the greatest tennis player of all time with a record 20 Grand Slam titles?",
+      "options": {
+        "a": "Rafael Nadal",
+        "b": "Roger Federer",
+        "c": "Novak Djokovic",
+        "d": "Aisam-ul-Haq"
+      },
+      "one_liner": "**Roger Federer** is widely regarded as the greatest tennis player of all time, holding a record 20 Grand Slam titles.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tennis",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Tennis",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

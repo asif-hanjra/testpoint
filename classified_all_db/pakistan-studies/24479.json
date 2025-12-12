@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was an Indian Airlines aeroplane hijacked by two Kashmiri separatists and landed at Lahore Airport?",
+      "options": {
+        "a": "1969",
+        "b": "1970",
+        "c": "1971",
+        "d": "1972"
+      },
+      "one_liner": "In **1971**, an Indian Airlines aeroplane hijacked by Kashmiri separatists landed at Lahore Airport.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

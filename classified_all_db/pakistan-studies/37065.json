@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which district is Kalabagh located?",
+      "options": {
+        "a": "Lahore",
+        "b": "Multan",
+        "c": "Mianwali",
+        "d": "Bahawalpur"
+      },
+      "one_liner": "Kalabagh is situated in the district of **Mianwali**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

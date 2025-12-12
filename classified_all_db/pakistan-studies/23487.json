@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which article of the 1973 Constitution of Pakistan is related to the secret ballot?",
+      "options": {
+        "a": "Article 226",
+        "b": "Article 19",
+        "c": "Article 62",
+        "d": "Article 25"
+      },
+      "one_liner": "Article 226 of the 1973 Constitution of Pakistan deals with the provision of the **secret ballot**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

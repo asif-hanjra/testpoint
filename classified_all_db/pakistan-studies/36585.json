@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the Prime Minister of Pakistan and is known for his contributions to the country's early political landscape?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Khawaja Nazimuddin",
+        "c": "Mohammad Ali Bogra",
+        "d": "Feroz Khan Noon"
+      },
+      "one_liner": "The Prime Minister of Pakistan known for his significant role in the country's early years was **Mohammad Ali Bogra**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

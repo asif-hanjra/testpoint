@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country mediated the Tashkent Declaration in 1966 between Pakistan and India?",
+      "options": {
+        "a": "United States",
+        "b": "China",
+        "c": "Soviet Union",
+        "d": "United Kingdom"
+      },
+      "one_liner": "The Tashkent Declaration of 1966 between Pakistan and India was mediated by the **Soviet Union**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

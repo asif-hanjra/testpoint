@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the first session of the Constituent Assembly of Pakistan held?",
+      "options": {
+        "a": "Lahore",
+        "b": "Sindh Assembly Building Karachi",
+        "c": "Islamabad",
+        "d": "Peshawar"
+      },
+      "one_liner": "The first session of the Constituent Assembly of Pakistan took place at the **Sindh Assembly Building in Karachi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

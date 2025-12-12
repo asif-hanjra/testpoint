@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Indian spy Kulbhushan Jhadev arrested by Pakistani forces?",
+      "options": {
+        "a": "Mashkel",
+        "b": "Karachi",
+        "c": "Lahore",
+        "d": "Islamabad"
+      },
+      "one_liner": "Kulbhushan Jhadev, an Indian spy, was arrested by Pakistani forces in **Mashkel**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

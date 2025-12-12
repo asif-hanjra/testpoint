@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which financial institution was restructured as part of the 18th Amendment?",
+      "options": {
+        "a": "State Bank of Pakistan",
+        "b": "National Finance Commission Award",
+        "c": "Federal Board of Revenue",
+        "d": "None of these"
+      },
+      "one_liner": "The **National Finance Commission Award (NFC Award)** was restructured under the 18th Amendment.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

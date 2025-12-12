@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How did Zia-ul-Haq die?",
+      "options": {
+        "a": "Assassination",
+        "b": "Plane crash",
+        "c": "Natural causes",
+        "d": "None of these"
+      },
+      "one_liner": "Zia-ul-Haq lost his life in a **plane crash**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

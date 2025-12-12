@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following Princely States were annexed with Pakistan but later captured by the Indian army?",
+      "options": {
+        "a": "Hyderabad and Kashmir",
+        "b": "Junagarh, Monavadar, and Mangrol",
+        "c": "Kashmir and Hyderabad",
+        "d": "None of these"
+      },
+      "one_liner": "The Princely States of **Junagarh, Monavadar, and Mangrol** initially acceded to Pakistan but were subsequently captured by the Indian army.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

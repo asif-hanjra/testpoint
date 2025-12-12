@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did the Indian army attack across the international border during the Indo-Pak War of 1965?",
+      "options": {
+        "a": "August 14, 1965",
+        "b": "September 6, 1965",
+        "c": "September 22, 1965",
+        "d": "January 10, 1966"
+      },
+      "one_liner": "The Indian army launched an attack across the international border on **September 6, 1965**, marking the start of the Indo-Pak War of 1965.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

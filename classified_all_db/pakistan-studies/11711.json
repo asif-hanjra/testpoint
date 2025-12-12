@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city was named the new capital of Pakistan in 1960?",
+      "options": {
+        "a": "Lahore",
+        "b": "Islamabad",
+        "c": "Karachi",
+        "d": "Peshawar"
+      },
+      "one_liner": "In 1960, **Islamabad** was chosen as the new capital city of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

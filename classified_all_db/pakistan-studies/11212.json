@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How long did Pervaiz Musharraf stay in India during the Agra Summit?",
+      "options": {
+        "a": "Two days",
+        "b": "Three days",
+        "c": "Four days",
+        "d": "None of these"
+      },
+      "one_liner": "During the Agra Summit, Pervaiz Musharraf stayed in India for **four days**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

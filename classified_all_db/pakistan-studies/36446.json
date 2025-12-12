@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the mother language of Quaid-e-Azam Muhammad Ali Jinnah?",
+      "options": {
+        "a": "Punjabi",
+        "b": "Sindhi",
+        "c": "Gujarati",
+        "d": "Urdu"
+      },
+      "one_liner": "The mother tongue of Quaid-e-Azam Muhammad Ali Jinnah was **Gujarati**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

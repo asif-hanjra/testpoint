@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who held the office of President of Pakistan following the 1985 elections?",
+      "options": {
+        "a": "Ghulam Ishaq Khan",
+        "b": "Gen. Zia-ul-Haq",
+        "c": "Muhammad Khan Junejo",
+        "d": "None of these"
+      },
+      "one_liner": "Following the 1985 elections, **Gen. Zia-ul-Haq** continued as the President of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

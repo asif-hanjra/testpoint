@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which regiment did Major Raja Aziz Bhatti serve in?",
+      "options": {
+        "a": "Azad Kashmir Regiment",
+        "b": "Punjab Regiment",
+        "c": "Frontier Force Regiment",
+        "d": "Sindh Regiment"
+      },
+      "one_liner": "Major Raja Aziz Bhatti served in the **Punjab Regiment**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

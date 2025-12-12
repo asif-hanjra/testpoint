@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which three countries were involved in the Tripartite Agreement signed on 9 April 1974?",
+      "options": {
+        "a": "Pakistan, China, Afghanistan",
+        "b": "Pakistan, India, Bangladesh",
+        "c": "Pakistan, Iran, Bangladesh",
+        "d": "None of these"
+      },
+      "one_liner": "The Tripartite Agreement of 9 April 1974 was signed between **Pakistan, India, and Bangladesh**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

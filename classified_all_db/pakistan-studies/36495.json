@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many princely states out of 565 at the time of partition decided to join Pakistan?",
+      "options": {
+        "a": "10",
+        "b": "13",
+        "c": "20",
+        "d": "None of these"
+      },
+      "one_liner": "At the time of partition, **13 princely states** out of 565 chose to join Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the minimum age required to become a senator according to the 1973 Constitution of Pakistan?",
+      "options": {
+        "a": "25 years",
+        "b": "30 years",
+        "c": "35 years",
+        "d": "40 years"
+      },
+      "one_liner": "According to the 1973 Constitution of Pakistan, the minimum age required to become a senator is **30 years**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

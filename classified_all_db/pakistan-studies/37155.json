@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the first census of Pakistan conducted?",
+      "options": {
+        "a": "1947",
+        "b": "1951",
+        "c": "1961",
+        "d": "1971"
+      },
+      "one_liner": "The first census of Pakistan was conducted in **1951**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}
