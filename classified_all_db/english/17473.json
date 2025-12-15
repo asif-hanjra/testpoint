@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'false':",
+      "options": {
+        "a": "fabricated:authentic",
+        "b": "genuine:deceptive",
+        "c": "untrue:honest",
+        "d": "misleading:true"
+      },
+      "one_liner": "'Fabricated' is a synonym of 'false', while 'authentic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

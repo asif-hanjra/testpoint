@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'iterate':",
+      "options": {
+        "a": "continue",
+        "b": "proceed",
+        "c": "discontinue",
+        "d": "advance"
+      },
+      "one_liner": "An antonym of 'iterate' is 'discontinue', which means to stop the repetition or process.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

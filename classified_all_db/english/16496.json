@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'allegiance':",
+      "options": {
+        "a": "faithfulness",
+        "b": "loyalty",
+        "c": "betrayal",
+        "d": "devotion"
+      },
+      "one_liner": "The opposite of 'allegiance', which implies loyalty, would be 'treachery' or 'betrayal'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

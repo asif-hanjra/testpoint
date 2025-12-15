@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rowdy':",
+      "options": {
+        "a": "quiet",
+        "b": "boisterous",
+        "c": "peaceful",
+        "d": "serene"
+      },
+      "one_liner": "'Rowdy' describes someone who is noisy and disorderly, much like the word 'boisterous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

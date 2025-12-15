@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'clear':",
+      "options": {
+        "a": "opaque",
+        "b": "lucid",
+        "c": "muddy",
+        "d": "cloudy"
+      },
+      "one_liner": "'Clear' means transparent or unobstructed, similar to 'lucid' or 'transparent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'moderate':",
+      "options": {
+        "a": "extreme",
+        "b": "temperate",
+        "c": "excessive",
+        "d": "intense"
+      },
+      "one_liner": "'Moderate' means average in amount, intensity, or degree—words like 'temperate' and 'reasonable' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

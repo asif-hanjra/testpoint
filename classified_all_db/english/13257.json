@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prosperity':",
+      "options": {
+        "a": "poverty",
+        "b": "affluence",
+        "c": "hardship",
+        "d": "deficiency"
+      },
+      "one_liner": "'Prosperity' signifies wealth or success, similar to 'affluence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cumbersome':",
+      "options": {
+        "a": "manageable",
+        "b": "burdensome",
+        "c": "light",
+        "d": "convenient"
+      },
+      "one_liner": "'Cumbersome' means unwieldy or difficult to handle, similar to 'burdensome'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

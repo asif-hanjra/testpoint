@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'baneful':",
+      "options": {
+        "a": "destructive",
+        "b": "noxious",
+        "c": "salutary",
+        "d": "deadly"
+      },
+      "one_liner": "Antonyms of 'baneful' include 'beneficial' and 'salutary', both implying a positive effect.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

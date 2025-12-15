@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'amnesty':",
+      "options": {
+        "a": "clemency:penalty",
+        "b": "forgiveness:absolution",
+        "c": "pardon:retribution",
+        "d": "absolution:forgiveness"
+      },
+      "one_liner": "'Clemency' is a synonym of 'amnesty', while 'penalty' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

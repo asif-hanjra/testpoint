@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'robust':",
+      "options": {
+        "a": "vigorous:feeble",
+        "b": "weak:sturdy",
+        "c": "strong:fragile",
+        "d": "resilient:brittle"
+      },
+      "one_liner": "'Vigorous' is a synonym of 'robust', while 'feeble' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

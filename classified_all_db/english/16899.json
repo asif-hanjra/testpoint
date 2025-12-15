@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'phlegmatic':",
+      "options": {
+        "a": "impassive:indifferent",
+        "b": "stoic:spirited",
+        "c": "imperturbable:excitable",
+        "d": "unemotional:emotional"
+      },
+      "one_liner": "'Imperturbable' is a synonym of 'phlegmatic', while 'excitable' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

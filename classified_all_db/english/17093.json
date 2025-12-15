@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'neutral':",
+      "options": {
+        "a": "impartial",
+        "b": "unbiased",
+        "c": "partial",
+        "d": "detached"
+      },
+      "one_liner": "An antonym of 'neutral' is 'partial', which implies having a bias or preference.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

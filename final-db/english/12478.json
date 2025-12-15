@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sate':",
+      "options": {
+        "a": "gratify:dissatisfy",
+        "b": "fulfill:indulge",
+        "c": "satiate:satisfy",
+        "d": "quench:dehydrate"
+      },
+      "one_liner": "'Gratify' is a synonym of 'sate', while 'dissatisfy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

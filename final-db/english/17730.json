@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fallacy':",
+      "options": {
+        "a": "deception",
+        "b": "illusion",
+        "c": "truth",
+        "d": "error"
+      },
+      "one_liner": "An antonym of 'fallacy' is 'truth', which represents an accurate or accepted belief.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

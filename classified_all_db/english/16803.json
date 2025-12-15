@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ambrosial':",
+      "options": {
+        "a": "bland",
+        "b": "delicious",
+        "c": "foul",
+        "d": "stale"
+      },
+      "one_liner": "'Ambrosial' refers to something delightfully fragrant or tasting, similar to 'aromatic' or 'delicious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

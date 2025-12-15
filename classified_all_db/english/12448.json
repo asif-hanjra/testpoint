@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'give':",
+      "options": {
+        "a": "bestow:hoard",
+        "b": "donate:offer",
+        "c": "provide:contribute",
+        "d": "furnish:present"
+      },
+      "one_liner": "'Bestow' is a synonym of 'give', while 'hoard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

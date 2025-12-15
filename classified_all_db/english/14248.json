@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'profuse':",
+      "options": {
+        "a": "scarce",
+        "b": "copious",
+        "c": "meager",
+        "d": "sparse"
+      },
+      "one_liner": "'Profuse' means abundant or plentiful, similar to 'copious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

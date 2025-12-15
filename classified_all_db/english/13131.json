@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin abbreviation 'op. cit.' (opere citato) refer to in academic writing?",
+      "options": {
+        "a": "A work cited elsewhere in the document",
+        "b": "The same work cited previously",
+        "c": "An upcoming citation",
+        "d": "An unrelated work"
+      },
+      "one_liner": "'Op. cit.' (opere citato) is used to refer back to a source that has already been cited in a document.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

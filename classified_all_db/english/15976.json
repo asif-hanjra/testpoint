@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ashamed':",
+      "options": {
+        "a": "proud",
+        "b": "mortified",
+        "c": "elated",
+        "d": "joyful"
+      },
+      "one_liner": "'Ashamed' means feeling guilt or embarrassment, similar to 'mortified'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gauche':",
+      "options": {
+        "a": "tactless:sophisticated",
+        "b": "awkward:elegant",
+        "c": "clumsy:graceful",
+        "d": "inept:refined"
+      },
+      "one_liner": "'Tactless' is a synonym of 'gauche', while 'sophisticated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

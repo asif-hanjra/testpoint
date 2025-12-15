@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'able':",
+      "options": {
+        "a": "incapable",
+        "b": "capable",
+        "c": "weak",
+        "d": "inept"
+      },
+      "one_liner": "'Able' means having the power, skill, or means to do something, similar to 'capable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

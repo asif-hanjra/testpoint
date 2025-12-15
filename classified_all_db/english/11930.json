@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'awful':",
+      "options": {
+        "a": "horrible",
+        "b": "dreadful",
+        "c": "wonderful",
+        "d": "frightful"
+      },
+      "one_liner": "An antonym of 'awful' is 'wonderful', which means extremely good.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

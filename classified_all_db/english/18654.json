@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'divest':",
+      "options": {
+        "a": "invest",
+        "b": "dispossess",
+        "c": "enhance",
+        "d": "bestow"
+      },
+      "one_liner": "'Divest' means to strip or deprive someone of something, much like 'dispossess' or 'deprive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

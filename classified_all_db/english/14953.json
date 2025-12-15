@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exorbitant':",
+      "options": {
+        "a": "excessive:modest",
+        "b": "affordable:cheap",
+        "c": "outrageous:reasonable",
+        "d": "steep:lavish"
+      },
+      "one_liner": "'Excessive' is a synonym for 'exorbitant', while 'modest' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

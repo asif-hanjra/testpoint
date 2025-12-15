@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sober':",
+      "options": {
+        "a": "drunken",
+        "b": "temperate",
+        "c": "intoxicated",
+        "d": "inebriated"
+      },
+      "one_liner": "'Sober' means not affected by alcohol, similar to 'temperate' or 'abstinent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

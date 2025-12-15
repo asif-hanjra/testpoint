@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'identical':",
+      "options": {
+        "a": "similar",
+        "b": "equivalent",
+        "c": "different",
+        "d": "matching"
+      },
+      "one_liner": "The antonym of 'identical' is 'different', which means not the same as something or someone else.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

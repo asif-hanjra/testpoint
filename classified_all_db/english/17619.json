@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'burgeon':",
+      "options": {
+        "a": "expand",
+        "b": "escalate",
+        "c": "shrink",
+        "d": "soar"
+      },
+      "one_liner": "The antonym of 'burgeon', which means to grow rapidly, is 'shrink'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

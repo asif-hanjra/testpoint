@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'disinterested':",
+      "options": {
+        "a": "unbiased",
+        "b": "neutral",
+        "c": "partial",
+        "d": "fair"
+      },
+      "one_liner": "An antonym of 'disinterested' is 'partial', which means showing favoritism or bias.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

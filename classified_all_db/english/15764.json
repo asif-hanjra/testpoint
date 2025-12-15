@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vacant':",
+      "options": {
+        "a": "empty:occupied",
+        "b": "desolate:populated",
+        "c": "uninhabited:inhabited",
+        "d": "abandoned:full"
+      },
+      "one_liner": "'Empty' is a synonym of 'vacant', while 'occupied' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

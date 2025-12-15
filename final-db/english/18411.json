@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'less':",
+      "options": {
+        "a": "greater",
+        "b": "fewer",
+        "c": "more",
+        "d": "abundant"
+      },
+      "one_liner": "'Less' means a smaller amount or not as much, similar to 'fewer' or 'lesser'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

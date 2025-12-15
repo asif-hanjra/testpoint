@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'malaise':",
+      "options": {
+        "a": "discontent:contentment",
+        "b": "unease:comfort",
+        "c": "discomfort:pleasure",
+        "d": "well-being:illness"
+      },
+      "one_liner": "'Discontent' is a synonym for 'malaise', whereas 'contentment' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

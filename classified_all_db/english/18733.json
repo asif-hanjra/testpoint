@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'peccadillo':",
+      "options": {
+        "a": "infraction:flaw",
+        "b": "misdemeanor:perfection",
+        "c": "error:achievement",
+        "d": "slip:virtue"
+      },
+      "one_liner": "'Infraction' is a synonym of 'peccadillo', while 'perfection' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

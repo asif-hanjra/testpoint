@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prodigality':",
+      "options": {
+        "a": "frugality",
+        "b": "extravagance",
+        "c": "economy",
+        "d": "conservation"
+      },
+      "one_liner": "'Prodigality' suggests lavishness or extravagance, similar to 'extravagance' itself.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

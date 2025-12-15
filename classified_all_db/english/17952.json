@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'difficult':",
+      "options": {
+        "a": "tough:simple",
+        "b": "easy:hard",
+        "c": "challenging:effortless",
+        "d": "complex:uncomplicated"
+      },
+      "one_liner": "'Arduous' is a synonym of 'difficult', while 'simple' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

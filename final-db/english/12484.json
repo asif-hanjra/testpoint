@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'plumb':",
+      "options": {
+        "a": "deepen",
+        "b": "fathom",
+        "c": "shallow",
+        "d": "gauge"
+      },
+      "one_liner": "An antonym of 'plumb' in the context of depth would be 'shallow', which means not deep.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

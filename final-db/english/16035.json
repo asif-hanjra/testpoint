@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'perfect':",
+      "options": {
+        "a": "flawed",
+        "b": "impeccable",
+        "c": "deficient",
+        "d": "incomplete"
+      },
+      "one_liner": "'Perfect' means flawless or ideal, similar to 'impeccable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

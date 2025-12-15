@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'icon':",
+      "options": {
+        "a": "symbol:anonymity",
+        "b": "emblem:figure",
+        "c": "idol:representation",
+        "d": "image:obscurity"
+      },
+      "one_liner": "'Symbol' is a synonym for 'icon', while 'anonymity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

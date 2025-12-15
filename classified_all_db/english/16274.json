@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'malign':",
+      "options": {
+        "a": "commend",
+        "b": "defame",
+        "c": "disparage",
+        "d": "vilify"
+      },
+      "one_liner": "The antonym of 'malign' is 'commend', which means to speak favorably about someone.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

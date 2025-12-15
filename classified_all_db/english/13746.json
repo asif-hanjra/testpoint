@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'turpitude':",
+      "options": {
+        "a": "depravity:probity",
+        "b": "corruption:honor",
+        "c": "wickedness:integrity",
+        "d": "immorality:virtue"
+      },
+      "one_liner": "'Depravity' is a synonym for 'turpitude', while 'probity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

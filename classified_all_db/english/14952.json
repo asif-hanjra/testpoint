@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'careful':",
+      "options": {
+        "a": "reckless",
+        "b": "prudent",
+        "c": "negligent",
+        "d": "heedless"
+      },
+      "one_liner": "'Careful' implies being cautious or attentive, similar to 'prudent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

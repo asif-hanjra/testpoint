@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'orientation':",
+      "options": {
+        "a": "perspective:clarity",
+        "b": "outlook:confusion",
+        "c": "direction:uncertainty",
+        "d": "awareness:disorientation"
+      },
+      "one_liner": "'Outlook' is a synonym for 'orientation', and 'confusion' is an antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

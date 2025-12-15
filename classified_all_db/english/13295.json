@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'eccentric':",
+      "options": {
+        "a": "outlandish:mundane",
+        "b": "usual:odd",
+        "c": "peculiar:commonplace",
+        "d": "strange:normal"
+      },
+      "one_liner": "'Outlandish' is a synonym of 'eccentric', while 'mundane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

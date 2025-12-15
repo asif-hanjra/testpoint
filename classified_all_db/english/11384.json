@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adversity':",
+      "options": {
+        "a": "hardship:well-being",
+        "b": "disaster:fortune",
+        "c": "difficulty:ease",
+        "d": "calamity:prosperity"
+      },
+      "one_liner": "'Hardship' is a synonym for 'adversity', while 'well-being' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nefarious':",
+      "options": {
+        "a": "heinous:righteous",
+        "b": "evil:good",
+        "c": "wicked:virtuous",
+        "d": "malevolent:benevolent"
+      },
+      "one_liner": "'Heinous' is a synonym of 'nefarious', while 'righteous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

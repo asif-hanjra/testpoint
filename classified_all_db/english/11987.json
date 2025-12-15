@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'Aboriginal':",
+      "options": {
+        "a": "foreign",
+        "b": "indigenous",
+        "c": "alien",
+        "d": "exotic"
+      },
+      "one_liner": "'Aboriginal' refers to something native or original to a place, similar to 'indigenous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'micro':",
+      "options": {
+        "a": "macro",
+        "b": "small",
+        "c": "short",
+        "d": "narrow"
+      },
+      "one_liner": "The antonym of 'micro', which means very small, would be 'macro', indicating something very large.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wan':",
+      "options": {
+        "a": "rosy",
+        "b": "pallid",
+        "c": "flushed",
+        "d": "ruddy"
+      },
+      "one_liner": "'Wan' describes someone looking pale and weak, similar to 'pallid'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

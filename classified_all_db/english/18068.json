@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'modify':",
+      "options": {
+        "a": "adapt:stabilize",
+        "b": "preserve:adjust",
+        "c": "change:fix",
+        "d": "revise:remain"
+      },
+      "one_liner": "'Adapt' is a synonym for 'modify', while 'stabilize' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

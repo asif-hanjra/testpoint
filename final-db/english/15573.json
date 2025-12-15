@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'laconic':",
+      "options": {
+        "a": "verbose",
+        "b": "succinct",
+        "c": "rambling",
+        "d": "prolix"
+      },
+      "one_liner": "'Laconic' means using few words or being concise, similar to 'succinct'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

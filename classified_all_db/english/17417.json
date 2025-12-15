@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conjure':",
+      "options": {
+        "a": "evoke:dispel",
+        "b": "summon:retain",
+        "c": "invoke:keep",
+        "d": "call:dismiss"
+      },
+      "one_liner": "'Evoke' is a synonym of 'conjure', while 'dispel' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

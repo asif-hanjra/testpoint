@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pathology':",
+      "options": {
+        "a": "philosophy",
+        "b": "pathobiology",
+        "c": "psychology",
+        "d": "geology"
+      },
+      "one_liner": "'Pathology' refers to the study of diseases, similar to 'pathobiology'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

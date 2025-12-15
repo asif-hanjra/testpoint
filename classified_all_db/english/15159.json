@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ornithology':",
+      "options": {
+        "a": "avian science:mammalogy",
+        "b": "herpetology:botany",
+        "c": "bird science:entomology",
+        "d": "ichthyology:virology"
+      },
+      "one_liner": "'Avian science' is a synonym for 'ornithology', while 'mammalogy' is its antonym within the context of zoological studies.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

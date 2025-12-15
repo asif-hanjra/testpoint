@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obligatory':",
+      "options": {
+        "a": "optional",
+        "b": "compulsory",
+        "c": "unnecessary",
+        "d": "voluntary"
+      },
+      "one_liner": "'Obligatory' means required or mandatory—words like 'compulsory' and 'mandatory' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'doleful':",
+      "options": {
+        "a": "woeful:glad",
+        "b": "sad:happy",
+        "c": "mournful:joyful",
+        "d": "gloomy:cheerful"
+      },
+      "one_liner": "'Woeful' is a synonym of 'doleful', while 'glad' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

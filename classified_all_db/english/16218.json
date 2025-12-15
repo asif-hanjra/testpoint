@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lumber' when used as a verb:",
+      "options": {
+        "a": "plod:sprint",
+        "b": "shuffle:run",
+        "c": "stagger:walk",
+        "d": "trudge:glide"
+      },
+      "one_liner": "'Plod' is a synonym of 'lumber', while 'sprint' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

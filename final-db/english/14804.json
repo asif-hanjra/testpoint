@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'circumspect':",
+      "options": {
+        "a": "reckless",
+        "b": "prudent",
+        "c": "negligent",
+        "d": "heedless"
+      },
+      "one_liner": "'Circumspect' means cautious or careful—words like 'prudent' and 'wary' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

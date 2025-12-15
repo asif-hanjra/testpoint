@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ambiguous':",
+      "options": {
+        "a": "equivocal:explicit",
+        "b": "vague:definite",
+        "c": "obscure:clear",
+        "d": "unclear:clear"
+      },
+      "one_liner": "'Unclear' is a synonym of 'ambiguous', while 'clear' is its antonym.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

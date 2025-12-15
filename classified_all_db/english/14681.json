@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'confidential':",
+      "options": {
+        "a": "secretive:public",
+        "b": "hidden:exposed",
+        "c": "private:open",
+        "d": "classified:transparent"
+      },
+      "one_liner": "'Secretive' is a synonym of 'confidential', while 'public' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

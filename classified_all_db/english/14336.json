@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'inter alia' mean?",
+      "options": {
+        "a": "In good faith",
+        "b": "Among other things",
+        "c": "After the fact",
+        "d": "In the same place"
+      },
+      "one_liner": "'Inter alia' is a Latin phrase that translates to 'among other things', often used to indicate that there are other items included in a list.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

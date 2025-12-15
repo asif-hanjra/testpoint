@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'opiate':",
+      "options": {
+        "a": "narcotic:stimulant",
+        "b": "analgesic:sedative",
+        "c": "tranquilizer:tonic",
+        "d": "antidote:stimulant"
+      },
+      "one_liner": "'Narcotic' is a synonym of 'opiate', while 'stimulant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'skeptical':",
+      "options": {
+        "a": "certain",
+        "b": "doubtful",
+        "c": "trusting",
+        "d": "credulous"
+      },
+      "one_liner": "'Skeptical' means having doubts or reservations, similar to being 'doubtful' or 'questioning'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'epistemology':",
+      "options": {
+        "a": "philosophy",
+        "b": "theory of knowledge",
+        "c": "ethics",
+        "d": "metaphysics"
+      },
+      "one_liner": "'Epistemology' is the study of knowledge and understanding, similar to 'theory of knowledge'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

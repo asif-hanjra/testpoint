@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'premise':",
+      "options": {
+        "a": "conclusion",
+        "b": "assumption",
+        "c": "result",
+        "d": "effect"
+      },
+      "one_liner": "'Premise' refers to a proposition supporting an argument, similar to 'proposition' or 'assumption'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

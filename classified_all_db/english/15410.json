@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'overture':",
+      "options": {
+        "a": "conclusion",
+        "b": "prelude",
+        "c": "epilogue",
+        "d": "finale"
+      },
+      "one_liner": "'Overture' can refer to a musical introduction, similar to a 'prelude'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

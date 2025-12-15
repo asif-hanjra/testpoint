@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'awkward':",
+      "options": {
+        "a": "clumsy:coordinated",
+        "b": "elegant:graceful",
+        "c": "awkward:smooth",
+        "d": "ungainly:elegant"
+      },
+      "one_liner": "'Clumsy' is a synonym of 'awkward', while 'coordinated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

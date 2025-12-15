@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'outcast':",
+      "options": {
+        "a": "exile:member",
+        "b": "associate:pariah",
+        "c": "reject:insider",
+        "d": "castaway:affiliate"
+      },
+      "one_liner": "'Exile' is a synonym of 'outcast', while 'member' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'die':",
+      "options": {
+        "a": "expire",
+        "b": "perish",
+        "c": "live",
+        "d": "pass away"
+      },
+      "one_liner": "The antonym of 'die' is 'live', which means to continue to be alive.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

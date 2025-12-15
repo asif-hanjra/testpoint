@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exemplary':",
+      "options": {
+        "a": "inferior",
+        "b": "admirable",
+        "c": "poor",
+        "d": "average"
+      },
+      "one_liner": "'Exemplary' means outstanding or commendable, similar to 'admirable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

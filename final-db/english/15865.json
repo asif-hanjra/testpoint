@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conjecture':",
+      "options": {
+        "a": "fact",
+        "b": "supposition",
+        "c": "certainty",
+        "d": "proof"
+      },
+      "one_liner": "'Conjecture' means a guess or speculation, similar to 'hypothesis' or 'supposition'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

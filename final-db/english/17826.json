@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'antediluvian':",
+      "options": {
+        "a": "modern",
+        "b": "archaic",
+        "c": "novel",
+        "d": "recent"
+      },
+      "one_liner": "'Antediluvian' refers to something extremely old or outdated, similar to 'archaic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

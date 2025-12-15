@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'aver':",
+      "options": {
+        "a": "proclaim:retract",
+        "b": "assert:confirm",
+        "c": "declare:acknowledge",
+        "d": "affirm:accept"
+      },
+      "one_liner": "'Proclaim' is a synonym of 'aver', while 'retract' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

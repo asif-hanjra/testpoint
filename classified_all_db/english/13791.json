@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'same':",
+      "options": {
+        "a": "different",
+        "b": "alike",
+        "c": "opposite",
+        "d": "distinct"
+      },
+      "one_liner": "'Same' means identical or equivalent, so 'alike' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

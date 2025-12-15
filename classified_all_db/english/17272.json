@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rationale':",
+      "options": {
+        "a": "explanation:nonsense",
+        "b": "justification:clarity",
+        "c": "reason:understanding",
+        "d": "logic:confusion"
+      },
+      "one_liner": "'Explanation' is a synonym for 'rationale', while 'nonsense' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

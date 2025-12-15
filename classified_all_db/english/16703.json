@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'felon':",
+      "options": {
+        "a": "citizen",
+        "b": "criminal",
+        "c": "officer",
+        "d": "witness"
+      },
+      "one_liner": "'Felon' refers to a person who has committed a serious crime, similar to a 'criminal'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

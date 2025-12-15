@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the phrase 'a dark horse':",
+      "options": {
+        "a": "favored competitor",
+        "b": "unlikely winner",
+        "c": "well-known leader",
+        "d": "obvious choice"
+      },
+      "one_liner": "'A dark horse' is someone who unexpectedly succeeds or has hidden abilities, similar to an 'unlikely winner'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

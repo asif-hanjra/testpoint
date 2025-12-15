@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tender':",
+      "options": {
+        "a": "harsh",
+        "b": "kind",
+        "c": "gentle",
+        "d": "soft"
+      },
+      "one_liner": "An antonym of 'tender' is 'harsh', which implies a lack of gentleness or care.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

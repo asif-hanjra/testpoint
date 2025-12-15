@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'moving':",
+      "options": {
+        "a": "stationary",
+        "b": "mobile",
+        "c": "active",
+        "d": "dynamic"
+      },
+      "one_liner": "An antonym for 'moving' is 'stationary', indicating something that is not in motion.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

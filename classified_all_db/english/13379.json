@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'whip':",
+      "options": {
+        "a": "lash:nurture",
+        "b": "beat:caress",
+        "c": "flog:stroke",
+        "d": "thrash:soothe"
+      },
+      "one_liner": "'Lash' is a synonym of 'whip', while 'nurture' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

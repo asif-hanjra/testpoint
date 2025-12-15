@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'censor':",
+      "options": {
+        "a": "restrict",
+        "b": "prohibit",
+        "c": "allow",
+        "d": "ban"
+      },
+      "one_liner": "An antonym of 'censor' is 'allow', which means to permit or give permission.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'omnivorous':",
+      "options": {
+        "a": "all-eating:herbivorous",
+        "b": "carnivorous:insectivorous",
+        "c": "herbivorous:carnivorous",
+        "d": "insectivorous:all-eating"
+      },
+      "one_liner": "'All-eating' is a synonym of 'omnivorous', while 'herbivorous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

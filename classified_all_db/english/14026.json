@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'veritable':",
+      "options": {
+        "a": "false",
+        "b": "authentic",
+        "c": "fictional",
+        "d": "imaginary"
+      },
+      "one_liner": "'Veritable' means true or not figurative, similar to 'authentic' and 'genuine'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

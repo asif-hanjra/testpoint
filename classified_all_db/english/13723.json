@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He has the reputation ___ being a good teacher.",
+      "options": {
+        "a": "of",
+        "b": "for",
+        "c": "in",
+        "d": "to"
+      },
+      "one_liner": "He has the reputation 'for' being a good teacher.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

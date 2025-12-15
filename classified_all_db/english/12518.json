@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exculpate':",
+      "options": {
+        "a": "absolve:incriminate",
+        "b": "acquit:convict",
+        "c": "vindicate:accuse",
+        "d": "clear:blame"
+      },
+      "one_liner": "'Acquit' is a synonym of 'exculpate', while 'convict' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

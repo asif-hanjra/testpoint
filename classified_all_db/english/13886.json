@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'courteous':",
+      "options": {
+        "a": "polite",
+        "b": "respectful",
+        "c": "impolite",
+        "d": "gracious"
+      },
+      "one_liner": "The opposite of 'courteous', which means polite, would be 'impolite', indicating a lack of manners.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

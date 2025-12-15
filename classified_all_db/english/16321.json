@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'turbulent':",
+      "options": {
+        "a": "tempestuous:placid",
+        "b": "quiet:stormy",
+        "c": "agitated:serene",
+        "d": "unruly:peaceful"
+      },
+      "one_liner": "'Tempestuous' is a synonym of 'turbulent', while 'placid' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

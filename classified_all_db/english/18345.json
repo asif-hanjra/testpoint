@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'felicitate':",
+      "options": {
+        "a": "criticize",
+        "b": "commend",
+        "c": "reprimand",
+        "d": "blame"
+      },
+      "one_liner": "'Felicitate' means to congratulate or praise someone, similar to 'commend'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

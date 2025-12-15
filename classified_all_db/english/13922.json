@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'drought':",
+      "options": {
+        "a": "dryness:rainfall",
+        "b": "wetness:deluge",
+        "c": "aridity:flood",
+        "d": "parchedness:downpour"
+      },
+      "one_liner": "'Dryness' is a synonym for 'drought', while 'rainfall' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

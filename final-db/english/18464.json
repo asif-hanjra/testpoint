@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'shuffled':",
+      "options": {
+        "a": "mixed",
+        "b": "organized",
+        "c": "tangled",
+        "d": "muddled"
+      },
+      "one_liner": "An antonym for 'shuffled' would be 'organized', which implies everything is in order.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

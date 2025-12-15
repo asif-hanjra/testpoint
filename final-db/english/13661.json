@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'onslaught':",
+      "options": {
+        "a": "attack",
+        "b": "defense",
+        "c": "offensive",
+        "d": "aggression"
+      },
+      "one_liner": "An antonym for 'onslaught' is 'defense', which refers to protection against an attack.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

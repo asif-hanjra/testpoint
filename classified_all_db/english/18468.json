@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'concrete':",
+      "options": {
+        "a": "abstract",
+        "b": "tangible",
+        "c": "vague",
+        "d": "theoretical"
+      },
+      "one_liner": "'Concrete' means solid or material, and 'tangible' is a synonym that also refers to something that can be touched or is real.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

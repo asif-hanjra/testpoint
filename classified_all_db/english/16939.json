@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'oaf':",
+      "options": {
+        "a": "genius",
+        "b": "lout",
+        "c": "scholar",
+        "d": "savant"
+      },
+      "one_liner": "'Oaf' refers to a person who is clumsy or awkward, much like a 'lout' or 'clod'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mediocre':",
+      "options": {
+        "a": "outstanding",
+        "b": "average",
+        "c": "common",
+        "d": "inferior"
+      },
+      "one_liner": "An antonym of 'mediocre' is 'outstanding', which means exceptionally good.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'extent':",
+      "options": {
+        "a": "range:restriction",
+        "b": "scope:expansion",
+        "c": "breadth:increase",
+        "d": "size:extension"
+      },
+      "one_liner": "'Range' is a synonym of 'extent', while 'restriction' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

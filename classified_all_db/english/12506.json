@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vibrant':",
+      "options": {
+        "a": "colorful",
+        "b": "dynamic",
+        "c": "dull",
+        "d": "animated"
+      },
+      "one_liner": "The word 'vibrant' suggests something is energetic, so 'dull' would be its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

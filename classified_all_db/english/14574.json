@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gigantic':",
+      "options": {
+        "a": "enormous:insignificant",
+        "b": "huge:massive",
+        "c": "colossal:large",
+        "d": "big:small"
+      },
+      "one_liner": "'Massive' is a synonym of 'gigantic', while 'insignificant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

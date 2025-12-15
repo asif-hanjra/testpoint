@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'falter':",
+      "options": {
+        "a": "stabilize",
+        "b": "stumble",
+        "c": "fortify",
+        "d": "enhance"
+      },
+      "one_liner": "'Falter' means to hesitate or lose strength, similar to 'stumble' or 'waver'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

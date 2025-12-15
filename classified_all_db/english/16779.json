@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nice':",
+      "options": {
+        "a": "harsh",
+        "b": "amiable",
+        "c": "unpleasant",
+        "d": "rude"
+      },
+      "one_liner": "'Nice' means pleasant or agreeable, similar to 'amiable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

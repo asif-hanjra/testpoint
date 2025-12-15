@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'precursor':",
+      "options": {
+        "a": "herald:consequence",
+        "b": "harbinger:result",
+        "c": "forerunner:antecedent",
+        "d": "predecessor:successor"
+      },
+      "one_liner": "'Harbinger' is a synonym of 'precursor', while 'result' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

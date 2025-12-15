@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'proclamation':",
+      "options": {
+        "a": "broadcast",
+        "b": "publication",
+        "c": "concealment",
+        "d": "disclosure"
+      },
+      "one_liner": "While a 'proclamation' is a public announcement, a 'concealment' is the act of keeping something hidden.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

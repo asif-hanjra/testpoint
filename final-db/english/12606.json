@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mettle':",
+      "options": {
+        "a": "bravery",
+        "b": "courage",
+        "c": "timidity",
+        "d": "determination"
+      },
+      "one_liner": "While 'mettle' suggests courage, 'timidity' is an antonym that implies a lack of courage or confidence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'convoke':",
+      "options": {
+        "a": "summon:adjourn",
+        "b": "gather:assemble",
+        "c": "muster:convene",
+        "d": "collect:accumulate"
+      },
+      "one_liner": "'Summon' is a synonym of 'convoke', while 'adjourn' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

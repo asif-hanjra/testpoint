@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fabulous':",
+      "options": {
+        "a": "dreadful",
+        "b": "marvelous",
+        "c": "mediocre",
+        "d": "poor"
+      },
+      "one_liner": "'Fabulous' means incredible or fantastic \n—words like 'marvelous' and 'wonderful' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

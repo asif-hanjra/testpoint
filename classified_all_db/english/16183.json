@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'serious':",
+      "options": {
+        "a": "grave",
+        "b": "solemn",
+        "c": "frivolous",
+        "d": "earnest"
+      },
+      "one_liner": "The word 'serious' is the opposite of 'frivolous', which suggests a lack of seriousness or care.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

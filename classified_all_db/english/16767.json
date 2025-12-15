@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'espy':",
+      "options": {
+        "a": "ignore",
+        "b": "spot",
+        "c": "overlook",
+        "d": "neglect"
+      },
+      "one_liner": "'Espy' means to catch sight of or to notice, similar to 'spot' or 'detect'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'optometrist':",
+      "options": {
+        "a": "ophthalmologist:podiatrist",
+        "b": "dentist:ophthalmologist",
+        "c": "dermatologist:pediatrician",
+        "d": "cardiologist:neurologist"
+      },
+      "one_liner": "'Ophthalmologist' is a synonym for 'optometrist', and 'podiatrist' is an antonym in the context of medical specialization.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

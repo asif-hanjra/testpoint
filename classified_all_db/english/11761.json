@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intricate':",
+      "options": {
+        "a": "complex:plain",
+        "b": "simple:detailed",
+        "c": "clear:convoluted",
+        "d": "straightforward:complicated"
+      },
+      "one_liner": "'Complex' is a synonym of 'intricate', while 'plain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

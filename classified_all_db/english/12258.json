@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abbreviate':",
+      "options": {
+        "a": "expand",
+        "b": "condense",
+        "c": "elongate",
+        "d": "prolong"
+      },
+      "one_liner": "'Abbreviate' means to shorten, so 'condense' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

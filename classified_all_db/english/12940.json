@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'same':",
+      "options": {
+        "a": "similar",
+        "b": "identical",
+        "c": "different",
+        "d": "equivalent"
+      },
+      "one_liner": "The antonym of 'same' is 'different', which means not the same or unlike.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

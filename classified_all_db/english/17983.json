@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'egalitarian':",
+      "options": {
+        "a": "equitable:hierarchical",
+        "b": "democratic:aristocratic",
+        "c": "fair:biased",
+        "d": "just:unjust"
+      },
+      "one_liner": "'Equitable' is a synonym of 'egalitarian', while 'hierarchical' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

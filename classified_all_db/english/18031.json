@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tentative':",
+      "options": {
+        "a": "definite",
+        "b": "provisional",
+        "c": "absolute",
+        "d": "certain"
+      },
+      "one_liner": "'Tentative' means not certain or fixed; 'provisional' and 'experimental' are synonyms that convey a similar sense of temporariness.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

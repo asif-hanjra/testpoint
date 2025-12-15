@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exploit':",
+      "options": {
+        "a": "harness:overlook",
+        "b": "employ:utilize",
+        "c": "leverage:ignore",
+        "d": "use:employ"
+      },
+      "one_liner": "'Harness' is a synonym of 'exploit', while 'overlook' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

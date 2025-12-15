@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sloppy':",
+      "options": {
+        "a": "disheveled:immaculate",
+        "b": "messy:tidy",
+        "c": "untidy:orderly",
+        "d": "careless:meticulous"
+      },
+      "one_liner": "'Disheveled' is a synonym of 'sloppy', while 'immaculate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

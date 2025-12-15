@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gaunt':",
+      "options": {
+        "a": "plump",
+        "b": "emaciated",
+        "c": "robust",
+        "d": "hefty"
+      },
+      "one_liner": "'Gaunt' describes someone who is very thin, often because of illness or aging, similar to 'emaciated'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

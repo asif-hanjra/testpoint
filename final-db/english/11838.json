@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'modicum':",
+      "options": {
+        "a": "abundance",
+        "b": "smidgen",
+        "c": "plenty",
+        "d": "mass"
+      },
+      "one_liner": "'Modicum' refers to a small amount, similar to 'bit' or 'smidgen'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

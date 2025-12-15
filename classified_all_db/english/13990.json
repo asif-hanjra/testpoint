@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'enough':",
+      "options": {
+        "a": "sufficient:lacking",
+        "b": "ample:abundant",
+        "c": "adequate:plentiful",
+        "d": "enough:excessive"
+      },
+      "one_liner": "'Sufficient' is a synonym of 'enough', while 'lacking' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

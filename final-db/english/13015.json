@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'connect':",
+      "options": {
+        "a": "separate",
+        "b": "link",
+        "c": "detach",
+        "d": "divide"
+      },
+      "one_liner": "'Connect' means to join or link together, similar to 'unite' or 'associate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

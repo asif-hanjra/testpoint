@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'preclude':",
+      "options": {
+        "a": "prohibit",
+        "b": "hinder",
+        "c": "allow",
+        "d": "prevent"
+      },
+      "one_liner": "The antonym of 'preclude' is 'allow', which means to permit or enable something to happen.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'invincible':",
+      "options": {
+        "a": "vulnerable",
+        "b": "indomitable",
+        "c": "weak",
+        "d": "defeated"
+      },
+      "one_liner": "'Invincible' means incapable of being conquered, defeated, or subdued—words like 'unbeatable' and 'indomitable' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

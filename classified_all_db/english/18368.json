@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'early':",
+      "options": {
+        "a": "precocious:belated",
+        "b": "timely:untimely",
+        "c": "advanced:progressive",
+        "d": "ahead:behind"
+      },
+      "one_liner": "'Precocious' is a synonym of 'early', while 'belated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

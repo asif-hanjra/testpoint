@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mean':",
+      "options": {
+        "a": "average",
+        "b": "similar",
+        "c": "extreme",
+        "d": "identical"
+      },
+      "one_liner": "The word 'mean' can be contrasted with 'extreme', which refers to the highest degree or the furthest from the average.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'join':",
+      "options": {
+        "a": "separate",
+        "b": "merge",
+        "c": "divide",
+        "d": "detach"
+      },
+      "one_liner": "'Join' means to connect or unite, similar to 'merge' or 'combine'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

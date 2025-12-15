@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'condescend':",
+      "options": {
+        "a": "elevate",
+        "b": "patronize",
+        "c": "ascend",
+        "d": "honor"
+      },
+      "one_liner": "'Condescend' often implies a patronizing attitude, similar to 'patronize'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

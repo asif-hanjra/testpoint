@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'caprice':",
+      "options": {
+        "a": "whim:predictability",
+        "b": "impulse:consistency",
+        "c": "fickleness:stability",
+        "d": "whimsicality:uniformity"
+      },
+      "one_liner": "'Whim' is a synonym of 'caprice', while 'predictability' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

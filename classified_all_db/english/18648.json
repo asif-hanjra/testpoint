@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'serious':",
+      "options": {
+        "a": "solemn:playful",
+        "b": "earnest:grave",
+        "c": "frivolous:solemn",
+        "d": "serious:lighthearted"
+      },
+      "one_liner": "'Solemn' is a synonym of 'serious', while 'playful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

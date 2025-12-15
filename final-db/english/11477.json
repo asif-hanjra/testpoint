@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obituary':",
+      "options": {
+        "a": "epilogue",
+        "b": "prologue",
+        "c": "birth announcement",
+        "d": "memoir"
+      },
+      "one_liner": "While an 'obituary' is an announcement of death, a 'birth announcement' is its antonym, celebrating the arrival of life.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

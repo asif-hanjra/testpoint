@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'benediction':",
+      "options": {
+        "a": "curse",
+        "b": "invocation",
+        "c": "hex",
+        "d": "jinx"
+      },
+      "one_liner": "'Benediction' is a blessing or prayer asking for divine protection, similar to 'invocation'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

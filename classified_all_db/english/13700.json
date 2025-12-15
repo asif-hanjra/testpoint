@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'metaphysics':",
+      "options": {
+        "a": "epistemology",
+        "b": "ontology",
+        "c": "aesthetics",
+        "d": "ethics"
+      },
+      "one_liner": "'Metaphysics' refers to the branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space. Synonyms include 'ontology' and 'philosophy of existence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

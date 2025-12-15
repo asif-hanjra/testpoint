@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reticent':",
+      "options": {
+        "a": "reserved:communicative",
+        "b": "silent:talkative",
+        "c": "shy:outgoing",
+        "d": "quiet:loud"
+      },
+      "one_liner": "'Reserved' is a synonym of 'reticent', while 'communicative' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

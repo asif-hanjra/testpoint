@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'endeavour':",
+      "options": {
+        "a": "try:ignore",
+        "b": "strive:engage",
+        "c": "effort:effortless",
+        "d": "pursue:consider"
+      },
+      "one_liner": "'Try' is a synonym of 'endeavour', while 'ignore' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

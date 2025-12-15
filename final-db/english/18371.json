@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'confident':",
+      "options": {
+        "a": "doubtful",
+        "b": "assured",
+        "c": "hesitant",
+        "d": "uncertain"
+      },
+      "one_liner": "'Confident' means being self-assured or having strong belief in oneself, similar to 'assured'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

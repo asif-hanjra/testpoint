@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'opponent':",
+      "options": {
+        "a": "rival:partner",
+        "b": "adversary:associate",
+        "c": "competitor:collaborator",
+        "d": "enemy:friend"
+      },
+      "one_liner": "'Rival' is a synonym of 'opponent', while 'partner' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

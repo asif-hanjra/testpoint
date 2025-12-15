@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fresh':",
+      "options": {
+        "a": "new",
+        "b": "original",
+        "c": "stale",
+        "d": "recent"
+      },
+      "one_liner": "An antonym for 'fresh' is 'stale', as in 'stale bread' versus 'fresh bread'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

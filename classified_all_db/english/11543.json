@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'risky':",
+      "options": {
+        "a": "safe",
+        "b": "hazardous",
+        "c": "secure",
+        "d": "protected"
+      },
+      "one_liner": "'Risky' means full of the possibility of danger, failure, or loss, similar to 'hazardous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

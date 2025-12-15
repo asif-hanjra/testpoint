@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'presume':",
+      "options": {
+        "a": "assume",
+        "b": "infer",
+        "c": "disprove",
+        "d": "speculate"
+      },
+      "one_liner": "The antonym of 'presume' is 'disprove', which means to show that something is not true.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

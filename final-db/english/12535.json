@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dupe':",
+      "options": {
+        "a": "enlighten",
+        "b": "hoodwink",
+        "c": "clarify",
+        "d": "inform"
+      },
+      "one_liner": "'Dupe' means to deceive or trick someone, similar to 'hoodwink' or 'bamboozle'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

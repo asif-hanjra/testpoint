@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gorge':",
+      "options": {
+        "a": "feast",
+        "b": "snack",
+        "c": "abstain",
+        "d": "consume"
+      },
+      "one_liner": "The antonym of 'gorge' would be 'abstain', which means to deliberately avoid eating.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'similar':",
+      "options": {
+        "a": "akin:dissimilar",
+        "b": "comparable:identical",
+        "c": "analogous:equivalent",
+        "d": "resembling:same"
+      },
+      "one_liner": "'Akin' is a synonym of 'similar', while 'dissimilar' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

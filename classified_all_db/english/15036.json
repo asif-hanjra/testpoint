@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'acrimonious':",
+      "options": {
+        "a": "cordial",
+        "b": "harsh",
+        "c": "bitter",
+        "d": "hostile"
+      },
+      "one_liner": "The word 'acrimonious' is the opposite of 'cordial', which means warm and friendly.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

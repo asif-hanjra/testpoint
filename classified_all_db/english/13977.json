@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'calligraphy':",
+      "options": {
+        "a": "scribble",
+        "b": "penmanship",
+        "c": "doodle",
+        "d": "print"
+      },
+      "one_liner": "'Calligraphy' refers to the art of beautiful handwriting, similar to 'penmanship'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

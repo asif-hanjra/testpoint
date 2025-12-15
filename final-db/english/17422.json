@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abominable':",
+      "options": {
+        "a": "delightful",
+        "b": "detestable",
+        "c": "pleasing",
+        "d": "enjoyable"
+      },
+      "one_liner": "'Abominable' is often used to describe something extremely unpleasant or bad, similar to 'detestable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

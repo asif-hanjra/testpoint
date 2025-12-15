@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obese':",
+      "options": {
+        "a": "slim",
+        "b": "corpulent",
+        "c": "lean",
+        "d": "thin"
+      },
+      "one_liner": "'Obese' refers to someone who is extremely overweight, similar to 'corpulent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

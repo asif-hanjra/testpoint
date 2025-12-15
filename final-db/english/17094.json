@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stimulate':",
+      "options": {
+        "a": "deter",
+        "b": "motivate",
+        "c": "suppress",
+        "d": "discourage"
+      },
+      "one_liner": "'Stimulate' means to encourage or arouse interest or enthusiasm, similar to 'motivate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

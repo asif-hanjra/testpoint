@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I will meet him ___ his friend when he comes.",
+      "options": {
+        "a": "at",
+        "b": "with",
+        "c": "by",
+        "d": "for"
+      },
+      "one_liner": "I will meet him 'with' his friend when he comes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

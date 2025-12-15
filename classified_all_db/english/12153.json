@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'affluent':",
+      "options": {
+        "a": "wealthy",
+        "b": "rich",
+        "c": "impoverished",
+        "d": "opulent"
+      },
+      "one_liner": "An antonym of 'affluent' is 'impoverished', which means lacking in wealth or resources.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He ran ___ fast ___ he could.",
+      "options": {
+        "a": "so / that",
+        "b": "as / as",
+        "c": "too / to",
+        "d": "such / that"
+      },
+      "one_liner": "He ran 'as' fast 'as' he could.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

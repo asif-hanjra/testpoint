@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impromptu':",
+      "options": {
+        "a": "rehearsed",
+        "b": "extemporaneous",
+        "c": "scripted",
+        "d": "prepared"
+      },
+      "one_liner": "'Impromptu' performances are unplanned and spontaneous, similar to 'extemporaneous' events.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

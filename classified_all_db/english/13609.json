@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'partisan':",
+      "options": {
+        "a": "opponent",
+        "b": "advocate",
+        "c": "critic",
+        "d": "neutral"
+      },
+      "one_liner": "'Partisan' refers to someone who is a fervent supporter of a party, cause, or person, similar to an 'advocate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'beverage':",
+      "options": {
+        "a": "liquid",
+        "b": "water",
+        "c": "solid",
+        "d": "juice"
+      },
+      "one_liner": "An antonym of 'beverage' is 'solid', as beverages are liquids and solids are not drinkable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'queer':",
+      "options": {
+        "a": "odd:typical",
+        "b": "eccentric:typical",
+        "c": "strange:common",
+        "d": "peculiar:normal"
+      },
+      "one_liner": "'Eccentric' is a synonym for 'queer', while 'typical' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

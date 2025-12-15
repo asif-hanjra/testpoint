@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'upbringing':",
+      "options": {
+        "a": "rearing:neglect",
+        "b": "education:abandonment",
+        "c": "nurturing:care",
+        "d": "training:development"
+      },
+      "one_liner": "'Rearing' is a synonym of 'upbringing', while 'neglect' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

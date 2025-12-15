@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'qualified':",
+      "options": {
+        "a": "inexperienced",
+        "b": "certified",
+        "c": "unskilled",
+        "d": "inept"
+      },
+      "one_liner": "'Qualified' suggests being competent or capable, much like 'certified' or 'skilled'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

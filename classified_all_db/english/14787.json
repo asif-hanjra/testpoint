@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wild':",
+      "options": {
+        "a": "savage",
+        "b": "tame",
+        "c": "barbaric",
+        "d": "primitive"
+      },
+      "one_liner": "The opposite of 'wild' is 'tame', which means controlled or domesticated.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

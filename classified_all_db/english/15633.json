@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'perpetuate':",
+      "options": {
+        "a": "preserve:discontinue",
+        "b": "maintain:prolong",
+        "c": "sustain:continue",
+        "d": "prolong:initiate"
+      },
+      "one_liner": "'Preserve' is a synonym for 'perpetuate', while 'discontinue' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

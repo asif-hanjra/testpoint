@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Every cloud ___ a silver lining.",
+      "options": {
+        "a": "at",
+        "b": "has",
+        "c": "in",
+        "d": "with"
+      },
+      "one_liner": "Every cloud 'has' a silver lining.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

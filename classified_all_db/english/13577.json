@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'weary':",
+      "options": {
+        "a": "exhausted",
+        "b": "tired",
+        "c": "refreshed",
+        "d": "drained"
+      },
+      "one_liner": "An antonym of 'weary' is 'refreshed', which means feeling rested and rejuvenated.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

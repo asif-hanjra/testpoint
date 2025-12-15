@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'forefathers':",
+      "options": {
+        "a": "predecessors",
+        "b": "heirs",
+        "c": "descendants",
+        "d": "elders"
+      },
+      "one_liner": "The antonym of 'forefathers' would be 'descendants', referring to those who come after rather than before.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

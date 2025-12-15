@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'improvise':",
+      "options": {
+        "a": "ad-lib:scripted",
+        "b": "extemporize:planned",
+        "c": "spontaneous:rehearsed",
+        "d": "unprepared:prepared"
+      },
+      "one_liner": "'Ad-lib' is a synonym of 'improvise', while 'scripted' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

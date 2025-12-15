@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dawn':",
+      "options": {
+        "a": "noon",
+        "b": "morning",
+        "c": "dusk",
+        "d": "afternoon"
+      },
+      "one_liner": "The antonym of 'dawn' is 'dusk', as it represents the end of the day.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

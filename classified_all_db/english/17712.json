@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prudent':",
+      "options": {
+        "a": "sensible:foolish",
+        "b": "careful:wise",
+        "c": "judicious:judicious",
+        "d": "thoughtful:thoughtful"
+      },
+      "one_liner": "'Sensible' is a synonym of 'prudent', while 'foolish' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

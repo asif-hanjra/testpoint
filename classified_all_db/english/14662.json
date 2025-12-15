@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'blend':",
+      "options": {
+        "a": "separate",
+        "b": "merge",
+        "c": "divide",
+        "d": "scatter"
+      },
+      "one_liner": "'Blend' means to mix or combine smoothly, similar to 'merge' or 'fuse'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'concoct':",
+      "options": {
+        "a": "demolish",
+        "b": "construct",
+        "c": "formulate",
+        "d": "invent"
+      },
+      "one_liner": "The antonym of 'concoct', which means to create, is 'demolish', meaning to destroy.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

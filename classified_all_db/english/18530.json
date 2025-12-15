@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ponder':",
+      "options": {
+        "a": "meditate:overlook",
+        "b": "reflect:notice",
+        "c": "think:observe",
+        "d": "contemplate:heed"
+      },
+      "one_liner": "'Meditate' is a synonym of 'ponder', while 'overlook' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

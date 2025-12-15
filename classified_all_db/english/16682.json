@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'subjugate':",
+      "options": {
+        "a": "dominate:liberate",
+        "b": "conquer:free",
+        "c": "enslave:emancipate",
+        "d": "suppress:release"
+      },
+      "one_liner": "'Enslave' is a synonym of 'subjugate', while 'liberate' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

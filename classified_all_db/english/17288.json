@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin abbreviation 'Post meridiem (p.m.)' refer to in terms of time?",
+      "options": {
+        "a": "Before noon",
+        "b": "After noon",
+        "c": "Midnight",
+        "d": "Before midnight"
+      },
+      "one_liner": "'Post meridiem (p.m.)' is a Latin term used to denote the time after noon, typically in the 12-hour clock system.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

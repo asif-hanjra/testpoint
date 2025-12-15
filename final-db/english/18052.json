@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'apparent':",
+      "options": {
+        "a": "obscure",
+        "b": "visible",
+        "c": "noticeable",
+        "d": "clear"
+      },
+      "one_liner": "The antonym of 'apparent' is 'obscure', which means not clear or hard to understand.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

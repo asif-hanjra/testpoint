@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'optimum':",
+      "options": {
+        "a": "worst",
+        "b": "ideal",
+        "c": "minimum",
+        "d": "inferior"
+      },
+      "one_liner": "'Optimum' signifies the best or most favorable condition, similar to 'ideal'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

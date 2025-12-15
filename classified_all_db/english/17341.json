@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'error':",
+      "options": {
+        "a": "fault:precision",
+        "b": "mistake:correctness",
+        "c": "slip:inaccuracy",
+        "d": "blunder:exactness"
+      },
+      "one_liner": "'Mistake' is a synonym for 'error', while 'correctness' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

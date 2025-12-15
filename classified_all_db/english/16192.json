@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'omnipresent':",
+      "options": {
+        "a": "ubiquitous:scarce",
+        "b": "common:rare",
+        "c": "frequent:uncommon",
+        "d": "everywhere:nowhere"
+      },
+      "one_liner": "'Ubiquitous' is a synonym of 'omnipresent', while 'scarce' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

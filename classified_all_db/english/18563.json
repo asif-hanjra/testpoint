@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'feasible':",
+      "options": {
+        "a": "possible",
+        "b": "likely",
+        "c": "impossible",
+        "d": "probable"
+      },
+      "one_liner": "The word 'feasible' suggests something is possible, whereas 'impossible' indicates it cannot be done.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

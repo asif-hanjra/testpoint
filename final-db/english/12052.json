@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'admonish':",
+      "options": {
+        "a": "praise",
+        "b": "reprove",
+        "c": "commend",
+        "d": "applaud"
+      },
+      "one_liner": "'Admonish' means to warn or reprimand someone firmly, similar to 'reprove' or 'rebuke'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

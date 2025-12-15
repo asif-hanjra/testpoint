@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'epistle':",
+      "options": {
+        "a": "missive:report",
+        "b": "dispatch:dialogue",
+        "c": "letter:monologue",
+        "d": "memo:conversation"
+      },
+      "one_liner": "'Dispatch' is a synonym for 'epistle', and 'dialogue' is an antonym, representing written and spoken communication respectively.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

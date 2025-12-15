@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'allegiance':",
+      "options": {
+        "a": "indifference",
+        "b": "fidelity",
+        "c": "hostility",
+        "d": "neglect"
+      },
+      "one_liner": "'Allegiance' refers to loyalty or commitment, similar to 'fidelity' or 'devotion'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ostracize':",
+      "options": {
+        "a": "exile:admit",
+        "b": "reject:welcome",
+        "c": "banish:accept",
+        "d": "shun:include"
+      },
+      "one_liner": "'Exile' is a synonym of 'ostracize', while 'admit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'active':",
+      "options": {
+        "a": "vibrant:dormant",
+        "b": "busy:idle",
+        "c": "lively:passive",
+        "d": "active:inactive"
+      },
+      "one_liner": "'Vibrant' is a synonym of 'active', while 'dormant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hallucinate':",
+      "options": {
+        "a": "imagine:discern",
+        "b": "fantasize:envision",
+        "c": "dream:perceive",
+        "d": "visualize:observe"
+      },
+      "one_liner": "'Imagine' is a synonym of 'hallucinate', while 'discern' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

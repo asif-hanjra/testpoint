@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'echo':",
+      "options": {
+        "a": "whisper",
+        "b": "reverberation",
+        "c": "silence",
+        "d": "murmur"
+      },
+      "one_liner": "'Echo' refers to a reflected sound, similar to 'reverberation' or 'resound'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

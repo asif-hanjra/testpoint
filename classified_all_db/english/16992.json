@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'imminent':",
+      "options": {
+        "a": "forthcoming:distant",
+        "b": "impending:close",
+        "c": "nearby:imminent",
+        "d": "delayed:approaching"
+      },
+      "one_liner": "'Approaching' is a synonym of 'imminent', while 'distant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

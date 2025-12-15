@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ripple':",
+      "options": {
+        "a": "stagnation",
+        "b": "wavelet",
+        "c": "stillness",
+        "d": "flatness"
+      },
+      "one_liner": "'Ripple' suggests a small wave or undulation, similar to 'wavelet' or 'undulation'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'induce':",
+      "options": {
+        "a": "encourage",
+        "b": "instigate",
+        "c": "dissuade",
+        "d": "stimulate"
+      },
+      "one_liner": "An antonym of 'induce' is 'dissuade', which means to persuade not to do something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

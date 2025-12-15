@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fluid':",
+      "options": {
+        "a": "solid",
+        "b": "liquid",
+        "c": "rigid",
+        "d": "frozen"
+      },
+      "one_liner": "'Fluid' can also mean 'liquid' or 'flowing' in the context of substances that can change shape easily.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'frivolous':",
+      "options": {
+        "a": "significant",
+        "b": "trivial",
+        "c": "important",
+        "d": "profound"
+      },
+      "one_liner": "'Frivolous' means not having any serious purpose or value, similar to 'trivial' or 'superficial'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

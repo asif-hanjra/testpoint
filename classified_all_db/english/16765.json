@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'garb':",
+      "options": {
+        "a": "attire",
+        "b": "strip",
+        "c": "dress",
+        "d": "outfit"
+      },
+      "one_liner": "An antonym for 'garb' is 'strip', which means to remove clothing.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

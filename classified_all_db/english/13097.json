@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sinister':",
+      "options": {
+        "a": "benevolent",
+        "b": "malevolent",
+        "c": "threatening",
+        "d": "harmful"
+      },
+      "one_liner": "The word 'sinister' implies something harmful or evil, whereas 'benevolent' suggests kindness and goodwill.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

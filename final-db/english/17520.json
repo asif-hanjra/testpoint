@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'defy':",
+      "options": {
+        "a": "obey",
+        "b": "resist",
+        "c": "confront",
+        "d": "refuse"
+      },
+      "one_liner": "An antonym for 'defy' is 'obey', which means to follow the command or guidance of someone.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

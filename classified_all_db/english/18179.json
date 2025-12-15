@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'former':",
+      "options": {
+        "a": "prior:subsequent",
+        "b": "previous:current",
+        "c": "earlier:later",
+        "d": "past:future"
+      },
+      "one_liner": "'Prior' is a synonym of 'former', while 'subsequent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

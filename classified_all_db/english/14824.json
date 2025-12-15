@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abase':",
+      "options": {
+        "a": "elevate",
+        "b": "degrade",
+        "c": "honor",
+        "d": "praise"
+      },
+      "one_liner": "'Abase' means to lower in rank, prestige, or esteem—words like 'degrade' and 'humiliate' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

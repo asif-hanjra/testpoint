@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'naughty':",
+      "options": {
+        "a": "disobedient",
+        "b": "rude",
+        "c": "well-behaved",
+        "d": "impolite"
+      },
+      "one_liner": "The opposite of 'naughty' is 'well-behaved', indicating proper conduct.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

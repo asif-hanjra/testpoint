@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'outset':",
+      "options": {
+        "a": "inception:termination",
+        "b": "commencement:beginning",
+        "c": "start:continuation",
+        "d": "origin:source"
+      },
+      "one_liner": "'Inception' is a synonym of 'outset', while 'termination' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

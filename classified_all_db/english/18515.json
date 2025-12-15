@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stake':",
+      "options": {
+        "a": "interest:apathy",
+        "b": "share:investment",
+        "c": "claim:disinterest",
+        "d": "participation:indifference"
+      },
+      "one_liner": "'Interest' is a synonym for 'stake', while 'apathy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

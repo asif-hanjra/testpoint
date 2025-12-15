@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'reduce':",
+      "options": {
+        "a": "lessen",
+        "b": "shrink",
+        "c": "augment",
+        "d": "contract"
+      },
+      "one_liner": "Antonyms of 'reduce' include 'increase' and 'augment', both implying a growth in size or amount.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

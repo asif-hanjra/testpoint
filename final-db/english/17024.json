@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exterior':",
+      "options": {
+        "a": "external",
+        "b": "surface",
+        "c": "interior",
+        "d": "outer"
+      },
+      "one_liner": "The antonym of 'exterior' is 'interior', which refers to the inside part of something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

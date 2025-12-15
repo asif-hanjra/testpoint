@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ameliorate':",
+      "options": {
+        "a": "improve",
+        "b": "enhance",
+        "c": "worsen",
+        "d": "maintain"
+      },
+      "one_liner": "The antonym of 'ameliorate' is 'worsen', as it means to make something worse.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

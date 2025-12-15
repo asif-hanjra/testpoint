@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vindicate':",
+      "options": {
+        "a": "exonerate",
+        "b": "absolve",
+        "c": "convict",
+        "d": "acquit"
+      },
+      "one_liner": "An antonym for 'vindicate' is 'convict', which means to declare someone guilty of a criminal offense.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impregnable':",
+      "options": {
+        "a": "invincible",
+        "b": "secure",
+        "c": "vulnerable",
+        "d": "strong"
+      },
+      "one_liner": "Antonyms of 'impregnable' include 'vulnerable' and 'assailable', both implying susceptibility to attack.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

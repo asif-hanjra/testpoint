@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impertinent':",
+      "options": {
+        "a": "disrespectful",
+        "b": "rude",
+        "c": "insolent",
+        "d": "respectful"
+      },
+      "one_liner": "The word 'impertinent' suggests a lack of respect, whereas 'respectful' indicates the opposite.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'entirely':",
+      "options": {
+        "a": "partially",
+        "b": "wholly",
+        "c": "fractionally",
+        "d": "incompletely"
+      },
+      "one_liner": "'Entirely' means completely or wholly, as in 'The room was entirely empty.'",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

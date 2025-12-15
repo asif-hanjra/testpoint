@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'felicitate':",
+      "options": {
+        "a": "commend",
+        "b": "praise",
+        "c": "condemn",
+        "d": "applaud"
+      },
+      "one_liner": "An antonym of 'felicitate' would be 'condemn', which means to express strong disapproval.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

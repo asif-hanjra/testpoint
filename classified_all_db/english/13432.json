@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fancy':",
+      "options": {
+        "a": "ornate:austere",
+        "b": "plain:luxurious",
+        "c": "simple:elaborate",
+        "d": "common:extravagant"
+      },
+      "one_liner": "'Ornate' is a synonym for 'fancy', while 'austere' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

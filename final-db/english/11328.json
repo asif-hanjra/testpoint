@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'coagulant':",
+      "options": {
+        "a": "diluent",
+        "b": "clotting agent",
+        "c": "solvent",
+        "d": "thinner"
+      },
+      "one_liner": "'Coagulant' refers to a substance that causes liquid to thicken or clot, similar to 'clotting agent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

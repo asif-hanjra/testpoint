@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prone':",
+      "options": {
+        "a": "susceptible",
+        "b": "liable",
+        "c": "immune",
+        "d": "inclined"
+      },
+      "one_liner": "An antonym of 'prone' is 'immune', which means not susceptible or likely.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

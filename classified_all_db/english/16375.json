@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'save':",
+      "options": {
+        "a": "waste",
+        "b": "conserve",
+        "c": "spend",
+        "d": "lose"
+      },
+      "one_liner": "'Save' means to rescue or preserve, similar to 'conserve' or 'protect'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

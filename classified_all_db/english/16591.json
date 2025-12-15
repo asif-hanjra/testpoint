@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dictate':",
+      "options": {
+        "a": "command:submit",
+        "b": "order:control",
+        "c": "prescribe:perform",
+        "d": "instruct:manage"
+      },
+      "one_liner": "'Command' is a synonym of 'dictate', while 'submit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

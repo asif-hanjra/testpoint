@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'negligent':",
+      "options": {
+        "a": "careless",
+        "b": "diligent",
+        "c": "heedless",
+        "d": "reckless"
+      },
+      "one_liner": "An antonym of 'negligent' is 'diligent', which means showing care and conscientiousness in one's work.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

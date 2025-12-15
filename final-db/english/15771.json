@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'bombast':",
+      "options": {
+        "a": "exaggeration",
+        "b": "hyperbole",
+        "c": "understatement",
+        "d": "verbosity"
+      },
+      "one_liner": "The antonym of 'bombast' is 'understatement', which implies a presentation that makes something seem less important than it is.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ripple':",
+      "options": {
+        "a": "undulation:flatness",
+        "b": "wavelet:current",
+        "c": "wave:stagnation",
+        "d": "undulation:wave"
+      },
+      "one_liner": "'Undulation' is a synonym for 'ripple', while 'flatness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

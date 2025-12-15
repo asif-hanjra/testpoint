@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'enough':",
+      "options": {
+        "a": "abundant",
+        "b": "plentiful",
+        "c": "insufficient",
+        "d": "adequate"
+      },
+      "one_liner": "The antonym of 'enough' is 'insufficient', indicating a lack of what is necessary.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

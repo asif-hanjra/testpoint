@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'courageous':",
+      "options": {
+        "a": "valiant:fearful",
+        "b": "brave:heroic",
+        "c": "fearless:timid",
+        "d": "daring:dauntless"
+      },
+      "one_liner": "'Valiant' is a synonym of 'courageous', while 'fearful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

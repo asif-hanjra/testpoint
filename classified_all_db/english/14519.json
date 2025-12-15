@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'legible':",
+      "options": {
+        "a": "clear:blurry",
+        "b": "comprehensible:indecipherable",
+        "c": "distinct:illegible",
+        "d": "sharp:unreadable"
+      },
+      "one_liner": "'Readable' is a synonym of 'legible', while 'indecipherable' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

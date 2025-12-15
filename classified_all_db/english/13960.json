@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ignorant':",
+      "options": {
+        "a": "clueless",
+        "b": "unaware",
+        "c": "informed",
+        "d": "oblivious"
+      },
+      "one_liner": "The antonym of 'ignorant' is 'informed', which means having knowledge or being aware.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

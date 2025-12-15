@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'plea':",
+      "options": {
+        "a": "acceptance",
+        "b": "agreement",
+        "c": "refusal",
+        "d": "approval"
+      },
+      "one_liner": "While 'plea' is a request for something, 'refusal' is the act of declining or rejecting.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

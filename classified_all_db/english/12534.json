@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'congested':",
+      "options": {
+        "a": "overcrowded:uncluttered",
+        "b": "packed:spacious",
+        "c": "crowded:empty",
+        "d": "jammed:clear"
+      },
+      "one_liner": "'Overcrowded' is a synonym for 'congested', while 'uncluttered' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

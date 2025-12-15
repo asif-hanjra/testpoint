@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'felicity':",
+      "options": {
+        "a": "contentment:despair",
+        "b": "bliss:joy",
+        "c": "happiness:satisfaction",
+        "d": "cheerfulness:delight"
+      },
+      "one_liner": "'Contentment' is a synonym of 'felicity', while 'despair' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

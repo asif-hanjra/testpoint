@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dirty':",
+      "options": {
+        "a": "clean",
+        "b": "filthy",
+        "c": "spotless",
+        "d": "pristine"
+      },
+      "one_liner": "'Dirty' means unclean or soiled, similar to 'filthy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

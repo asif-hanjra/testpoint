@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'forge':",
+      "options": {
+        "a": "mold:demolish",
+        "b": "fabricate:construct",
+        "c": "shape:preserve",
+        "d": "form:ruin"
+      },
+      "one_liner": "'Mold' is a synonym of 'forge', while 'demolish' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

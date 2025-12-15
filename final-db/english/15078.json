@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'arduous':",
+      "options": {
+        "a": "challenging",
+        "b": "demanding",
+        "c": "effortless",
+        "d": "strenuous"
+      },
+      "one_liner": "While 'arduous' describes something that is very difficult, 'effortless' describes something that requires no effort at all.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

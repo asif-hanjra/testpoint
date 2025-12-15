@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fervid':",
+      "options": {
+        "a": "passionate:unenthusiastic",
+        "b": "indifferent:excited",
+        "c": "warm:cold",
+        "d": "eager:apathetic"
+      },
+      "one_liner": "'Passionate' is a synonym of 'fervid', while 'unenthusiastic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

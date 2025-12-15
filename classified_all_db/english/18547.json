@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'foreclosure':",
+      "options": {
+        "a": "redemption",
+        "b": "seizure",
+        "c": "confiscation",
+        "d": "appropriation"
+      },
+      "one_liner": "An antonym of 'foreclosure' could be 'redemption', which implies regaining possession or control.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ornithologist':",
+      "options": {
+        "a": "birdwatcher:botanist",
+        "b": "zoologist:entomologist",
+        "c": "entomologist:ichthyologist",
+        "d": "botanist:zoologist"
+      },
+      "one_liner": "'Birdwatcher' is a synonym for 'ornithologist', while 'botanist' is an antonym as they study different subjects.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

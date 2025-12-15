@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'Jeckluster':",
+      "options": {
+        "a": "faded",
+        "b": "shiny",
+        "c": "gloomy",
+        "d": "none of the above"
+      },
+      "one_liner": "'Jeckluster' is not a recognized English word, so it does not have an antonym.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'linen':",
+      "options": {
+        "a": "fabric:plastic",
+        "b": "textile:wood",
+        "c": "garment:leather",
+        "d": "material:glass"
+      },
+      "one_liner": "'Cloth' is a synonym for 'linen', while 'plastic' is an antonym as it is not a fabric.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

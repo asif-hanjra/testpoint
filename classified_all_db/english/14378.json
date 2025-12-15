@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'platitude':",
+      "options": {
+        "a": "cliche:insight",
+        "b": "originality:banality",
+        "c": "commonplace:depth",
+        "d": "stereotype:innovation"
+      },
+      "one_liner": "'Cliche' is a synonym of 'platitude', while 'insight' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

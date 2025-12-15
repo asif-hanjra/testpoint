@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'moat':",
+      "options": {
+        "a": "ditch:causeway",
+        "b": "trench:wall",
+        "c": "channel:gate",
+        "d": "fosse:fortress"
+      },
+      "one_liner": "'Ditch' is a synonym for 'moat', while 'causeway' is its antonym, serving to connect rather than divide.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

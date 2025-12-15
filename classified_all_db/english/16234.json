@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'illustrate':",
+      "options": {
+        "a": "depict:conceal",
+        "b": "reveal:hide",
+        "c": "demonstrate:clarify",
+        "d": "elucidate:obscure"
+      },
+      "one_liner": "'Depict' is a synonym of 'illustrate', while 'conceal' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

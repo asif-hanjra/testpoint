@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'coarse':",
+      "options": {
+        "a": "rough",
+        "b": "fine",
+        "c": "harsh",
+        "d": "rugged"
+      },
+      "one_liner": "The word 'coarse' is the opposite of 'fine', which suggests a smooth or delicate texture.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'foster':",
+      "options": {
+        "a": "neglect",
+        "b": "nurture",
+        "c": "hinder",
+        "d": "suppress"
+      },
+      "one_liner": "'Foster' means to encourage or promote development—words like 'nurture' and 'cultivate' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

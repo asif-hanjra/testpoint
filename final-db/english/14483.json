@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ferocious':",
+      "options": {
+        "a": "vicious:tame",
+        "b": "harsh:gentle",
+        "c": "cruel:kind",
+        "d": "wild:domesticated"
+      },
+      "one_liner": "'Vicious' is a synonym of 'ferocious', while 'tame' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

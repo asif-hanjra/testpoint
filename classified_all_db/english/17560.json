@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'memorable':",
+      "options": {
+        "a": "noteworthy",
+        "b": "remarkable",
+        "c": "forgettable",
+        "d": "extraordinary"
+      },
+      "one_liner": "The antonym of 'memorable' is 'forgettable', which means easily forgotten or not worth remembering.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

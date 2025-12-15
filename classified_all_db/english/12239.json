@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obelisk':",
+      "options": {
+        "a": "monolith:ditch",
+        "b": "column:plateau",
+        "c": "pillar:valley",
+        "d": "spire:basin"
+      },
+      "one_liner": "A 'monolith' can be a synonym for 'obelisk', while 'ditch' could serve as an antonym, as it is an excavation rather than a construction.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

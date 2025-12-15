@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'torpid':",
+      "options": {
+        "a": "energetic",
+        "b": "sluggish",
+        "c": "vivacious",
+        "d": "animated"
+      },
+      "one_liner": "'Torpid' means lethargic or inactive, similar to 'sluggish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

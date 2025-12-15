@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'indigenous':",
+      "options": {
+        "a": "native",
+        "b": "aboriginal",
+        "c": "intrinsic",
+        "d": "alien"
+      },
+      "one_liner": "The antonym of 'indigenous' is 'alien', which means belonging to a foreign country or nation.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

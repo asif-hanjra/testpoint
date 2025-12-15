@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'flustered':",
+      "options": {
+        "a": "agitated",
+        "b": "disconcerted",
+        "c": "composed",
+        "d": "confused"
+      },
+      "one_liner": "The antonym of 'flustered' is 'composed', which means to be calm and in control.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'waive':",
+      "options": {
+        "a": "relinquish:uphold",
+        "b": "renounce:assert",
+        "c": "forgo:enforce",
+        "d": "abandon:claim"
+      },
+      "one_liner": "'Renounce' is a synonym of 'waive', while 'assert' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

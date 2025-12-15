@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'invert':",
+      "options": {
+        "a": "reverse",
+        "b": "maintain",
+        "c": "flip",
+        "d": "rotate"
+      },
+      "one_liner": "The antonym of 'invert' is 'maintain', as it implies keeping something in its current state.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

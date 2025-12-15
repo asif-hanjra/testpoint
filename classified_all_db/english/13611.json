@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'affable':",
+      "options": {
+        "a": "sociable:aloof",
+        "b": "friendly:hostile",
+        "c": "amiable:genial",
+        "d": "cordial:unpleasant"
+      },
+      "one_liner": "'Sociable' is a synonym of 'affable', while 'aloof' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

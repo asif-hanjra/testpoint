@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'continue':",
+      "options": {
+        "a": "resume:discontinue",
+        "b": "proceed:halt",
+        "c": "persist:resume",
+        "d": "maintain:cease"
+      },
+      "one_liner": "'Resume' is a synonym of 'continue', while 'discontinue' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

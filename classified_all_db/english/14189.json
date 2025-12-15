@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pique':",
+      "options": {
+        "a": "bore",
+        "b": "arouse",
+        "c": "disinterest",
+        "d": "ignore"
+      },
+      "one_liner": "'Pique' can mean to stimulate interest or curiosity, similar to 'arouse' or 'excite'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

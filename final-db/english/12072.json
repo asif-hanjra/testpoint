@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lenient':",
+      "options": {
+        "a": "strict",
+        "b": "flexible",
+        "c": "forgiving",
+        "d": "gentle"
+      },
+      "one_liner": "The opposite of 'lenient' is 'strict', which means adhering closely to rules or standards.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

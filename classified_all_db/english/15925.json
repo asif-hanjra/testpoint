@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'contingent':",
+      "options": {
+        "a": "independent",
+        "b": "unconditional",
+        "c": "conditional",
+        "d": "certain"
+      },
+      "one_liner": "'Contingent' refers to something that is dependent on certain conditions, similar to 'conditional'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

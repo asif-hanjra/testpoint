@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I do not have any confidant ___ share my secrets.",
+      "options": {
+        "a": "with",
+        "b": "to",
+        "c": "for",
+        "d": "by"
+      },
+      "one_liner": "I do not have any confidant 'to' share my secrets.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

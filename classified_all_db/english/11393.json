@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the phrase 'a dark horse':",
+      "options": {
+        "a": "underdog:front-runner",
+        "b": "champion:loser",
+        "c": "contender:favorite",
+        "d": "outsider:leader"
+      },
+      "one_liner": "An 'underdog' is a synonym for 'a dark horse', while a 'front-runner' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

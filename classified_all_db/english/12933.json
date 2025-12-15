@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lasso':",
+      "options": {
+        "a": "whip",
+        "b": "noose",
+        "c": "chain",
+        "d": "cord"
+      },
+      "one_liner": "'Lasso' is a rope used for catching animals, similar to a 'noose' or 'riata'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

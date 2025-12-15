@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'infringe':",
+      "options": {
+        "a": "violate",
+        "b": "trespass",
+        "c": "respect",
+        "d": "encroach"
+      },
+      "one_liner": "An antonym of 'infringe' is 'respect', which means to honor or abide by rules or rights.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

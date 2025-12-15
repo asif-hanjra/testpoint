@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gather':",
+      "options": {
+        "a": "assemble",
+        "b": "collect",
+        "c": "disperse",
+        "d": "accumulate"
+      },
+      "one_liner": "The antonym of 'gather' is 'disperse', which means to distribute or spread over a wide area.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

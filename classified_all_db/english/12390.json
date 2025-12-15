@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'succumb':",
+      "options": {
+        "a": "capitulate:overcome",
+        "b": "surrender:resist",
+        "c": "yield:confront",
+        "d": "submit:withstand"
+      },
+      "one_liner": "'Capitulate' is a synonym of 'succumb', while 'overcome' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

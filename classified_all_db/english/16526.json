@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'minuscule':",
+      "options": {
+        "a": "tiny:enormous",
+        "b": "small:massive",
+        "c": "little:great",
+        "d": "insignificant:significant"
+      },
+      "one_liner": "'Tiny' is a synonym of 'minuscule', while 'enormous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

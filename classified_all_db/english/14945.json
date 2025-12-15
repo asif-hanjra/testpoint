@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'feeling under the weather' mean?",
+      "options": {
+        "a": "Feeling extremely happy",
+        "b": "Feeling slightly ill or not well",
+        "c": "Feeling the effects of bad weather",
+        "d": "Feeling overwhelmed with work"
+      },
+      "one_liner": "The idiom 'feeling under the weather' means feeling slightly ill or not well, often without a serious illness.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

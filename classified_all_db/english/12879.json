@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'transmit':",
+      "options": {
+        "a": "broadcast:retain",
+        "b": "send:convey",
+        "c": "dispatch:receive",
+        "d": "convey:dispatch"
+      },
+      "one_liner": "'Broadcast' is a synonym of 'transmit', while 'retain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

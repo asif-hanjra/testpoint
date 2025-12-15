@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'jeer':",
+      "options": {
+        "a": "mock:cheer",
+        "b": "ridicule:praise",
+        "c": "taunt:applaud",
+        "d": "scoff:compliment"
+      },
+      "one_liner": "'Mock' is a synonym of 'jeer', while 'cheer' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

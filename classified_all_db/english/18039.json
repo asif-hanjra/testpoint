@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'collision':",
+      "options": {
+        "a": "harmony",
+        "b": "impact",
+        "c": "agreement",
+        "d": "peace"
+      },
+      "one_liner": "'Collision' refers to a crash or impact, similar to 'impact' and 'clash'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

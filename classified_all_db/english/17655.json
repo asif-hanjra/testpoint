@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'damage':",
+      "options": {
+        "a": "impairment:enhancement",
+        "b": "destruction:repair",
+        "c": "harm:benefit",
+        "d": "injury:improvement"
+      },
+      "one_liner": "'Impairment' is a synonym for 'damage', while 'enhancement' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

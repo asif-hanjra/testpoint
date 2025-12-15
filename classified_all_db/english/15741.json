@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'profane':",
+      "options": {
+        "a": "sacred",
+        "b": "irreverent",
+        "c": "blasphemous",
+        "d": "impious"
+      },
+      "one_liner": "The word 'profane' is the opposite of 'sacred', which means regarded with great respect and reverence, especially in a religious context.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

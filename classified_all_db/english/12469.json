@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Employees are busy people and they do not have time ___ wade through a thirty-page resume.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "Employees do not have time 'to' wade through a thirty-page resume.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

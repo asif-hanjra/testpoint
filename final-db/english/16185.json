@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stint':",
+      "options": {
+        "a": "duration",
+        "b": "excess",
+        "c": "term",
+        "d": "abundance"
+      },
+      "one_liner": "'Stint' refers to a limited period of time or a specific task, similar to 'term' or 'tenure'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

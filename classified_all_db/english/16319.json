@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the phrase 'to drive home':",
+      "options": {
+        "a": "to ignore",
+        "b": "to hammer home",
+        "c": "to forget",
+        "d": "to overlook"
+      },
+      "one_liner": "To 'drive home' a point means to emphasize it clearly, similar to 'hammer home' the importance of something.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

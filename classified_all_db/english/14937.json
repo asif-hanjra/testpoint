@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mercenary':",
+      "options": {
+        "a": "altruistic",
+        "b": "generous",
+        "c": "greedy",
+        "d": "selfless"
+      },
+      "one_liner": "'Mercenary' refers to someone motivated by a desire for monetary gain, similar to 'greedy'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

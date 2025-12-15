@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'clarify':",
+      "options": {
+        "a": "elucidate",
+        "b": "explain",
+        "c": "obfuscate",
+        "d": "illuminate"
+      },
+      "one_liner": "An antonym of 'clarify' is 'obfuscate', which means to make something less clear or more confusing.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

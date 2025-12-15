@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impugn':",
+      "options": {
+        "a": "dispute",
+        "b": "challenge",
+        "c": "confirm",
+        "d": "question"
+      },
+      "one_liner": "An antonym of 'impugn' is 'confirm', which means to establish the truth or validity of something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

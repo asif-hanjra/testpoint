@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ask':",
+      "options": {
+        "a": "query:reply",
+        "b": "demand:offer",
+        "c": "inquire:respond",
+        "d": "question:answer"
+      },
+      "one_liner": "'Query' is a synonym of 'ask', while 'reply' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

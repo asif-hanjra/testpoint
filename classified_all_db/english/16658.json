@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'consensus':",
+      "options": {
+        "a": "agreement",
+        "b": "harmony",
+        "c": "disagreement",
+        "d": "unison"
+      },
+      "one_liner": "The opposite of 'consensus' is 'disagreement', indicating a lack of consensus.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nocturnal':",
+      "options": {
+        "a": "diurnal",
+        "b": "daily",
+        "c": "nightly",
+        "d": "matutinal"
+      },
+      "one_liner": "'Nocturnal' refers to being active at night, similar to 'nightly' or 'crepuscular'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

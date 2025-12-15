@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'listless':",
+      "options": {
+        "a": "apathetic",
+        "b": "indifferent",
+        "c": "energetic",
+        "d": "uninterested"
+      },
+      "one_liner": "An antonym of 'listless' is 'energetic', indicating a state of being full of energy and enthusiasm.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

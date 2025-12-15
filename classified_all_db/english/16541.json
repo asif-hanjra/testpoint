@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'internal':",
+      "options": {
+        "a": "external",
+        "b": "superficial",
+        "c": "intrinsic",
+        "d": "outer"
+      },
+      "one_liner": "'Internal' means situated inside or within, similar to 'intrinsic' which also refers to something inherent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

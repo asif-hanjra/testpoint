@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'martinet':",
+      "options": {
+        "a": "lenient",
+        "b": "taskmaster",
+        "c": "liberal",
+        "d": "indulgent"
+      },
+      "one_liner": "'Martinet' refers to a strict disciplinarian, similar to 'taskmaster'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

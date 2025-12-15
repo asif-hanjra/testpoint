@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'glad':",
+      "options": {
+        "a": "miserable",
+        "b": "joyful",
+        "c": "sorrowful",
+        "d": "upset"
+      },
+      "one_liner": "'Glad' means feeling pleasure or happiness, similar to 'joyful'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sick':",
+      "options": {
+        "a": "unhealthy:fit",
+        "b": "robust:ailing",
+        "c": "diseased:healthy",
+        "d": "sickly:strong"
+      },
+      "one_liner": "'Ill' is a synonym of 'sick', while 'fit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

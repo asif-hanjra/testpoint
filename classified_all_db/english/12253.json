@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'confrontation':",
+      "options": {
+        "a": "dispute:reconciliation",
+        "b": "conflict:agreement",
+        "c": "contest:harmony",
+        "d": "clash:peace"
+      },
+      "one_liner": "'Dispute' is a synonym of 'confrontation', while 'reconciliation' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

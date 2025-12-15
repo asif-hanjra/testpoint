@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'magnitude':",
+      "options": {
+        "a": "insignificance",
+        "b": "amplitude",
+        "c": "minuteness",
+        "d": "smallness"
+      },
+      "one_liner": "'Magnitude' refers to the size or extent of something, similar to 'amplitude' or 'greatness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

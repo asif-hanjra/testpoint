@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Look! There is a big spider ___ the ceiling.",
+      "options": {
+        "a": "in",
+        "b": "on",
+        "c": "at",
+        "d": "under"
+      },
+      "one_liner": "There is a big spider 'on' the ceiling.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

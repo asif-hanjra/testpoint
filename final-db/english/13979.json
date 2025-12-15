@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'baneful':",
+      "options": {
+        "a": "beneficial",
+        "b": "pernicious",
+        "c": "helpful",
+        "d": "wholesome"
+      },
+      "one_liner": "'Baneful' means harmful or destructive—words like 'pernicious' and 'noxious' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

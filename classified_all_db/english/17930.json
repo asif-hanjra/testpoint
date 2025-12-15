@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'aggressive':",
+      "options": {
+        "a": "combative",
+        "b": "hostile",
+        "c": "passive",
+        "d": "belligerent"
+      },
+      "one_liner": "The word 'aggressive' is the opposite of 'passive', which suggests a lack of assertiveness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

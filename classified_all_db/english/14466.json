@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'subpoena':",
+      "options": {
+        "a": "summons:option",
+        "b": "command:freedom",
+        "c": "citation:volunteer",
+        "d": "writ:preference"
+      },
+      "one_liner": "'Summons' is a synonym for 'subpoena', whereas 'option' is its antonym, implying a choice.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

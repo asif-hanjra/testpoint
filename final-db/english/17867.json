@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pebble':",
+      "options": {
+        "a": "boulder",
+        "b": "rock",
+        "c": "mountain",
+        "d": "cliff"
+      },
+      "one_liner": "'Pebble' refers to a small stone, making 'rock' a synonym in the context of size and material.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

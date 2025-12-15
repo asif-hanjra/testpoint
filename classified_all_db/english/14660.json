@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'slur':",
+      "options": {
+        "a": "mumble:articulate",
+        "b": "whisper:shout",
+        "c": "stammer:enunciate",
+        "d": "murmur:pronounce"
+      },
+      "one_liner": "'Mumble' is a synonym of 'slur', while 'articulate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

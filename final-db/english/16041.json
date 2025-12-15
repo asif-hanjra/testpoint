@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is particular ___ his clothes.",
+      "options": {
+        "a": "in",
+        "b": "about",
+        "c": "with",
+        "d": "for"
+      },
+      "one_liner": "He is particular 'about' his clothes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

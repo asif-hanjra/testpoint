@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'birth':",
+      "options": {
+        "a": "genesis:demise",
+        "b": "origin:continuation",
+        "c": "commencement:conclusion",
+        "d": "start:progress"
+      },
+      "one_liner": "'Genesis' is a synonym of 'birth', while 'demise' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

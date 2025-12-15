@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'malaise':",
+      "options": {
+        "a": "discomfort",
+        "b": "unease",
+        "c": "well-being",
+        "d": "illness"
+      },
+      "one_liner": "While 'malaise' suggests a feeling of discomfort, 'well-being' implies a state of health and happiness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

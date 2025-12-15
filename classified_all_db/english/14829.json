@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prohibit':",
+      "options": {
+        "a": "ban:allow",
+        "b": "forbid:authorize",
+        "c": "restrict:permit",
+        "d": "block:encourage"
+      },
+      "one_liner": "'Forbid' is a synonym of 'prohibit', whereas 'authorize' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

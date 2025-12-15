@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'heretic':",
+      "options": {
+        "a": "nonconformist:adherent",
+        "b": "dissident:believer",
+        "c": "rebel:conformist",
+        "d": "maverick:follower"
+      },
+      "one_liner": "'Nonconformist' is a synonym of 'heretic', while 'adherent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'illustrate':",
+      "options": {
+        "a": "obscure",
+        "b": "demonstrate",
+        "c": "confuse",
+        "d": "complicate"
+      },
+      "one_liner": "'Illustrate' means to explain or make something clear by using examples, pictures, or diagrams, similar to 'demonstrate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

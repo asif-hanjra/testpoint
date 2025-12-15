@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'feckless':",
+      "options": {
+        "a": "capable",
+        "b": "ineffectual",
+        "c": "competent",
+        "d": "effective"
+      },
+      "one_liner": "'Feckless' means lacking initiative or strength of character, similar to 'ineffectual'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rude':",
+      "options": {
+        "a": "disrespectful",
+        "b": "courteous",
+        "c": "impolite",
+        "d": "insolent"
+      },
+      "one_liner": "The opposite of 'rude' is 'courteous', which means showing good manners and respect.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

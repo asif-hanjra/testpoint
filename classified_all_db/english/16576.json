@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ranger':",
+      "options": {
+        "a": "intruder",
+        "b": "guardian",
+        "c": "defender",
+        "d": "custodian"
+      },
+      "one_liner": "While a 'ranger' protects and manages natural areas, an 'intruder' is someone who enters without permission.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abolish':",
+      "options": {
+        "a": "create",
+        "b": "eradicate",
+        "c": "establish",
+        "d": "build"
+      },
+      "one_liner": "'Abolish' means to formally put an end to something, similar to 'eradicate' or 'eliminate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

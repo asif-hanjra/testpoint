@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'iconoclast':",
+      "options": {
+        "a": "rebel",
+        "b": "dissenter",
+        "c": "radical",
+        "d": "traditionalist"
+      },
+      "one_liner": "An antonym of 'iconoclast' is 'traditionalist', which describes someone who upholds established customs.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

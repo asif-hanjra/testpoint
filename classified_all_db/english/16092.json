@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'demur':",
+      "options": {
+        "a": "object:assent",
+        "b": "protest:agree",
+        "c": "resist:accept",
+        "d": "hesitate:concur"
+      },
+      "one_liner": "'Object' is a synonym of 'demur', while 'assent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

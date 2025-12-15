@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'censor':",
+      "options": {
+        "a": "approve",
+        "b": "suppress",
+        "c": "permit",
+        "d": "endorse"
+      },
+      "one_liner": "'Censor' refers to the suppression of speech or other communication, similar to 'suppress' or 'edit'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

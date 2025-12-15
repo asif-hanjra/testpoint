@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'smother':",
+      "options": {
+        "a": "ignite",
+        "b": "suffocate",
+        "c": "release",
+        "d": "enlighten"
+      },
+      "one_liner": "'Smother' means to suffocate or stifle, so 'suffocate' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'beautiful':",
+      "options": {
+        "a": "ugly",
+        "b": "attractive",
+        "c": "repulsive",
+        "d": "plain"
+      },
+      "one_liner": "'Beautiful' describes something that is aesthetically pleasing, similar to 'attractive' or 'lovely'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

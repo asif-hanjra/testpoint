@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'convoke':",
+      "options": {
+        "a": "dismiss",
+        "b": "convene",
+        "c": "collect",
+        "d": "muster"
+      },
+      "one_liner": "An antonym for 'convoke' is 'dismiss', which means to send away or disperse.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

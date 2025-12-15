@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'concur':",
+      "options": {
+        "a": "assent",
+        "b": "disagree",
+        "c": "agree",
+        "d": "concur"
+      },
+      "one_liner": "The opposite of 'concur', which means to agree, would be to 'disagree' or 'dissent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obliterate':",
+      "options": {
+        "a": "preserve",
+        "b": "erase",
+        "c": "build",
+        "d": "repair"
+      },
+      "one_liner": "'Obliterate' means to destroy completely, making 'erase' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'economy':",
+      "options": {
+        "a": "waste",
+        "b": "frugality",
+        "c": "excess",
+        "d": "splurge"
+      },
+      "one_liner": "'Economy' refers to the careful management of resources, similar to 'thrift' or 'frugality'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

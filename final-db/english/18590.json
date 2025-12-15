@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'eternal':",
+      "options": {
+        "a": "endless",
+        "b": "infinite",
+        "c": "fleeting",
+        "d": "ceaseless"
+      },
+      "one_liner": "An antonym of 'eternal' is 'temporary', which means lasting for only a limited period of time.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

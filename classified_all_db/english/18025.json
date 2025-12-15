@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'least':",
+      "options": {
+        "a": "minimal:maximum",
+        "b": "tiny:large",
+        "c": "small:abundant",
+        "d": "scarce:plentiful"
+      },
+      "one_liner": "'Minimal' is a synonym of 'least', while 'maximum' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

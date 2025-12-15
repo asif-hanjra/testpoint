@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'frigid':",
+      "options": {
+        "a": "gelid:torrid",
+        "b": "cold:warm",
+        "c": "icy:cool",
+        "d": "frozen:chilly"
+      },
+      "one_liner": "'Gelid' is a synonym of 'frigid', while 'torrid' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

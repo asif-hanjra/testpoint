@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tranquility':",
+      "options": {
+        "a": "peacefulness:chaos",
+        "b": "serenity:disturbance",
+        "c": "quiet:noise",
+        "d": "calm:agitation"
+      },
+      "one_liner": "'Peacefulness' is a synonym of 'tranquility', while 'chaos' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

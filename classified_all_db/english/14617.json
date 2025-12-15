@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'oblique':",
+      "options": {
+        "a": "slanted:upright",
+        "b": "angled:direct",
+        "c": "curved:straight",
+        "d": "diagonal:perpendicular"
+      },
+      "one_liner": "'Slanted' is a synonym of 'oblique', while 'upright' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

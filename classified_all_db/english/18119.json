@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'confess':",
+      "options": {
+        "a": "deny",
+        "b": "admit",
+        "c": "ignore",
+        "d": "disregard"
+      },
+      "one_liner": "'Confess' means to admit or disclose something, often a wrongdoing—words like 'admit' and 'acknowledge' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

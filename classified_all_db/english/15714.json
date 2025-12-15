@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'connect':",
+      "options": {
+        "a": "bind:sever",
+        "b": "link:attach",
+        "c": "join:combine",
+        "d": "associate:unite"
+      },
+      "one_liner": "'Bind' is a synonym of 'connect', while 'sever' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'idle':",
+      "options": {
+        "a": "dormant:industrious",
+        "b": "inactive:busy",
+        "c": "lethargic:active",
+        "d": "passive:engaged"
+      },
+      "one_liner": "'Dormant' is a synonym of 'idle', while 'industrious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

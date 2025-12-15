@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'frivolous':",
+      "options": {
+        "a": "inconsequential:meaningful",
+        "b": "trivial:serious",
+        "c": "insubstantial:important",
+        "d": "petty:profound"
+      },
+      "one_liner": "'Inconsequential' is a synonym of 'frivolous', while 'meaningful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

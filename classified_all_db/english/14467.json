@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He may be slow ___ understanding.",
+      "options": {
+        "a": "in",
+        "b": "at",
+        "c": "for",
+        "d": "to"
+      },
+      "one_liner": "He may be slow 'at' understanding.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pundit':",
+      "options": {
+        "a": "novice",
+        "b": "expert",
+        "c": "professional",
+        "d": "specialist"
+      },
+      "one_liner": "An antonym of 'pundit' is 'novice', which refers to someone who is new and inexperienced.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

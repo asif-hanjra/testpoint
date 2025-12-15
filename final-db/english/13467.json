@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rear':",
+      "options": {
+        "a": "front",
+        "b": "aft",
+        "c": "top",
+        "d": "beginning"
+      },
+      "one_liner": "'Rear' means the back part of something, similar to 'hindmost' or 'aft'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

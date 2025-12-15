@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'considerate':",
+      "options": {
+        "a": "thoughtful",
+        "b": "attentive",
+        "c": "inconsiderate",
+        "d": "kind"
+      },
+      "one_liner": "Antonyms of 'considerate' include 'inconsiderate' and 'thoughtless', both suggesting a lack of concern for others.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'morbid':",
+      "options": {
+        "a": "grim:lively",
+        "b": "cheerful:macabre",
+        "c": "ghoulish:pleasant",
+        "d": "sickening:wholesome"
+      },
+      "one_liner": "'Grim' is a synonym of 'morbid', while 'lively' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

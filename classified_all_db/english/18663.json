@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'honest':",
+      "options": {
+        "a": "truthful:deceptive",
+        "b": "sincere:fraudulent",
+        "c": "genuine:authentic",
+        "d": "candid:honest"
+      },
+      "one_liner": "'Sincere' is a synonym of 'honest', while 'fraudulent' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

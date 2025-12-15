@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sedulous':",
+      "options": {
+        "a": "industrious",
+        "b": "diligent",
+        "c": "indolent",
+        "d": "meticulous"
+      },
+      "one_liner": "An antonym of 'sedulous' is 'indolent', which means lazy or disinclined to work.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

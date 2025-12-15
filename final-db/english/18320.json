@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'great':",
+      "options": {
+        "a": "enormous",
+        "b": "significant",
+        "c": "insignificant",
+        "d": "massive"
+      },
+      "one_liner": "An antonym of 'great' is 'insignificant', which means not large or important.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

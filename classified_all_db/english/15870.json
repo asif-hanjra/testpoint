@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'meddle':",
+      "options": {
+        "a": "interfere",
+        "b": "tamper",
+        "c": "ignore",
+        "d": "involve"
+      },
+      "one_liner": "An antonym of 'meddle' is 'ignore', which means to refrain from interfering.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

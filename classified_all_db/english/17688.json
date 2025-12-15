@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conservative':",
+      "options": {
+        "a": "progressive",
+        "b": "conventional",
+        "c": "orthodox",
+        "d": "customary"
+      },
+      "one_liner": "The antonym of 'conservative' is 'progressive', which suggests being in favor of new ideas or change.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

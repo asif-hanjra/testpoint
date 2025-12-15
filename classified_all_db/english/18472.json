@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ferocious':",
+      "options": {
+        "a": "gentle",
+        "b": "vicious",
+        "c": "brutal",
+        "d": "savage"
+      },
+      "one_liner": "The word 'ferocious' is the opposite of 'gentle', which conveys a mild or kind nature.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

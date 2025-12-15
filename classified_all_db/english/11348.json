@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'realm':",
+      "options": {
+        "a": "order",
+        "b": "harmony",
+        "c": "disarray",
+        "d": "peace"
+      },
+      "one_liner": "The word 'realm' implies an area of control or influence, while 'disarray' suggests a lack of order or organization.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

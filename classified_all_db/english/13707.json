@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "YELL : WHISPER :: TAME : ________?",
+      "options": {
+        "a": "Calm",
+        "b": "Scream",
+        "c": "Quiet",
+        "d": "Control"
+      },
+      "one_liner": "Yell is a loud sound, while whisper is a quiet sound; similarly, tame is to control, while scream is a loud, uncontrolled vocalization.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impassive':",
+      "options": {
+        "a": "expressive",
+        "b": "stoic",
+        "c": "animated",
+        "d": "emotional"
+      },
+      "one_liner": "'Impassive' describes someone who does not show emotion, similar to 'stoic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

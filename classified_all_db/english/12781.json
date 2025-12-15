@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'raise':",
+      "options": {
+        "a": "elevate:reduce",
+        "b": "hoist:boost",
+        "c": "lift:uplift",
+        "d": "raise:lower"
+      },
+      "one_liner": "'Elevate' is a synonym of 'raise', while 'reduce' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

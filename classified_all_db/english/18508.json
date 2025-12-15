@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'arrive':",
+      "options": {
+        "a": "depart",
+        "b": "leave",
+        "c": "reach",
+        "d": "exit"
+      },
+      "one_liner": "'Arrive' means to reach a destination, similar to 'reach' or 'come'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

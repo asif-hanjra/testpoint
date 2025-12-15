@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'surplus':",
+      "options": {
+        "a": "deficit",
+        "b": "abundance",
+        "c": "shortage",
+        "d": "lack"
+      },
+      "one_liner": "'Surplus' refers to an excess amount, similar to 'abundance' or 'plethora'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'moderate':",
+      "options": {
+        "a": "measured:radical",
+        "b": "reasonable:modest",
+        "c": "temperate:excessive",
+        "d": "balanced:extreme"
+      },
+      "one_liner": "'Measured' is a synonym of 'moderate', while 'radical' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

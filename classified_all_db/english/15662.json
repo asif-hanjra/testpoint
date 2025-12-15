@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'demur':",
+      "options": {
+        "a": "acquiesce",
+        "b": "hesitate",
+        "c": "resist",
+        "d": "object"
+      },
+      "one_liner": "An antonym of 'demur' is 'acquiesce', which means to agree or consent without protest.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Ali parted ___ her parents in tears.",
+      "options": {
+        "a": "with",
+        "b": "from",
+        "c": "by",
+        "d": "at"
+      },
+      "one_liner": "Ali parted 'from' her parents in tears.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

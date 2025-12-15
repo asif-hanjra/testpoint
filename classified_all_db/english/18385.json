@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abstruse':",
+      "options": {
+        "a": "obscure:transparent",
+        "b": "inscrutable:lucid",
+        "c": "arcane:manifest",
+        "d": "hidden:revealed"
+      },
+      "one_liner": "'Inscrutable' is a synonym of 'abstruse', while 'lucid' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

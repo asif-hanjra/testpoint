@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'divest':",
+      "options": {
+        "a": "dispossess:bestow",
+        "b": "deprive:grant",
+        "c": "strip:invest",
+        "d": "disrobe:enhance"
+      },
+      "one_liner": "'Dispossess' is a synonym of 'divest', while 'bestow' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

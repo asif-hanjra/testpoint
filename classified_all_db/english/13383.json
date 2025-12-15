@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'contaminate':",
+      "options": {
+        "a": "pollute",
+        "b": "defile",
+        "c": "sanitize",
+        "d": "corrupt"
+      },
+      "one_liner": "An antonym of 'contaminate' is 'sanitize', which means to make clean and hygienic.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

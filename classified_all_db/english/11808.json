@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'asperity':",
+      "options": {
+        "a": "roughness:smoothness",
+        "b": "bitterness:sweetness",
+        "c": "severity:kindness",
+        "d": "acrimony:amicability"
+      },
+      "one_liner": "'Roughness' is a synonym for 'asperity', while 'smoothness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

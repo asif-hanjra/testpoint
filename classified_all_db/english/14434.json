@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vagrant':",
+      "options": {
+        "a": "nomad:domiciled",
+        "b": "wanderer:settler",
+        "c": "drifter:resident",
+        "d": "homeless:inhabitant"
+      },
+      "one_liner": "'Nomad' is a synonym for 'vagrant', while 'domiciled' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

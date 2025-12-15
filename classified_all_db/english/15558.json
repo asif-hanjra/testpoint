@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cowardice':",
+      "options": {
+        "a": "courage",
+        "b": "timidity",
+        "c": "boldness",
+        "d": "bravery"
+      },
+      "one_liner": "'Cowardice' refers to a lack of bravery, similar to 'timidity' and 'fearfulness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

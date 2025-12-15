@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'voluptuous':",
+      "options": {
+        "a": "lush:stark",
+        "b": "sensual:rich",
+        "c": "luxuriant:opulent",
+        "d": "decadent:plain"
+      },
+      "one_liner": "'Lush' is a synonym of 'voluptuous', while 'stark' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hostile':",
+      "options": {
+        "a": "amicable",
+        "b": "aggressive",
+        "c": "belligerent",
+        "d": "antagonistic"
+      },
+      "one_liner": "The word 'hostile' is the opposite of 'amicable', which means friendly and peaceable.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

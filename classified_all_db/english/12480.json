@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'terrible':",
+      "options": {
+        "a": "wonderful",
+        "b": "dreadful",
+        "c": "pleasant",
+        "d": "delightful"
+      },
+      "one_liner": "'Terrible' means extremely bad or serious, making 'dreadful' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

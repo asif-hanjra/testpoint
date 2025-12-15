@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exactness':",
+      "options": {
+        "a": "accuracy:imprecision",
+        "b": "precision:exactitude",
+        "c": "exactness:ambiguity",
+        "d": "clarity:confusion"
+      },
+      "one_liner": "'Accuracy' is a synonym for 'exactness', while 'imprecision' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

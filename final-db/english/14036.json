@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bliss':",
+      "options": {
+        "a": "euphoria:despair",
+        "b": "happiness:sorrow",
+        "c": "joy:misery",
+        "d": "delight:anguish"
+      },
+      "one_liner": "'Euphoria' is a synonym for 'bliss', while 'despair' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

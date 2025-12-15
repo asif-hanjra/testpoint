@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'arable':",
+      "options": {
+        "a": "cultivable:sterile",
+        "b": "barren:fertile",
+        "c": "productive:infertile",
+        "d": "farmable:fruitful"
+      },
+      "one_liner": "'Fertile' is a synonym of 'arable', while 'sterile' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

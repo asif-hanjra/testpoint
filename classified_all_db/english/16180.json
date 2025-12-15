@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'martinet':",
+      "options": {
+        "a": "taskmaster:lenient",
+        "b": "disciplinarian:permissive",
+        "c": "strict:indulgent",
+        "d": "authoritarian:liberal"
+      },
+      "one_liner": "'Taskmaster' is a synonym for 'martinet', while 'lenient' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'bashful':",
+      "options": {
+        "a": "nervous",
+        "b": "reserved",
+        "c": "confident",
+        "d": "timorous"
+      },
+      "one_liner": "An antonym of 'bashful' is 'confident', which describes someone who is self-assured and not shy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'presumption':",
+      "options": {
+        "a": "fact",
+        "b": "hypothesis",
+        "c": "supposition",
+        "d": "theory"
+      },
+      "one_liner": "The antonym of 'presumption' is 'fact', which is based on evidence rather than assumption.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

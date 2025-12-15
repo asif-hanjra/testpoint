@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'few':",
+      "options": {
+        "a": "many",
+        "b": "scarce",
+        "c": "limited",
+        "d": "minimal"
+      },
+      "one_liner": "The antonym of 'few' is 'many', indicating a large number of items.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

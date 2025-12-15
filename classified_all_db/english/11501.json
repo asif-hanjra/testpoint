@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'posture':",
+      "options": {
+        "a": "slump",
+        "b": "straighten",
+        "c": "align",
+        "d": "posture"
+      },
+      "one_liner": "An antonym for 'posture' is 'slump', which implies a collapse or droop in one's stance.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'demur':",
+      "options": {
+        "a": "agree",
+        "b": "protest",
+        "c": "accept",
+        "d": "concur"
+      },
+      "one_liner": "'Demur' means to object or show reluctance, similar to 'protest' or 'object'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

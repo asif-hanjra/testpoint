@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'odd':",
+      "options": {
+        "a": "ordinary",
+        "b": "peculiar",
+        "c": "similar",
+        "d": "identical"
+      },
+      "one_liner": "'Odd' means strange or unusual, so 'peculiar' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

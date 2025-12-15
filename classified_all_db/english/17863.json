@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'flatter':",
+      "options": {
+        "a": "praise:deprecate",
+        "b": "compliment:admire",
+        "c": "adulate:applaud",
+        "d": "extol:praise"
+      },
+      "one_liner": "'Praise' is a synonym of 'flatter', while 'deprecate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

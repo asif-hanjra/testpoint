@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pith':",
+      "options": {
+        "a": "center",
+        "b": "heart",
+        "c": "periphery",
+        "d": "kernel"
+      },
+      "one_liner": "The antonym of 'pith', which means the central part, would be 'periphery', indicating the outer edge.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

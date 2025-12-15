@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wonderful':",
+      "options": {
+        "a": "magnificent",
+        "b": "fantastic",
+        "c": "dreadful",
+        "d": "excellent"
+      },
+      "one_liner": "The opposite of 'wonderful', which conveys something very pleasing, would be 'dreadful', indicating something very bad.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

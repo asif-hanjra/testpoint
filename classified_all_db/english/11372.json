@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'embellish':",
+      "options": {
+        "a": "adorn",
+        "b": "decorate",
+        "c": "simplify",
+        "d": "enhance"
+      },
+      "one_liner": "The antonym of 'embellish' is 'simplify', which means to make something less complex or less decorated.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

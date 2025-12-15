@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'enlist':",
+      "options": {
+        "a": "enroll:dismiss",
+        "b": "register:retain",
+        "c": "recruit:engage",
+        "d": "sign up:enlist"
+      },
+      "one_liner": "'Enroll' is a synonym of 'enlist', while 'dismiss' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

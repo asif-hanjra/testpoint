@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dilute':",
+      "options": {
+        "a": "concentrate",
+        "b": "water down",
+        "c": "intensify",
+        "d": "strengthen"
+      },
+      "one_liner": "'Dilute' means to make a liquid thinner or weaker by adding water or another solvent, similar to 'water down'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

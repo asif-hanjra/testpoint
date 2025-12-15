@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sublime':",
+      "options": {
+        "a": "extraordinary",
+        "b": "fantastic",
+        "c": "mundane",
+        "d": "wonderful"
+      },
+      "one_liner": "The word 'sublime' conveys a sense of grandeur, making 'mundane' its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

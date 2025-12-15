@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'taut':",
+      "options": {
+        "a": "loose",
+        "b": "tense",
+        "c": "slack",
+        "d": "limp"
+      },
+      "one_liner": "'Taut' means tight or stretched, similar to 'tense' or 'strained'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

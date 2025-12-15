@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'chary':",
+      "options": {
+        "a": "reckless",
+        "b": "prudent",
+        "c": "vigilant",
+        "d": "careful"
+      },
+      "one_liner": "An antonym of 'chary' is 'reckless', which means not showing proper caution.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'apparel':",
+      "options": {
+        "a": "nudity",
+        "b": "garment",
+        "c": "outfit",
+        "d": "costume"
+      },
+      "one_liner": "While 'apparel' means clothing, its antonym could be 'nudity', which means the absence of clothing.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

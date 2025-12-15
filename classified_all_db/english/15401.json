@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conceal':",
+      "options": {
+        "a": "hide",
+        "b": "mask",
+        "c": "reveal",
+        "d": "veil"
+      },
+      "one_liner": "The antonym of 'conceal' is 'reveal', which means to make something known or visible.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

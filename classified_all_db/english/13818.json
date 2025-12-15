@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'moat':",
+      "options": {
+        "a": "mountain",
+        "b": "trench",
+        "c": "plateau",
+        "d": "peak"
+      },
+      "one_liner": "'Moat' refers to a deep, wide ditch surrounding a castle, fort, or town, typically filled with water and intended as a defense against attack—similar to a 'trench'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

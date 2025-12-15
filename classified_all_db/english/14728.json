@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'truce':",
+      "options": {
+        "a": "war",
+        "b": "ceasefire",
+        "c": "conflict",
+        "d": "battle"
+      },
+      "one_liner": "'Truce' is synonymous with 'ceasefire', both indicating a temporary stop to hostilities.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'virtue':",
+      "options": {
+        "a": "corruption",
+        "b": "righteousness",
+        "c": "vice",
+        "d": "wickedness"
+      },
+      "one_liner": "'Virtue' refers to moral excellence, similar to 'righteousness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'plentiful':",
+      "options": {
+        "a": "scarce",
+        "b": "abundant",
+        "c": "meager",
+        "d": "insufficient"
+      },
+      "one_liner": "'Plentiful' means available in large quantities—words like 'abundant' and 'ample' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'iniquitous':",
+      "options": {
+        "a": "corrupt",
+        "b": "depraved",
+        "c": "righteous",
+        "d": "immoral"
+      },
+      "one_liner": "The word 'iniquitous' is the opposite of 'righteous', which means morally right or justifiable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

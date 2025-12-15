@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'monotonous':",
+      "options": {
+        "a": "exciting",
+        "b": "tedious",
+        "c": "varied",
+        "d": "unique"
+      },
+      "one_liner": "'Monotonous' describes something dull and unvarying, similar to 'tedious' or 'repetitive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

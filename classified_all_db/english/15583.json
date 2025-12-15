@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'flounder':",
+      "options": {
+        "a": "thrive",
+        "b": "struggle",
+        "c": "fumble",
+        "d": "stagger"
+      },
+      "one_liner": "An antonym of 'flounder' is 'thrive', which means to prosper or do well.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

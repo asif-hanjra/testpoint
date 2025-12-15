@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was knocking ___ the door.",
+      "options": {
+        "a": "in",
+        "b": "at",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "He was knocking 'at' the door.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

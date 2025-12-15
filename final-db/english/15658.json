@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ascetic':",
+      "options": {
+        "a": "austere",
+        "b": "spartan",
+        "c": "hedonistic",
+        "d": "frugal"
+      },
+      "one_liner": "An antonym of 'ascetic' is 'hedonistic', which describes someone who pursues pleasure as the highest good.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

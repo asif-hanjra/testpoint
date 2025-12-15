@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quarantine':",
+      "options": {
+        "a": "freedom",
+        "b": "seclusion",
+        "c": "community",
+        "d": "gathering"
+      },
+      "one_liner": "'Quarantine' refers to a period of isolation, similar to 'seclusion' or 'confinement'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

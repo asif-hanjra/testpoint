@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lustrous':",
+      "options": {
+        "a": "glossy:dim",
+        "b": "shiny:dazzling",
+        "c": "bright:shimmering",
+        "d": "radiant:luminous"
+      },
+      "one_liner": "'Glossy' is a synonym of 'lustrous', while 'dim' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

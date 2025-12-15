@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'shuck':",
+      "options": {
+        "a": "hull:cloak",
+        "b": "peel:cover",
+        "c": "shell:encase",
+        "d": "husk:bind"
+      },
+      "one_liner": "'Hull' is a synonym of 'shuck', while 'cloak' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

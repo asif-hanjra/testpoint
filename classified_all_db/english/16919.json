@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'recline':",
+      "options": {
+        "a": "stand",
+        "b": "lounge",
+        "c": "lie",
+        "d": "rest"
+      },
+      "one_liner": "The opposite of 'recline' is to 'stand' or be upright.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

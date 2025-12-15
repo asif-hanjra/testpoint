@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'felicity':",
+      "options": {
+        "a": "misery",
+        "b": "bliss",
+        "c": "sorrow",
+        "d": "despair"
+      },
+      "one_liner": "'Felicity' means happiness or contentment, similar to 'bliss'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

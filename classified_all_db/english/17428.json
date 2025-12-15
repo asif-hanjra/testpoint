@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mercenary':",
+      "options": {
+        "a": "selfish",
+        "b": "altruistic",
+        "c": "avaricious",
+        "d": "materialistic"
+      },
+      "one_liner": "The antonym of 'mercenary' is 'altruistic', which means being selflessly concerned for the welfare of others.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

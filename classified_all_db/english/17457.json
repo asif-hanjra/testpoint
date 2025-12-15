@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'painstaking':",
+      "options": {
+        "a": "meticulous",
+        "b": "careless",
+        "c": "thorough",
+        "d": "diligent"
+      },
+      "one_liner": "The antonym of 'painstaking' is 'careless', indicating a lack of attention or effort.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

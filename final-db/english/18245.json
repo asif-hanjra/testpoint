@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fluffy':",
+      "options": {
+        "a": "dense",
+        "b": "fuzzy",
+        "c": "slick",
+        "d": "hard"
+      },
+      "one_liner": "'Fluffy' means light and soft, similar to 'fuzzy' or 'downy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

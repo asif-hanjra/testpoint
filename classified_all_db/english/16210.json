@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'barbarous':",
+      "options": {
+        "a": "savage:gentle",
+        "b": "brutal:refined",
+        "c": "cruel:civilized",
+        "d": "harsh:humane"
+      },
+      "one_liner": "'Brutal' is a synonym of 'barbarous', while 'refined' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

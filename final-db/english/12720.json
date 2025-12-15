@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vicious':",
+      "options": {
+        "a": "gentle",
+        "b": "ferocious",
+        "c": "kind",
+        "d": "benign"
+      },
+      "one_liner": "'Vicious' describes something or someone that is cruel or violent, similar to 'ferocious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sate':",
+      "options": {
+        "a": "deplete",
+        "b": "satiate",
+        "c": "starve",
+        "d": "empty"
+      },
+      "one_liner": "'Sate' means to fully satisfy an appetite or desire, similar to 'satiate' or 'fulfill'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

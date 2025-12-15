@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conceal':",
+      "options": {
+        "a": "reveal",
+        "b": "obscure",
+        "c": "clarify",
+        "d": "expose"
+      },
+      "one_liner": "'Conceal' means to hide something, making 'obscure' a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fictitious':",
+      "options": {
+        "a": "imaginary:real",
+        "b": "fabricated:authentic",
+        "c": "false:true",
+        "d": "unreal:genuine"
+      },
+      "one_liner": "'Imaginary' is a synonym of 'fictitious', while 'real' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

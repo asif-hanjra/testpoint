@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mace':",
+      "options": {
+        "a": "cudgel:safeguard",
+        "b": "baton:assault",
+        "c": "staff:shield",
+        "d": "club:attack"
+      },
+      "one_liner": "'Cudgel' is a synonym of 'mace', while 'safeguard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'disassemble':",
+      "options": {
+        "a": "assemble",
+        "b": "destroy",
+        "c": "demolish",
+        "d": "dismantle"
+      },
+      "one_liner": "The opposite of 'disassemble' is 'assemble', which means to put together.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

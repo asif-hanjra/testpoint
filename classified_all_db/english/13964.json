@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'strut':",
+      "options": {
+        "a": "swagger:shuffle",
+        "b": "parade:creep",
+        "c": "march:stroll",
+        "d": "sashay:saunter"
+      },
+      "one_liner": "'Parade' is a synonym for 'strut', while 'creep' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

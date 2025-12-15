@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ornate':",
+      "options": {
+        "a": "plain",
+        "b": "elaborate",
+        "c": "simple",
+        "d": "bare"
+      },
+      "one_liner": "'Ornate' refers to something highly decorated or embellished, much like 'elaborate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

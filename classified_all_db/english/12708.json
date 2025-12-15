@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'audacity':",
+      "options": {
+        "a": "temerity:meekness",
+        "b": "bravery:fearlessness",
+        "c": "daring:nerve",
+        "d": "recklessness:caution"
+      },
+      "one_liner": "'Temerity' is a synonym of 'audacity', while 'meekness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

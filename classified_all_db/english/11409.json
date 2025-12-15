@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tremor':",
+      "options": {
+        "a": "stability",
+        "b": "quiver",
+        "c": "firmness",
+        "d": "steadiness"
+      },
+      "one_liner": "'Tremor' refers to a shaking movement, similar to 'quiver' or 'shudder'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

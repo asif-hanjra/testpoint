@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ominous':",
+      "options": {
+        "a": "welcoming",
+        "b": "threatening",
+        "c": "cheerful",
+        "d": "pleasant"
+      },
+      "one_liner": "'Ominous' means giving the impression that something bad is going to happen, similar to 'threatening'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

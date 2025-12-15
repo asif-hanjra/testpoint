@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'feeble':",
+      "options": {
+        "a": "weak",
+        "b": "strong",
+        "c": "frail",
+        "d": "delicate"
+      },
+      "one_liner": "An antonym of 'feeble' is 'strong', which means having power or vigor.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

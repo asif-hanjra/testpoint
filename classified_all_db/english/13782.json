@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obscure':",
+      "options": {
+        "a": "clear",
+        "b": "cryptic",
+        "c": "obvious",
+        "d": "transparent"
+      },
+      "one_liner": "'Obscure' means not clear or hard to understand, similar to 'cryptic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

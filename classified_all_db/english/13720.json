@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'retaliation':",
+      "options": {
+        "a": "reprisal:amnesty",
+        "b": "revenge:mercy",
+        "c": "vengeance:forgiveness",
+        "d": "payback:pardon"
+      },
+      "one_liner": "'Reprisal' is a synonym of 'retaliation', while 'amnesty' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

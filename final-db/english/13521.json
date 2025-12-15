@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'docile':",
+      "options": {
+        "a": "stubborn",
+        "b": "compliant",
+        "c": "defiant",
+        "d": "rebellious"
+      },
+      "one_liner": "'Docile' means easily managed or obedient, similar to 'compliant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

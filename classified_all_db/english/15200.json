@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'buttress':",
+      "options": {
+        "a": "fortify:impair",
+        "b": "reinforce:enhance",
+        "c": "bolster:support",
+        "d": "strengthen:fortify"
+      },
+      "one_liner": "'Fortify' is a synonym of 'buttress', while 'impair' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

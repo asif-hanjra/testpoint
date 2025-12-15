@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'total':",
+      "options": {
+        "a": "complete",
+        "b": "entire",
+        "c": "partial",
+        "d": "full"
+      },
+      "one_liner": "An antonym for 'total' is 'partial', which refers to only a part of something rather than the whole.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

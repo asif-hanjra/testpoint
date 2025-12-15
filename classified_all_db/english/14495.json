@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'intelligent':",
+      "options": {
+        "a": "dull",
+        "b": "brilliant",
+        "c": "foolish",
+        "d": "slow"
+      },
+      "one_liner": "'Intelligent' refers to someone who is very smart or clever, much like someone who is 'brilliant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

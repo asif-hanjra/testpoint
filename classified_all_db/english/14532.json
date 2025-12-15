@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'consign':",
+      "options": {
+        "a": "retrieve",
+        "b": "send",
+        "c": "dispatch",
+        "d": "forward"
+      },
+      "one_liner": "An antonym for 'consign' would be 'retrieve', as it means to take back or recover something that was sent or delivered.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

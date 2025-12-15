@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mischievous':",
+      "options": {
+        "a": "serious",
+        "b": "impish",
+        "c": "solemn",
+        "d": "grave"
+      },
+      "one_liner": "'Mischievous' implies playful naughtiness, much like 'impish' or 'prankish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

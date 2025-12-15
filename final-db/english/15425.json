@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'courage':",
+      "options": {
+        "a": "cowardice",
+        "b": "heroism",
+        "c": "valor",
+        "d": "daring"
+      },
+      "one_liner": "The word 'courage' is antonymous with 'cowardice', which signifies a lack of bravery.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

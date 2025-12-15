@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'latitude':",
+      "options": {
+        "a": "flexibility:constraint",
+        "b": "leeway:freedom",
+        "c": "liberty:limitation",
+        "d": "range:restriction"
+      },
+      "one_liner": "'Flexibility' is a synonym of 'latitude', while 'constraint' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

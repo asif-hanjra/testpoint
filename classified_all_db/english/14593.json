@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lucid':",
+      "options": {
+        "a": "obscure",
+        "b": "intelligible",
+        "c": "complicated",
+        "d": "vague"
+      },
+      "one_liner": "'Lucid' means clear or easy to understand, similar to 'intelligible'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

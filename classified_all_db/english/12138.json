@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'libertine':",
+      "options": {
+        "a": "ascetic",
+        "b": "debauchee",
+        "c": "puritan",
+        "d": "monk"
+      },
+      "one_liner": "'Libertine' refers to someone who is morally unrestrained, similar to a 'debauchee'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

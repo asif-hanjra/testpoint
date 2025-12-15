@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'circumlocution':",
+      "options": {
+        "a": "conciseness",
+        "b": "verbosity",
+        "c": "brevity",
+        "d": "succinctness"
+      },
+      "one_liner": "'Circumlocution' refers to the use of many words where fewer would suffice, similar to 'verbosity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

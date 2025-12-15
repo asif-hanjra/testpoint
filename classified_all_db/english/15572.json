@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'convoluted':",
+      "options": {
+        "a": "complex",
+        "b": "complicated",
+        "c": "simple",
+        "d": "tangled"
+      },
+      "one_liner": "The word 'convoluted' suggests complexity, whereas 'simple' implies the opposite, being easy to understand or straightforward.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

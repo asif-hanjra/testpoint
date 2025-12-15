@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'presumption':",
+      "options": {
+        "a": "evidence",
+        "b": "conjecture",
+        "c": "certainty",
+        "d": "proof"
+      },
+      "one_liner": "'Presumption' refers to an assumption made without proof, similar to 'conjecture'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

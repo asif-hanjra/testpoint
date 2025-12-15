@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wrong':",
+      "options": {
+        "a": "accurate",
+        "b": "incorrect",
+        "c": "right",
+        "d": "exact"
+      },
+      "one_liner": "'Wrong' can be synonymous with 'incorrect', both indicating something that is not right or accurate.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

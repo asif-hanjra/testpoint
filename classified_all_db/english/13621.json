@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'distend':",
+      "options": {
+        "a": "expand",
+        "b": "inflate",
+        "c": "contract",
+        "d": "enlarge"
+      },
+      "one_liner": "An antonym of 'distend' is 'contract', which means to draw together or reduce in size.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

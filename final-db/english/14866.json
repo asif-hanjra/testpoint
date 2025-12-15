@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'temperate':",
+      "options": {
+        "a": "moderate",
+        "b": "restrained",
+        "c": "excessive",
+        "d": "balanced"
+      },
+      "one_liner": "The word 'temperate' suggests moderation, whereas 'excessive' implies going beyond reasonable limits.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

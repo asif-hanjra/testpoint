@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'omniscient':",
+      "options": {
+        "a": "all-knowing",
+        "b": "ignorant",
+        "c": "informed",
+        "d": "aware"
+      },
+      "one_liner": "The antonym of 'omniscient' is 'ignorant', which means lacking knowledge or awareness.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

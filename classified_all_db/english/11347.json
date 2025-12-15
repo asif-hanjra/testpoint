@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'disassemble':",
+      "options": {
+        "a": "dismantle:construct",
+        "b": "demolish:build",
+        "c": "take apart:put together",
+        "d": "break down:assemble"
+      },
+      "one_liner": "'Dismantle' is a synonym of 'disassemble', while 'construct' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

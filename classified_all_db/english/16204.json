@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impromptu':",
+      "options": {
+        "a": "ad-lib:deliberate",
+        "b": "extemporaneous:rehearsed",
+        "c": "spontaneous:scripted",
+        "d": "unplanned:prepared"
+      },
+      "one_liner": "'Ad-lib' is a synonym of 'impromptu', while 'deliberate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

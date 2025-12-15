@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pan':",
+      "options": {
+        "a": "criticize",
+        "b": "condemn",
+        "c": "praise",
+        "d": "blame"
+      },
+      "one_liner": "While 'pan' means to criticize, its antonym would be 'praise', which means to express approval or admiration.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

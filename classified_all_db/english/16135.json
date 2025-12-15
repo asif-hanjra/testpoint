@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sway':",
+      "options": {
+        "a": "stagnate",
+        "b": "influence",
+        "c": "fix",
+        "d": "freeze"
+      },
+      "one_liner": "'Sway' means to move or influence—words like 'influence' and 'control' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

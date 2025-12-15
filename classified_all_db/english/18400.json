@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'elicit':",
+      "options": {
+        "a": "provoke:repress",
+        "b": "extract:conceal",
+        "c": "induce:reveal",
+        "d": "evoke:hide"
+      },
+      "one_liner": "'Provoke' is a synonym of 'elicit', while 'repress' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

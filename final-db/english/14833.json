@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'refurbish':",
+      "options": {
+        "a": "demolish",
+        "b": "renovate",
+        "c": "worsen",
+        "d": "neglect"
+      },
+      "one_liner": "'Refurbish' means to renovate or restore, similar to 'renovate' and 'revamp'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

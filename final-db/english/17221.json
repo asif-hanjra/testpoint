@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'destroy':",
+      "options": {
+        "a": "demolish",
+        "b": "wreck",
+        "c": "preserve",
+        "d": "ruin"
+      },
+      "one_liner": "The antonym of 'destroy' is 'preserve', which means to keep something intact or maintain its condition.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

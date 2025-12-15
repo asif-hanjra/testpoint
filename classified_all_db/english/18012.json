@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'debacle':",
+      "options": {
+        "a": "catastrophe:success",
+        "b": "failure:achievement",
+        "c": "disaster:triumph",
+        "d": "fiasco:victory"
+      },
+      "one_liner": "'Catastrophe' is a synonym for 'debacle', while 'success' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

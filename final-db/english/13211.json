@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tranquil':",
+      "options": {
+        "a": "peaceful",
+        "b": "calm",
+        "c": "turbulent",
+        "d": "quiet"
+      },
+      "one_liner": "Antonyms of 'tranquil' include 'turbulent' and 'agitated', both implying a state of unrest or disturbance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

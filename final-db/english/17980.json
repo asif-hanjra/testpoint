@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'incidence':",
+      "options": {
+        "a": "scarcity",
+        "b": "prevalence",
+        "c": "rarity",
+        "d": "infrequency"
+      },
+      "one_liner": "'Incidence' refers to the occurrence or frequency of something, similar to 'prevalence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

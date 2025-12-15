@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'amalgamate':",
+      "options": {
+        "a": "merge:split",
+        "b": "join:connect",
+        "c": "consolidate:unify",
+        "d": "combine:associate"
+      },
+      "one_liner": "'Fuse' is a synonym of 'amalgamate', while 'split' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

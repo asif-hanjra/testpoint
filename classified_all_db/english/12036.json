@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'shrewd':",
+      "options": {
+        "a": "wise",
+        "b": "sagacious",
+        "c": "naive",
+        "d": "clever"
+      },
+      "one_liner": "Antonyms of 'shrewd' include 'naive' and 'unsophisticated', both suggesting a lack of experience or judgment.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

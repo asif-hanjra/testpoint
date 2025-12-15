@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'trivial':",
+      "options": {
+        "a": "insignificant",
+        "b": "negligible",
+        "c": "important",
+        "d": "minor"
+      },
+      "one_liner": "Antonyms of 'trivial' include 'important' and 'significant', both suggesting something of great value or consequence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

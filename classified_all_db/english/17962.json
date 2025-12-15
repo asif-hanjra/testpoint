@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exquisite':",
+      "options": {
+        "a": "clumsy",
+        "b": "elegant",
+        "c": "plain",
+        "d": "robust"
+      },
+      "one_liner": "'Exquisite' describes something extremely beautiful and delicate, similar to 'elegant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

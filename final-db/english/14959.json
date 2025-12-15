@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dispassionate':",
+      "options": {
+        "a": "emotional",
+        "b": "unbiased",
+        "c": "passionate",
+        "d": "enthusiastic"
+      },
+      "one_liner": "'Dispassionate' means impartial or unemotional, similar to 'unbiased'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

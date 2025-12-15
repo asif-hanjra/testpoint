@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'efficacious':",
+      "options": {
+        "a": "effective",
+        "b": "ineffective",
+        "c": "productive",
+        "d": "beneficial"
+      },
+      "one_liner": "An antonym of 'efficacious' is 'ineffective', which means not producing any significant or desired effect.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

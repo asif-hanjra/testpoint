@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'foremost':",
+      "options": {
+        "a": "paramount:trivial",
+        "b": "important:significant",
+        "c": "central:peripheral",
+        "d": "primary:secondary"
+      },
+      "one_liner": "'Paramount' is a synonym of 'foremost', while 'trivial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

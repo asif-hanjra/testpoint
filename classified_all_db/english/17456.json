@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mace':",
+      "options": {
+        "a": "sword",
+        "b": "scepter",
+        "c": "shield",
+        "d": "dagger"
+      },
+      "one_liner": "'Mace' is a ceremonial staff or club, similar to a 'scepter' or 'baton'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

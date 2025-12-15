@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'incline':",
+      "options": {
+        "a": "ascent",
+        "b": "decline",
+        "c": "rise",
+        "d": "upgrade"
+      },
+      "one_liner": "An antonym for 'incline' is 'decline', as it refers to a downward slope in contrast to an upward one.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

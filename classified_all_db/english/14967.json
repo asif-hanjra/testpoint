@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'extempore':",
+      "options": {
+        "a": "ad-lib:premeditated",
+        "b": "impromptu:spontaneous",
+        "c": "unscripted:unplanned",
+        "d": "offhand:prepared"
+      },
+      "one_liner": "'Ad-lib' is a synonym for 'extempore', while 'premeditated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

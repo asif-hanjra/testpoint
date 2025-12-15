@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'add fuel to the fire' mean?",
+      "options": {
+        "a": "To cook something over an open flame",
+        "b": "To do something to make a bad situation worse",
+        "c": "To start a campfire",
+        "d": "To refuel a vehicle"
+      },
+      "one_liner": "The idiom 'add fuel to the fire' means to do something that worsens an already bad or problematic situation.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

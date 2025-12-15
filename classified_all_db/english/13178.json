@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'separate':",
+      "options": {
+        "a": "connect",
+        "b": "detach",
+        "c": "isolate",
+        "d": "divide"
+      },
+      "one_liner": "The opposite of 'separate' is to join or unite, which is synonymous with 'connect'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

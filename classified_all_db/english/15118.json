@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'literal':",
+      "options": {
+        "a": "verbatim:figurative",
+        "b": "exact:metaphorical",
+        "c": "factual:symbolic",
+        "d": "precise:figurative"
+      },
+      "one_liner": "'Exact' is a synonym of 'literal', while 'metaphorical' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

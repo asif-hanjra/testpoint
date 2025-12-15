@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'quotidian':",
+      "options": {
+        "a": "routine",
+        "b": "common",
+        "c": "unusual",
+        "d": "frequent"
+      },
+      "one_liner": "An antonym of 'quotidian' is 'unusual', which means not common or rare.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

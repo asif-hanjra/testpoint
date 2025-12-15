@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'bog':",
+      "options": {
+        "a": "swamp",
+        "b": "marsh",
+        "c": "dry land",
+        "d": "quagmire"
+      },
+      "one_liner": "An antonym of 'bog' would be 'dry land', as it is the opposite of wet, muddy ground.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

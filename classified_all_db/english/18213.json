@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hapless':",
+      "options": {
+        "a": "unlucky",
+        "b": "fortunate",
+        "c": "miserable",
+        "d": "dismal"
+      },
+      "one_liner": "The antonym of 'hapless' is 'fortunate', which means having good luck or fortune.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

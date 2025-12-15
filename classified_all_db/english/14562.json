@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pardon':",
+      "options": {
+        "a": "penalty",
+        "b": "forgiveness",
+        "c": "resentment",
+        "d": "blame"
+      },
+      "one_liner": "'Pardon' is often used to mean 'forgiveness', as in the act of excusing an offense or mistake.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

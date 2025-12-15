@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'recluse':",
+      "options": {
+        "a": "extrovert",
+        "b": "hermit",
+        "c": "socialite",
+        "d": "conversationalist"
+      },
+      "one_liner": "'Recluse' refers to someone who lives in solitude, similar to a 'hermit'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

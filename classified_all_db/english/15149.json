@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'topple':",
+      "options": {
+        "a": "overturn",
+        "b": "collapse",
+        "c": "stabilize",
+        "d": "fall"
+      },
+      "one_liner": "An antonym of 'topple' is 'stabilize', which means to make or become stable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

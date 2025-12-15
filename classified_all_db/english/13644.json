@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'whip':",
+      "options": {
+        "a": "comfort",
+        "b": "thrash",
+        "c": "lash",
+        "d": "beat"
+      },
+      "one_liner": "The antonym of 'whip', which means to beat, would be 'comfort' or 'console'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

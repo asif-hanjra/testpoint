@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'veritable':",
+      "options": {
+        "a": "true",
+        "b": "real",
+        "c": "false",
+        "d": "actual"
+      },
+      "one_liner": "An antonym of 'veritable' is 'false', which means not true or genuine.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'convalesce':",
+      "options": {
+        "a": "improve",
+        "b": "heal",
+        "c": "deteriorate",
+        "d": "recover"
+      },
+      "one_liner": "An antonym of 'convalesce' is 'deteriorate', which means to become progressively worse.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

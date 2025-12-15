@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'accede':",
+      "options": {
+        "a": "assent:dissent",
+        "b": "agree:disagree",
+        "c": "consent:refuse",
+        "d": "accept:reject"
+      },
+      "one_liner": "'Assent' is a synonym of 'accede', while 'dissent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fervor':",
+      "options": {
+        "a": "enthusiasm",
+        "b": "passion",
+        "c": "indifference",
+        "d": "zeal"
+      },
+      "one_liner": "The opposite of 'fervor', which denotes intense enthusiasm, would be 'indifference', reflecting a lack of interest.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

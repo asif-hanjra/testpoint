@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'plod':",
+      "options": {
+        "a": "glide",
+        "b": "trudge",
+        "c": "race",
+        "d": "sprint"
+      },
+      "one_liner": "'Plod' means to walk heavily or laboriously, similar to 'trudge'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

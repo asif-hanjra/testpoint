@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mendacious':",
+      "options": {
+        "a": "honest",
+        "b": "deceptive",
+        "c": "truthful",
+        "d": "sincere"
+      },
+      "one_liner": "'Mendacious' means dishonest or untruthful—words like 'deceptive' and 'false' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

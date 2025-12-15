@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'infringe':",
+      "options": {
+        "a": "breach:uphold",
+        "b": "encroach:comply",
+        "c": "trespass:obey",
+        "d": "violate:respect"
+      },
+      "one_liner": "'Breach' is a synonym of 'infringe', while 'uphold' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

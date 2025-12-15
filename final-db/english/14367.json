@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'confound':",
+      "options": {
+        "a": "clarify",
+        "b": "perplex",
+        "c": "enlighten",
+        "d": "simplify"
+      },
+      "one_liner": "'Confound' means to cause confusion or bewilderment, similar to 'perplex' or 'baffle'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

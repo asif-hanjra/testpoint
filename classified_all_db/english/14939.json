@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'imbue':",
+      "options": {
+        "a": "extract",
+        "b": "infuse",
+        "c": "remove",
+        "d": "deplete"
+      },
+      "one_liner": "'Imbue' means to inspire or permeate with a feeling or quality, similar to 'infuse' or 'instill'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

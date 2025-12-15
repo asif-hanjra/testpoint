@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gamut':",
+      "options": {
+        "a": "limitation",
+        "b": "extent",
+        "c": "breadth",
+        "d": "whole"
+      },
+      "one_liner": "An antonym of 'gamut' is 'limitation', which suggests a restriction rather than a full range.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

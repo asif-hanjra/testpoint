@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impudent':",
+      "options": {
+        "a": "cheeky:courteous",
+        "b": "rude:polite",
+        "c": "bold:shy",
+        "d": "disrespectful:respectful"
+      },
+      "one_liner": "'Cheeky' is a synonym of 'impudent', while 'courteous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

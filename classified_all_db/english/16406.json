@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prophylactic':",
+      "options": {
+        "a": "preventive:harmful",
+        "b": "protective:beneficial",
+        "c": "preventive:protective",
+        "d": "harmful:preventive"
+      },
+      "one_liner": "'Preventive' is a synonym of 'prophylactic', while 'harmful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

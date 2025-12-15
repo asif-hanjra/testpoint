@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tangential':",
+      "options": {
+        "a": "central",
+        "b": "digressive",
+        "c": "relevant",
+        "d": "primary"
+      },
+      "one_liner": "'Tangential' means peripheral or not directly related, similar to 'digressive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

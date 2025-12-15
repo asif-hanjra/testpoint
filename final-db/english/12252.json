@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'enigma':",
+      "options": {
+        "a": "mystery",
+        "b": "puzzle",
+        "c": "clarity",
+        "d": "riddle"
+      },
+      "one_liner": "Antonyms of 'enigma' include 'clarity' and 'solution', both implying clear understanding or resolution.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

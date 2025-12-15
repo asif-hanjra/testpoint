@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'eschew':",
+      "options": {
+        "a": "embrace",
+        "b": "shun",
+        "c": "accept",
+        "d": "welcome"
+      },
+      "one_liner": "'Eschew' means to deliberately avoid or abstain from something—words like 'shun' and 'avoid' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

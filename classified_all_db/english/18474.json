@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'spurious':",
+      "options": {
+        "a": "false:legitimate",
+        "b": "genuine:fabricated",
+        "c": "bogus:authentic",
+        "d": "phony:real"
+      },
+      "one_liner": "'False' is a synonym of 'spurious', while 'legitimate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

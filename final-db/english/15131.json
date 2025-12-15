@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'atrophy':",
+      "options": {
+        "a": "enhancement",
+        "b": "wasting",
+        "c": "growth",
+        "d": "expansion"
+      },
+      "one_liner": "'Atrophy' refers to a decline or decrease in size or strength, similar to 'wasting' or 'degeneration'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

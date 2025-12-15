@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'swift':",
+      "options": {
+        "a": "fleet:tardy",
+        "b": "quick:rapid",
+        "c": "fast:prompt",
+        "d": "hurried:swift"
+      },
+      "one_liner": "'Fleet' is a synonym of 'swift', while 'tardy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

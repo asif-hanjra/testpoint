@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'insane':",
+      "options": {
+        "a": "crazy:logical",
+        "b": "mad:rational",
+        "c": "lunatic:sane",
+        "d": "deranged:balanced"
+      },
+      "one_liner": "'Crazy' is a synonym of 'insane', while 'logical' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

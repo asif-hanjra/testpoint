@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He gave his wife a large bouquet ___ flowers on her birthday.",
+      "options": {
+        "a": "for",
+        "b": "of",
+        "c": "with",
+        "d": "from"
+      },
+      "one_liner": "He gave his wife a large bouquet 'of' flowers on her birthday.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

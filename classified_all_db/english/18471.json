@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pestilence':",
+      "options": {
+        "a": "contagion:well-being",
+        "b": "sickness:health",
+        "c": "epidemic:harmony",
+        "d": "plague:serenity"
+      },
+      "one_liner": "'Contagion' is a synonym of 'pestilence', while 'well-being' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

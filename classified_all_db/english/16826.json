@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hate':",
+      "options": {
+        "a": "abhor:admire",
+        "b": "detest:cherish",
+        "c": "loathe:enjoy",
+        "d": "despise:adore"
+      },
+      "one_liner": "'Abhor' is a synonym of 'hate', while 'admire' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

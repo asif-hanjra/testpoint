@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'apparition':",
+      "options": {
+        "a": "illusion",
+        "b": "ghost",
+        "c": "reality",
+        "d": "specter"
+      },
+      "one_liner": "While 'apparition' is a supernatural phenomenon, 'reality' is its antonym, representing what is actual and existent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

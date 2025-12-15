@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'desiccate':",
+      "options": {
+        "a": "dry",
+        "b": "moisten",
+        "c": "parch",
+        "d": "wither"
+      },
+      "one_liner": "The antonym of 'desiccate' is 'moisten', which means to make something slightly wet.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

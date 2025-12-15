@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sublime':",
+      "options": {
+        "a": "ordinary",
+        "b": "magnificent",
+        "c": "dull",
+        "d": "mediocre"
+      },
+      "one_liner": "'Sublime' describes something awe-inspiring or outstanding, similar to 'magnificent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

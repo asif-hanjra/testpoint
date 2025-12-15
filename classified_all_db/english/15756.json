@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ashamed':",
+      "options": {
+        "a": "mortified",
+        "b": "embarrassed",
+        "c": "proud",
+        "d": "humiliated"
+      },
+      "one_liner": "The opposite of feeling 'ashamed' is feeling 'proud', which implies satisfaction and self-respect.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

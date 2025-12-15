@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'nevertheless' in the sentence 'It was raining; nevertheless, they went out.'?",
+      "options": {
+        "a": "Adverb",
+        "b": "Adjective",
+        "c": "Verb",
+        "d": "Noun"
+      },
+      "one_liner": "'Nevertheless' is an adverbial conjunction, connecting and contrasting two clauses.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

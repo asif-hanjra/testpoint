@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'antediluvian':",
+      "options": {
+        "a": "ancient",
+        "b": "obsolete",
+        "c": "contemporary",
+        "d": "prehistoric"
+      },
+      "one_liner": "An antonym of 'antediluvian' would be 'contemporary', which means belonging to the present time.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'forefathers':",
+      "options": {
+        "a": "descendants",
+        "b": "ancestors",
+        "c": "siblings",
+        "d": "offspring"
+      },
+      "one_liner": "'Forefathers' refers to ancestors or progenitors, indicating those who came before us in a family line.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

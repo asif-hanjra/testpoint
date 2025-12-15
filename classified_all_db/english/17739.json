@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impediment':",
+      "options": {
+        "a": "hindrance",
+        "b": "barrier",
+        "c": "facilitator",
+        "d": "block"
+      },
+      "one_liner": "An antonym of 'impediment' is 'facilitator', which implies something that helps or assists.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

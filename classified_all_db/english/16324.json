@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pusillanimous':",
+      "options": {
+        "a": "timid:courageous",
+        "b": "cowardly:brave",
+        "c": "fearful:fearless",
+        "d": "meek:bold"
+      },
+      "one_liner": "'Timid' is a synonym for 'pusillanimous', while 'courageous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

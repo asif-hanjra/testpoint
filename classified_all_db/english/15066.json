@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'meticulous':",
+      "options": {
+        "a": "careless",
+        "b": "fastidious",
+        "c": "negligent",
+        "d": "sloppy"
+      },
+      "one_liner": "'Meticulous' describes someone who is very careful and pays great attention to detail, much like someone who is 'fastidious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

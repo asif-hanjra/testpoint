@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'question':",
+      "options": {
+        "a": "query:reply",
+        "b": "inquiry:response",
+        "c": "interrogation:answer",
+        "d": "question:statement"
+      },
+      "one_liner": "'Query' is a synonym of 'question', while 'reply' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

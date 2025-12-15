@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'humble':",
+      "options": {
+        "a": "arrogant",
+        "b": "modest",
+        "c": "proud",
+        "d": "vain"
+      },
+      "one_liner": "'Humble' means showing a modest or low estimate of one's importance, similar to 'modest'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

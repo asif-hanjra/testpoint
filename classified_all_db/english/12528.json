@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rejoicing':",
+      "options": {
+        "a": "mourning",
+        "b": "celebrating",
+        "c": "grieving",
+        "d": "lamenting"
+      },
+      "one_liner": "'Rejoicing' means expressing great joy or happiness, similar to 'celebrating'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

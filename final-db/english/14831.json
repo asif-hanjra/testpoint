@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'anonymous':",
+      "options": {
+        "a": "unknown",
+        "b": "unidentified",
+        "c": "identified",
+        "d": "hidden"
+      },
+      "one_liner": "An antonym of 'anonymous' is 'identified', which means known or named.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

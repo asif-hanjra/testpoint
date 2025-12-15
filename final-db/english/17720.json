@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'militant':",
+      "options": {
+        "a": "warlike",
+        "b": "hostile",
+        "c": "peaceful",
+        "d": "aggressive"
+      },
+      "one_liner": "The antonym of 'militant' is 'peaceful', which means not inclined to engage in conflict.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

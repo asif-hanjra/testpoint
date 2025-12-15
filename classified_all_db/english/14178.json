@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'coy':",
+      "options": {
+        "a": "shy:outgoing",
+        "b": "reserved:open",
+        "c": "modest:brazen",
+        "d": "timid:bold"
+      },
+      "one_liner": "'Shy' is a synonym of 'coy', while 'outgoing' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

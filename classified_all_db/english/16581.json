@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dissent':",
+      "options": {
+        "a": "dispute",
+        "b": "discord",
+        "c": "agreement",
+        "d": "controversy"
+      },
+      "one_liner": "The antonym of 'dissent' is 'agreement', which signifies harmony or concurrence of opinion.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

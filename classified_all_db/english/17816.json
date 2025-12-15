@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lull':",
+      "options": {
+        "a": "hiatus:commotion",
+        "b": "pause:turmoil",
+        "c": "respite:calm",
+        "d": "break:peace"
+      },
+      "one_liner": "'Hiatus' is a synonym of 'lull', while 'commotion' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

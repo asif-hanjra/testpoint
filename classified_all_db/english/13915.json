@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'serene':",
+      "options": {
+        "a": "peaceful",
+        "b": "calm",
+        "c": "turbulent",
+        "d": "quiet"
+      },
+      "one_liner": "The opposite of 'serene' is 'turbulent', which implies a state of agitation or disturbance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hyperbole':",
+      "options": {
+        "a": "understatement",
+        "b": "exaggeration",
+        "c": "fact",
+        "d": "reality"
+      },
+      "one_liner": "'Hyperbole' refers to exaggerated statements or claims not meant to be taken literally, similar to 'exaggeration'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

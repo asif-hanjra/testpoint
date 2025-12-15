@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gauche':",
+      "options": {
+        "a": "elegant",
+        "b": "clumsy",
+        "c": "graceful",
+        "d": "refined"
+      },
+      "one_liner": "'Gauche' means awkward or lacking social grace, similar to 'clumsy' or 'inept'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

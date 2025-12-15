@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'heretical':",
+      "options": {
+        "a": "conforming",
+        "b": "unorthodox",
+        "c": "traditional",
+        "d": "customary"
+      },
+      "one_liner": "'Heretical' refers to beliefs that deviate from established doctrines, similar to 'unorthodox'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

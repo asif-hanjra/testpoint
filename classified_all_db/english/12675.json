@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'celibate':",
+      "options": {
+        "a": "married",
+        "b": "abstinent",
+        "c": "indulgent",
+        "d": "promiscuous"
+      },
+      "one_liner": "'Celibate' refers to someone who abstains from marriage and sexual relations, similar to 'abstinent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

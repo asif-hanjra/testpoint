@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dry':",
+      "options": {
+        "a": "arid:saturated",
+        "b": "moist:humid",
+        "c": "parched:damp",
+        "d": "desiccated:soggy"
+      },
+      "one_liner": "'Desiccated' is a synonym of 'dry', while 'saturated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

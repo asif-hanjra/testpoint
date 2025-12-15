@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'oaf':",
+      "options": {
+        "a": "dolt:prodigy",
+        "b": "clod:genius",
+        "c": "fool:scholar",
+        "d": "lout:savant"
+      },
+      "one_liner": "'Dolt' is a synonym of 'oaf', while 'prodigy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

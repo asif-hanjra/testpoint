@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'luminary':",
+      "options": {
+        "a": "star",
+        "b": "guide",
+        "c": "obscure person",
+        "d": "mentor"
+      },
+      "one_liner": "As 'luminary' describes someone who is an inspiration or a leading light, an 'obscure person' would be its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ornithology':",
+      "options": {
+        "a": "mammalogy",
+        "b": "entomology",
+        "c": "botany",
+        "d": "virology"
+      },
+      "one_liner": "While 'ornithology' is the study of birds, 'mammalogy' is the study of mammals, making it an antonym in the context of zoological disciplines.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

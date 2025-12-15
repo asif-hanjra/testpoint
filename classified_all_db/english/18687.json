@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pathology':",
+      "options": {
+        "a": "health",
+        "b": "disease",
+        "c": "illness",
+        "d": "infection"
+      },
+      "one_liner": "While 'pathology' is the study of diseases, 'health' is its antonym, representing the absence of disease.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

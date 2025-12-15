@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'succumb':",
+      "options": {
+        "a": "submit",
+        "b": "yield",
+        "c": "surrender",
+        "d": "resist"
+      },
+      "one_liner": "Antonyms of 'succumb' include 'resist' and 'withstand', both implying the ability to remain unaffected by negative forces.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

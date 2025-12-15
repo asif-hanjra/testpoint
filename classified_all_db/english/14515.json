@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'profuse':",
+      "options": {
+        "a": "lavish:limited",
+        "b": "ample:abundant",
+        "c": "generous:plentiful",
+        "d": "bountiful:copious"
+      },
+      "one_liner": "'Lavish' is a synonym of 'profuse', while 'limited' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'precipice':",
+      "options": {
+        "a": "cliff:plateau",
+        "b": "gorge:hill",
+        "c": "chasm:valley",
+        "d": "abyss:plain"
+      },
+      "one_liner": "'Cliff' is a synonym of 'precipice', while 'valley' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

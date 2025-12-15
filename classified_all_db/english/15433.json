@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'descry':",
+      "options": {
+        "a": "ignore",
+        "b": "detect",
+        "c": "overlook",
+        "d": "neglect"
+      },
+      "one_liner": "'Descry' means to catch sight of or discover, similar to 'detect' or 'spot'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

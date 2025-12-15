@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vigor':",
+      "options": {
+        "a": "energy:apathy",
+        "b": "strength:power",
+        "c": "vitality:lethargy",
+        "d": "force:weakness"
+      },
+      "one_liner": "'Energy' is a synonym of 'vigor', while 'apathy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

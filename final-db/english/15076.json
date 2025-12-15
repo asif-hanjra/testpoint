@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'empty':",
+      "options": {
+        "a": "full",
+        "b": "vacant",
+        "c": "crowded",
+        "d": "occupied"
+      },
+      "one_liner": "'Empty' means devoid of content or occupants, similar to 'vacant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

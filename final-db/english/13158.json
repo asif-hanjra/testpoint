@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sumptuous':",
+      "options": {
+        "a": "extravagant",
+        "b": "luxurious",
+        "c": "spartan",
+        "d": "rich"
+      },
+      "one_liner": "An antonym of 'sumptuous' would be 'spartan', which suggests simplicity and lack of luxury.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

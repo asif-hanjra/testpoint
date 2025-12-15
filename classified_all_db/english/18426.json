@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'atone':",
+      "options": {
+        "a": "differ",
+        "b": "expiate",
+        "c": "worsen",
+        "d": "separate"
+      },
+      "one_liner": "'Atone' means to make amends or reparation—words like 'expiate' and 'redeem' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

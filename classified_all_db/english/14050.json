@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exodus':",
+      "options": {
+        "a": "departure:influx",
+        "b": "arrival:departure",
+        "c": "leaving:coming",
+        "d": "migration:arrival"
+      },
+      "one_liner": "'Departure' is a synonym of 'exodus', while 'influx' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

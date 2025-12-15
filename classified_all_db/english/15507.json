@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'extensive':",
+      "options": {
+        "a": "broad",
+        "b": "expansive",
+        "c": "limited",
+        "d": "wide-ranging"
+      },
+      "one_liner": "Antonyms of 'extensive' include 'limited' and 'restricted', both implying a smaller scope or scale.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

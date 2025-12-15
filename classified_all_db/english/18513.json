@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'Jeckluster':",
+      "options": {
+        "a": "bright",
+        "b": "dull",
+        "c": "vibrant",
+        "d": "none of the above"
+      },
+      "one_liner": "'Jeckluster' is not a recognized English word, so it does not have a synonym.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

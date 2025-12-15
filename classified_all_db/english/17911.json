@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prosperity':",
+      "options": {
+        "a": "wealth",
+        "b": "success",
+        "c": "adversity",
+        "d": "fortune"
+      },
+      "one_liner": "The opposite of 'prosperity' is 'adversity', which denotes hardship or misfortune.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

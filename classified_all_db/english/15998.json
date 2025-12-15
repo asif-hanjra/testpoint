@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obliterate':",
+      "options": {
+        "a": "destroy",
+        "b": "demolish",
+        "c": "preserve",
+        "d": "annihilate"
+      },
+      "one_liner": "The antonym of 'obliterate' is 'preserve', as it means to maintain or protect something from being destroyed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

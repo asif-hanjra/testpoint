@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'furtive':",
+      "options": {
+        "a": "clandestine",
+        "b": "hidden",
+        "c": "overt",
+        "d": "covert"
+      },
+      "one_liner": "The antonym of 'furtive' is 'overt', which means done or shown openly.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

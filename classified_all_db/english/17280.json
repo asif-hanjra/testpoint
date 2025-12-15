@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ligneous':",
+      "options": {
+        "a": "woody:metallic",
+        "b": "wooden:glassy",
+        "c": "tree-like:plastic",
+        "d": "fibrous:stone-like"
+      },
+      "one_liner": "'Woody' is a synonym of 'ligneous', while 'metallic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

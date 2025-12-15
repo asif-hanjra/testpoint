@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'extensive':",
+      "options": {
+        "a": "expansive:narrow",
+        "b": "comprehensive:wide",
+        "c": "broad:limited",
+        "d": "vast:expansive"
+      },
+      "one_liner": "'Expansive' is a synonym of 'extensive', while 'narrow' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

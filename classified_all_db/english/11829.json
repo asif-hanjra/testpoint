@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'amateur':",
+      "options": {
+        "a": "expert",
+        "b": "novice",
+        "c": "veteran",
+        "d": "professional"
+      },
+      "one_liner": "'Amateur' refers to someone who is not professional or skilled in a particular area, similar to a 'novice'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

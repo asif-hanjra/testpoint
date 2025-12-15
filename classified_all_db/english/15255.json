@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'burlesque':",
+      "options": {
+        "a": "comedy",
+        "b": "farce",
+        "c": "seriousness",
+        "d": "satire"
+      },
+      "one_liner": "While 'burlesque' is a humorous or mocking imitation, 'seriousness' is its antonym, indicating a lack of humor.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

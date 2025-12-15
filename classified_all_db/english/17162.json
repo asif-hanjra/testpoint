@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'loquacious':",
+      "options": {
+        "a": "silent",
+        "b": "chatty",
+        "c": "reserved",
+        "d": "quiet"
+      },
+      "one_liner": "'Loquacious' describes someone who is very talkative, similar to 'chatty'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

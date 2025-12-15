@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'commentator':",
+      "options": {
+        "a": "analyst:onlooker",
+        "b": "critic:participant",
+        "c": "narrator:spectator",
+        "d": "reviewer:observer"
+      },
+      "one_liner": "'Pundit' is a synonym of 'commentator', while 'onlooker' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

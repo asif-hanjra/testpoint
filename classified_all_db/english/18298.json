@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'jest':",
+      "options": {
+        "a": "banter:mourn",
+        "b": "grieve:smirk",
+        "c": "joke:grieve",
+        "d": "laugh:cry"
+      },
+      "one_liner": "'Banter' is a synonym for 'jest', while 'mourn' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

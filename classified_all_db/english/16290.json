@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'icon':",
+      "options": {
+        "a": "portrait",
+        "b": "emblem",
+        "c": "landscape",
+        "d": "photograph"
+      },
+      "one_liner": "'Icon' can refer to a symbol or emblem, with 'emblem' being a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

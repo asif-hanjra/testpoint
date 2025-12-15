@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He is suspicious ___ all his neighbors.",
+      "options": {
+        "a": "at",
+        "b": "of",
+        "c": "with",
+        "d": "to"
+      },
+      "one_liner": "He is suspicious 'of' all his neighbors.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

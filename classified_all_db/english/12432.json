@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'droll':",
+      "options": {
+        "a": "humorless",
+        "b": "funny",
+        "c": "hilarious",
+        "d": "witty"
+      },
+      "one_liner": "The antonym of 'droll', which means amusingly odd, would be 'humorless' or 'mundane'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

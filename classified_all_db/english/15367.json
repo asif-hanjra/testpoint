@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'avert':",
+      "options": {
+        "a": "embrace",
+        "b": "prevent",
+        "c": "encourage",
+        "d": "welcome"
+      },
+      "one_liner": "'Avert' means to turn away or prevent, so words like 'avoid' and 'prevent' are synonyms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

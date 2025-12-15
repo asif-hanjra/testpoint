@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pragmatic':",
+      "options": {
+        "a": "sensible:visionary",
+        "b": "realistic:impractical",
+        "c": "practical:idealistic",
+        "d": "functional:unrealistic"
+      },
+      "one_liner": "'Sensible' is a synonym of 'pragmatic', while 'visionary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

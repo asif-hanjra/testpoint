@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'irate':",
+      "options": {
+        "a": "furious",
+        "b": "angry",
+        "c": "calm",
+        "d": "irate"
+      },
+      "one_liner": "The opposite of 'irate', which means very angry, would be 'calm'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

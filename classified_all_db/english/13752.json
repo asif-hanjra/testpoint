@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'frank':",
+      "options": {
+        "a": "candid:secretive",
+        "b": "honest:forthright",
+        "c": "direct:indirect",
+        "d": "explicit:implicit"
+      },
+      "one_liner": "'Candid' is a synonym of 'frank', while 'secretive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

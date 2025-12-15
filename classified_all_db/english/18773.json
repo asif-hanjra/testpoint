@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He asked Ali ___ sit down.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "He asked Ali 'to' sit down.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

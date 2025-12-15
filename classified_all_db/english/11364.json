@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'die':",
+      "options": {
+        "a": "pass away:survive",
+        "b": "expire:continue",
+        "c": "perish:flourish",
+        "d": "cease:thrive"
+      },
+      "one_liner": "'Pass away' is a synonym for 'die', while 'survive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

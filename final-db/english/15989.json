@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'aspersion':",
+      "options": {
+        "a": "praise",
+        "b": "compliment",
+        "c": "slander",
+        "d": "approval"
+      },
+      "one_liner": "'Aspersion' refers to a damaging or derogatory remark, similar to 'slander'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

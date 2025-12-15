@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'claim':",
+      "options": {
+        "a": "declare:renounce",
+        "b": "affirm:accept",
+        "c": "maintain:retain",
+        "d": "proclaim:embrace"
+      },
+      "one_liner": "'Declare' is a synonym of 'claim', while 'renounce' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

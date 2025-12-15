@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'chilly':",
+      "options": {
+        "a": "nippy:toasty",
+        "b": "cool:warm",
+        "c": "cold:cool",
+        "d": "brisk:hot"
+      },
+      "one_liner": "'Nippy' is a synonym of 'chilly', while 'toasty' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

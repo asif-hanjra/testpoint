@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'trenchant':",
+      "options": {
+        "a": "incisive:obtuse",
+        "b": "sharp:dull",
+        "c": "keen:blunt",
+        "d": "piercing:vague"
+      },
+      "one_liner": "'Incisive' is a synonym of 'trenchant', while 'obtuse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

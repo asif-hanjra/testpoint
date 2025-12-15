@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'polymath':",
+      "options": {
+        "a": "novice",
+        "b": "savant",
+        "c": "beginner",
+        "d": "amateur"
+      },
+      "one_liner": "'Polymath' refers to a person with wide-ranging knowledge or learning, similar to a 'savant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'imperious':",
+      "options": {
+        "a": "arrogant",
+        "b": "authoritative",
+        "c": "humble",
+        "d": "imposing"
+      },
+      "one_liner": "An antonym of 'imperious' is 'humble', which suggests modesty rather than authority.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

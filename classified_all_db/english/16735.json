@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I take much delight ___ reading poetry.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "with"
+      },
+      "one_liner": "I take much delight 'in' reading poetry.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

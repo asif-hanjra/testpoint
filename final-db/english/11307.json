@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gravel':",
+      "options": {
+        "a": "sand",
+        "b": "shingle",
+        "c": "clay",
+        "d": "silt"
+      },
+      "one_liner": "'Gravel' refers to small stones or pebbles, similar to 'shingle' or 'grit'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'shatter':",
+      "options": {
+        "a": "mend",
+        "b": "fracture",
+        "c": "join",
+        "d": "unite"
+      },
+      "one_liner": "'Shatter' means to break into pieces violently, similar to 'smash' or 'fracture'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

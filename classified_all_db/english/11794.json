@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'yearn':",
+      "options": {
+        "a": "long:disdain",
+        "b": "crave:seek",
+        "c": "desire:enjoy",
+        "d": "pine:appreciate"
+      },
+      "one_liner": "'Long' is a synonym of 'yearn', while 'disdain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fulsome':",
+      "options": {
+        "a": "excessive",
+        "b": "overdone",
+        "c": "understated",
+        "d": "lavish"
+      },
+      "one_liner": "An antonym of 'fulsome' would be 'understated', which suggests moderation rather than excess.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

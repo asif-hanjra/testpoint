@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'candid':",
+      "options": {
+        "a": "frank:insincere",
+        "b": "honest:truthful",
+        "c": "open:opaque",
+        "d": "direct:indirect"
+      },
+      "one_liner": "'Frank' is a synonym of 'candid', while 'insincere' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

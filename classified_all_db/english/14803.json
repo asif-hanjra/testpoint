@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gallant':",
+      "options": {
+        "a": "heroic",
+        "b": "daring",
+        "c": "cowardly",
+        "d": "bold"
+      },
+      "one_liner": "The word 'gallant' implies bravery, making 'cowardly' its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

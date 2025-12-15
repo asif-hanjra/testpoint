@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'onerous':",
+      "options": {
+        "a": "heavy:light",
+        "b": "simple:complicated",
+        "c": "arduous:easy",
+        "d": "demanding:undemanding"
+      },
+      "one_liner": "'Burdensome' is a synonym of 'onerous', while 'light' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

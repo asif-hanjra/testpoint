@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'preserve':",
+      "options": {
+        "a": "neglect",
+        "b": "conserve",
+        "c": "squander",
+        "d": "waste"
+      },
+      "one_liner": "'Preserve' means to maintain or protect something—words like 'maintain' and 'conserve' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

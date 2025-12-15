@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Which preposition best completes the sentence: You cannot have ___ cake and eat it?",
+      "options": {
+        "a": "in",
+        "b": "your",
+        "c": "at",
+        "d": "with"
+      },
+      "one_liner": "You cannot have 'your' cake and eat it.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

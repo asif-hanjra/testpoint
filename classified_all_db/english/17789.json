@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fathom':",
+      "options": {
+        "a": "comprehend",
+        "b": "grasp",
+        "c": "misunderstand",
+        "d": "perceive"
+      },
+      "one_liner": "An antonym of 'fathom' is 'misunderstand', which means to fail to grasp the meaning or intent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

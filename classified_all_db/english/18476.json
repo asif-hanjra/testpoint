@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abdicate':",
+      "options": {
+        "a": "cling to",
+        "b": "relinquish",
+        "c": "seize",
+        "d": "hold"
+      },
+      "one_liner": "'Abdicate' means to renounce or give up a throne, right, or power, which is similar to 'relinquish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

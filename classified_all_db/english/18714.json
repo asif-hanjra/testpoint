@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'indict':",
+      "options": {
+        "a": "arraign",
+        "b": "exonerate",
+        "c": "prosecute",
+        "d": "accuse"
+      },
+      "one_liner": "The opposite of 'indict', which means to formally charge, would be 'exonerate', meaning to clear from blame.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

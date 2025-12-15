@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the phrase 'feel blue':",
+      "options": {
+        "a": "feel miserable",
+        "b": "feel sorrowful",
+        "c": "feel elated",
+        "d": "feel despondent"
+      },
+      "one_liner": "An antonym for 'feel blue' is 'feel elated', which means to feel very happy or joyful.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

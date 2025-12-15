@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'disguise':",
+      "options": {
+        "a": "reveal",
+        "b": "camouflage",
+        "c": "expose",
+        "d": "uncover"
+      },
+      "one_liner": "'Disguise' means to conceal or hide one's appearance or identity, similar to 'camouflage'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

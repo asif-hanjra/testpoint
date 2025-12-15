@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'relevant':",
+      "options": {
+        "a": "irrelevant",
+        "b": "pertinent",
+        "c": "unrelated",
+        "d": "distant"
+      },
+      "one_liner": "'Relevant' means applicable or pertinent, so 'pertinent' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

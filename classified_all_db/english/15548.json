@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pedantry':",
+      "options": {
+        "a": "ignorance",
+        "b": "punctiliousness",
+        "c": "negligence",
+        "d": "simplicity"
+      },
+      "one_liner": "'Pedantry' refers to excessive concern with minor details and rules, similar to 'punctiliousness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

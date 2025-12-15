@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'flatter':",
+      "options": {
+        "a": "criticize",
+        "b": "adulate",
+        "c": "insult",
+        "d": "belittle"
+      },
+      "one_liner": "'Flatter' means to praise or compliment excessively, similar to 'adulate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

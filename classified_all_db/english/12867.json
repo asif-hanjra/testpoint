@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stake':",
+      "options": {
+        "a": "loss",
+        "b": "claim",
+        "c": "disinterest",
+        "d": "withdrawal"
+      },
+      "one_liner": "'Stake' can mean an interest or share in an enterprise, similar to 'claim' or 'share'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

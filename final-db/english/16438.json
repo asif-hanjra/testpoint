@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wardrobe':",
+      "options": {
+        "a": "apparel",
+        "b": "closet",
+        "c": "empty closet",
+        "d": "attire"
+      },
+      "one_liner": "While 'wardrobe' is a collection of clothes, an 'empty closet' would be its antonym, indicating no clothes.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

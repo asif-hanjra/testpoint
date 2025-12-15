@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'flamboyant':",
+      "options": {
+        "a": "extravagant:modest",
+        "b": "gaudy:showy",
+        "c": "flashy:reserved",
+        "d": "vibrant:colorful"
+      },
+      "one_liner": "'Extravagant' is a synonym of 'flamboyant', while 'modest' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

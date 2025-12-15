@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'good':",
+      "options": {
+        "a": "excellent",
+        "b": "superior",
+        "c": "bad",
+        "d": "wonderful"
+      },
+      "one_liner": "The word 'bad' is an antonym of 'good', representing something negative or undesirable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

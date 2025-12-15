@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'demise':",
+      "options": {
+        "a": "expiration:inception",
+        "b": "conclusion:commencement",
+        "c": "cessation:continuation",
+        "d": "ending:beginning"
+      },
+      "one_liner": "'Expiration' is a synonym of 'demise', while 'inception' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tentative':",
+      "options": {
+        "a": "uncertain",
+        "b": "experimental",
+        "c": "definite",
+        "d": "provisional"
+      },
+      "one_liner": "An antonym of 'tentative' is 'definite', which means clearly stated or decided.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

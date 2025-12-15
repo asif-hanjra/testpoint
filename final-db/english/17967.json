@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'presumptive':",
+      "options": {
+        "a": "definite",
+        "b": "speculative",
+        "c": "certain",
+        "d": "absolute"
+      },
+      "one_liner": "'Presumptive' implies something that is based on presumption or probability, similar to 'speculative'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dally':",
+      "options": {
+        "a": "dawdle:expedite",
+        "b": "linger:accelerate",
+        "c": "procrastinate:hurry",
+        "d": "loiter:delay"
+      },
+      "one_liner": "'Dawdle' is a synonym of 'dally', while 'expedite' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

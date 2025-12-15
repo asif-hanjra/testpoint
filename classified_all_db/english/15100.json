@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'jeopardize':",
+      "options": {
+        "a": "threaten",
+        "b": "hazard",
+        "c": "safeguard",
+        "d": "compromise"
+      },
+      "one_liner": "The antonym of 'jeopardize' is 'safeguard', which means to protect something from harm.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

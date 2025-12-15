@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lucid':",
+      "options": {
+        "a": "clear",
+        "b": "evident",
+        "c": "obscure",
+        "d": "distinct"
+      },
+      "one_liner": "An antonym of 'lucid' is 'obscure', which means not clear or hard to understand.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

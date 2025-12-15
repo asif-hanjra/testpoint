@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'crockery':",
+      "options": {
+        "a": "furniture",
+        "b": "tableware",
+        "c": "appliances",
+        "d": "utensils"
+      },
+      "one_liner": "'Crockery' refers to dishes or pottery, so 'tableware' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

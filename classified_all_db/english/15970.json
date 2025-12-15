@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'shallow':",
+      "options": {
+        "a": "superficial:profound",
+        "b": "trivial:complex",
+        "c": "surface:deep",
+        "d": "slight:significant"
+      },
+      "one_liner": "'Superficial' is a synonym of 'shallow', while 'profound' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

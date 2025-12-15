@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'loafer':",
+      "options": {
+        "a": "worker",
+        "b": "slacker",
+        "c": "hustler",
+        "d": "striver"
+      },
+      "one_liner": "'Loafer' refers to someone who is idle or avoids work, much like a 'slacker'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

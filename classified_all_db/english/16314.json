@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'subside':",
+      "options": {
+        "a": "wane:wax",
+        "b": "decrease:reduce",
+        "c": "lessen:decline",
+        "d": "diminish:grow"
+      },
+      "one_liner": "'Wane' is a synonym of 'subside', while 'wax' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

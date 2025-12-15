@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'permanent':",
+      "options": {
+        "a": "enduring",
+        "b": "eternal",
+        "c": "lasting",
+        "d": "temporary"
+      },
+      "one_liner": "The antonym of 'permanent' is 'temporary', which means not lasting or needed for only a short time.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'equivocate':",
+      "options": {
+        "a": "clarify",
+        "b": "prevaricate",
+        "c": "elucidate",
+        "d": "explain"
+      },
+      "one_liner": "'Equivocate' means to speak ambiguously or unclearly, similar to 'prevaricate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

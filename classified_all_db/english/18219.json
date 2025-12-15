@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What do you call a person who can speak many languages fluently?",
+      "options": {
+        "a": "Linguist",
+        "b": "Polyglot",
+        "c": "Grammarian",
+        "d": "Orator"
+      },
+      "one_liner": "A 'polyglot' is someone who is able to speak or use several different languages with fluency.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "One Word Substitutions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

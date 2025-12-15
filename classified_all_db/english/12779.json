@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pedestrian':",
+      "options": {
+        "a": "innovative",
+        "b": "mundane",
+        "c": "extraordinary",
+        "d": "remarkable"
+      },
+      "one_liner": "'Pedestrian' can mean lacking inspiration or excitement, similar to 'mundane'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

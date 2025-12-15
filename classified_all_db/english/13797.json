@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'varnish':",
+      "options": {
+        "a": "paint",
+        "b": "finish",
+        "c": "stain",
+        "d": "primer"
+      },
+      "one_liner": "'Varnish' is often used to refer to a type of 'finish' or 'gloss' that is applied to wood.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

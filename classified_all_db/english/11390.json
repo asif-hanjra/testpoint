@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'plea':",
+      "options": {
+        "a": "entreaty:denial",
+        "b": "request:acceptance",
+        "c": "appeal:agreement",
+        "d": "petition:approval"
+      },
+      "one_liner": "'Entreaty' is a synonym of 'plea', while 'denial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pristine':",
+      "options": {
+        "a": "untouched",
+        "b": "pure",
+        "c": "tarnished",
+        "d": "clean"
+      },
+      "one_liner": "The antonym of 'pristine' is 'tarnished', which means it has lost its original luster or purity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

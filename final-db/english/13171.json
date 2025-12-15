@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'meager':",
+      "options": {
+        "a": "scarce",
+        "b": "limited",
+        "c": "abundant",
+        "d": "minimal"
+      },
+      "one_liner": "An antonym of 'meager' is 'abundant', which means present in great quantity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'premature':",
+      "options": {
+        "a": "untimely:timely",
+        "b": "early:overdue",
+        "c": "precipitate:protracted",
+        "d": "hasty:delayed"
+      },
+      "one_liner": "'Early' is a synonym of 'premature', while 'overdue' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

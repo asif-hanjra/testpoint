@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hospitable':",
+      "options": {
+        "a": "unfriendly",
+        "b": "welcoming",
+        "c": "hostile",
+        "d": "cold"
+      },
+      "one_liner": "'Hospitable' refers to being welcoming or friendly, much like the word 'welcoming'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

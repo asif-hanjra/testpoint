@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'glib':",
+      "options": {
+        "a": "clumsy",
+        "b": "articulate",
+        "c": "awkward",
+        "d": "slick"
+      },
+      "one_liner": "'Glib' refers to speaking in a smooth, easy manner, often superficially—similar to 'slick' or 'smooth-talking'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

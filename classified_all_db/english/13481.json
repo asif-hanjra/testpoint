@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fatigue':",
+      "options": {
+        "a": "energy",
+        "b": "vigor",
+        "c": "exhaustion",
+        "d": "alertness"
+      },
+      "one_liner": "'Fatigue' refers to extreme tiredness, similar to 'exhaustion'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

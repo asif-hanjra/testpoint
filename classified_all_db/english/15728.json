@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intrepid':",
+      "options": {
+        "a": "courageous:fearful",
+        "b": "brave:brave",
+        "c": "daring:timid",
+        "d": "bold:bold"
+      },
+      "one_liner": "'Courageous' is a synonym of 'intrepid', while 'fearful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

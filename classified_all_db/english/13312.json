@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tyrant':",
+      "options": {
+        "a": "dictator:liberator",
+        "b": "oppressor:ally",
+        "c": "despot:democrat",
+        "d": "autocrat:partner"
+      },
+      "one_liner": "'Dictator' is a synonym of 'tyrant', while 'liberator' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

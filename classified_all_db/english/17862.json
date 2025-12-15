@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'precipitous':",
+      "options": {
+        "a": "gradual",
+        "b": "sheer",
+        "c": "level",
+        "d": "flat"
+      },
+      "one_liner": "'Precipitous' describes something very steep, like 'sheer' cliffs that drop sharply.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

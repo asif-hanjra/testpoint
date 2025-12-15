@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'subdue':",
+      "options": {
+        "a": "ignite",
+        "b": "quell",
+        "c": "encourage",
+        "d": "release"
+      },
+      "one_liner": "'Subdue' means to conquer or bring under control, which is similar to 'quell'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

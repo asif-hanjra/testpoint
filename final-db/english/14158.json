@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'swift':",
+      "options": {
+        "a": "slow",
+        "b": "rapid",
+        "c": "lethargic",
+        "d": "sluggish"
+      },
+      "one_liner": "'Swift' means quick or fast-moving, similar to 'rapid'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

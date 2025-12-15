@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'latitude':",
+      "options": {
+        "a": "freedom",
+        "b": "flexibility",
+        "c": "restriction",
+        "d": "leeway"
+      },
+      "one_liner": "The antonym of 'latitude' in the context of freedom is 'restriction', which means a limitation on freedom.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

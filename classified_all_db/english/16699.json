@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'welter':",
+      "options": {
+        "a": "commotion:tranquility",
+        "b": "order:chaos",
+        "c": "disarray:peace",
+        "d": "confusion:harmony"
+      },
+      "one_liner": "'Commotion' is a synonym for 'welter', while 'tranquility' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

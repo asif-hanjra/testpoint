@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'eloquence':",
+      "options": {
+        "a": "rhetoric:incoherence",
+        "b": "clarity:confusion",
+        "c": "verbosity:silence",
+        "d": "expression:inarticulateness"
+      },
+      "one_liner": "'Rhetoric' is a synonym of 'eloquence', while 'incoherence' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mourn':",
+      "options": {
+        "a": "celebrate",
+        "b": "grieve",
+        "c": "rejoice",
+        "d": "delight"
+      },
+      "one_liner": "'Mourn' means to feel and show sadness for someone's death, similar to 'grieve'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

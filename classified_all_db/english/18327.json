@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'imperative':",
+      "options": {
+        "a": "trivial",
+        "b": "crucial",
+        "c": "optional",
+        "d": "unimportant"
+      },
+      "one_liner": "'Imperative' means essential or necessary, similar to 'crucial'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

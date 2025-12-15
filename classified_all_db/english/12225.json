@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'esoteric':",
+      "options": {
+        "a": "abstruse:accessible",
+        "b": "clear:obscure",
+        "c": "cryptic:apparent",
+        "d": "opaque:transparent"
+      },
+      "one_liner": "'Abstruse' is a synonym of 'esoteric', while 'accessible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

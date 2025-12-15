@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'induce':",
+      "options": {
+        "a": "deter",
+        "b": "prompt",
+        "c": "halt",
+        "d": "repress"
+      },
+      "one_liner": "'Induce' means to cause or bring about, similar to 'prompt' or 'instigate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

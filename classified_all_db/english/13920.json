@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'glorious':",
+      "options": {
+        "a": "magnificent",
+        "b": "wonderful",
+        "c": "shameful",
+        "d": "excellent"
+      },
+      "one_liner": "An antonym of 'glorious' is 'shameful', which conveys a sense of disgrace rather than honor.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

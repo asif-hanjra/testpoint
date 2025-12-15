@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lasso':",
+      "options": {
+        "a": "riata:liberate",
+        "b": "halter:free",
+        "c": "noose:unbind",
+        "d": "rope:loosen"
+      },
+      "one_liner": "'Riata' is a synonym of 'lasso', while 'liberate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'odour':",
+      "options": {
+        "a": "aroma:fragrant",
+        "b": "scent:scentless",
+        "c": "smell:flavorful",
+        "d": "perfume:colorful"
+      },
+      "one_liner": "'Fragrance' is a synonym for 'odour', while 'scentless' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'clarify':",
+      "options": {
+        "a": "obscure",
+        "b": "elucidate",
+        "c": "complicate",
+        "d": "confuse"
+      },
+      "one_liner": "'Clarify' means to make clear or understandable, similar to 'elucidate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

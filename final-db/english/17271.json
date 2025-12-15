@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'defer':",
+      "options": {
+        "a": "advance",
+        "b": "postpone",
+        "c": "hasten",
+        "d": "accelerate"
+      },
+      "one_liner": "'Defer' means to postpone or delay, so 'postpone' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

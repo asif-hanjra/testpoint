@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'optimistic':",
+      "options": {
+        "a": "pessimistic",
+        "b": "hopeful",
+        "c": "despairing",
+        "d": "doubtful"
+      },
+      "one_liner": "'Optimistic' describes a hopeful or positive outlook—words like 'hopeful' and 'sanguine' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

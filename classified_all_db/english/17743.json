@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'barren':",
+      "options": {
+        "a": "bleak:fruitful",
+        "b": "arid:lush",
+        "c": "desolate:fertile",
+        "d": "sterile:productive"
+      },
+      "one_liner": "'Bleak' is a synonym of 'barren', while 'fruitful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

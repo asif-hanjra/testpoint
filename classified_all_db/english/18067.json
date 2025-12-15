@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'jeopardy':",
+      "options": {
+        "a": "risk",
+        "b": "threat",
+        "c": "safety",
+        "d": "hazard"
+      },
+      "one_liner": "The antonym of 'jeopardy' is 'safety', which means freedom from danger.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

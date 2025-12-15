@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gargle':",
+      "options": {
+        "a": "spit",
+        "b": "suck",
+        "c": "inhale",
+        "d": "chew"
+      },
+      "one_liner": "The opposite of 'gargle', which involves using liquid in the mouth, would be 'spit', which involves expelling it.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

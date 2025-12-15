@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'startle':",
+      "options": {
+        "a": "soothe",
+        "b": "astonish",
+        "c": "comfort",
+        "d": "calm"
+      },
+      "one_liner": "'Startle' means to surprise or shock suddenly, similar to 'astonish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

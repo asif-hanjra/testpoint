@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'foe':",
+      "options": {
+        "a": "adversary:companion",
+        "b": "ally:friend",
+        "c": "opponent:partner",
+        "d": "rival:associate"
+      },
+      "one_liner": "'Adversary' is a synonym of 'foe', while 'companion' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

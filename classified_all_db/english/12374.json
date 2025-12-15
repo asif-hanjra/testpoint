@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'add':",
+      "options": {
+        "a": "include:deduct",
+        "b": "attach:connect",
+        "c": "append:adjoin",
+        "d": "combine:merge"
+      },
+      "one_liner": "'Include' is a synonym of 'add', while 'deduct' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

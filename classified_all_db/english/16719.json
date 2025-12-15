@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'competent':",
+      "options": {
+        "a": "adept",
+        "b": "proficient",
+        "c": "incompetent",
+        "d": "skilled"
+      },
+      "one_liner": "The antonym of 'competent' is 'incompetent', indicating a lack of necessary skills or ability.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

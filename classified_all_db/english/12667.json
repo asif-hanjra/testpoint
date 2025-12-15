@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fat':",
+      "options": {
+        "a": "obese:slender",
+        "b": "plump:heavy",
+        "c": "chubby:bulky",
+        "d": "thick:lean"
+      },
+      "one_liner": "'Obese' is a synonym of 'fat', while 'slender' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

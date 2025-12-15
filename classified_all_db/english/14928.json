@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the phrase 'A terrible sudden accident':",
+      "options": {
+        "a": "disaster:blessing",
+        "b": "fortune:misfortune",
+        "c": "cataclysm:serendipity",
+        "d": "tragedy:triumph"
+      },
+      "one_liner": "'Disaster' is a synonym for 'A terrible sudden accident', while 'blessing' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

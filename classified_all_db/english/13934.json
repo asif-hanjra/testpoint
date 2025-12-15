@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'excite':",
+      "options": {
+        "a": "bore",
+        "b": "stimulate",
+        "c": "dull",
+        "d": "calm"
+      },
+      "one_liner": "'Excite' means to arouse enthusiasm or eagerness, similar to 'stimulate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

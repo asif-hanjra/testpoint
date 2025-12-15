@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'assimilate':",
+      "options": {
+        "a": "merge",
+        "b": "integrate",
+        "c": "segregate",
+        "d": "combine"
+      },
+      "one_liner": "An antonym of 'assimilate' is 'segregate', which means to set apart from the rest or from each other.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'delineate':",
+      "options": {
+        "a": "define:confuse",
+        "b": "describe:explain",
+        "c": "sketch:clarify",
+        "d": "outline:reveal"
+      },
+      "one_liner": "'Define' is a synonym of 'delineate', while 'confuse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

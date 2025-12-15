@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sympathy':",
+      "options": {
+        "a": "indifference",
+        "b": "compassion",
+        "c": "harshness",
+        "d": "resentment"
+      },
+      "one_liner": "'Sympathy' means feelings of pity and sorrow for someone's misfortune, similar to 'compassion'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

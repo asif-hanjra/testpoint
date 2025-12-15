@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'brevity':",
+      "options": {
+        "a": "conciseness:prolixity",
+        "b": "verbosity:terse",
+        "c": "succinctness:wordiness",
+        "d": "laconic:verbose"
+      },
+      "one_liner": "'Conciseness' is a synonym for 'brevity', while 'prolixity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

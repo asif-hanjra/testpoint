@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'jest':",
+      "options": {
+        "a": "banter",
+        "b": "grieve",
+        "c": "lament",
+        "d": "mourn"
+      },
+      "one_liner": "'Jest' means to joke or act playfully, similar to 'banter'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

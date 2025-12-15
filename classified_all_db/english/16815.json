@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prompt':",
+      "options": {
+        "a": "speedy:tardy",
+        "b": "quick:fast",
+        "c": "immediate:instantaneous",
+        "d": "hasty:hurried"
+      },
+      "one_liner": "'Speedy' is a synonym of 'prompt', while 'tardy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

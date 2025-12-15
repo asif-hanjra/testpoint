@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'meager':",
+      "options": {
+        "a": "abundant",
+        "b": "paltry",
+        "c": "ample",
+        "d": "plentiful"
+      },
+      "one_liner": "'Meager' means insufficient or scanty, similar to 'paltry'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

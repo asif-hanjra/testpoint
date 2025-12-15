@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'probable':",
+      "options": {
+        "a": "possible:impossible",
+        "b": "likely:unlikely",
+        "c": "certain:uncertain",
+        "d": "probable:improbable"
+      },
+      "one_liner": "'Possible' is a synonym of 'probable', while 'impossible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

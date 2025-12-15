@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'reticent':",
+      "options": {
+        "a": "silent",
+        "b": "reserved",
+        "c": "outspoken",
+        "d": "shy"
+      },
+      "one_liner": "The antonym of 'reticent' is 'outspoken', which describes someone who is frank and unreserved in speech.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

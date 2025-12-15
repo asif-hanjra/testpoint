@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tout':",
+      "options": {
+        "a": "ignore",
+        "b": "endorse",
+        "c": "disregard",
+        "d": "neglect"
+      },
+      "one_liner": "'Tout' means to promote or advertise vigorously, similar to 'endorse'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

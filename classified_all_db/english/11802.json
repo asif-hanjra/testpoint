@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'chicanery':",
+      "options": {
+        "a": "honesty",
+        "b": "subterfuge",
+        "c": "integrity",
+        "d": "truthfulness"
+      },
+      "one_liner": "'Chicanery' refers to the use of trickery or deception, similar to 'subterfuge'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

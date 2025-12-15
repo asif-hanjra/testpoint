@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'olfactory':",
+      "options": {
+        "a": "aromatic:visual",
+        "b": "scented:visual",
+        "c": "fragrant:gustatory",
+        "d": "pungent:auditory"
+      },
+      "one_liner": "'Scented' is a synonym of 'olfactory', while 'visual' is its antonym, relating to sight instead of smell.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

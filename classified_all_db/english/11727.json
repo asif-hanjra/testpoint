@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tout':",
+      "options": {
+        "a": "flaunt",
+        "b": "praise",
+        "c": "belittle",
+        "d": "advertise"
+      },
+      "one_liner": "An antonym for 'tout' is 'belittle', which means to speak of someone or something as unimportant.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mitigate':",
+      "options": {
+        "a": "lessen",
+        "b": "relieve",
+        "c": "aggravate",
+        "d": "soothe"
+      },
+      "one_liner": "An antonym of 'mitigate' is 'aggravate', which means to make a situation worse.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

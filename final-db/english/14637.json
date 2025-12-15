@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'incursion':",
+      "options": {
+        "a": "retreat",
+        "b": "raid",
+        "c": "harmony",
+        "d": "alliance"
+      },
+      "one_liner": "'Incursion' refers to a sudden invasion or attack, similar to a 'raid' or 'foray'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

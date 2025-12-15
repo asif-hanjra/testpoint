@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'bolster':",
+      "options": {
+        "a": "undermine",
+        "b": "enhance",
+        "c": "support",
+        "d": "strengthen"
+      },
+      "one_liner": "The antonym of 'bolster' is 'undermine', which means to weaken or damage something.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

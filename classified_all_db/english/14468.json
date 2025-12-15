@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cortege':",
+      "options": {
+        "a": "celebration",
+        "b": "procession",
+        "c": "isolation",
+        "d": "gathering"
+      },
+      "one_liner": "'Cortege' refers to a solemn procession, similar to a 'procession' or 'motorcade'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

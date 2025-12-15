@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'Concord':",
+      "options": {
+        "a": "accord",
+        "b": "harmony",
+        "c": "discord",
+        "d": "agreement"
+      },
+      "one_liner": "An antonym of 'Concord' is 'discord', which means lack of harmony or disagreement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

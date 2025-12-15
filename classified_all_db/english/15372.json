@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rectify':",
+      "options": {
+        "a": "worsen",
+        "b": "amend",
+        "c": "neglect",
+        "d": "ignore"
+      },
+      "one_liner": "'Rectify' means to correct something that is wrong—words like 'amend' and 'remedy' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

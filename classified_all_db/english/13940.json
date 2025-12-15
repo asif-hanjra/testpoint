@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'false':",
+      "options": {
+        "a": "honest",
+        "b": "deceptive",
+        "c": "accurate",
+        "d": "genuine"
+      },
+      "one_liner": "'False' means not true or incorrect, similar to 'untrue' and 'deceptive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

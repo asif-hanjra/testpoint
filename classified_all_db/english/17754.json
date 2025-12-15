@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'atrocity':",
+      "options": {
+        "a": "heinous:humanity",
+        "b": "brutality:compassion",
+        "c": "barbarism:kindness",
+        "d": "cruelty:gentleness"
+      },
+      "one_liner": "'Heinous' is a synonym of 'atrocity', while 'humanity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

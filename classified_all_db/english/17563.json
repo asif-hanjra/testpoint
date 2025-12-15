@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'innocent':",
+      "options": {
+        "a": "pure",
+        "b": "honest",
+        "c": "guilty",
+        "d": "naive"
+      },
+      "one_liner": "The opposite of 'innocent' is 'guilty', which implies culpability.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

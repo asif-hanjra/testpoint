@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'plaintiff':",
+      "options": {
+        "a": "defendant",
+        "b": "complainant",
+        "c": "judge",
+        "d": "witness"
+      },
+      "one_liner": "'Plaintiff' refers to a person who brings a case against another in a court of law, similar to a 'complainant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sketchy':",
+      "options": {
+        "a": "vague",
+        "b": "unclear",
+        "c": "detailed",
+        "d": "ambiguous"
+      },
+      "one_liner": "An antonym for 'sketchy' would be 'detailed', which implies something is fully developed or explained.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

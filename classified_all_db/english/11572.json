@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'manoeuvre':",
+      "options": {
+        "a": "operate:remain",
+        "b": "execute:advance",
+        "c": "strategize:freeze",
+        "d": "navigate:halt"
+      },
+      "one_liner": "'Operate' is a synonym for 'manoeuvre', while 'remain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

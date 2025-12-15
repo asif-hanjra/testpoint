@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin legal term 'Aliunde' mean?",
+      "options": {
+        "a": "In another place",
+        "b": "From another place or source",
+        "c": "In good faith",
+        "d": "Beyond reasonable doubt"
+      },
+      "one_liner": "The term 'Aliunde' refers to evidence that comes from another place or source outside the current record.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

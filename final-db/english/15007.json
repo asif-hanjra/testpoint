@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exploit':",
+      "options": {
+        "a": "utilize",
+        "b": "leverage",
+        "c": "neglect",
+        "d": "employ"
+      },
+      "one_liner": "The antonym of 'exploit' is 'neglect', as it means to fail to care for or to disregard.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

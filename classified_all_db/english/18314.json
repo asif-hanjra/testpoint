@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'antiseptic':",
+      "options": {
+        "a": "contaminated",
+        "b": "disinfectant",
+        "c": "polluted",
+        "d": "dirty"
+      },
+      "one_liner": "'Antiseptic' refers to substances that prevent infection by killing germs, similar to 'disinfectant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

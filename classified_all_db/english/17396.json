@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vicious':",
+      "options": {
+        "a": "benevolent",
+        "b": "brutal",
+        "c": "savage",
+        "d": "malicious"
+      },
+      "one_liner": "The word 'vicious' implies malevolence, making 'benevolent' its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'climb':",
+      "options": {
+        "a": "ascend",
+        "b": "descend",
+        "c": "rise",
+        "d": "soar"
+      },
+      "one_liner": "The opposite of 'climb', which means to go upwards, is 'descend', meaning to go downwards.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

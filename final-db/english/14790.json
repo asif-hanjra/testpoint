@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'garb':",
+      "options": {
+        "a": "apparel",
+        "b": "disrobe",
+        "c": "clutter",
+        "d": "disarray"
+      },
+      "one_liner": "'Garb' refers to clothing or attire, so 'apparel' is a synonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sonorous':",
+      "options": {
+        "a": "melodious:muted",
+        "b": "harsh:resonant",
+        "c": "booming:quiet",
+        "d": "ringing:silent"
+      },
+      "one_liner": "'Melodious' is a synonym of 'sonorous', while 'muted' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

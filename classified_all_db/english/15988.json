@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'audacious':",
+      "options": {
+        "a": "timid",
+        "b": "bold",
+        "c": "shy",
+        "d": "meek"
+      },
+      "one_liner": "'Audacious' means daring or fearless, similar to the word 'bold'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

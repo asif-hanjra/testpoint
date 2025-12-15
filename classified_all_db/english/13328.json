@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'caprice':",
+      "options": {
+        "a": "consistency",
+        "b": "whim",
+        "c": "stability",
+        "d": "uniformity"
+      },
+      "one_liner": "'Caprice' refers to a sudden and unaccountable change of mood or behavior, similar to 'whim'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

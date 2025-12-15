@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'avid':",
+      "options": {
+        "a": "keen",
+        "b": "eager",
+        "c": "indifferent",
+        "d": "zealous"
+      },
+      "one_liner": "An antonym of 'avid' is 'indifferent', which means not having a particular interest or sympathy.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

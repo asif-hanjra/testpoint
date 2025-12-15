@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'epitome':",
+      "options": {
+        "a": "antithesis",
+        "b": "quintessence",
+        "c": "disparity",
+        "d": "difference"
+      },
+      "one_liner": "'Epitome' means a perfect example or embodiment—words like 'quintessence' and 'paragon' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

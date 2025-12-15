@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'leash':",
+      "options": {
+        "a": "freedom",
+        "b": "release",
+        "c": "tether",
+        "d": "liberation"
+      },
+      "one_liner": "'Leash' is a restraint for animals, similar to a 'tether' which also serves to restrict movement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'confess':",
+      "options": {
+        "a": "acknowledge",
+        "b": "admit",
+        "c": "deny",
+        "d": "accept"
+      },
+      "one_liner": "Antonyms of 'confess' include 'deny' and 'disavow', both implying a refusal to admit the truth.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

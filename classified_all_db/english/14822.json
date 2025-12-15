@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'overt':",
+      "options": {
+        "a": "implicit",
+        "b": "explicit",
+        "c": "hidden",
+        "d": "secret"
+      },
+      "one_liner": "'Overt' means open and observable; 'explicit' is a synonym that also suggests clear and unambiguous expression.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

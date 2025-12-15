@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tremor':",
+      "options": {
+        "a": "stability",
+        "b": "quiver",
+        "c": "shudder",
+        "d": "vibration"
+      },
+      "one_liner": "The opposite of 'tremor', which is a shaking movement, would be 'stability' or 'stillness'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

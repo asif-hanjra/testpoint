@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'guile':",
+      "options": {
+        "a": "artifice:frankness",
+        "b": "cunning:deception",
+        "c": "craftiness:honesty",
+        "d": "slyness:simplicity"
+      },
+      "one_liner": "'Artifice' is a synonym of 'guile', while 'frankness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

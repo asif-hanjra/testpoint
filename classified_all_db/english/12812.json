@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rampant':",
+      "options": {
+        "a": "unchecked:controlled",
+        "b": "unbridled:checked",
+        "c": "widespread:scarce",
+        "d": "prevalent:common"
+      },
+      "one_liner": "'Unbridled' is a synonym of 'rampant', while 'checked' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

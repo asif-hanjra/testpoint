@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'demote':",
+      "options": {
+        "a": "promote",
+        "b": "upgrade",
+        "c": "elevate",
+        "d": "downgrade"
+      },
+      "one_liner": "'Demote' means to reduce to a lower rank or position, similar to 'downgrade'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

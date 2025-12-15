@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bliss':",
+      "options": {
+        "a": "misery",
+        "b": "ecstasy",
+        "c": "sorrow",
+        "d": "anguish"
+      },
+      "one_liner": "'Bliss' means extreme happiness or joy, similar to 'ecstasy' or 'euphoria'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

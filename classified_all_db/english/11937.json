@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'relentless':",
+      "options": {
+        "a": "yielding",
+        "b": "unstoppable",
+        "c": "intermittent",
+        "d": "flexible"
+      },
+      "one_liner": "'Relentless' suggests a persistent and unyielding approach, similar to 'unstoppable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intolerant':",
+      "options": {
+        "a": "prejudiced:unbiased",
+        "b": "narrow:liberal",
+        "c": "bigoted:open-minded",
+        "d": "biased:accepting"
+      },
+      "one_liner": "'Prejudiced' is a synonym for 'intolerant', while 'unbiased' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

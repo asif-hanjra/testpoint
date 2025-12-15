@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gaffe':",
+      "options": {
+        "a": "harmony",
+        "b": "misstep",
+        "c": "agreement",
+        "d": "concord"
+      },
+      "one_liner": "'Gaffe' refers to a social blunder or faux pas, similar to 'misstep' or 'slip'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

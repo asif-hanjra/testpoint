@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'anomalous':",
+      "options": {
+        "a": "normal",
+        "b": "irregular",
+        "c": "uncommon",
+        "d": "peculiar"
+      },
+      "one_liner": "The word 'anomalous' has antonyms like 'normal' that denote something that conforms to what is typical.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

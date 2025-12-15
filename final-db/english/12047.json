@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'opponent':",
+      "options": {
+        "a": "ally",
+        "b": "adversary",
+        "c": "supporter",
+        "d": "friend"
+      },
+      "one_liner": "'Opponent' refers to someone who competes against or disagrees with another, similar to an 'adversary'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

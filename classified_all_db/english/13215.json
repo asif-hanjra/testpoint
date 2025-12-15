@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abridge':",
+      "options": {
+        "a": "expand",
+        "b": "truncate",
+        "c": "lengthen",
+        "d": "elongate"
+      },
+      "one_liner": "'Abridge' means to shorten or condense, similar to 'truncate' or 'abbreviate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'optimistic':",
+      "options": {
+        "a": "positive:bleak",
+        "b": "cheerful:gloomy",
+        "c": "sanguine:pessimistic",
+        "d": "confident:despairing"
+      },
+      "one_liner": "'Hopeful' is a synonym of 'optimistic', while 'bleak' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

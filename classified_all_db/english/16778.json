@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'disparate':",
+      "options": {
+        "a": "distinct:alike",
+        "b": "dissimilar:identical",
+        "c": "divergent:similar",
+        "d": "different:equivalent"
+      },
+      "one_liner": "'Dissimilar' is a synonym of 'disparate', while 'identical' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

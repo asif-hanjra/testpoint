@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'malaise':",
+      "options": {
+        "a": "contentment",
+        "b": "discontent",
+        "c": "happiness",
+        "d": "pleasure"
+      },
+      "one_liner": "'Malaise' refers to a general feeling of discomfort or unease, similar to 'discontent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

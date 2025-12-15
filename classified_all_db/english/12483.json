@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'defiant':",
+      "options": {
+        "a": "rebellious",
+        "b": "submissive",
+        "c": "resistant",
+        "d": "defiant"
+      },
+      "one_liner": "The word 'defiant' has antonyms like 'submissive', which means yielding or compliant.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'immutable':",
+      "options": {
+        "a": "fixed",
+        "b": "stable",
+        "c": "mutable",
+        "d": "enduring"
+      },
+      "one_liner": "Antonyms of 'immutable' include 'changeable' and 'mutable', both implying the ability to change or be changed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

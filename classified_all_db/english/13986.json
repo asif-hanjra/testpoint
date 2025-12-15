@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'remarkable':",
+      "options": {
+        "a": "incredible:mundane",
+        "b": "ordinary:extraordinary",
+        "c": "notable:commonplace",
+        "d": "amazing:typical"
+      },
+      "one_liner": "'Incredible' is a synonym of 'remarkable', while 'mundane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'defiance':",
+      "options": {
+        "a": "compliance",
+        "b": "insubordination",
+        "c": "obedience",
+        "d": "submission"
+      },
+      "one_liner": "'Defiance' means open resistance or bold disobedience, similar to 'insubordination'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

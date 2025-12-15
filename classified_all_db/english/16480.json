@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cover':",
+      "options": {
+        "a": "cloak:reveal",
+        "b": "shield:disclose",
+        "c": "mask:unmask",
+        "d": "hide:exhibit"
+      },
+      "one_liner": "'Shield' is a synonym for 'cover', while 'disclose' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

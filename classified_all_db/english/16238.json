@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'detach':",
+      "options": {
+        "a": "attach",
+        "b": "disconnect",
+        "c": "release",
+        "d": "unhook"
+      },
+      "one_liner": "The antonym of 'detach' is 'attach', which means to fasten or join.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

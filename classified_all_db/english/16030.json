@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'thrive':",
+      "options": {
+        "a": "prosper:falter",
+        "b": "bloom:wither",
+        "c": "succeed:fail",
+        "d": "grow:shrink"
+      },
+      "one_liner": "'Flourish' is a synonym of 'thrive', while 'falter' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

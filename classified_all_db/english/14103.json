@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reputable':",
+      "options": {
+        "a": "esteemed:dishonorable",
+        "b": "honorable:respected",
+        "c": "trustworthy:trustable",
+        "d": "credible:incredible"
+      },
+      "one_liner": "'Esteemed' is a synonym of 'reputable', while 'dishonorable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

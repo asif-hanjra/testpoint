@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'haughty':",
+      "options": {
+        "a": "conceited:modest",
+        "b": "arrogant:humble",
+        "c": "proud:inferior",
+        "d": "supercilious:superior"
+      },
+      "one_liner": "'Conceited' is a synonym of 'haughty', while 'modest' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

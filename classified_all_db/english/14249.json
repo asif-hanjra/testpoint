@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fancy':",
+      "options": {
+        "a": "plain",
+        "b": "luxurious",
+        "c": "simple",
+        "d": "common"
+      },
+      "one_liner": "'Fancy' often means elaborate or ornate, similar to 'luxurious' or 'extravagant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

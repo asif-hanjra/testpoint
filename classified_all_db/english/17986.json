@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pith':",
+      "options": {
+        "a": "periphery",
+        "b": "core",
+        "c": "shell",
+        "d": "surface"
+      },
+      "one_liner": "'Pith' refers to the essential or central part, similar to 'core' or 'essence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

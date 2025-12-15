@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'orifice':",
+      "options": {
+        "a": "gap",
+        "b": "hole",
+        "c": "aperture",
+        "d": "solid"
+      },
+      "one_liner": "An antonym for 'orifice', which is an opening, would be 'solid', indicating no openings.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'presumptive':",
+      "options": {
+        "a": "confirmed",
+        "b": "probable",
+        "c": "likely",
+        "d": "hypothetical"
+      },
+      "one_liner": "An antonym of 'presumptive' is 'confirmed', which means established as true or valid.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

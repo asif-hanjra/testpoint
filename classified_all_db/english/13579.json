@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'contaminate':",
+      "options": {
+        "a": "infect:disinfect",
+        "b": "purify:taint",
+        "c": "defile:clean",
+        "d": "spoil:sterilize"
+      },
+      "one_liner": "'Infect' is a synonym of 'contaminate', while 'disinfect' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

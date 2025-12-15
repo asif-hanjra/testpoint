@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adjacent':",
+      "options": {
+        "a": "distant",
+        "b": "neighboring",
+        "c": "remote",
+        "d": "far"
+      },
+      "one_liner": "'Adjacent' means next to or adjoining—words like 'neighboring' and 'adjoining' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

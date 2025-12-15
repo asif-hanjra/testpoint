@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ensign':",
+      "options": {
+        "a": "individual mark",
+        "b": "group symbol",
+        "c": "collective sign",
+        "d": "common badge"
+      },
+      "one_liner": "While 'ensign' is a symbol of a group, an 'individual mark' would be its antonym, representing something unique to a person.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'disguise':",
+      "options": {
+        "a": "masquerade:disclose",
+        "b": "hide:exhibit",
+        "c": "camouflage:display",
+        "d": "cloak:unveil"
+      },
+      "one_liner": "'Masquerade' is a synonym of 'disguise', while 'disclose' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

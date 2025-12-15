@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wile':",
+      "options": {
+        "a": "honesty",
+        "b": "guile",
+        "c": "frankness",
+        "d": "openness"
+      },
+      "one_liner": "'Wile' refers to cunning strategies or tricks, similar to 'guile' or 'craftiness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

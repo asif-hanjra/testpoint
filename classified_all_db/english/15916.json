@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conscious':",
+      "options": {
+        "a": "oblivious",
+        "b": "aware",
+        "c": "unaware",
+        "d": "insensible"
+      },
+      "one_liner": "'Conscious' means being aware or awake, similar to 'aware' and 'alert'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

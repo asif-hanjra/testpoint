@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'perish':",
+      "options": {
+        "a": "endure",
+        "b": "expire",
+        "c": "survive",
+        "d": "flourish"
+      },
+      "one_liner": "'Perish' means to die or decay, so 'expire' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

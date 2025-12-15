@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'optometrist':",
+      "options": {
+        "a": "ophthalmologist",
+        "b": "podiatrist",
+        "c": "cardiologist",
+        "d": "neurologist"
+      },
+      "one_liner": "An 'optometrist' specializes in eyes, while a 'podiatrist' specializes in feet, making them antonyms in the context of medical specialization.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

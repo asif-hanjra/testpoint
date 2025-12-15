@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'squalid':",
+      "options": {
+        "a": "pristine",
+        "b": "filthy",
+        "c": "spotless",
+        "d": "immaculate"
+      },
+      "one_liner": "'Squalid' refers to something extremely dirty and unpleasant, often due to poverty or neglect, similar to 'filthy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ignoble':",
+      "options": {
+        "a": "base:honorable",
+        "b": "noble:dishonorable",
+        "c": "dishonorable:noble",
+        "d": "degraded:virtuous"
+      },
+      "one_liner": "'Base' is a synonym of 'ignoble', while 'honorable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

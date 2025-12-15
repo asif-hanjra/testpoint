@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lavish':",
+      "options": {
+        "a": "opulent:austere",
+        "b": "luxurious:generous",
+        "c": "extravagant:rich",
+        "d": "plentiful:abundant"
+      },
+      "one_liner": "'Opulent' is a synonym of 'lavish', while 'austere' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

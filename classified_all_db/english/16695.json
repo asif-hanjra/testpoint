@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cower':",
+      "options": {
+        "a": "quail:brave",
+        "b": "shudder:face",
+        "c": "falter:stand",
+        "d": "wince:confront"
+      },
+      "one_liner": "'Quail' is a synonym of 'cower', while 'brave' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

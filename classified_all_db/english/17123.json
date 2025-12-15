@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'racket':",
+      "options": {
+        "a": "silence",
+        "b": "din",
+        "c": "harmony",
+        "d": "serenity"
+      },
+      "one_liner": "'Racket' can refer to a loud, unpleasant noise, similar to 'din' or 'clamor'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

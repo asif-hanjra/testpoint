@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'indigenous':",
+      "options": {
+        "a": "native:foreign",
+        "b": "aboriginal:domestic",
+        "c": "endemic:exotic",
+        "d": "inherent:imported"
+      },
+      "one_liner": "'Native' is a synonym of 'indigenous', while 'foreign' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'efface':",
+      "options": {
+        "a": "highlight",
+        "b": "obliterate",
+        "c": "enhance",
+        "d": "preserve"
+      },
+      "one_liner": "'Efface' means to erase or wipe out, similar to 'obliterate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

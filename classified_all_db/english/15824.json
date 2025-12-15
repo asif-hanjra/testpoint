@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'possible':",
+      "options": {
+        "a": "impossible",
+        "b": "feasible",
+        "c": "unlikely",
+        "d": "implausible"
+      },
+      "one_liner": "'Possible' means capable of being done, with synonyms like 'feasible' and 'attainable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

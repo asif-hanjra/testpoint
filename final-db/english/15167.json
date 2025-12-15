@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'overhaul':",
+      "options": {
+        "a": "maintain",
+        "b": "revamp",
+        "c": "preserve",
+        "d": "ignore"
+      },
+      "one_liner": "'Overhaul' means to completely renovate or revise, making 'revamp' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

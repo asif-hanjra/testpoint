@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'grudging':",
+      "options": {
+        "a": "reluctant:eager",
+        "b": "unwilling:enthusiastic",
+        "c": "hesitant:willing",
+        "d": "resentful:keen"
+      },
+      "one_liner": "'Reluctant' is a synonym of 'grudging', while 'eager' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

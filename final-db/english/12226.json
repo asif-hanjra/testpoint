@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'subside':",
+      "options": {
+        "a": "diminish",
+        "b": "intensify",
+        "c": "lessen",
+        "d": "decline"
+      },
+      "one_liner": "An antonym of 'subside' is 'intensify', which means to become more intense or severe.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

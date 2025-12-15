@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'thaw':",
+      "options": {
+        "a": "melt:solidify",
+        "b": "unfreeze:cool",
+        "c": "soften:harden",
+        "d": "dissolve:freeze"
+      },
+      "one_liner": "'Melt' is a synonym of 'thaw', while 'solidify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

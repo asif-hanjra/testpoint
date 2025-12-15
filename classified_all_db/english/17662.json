@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'error':",
+      "options": {
+        "a": "accuracy",
+        "b": "blunder",
+        "c": "precision",
+        "d": "correctness"
+      },
+      "one_liner": "'Error' means a mistake or inaccuracy, similar to 'blunder' or 'miscalculation'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

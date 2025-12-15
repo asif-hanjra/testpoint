@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mistrust':",
+      "options": {
+        "a": "distrust:faith",
+        "b": "doubt:confidence",
+        "c": "suspicion:certainty",
+        "d": "uncertainty:reliance"
+      },
+      "one_liner": "'Doubt' is a synonym of 'mistrust', while 'confidence' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

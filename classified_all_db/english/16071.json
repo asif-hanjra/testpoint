@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'flinch':",
+      "options": {
+        "a": "smile",
+        "b": "wince",
+        "c": "stare",
+        "d": "laugh"
+      },
+      "one_liner": "'Flinch' means to make a quick, nervous movement as a reaction to fear, pain, or surprise, similar to 'wince'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

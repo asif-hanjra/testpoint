@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sobriety':",
+      "options": {
+        "a": "temperance",
+        "b": "abstinence",
+        "c": "intoxication",
+        "d": "moderation"
+      },
+      "one_liner": "The antonym of 'sobriety' is 'intoxication', which refers to the state of being drunk or under the influence of alcohol.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

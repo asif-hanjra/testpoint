@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'suppress':",
+      "options": {
+        "a": "quell",
+        "b": "stifle",
+        "c": "incite",
+        "d": "repress"
+      },
+      "one_liner": "The antonym of 'suppress' is 'incite', which means to stir up or provoke, as opposed to putting an end to something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

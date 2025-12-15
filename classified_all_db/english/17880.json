@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'thaw':",
+      "options": {
+        "a": "melt",
+        "b": "soften",
+        "c": "unfreeze",
+        "d": "freeze"
+      },
+      "one_liner": "An antonym of 'thaw' is 'freeze', which means to become hardened by cold.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

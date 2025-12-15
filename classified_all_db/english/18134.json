@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'odious':",
+      "options": {
+        "a": "delightful",
+        "b": "repugnant",
+        "c": "attractive",
+        "d": "pleasing"
+      },
+      "one_liner": "'Odious' means extremely unpleasant or repulsive, similar to 'repugnant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

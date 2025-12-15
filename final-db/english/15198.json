@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'eradicate':",
+      "options": {
+        "a": "demolish",
+        "b": "destroy",
+        "c": "establish",
+        "d": "eliminate"
+      },
+      "one_liner": "The antonym of 'eradicate' is 'establish', which means to set up or create something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

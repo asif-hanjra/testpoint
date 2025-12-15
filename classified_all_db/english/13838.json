@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'deposition':",
+      "options": {
+        "a": "inauguration",
+        "b": "confirmation",
+        "c": "coronation",
+        "d": "testimony"
+      },
+      "one_liner": "The antonym of 'deposition' in the context of removing someone from office would be 'inauguration', which means the beginning of something, especially the introduction of someone into a position of authority.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

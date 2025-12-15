@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'convalesce':",
+      "options": {
+        "a": "heal:degenerate",
+        "b": "recover:worsen",
+        "c": "recuperate:improve",
+        "d": "rejuvenate:decline"
+      },
+      "one_liner": "'Heal' is a synonym of 'convalesce', while 'degenerate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

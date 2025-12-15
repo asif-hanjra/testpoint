@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dense':",
+      "options": {
+        "a": "compact:loose",
+        "b": "thick:thin",
+        "c": "heavy:light",
+        "d": "crowded:empty"
+      },
+      "one_liner": "'Compact' is a synonym of 'dense', while 'loose' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

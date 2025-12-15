@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'zealot':",
+      "options": {
+        "a": "enthusiast",
+        "b": "devotee",
+        "c": "apathetic",
+        "d": "activist"
+      },
+      "one_liner": "An antonym of 'zealot' would be 'apathetic', indicating a lack of interest or enthusiasm.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

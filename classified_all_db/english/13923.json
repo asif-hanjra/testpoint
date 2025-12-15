@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'uphold':",
+      "options": {
+        "a": "neglect",
+        "b": "sustain",
+        "c": "ignore",
+        "d": "abandon"
+      },
+      "one_liner": "'Uphold' means to support or maintain, similar to 'sustain'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

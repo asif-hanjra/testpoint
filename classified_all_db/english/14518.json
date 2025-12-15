@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reluctant':",
+      "options": {
+        "a": "eager",
+        "b": "hesitant",
+        "c": "willing",
+        "d": "enthusiastic"
+      },
+      "one_liner": "'Reluctant' means unwilling or hesitant, similar to 'hesitant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

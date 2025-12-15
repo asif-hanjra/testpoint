@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'grovel':",
+      "options": {
+        "a": "cringe",
+        "b": "fawn",
+        "c": "dominate",
+        "d": "crawl"
+      },
+      "one_liner": "An antonym of 'grovel' is 'dominate', which implies taking control rather than acting subserviently.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

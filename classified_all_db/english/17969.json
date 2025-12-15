@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dissemble':",
+      "options": {
+        "a": "conceal",
+        "b": "mask",
+        "c": "reveal",
+        "d": "pretend"
+      },
+      "one_liner": "The antonym of 'dissemble' is 'reveal', as it means to make known or show openly.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

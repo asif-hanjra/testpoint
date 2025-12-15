@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fertile':",
+      "options": {
+        "a": "barren",
+        "b": "productive",
+        "c": "sterile",
+        "d": "arid"
+      },
+      "one_liner": "'Fertile' means capable of producing abundantly, similar to 'productive' or 'fruitful'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'economize':",
+      "options": {
+        "a": "conserve:waste",
+        "b": "save:squander",
+        "c": "accumulate:spend",
+        "d": "reduce:hoard"
+      },
+      "one_liner": "'Save' is a synonym of 'economize', while 'squander' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

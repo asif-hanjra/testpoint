@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'onus':",
+      "options": {
+        "a": "duty:benefit",
+        "b": "burden:advantage",
+        "c": "responsibility:freedom",
+        "d": "obligation:right"
+      },
+      "one_liner": "'Duty' is a synonym for 'onus', while 'benefit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

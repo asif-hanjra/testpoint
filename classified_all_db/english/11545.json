@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'emollient':",
+      "options": {
+        "a": "soothing:harsh",
+        "b": "calming:abrasive",
+        "c": "moisturizing:gentle",
+        "d": "softening:rough"
+      },
+      "one_liner": "'Soothing' is a synonym of 'emollient', while 'harsh' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

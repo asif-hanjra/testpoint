@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'squelch':",
+      "options": {
+        "a": "suppress",
+        "b": "quash",
+        "c": "encourage",
+        "d": "crush"
+      },
+      "one_liner": "An antonym of 'squelch' is 'encourage', which means to give support or confidence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

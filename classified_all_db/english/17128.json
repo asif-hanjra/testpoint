@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hallowed':",
+      "options": {
+        "a": "sanctified:desecrated",
+        "b": "revered:respected",
+        "c": "blessed:consecrated",
+        "d": "holy:sacred"
+      },
+      "one_liner": "'Sanctified' is a synonym of 'hallowed', while 'desecrated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

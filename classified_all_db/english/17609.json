@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'future':",
+      "options": {
+        "a": "past",
+        "b": "prospective",
+        "c": "history",
+        "d": "previous"
+      },
+      "one_liner": "'Future' refers to what is to come, similar to 'prospective' which also indicates something that is expected to happen or exist.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

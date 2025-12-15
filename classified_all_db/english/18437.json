@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'urgent':",
+      "options": {
+        "a": "critical",
+        "b": "important",
+        "c": "trivial",
+        "d": "pressing"
+      },
+      "one_liner": "An antonym of 'urgent' would be 'trivial', which suggests that something is not important or urgent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

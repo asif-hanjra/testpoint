@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'few':",
+      "options": {
+        "a": "abundant",
+        "b": "scarce",
+        "c": "plentiful",
+        "d": "ample"
+      },
+      "one_liner": "'Few' means a small number of items, similar to 'scarce' or 'limited'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'quiver':",
+      "options": {
+        "a": "stabilize",
+        "b": "shake",
+        "c": "shiver",
+        "d": "quaver"
+      },
+      "one_liner": "An antonym of 'quiver' is 'stabilize', which means to make or become stable.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

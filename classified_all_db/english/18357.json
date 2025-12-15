@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fatal':",
+      "options": {
+        "a": "mortal:innocuous",
+        "b": "lethal:safe",
+        "c": "deadly:harmless",
+        "d": "dangerous:secure"
+      },
+      "one_liner": "'Mortal' is a synonym of 'fatal', while 'innocuous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dreadful':",
+      "options": {
+        "a": "pleasant",
+        "b": "horrific",
+        "c": "delightful",
+        "d": "comforting"
+      },
+      "one_liner": "'Dreadful' means causing fear or terror; 'horrific' is a synonym that conveys a similar sense of horror.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

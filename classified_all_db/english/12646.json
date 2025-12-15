@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'oscillate':",
+      "options": {
+        "a": "swing:steady",
+        "b": "fluctuate:fixate",
+        "c": "vibrate:stabilize",
+        "d": "waver:remain"
+      },
+      "one_liner": "'Swing' is a synonym of 'oscillate', while 'steady' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

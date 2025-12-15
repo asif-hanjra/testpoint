@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'slack':",
+      "options": {
+        "a": "loose",
+        "b": "lax",
+        "c": "taut",
+        "d": "limp"
+      },
+      "one_liner": "An antonym for 'slack' is 'taut', which means pulled tight or without slack.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

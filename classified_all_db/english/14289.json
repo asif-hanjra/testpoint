@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tranquility':",
+      "options": {
+        "a": "agitation",
+        "b": "serenity",
+        "c": "disturbance",
+        "d": "noise"
+      },
+      "one_liner": "'Tranquility' refers to a state of peace and calm, much like 'serenity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

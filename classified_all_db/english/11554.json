@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'luxurious':",
+      "options": {
+        "a": "spartan",
+        "b": "opulent",
+        "c": "meager",
+        "d": "basic"
+      },
+      "one_liner": "'Luxurious' refers to something very comfortable and expensive, much like 'opulent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

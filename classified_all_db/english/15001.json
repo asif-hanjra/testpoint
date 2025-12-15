@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'discourse':",
+      "options": {
+        "a": "dialogue:silence",
+        "b": "monologue:debate",
+        "c": "conversation:discussion",
+        "d": "communication:isolation"
+      },
+      "one_liner": "'Dialogue' is a synonym of 'discourse', while 'silence' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

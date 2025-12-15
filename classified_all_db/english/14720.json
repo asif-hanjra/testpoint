@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dilute':",
+      "options": {
+        "a": "thin out:fortify",
+        "b": "weaken:enhance",
+        "c": "water down:concentrate",
+        "d": "lessen:intensify"
+      },
+      "one_liner": "'Thin out' is a synonym of 'dilute', while 'fortify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

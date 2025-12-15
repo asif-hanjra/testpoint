@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'innocent':",
+      "options": {
+        "a": "guilty",
+        "b": "guileless",
+        "c": "corrupt",
+        "d": "deceptive"
+      },
+      "one_liner": "'Innocent' often means not guilty or pure, similar to 'guileless'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

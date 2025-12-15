@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'analgesic':",
+      "options": {
+        "a": "painkiller:aggravator",
+        "b": "soothing:comforting",
+        "c": "anodyne:enhancer",
+        "d": "reliever:stimulant"
+      },
+      "one_liner": "'Painkiller' is a synonym of 'analgesic', while 'aggravator' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

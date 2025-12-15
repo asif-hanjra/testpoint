@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'clumsy':",
+      "options": {
+        "a": "awkward",
+        "b": "graceful",
+        "c": "inept",
+        "d": "cloddish"
+      },
+      "one_liner": "The antonym of 'clumsy' is 'graceful', which refers to someone who moves in a smooth and controlled way.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

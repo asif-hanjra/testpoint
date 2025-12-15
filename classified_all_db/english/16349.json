@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'forfeit':",
+      "options": {
+        "a": "retain",
+        "b": "surrender",
+        "c": "keep",
+        "d": "hold"
+      },
+      "one_liner": "'Forfeit' means to lose or give up something as a penalty for wrongdoing, similar to 'surrender'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

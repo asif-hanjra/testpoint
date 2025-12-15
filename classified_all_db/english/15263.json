@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'face':",
+      "options": {
+        "a": "back",
+        "b": "visage",
+        "c": "rear",
+        "d": "flipside"
+      },
+      "one_liner": "'Face' can mean 'visage', as both refer to the front part of a person's head.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

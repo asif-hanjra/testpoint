@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ambivalent':",
+      "options": {
+        "a": "uncertain",
+        "b": "equivocal",
+        "c": "certain",
+        "d": "conflicted"
+      },
+      "one_liner": "An antonym of 'ambivalent' is 'certain', which means having no doubt or clear in one's mind.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'jeopardize':",
+      "options": {
+        "a": "imperil:preserve",
+        "b": "endanger:secure",
+        "c": "risk:protect",
+        "d": "harm:safeguard"
+      },
+      "one_liner": "'Imperil' is a synonym of 'jeopardize', while 'preserve' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impatient':",
+      "options": {
+        "a": "anxious",
+        "b": "hasty",
+        "c": "patient",
+        "d": "eager"
+      },
+      "one_liner": "The opposite of being 'impatient' is being 'patient', which means able to wait without becoming annoyed or anxious.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

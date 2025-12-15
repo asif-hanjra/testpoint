@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'brief':",
+      "options": {
+        "a": "fleeting:enduring",
+        "b": "endless:transient",
+        "c": "prolonged:short",
+        "d": "quick:lengthy"
+      },
+      "one_liner": "'Ephemeral' is a synonym of 'brief', while 'enduring' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

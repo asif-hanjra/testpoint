@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'immature':",
+      "options": {
+        "a": "ripe",
+        "b": "childish",
+        "c": "mature",
+        "d": "seasoned"
+      },
+      "one_liner": "'Immature' often describes someone who is 'childish' or not fully developed.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

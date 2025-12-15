@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'optician':",
+      "options": {
+        "a": "spectacle maker:chef",
+        "b": "dentist:physician",
+        "c": "lawyer:judge",
+        "d": "teacher:student"
+      },
+      "one_liner": "'Spectacle maker' is a synonym for 'optician', while 'chef' is an antonym as they represent different professions.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

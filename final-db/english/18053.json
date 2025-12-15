@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impartial':",
+      "options": {
+        "a": "biased",
+        "b": "unprejudiced",
+        "c": "partial",
+        "d": "interested"
+      },
+      "one_liner": "'Impartial' means unbiased or neutral, similar to the word 'unprejudiced'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

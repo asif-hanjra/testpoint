@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'venerable':",
+      "options": {
+        "a": "modern",
+        "b": "revered",
+        "c": "unknown",
+        "d": "new"
+      },
+      "one_liner": "'Venerable' refers to someone worthy of respect due to age or dignity, similar to 'revered'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

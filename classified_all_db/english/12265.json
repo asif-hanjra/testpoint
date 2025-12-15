@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the phrase 'a dark horse':",
+      "options": {
+        "a": "underdog",
+        "b": "favorite",
+        "c": "outsider",
+        "d": "unknown"
+      },
+      "one_liner": "An antonym for 'a dark horse' would be a 'favorite', which refers to someone expected to win or succeed.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

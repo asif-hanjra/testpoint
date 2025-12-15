@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tacit':",
+      "options": {
+        "a": "explicit",
+        "b": "implicit",
+        "c": "articulate",
+        "d": "vocal"
+      },
+      "one_liner": "'Tacit' means implied or understood without being stated openly, similar to 'implicit'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

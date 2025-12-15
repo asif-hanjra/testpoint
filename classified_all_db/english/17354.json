@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'continue':",
+      "options": {
+        "a": "halt",
+        "b": "proceed",
+        "c": "stop",
+        "d": "cease"
+      },
+      "one_liner": "'Continue' means to persist or carry on, similar to 'proceed'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

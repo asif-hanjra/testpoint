@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ramification':",
+      "options": {
+        "a": "cause",
+        "b": "implication",
+        "c": "origin",
+        "d": "source"
+      },
+      "one_liner": "'Ramification' implies a consequence or result, similar to 'implication'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

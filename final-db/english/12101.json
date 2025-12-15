@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'feasible':",
+      "options": {
+        "a": "viable:unfeasible",
+        "b": "likely:improbable",
+        "c": "practical:impractical",
+        "d": "achievable:attainable"
+      },
+      "one_liner": "'Viable' is a synonym for 'feasible', while 'unfeasible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

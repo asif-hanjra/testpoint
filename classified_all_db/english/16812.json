@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'drone':",
+      "options": {
+        "a": "whisper",
+        "b": "hum",
+        "c": "shout",
+        "d": "yell"
+      },
+      "one_liner": "'Drone' can refer to a monotonous sound or speech, similar to 'hum' or 'buzz'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

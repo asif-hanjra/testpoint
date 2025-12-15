@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'crazy':",
+      "options": {
+        "a": "mad:balanced",
+        "b": "sensible:insane",
+        "c": "lunatic:rational",
+        "d": "foolish:sensible"
+      },
+      "one_liner": "'Mad' is a synonym for 'crazy', while 'balanced' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'contraband':",
+      "options": {
+        "a": "permitted",
+        "b": "smuggled",
+        "c": "legal",
+        "d": "allowed"
+      },
+      "one_liner": "'Contraband' refers to goods that are illegal or prohibited, similar to 'smuggled' items.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

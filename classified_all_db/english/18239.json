@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'erudite':",
+      "options": {
+        "a": "uninformed",
+        "b": "knowledgeable",
+        "c": "educated",
+        "d": "informed"
+      },
+      "one_liner": "An antonym of 'erudite' is 'uninformed', which means not having or showing awareness or understanding of the facts.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

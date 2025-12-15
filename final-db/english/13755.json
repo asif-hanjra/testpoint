@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'convenient':",
+      "options": {
+        "a": "accessible",
+        "b": "useful",
+        "c": "inconvenient",
+        "d": "beneficial"
+      },
+      "one_liner": "Antonyms of 'convenient' include 'inconvenient' and 'troublesome', both implying difficulty or discomfort.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

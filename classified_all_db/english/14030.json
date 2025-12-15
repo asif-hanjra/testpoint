@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'felon':",
+      "options": {
+        "a": "criminal",
+        "b": "convict",
+        "c": "law-abider",
+        "d": "offender"
+      },
+      "one_liner": "An antonym of 'felon' could be 'law-abider', which refers to someone who follows the law.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

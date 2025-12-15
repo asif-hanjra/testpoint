@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'banal':",
+      "options": {
+        "a": "unique",
+        "b": "trite",
+        "c": "novel",
+        "d": "original"
+      },
+      "one_liner": "'Banal' means lacking in originality or excitement—words like 'trite' and 'hackneyed' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

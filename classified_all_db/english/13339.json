@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'omnipresent':",
+      "options": {
+        "a": "scarce",
+        "b": "ubiquitous",
+        "c": "rare",
+        "d": "uncommon"
+      },
+      "one_liner": "'Omnipresent' means being everywhere at once, similar to 'ubiquitous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

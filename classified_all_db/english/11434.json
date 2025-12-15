@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ecstasy':",
+      "options": {
+        "a": "joy",
+        "b": "bliss",
+        "c": "misery",
+        "d": "delight"
+      },
+      "one_liner": "The antonym of 'ecstasy' is 'misery', which denotes a state of great distress or discomfort.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

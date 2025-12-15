@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'assess':",
+      "options": {
+        "a": "ignore",
+        "b": "evaluate",
+        "c": "neglect",
+        "d": "disregard"
+      },
+      "one_liner": "'Assess' means to evaluate or estimate the nature, ability, or quality of something—words like 'evaluate' and 'appraise' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

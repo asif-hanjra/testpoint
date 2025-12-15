@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'disagree':",
+      "options": {
+        "a": "contrast:harmonize",
+        "b": "concur:conflict",
+        "c": "differ:align",
+        "d": "debate:agree"
+      },
+      "one_liner": "'Contrast' is a synonym for 'disagree', while 'harmonize' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

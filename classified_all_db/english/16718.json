@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'efficacious':",
+      "options": {
+        "a": "ineffective",
+        "b": "powerless",
+        "c": "fruitless",
+        "d": "effective"
+      },
+      "one_liner": "'Efficacious' means effective or capable of producing a desired effect, similar to 'effective'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

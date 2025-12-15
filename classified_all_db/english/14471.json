@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'scarce':",
+      "options": {
+        "a": "abundant",
+        "b": "common",
+        "c": "plentiful",
+        "d": "rare"
+      },
+      "one_liner": "'Scarce' means limited in quantity or availability, similar to 'rare'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

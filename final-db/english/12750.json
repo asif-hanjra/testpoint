@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'indolent':",
+      "options": {
+        "a": "energetic",
+        "b": "slothful",
+        "c": "diligent",
+        "d": "industrious"
+      },
+      "one_liner": "'Indolent' means lazy or inactive, similar to 'slothful'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gratitude':",
+      "options": {
+        "a": "thankfulness:ungratefulness",
+        "b": "appreciation:gratefulness",
+        "c": "gratitude:thankfulness",
+        "d": "acknowledgment:indifference"
+      },
+      "one_liner": "'Thankfulness' is a synonym of 'gratitude', while 'ungratefulness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

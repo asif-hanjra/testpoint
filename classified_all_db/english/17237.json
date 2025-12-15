@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'garrulous':",
+      "options": {
+        "a": "voluble:reserved",
+        "b": "silent:chatty",
+        "c": "loquacious:verbose",
+        "d": "talkative:speechless"
+      },
+      "one_liner": "'Voluble' is a synonym of 'garrulous', while 'reserved' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

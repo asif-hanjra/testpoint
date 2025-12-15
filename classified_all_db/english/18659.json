@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ghastly':",
+      "options": {
+        "a": "macabre:appealing",
+        "b": "attractive:repulsive",
+        "c": "gruesome:charming",
+        "d": "horrific:pleasant"
+      },
+      "one_liner": "'Macabre' is a synonym of 'ghastly', while 'appealing' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

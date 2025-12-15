@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'uphold':",
+      "options": {
+        "a": "overturn",
+        "b": "maintain",
+        "c": "support",
+        "d": "endorse"
+      },
+      "one_liner": "An antonym of 'uphold' is 'overturn', which means to invalidate or reverse a decision.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

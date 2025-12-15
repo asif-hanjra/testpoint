@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'thrifty':",
+      "options": {
+        "a": "frugal:prodigal",
+        "b": "economical:wasteful",
+        "c": "careful:lavish",
+        "d": "sparing:generous"
+      },
+      "one_liner": "'Frugal' is a synonym of 'thrifty', while 'prodigal' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

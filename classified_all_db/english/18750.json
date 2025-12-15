@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'accede':",
+      "options": {
+        "a": "refuse",
+        "b": "consent",
+        "c": "decline",
+        "d": "reject"
+      },
+      "one_liner": "'Accede' means to agree or give in to a demand, similar to 'consent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

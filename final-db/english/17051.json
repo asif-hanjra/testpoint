@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fledgling':",
+      "options": {
+        "a": "novice",
+        "b": "rookie",
+        "c": "veteran",
+        "d": "beginner"
+      },
+      "one_liner": "An antonym of 'fledgling' is 'veteran', which means someone experienced or seasoned.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

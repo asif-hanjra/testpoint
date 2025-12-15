@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'controversial':",
+      "options": {
+        "a": "agreeable",
+        "b": "disputable",
+        "c": "harmonious",
+        "d": "concordant"
+      },
+      "one_liner": "'Controversial' refers to something that causes debate or disagreement, similar to 'disputable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

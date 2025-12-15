@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impregnable':",
+      "options": {
+        "a": "vulnerable",
+        "b": "fortified",
+        "c": "weak",
+        "d": "exposed"
+      },
+      "one_liner": "'Impregnable' means invulnerable or secure—words like 'invincible' and 'fortified' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

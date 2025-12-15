@@ -28,17 +28,21 @@ from file_manager import FileManager
 # ============================================================================
 
 # Input folder containing JSON files to process
-INPUT_FOLDER = "/Users/mac/testpoint/classified_all_db/everyday-science"
+INPUT_FOLDER = "/Users/mac/testpoint/classified_all_db-original/english"
 
 # Output file path for removed files tracking
-OUTPUT_FILE = "/Users/mac/testpoint/removed-track/everyday-science.json"
+OUTPUT_FILE = "/Users/mac/testpoint/removed-track/english.json"
 
 # Saved-track file path for non-duplicate files
-SAVED_TRACK_FILE = "/Users/mac/testpoint/saved-track/everyday-science.json"
+SAVED_TRACK_FILE = "/Users/mac/testpoint/saved-track/english.json"
 
-# Similarity range (0.98 = 98%, 1.0 = 100%)
-MIN_SIMILARITY = 0.98
-MAX_SIMILARITY = 1.0
+# Detection similarity range - finds all pairs in this range (0.86 = 86%, 1.0 = 100%)
+DETECTION_MIN_SIMILARITY = 0.86
+DETECTION_MAX_SIMILARITY = 1.0
+
+# Removal similarity range - only removes pairs in this range (0.98 = 98%, 1.0 = 100%)
+REMOVAL_MIN_SIMILARITY = 0.99
+REMOVAL_MAX_SIMILARITY = 1.0
 
 # ============================================================================
 # HELPER FUNCTIONS
@@ -121,7 +125,8 @@ def main():
     print(f"Input folder: {INPUT_FOLDER}")
     print(f"Removed-track file: {OUTPUT_FILE}")
     print(f"Saved-track file: {SAVED_TRACK_FILE}")
-    print(f"Similarity range: {MIN_SIMILARITY * 100:.1f}% - {MAX_SIMILARITY * 100:.1f}%")
+    print(f"Detection range: {DETECTION_MIN_SIMILARITY * 100:.1f}% - {DETECTION_MAX_SIMILARITY * 100:.1f}%")
+    print(f"Removal range: {REMOVAL_MIN_SIMILARITY * 100:.1f}% - {REMOVAL_MAX_SIMILARITY * 100:.1f}%")
     print("=" * 80)
     print()
     
@@ -242,9 +247,10 @@ def main():
     # Step 4: Run SBERT processing
     print("[Step 4] Running SBERT similarity check...")
     print(f"  Processing {len(statements):,} files for similarity detection...")
+    print(f"  Using detection threshold: {DETECTION_MIN_SIMILARITY * 100:.1f}%")
     print()
     
-    sbert_processor = SBERTProcessor(threshold=MIN_SIMILARITY)
+    sbert_processor = SBERTProcessor(threshold=DETECTION_MIN_SIMILARITY)
     
     try:
         embeddings, groups_pairwise, non_duplicate_count, similarity_bins = sbert_processor.process_subject(
@@ -304,15 +310,26 @@ def main():
         return
     print()
     
-    # Step 7: Filter groups to similarity range
-    print(f"[Step 7] Filtering groups to similarity range {MIN_SIMILARITY * 100:.1f}% - {MAX_SIMILARITY * 100:.1f}%...")
-    filtered_groups = []
+    # Step 7: Filter groups to detection range (for reporting)
+    print(f"[Step 7] Filtering groups to detection range {DETECTION_MIN_SIMILARITY * 100:.1f}% - {DETECTION_MAX_SIMILARITY * 100:.1f}%...")
+    detection_filtered_groups = []
     for group in groups_pairwise:
         similarity = group.get('similarity', 0)
-        if MIN_SIMILARITY <= similarity <= MAX_SIMILARITY:
-            filtered_groups.append(group)
+        if DETECTION_MIN_SIMILARITY <= similarity <= DETECTION_MAX_SIMILARITY:
+            detection_filtered_groups.append(group)
     
-    print(f"  ✓ Found {len(filtered_groups):,} groups in similarity range")
+    print(f"  ✓ Found {len(detection_filtered_groups):,} groups in detection range")
+    print()
+    
+    # Step 7b: Filter groups to removal range (for actual removal)
+    print(f"[Step 7b] Filtering groups to removal range {REMOVAL_MIN_SIMILARITY * 100:.1f}% - {REMOVAL_MAX_SIMILARITY * 100:.1f}%...")
+    removal_filtered_groups = []
+    for group in groups_pairwise:
+        similarity = group.get('similarity', 0)
+        if REMOVAL_MIN_SIMILARITY <= similarity <= REMOVAL_MAX_SIMILARITY:
+            removal_filtered_groups.append(group)
+    
+    print(f"  ✓ Found {len(removal_filtered_groups):,} groups in removal range")
     print()
     
     # Step 8: Generate and display report
@@ -326,7 +343,8 @@ def main():
     print()
     print(f"SBERT Results:")
     print(f"  - Total similar pairs found: {len(groups_pairwise):,}")
-    print(f"  - Pairs in similarity range ({MIN_SIMILARITY * 100:.1f}%-{MAX_SIMILARITY * 100:.1f}%): {len(filtered_groups):,}")
+    print(f"  - Pairs in detection range ({DETECTION_MIN_SIMILARITY * 100:.1f}%-{DETECTION_MAX_SIMILARITY * 100:.1f}%): {len(detection_filtered_groups):,}")
+    print(f"  - Pairs in removal range ({REMOVAL_MIN_SIMILARITY * 100:.1f}%-{REMOVAL_MAX_SIMILARITY * 100:.1f}%): {len(removal_filtered_groups):,}")
     print(f"  - Files in similar pairs: {len(files_in_pairs):,}")
     print(f"  - Non-duplicate files (saved): {len(non_duplicate_files):,}")
     print()
@@ -339,15 +357,15 @@ def main():
                 print(f"  - {bin_info['range']}%: {bin_info['count']:,} pairs")
     print()
     
-    if len(filtered_groups) == 0:
-        print("  ℹ No groups found in specified similarity range.")
+    if len(removal_filtered_groups) == 0:
+        print(f"  ℹ No groups found in removal similarity range ({REMOVAL_MIN_SIMILARITY * 100:.1f}%-{REMOVAL_MAX_SIMILARITY * 100:.1f}%).")
         print("  ✓ Non-duplicate files have been saved to saved-track.")
         print("  ✓ Processing complete - nothing to remove.")
         print("=" * 80)
         return
     
     print(f"Next Steps:")
-    print(f"  - Will process {len(filtered_groups):,} similar pairs")
+    print(f"  - Will process {len(removal_filtered_groups):,} similar pairs (in removal range {REMOVAL_MIN_SIMILARITY * 100:.1f}%-{REMOVAL_MAX_SIMILARITY * 100:.1f}%)")
     print(f"  - Will select best MCQ from each pair")
     print(f"  - Will mark unselected files for removal")
     print("=" * 80)
@@ -367,13 +385,13 @@ def main():
     print("✓ Proceeding with selection and removal...")
     print()
     
-    # Step 10: Process groups and track selections
-    print("[Step 6] Processing groups and selecting MCQs...")
+    # Step 10: Process groups and track selections (only removal range)
+    print("[Step 10] Processing groups in removal range and selecting MCQs...")
     
     # Track selections per file: {filename: [selected_in_group1, selected_in_group2, ...]}
     file_selections: Dict[str, List[bool]] = {}
     
-    for idx, group in enumerate(filtered_groups):
+    for idx, group in enumerate(removal_filtered_groups):
         group_files = group['files']
         similarity = group.get('similarity', 0)
         
@@ -391,13 +409,13 @@ def main():
             file_selections[filename].append(filename == selected_file)
         
         if (idx + 1) % 100 == 0:
-            print(f"  Processed {idx + 1}/{len(filtered_groups)} groups...")
+            print(f"  Processed {idx + 1}/{len(removal_filtered_groups)} groups...")
     
-    print(f"  Processed {len(filtered_groups)} groups")
+    print(f"  Processed {len(removal_filtered_groups)} groups")
     print()
     
-    # Step 8: Determine removed files (unselected in ALL groups)
-    print("[Step 7] Determining removed files...")
+    # Step 11: Determine removed files (unselected in ALL groups)
+    print("[Step 11] Determining removed files...")
     removed_files = set()
     
     for filename, selections in file_selections.items():
@@ -408,8 +426,8 @@ def main():
     print(f"  Files to remove: {len(removed_files)}")
     print()
     
-    # Step 9: Merge with existing removed-track
-    print("[Step 8] Merging with existing removed-track...")
+    # Step 12: Merge with existing removed-track
+    print("[Step 12] Merging with existing removed-track...")
     all_removed = existing_removed.union(removed_files)
     newly_added = removed_files - existing_removed
     
@@ -418,8 +436,8 @@ def main():
     print(f"  Total removed files: {len(all_removed)}")
     print()
     
-    # Step 10: Save to output file
-    print("[Step 9] Saving removed files to output file...")
+    # Step 13: Save to output file
+    print("[Step 13] Saving removed files to output file...")
     
     # Sort numerically
     sorted_removed = sort_filenames_numerically(list(all_removed))
@@ -437,15 +455,16 @@ def main():
         return
     print()
     
-    # Step 11: Print summary statistics
+    # Step 14: Print summary statistics
     print("=" * 80)
     print("SUMMARY STATISTICS")
     print("=" * 80)
     print(f"Total files processed: {len(all_mcqs)}")
     print(f"Files excluded (already removed): {len(existing_removed)}")
     print(f"Similar pairs found: {len(groups_pairwise)}")
-    print(f"Groups in similarity range ({MIN_SIMILARITY * 100:.1f}%-{MAX_SIMILARITY * 100:.1f}%): {len(filtered_groups)}")
-    print(f"Files appearing in groups: {len(file_selections)}")
+    print(f"Pairs in detection range ({DETECTION_MIN_SIMILARITY * 100:.1f}%-{DETECTION_MAX_SIMILARITY * 100:.1f}%): {len(detection_filtered_groups)}")
+    print(f"Pairs in removal range ({REMOVAL_MIN_SIMILARITY * 100:.1f}%-{REMOVAL_MAX_SIMILARITY * 100:.1f}%): {len(removal_filtered_groups)}")
+    print(f"Files appearing in removal groups: {len(file_selections)}")
     print(f"Files newly removed: {len(newly_added)}")
     print(f"Total removed files: {len(sorted_removed)}")
     print("=" * 80)

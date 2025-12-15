@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lizard':",
+      "options": {
+        "a": "reptile:mammal",
+        "b": "amphibian:bird",
+        "c": "fish:insect",
+        "d": "bird:reptile"
+      },
+      "one_liner": "'Reptile' is a synonym for 'lizard', while 'mammal' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

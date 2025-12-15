@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'profound':",
+      "options": {
+        "a": "deep:trivial",
+        "b": "intense:shallow",
+        "c": "complex:simple",
+        "d": "penetrating:superficial"
+      },
+      "one_liner": "'Deep' is a synonym of 'profound', while 'trivial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

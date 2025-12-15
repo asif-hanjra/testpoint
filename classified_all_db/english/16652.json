@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'disprove':",
+      "options": {
+        "a": "prove",
+        "b": "deny",
+        "c": "negate",
+        "d": "discredit"
+      },
+      "one_liner": "An antonym of 'disprove' is 'prove', which means to demonstrate the truth of something.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

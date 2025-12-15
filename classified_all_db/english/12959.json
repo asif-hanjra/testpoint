@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'enormous':",
+      "options": {
+        "a": "massive",
+        "b": "huge",
+        "c": "tiny",
+        "d": "colossal"
+      },
+      "one_liner": "An antonym of 'enormous' is 'tiny', which means very small.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

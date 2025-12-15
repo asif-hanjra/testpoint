@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'qualm':",
+      "options": {
+        "a": "hesitation",
+        "b": "doubt",
+        "c": "confidence",
+        "d": "uncertainty"
+      },
+      "one_liner": "An antonym for 'qualm' is 'confidence', which denotes a lack of doubt or uncertainty.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

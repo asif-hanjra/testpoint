@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'guileless':",
+      "options": {
+        "a": "candid:artful",
+        "b": "honest:frank",
+        "c": "sincere:open",
+        "d": "naive:truthful"
+      },
+      "one_liner": "'Candid' is a synonym of 'guileless', while 'artful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

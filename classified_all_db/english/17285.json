@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'transient':",
+      "options": {
+        "a": "permanent",
+        "b": "ephemeral",
+        "c": "enduring",
+        "d": "lasting"
+      },
+      "one_liner": "'Transient' refers to something that is temporary or fleeting, much like 'ephemeral' or 'momentary'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

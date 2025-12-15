@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'veracity':",
+      "options": {
+        "a": "honesty",
+        "b": "integrity",
+        "c": "falsehood",
+        "d": "accuracy"
+      },
+      "one_liner": "An antonym of 'veracity' is 'falsehood', which means the opposite of truthfulness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

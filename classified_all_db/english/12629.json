@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'spontaneous':",
+      "options": {
+        "a": "planned",
+        "b": "impromptu",
+        "c": "deliberate",
+        "d": "calculated"
+      },
+      "one_liner": "'Spontaneous' means performed or occurring as a result of a sudden inner impulse without premeditation—words like 'impromptu' and 'unplanned' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

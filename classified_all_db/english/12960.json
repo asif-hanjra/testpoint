@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lizard':",
+      "options": {
+        "a": "mammal",
+        "b": "fish",
+        "c": "insect",
+        "d": "reptile"
+      },
+      "one_liner": "Since 'lizard' is a cold-blooded creature, a 'mammal' which is warm-blooded can be seen as an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

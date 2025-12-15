@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vague':",
+      "options": {
+        "a": "explicit",
+        "b": "obscure",
+        "c": "hazy",
+        "d": "indistinct"
+      },
+      "one_liner": "The opposite of 'vague' is 'explicit', which means clearly expressed or defined.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

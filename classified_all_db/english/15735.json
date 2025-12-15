@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'orifice':",
+      "options": {
+        "a": "closure",
+        "b": "aperture",
+        "c": "peak",
+        "d": "solid"
+      },
+      "one_liner": "'Orifice' refers to an opening or hole, similar to an 'aperture'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obituary':",
+      "options": {
+        "a": "eulogy:birth announcement",
+        "b": "chronicle:prologue",
+        "c": "biography:memoir",
+        "d": "epitaph:epilogue"
+      },
+      "one_liner": "'Eulogy' is a synonym for 'obituary', and 'birth announcement' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

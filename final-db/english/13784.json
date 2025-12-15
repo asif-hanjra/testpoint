@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'migrant':",
+      "options": {
+        "a": "settler",
+        "b": "emigrant",
+        "c": "native",
+        "d": "resident"
+      },
+      "one_liner": "'Migrant' refers to someone who moves from one place to another, similar to an 'immigrant' or 'emigrant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

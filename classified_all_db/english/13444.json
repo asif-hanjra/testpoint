@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'zephyr':",
+      "options": {
+        "a": "breeze:storm",
+        "b": "draft:whiff",
+        "c": "gale:breeze",
+        "d": "wind:calm"
+      },
+      "one_liner": "A 'breeze' is a synonym for 'zephyr', while 'storm' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

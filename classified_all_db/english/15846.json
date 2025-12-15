@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'truce':",
+      "options": {
+        "a": "peace",
+        "b": "harmony",
+        "c": "conflict",
+        "d": "agreement"
+      },
+      "one_liner": "The antonym of 'truce' is 'conflict', as a truce is a pause in conflict.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

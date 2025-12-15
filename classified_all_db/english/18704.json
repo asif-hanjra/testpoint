@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ameliorate':",
+      "options": {
+        "a": "worsen",
+        "b": "enhance",
+        "c": "reduce",
+        "d": "ignore"
+      },
+      "one_liner": "'Ameliorate' means to make something better or improve, so 'enhance' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

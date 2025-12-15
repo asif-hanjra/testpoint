@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conflate':",
+      "options": {
+        "a": "separate",
+        "b": "merge",
+        "c": "divide",
+        "d": "isolate"
+      },
+      "one_liner": "'Conflate' means to combine or fuse together, similar to 'merge' or 'blend'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

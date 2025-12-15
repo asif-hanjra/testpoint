@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'strive':",
+      "options": {
+        "a": "endeavor:persist",
+        "b": "attempt:abandon",
+        "c": "try:continue",
+        "d": "struggle:give up"
+      },
+      "one_liner": "'Attempt' is a synonym of 'strive', while 'abandon' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'inveigle':",
+      "options": {
+        "a": "seduce",
+        "b": "lure",
+        "c": "deter",
+        "d": "coax"
+      },
+      "one_liner": "An antonym of 'inveigle' is 'deter', which means to discourage someone from doing something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

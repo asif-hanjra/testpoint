@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reciprocal':",
+      "options": {
+        "a": "unilateral",
+        "b": "mutual",
+        "c": "independent",
+        "d": "singular"
+      },
+      "one_liner": "'Reciprocal' means given or felt by each toward the other, similar to 'mutual'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

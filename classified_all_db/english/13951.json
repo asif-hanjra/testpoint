@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'distend':",
+      "options": {
+        "a": "shrink",
+        "b": "bloat",
+        "c": "lessen",
+        "d": "compress"
+      },
+      "one_liner": "'Distend' means to swell or expand, so 'bloat' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

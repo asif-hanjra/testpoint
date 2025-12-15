@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'outset':",
+      "options": {
+        "a": "initiation",
+        "b": "start",
+        "c": "conclusion",
+        "d": "origin"
+      },
+      "one_liner": "An antonym of 'outset' is 'conclusion', which signifies the end as opposed to the beginning.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

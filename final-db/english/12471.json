@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gorge':",
+      "options": {
+        "a": "ravenously:fast",
+        "b": "devour:feast",
+        "c": "gulp:snack",
+        "d": "ingest:abstain"
+      },
+      "one_liner": "'Ravenously' is a synonym for 'gorge', while 'fast' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ingenious':",
+      "options": {
+        "a": "creative",
+        "b": "original",
+        "c": "uninspired",
+        "d": "innovative"
+      },
+      "one_liner": "The opposite of 'ingenious', which means clever or inventive, would be 'uninspired'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

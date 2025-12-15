@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prevalent':",
+      "options": {
+        "a": "rare",
+        "b": "ubiquitous",
+        "c": "scarce",
+        "d": "infrequent"
+      },
+      "one_liner": "'Prevalent' means widespread or common, similar to 'ubiquitous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mettle':",
+      "options": {
+        "a": "resilience:cowardice",
+        "b": "strength:weakness",
+        "c": "spirit:apathy",
+        "d": "endurance:timidity"
+      },
+      "one_liner": "'Resilience' is a synonym of 'mettle', while 'cowardice' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

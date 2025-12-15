@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tender':",
+      "options": {
+        "a": "sensitive:callous",
+        "b": "compassionate:kind",
+        "c": "gentle:soft",
+        "d": "caring:harsh"
+      },
+      "one_liner": "'Sensitive' is a synonym of 'tender', while 'callous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

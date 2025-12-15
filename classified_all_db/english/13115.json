@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'frown':",
+      "options": {
+        "a": "scowl",
+        "b": "smile",
+        "c": "grimace",
+        "d": "glower"
+      },
+      "one_liner": "Antonyms of 'frown' include 'smile' and 'grin', both implying a happy or pleased facial expression.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

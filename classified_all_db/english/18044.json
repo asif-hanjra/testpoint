@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'coincidence':",
+      "options": {
+        "a": "intention",
+        "b": "serendipity",
+        "c": "planning",
+        "d": "strategy"
+      },
+      "one_liner": "'Coincidence' refers to a remarkable concurrence of events without apparent causal connection, similar to 'serendipity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

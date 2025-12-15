@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lucrative':",
+      "options": {
+        "a": "profitable",
+        "b": "beneficial",
+        "c": "unprofitable",
+        "d": "advantageous"
+      },
+      "one_liner": "An antonym of 'lucrative' would be 'unprofitable', which means not generating profit.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

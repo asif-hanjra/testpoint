@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'illicit':",
+      "options": {
+        "a": "lawful",
+        "b": "forbidden",
+        "c": "criminal",
+        "d": "unauthorized"
+      },
+      "one_liner": "The antonym of 'illicit' is 'lawful', which means conforming to the law.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

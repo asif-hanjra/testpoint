@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'euphoric':",
+      "options": {
+        "a": "joyful",
+        "b": "thrilled",
+        "c": "miserable",
+        "d": "delighted"
+      },
+      "one_liner": "The opposite of feeling 'euphoric' is feeling 'miserable', which denotes extreme sadness or discomfort.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

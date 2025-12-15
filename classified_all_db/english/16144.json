@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'to cry wolf' mean?",
+      "options": {
+        "a": "To express genuine concern",
+        "b": "To call for help when it's not needed",
+        "c": "To be very sad",
+        "d": "To sing loudly"
+      },
+      "one_liner": "The idiom 'to cry wolf' means to raise a false alarm or to call for help when you don't actually need it, undermining your credibility.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'celebrity':",
+      "options": {
+        "a": "icon:nonentity",
+        "b": "star:celebrated",
+        "c": "famous:infamous",
+        "d": "luminary:renowned"
+      },
+      "one_liner": "'Icon' is a synonym of 'celebrity', while 'nonentity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

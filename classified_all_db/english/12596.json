@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'limerick':",
+      "options": {
+        "a": "epic",
+        "b": "jingle",
+        "c": "ditty",
+        "d": "ballad"
+      },
+      "one_liner": "While a 'limerick' is short and often humorous, an 'epic' is a long, serious narrative poem.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

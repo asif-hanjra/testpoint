@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'demise':",
+      "options": {
+        "a": "beginning",
+        "b": "cessation",
+        "c": "birth",
+        "d": "initiation"
+      },
+      "one_liner": "'Demise' refers to the end or death of something, similar to 'cessation' or 'conclusion'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'feud':",
+      "options": {
+        "a": "agreement",
+        "b": "conflict",
+        "c": "harmony",
+        "d": "truce"
+      },
+      "one_liner": "'Feud' refers to a prolonged and bitter quarrel or dispute, similar to a 'conflict'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

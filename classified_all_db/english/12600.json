@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vicious':",
+      "options": {
+        "a": "malicious:compassionate",
+        "b": "cruel:kind",
+        "c": "brutal:gentle",
+        "d": "savage:benevolent"
+      },
+      "one_liner": "'Malicious' is a synonym of 'vicious', while 'compassionate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

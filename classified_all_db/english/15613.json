@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'entrench':",
+      "options": {
+        "a": "embed:extract",
+        "b": "fortify:detach",
+        "c": "deepen:dislodge",
+        "d": "ingrain:uproot"
+      },
+      "one_liner": "'Ingrain' is a synonym of 'entrench', while 'extract' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

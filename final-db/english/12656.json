@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fair':",
+      "options": {
+        "a": "biased",
+        "b": "impartial",
+        "c": "unjust",
+        "d": "partial"
+      },
+      "one_liner": "'Fair' means just or equitable, similar to 'impartial'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

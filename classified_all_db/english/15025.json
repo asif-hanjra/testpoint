@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stationary':",
+      "options": {
+        "a": "static:transient",
+        "b": "immobile:steady",
+        "c": "fixed:mobile",
+        "d": "permanent:ephemeral"
+      },
+      "one_liner": "'Static' is a synonym of 'stationary', while 'transient' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

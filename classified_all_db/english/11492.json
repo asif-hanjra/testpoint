@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prophylactic':",
+      "options": {
+        "a": "harmful",
+        "b": "preventive",
+        "c": "detrimental",
+        "d": "damaging"
+      },
+      "one_liner": "'Prophylactic' means intended to prevent disease—words like 'preventive' and 'protective' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

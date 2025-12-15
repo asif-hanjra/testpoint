@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dull':",
+      "options": {
+        "a": "vibrant",
+        "b": "tedious",
+        "c": "luminous",
+        "d": "shiny"
+      },
+      "one_liner": "'Dull' can mean lacking interest or excitement, similar to 'tedious' or 'boring'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

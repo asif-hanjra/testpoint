@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dangle':",
+      "options": {
+        "a": "attach",
+        "b": "suspend",
+        "c": "fasten",
+        "d": "secure"
+      },
+      "one_liner": "'Dangle' means to hang or swing loosely, similar to 'suspend' which also implies hanging.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

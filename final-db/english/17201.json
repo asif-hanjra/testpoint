@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dawn':",
+      "options": {
+        "a": "midnight",
+        "b": "daybreak",
+        "c": "dusk",
+        "d": "evening"
+      },
+      "one_liner": "'Dawn' signifies the beginning of the day, similar to 'daybreak'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

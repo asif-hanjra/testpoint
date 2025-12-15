@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'censure':",
+      "options": {
+        "a": "criticize",
+        "b": "reprimand",
+        "c": "praise",
+        "d": "blame"
+      },
+      "one_liner": "The antonym of 'censure' is 'praise', which means to express approval or admiration.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

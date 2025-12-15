@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ditto':",
+      "options": {
+        "a": "original",
+        "b": "duplicate",
+        "c": "unique",
+        "d": "varied"
+      },
+      "one_liner": "'Ditto' means the same or repeat, so words like 'duplicate' and 'replica' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

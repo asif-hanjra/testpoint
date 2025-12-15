@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "HINT : WHISPER :: SHOUT : ________?",
+      "options": {
+        "a": "Noise",
+        "b": "Secret",
+        "c": "Yell",
+        "d": "Clue"
+      },
+      "one_liner": "A hint is a subtle suggestion, and a whisper is a quiet sound; a shout is a loud sound, and a secret is something kept hidden.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

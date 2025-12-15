@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'opulence':",
+      "options": {
+        "a": "richness:destitution",
+        "b": "affluence:wealth",
+        "c": "luxury:poverty",
+        "d": "prosperity:richness"
+      },
+      "one_liner": "'Wealth' is a synonym of 'opulence', while 'destitution' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

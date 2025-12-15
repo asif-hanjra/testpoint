@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'provocative':",
+      "options": {
+        "a": "unstimulating",
+        "b": "exciting",
+        "c": "arousing",
+        "d": "intriguing"
+      },
+      "one_liner": "The word 'provocative' suggests causing a reaction, while 'unstimulating' implies the opposite.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

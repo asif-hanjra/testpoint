@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Father advised me not to go ___ in the cold.",
+      "options": {
+        "a": "on",
+        "b": "out",
+        "c": "off",
+        "d": "up"
+      },
+      "one_liner": "Father advised me not to go 'out' in the cold.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

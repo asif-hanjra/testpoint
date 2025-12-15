@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'amenable':",
+      "options": {
+        "a": "cooperative:uncooperative",
+        "b": "flexible:inflexible",
+        "c": "receptive:closed",
+        "d": "obedient:disobedient"
+      },
+      "one_liner": "'Cooperative' is a synonym of 'amenable', while 'uncooperative' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'apparel':",
+      "options": {
+        "a": "garb:bareness",
+        "b": "clothing:attire",
+        "c": "dress:garment",
+        "d": "outfit:costume"
+      },
+      "one_liner": "'Garb' is a synonym for 'apparel', whereas 'bareness' is an antonym, indicating a lack of clothing.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

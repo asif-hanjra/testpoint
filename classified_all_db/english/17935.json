@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'banal':",
+      "options": {
+        "a": "trite:innovative",
+        "b": "commonplace:unique",
+        "c": "stale:fresh",
+        "d": "mundane:extraordinary"
+      },
+      "one_liner": "'Trite' is a synonym of 'banal', while 'innovative' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

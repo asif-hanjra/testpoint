@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the phrase 'at sixes and sevens':",
+      "options": {
+        "a": "confused:systematic",
+        "b": "neat:disordered",
+        "c": "clear:ambiguous",
+        "d": "tidy:cluttered"
+      },
+      "one_liner": "'Confused' is a synonym for 'at sixes and sevens', while 'systematic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

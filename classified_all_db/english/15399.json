@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'orthography':",
+      "options": {
+        "a": "grammar",
+        "b": "spelling",
+        "c": "pronunciation",
+        "d": "handwriting"
+      },
+      "one_liner": "'Orthography' refers to the conventional spelling system of a language, similar to 'spelling'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

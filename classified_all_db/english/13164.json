@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'care':",
+      "options": {
+        "a": "concern",
+        "b": "neglect",
+        "c": "heed",
+        "d": "attention"
+      },
+      "one_liner": "The opposite of 'care' is 'neglect', indicating a lack of concern or attention.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

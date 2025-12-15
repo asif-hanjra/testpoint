@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gummy':",
+      "options": {
+        "a": "gluey:slippery",
+        "b": "sticky:dry",
+        "c": "tacky:smooth",
+        "d": "adhesive:slick"
+      },
+      "one_liner": "'Gluey' is a synonym of 'gummy', while 'slippery' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

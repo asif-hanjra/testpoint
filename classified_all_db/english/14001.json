@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dubious':",
+      "options": {
+        "a": "certain",
+        "b": "questionable",
+        "c": "definite",
+        "d": "clear"
+      },
+      "one_liner": "'Dubious' means uncertain or doubtful, so 'questionable' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

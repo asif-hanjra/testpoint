@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deficient':",
+      "options": {
+        "a": "inadequate:abundant",
+        "b": "sufficient:scarce",
+        "c": "ample:plentiful",
+        "d": "enough:insufficient"
+      },
+      "one_liner": "A synonym for 'deficient' is 'inadequate', while 'abundant' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

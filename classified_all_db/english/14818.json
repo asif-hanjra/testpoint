@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'proscribe':",
+      "options": {
+        "a": "outlaw:authorize",
+        "b": "ban:allow",
+        "c": "forbid:permit",
+        "d": "veto:endorse"
+      },
+      "one_liner": "'Outlaw' is a synonym of 'proscribe', while 'authorize' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

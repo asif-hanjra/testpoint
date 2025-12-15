@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'before':",
+      "options": {
+        "a": "prior:after",
+        "b": "subsequent:preceding",
+        "c": "earlier:former",
+        "d": "following:previous"
+      },
+      "one_liner": "'Prior' is a synonym of 'before', while 'after' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

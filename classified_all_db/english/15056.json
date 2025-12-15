@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'difficult':",
+      "options": {
+        "a": "easy",
+        "b": "challenging",
+        "c": "simple",
+        "d": "straightforward"
+      },
+      "one_liner": "'Difficult' tasks require a lot of effort, similar to 'challenging' tasks.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

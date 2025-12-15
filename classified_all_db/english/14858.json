@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'transient':",
+      "options": {
+        "a": "fleeting",
+        "b": "brief",
+        "c": "permanent",
+        "d": "momentary"
+      },
+      "one_liner": "The opposite of 'transient', which means temporary, would be 'permanent' or 'enduring'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

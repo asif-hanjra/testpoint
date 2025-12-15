@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'recondite':",
+      "options": {
+        "a": "clear",
+        "b": "abstruse",
+        "c": "obvious",
+        "d": "simple"
+      },
+      "one_liner": "'Recondite' refers to something that is difficult to understand, much like 'abstruse' or 'esoteric'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

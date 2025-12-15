@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'plentiful':",
+      "options": {
+        "a": "copious:sparse",
+        "b": "abundant:ample",
+        "c": "bountiful:plentiful",
+        "d": "ample:abundant"
+      },
+      "one_liner": "'Copious' is a synonym of 'plentiful', while 'sparse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

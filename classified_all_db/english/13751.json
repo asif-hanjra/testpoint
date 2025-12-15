@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'digress':",
+      "options": {
+        "a": "ramble",
+        "b": "stick to the topic",
+        "c": "wander",
+        "d": "meander"
+      },
+      "one_liner": "The antonym of 'digress' is 'stick to the topic', as it means to not stray from the main subject.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

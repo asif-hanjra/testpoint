@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The railway track runs ___ the river.",
+      "options": {
+        "a": "along",
+        "b": "across",
+        "c": "under",
+        "d": "beside"
+      },
+      "one_liner": "The railway track runs 'across' the river.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

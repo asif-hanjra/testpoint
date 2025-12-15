@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hackneyed':",
+      "options": {
+        "a": "original",
+        "b": "fresh",
+        "c": "novel",
+        "d": "trite"
+      },
+      "one_liner": "'Hackneyed' means overused or cliched, similar to 'trite' or 'banal'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'odium':",
+      "options": {
+        "a": "disgust",
+        "b": "hatred",
+        "c": "esteem",
+        "d": "detest"
+      },
+      "one_liner": "The antonym of 'odium', which signifies hatred, would be 'esteem', indicating high regard.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

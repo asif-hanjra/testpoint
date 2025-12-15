@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'aesthete':",
+      "options": {
+        "a": "philistine",
+        "b": "connoisseur",
+        "c": "novice",
+        "d": "amateur"
+      },
+      "one_liner": "'Aesthete' refers to someone with a deep appreciation for beauty, similar to a 'connoisseur'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

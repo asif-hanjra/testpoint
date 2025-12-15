@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'corporal':",
+      "options": {
+        "a": "physical",
+        "b": "tangible",
+        "c": "spiritual",
+        "d": "material"
+      },
+      "one_liner": "The antonym of 'corporal', which relates to the physical body, is 'spiritual', relating to the soul or spirit.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

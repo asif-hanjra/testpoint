@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'precursor':",
+      "options": {
+        "a": "consequence",
+        "b": "forerunner",
+        "c": "result",
+        "d": "aftermath"
+      },
+      "one_liner": "'Precursor' refers to something that comes before another; a 'forerunner' is a synonym that also indicates something that precedes another.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

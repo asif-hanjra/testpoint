@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'bliss':",
+      "options": {
+        "a": "joy",
+        "b": "happiness",
+        "c": "misery",
+        "d": "delight"
+      },
+      "one_liner": "The opposite of 'bliss', which signifies profound joy, would be 'misery' or 'suffering'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

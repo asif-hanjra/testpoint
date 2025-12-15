@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'detrimental':",
+      "options": {
+        "a": "harmful",
+        "b": "damaging",
+        "c": "beneficial",
+        "d": "injurious"
+      },
+      "one_liner": "An antonym of 'detrimental' is 'beneficial', which means causing good or advantage.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

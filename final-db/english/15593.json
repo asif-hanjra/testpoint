@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'chilly':",
+      "options": {
+        "a": "frosty",
+        "b": "icy",
+        "c": "warm",
+        "d": "frigid"
+      },
+      "one_liner": "Antonyms of 'chilly' include 'warm' and 'hot', both implying a higher temperature.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

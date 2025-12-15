@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'internal':",
+      "options": {
+        "a": "external",
+        "b": "inherent",
+        "c": "inner",
+        "d": "core"
+      },
+      "one_liner": "The antonym of 'internal' is 'external', referring to something on the outside or exterior.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

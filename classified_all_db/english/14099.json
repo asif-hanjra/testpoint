@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'embellish':",
+      "options": {
+        "a": "garnish:plain",
+        "b": "adorn:enhance",
+        "c": "decorate:strip",
+        "d": "beautify:adorn"
+      },
+      "one_liner": "'Garnish' is a synonym of 'embellish', while 'plain' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

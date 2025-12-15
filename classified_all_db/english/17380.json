@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hesitate':",
+      "options": {
+        "a": "dawdle",
+        "b": "linger",
+        "c": "advance",
+        "d": "stall"
+      },
+      "one_liner": "Antonyms of 'hesitate' include 'proceed' and 'advance', both implying moving forward without delay.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

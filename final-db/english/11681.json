@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'allegation':",
+      "options": {
+        "a": "exoneration",
+        "b": "charge",
+        "c": "indictment",
+        "d": "assertion"
+      },
+      "one_liner": "An antonym of 'allegation' is 'exoneration', which means to absolve someone from blame for a fault or wrongdoing.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'quibble':",
+      "options": {
+        "a": "argue",
+        "b": "dispute",
+        "c": "bicker",
+        "d": "agree"
+      },
+      "one_liner": "An antonym of 'quibble' is 'agree', which means to have the same opinion or accept a proposal.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

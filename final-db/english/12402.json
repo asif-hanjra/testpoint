@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lustrous':",
+      "options": {
+        "a": "dull",
+        "b": "shimmering",
+        "c": "matte",
+        "d": "opaque"
+      },
+      "one_liner": "'Lustrous' refers to something shiny or gleaming, similar to 'shimmering'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'baleful':",
+      "options": {
+        "a": "benign",
+        "b": "menacing",
+        "c": "friendly",
+        "d": "harmless"
+      },
+      "one_liner": "'Baleful' means threatening harm or evil—words like 'menacing' and 'sinister' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

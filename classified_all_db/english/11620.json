@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'clumsy':",
+      "options": {
+        "a": "inept:dexterous",
+        "b": "adept:awkward",
+        "c": "graceful:cloddish",
+        "d": "skillful:inept"
+      },
+      "one_liner": "'Inept' is a synonym of 'clumsy', while 'dexterous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

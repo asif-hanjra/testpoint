@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'misfortune':",
+      "options": {
+        "a": "calamity",
+        "b": "fortune",
+        "c": "hardship",
+        "d": "trouble"
+      },
+      "one_liner": "The opposite of 'misfortune' is 'fortune', which signifies good luck or success.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

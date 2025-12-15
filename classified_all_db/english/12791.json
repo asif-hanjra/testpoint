@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prodigality':",
+      "options": {
+        "a": "extravagance:thrift",
+        "b": "waste:saving",
+        "c": "luxury:frugality",
+        "d": "excess:economy"
+      },
+      "one_liner": "'Extravagance' is a synonym of 'prodigality', while 'thrift' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

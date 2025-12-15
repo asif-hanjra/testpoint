@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'calm':",
+      "options": {
+        "a": "tranquil:turbulent",
+        "b": "quiet:loud",
+        "c": "peaceful:noisy",
+        "d": "serene:chaotic"
+      },
+      "one_liner": "'Tranquil' is a synonym of 'calm', while 'turbulent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

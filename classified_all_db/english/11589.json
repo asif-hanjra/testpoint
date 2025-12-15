@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'perch':",
+      "options": {
+        "a": "plunge",
+        "b": "roost",
+        "c": "descend",
+        "d": "dive"
+      },
+      "one_liner": "'Perch' can mean to sit or rest in an elevated position, similar to 'roost'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

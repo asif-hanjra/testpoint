@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dispute':",
+      "options": {
+        "a": "conflict",
+        "b": "debate",
+        "c": "consensus",
+        "d": "argument"
+      },
+      "one_liner": "Antonyms of 'dispute' include 'accord' and 'consensus', both implying agreement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

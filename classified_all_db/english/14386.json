@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obsidian':",
+      "options": {
+        "a": "volcanic glass:plastic",
+        "b": "granite:metal",
+        "c": "glass:stone",
+        "d": "basalt:wood"
+      },
+      "one_liner": "'Volcanic glass' is a synonym for 'obsidian', while 'plastic' is an antonym as it is not a natural rock.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

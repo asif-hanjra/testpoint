@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quotidian':",
+      "options": {
+        "a": "routine:extraordinary",
+        "b": "common:uncommon",
+        "c": "daily:typical",
+        "d": "normal:abnormal"
+      },
+      "one_liner": "'Everyday' is a synonym of 'quotidian', while 'extraordinary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

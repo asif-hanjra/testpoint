@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'shrewd':",
+      "options": {
+        "a": "savvy:imprudent",
+        "b": "ignorant:astute",
+        "c": "canny:wise",
+        "d": "keen:foolish"
+      },
+      "one_liner": "'Savvy' is a synonym of 'shrewd', while 'imprudent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

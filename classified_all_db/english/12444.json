@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'balk':",
+      "options": {
+        "a": "agree",
+        "b": "recoil",
+        "c": "accept",
+        "d": "embrace"
+      },
+      "one_liner": "'Balk' means to hesitate or refuse abruptly—words like 'recoil' and 'shy away' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

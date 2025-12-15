@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abyss':",
+      "options": {
+        "a": "chasm:summit",
+        "b": "void:plateau",
+        "c": "gulf:peak",
+        "d": "trench:hill"
+      },
+      "one_liner": "'Chasm' is a synonym of 'abyss', while 'summit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gallant':",
+      "options": {
+        "a": "cowardly",
+        "b": "valiant",
+        "c": "timid",
+        "d": "fearful"
+      },
+      "one_liner": "'Gallant' describes someone brave or chivalrous, much like the word 'valiant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

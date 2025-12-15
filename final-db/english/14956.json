@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cataclysm':",
+      "options": {
+        "a": "chaos",
+        "b": "upheaval",
+        "c": "tranquility",
+        "d": "turmoil"
+      },
+      "one_liner": "While 'cataclysm' implies a disastrous event, its antonym would be 'tranquility' or 'peace', suggesting calm and order.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

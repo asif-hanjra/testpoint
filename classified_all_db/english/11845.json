@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vigilance':",
+      "options": {
+        "a": "awareness",
+        "b": "attention",
+        "c": "neglect",
+        "d": "caution"
+      },
+      "one_liner": "An antonym of 'vigilance' is 'neglect', which implies a lack of attention.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

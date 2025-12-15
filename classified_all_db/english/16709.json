@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vulnerable':",
+      "options": {
+        "a": "invincible",
+        "b": "exposed",
+        "c": "secure",
+        "d": "protected"
+      },
+      "one_liner": "'Vulnerable' means susceptible to harm or attack—words like 'exposed' and 'defenseless' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

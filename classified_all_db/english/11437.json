@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'imperfect':",
+      "options": {
+        "a": "flawless",
+        "b": "faulty",
+        "c": "ideal",
+        "d": "perfect"
+      },
+      "one_liner": "'Imperfect' means flawed or defective, similar to 'faulty'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

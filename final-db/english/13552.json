@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'odium':",
+      "options": {
+        "a": "admiration",
+        "b": "abhorrence",
+        "c": "affection",
+        "d": "approval"
+      },
+      "one_liner": "'Odium' refers to general or widespread hatred or disgust, similar to 'abhorrence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

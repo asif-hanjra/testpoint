@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'eradicate':",
+      "options": {
+        "a": "exterminate:instigate",
+        "b": "abolish:build",
+        "c": "eliminate:create",
+        "d": "destroy:establish"
+      },
+      "one_liner": "'Exterminate' is a synonym of 'eradicate', while 'instigate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

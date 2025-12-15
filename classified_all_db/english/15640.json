@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'scrupulous':",
+      "options": {
+        "a": "painstaking:negligent",
+        "b": "careful:meticulous",
+        "c": "attentive:careless",
+        "d": "thorough:thorough"
+      },
+      "one_liner": "'Painstaking' is a synonym of 'scrupulous', while 'negligent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'immense':",
+      "options": {
+        "a": "gigantic",
+        "b": "enormous",
+        "c": "minute",
+        "d": "colossal"
+      },
+      "one_liner": "An antonym of 'immense' is 'minute', which means very small.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

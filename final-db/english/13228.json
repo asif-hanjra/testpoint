@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wreck':",
+      "options": {
+        "a": "destroy",
+        "b": "demolish",
+        "c": "restore",
+        "d": "ruin"
+      },
+      "one_liner": "The antonym of 'wreck' is 'restore', which means to bring something back to its original condition.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

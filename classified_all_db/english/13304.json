@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'leviathan':",
+      "options": {
+        "a": "tiny",
+        "b": "colossal",
+        "c": "minute",
+        "d": "small"
+      },
+      "one_liner": "'Leviathan' refers to something enormous or gigantic, similar to 'colossal'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

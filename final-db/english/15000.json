@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dumb':",
+      "options": {
+        "a": "articulate",
+        "b": "mute",
+        "c": "eloquent",
+        "d": "vocal"
+      },
+      "one_liner": "'Dumb' often means unable to speak, similar to 'mute'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

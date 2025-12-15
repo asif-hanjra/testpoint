@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mysterious':",
+      "options": {
+        "a": "clear",
+        "b": "enigmatic",
+        "c": "obvious",
+        "d": "plain"
+      },
+      "one_liner": "'Mysterious' means full of secrets or not easily explained, making 'enigmatic' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'trample':",
+      "options": {
+        "a": "respect",
+        "b": "crush",
+        "c": "destroy",
+        "d": "stomp"
+      },
+      "one_liner": "An antonym for 'trample' is 'respect', which means to treat with consideration and avoid causing damage.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

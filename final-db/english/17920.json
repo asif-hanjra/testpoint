@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ascetic':",
+      "options": {
+        "a": "indulgent",
+        "b": "austere",
+        "c": "luxurious",
+        "d": "extravagant"
+      },
+      "one_liner": "'Ascetic' refers to someone who practices severe self-discipline, often for religious reasons, similar to 'austere'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

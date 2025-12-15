@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'add':",
+      "options": {
+        "a": "append",
+        "b": "attach",
+        "c": "subtract",
+        "d": "combine"
+      },
+      "one_liner": "Antonyms of 'add' include 'subtract' and 'remove', both implying taking something away.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

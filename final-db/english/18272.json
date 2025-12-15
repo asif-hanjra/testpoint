@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'condense':",
+      "options": {
+        "a": "expand",
+        "b": "compress",
+        "c": "lengthen",
+        "d": "enlarge"
+      },
+      "one_liner": "'Condense' means to make something denser or more concentrated, similar to how 'compress' refers to reducing something in size or volume.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

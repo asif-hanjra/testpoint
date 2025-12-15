@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'misanthrope':",
+      "options": {
+        "a": "cynic:humanitarian",
+        "b": "skeptic:optimist",
+        "c": "pessimist:philanthropist",
+        "d": "introvert:extrovert"
+      },
+      "one_liner": "'Cynic' is a synonym of 'misanthrope', while 'humanitarian' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

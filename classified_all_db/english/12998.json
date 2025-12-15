@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mistrust':",
+      "options": {
+        "a": "confidence",
+        "b": "distrust",
+        "c": "faith",
+        "d": "trust"
+      },
+      "one_liner": "'Mistrust' implies a lack of confidence or doubt, similar to 'suspicion' or 'distrust'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

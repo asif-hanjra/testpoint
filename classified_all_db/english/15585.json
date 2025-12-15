@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pleasant':",
+      "options": {
+        "a": "harsh",
+        "b": "delightful",
+        "c": "unpleasant",
+        "d": "disagreeable"
+      },
+      "one_liner": "'Pleasant' means enjoyable or agreeable, similar to 'delightful' or 'pleasing'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cessation':",
+      "options": {
+        "a": "discontinuation:initiation",
+        "b": "termination:beginning",
+        "c": "end:start",
+        "d": "halt:continuation"
+      },
+      "one_liner": "'Discontinuation' is a synonym for 'cessation', while 'initiation' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

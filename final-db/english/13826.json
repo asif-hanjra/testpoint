@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'celebrity':",
+      "options": {
+        "a": "nobody",
+        "b": "star",
+        "c": "stranger",
+        "d": "introvert"
+      },
+      "one_liner": "'Celebrity' refers to a famous person, similar to a 'star' or 'luminary'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

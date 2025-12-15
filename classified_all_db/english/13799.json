@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sluggish':",
+      "options": {
+        "a": "languid:brisk",
+        "b": "inactive:energetic",
+        "c": "torpid:active",
+        "d": "slow:swift"
+      },
+      "one_liner": "'Languid' is a synonym of 'sluggish', while 'brisk' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

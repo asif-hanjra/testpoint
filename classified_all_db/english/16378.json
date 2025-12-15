@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'confine':",
+      "options": {
+        "a": "restrict:liberate",
+        "b": "enclose:expand",
+        "c": "imprison:release",
+        "d": "bind:free"
+      },
+      "one_liner": "'Restrict' is a synonym of 'confine', while 'liberate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

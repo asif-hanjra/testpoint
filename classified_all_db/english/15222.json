@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fraction':",
+      "options": {
+        "a": "segment:whole",
+        "b": "part:fragment",
+        "c": "slice:section",
+        "d": "bit:total"
+      },
+      "one_liner": "'Segment' is a synonym for 'fraction', while 'whole' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

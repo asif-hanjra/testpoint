@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'subdue':",
+      "options": {
+        "a": "quell",
+        "b": "suppress",
+        "c": "agitate",
+        "d": "restrain"
+      },
+      "one_liner": "An antonym of 'subdue' is 'agitate', which means to disturb or excite.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

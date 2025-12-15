@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vacant':",
+      "options": {
+        "a": "empty",
+        "b": "deserted",
+        "c": "occupied",
+        "d": "abandoned"
+      },
+      "one_liner": "The antonym of 'vacant' is 'occupied', which means being in use or filled.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

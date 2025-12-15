@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'successful':",
+      "options": {
+        "a": "victorious",
+        "b": "prosperous",
+        "c": "unsuccessful",
+        "d": "fruitful"
+      },
+      "one_liner": "The opposite of 'successful' is 'unsuccessful', indicating a lack of success.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

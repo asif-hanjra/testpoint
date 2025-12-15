@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tarnish':",
+      "options": {
+        "a": "soil:preserve",
+        "b": "clean:stain",
+        "c": "brighten:darken",
+        "d": "polish:corrode"
+      },
+      "one_liner": "'Soil' is a synonym for 'tarnish', while 'preserve' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

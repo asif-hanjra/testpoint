@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'competent':",
+      "options": {
+        "a": "inept",
+        "b": "capable",
+        "c": "unskilled",
+        "d": "deficient"
+      },
+      "one_liner": "'Competent' means having the necessary ability or skills, so 'capable' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'zany':",
+      "options": {
+        "a": "eccentric:conventional",
+        "b": "whimsical:serious",
+        "c": "bizarre:normal",
+        "d": "funny:staid"
+      },
+      "one_liner": "'Eccentric' is a synonym for 'zany', while 'conventional' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

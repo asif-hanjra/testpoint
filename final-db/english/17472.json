@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'piquant':",
+      "options": {
+        "a": "spicy",
+        "b": "savory",
+        "c": "bland",
+        "d": "tangy"
+      },
+      "one_liner": "Antonyms of 'piquant' include 'bland' and 'flavorless', both implying a lack of strong flavor.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

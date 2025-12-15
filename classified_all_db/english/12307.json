@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'aphoristic':",
+      "options": {
+        "a": "terse:wordy",
+        "b": "succinct:prolix",
+        "c": "pithy:verbose",
+        "d": "laconic:rambling"
+      },
+      "one_liner": "'Terse' is a synonym of 'aphoristic', while 'wordy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

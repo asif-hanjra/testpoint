@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abdicate':",
+      "options": {
+        "a": "relinquish:take over",
+        "b": "surrender:retain",
+        "c": "abandon:hold on",
+        "d": "resign:cling to"
+      },
+      "one_liner": "'Surrender' is a synonym for 'abdicate', while 'retain' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

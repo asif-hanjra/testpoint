@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dispel':",
+      "options": {
+        "a": "gather",
+        "b": "banish",
+        "c": "collect",
+        "d": "assemble"
+      },
+      "one_liner": "'Dispel' means to drive away or scatter, similar to how 'banish' means to expel or get rid of.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

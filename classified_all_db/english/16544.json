@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'premise':",
+      "options": {
+        "a": "introduction",
+        "b": "assumption",
+        "c": "foundation",
+        "d": "conclusion"
+      },
+      "one_liner": "An antonym of 'premise' is 'conclusion', as a premise is the beginning of an argument while a conclusion is the end.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

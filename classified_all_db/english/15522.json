@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lope':",
+      "options": {
+        "a": "canter:trudge",
+        "b": "gallop:stroll",
+        "c": "trot:run",
+        "d": "jog:amble"
+      },
+      "one_liner": "'Canter' is a synonym for 'lope', while 'trudge' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

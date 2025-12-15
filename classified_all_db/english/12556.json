@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'imperative':",
+      "options": {
+        "a": "compulsory",
+        "b": "vital",
+        "c": "unnecessary",
+        "d": "mandatory"
+      },
+      "one_liner": "An antonym of 'imperative' is 'unnecessary', which means not required or essential.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

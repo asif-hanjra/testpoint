@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'coarse':",
+      "options": {
+        "a": "rough:polished",
+        "b": "harsh:gentle",
+        "c": "abrasive:smooth",
+        "d": "gritty:refined"
+      },
+      "one_liner": "'Rough' is a synonym of 'coarse', while 'polished' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

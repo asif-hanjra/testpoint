@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'complete':",
+      "options": {
+        "a": "begin",
+        "b": "finalize",
+        "c": "initiate",
+        "d": "commence"
+      },
+      "one_liner": "'Complete' means to finish something fully, making 'finalize' a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

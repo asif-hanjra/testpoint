@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'garner':",
+      "options": {
+        "a": "accumulate:disperse",
+        "b": "collect:squander",
+        "c": "amass:disperse",
+        "d": "gather:spread"
+      },
+      "one_liner": "'Amass' is a synonym of 'garner', while 'disperse' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

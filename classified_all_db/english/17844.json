@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'flounder':",
+      "options": {
+        "a": "bungle:excel",
+        "b": "stumble:advance",
+        "c": "falter:succeed",
+        "d": "struggle:thrive"
+      },
+      "one_liner": "'Bungle' is a synonym of 'flounder', while 'excel' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

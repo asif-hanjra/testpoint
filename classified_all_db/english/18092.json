@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'recede':",
+      "options": {
+        "a": "advance",
+        "b": "approach",
+        "c": "retreat",
+        "d": "progress"
+      },
+      "one_liner": "'Recede' means to move back or withdraw, similar to 'retreat'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

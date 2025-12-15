@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'orthography':",
+      "options": {
+        "a": "spelling:mispronunciation",
+        "b": "grammar:syntax",
+        "c": "handwriting:calligraphy",
+        "d": "pronunciation:etymology"
+      },
+      "one_liner": "'Spelling' is a synonym of 'orthography', while 'mispronunciation' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

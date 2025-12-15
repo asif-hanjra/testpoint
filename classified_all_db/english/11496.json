@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fervent':",
+      "options": {
+        "a": "passionate",
+        "b": "enthusiastic",
+        "c": "lukewarm",
+        "d": "zealous"
+      },
+      "one_liner": "The word 'fervent' suggests intense passion, whereas 'lukewarm' implies a lack of enthusiasm.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

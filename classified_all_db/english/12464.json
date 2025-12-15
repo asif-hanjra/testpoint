@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'jeopardy':",
+      "options": {
+        "a": "safety",
+        "b": "hazard",
+        "c": "certainty",
+        "d": "protection"
+      },
+      "one_liner": "'Jeopardy' refers to danger or peril, so 'hazard' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

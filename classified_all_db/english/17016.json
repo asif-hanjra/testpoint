@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'Benton':",
+      "options": {
+        "a": "Clay",
+        "b": "Carter",
+        "c": "Smith",
+        "d": "None of the above"
+      },
+      "one_liner": "'Benton' is a proper noun and does not have antonyms.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

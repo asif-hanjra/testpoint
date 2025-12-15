@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'adept':",
+      "options": {
+        "a": "inept",
+        "b": "proficient",
+        "c": "skilled",
+        "d": "capable"
+      },
+      "one_liner": "An antonym of 'adept' is 'inept', which means lacking skill or ability.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

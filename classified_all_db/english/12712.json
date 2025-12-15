@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tapestry':",
+      "options": {
+        "a": "arras:bare wall",
+        "b": "carpet:drapery",
+        "c": "blanket:mural",
+        "d": "canvas:fresco"
+      },
+      "one_liner": "'Arras' is a synonym of 'tapestry', while 'bare wall' is its antonym, representing the presence and absence of wall decoration respectively.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

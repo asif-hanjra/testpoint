@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'meticulous':",
+      "options": {
+        "a": "careless",
+        "b": "diligent",
+        "c": "precise",
+        "d": "scrupulous"
+      },
+      "one_liner": "The antonym of 'meticulous' would be 'careless', indicating a lack of attention to detail.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

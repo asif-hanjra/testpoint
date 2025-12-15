@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tangible':",
+      "options": {
+        "a": "material:immaterial",
+        "b": "physical:spiritual",
+        "c": "concrete:abstract",
+        "d": "real:unreal"
+      },
+      "one_liner": "'Material' is a synonym of 'tangible', while 'immaterial' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

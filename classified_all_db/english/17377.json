@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'curb':",
+      "options": {
+        "a": "restrain",
+        "b": "limit",
+        "c": "encourage",
+        "d": "reduce"
+      },
+      "one_liner": "While 'curb' means to limit or control, 'encourage' means to give support or confidence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

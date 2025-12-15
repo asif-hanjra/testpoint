@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'treacherous':",
+      "options": {
+        "a": "dangerous",
+        "b": "deceptive",
+        "c": "safe",
+        "d": "unreliable"
+      },
+      "one_liner": "An antonym of 'treacherous' is 'safe', which means free from danger or risk.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'divulge':",
+      "options": {
+        "a": "conceal",
+        "b": "hide",
+        "c": "reveal",
+        "d": "withhold"
+      },
+      "one_liner": "'Divulge' means to reveal or disclose information—words like 'reveal' and 'disclose' share similar meanings.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

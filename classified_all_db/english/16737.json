@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'shirk':",
+      "options": {
+        "a": "embrace",
+        "b": "evade",
+        "c": "accept",
+        "d": "undertake"
+      },
+      "one_liner": "'Shirk' means to avoid or neglect a duty or responsibility, similar to 'evade' or 'dodge'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

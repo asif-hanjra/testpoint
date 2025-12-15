@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'minuscule':",
+      "options": {
+        "a": "massive",
+        "b": "small",
+        "c": "insignificant",
+        "d": "petite"
+      },
+      "one_liner": "An antonym of 'minuscule' is 'massive', which means very large.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

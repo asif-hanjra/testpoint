@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pluck':",
+      "options": {
+        "a": "fear",
+        "b": "bravery",
+        "c": "cowardice",
+        "d": "retreat"
+      },
+      "one_liner": "'Pluck' means courage or resolve, and a synonym could be 'bravery'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

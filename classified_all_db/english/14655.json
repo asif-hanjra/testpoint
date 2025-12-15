@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'raze':",
+      "options": {
+        "a": "demolish",
+        "b": "construct",
+        "c": "destroy",
+        "d": "wreck"
+      },
+      "one_liner": "The antonym of 'raze' is 'construct', which means to build or create something.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

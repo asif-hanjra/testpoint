@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fill':",
+      "options": {
+        "a": "replenish",
+        "b": "top up",
+        "c": "empty",
+        "d": "saturate"
+      },
+      "one_liner": "Antonyms of 'fill' include 'empty' and 'drain', both implying removal of contents.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

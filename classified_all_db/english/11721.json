@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'antipathy':",
+      "options": {
+        "a": "affection",
+        "b": "aversion",
+        "c": "fondness",
+        "d": "liking"
+      },
+      "one_liner": "'Antipathy' means a deep-seated feeling of dislike; 'aversion' and 'hostility' are synonyms that convey similar sentiments.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'facet':",
+      "options": {
+        "a": "component",
+        "b": "element",
+        "c": "whole",
+        "d": "segment"
+      },
+      "one_liner": "An antonym for 'facet', which means a specific aspect, would be 'whole' representing the entirety rather than a part.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'handy':",
+      "options": {
+        "a": "useful:cumbersome",
+        "b": "convenient:practical",
+        "c": "efficient:inefficient",
+        "d": "helpful:unhelpful"
+      },
+      "one_liner": "'Useful' is a synonym of 'handy', while 'cumbersome' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

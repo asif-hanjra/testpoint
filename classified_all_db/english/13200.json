@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He would enjoy this, ___ he were present.",
+      "options": {
+        "a": "unless",
+        "b": "if",
+        "c": "since",
+        "d": "although"
+      },
+      "one_liner": "He would enjoy this, 'if' he were present.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

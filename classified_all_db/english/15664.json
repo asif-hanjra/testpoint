@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rudimentary':",
+      "options": {
+        "a": "basic:complex",
+        "b": "fundamental:intricate",
+        "c": "elementary:simple",
+        "d": "primitive:advanced"
+      },
+      "one_liner": "'Basic' is a synonym of 'rudimentary', while 'complex' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

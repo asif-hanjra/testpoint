@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ludicrous':",
+      "options": {
+        "a": "sensible",
+        "b": "absurd",
+        "c": "hilarious",
+        "d": "funny"
+      },
+      "one_liner": "The word 'ludicrous' suggests something is laughably absurd, while 'sensible' implies it is reasonable and logical.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

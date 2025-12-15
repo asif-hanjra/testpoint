@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vacillate':",
+      "options": {
+        "a": "resolve",
+        "b": "dither",
+        "c": "falter",
+        "d": "waver"
+      },
+      "one_liner": "The antonym of 'vacillate' is 'resolve', which means to decide firmly on a course of action.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

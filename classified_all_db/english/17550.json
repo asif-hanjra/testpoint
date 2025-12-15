@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pungent':",
+      "options": {
+        "a": "strong:delicate",
+        "b": "harsh:mild",
+        "c": "acrid:sweet",
+        "d": "potent:faint"
+      },
+      "one_liner": "'Strong' is a synonym of 'pungent', while 'delicate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

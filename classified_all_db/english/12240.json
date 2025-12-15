@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'indelible':",
+      "options": {
+        "a": "enduring:fleeting",
+        "b": "permanent:lasting",
+        "c": "unforgettable:memorable",
+        "d": "persistent:transitory"
+      },
+      "one_liner": "'Enduring' is a synonym of 'indelible', while 'fleeting' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

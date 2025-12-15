@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'macerate':",
+      "options": {
+        "a": "dry",
+        "b": "soak",
+        "c": "harden",
+        "d": "burn"
+      },
+      "one_liner": "'Macerate' means to soften or break down, especially by soaking—words like 'soak' and 'steep' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

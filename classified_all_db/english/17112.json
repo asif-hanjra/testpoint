@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'jolly':",
+      "options": {
+        "a": "cheerful",
+        "b": "joyful",
+        "c": "miserable",
+        "d": "delighted"
+      },
+      "one_liner": "The word 'jolly' conveys a sense of happiness, making 'miserable' its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

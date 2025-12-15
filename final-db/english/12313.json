@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exactness':",
+      "options": {
+        "a": "error",
+        "b": "precision",
+        "c": "vagueness",
+        "d": "ambiguity"
+      },
+      "one_liner": "'Exactness' refers to the quality of being very accurate and precise, similar to 'precision'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

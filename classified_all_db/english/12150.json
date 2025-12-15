@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'infallible':",
+      "options": {
+        "a": "impeccable:flawless",
+        "b": "unerring:erroneous",
+        "c": "foolproof:reliable",
+        "d": "perfect:imperfect"
+      },
+      "one_liner": "'Unerring' is a synonym of 'infallible', while 'erroneous' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

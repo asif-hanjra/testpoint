@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'benign':",
+      "options": {
+        "a": "harmless:harmful",
+        "b": "kind:kindly",
+        "c": "gentle:gentle",
+        "d": "friendly:hostile"
+      },
+      "one_liner": "'Harmless' is a synonym of 'benign', while 'harmful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

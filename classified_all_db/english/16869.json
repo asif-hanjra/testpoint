@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'morose':",
+      "options": {
+        "a": "cheerful",
+        "b": "gloomy",
+        "c": "dismal",
+        "d": "dejected"
+      },
+      "one_liner": "The word 'morose' means gloomy, so its antonym would be something like 'cheerful', which means happy and positive.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

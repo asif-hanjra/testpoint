@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'long':",
+      "options": {
+        "a": "extended:brief",
+        "b": "lengthy:long",
+        "c": "prolonged:extended",
+        "d": "short:tiny"
+      },
+      "one_liner": "'Extended' is a synonym for 'long', while 'brief' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

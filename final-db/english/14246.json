@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'belie':",
+      "options": {
+        "a": "clarify",
+        "b": "misrepresent",
+        "c": "reveal",
+        "d": "illuminate"
+      },
+      "one_liner": "'Belie' means to give a false impression or to contradict, so 'misrepresent' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "EXCERPT : TEXT :: MANEUVER : ________?",
+      "options": {
+        "a": "Journey",
+        "b": "Passage",
+        "c": "Exercise",
+        "d": "Book"
+      },
+      "one_liner": "An excerpt is a short passage from a text; an exercise is a physical activity. The analogy implies a relationship between a part and a whole or a type of activity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

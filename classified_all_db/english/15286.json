@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'moral':",
+      "options": {
+        "a": "corrupt",
+        "b": "ethical",
+        "c": "dishonest",
+        "d": "unethical"
+      },
+      "one_liner": "'Moral' refers to principles of right and wrong behavior, similar to 'ethical'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

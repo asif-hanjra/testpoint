@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "HORSE : STABLE :: BOARD : ________?",
+      "options": {
+        "a": "Platform",
+        "b": "Train",
+        "c": "Ticket",
+        "d": "Station"
+      },
+      "one_liner": "A horse is kept in a stable, just as one boards a train.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Analogies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

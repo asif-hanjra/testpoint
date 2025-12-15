@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'disparate':",
+      "options": {
+        "a": "divergent",
+        "b": "distinct",
+        "c": "similar",
+        "d": "varied"
+      },
+      "one_liner": "The antonym of 'disparate' is 'similar', which means closely resembling without being identical.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

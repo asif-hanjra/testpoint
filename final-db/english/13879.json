@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tall':",
+      "options": {
+        "a": "short",
+        "b": "high",
+        "c": "towering",
+        "d": "gigantic"
+      },
+      "one_liner": "The opposite of 'tall' is 'short', which describes something of less than average height.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

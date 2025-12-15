@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'affable':",
+      "options": {
+        "a": "hostile",
+        "b": "amiable",
+        "c": "unpleasant",
+        "d": "rude"
+      },
+      "one_liner": "'Affable' describes someone who is easy to talk to, similar to 'amiable' and 'friendly'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

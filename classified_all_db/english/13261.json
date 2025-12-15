@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exigent':",
+      "options": {
+        "a": "urgent:important",
+        "b": "pressing:trivial",
+        "c": "critical:significant",
+        "d": "imperative:urgent"
+      },
+      "one_liner": "'Pressing' is a synonym for 'exigent', while 'trivial' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

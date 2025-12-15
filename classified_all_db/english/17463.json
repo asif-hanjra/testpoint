@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dumb':",
+      "options": {
+        "a": "mute:eloquent",
+        "b": "silent:vocal",
+        "c": "speechless:articulate",
+        "d": "quiet:loud"
+      },
+      "one_liner": "'Mute' is a synonym of 'dumb', while 'eloquent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

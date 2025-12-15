@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'precursor':",
+      "options": {
+        "a": "forerunner",
+        "b": "herald",
+        "c": "outcome",
+        "d": "antecedent"
+      },
+      "one_liner": "While 'precursor' means something that comes before, an 'outcome' is an antonym that refers to what comes after.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

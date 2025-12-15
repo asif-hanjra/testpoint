@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'illustrate':",
+      "options": {
+        "a": "clarify",
+        "b": "reveal",
+        "c": "obscure",
+        "d": "exhibit"
+      },
+      "one_liner": "An antonym of 'illustrate' is 'obscure', which means to make something less clear or harder to understand.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

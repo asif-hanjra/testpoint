@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'certain':",
+      "options": {
+        "a": "definite",
+        "b": "positive",
+        "c": "doubtful",
+        "d": "assured"
+      },
+      "one_liner": "An antonym of 'certain' is 'doubtful', which conveys a lack of confidence or assurance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

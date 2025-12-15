@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'detach':",
+      "options": {
+        "a": "unhook:connect",
+        "b": "disconnect:link",
+        "c": "separate:combine",
+        "d": "release:attach"
+      },
+      "one_liner": "'Unhook' is a synonym for 'detach', while 'connect' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

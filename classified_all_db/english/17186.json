@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prevalent':",
+      "options": {
+        "a": "dominant:rare",
+        "b": "common:ubiquitous",
+        "c": "widespread:scarce",
+        "d": "frequent:infrequent"
+      },
+      "one_liner": "'Dominant' is a synonym of 'prevalent', while 'rare' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

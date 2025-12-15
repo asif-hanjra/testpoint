@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'antithesis':",
+      "options": {
+        "a": "different",
+        "b": "opposite",
+        "c": "same",
+        "d": "contradictory"
+      },
+      "one_liner": "An antonym of 'antithesis' is 'same', which implies being identical rather than opposite.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

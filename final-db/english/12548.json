@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'carnivore':",
+      "options": {
+        "a": "predator",
+        "b": "herbivore",
+        "c": "scavenger",
+        "d": "omnivore"
+      },
+      "one_liner": "An antonym of 'carnivore' is 'herbivore', which describes an organism that eats only plants.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

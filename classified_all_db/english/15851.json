@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'waver':",
+      "options": {
+        "a": "falter:resolve",
+        "b": "hesitate:steady",
+        "c": "vacillate:persist",
+        "d": "dither:decide"
+      },
+      "one_liner": "'Falter' is a synonym for 'waver', while 'resolve' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

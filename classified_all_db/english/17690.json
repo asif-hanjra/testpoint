@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rear':",
+      "options": {
+        "a": "aft:fore",
+        "b": "hind:front",
+        "c": "back:top",
+        "d": "behind:ahead"
+      },
+      "one_liner": "'Aft' is a synonym of 'rear', while 'fore' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

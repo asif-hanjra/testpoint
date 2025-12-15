@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'petulant':",
+      "options": {
+        "a": "irritable",
+        "b": "sulky",
+        "c": "amiable",
+        "d": "cranky"
+      },
+      "one_liner": "An antonym of 'petulant' is 'amiable', which means friendly and pleasant in contrast to irritable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

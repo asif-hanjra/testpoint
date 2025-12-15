@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "This work is ___ his capacity.",
+      "options": {
+        "a": "under",
+        "b": "beyond",
+        "c": "above",
+        "d": "within"
+      },
+      "one_liner": "This work is 'beyond' his capacity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

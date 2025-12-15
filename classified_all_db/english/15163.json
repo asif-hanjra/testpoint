@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'persuade':",
+      "options": {
+        "a": "convince:deter",
+        "b": "influence:encourage",
+        "c": "urge:urge",
+        "d": "coax:attract"
+      },
+      "one_liner": "'Convince' is a synonym of 'persuade', while 'deter' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'console':",
+      "options": {
+        "a": "upset",
+        "b": "comfort",
+        "c": "reassure",
+        "d": "encourage"
+      },
+      "one_liner": "The opposite of 'console', which means to offer comfort, would be to 'distress' or 'upset' someone.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'infuse':",
+      "options": {
+        "a": "fill",
+        "b": "imbue",
+        "c": "drain",
+        "d": "instill"
+      },
+      "one_liner": "While 'infuse' means to fill or introduce, 'drain' is an antonym as it means to remove or empty.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

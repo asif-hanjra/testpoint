@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cogent':",
+      "options": {
+        "a": "compelling:implausible",
+        "b": "clear:confusing",
+        "c": "persuasive:convincing",
+        "d": "logical:illogical"
+      },
+      "one_liner": "'Compelling' is a synonym of 'cogent', while 'implausible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'amiable':",
+      "options": {
+        "a": "genial:antagonistic",
+        "b": "pleasant:hostile",
+        "c": "cordial:unfriendly",
+        "d": "agreeable:amiable"
+      },
+      "one_liner": "'Genial' is a synonym of 'amiable', while 'antagonistic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

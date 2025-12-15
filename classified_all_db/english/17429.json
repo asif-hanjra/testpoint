@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'enormous':",
+      "options": {
+        "a": "tiny",
+        "b": "gigantic",
+        "c": "small",
+        "d": "minute"
+      },
+      "one_liner": "'Enormous' means extremely large or huge, similar to 'gigantic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

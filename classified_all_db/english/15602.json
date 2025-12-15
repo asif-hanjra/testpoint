@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'give':",
+      "options": {
+        "a": "take",
+        "b": "donate",
+        "c": "refuse",
+        "d": "withhold"
+      },
+      "one_liner": "'Give' means to present voluntarily without expecting anything in return, similar to 'donate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

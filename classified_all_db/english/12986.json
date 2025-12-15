@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ascribe':",
+      "options": {
+        "a": "detach",
+        "b": "impute",
+        "c": "separate",
+        "d": "disconnect"
+      },
+      "one_liner": "'Ascribe' means to attribute or assign, as in 'impute' or 'credit'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

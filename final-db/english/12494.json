@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'apocryphal':",
+      "options": {
+        "a": "authentic",
+        "b": "spurious",
+        "c": "genuine",
+        "d": "real"
+      },
+      "one_liner": "'Apocryphal' stories are often considered 'spurious' or 'fictitious', as they lack authenticity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

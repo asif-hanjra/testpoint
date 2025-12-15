@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'clot':",
+      "options": {
+        "a": "dissolve",
+        "b": "coagulum",
+        "c": "separate",
+        "d": "disperse"
+      },
+      "one_liner": "'Clot' refers to a lump or mass, often of coagulated blood, similar to 'coagulum'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pliable':",
+      "options": {
+        "a": "rigid",
+        "b": "malleable",
+        "c": "stiff",
+        "d": "hard"
+      },
+      "one_liner": "'Pliable' means easily bent or flexible, similar to 'malleable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

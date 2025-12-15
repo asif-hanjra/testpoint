@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'convenient':",
+      "options": {
+        "a": "difficult",
+        "b": "handy",
+        "c": "cumbersome",
+        "d": "unwieldy"
+      },
+      "one_liner": "'Convenient' means easy and suitable to use—words like 'handy' and 'practical' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

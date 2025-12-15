@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'precarious':",
+      "options": {
+        "a": "stable",
+        "b": "hazardous",
+        "c": "certain",
+        "d": "safe"
+      },
+      "one_liner": "'Precarious' means unstable or insecure, similar to 'hazardous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

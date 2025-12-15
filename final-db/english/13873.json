@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'desiccate':",
+      "options": {
+        "a": "hydrate",
+        "b": "drench",
+        "c": "dehydrate",
+        "d": "soak"
+      },
+      "one_liner": "'Desiccate' means to remove moisture or dry out, similar to how 'dehydrate' is used.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

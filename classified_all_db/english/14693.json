@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'annotate':",
+      "options": {
+        "a": "explain:overlook",
+        "b": "comment:review",
+        "c": "gloss:consider",
+        "d": "note:observe"
+      },
+      "one_liner": "'Explain' is a synonym of 'annotate', while 'overlook' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'affliction':",
+      "options": {
+        "a": "tribulation:solace",
+        "b": "comfort:agony",
+        "c": "hardship:ease",
+        "d": "distress:consolation"
+      },
+      "one_liner": "'Tribulation' is a synonym of 'affliction', while 'solace' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

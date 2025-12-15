@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'audacity':",
+      "options": {
+        "a": "fear",
+        "b": "daring",
+        "c": "caution",
+        "d": "timidity"
+      },
+      "one_liner": "'Audacity' refers to the willingness to take bold risks, similar to 'daring'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

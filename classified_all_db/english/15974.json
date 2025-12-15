@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'descry':",
+      "options": {
+        "a": "notice",
+        "b": "observe",
+        "c": "overlook",
+        "d": "see"
+      },
+      "one_liner": "The antonym of 'descry', which means to notice, would be 'overlook', meaning to fail to notice.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

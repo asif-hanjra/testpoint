@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'oculist':",
+      "options": {
+        "a": "optician:non-specialist",
+        "b": "ophthalmologist:eye doctor",
+        "c": "optometrist:specialist",
+        "d": "eye surgeon:general practitioner"
+      },
+      "one_liner": "'Optician' is a synonym for 'oculist', while 'non-specialist' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'officious':",
+      "options": {
+        "a": "helpful",
+        "b": "intrusive",
+        "c": "negligent",
+        "d": "reserved"
+      },
+      "one_liner": "'Officious' describes someone who is overly meddlesome or assertive in offering unwanted help or advice, similar to 'intrusive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ratify':",
+      "options": {
+        "a": "approve",
+        "b": "confirm",
+        "c": "reject",
+        "d": "accept"
+      },
+      "one_liner": "The antonym of 'ratify' is 'reject', which means to refuse to accept or agree to.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

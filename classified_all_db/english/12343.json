@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'emancipate':",
+      "options": {
+        "a": "liberate",
+        "b": "release",
+        "c": "enslave",
+        "d": "free"
+      },
+      "one_liner": "The antonym of 'emancipate' is 'enslave', which means to take away freedom.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

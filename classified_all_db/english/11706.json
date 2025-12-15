@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dazzle':",
+      "options": {
+        "a": "astound:bore",
+        "b": "amaze:dull",
+        "c": "impress:interest",
+        "d": "bedazzle:excite"
+      },
+      "one_liner": "'Astound' is a synonym of 'dazzle', while 'bore' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

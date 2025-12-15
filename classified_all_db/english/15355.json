@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'anachronism':",
+      "options": {
+        "a": "archaic:timely",
+        "b": "relic:current",
+        "c": "throwback:modern",
+        "d": "antique:contemporary"
+      },
+      "one_liner": "'Archaism' is a synonym of 'anachronism', while 'timely' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

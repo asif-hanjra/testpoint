@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'huge':",
+      "options": {
+        "a": "colossal:minuscule",
+        "b": "tiny:enormous",
+        "c": "massive:small",
+        "d": "large:tiny"
+      },
+      "one_liner": "'Colossal' is a synonym for 'huge', while 'minuscule' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

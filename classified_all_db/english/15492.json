@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obligatory':",
+      "options": {
+        "a": "compulsory:discretionary",
+        "b": "required:mandatory",
+        "c": "necessary:needed",
+        "d": "essential:optional"
+      },
+      "one_liner": "'Mandatory' is a synonym of 'obligatory', while 'discretionary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

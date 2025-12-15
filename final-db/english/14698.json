@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'articulate':",
+      "options": {
+        "a": "clear",
+        "b": "coherent",
+        "c": "inarticulate",
+        "d": "expressive"
+      },
+      "one_liner": "The antonym of 'articulate' is 'inarticulate', which describes someone who is not able to express themselves clearly.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

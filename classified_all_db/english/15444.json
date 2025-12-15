@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'assent':",
+      "options": {
+        "a": "dissent",
+        "b": "approval",
+        "c": "agreement",
+        "d": "acceptance"
+      },
+      "one_liner": "An antonym of 'assent' is 'dissent', which means disagreement or refusal.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

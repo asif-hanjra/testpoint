@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'probity':",
+      "options": {
+        "a": "corruption",
+        "b": "integrity",
+        "c": "deceit",
+        "d": "dishonesty"
+      },
+      "one_liner": "'Probity' refers to having strong moral principles, much like 'integrity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

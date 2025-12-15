@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prodigal':",
+      "options": {
+        "a": "thrifty",
+        "b": "extravagant",
+        "c": "frugal",
+        "d": "economical"
+      },
+      "one_liner": "'Prodigal' means wastefully extravagant, so 'extravagant' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Amicus Curiae' translate to in English?",
+      "options": {
+        "a": "In good faith",
+        "b": "Friend of the court",
+        "c": "With full power",
+        "d": "Before the war"
+      },
+      "one_liner": "'Amicus Curiae' refers to someone who is not a party to a case but offers information that bears on the case to assist a court.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

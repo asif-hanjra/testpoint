@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bleak':",
+      "options": {
+        "a": "dreary:radiant",
+        "b": "cheerful:gloomy",
+        "c": "grim:bright",
+        "d": "desolate:cozy"
+      },
+      "one_liner": "'Dreary' is a synonym of 'bleak', while 'radiant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

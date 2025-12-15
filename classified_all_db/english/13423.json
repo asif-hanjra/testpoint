@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exigent':",
+      "options": {
+        "a": "trivial",
+        "b": "critical",
+        "c": "unimportant",
+        "d": "negligible"
+      },
+      "one_liner": "'Exigent' refers to something that is urgent or pressing, similar to 'critical' or 'imperative'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

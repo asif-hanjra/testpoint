@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'serene':",
+      "options": {
+        "a": "noisy",
+        "b": "tranquil",
+        "c": "chaotic",
+        "d": "loud"
+      },
+      "one_liner": "'Serene' means calm and peaceful, much like 'tranquil'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

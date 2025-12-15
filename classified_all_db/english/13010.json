@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vibrate':",
+      "options": {
+        "a": "quiver",
+        "b": "oscillate",
+        "c": "stabilize",
+        "d": "shake"
+      },
+      "one_liner": "Antonyms of 'vibrate' include 'stabilize' and 'still', both implying an absence of movement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

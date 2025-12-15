@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'former':",
+      "options": {
+        "a": "future",
+        "b": "previous",
+        "c": "current",
+        "d": "next"
+      },
+      "one_liner": "'Former' refers to something that was in the past, similar to 'previous' or 'prior'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

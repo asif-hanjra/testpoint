@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'arbitrate':",
+      "options": {
+        "a": "mediate:escalate",
+        "b": "resolve:instigate",
+        "c": "judge:ignore",
+        "d": "adjudicate:provoke"
+      },
+      "one_liner": "'Mediate' is a synonym of 'arbitrate', while 'escalate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

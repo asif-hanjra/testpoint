@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'achieve':",
+      "options": {
+        "a": "neglect",
+        "b": "accomplish",
+        "c": "fail",
+        "d": "forfeit"
+      },
+      "one_liner": "'Achieve' means to successfully reach a desired objective or result, much like 'accomplish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

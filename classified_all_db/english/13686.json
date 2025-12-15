@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bellicose':",
+      "options": {
+        "a": "martial:amicable",
+        "b": "aggressive:peaceful",
+        "c": "warrior:friendly",
+        "d": "hostile:cooperative"
+      },
+      "one_liner": "'Martial' is a synonym of 'bellicose', while 'amicable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

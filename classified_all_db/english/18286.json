@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sufficient':",
+      "options": {
+        "a": "adequate",
+        "b": "enough",
+        "c": "inadequate",
+        "d": "plentiful"
+      },
+      "one_liner": "An antonym of 'sufficient' is 'inadequate', which means not enough or insufficient.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

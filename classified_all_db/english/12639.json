@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'optimum':",
+      "options": {
+        "a": "best",
+        "b": "superior",
+        "c": "worst",
+        "d": "maximum"
+      },
+      "one_liner": "The antonym of 'optimum', which means the most favorable, would be 'worst', indicating the least favorable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

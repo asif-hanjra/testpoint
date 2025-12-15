@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'discreet':",
+      "options": {
+        "a": "careful",
+        "b": "cautious",
+        "c": "indiscreet",
+        "d": "thoughtful"
+      },
+      "one_liner": "Antonyms of 'discreet' include 'indiscreet' and 'careless', both implying a lack of caution or restraint.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

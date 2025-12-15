@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'quiet':",
+      "options": {
+        "a": "silent",
+        "b": "muted",
+        "c": "loud",
+        "d": "hushed"
+      },
+      "one_liner": "Antonyms of 'quiet' include 'noisy' and 'loud', both indicating the presence of sound.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

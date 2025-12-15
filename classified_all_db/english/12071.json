@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'future':",
+      "options": {
+        "a": "subsequent:preceding",
+        "b": "later:earlier",
+        "c": "forthcoming:past",
+        "d": "next:previous"
+      },
+      "one_liner": "'Subsequent' is a synonym of 'future', while 'preceding' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

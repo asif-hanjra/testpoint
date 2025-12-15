@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gullible':",
+      "options": {
+        "a": "trusting",
+        "b": "naive",
+        "c": "skeptical",
+        "d": "credulous"
+      },
+      "one_liner": "The antonym of 'gullible' is 'skeptical', which describes someone who is not easily convinced or who doubts easily.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

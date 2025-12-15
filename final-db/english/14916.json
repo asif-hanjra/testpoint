@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'emancipate':",
+      "options": {
+        "a": "enslave",
+        "b": "enfranchise",
+        "c": "bind",
+        "d": "imprison"
+      },
+      "one_liner": "'Emancipate' means to set free or liberate, similar to 'release' or 'enfranchise'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'burgeon':",
+      "options": {
+        "a": "diminish",
+        "b": "flourish",
+        "c": "wither",
+        "d": "decline"
+      },
+      "one_liner": "'Burgeon' means to grow or increase rapidly, so 'flourish' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

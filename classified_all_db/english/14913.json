@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'spendthrift':",
+      "options": {
+        "a": "frugal",
+        "b": "thrifty",
+        "c": "prodigal",
+        "d": "economical"
+      },
+      "one_liner": "'Spendthrift' refers to someone who spends money recklessly, similar to a 'prodigal'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

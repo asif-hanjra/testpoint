@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'prohibit':",
+      "options": {
+        "a": "restrict",
+        "b": "permit",
+        "c": "ban",
+        "d": "block"
+      },
+      "one_liner": "While 'prohibit' means to forbid, 'permit' is its antonym, meaning to allow.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

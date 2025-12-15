@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'evanescent':",
+      "options": {
+        "a": "fleeting",
+        "b": "enduring",
+        "c": "momentary",
+        "d": "ephemeral"
+      },
+      "one_liner": "An antonym of 'evanescent' is 'enduring', which means lasting over a period of time.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

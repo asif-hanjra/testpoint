@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nag':",
+      "options": {
+        "a": "ignore",
+        "b": "pester",
+        "c": "praise",
+        "d": "support"
+      },
+      "one_liner": "'Nag' means to annoy or irritate persistently, similar to 'pester' or 'badger'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

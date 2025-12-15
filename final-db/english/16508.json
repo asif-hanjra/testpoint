@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'endorse':",
+      "options": {
+        "a": "authorize:reject",
+        "b": "approve:veto",
+        "c": "confirm:disapprove",
+        "d": "sanction:accept"
+      },
+      "one_liner": "'Approve' is a synonym of 'endorse', while 'veto' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

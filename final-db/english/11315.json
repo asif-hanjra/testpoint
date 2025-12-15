@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'judicious':",
+      "options": {
+        "a": "rational",
+        "b": "sensible",
+        "c": "imprudent",
+        "d": "astute"
+      },
+      "one_liner": "The opposite of 'judicious', which means showing good judgment, would be 'imprudent' or 'irrational'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

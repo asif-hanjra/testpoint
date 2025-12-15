@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'skiff':",
+      "options": {
+        "a": "yacht",
+        "b": "dinghy",
+        "c": "cruiser",
+        "d": "liner"
+      },
+      "one_liner": "'Skiff' refers to a small boat, similar to a 'dinghy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

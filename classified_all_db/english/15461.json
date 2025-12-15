@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "His father passed ___ last night.",
+      "options": {
+        "a": "off",
+        "b": "away",
+        "c": "out",
+        "d": "by"
+      },
+      "one_liner": "His father passed 'away' last night.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

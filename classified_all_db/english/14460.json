@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wealth':",
+      "options": {
+        "a": "poverty",
+        "b": "affluence",
+        "c": "debt",
+        "d": "deficiency"
+      },
+      "one_liner": "'Wealth' refers to an abundance of valuable possessions or money, similar to 'affluence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

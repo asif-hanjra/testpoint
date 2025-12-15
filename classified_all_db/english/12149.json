@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'economize':",
+      "options": {
+        "a": "save",
+        "b": "conserve",
+        "c": "squander",
+        "d": "accumulate"
+      },
+      "one_liner": "Antonyms of 'economize' include 'squander' and 'waste', both implying the opposite of saving resources.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

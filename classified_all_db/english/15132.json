@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'intricate':",
+      "options": {
+        "a": "simple",
+        "b": "complicated",
+        "c": "straightforward",
+        "d": "clear"
+      },
+      "one_liner": "'Intricate' describes something very complex or detailed, similar to 'complicated'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

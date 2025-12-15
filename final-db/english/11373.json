@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'parity':",
+      "options": {
+        "a": "uniformity",
+        "b": "similarity",
+        "c": "disparity",
+        "d": "equivalence"
+      },
+      "one_liner": "An antonym of 'parity' is 'disparity', which means a lack of equality or difference.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

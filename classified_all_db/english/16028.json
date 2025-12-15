@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'redeem':",
+      "options": {
+        "a": "squander",
+        "b": "reclaim",
+        "c": "forfeit",
+        "d": "lose"
+      },
+      "one_liner": "'Redeem' can mean to recover or regain something, similar to 'reclaim'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

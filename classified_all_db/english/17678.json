@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cheeky':",
+      "options": {
+        "a": "sassy:deferential",
+        "b": "bold:shy",
+        "c": "impolite:polite",
+        "d": "rude:respectful"
+      },
+      "one_liner": "'Sassy' is a synonym of 'cheeky', while 'deferential' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

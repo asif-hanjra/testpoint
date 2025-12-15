@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'piece of cake' refer to?",
+      "options": {
+        "a": "A dessert served at a party",
+        "b": "Something very easy to accomplish",
+        "c": "A reward for good behavior",
+        "d": "A slice of cake that is missing"
+      },
+      "one_liner": "The idiom 'piece of cake' is used to describe a task or activity that is very easy to complete or accomplish.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

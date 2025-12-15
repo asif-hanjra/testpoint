@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'leaven':",
+      "options": {
+        "a": "flatten",
+        "b": "ferment",
+        "c": "stagnate",
+        "d": "compress"
+      },
+      "one_liner": "'Leaven' means to add a substance to dough to make it rise, similar to 'ferment'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'follow':",
+      "options": {
+        "a": "lead",
+        "b": "pursue",
+        "c": "precede",
+        "d": "initiate"
+      },
+      "one_liner": "'Follow' means to come after something or someone, similar to 'pursue' or 'trail'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

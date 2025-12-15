@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conjure':",
+      "options": {
+        "a": "banish",
+        "b": "evoke",
+        "c": "invoke",
+        "d": "summon"
+      },
+      "one_liner": "An antonym of 'conjure' is 'banish', which means to send something away.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

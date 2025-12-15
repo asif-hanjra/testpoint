@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'oligarchy':",
+      "options": {
+        "a": "autocracy",
+        "b": "monarchy",
+        "c": "democracy",
+        "d": "dictatorship"
+      },
+      "one_liner": "An antonym of 'oligarchy' is 'democracy', which is a system of government by the whole population.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'advice':",
+      "options": {
+        "a": "suggestion:information",
+        "b": "guidance:disinformation",
+        "c": "counsel:truth",
+        "d": "recommendation:disinformation"
+      },
+      "one_liner": "'Recommendation' is a synonym of 'advice', while 'disinformation' is its antonym.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

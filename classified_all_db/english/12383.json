@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'remote':",
+      "options": {
+        "a": "distant",
+        "b": "far",
+        "c": "isolated",
+        "d": "nearby"
+      },
+      "one_liner": "An antonym of 'remote' is 'nearby', which means close in distance.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

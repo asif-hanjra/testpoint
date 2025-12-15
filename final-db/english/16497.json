@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'long':",
+      "options": {
+        "a": "short",
+        "b": "lengthy",
+        "c": "brief",
+        "d": "tiny"
+      },
+      "one_liner": "'Long' can mean extended in duration or length, similar to 'lengthy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

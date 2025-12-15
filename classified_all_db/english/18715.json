@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dearth':",
+      "options": {
+        "a": "abundance",
+        "b": "paucity",
+        "c": "plenty",
+        "d": "surplus"
+      },
+      "one_liner": "'Dearth' means a scarcity or lack of something, similar to 'paucity' or 'shortage'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

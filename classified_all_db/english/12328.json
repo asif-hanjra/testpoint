@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fluke':",
+      "options": {
+        "a": "skill",
+        "b": "fortuity",
+        "c": "hard work",
+        "d": "practice"
+      },
+      "one_liner": "'Fluke' refers to a stroke of luck, similar to 'fortuity' or 'serendipity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

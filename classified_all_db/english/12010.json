@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'open':",
+      "options": {
+        "a": "closed",
+        "b": "unlocked",
+        "c": "sealed",
+        "d": "blocked"
+      },
+      "one_liner": "'Open' can mean accessible or not closed, similar to 'unlocked' or 'unsealed'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'commence':",
+      "options": {
+        "a": "finish",
+        "b": "initiate",
+        "c": "halt",
+        "d": "cease"
+      },
+      "one_liner": "'Commence' means to begin or start, similar to 'initiate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

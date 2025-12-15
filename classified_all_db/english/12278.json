@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'grizzly':",
+      "options": {
+        "a": "ghastly:pleasant",
+        "b": "comforting:terrifying",
+        "c": "horrific:delightful",
+        "d": "frightening:cheerful"
+      },
+      "one_liner": "'Ghastly' is a synonym of 'grizzly', while 'pleasant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

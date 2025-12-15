@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'defend':",
+      "options": {
+        "a": "safeguard:assail",
+        "b": "protect:preserve",
+        "c": "guard:support",
+        "d": "shield:shield"
+      },
+      "one_liner": "'Safeguard' is a synonym of 'defend', while 'assail' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

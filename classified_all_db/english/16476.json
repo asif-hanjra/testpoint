@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dangerous':",
+      "options": {
+        "a": "risky:harmless",
+        "b": "hazardous:secure",
+        "c": "perilous:harmless",
+        "d": "unsafe:safe"
+      },
+      "one_liner": "'Perilous' is a synonym of 'dangerous', while 'harmless' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

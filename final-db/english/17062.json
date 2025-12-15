@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'averse':",
+      "options": {
+        "a": "fond",
+        "b": "antipathetic",
+        "c": "keen",
+        "d": "eager"
+      },
+      "one_liner": "'Averse' means having a strong dislike or opposition to something, similar to 'antipathetic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

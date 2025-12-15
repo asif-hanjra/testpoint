@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'latent':",
+      "options": {
+        "a": "hidden",
+        "b": "obscure",
+        "c": "manifest",
+        "d": "concealed"
+      },
+      "one_liner": "An antonym of 'latent' is 'manifest', which means clear or obvious, the opposite of hidden.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

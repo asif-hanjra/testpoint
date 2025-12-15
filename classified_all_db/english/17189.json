@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'epithet':",
+      "options": {
+        "a": "label",
+        "b": "nickname",
+        "c": "title",
+        "d": "moniker"
+      },
+      "one_liner": "'Epithet' refers to a descriptive phrase expressing a quality of the person or thing mentioned, similar to 'nickname' or 'sobriquet'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

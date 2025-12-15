@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'economy':",
+      "options": {
+        "a": "frugality:prodigality",
+        "b": "saving:waste",
+        "c": "thrift:excess",
+        "d": "conservation:splurge"
+      },
+      "one_liner": "'Frugality' is a synonym of 'economy', while 'prodigality' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

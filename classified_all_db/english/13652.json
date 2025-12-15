@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'early':",
+      "options": {
+        "a": "late",
+        "b": "soon",
+        "c": "prompt",
+        "d": "quick"
+      },
+      "one_liner": "The antonym of 'early' is 'late', which means after the expected or usual time.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

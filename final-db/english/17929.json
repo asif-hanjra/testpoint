@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dark':",
+      "options": {
+        "a": "gloomy",
+        "b": "dismal",
+        "c": "bright",
+        "d": "murky"
+      },
+      "one_liner": "The opposite of 'dark', implying the presence of light, would be 'bright' or 'luminous'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

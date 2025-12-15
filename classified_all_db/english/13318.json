@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the phrase 'to drive home':",
+      "options": {
+        "a": "to emphasize",
+        "b": "to highlight",
+        "c": "to downplay",
+        "d": "to underscore"
+      },
+      "one_liner": "If you're trying to 'drive home' a point, you're not trying to 'downplay' or minimize its importance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

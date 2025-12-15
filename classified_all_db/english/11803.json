@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prune':",
+      "options": {
+        "a": "expand",
+        "b": "clip",
+        "c": "grow",
+        "d": "inflate"
+      },
+      "one_liner": "'Prune' means to trim or cut away—words like 'clip' and 'snip' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

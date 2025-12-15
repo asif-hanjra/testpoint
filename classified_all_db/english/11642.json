@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'flippant':",
+      "options": {
+        "a": "serious",
+        "b": "frivolous",
+        "c": "respectful",
+        "d": "solemn"
+      },
+      "one_liner": "'Flippant' describes a disrespectful or non-serious attitude, much like 'frivolous' or 'facetious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

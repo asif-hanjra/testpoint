@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'win':",
+      "options": {
+        "a": "lose",
+        "b": "triumph",
+        "c": "fail",
+        "d": "surrender"
+      },
+      "one_liner": "'Win' means to achieve victory, similar to 'triumph'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'detest':",
+      "options": {
+        "a": "enjoy",
+        "b": "loathe",
+        "c": "admire",
+        "d": "cherish"
+      },
+      "one_liner": "'Detest' means to dislike intensely, similar to 'loathe'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

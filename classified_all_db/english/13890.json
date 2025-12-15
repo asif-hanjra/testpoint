@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'piquant':",
+      "options": {
+        "a": "bland",
+        "b": "zesty",
+        "c": "dull",
+        "d": "insipid"
+      },
+      "one_liner": "'Piquant' means having a pleasantly sharp taste or appetizing flavor—words like 'zesty' and 'tangy' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

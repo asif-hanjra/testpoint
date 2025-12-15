@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'banter':",
+      "options": {
+        "a": "argument",
+        "b": "repartee",
+        "c": "lecture",
+        "d": "soliloquy"
+      },
+      "one_liner": "'Banter' refers to playful and friendly exchange of teasing remarks, similar to 'repartee'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

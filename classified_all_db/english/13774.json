@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vigor':",
+      "options": {
+        "a": "lethargy",
+        "b": "vitality",
+        "c": "weakness",
+        "d": "fatigue"
+      },
+      "one_liner": "'Vigor' implies robust energy and strength, much like 'vitality'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

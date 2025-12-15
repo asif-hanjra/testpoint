@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'amid':",
+      "options": {
+        "a": "within",
+        "b": "between",
+        "c": "outside",
+        "d": "among"
+      },
+      "one_liner": "An antonym of 'amid' is 'outside', which means not within or among.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

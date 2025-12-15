@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'philanthropist':",
+      "options": {
+        "a": "benefactor",
+        "b": "humanitarian",
+        "c": "misanthrope",
+        "d": "donor"
+      },
+      "one_liner": "An antonym of 'philanthropist' is 'misanthrope', someone who dislikes humankind and avoids human society.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

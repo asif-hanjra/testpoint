@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pervade':",
+      "options": {
+        "a": "suffuse:deplete",
+        "b": "imbue:enhance",
+        "c": "permeate:concentrate",
+        "d": "infuse:infuse"
+      },
+      "one_liner": "'Suffuse' is a synonym of 'pervade', while 'deplete' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

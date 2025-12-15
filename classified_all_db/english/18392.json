@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Will you wait ___ I return?",
+      "options": {
+        "a": "for",
+        "b": "till",
+        "c": "since",
+        "d": "by"
+      },
+      "one_liner": "Will you wait 'till' I return?",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

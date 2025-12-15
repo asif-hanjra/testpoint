@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'neuralgia':",
+      "options": {
+        "a": "neuritis:relief",
+        "b": "pain:pleasure",
+        "c": "ache:ease",
+        "d": "discomfort:comfort"
+      },
+      "one_liner": "'Neuritis' is a synonym for 'neuralgia', while 'relief' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pervade':",
+      "options": {
+        "a": "drain",
+        "b": "saturate",
+        "c": "diffuse",
+        "d": "spread"
+      },
+      "one_liner": "An antonym of 'pervade' is 'drain', which suggests leaving or being removed from, rather than spreading throughout.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

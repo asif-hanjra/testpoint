@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tarnish':",
+      "options": {
+        "a": "enhance",
+        "b": "deteriorate",
+        "c": "corrode",
+        "d": "disfigure"
+      },
+      "one_liner": "The word 'tarnish' implies deterioration, while 'enhance' suggests improvement, making them antonyms.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

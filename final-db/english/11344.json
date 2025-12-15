@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'normal':",
+      "options": {
+        "a": "extraordinary",
+        "b": "ordinary",
+        "c": "peculiar",
+        "d": "uncommon"
+      },
+      "one_liner": "'Normal' refers to something that is standard or usual, much like the word 'ordinary'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

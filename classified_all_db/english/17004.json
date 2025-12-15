@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'yearn':",
+      "options": {
+        "a": "desire",
+        "b": "crave",
+        "c": "spurn",
+        "d": "seek"
+      },
+      "one_liner": "The opposite of 'yearn', which is to have a strong desire, would be to 'spurn' or reject.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

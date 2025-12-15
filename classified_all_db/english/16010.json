@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abhorrence':",
+      "options": {
+        "a": "affection",
+        "b": "loathing",
+        "c": "admiration",
+        "d": "fondness"
+      },
+      "one_liner": "'Abhorrence' means intense dislike or disgust, similar to 'loathing'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

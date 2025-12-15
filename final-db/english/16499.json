@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'peccadillo':",
+      "options": {
+        "a": "felony",
+        "b": "misdemeanor",
+        "c": "virtue",
+        "d": "achievement"
+      },
+      "one_liner": "'Peccadillo' refers to a minor offense or sin, similar to 'misdemeanor' or 'infraction'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

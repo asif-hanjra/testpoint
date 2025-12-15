@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'evict':",
+      "options": {
+        "a": "welcome",
+        "b": "oust",
+        "c": "invite",
+        "d": "harbor"
+      },
+      "one_liner": "'Evict' means to legally force someone to leave a property—words like 'expel' and 'oust' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

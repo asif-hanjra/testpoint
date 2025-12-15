@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fatal':",
+      "options": {
+        "a": "harmless",
+        "b": "lethal",
+        "c": "safe",
+        "d": "benign"
+      },
+      "one_liner": "'Fatal' means causing death or disaster, similar to 'lethal' and 'deadly'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

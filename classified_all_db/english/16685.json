@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'taut':",
+      "options": {
+        "a": "rigid",
+        "b": "firm",
+        "c": "slack",
+        "d": "stiff"
+      },
+      "one_liner": "The antonym of 'taut' is 'slack', which means not tight or loose.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'insane':",
+      "options": {
+        "a": "sane",
+        "b": "crazy",
+        "c": "lunatic",
+        "d": "deranged"
+      },
+      "one_liner": "The antonym of 'insane' is 'sane', which means mentally healthy or reasonable.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

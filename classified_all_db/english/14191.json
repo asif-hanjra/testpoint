@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'barren':",
+      "options": {
+        "a": "fertile",
+        "b": "sterile",
+        "c": "arid",
+        "d": "infertile"
+      },
+      "one_liner": "The antonym of 'barren' is 'fertile', indicating land that is capable of producing abundant vegetation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

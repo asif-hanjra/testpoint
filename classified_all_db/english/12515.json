@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'considerate':",
+      "options": {
+        "a": "kind:rude",
+        "b": "careful:careless",
+        "c": "gentle:harsh",
+        "d": "attentive:neglectful"
+      },
+      "one_liner": "'Kind' is a synonym of 'considerate', while 'rude' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

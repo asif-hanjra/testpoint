@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abdicate':",
+      "options": {
+        "a": "assume",
+        "b": "forsake",
+        "c": "resign",
+        "d": "quit"
+      },
+      "one_liner": "An antonym for 'abdicate' is 'assume', which means to take on or begin to have responsibility or control.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

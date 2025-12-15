@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'euphoric':",
+      "options": {
+        "a": "elated:despondent",
+        "b": "miserable:joyful",
+        "c": "happy:sad",
+        "d": "cheerful:depressed"
+      },
+      "one_liner": "'Elated' is a synonym of 'euphoric', while 'despondent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

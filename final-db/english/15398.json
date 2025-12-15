@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'incessant':",
+      "options": {
+        "a": "unending",
+        "b": "continuous",
+        "c": "sporadic",
+        "d": "relentless"
+      },
+      "one_liner": "Antonyms of 'incessant' include 'intermittent' and 'sporadic', both implying occurrences at irregular intervals.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

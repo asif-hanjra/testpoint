@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exceptional':",
+      "options": {
+        "a": "extraordinary",
+        "b": "incredible",
+        "c": "average",
+        "d": "fantastic"
+      },
+      "one_liner": "Antonyms of 'exceptional' include 'ordinary' and 'average', both implying something that is not out of the ordinary.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

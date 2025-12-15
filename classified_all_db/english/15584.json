@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'open':",
+      "options": {
+        "a": "accessible:restricted",
+        "b": "closed:unlocked",
+        "c": "ajar:sealed",
+        "d": "unsealed:blocked"
+      },
+      "one_liner": "'Accessible' is a synonym of 'open', while 'restricted' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

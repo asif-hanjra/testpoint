@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vindicate':",
+      "options": {
+        "a": "justify:impugn",
+        "b": "exculpate:validate",
+        "c": "absolve:accuse",
+        "d": "clear:confirm"
+      },
+      "one_liner": "'Justify' is a synonym for 'vindicate', while 'impugn' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'spendthrift':",
+      "options": {
+        "a": "extravagant",
+        "b": "frugal",
+        "c": "generous",
+        "d": "lavish"
+      },
+      "one_liner": "A 'spendthrift' is the opposite of someone who is 'frugal', as they tend to be wasteful with money.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

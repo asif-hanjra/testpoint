@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'avid':",
+      "options": {
+        "a": "eager:dispassionate",
+        "b": "passionate:enthusiastic",
+        "c": "zealous:keen",
+        "d": "ardent:eager"
+      },
+      "one_liner": "'Eager' is a synonym of 'avid', while 'dispassionate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

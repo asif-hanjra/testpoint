@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gain':",
+      "options": {
+        "a": "loss",
+        "b": "advance",
+        "c": "decline",
+        "d": "reduce"
+      },
+      "one_liner": "'Gain' means to acquire or increase, similar to 'profit' or 'advance'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

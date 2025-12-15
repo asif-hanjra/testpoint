@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'detach':",
+      "options": {
+        "a": "attach",
+        "b": "disengage",
+        "c": "combine",
+        "d": "link"
+      },
+      "one_liner": "'Detach' means to separate or disconnect, similar to 'disengage' or 'unfasten'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

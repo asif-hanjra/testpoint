@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'neglect':",
+      "options": {
+        "a": "ignore",
+        "b": "forget",
+        "c": "maintain",
+        "d": "overlook"
+      },
+      "one_liner": "The antonym of 'neglect' is 'maintain', which means to keep in an existing state or preserve from failure or decline.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'epistemology':",
+      "options": {
+        "a": "wisdom",
+        "b": "awareness",
+        "c": "ignorance",
+        "d": "education"
+      },
+      "one_liner": "While 'epistemology' deals with the nature of knowledge, 'ignorance' signifies a lack of knowledge.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

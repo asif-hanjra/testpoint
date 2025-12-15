@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'authentic':",
+      "options": {
+        "a": "fake",
+        "b": "genuine",
+        "c": "fraudulent",
+        "d": "imitation"
+      },
+      "one_liner": "'Authentic' means genuine or real, similar to 'genuine' and 'bona fide'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

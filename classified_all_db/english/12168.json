@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'indict':",
+      "options": {
+        "a": "charge:acquit",
+        "b": "arraign:exonerate",
+        "c": "prosecute:absolve",
+        "d": "accuse:clear"
+      },
+      "one_liner": "'Charge' is a synonym of 'indict', while 'acquit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exceptional':",
+      "options": {
+        "a": "ordinary",
+        "b": "remarkable",
+        "c": "mediocre",
+        "d": "average"
+      },
+      "one_liner": "'Exceptional' means outstanding or extraordinary, words like 'remarkable' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

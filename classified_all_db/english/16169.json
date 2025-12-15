@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'determined':",
+      "options": {
+        "a": "indecisive",
+        "b": "resolute",
+        "c": "persistent",
+        "d": "steadfast"
+      },
+      "one_liner": "An antonym of 'determined' is 'indecisive', which means not having or showing the ability to make decisions quickly and effectively.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

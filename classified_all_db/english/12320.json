@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'different':",
+      "options": {
+        "a": "distinct:identical",
+        "b": "diverse:similar",
+        "c": "unique:alike",
+        "d": "varied:equivalent"
+      },
+      "one_liner": "'Distinct' is a synonym of 'different', while 'identical' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

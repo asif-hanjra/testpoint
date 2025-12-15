@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'explicit':",
+      "options": {
+        "a": "direct:obscure",
+        "b": "clear:ambiguous",
+        "c": "distinct:vague",
+        "d": "obvious:implied"
+      },
+      "one_liner": "'Direct' is a synonym of 'explicit', while 'obscure' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'contend':",
+      "options": {
+        "a": "compete:acquiesce",
+        "b": "vie:contest",
+        "c": "struggle:compete",
+        "d": "challenge:agree"
+      },
+      "one_liner": "'Compete' is a synonym of 'contend', while 'acquiesce' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

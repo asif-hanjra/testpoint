@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rudimentary':",
+      "options": {
+        "a": "advanced",
+        "b": "primitive",
+        "c": "complicated",
+        "d": "intricate"
+      },
+      "one_liner": "'Rudimentary' refers to something basic or elementary, similar to 'primitive' or 'fundamental'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

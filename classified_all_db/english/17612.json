@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'atrocity':",
+      "options": {
+        "a": "kindness",
+        "b": "barbarity",
+        "c": "gentleness",
+        "d": "mercy"
+      },
+      "one_liner": "'Atrocity' refers to an extremely wicked or cruel act, similar to 'barbarity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

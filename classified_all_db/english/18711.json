@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'foment':",
+      "options": {
+        "a": "quell",
+        "b": "incite",
+        "c": "pacify",
+        "d": "soothe"
+      },
+      "one_liner": "'Foment' means to instigate or stir up, similar to 'incite' or 'agitate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

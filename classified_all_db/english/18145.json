@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sordid':",
+      "options": {
+        "a": "wholesome",
+        "b": "dirty",
+        "c": "nasty",
+        "d": "corrupt"
+      },
+      "one_liner": "The word 'sordid' implies dirtiness and immorality, making 'wholesome' its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

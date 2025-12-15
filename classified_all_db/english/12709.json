@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'racket':",
+      "options": {
+        "a": "commotion:tranquility",
+        "b": "noise:harmony",
+        "c": "pandemonium:peace",
+        "d": "clamor:quiet"
+      },
+      "one_liner": "'Commotion' is a synonym for 'racket', while 'tranquility' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

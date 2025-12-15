@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'achieve':",
+      "options": {
+        "a": "attain:forfeit",
+        "b": "accomplish:succeed",
+        "c": "complete:fail",
+        "d": "realize:keep"
+      },
+      "one_liner": "'Attain' is a synonym of 'achieve', while 'forfeit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

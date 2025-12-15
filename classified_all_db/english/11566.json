@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'epistemology':",
+      "options": {
+        "a": "theory of knowledge:ignorance",
+        "b": "philosophy:awareness",
+        "c": "ethics:education",
+        "d": "metaphysics:wisdom"
+      },
+      "one_liner": "'Theory of knowledge' is a synonym for 'epistemology', while 'ignorance' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

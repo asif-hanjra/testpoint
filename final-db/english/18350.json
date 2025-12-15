@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'aptitude':",
+      "options": {
+        "a": "indifference",
+        "b": "capability",
+        "c": "disinterest",
+        "d": "apathy"
+      },
+      "one_liner": "'Aptitude' refers to a natural ability or talent, similar to 'capability' or 'knack'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

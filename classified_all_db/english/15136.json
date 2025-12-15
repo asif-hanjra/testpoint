@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wan':",
+      "options": {
+        "a": "pale",
+        "b": "sickly",
+        "c": "ruddy",
+        "d": "ashen"
+      },
+      "one_liner": "The antonym of 'wan', which means pale and sickly, would be 'ruddy', indicating a healthy red complexion.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'transparent':",
+      "options": {
+        "a": "opaque",
+        "b": "translucent",
+        "c": "cloudy",
+        "d": "obscure"
+      },
+      "one_liner": "'Transparent' means clear or see-through, similar to 'translucent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

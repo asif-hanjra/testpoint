@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dirge':",
+      "options": {
+        "a": "paean",
+        "b": "requiem",
+        "c": "threnody",
+        "d": "lament"
+      },
+      "one_liner": "An antonym of 'dirge' would be 'paean', which is a song of praise or triumph.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

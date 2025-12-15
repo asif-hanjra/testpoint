@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vituperate':",
+      "options": {
+        "a": "praise",
+        "b": "castigate",
+        "c": "compliment",
+        "d": "applaud"
+      },
+      "one_liner": "'Vituperate' means to criticize harshly or berate, similar to 'castigate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

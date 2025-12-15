@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ornate':",
+      "options": {
+        "a": "lavish:austere",
+        "b": "fancy:simple",
+        "c": "elaborate:ornate",
+        "d": "decorated:bare"
+      },
+      "one_liner": "'Lavish' is a synonym of 'ornate', while 'austere' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

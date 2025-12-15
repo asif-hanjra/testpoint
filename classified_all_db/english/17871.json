@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conscript':",
+      "options": {
+        "a": "draftee:volunteer",
+        "b": "enlistee:mercenary",
+        "c": "recruit:professional",
+        "d": "cadet:volunteer"
+      },
+      "one_liner": "'Draftee' is a synonym of 'conscript', while 'volunteer' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

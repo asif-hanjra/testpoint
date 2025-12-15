@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'contraband':",
+      "options": {
+        "a": "illicit:authorized",
+        "b": "forbidden:permitted",
+        "c": "illegal:lawful",
+        "d": "smuggled:allowed"
+      },
+      "one_liner": "'Illicit' is a synonym of 'contraband', while 'authorized' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

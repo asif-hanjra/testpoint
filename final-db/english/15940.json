@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'demote':",
+      "options": {
+        "a": "promote",
+        "b": "reduce",
+        "c": "degrade",
+        "d": "lower"
+      },
+      "one_liner": "An antonym of 'demote' is 'promote', which means to raise to a higher rank or position.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

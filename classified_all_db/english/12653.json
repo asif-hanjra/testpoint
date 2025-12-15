@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'din':",
+      "options": {
+        "a": "whisper",
+        "b": "clamor",
+        "c": "silence",
+        "d": "murmur"
+      },
+      "one_liner": "'Din' refers to a loud, unpleasant, and prolonged noise, much like 'racket' or 'clamor'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

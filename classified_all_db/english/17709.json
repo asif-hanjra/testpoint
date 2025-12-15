@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'synthetic':",
+      "options": {
+        "a": "fabricated",
+        "b": "natural",
+        "c": "fictitious",
+        "d": "man-made"
+      },
+      "one_liner": "The antonym of 'synthetic' is 'natural', which refers to substances not made by humans.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

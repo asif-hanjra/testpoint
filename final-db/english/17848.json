@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dreadful':",
+      "options": {
+        "a": "atrocious:excellent",
+        "b": "awful:amazing",
+        "c": "horrible:horrendous",
+        "d": "terrifying:terrific"
+      },
+      "one_liner": "'Atrocious' is a synonym of 'dreadful', while 'excellent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

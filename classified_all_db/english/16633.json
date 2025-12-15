@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'damage':",
+      "options": {
+        "a": "repair",
+        "b": "destruction",
+        "c": "benefit",
+        "d": "improvement"
+      },
+      "one_liner": "'Damage' implies harm or injury, similar to 'destruction' or 'harm'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

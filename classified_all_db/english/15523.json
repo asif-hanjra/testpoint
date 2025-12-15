@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fanatical':",
+      "options": {
+        "a": "indifferent",
+        "b": "obsessive",
+        "c": "dispassionate",
+        "d": "apathetic"
+      },
+      "one_liner": "'Fanatical' implies being excessively enthusiastic or zealous, much like being 'obsessive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

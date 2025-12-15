@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'eccentric':",
+      "options": {
+        "a": "normal",
+        "b": "bizarre",
+        "c": "weird",
+        "d": "peculiar"
+      },
+      "one_liner": "Antonyms of 'eccentric' include 'normal' and 'conventional', both suggesting something that is usual or expected.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

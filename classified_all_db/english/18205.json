@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'virtuous':",
+      "options": {
+        "a": "corrupt",
+        "b": "righteous",
+        "c": "deceitful",
+        "d": "wicked"
+      },
+      "one_liner": "'Virtuous' describes someone with high moral standards, similar to 'righteous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

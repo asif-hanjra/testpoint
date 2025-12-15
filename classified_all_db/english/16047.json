@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'scent':",
+      "options": {
+        "a": "aroma",
+        "b": "fragrance",
+        "c": "odorless",
+        "d": "perfume"
+      },
+      "one_liner": "An antonym of 'scent' is 'odorless', which means having no smell at all.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

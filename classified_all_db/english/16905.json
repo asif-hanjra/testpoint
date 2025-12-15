@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deter':",
+      "options": {
+        "a": "encourage",
+        "b": "dissuade",
+        "c": "permit",
+        "d": "assist"
+      },
+      "one_liner": "'Deter' means to discourage or prevent from taking action, similar to 'discourage' or 'dissuade'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

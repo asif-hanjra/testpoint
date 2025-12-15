@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reverberate':",
+      "options": {
+        "a": "whisper",
+        "b": "resonate",
+        "c": "murmur",
+        "d": "hush"
+      },
+      "one_liner": "'Reverberate' means to echo or resound—words like 'resonate' and 'echo' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

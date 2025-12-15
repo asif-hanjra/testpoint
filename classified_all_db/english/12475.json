@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'spine':",
+      "options": {
+        "a": "rigidity",
+        "b": "stiffness",
+        "c": "flexibility",
+        "d": "hardness"
+      },
+      "one_liner": "The 'spine' is a rigid structure, so something like 'flexibility' would be its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

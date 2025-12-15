@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wrath':",
+      "options": {
+        "a": "delight",
+        "b": "fury",
+        "c": "pleasure",
+        "d": "joy"
+      },
+      "one_liner": "'Wrath' is synonymous with intense anger, similar to 'fury' or 'rage'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

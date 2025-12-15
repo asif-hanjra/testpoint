@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'oculist':",
+      "options": {
+        "a": "general practitioner",
+        "b": "optometrist",
+        "c": "ophthalmologist",
+        "d": "eye surgeon"
+      },
+      "one_liner": "An 'oculist' is a specialist in eye care, whereas a 'general practitioner' is not specialized in any particular field of medicine.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'buttress':",
+      "options": {
+        "a": "support",
+        "b": "strengthen",
+        "c": "enhance",
+        "d": "undermine"
+      },
+      "one_liner": "The antonym of 'buttress' is 'undermine', which means to weaken or damage something.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

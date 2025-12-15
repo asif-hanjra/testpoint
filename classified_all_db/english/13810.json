@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'allegation':",
+      "options": {
+        "a": "claim:denial",
+        "b": "assertion:refutation",
+        "c": "accusation:confirmation",
+        "d": "indictment:approval"
+      },
+      "one_liner": "'Assertion' is a synonym of 'allegation', while 'refutation' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

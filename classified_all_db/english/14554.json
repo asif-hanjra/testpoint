@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'wild':",
+      "options": {
+        "a": "untamed:civilized",
+        "b": "savage:feral",
+        "c": "natural:domestic",
+        "d": "primitive:cultivated"
+      },
+      "one_liner": "'Untamed' is a synonym of 'wild', while 'civilized' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

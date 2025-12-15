@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'afraid':",
+      "options": {
+        "a": "terrified",
+        "b": "anxious",
+        "c": "fearless",
+        "d": "scared"
+      },
+      "one_liner": "Antonyms of 'afraid' include 'brave' and 'fearless', both suggesting courage in the face of fear.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

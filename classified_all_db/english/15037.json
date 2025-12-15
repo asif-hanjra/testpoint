@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'analgesic':",
+      "options": {
+        "a": "sedative",
+        "b": "soothing",
+        "c": "irritant",
+        "d": "relaxant"
+      },
+      "one_liner": "An antonym for 'analgesic' would be 'irritant', something that causes discomfort or pain.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

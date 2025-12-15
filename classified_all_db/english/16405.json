@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'feral':",
+      "options": {
+        "a": "wild",
+        "b": "domesticated",
+        "c": "untamed",
+        "d": "vicious"
+      },
+      "one_liner": "The antonym of 'feral' is 'domesticated', which means tame or kept by humans.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'patience':",
+      "options": {
+        "a": "endurance",
+        "b": "impatience",
+        "c": "tolerance",
+        "d": "steadfastness"
+      },
+      "one_liner": "The opposite of 'patience' is 'impatience', which indicates a lack of tolerance for waiting.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

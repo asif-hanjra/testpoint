@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'simper':",
+      "options": {
+        "a": "grin:frown",
+        "b": "smirk:beam",
+        "c": "smile:scowl",
+        "d": "snicker:laugh"
+      },
+      "one_liner": "A synonym for 'simper' is 'grin', while an antonym is 'frown'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'turbulent':",
+      "options": {
+        "a": "chaotic",
+        "b": "restless",
+        "c": "tranquil",
+        "d": "wild"
+      },
+      "one_liner": "Antonyms of 'turbulent' include 'tranquil' and 'peaceful', both implying a state of calmness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

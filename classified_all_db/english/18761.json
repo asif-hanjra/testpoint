@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abstemious':",
+      "options": {
+        "a": "sparing:excessive",
+        "b": "temperate:indulgent",
+        "c": "moderate:gluttonous",
+        "d": "frugal:indulgent"
+      },
+      "one_liner": "'Sparing' is a synonym of 'abstemious', while 'excessive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

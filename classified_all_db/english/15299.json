@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'disprove':",
+      "options": {
+        "a": "rebut:verify",
+        "b": "confirm:refute",
+        "c": "invalidate:authenticate",
+        "d": "contradict:corroborate"
+      },
+      "one_liner": "'Rebut' is a synonym of 'disprove', while 'verify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'heretical':",
+      "options": {
+        "a": "orthodox",
+        "b": "rebellious",
+        "c": "dissenting",
+        "d": "radical"
+      },
+      "one_liner": "An antonym of 'heretical' is 'orthodox', which means adhering to traditional beliefs.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'crockery':",
+      "options": {
+        "a": "dinnerware:flatware",
+        "b": "tableware:cookware",
+        "c": "pottery:glassware",
+        "d": "utensils:furniture"
+      },
+      "one_liner": "'Dinnerware' is a synonym for 'crockery', while 'flatware' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

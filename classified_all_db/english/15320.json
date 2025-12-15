@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'respite':",
+      "options": {
+        "a": "intermission:extension",
+        "b": "break:continuation",
+        "c": "relief:pressure",
+        "d": "pause:prolongation"
+      },
+      "one_liner": "'Intermission' is a synonym of 'respite', while 'extension' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

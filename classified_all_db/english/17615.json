@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'past':",
+      "options": {
+        "a": "future",
+        "b": "bygone",
+        "c": "present",
+        "d": "upcoming"
+      },
+      "one_liner": "'Past' refers to a time that has already happened, similar to 'bygone' or 'former'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

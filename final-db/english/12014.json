@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'opiate':",
+      "options": {
+        "a": "stimulant",
+        "b": "sedative",
+        "c": "tranquilizer",
+        "d": "analgesic"
+      },
+      "one_liner": "An antonym of 'opiate' would be 'stimulant', which increases physiological or nervous activity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

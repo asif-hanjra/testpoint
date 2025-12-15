@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sacrosanct':",
+      "options": {
+        "a": "inviolable:profane",
+        "b": "holy:secular",
+        "c": "sacred:irreverent",
+        "d": "consecrated:mundane"
+      },
+      "one_liner": "'Inviolable' is a synonym of 'sacrosanct', while 'profane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

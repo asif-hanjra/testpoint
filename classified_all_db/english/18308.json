@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'forgive':",
+      "options": {
+        "a": "exculpate:punish",
+        "b": "absolve:acquit",
+        "c": "condemn:exonerate",
+        "d": "blame:absolve"
+      },
+      "one_liner": "'Exculpate' is a synonym of 'forgive', while 'punish' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

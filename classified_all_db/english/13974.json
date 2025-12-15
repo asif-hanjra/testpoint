@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adequate':",
+      "options": {
+        "a": "deficient",
+        "b": "satisfactory",
+        "c": "inadequate",
+        "d": "insufficient"
+      },
+      "one_liner": "'Adequate' means sufficient or enough, similar to 'satisfactory'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

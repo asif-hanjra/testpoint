@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deficient':",
+      "options": {
+        "a": "abundant",
+        "b": "inadequate",
+        "c": "sufficient",
+        "d": "plentiful"
+      },
+      "one_liner": "'Deficient' means lacking in some aspect, similar to 'insufficient' or 'inadequate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

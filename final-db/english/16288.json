@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fix':",
+      "options": {
+        "a": "mend",
+        "b": "restore",
+        "c": "break",
+        "d": "renew"
+      },
+      "one_liner": "An antonym of 'fix' is 'break', as to fix is to repair, while to break is to cause damage.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

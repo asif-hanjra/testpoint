@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'brevity':",
+      "options": {
+        "a": "conciseness",
+        "b": "succinctness",
+        "c": "verbosity",
+        "d": "terse"
+      },
+      "one_liner": "The antonym of 'brevity' is 'verbosity', which means using more words than needed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

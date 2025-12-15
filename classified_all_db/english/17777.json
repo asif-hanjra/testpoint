@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'calamity':",
+      "options": {
+        "a": "tragedy",
+        "b": "misfortune",
+        "c": "blessing",
+        "d": "catastrophe"
+      },
+      "one_liner": "While 'calamity' signifies a tragic event, its antonym 'blessing' suggests a beneficial or positive occurrence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

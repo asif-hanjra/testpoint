@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'wary':",
+      "options": {
+        "a": "reckless",
+        "b": "attentive",
+        "c": "alert",
+        "d": "careful"
+      },
+      "one_liner": "The opposite of being 'wary' is being 'reckless', which means not showing proper caution.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

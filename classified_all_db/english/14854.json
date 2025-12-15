@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rudimentary':",
+      "options": {
+        "a": "basic",
+        "b": "simple",
+        "c": "advanced",
+        "d": "elementary"
+      },
+      "one_liner": "The antonym of 'rudimentary' is 'advanced', indicating a high level of development or complexity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The defeated army fled ___ the battlefield.",
+      "options": {
+        "a": "at",
+        "b": "from",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "The defeated army fled 'from' the battlefield.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'disparity':",
+      "options": {
+        "a": "difference",
+        "b": "similarity",
+        "c": "discrepancy",
+        "d": "divergence"
+      },
+      "one_liner": "An antonym of 'disparity' is 'similarity', which denotes a lack of significant difference.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

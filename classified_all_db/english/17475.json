@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wary':",
+      "options": {
+        "a": "careless",
+        "b": "vigilant",
+        "c": "negligent",
+        "d": "heedless"
+      },
+      "one_liner": "'Wary' means being cautious or watchful, similar to being 'vigilant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

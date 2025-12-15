@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'relentless':",
+      "options": {
+        "a": "persistent:merciful",
+        "b": "unyielding:unstoppable",
+        "c": "inflexible:flexible",
+        "d": "continuous:intermittent"
+      },
+      "one_liner": "'Persistent' is a synonym of 'relentless', while 'merciful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pucker':",
+      "options": {
+        "a": "gather",
+        "b": "smooth",
+        "c": "crease",
+        "d": "contract"
+      },
+      "one_liner": "The antonym of 'pucker', which means to contract or wrinkle, would be 'smooth' or 'flatten'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

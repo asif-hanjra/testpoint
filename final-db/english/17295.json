@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fast':",
+      "options": {
+        "a": "swift",
+        "b": "brisk",
+        "c": "slow",
+        "d": "hasty"
+      },
+      "one_liner": "The antonym of 'fast' is 'slow', indicating a lower speed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'keep':",
+      "options": {
+        "a": "maintain",
+        "b": "preserve",
+        "c": "discard",
+        "d": "hold"
+      },
+      "one_liner": "The antonym of 'keep' is 'discard', which means to get rid of something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

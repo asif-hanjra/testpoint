@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'invoke':",
+      "options": {
+        "a": "summon",
+        "b": "repudiate",
+        "c": "evoke",
+        "d": "arouse"
+      },
+      "one_liner": "The antonym of 'invoke', which means to call upon, would be 'dismiss' or 'repudiate', meaning to reject or send away.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

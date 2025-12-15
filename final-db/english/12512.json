@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'faddish':",
+      "options": {
+        "a": "stylish",
+        "b": "modern",
+        "c": "timeless",
+        "d": "hip"
+      },
+      "one_liner": "An antonym of 'faddish' is 'timeless', indicating something that remains popular over a long period.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

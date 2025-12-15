@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'eternal':",
+      "options": {
+        "a": "ephemeral",
+        "b": "perpetual",
+        "c": "transient",
+        "d": "temporary"
+      },
+      "one_liner": "'Eternal' refers to something that lasts forever, similar to 'perpetual'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

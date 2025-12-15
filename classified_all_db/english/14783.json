@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'pound the pavement' mean?",
+      "options": {
+        "a": "To work on construction",
+        "b": "To walk the streets, typically in search of employment",
+        "c": "To exercise by running",
+        "d": "To dance at a party"
+      },
+      "one_liner": "The idiom 'pound the pavement' refers to walking the streets with a purpose, often used when someone is looking for a job.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

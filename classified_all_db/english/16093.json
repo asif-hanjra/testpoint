@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'embrace':",
+      "options": {
+        "a": "accept",
+        "b": "hug",
+        "c": "reject",
+        "d": "hold"
+      },
+      "one_liner": "Antonyms of 'embrace' include 'reject' and 'refuse', both implying a denial or non-acceptance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

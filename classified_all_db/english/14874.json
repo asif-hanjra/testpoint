@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'surplus':",
+      "options": {
+        "a": "abundance",
+        "b": "excess",
+        "c": "deficit",
+        "d": "sufficiency"
+      },
+      "one_liner": "The antonym of 'surplus' is 'deficit', indicating a lack rather than an excess.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

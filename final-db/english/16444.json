@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'maneuver':",
+      "options": {
+        "a": "strategize:bungle",
+        "b": "execute:plan",
+        "c": "manipulate:coordinate",
+        "d": "navigate:aim"
+      },
+      "one_liner": "'Strategize' can be a synonym for 'maneuver', and 'bungle' is an antonym, indicating a failure to handle something skillfully.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lenient':",
+      "options": {
+        "a": "harsh",
+        "b": "indulgent",
+        "c": "strict",
+        "d": "rigid"
+      },
+      "one_liner": "'Lenient' means showing mercy or tolerance, similar to 'indulgent' or 'permissive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

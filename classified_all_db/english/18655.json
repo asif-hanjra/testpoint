@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vex':",
+      "options": {
+        "a": "soothe",
+        "b": "irritate",
+        "c": "comfort",
+        "d": "calm"
+      },
+      "one_liner": "'Vex' means to annoy or frustrate, similar to how 'irritate' and 'aggravate' are used.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

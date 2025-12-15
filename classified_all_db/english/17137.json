@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'limpid':",
+      "options": {
+        "a": "opaque",
+        "b": "murky",
+        "c": "crystal clear",
+        "d": "cloudy"
+      },
+      "one_liner": "'Limpid' means clear or transparent, similar to 'crystal clear' in meaning.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

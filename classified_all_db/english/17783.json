@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'invigorate':",
+      "options": {
+        "a": "weaken",
+        "b": "energize",
+        "c": "exhaust",
+        "d": "deplete"
+      },
+      "one_liner": "'Invigorate' means to give strength or energy to something, similar to 'energize' or 'stimulate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

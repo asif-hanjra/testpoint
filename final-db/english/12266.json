@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'indelible':",
+      "options": {
+        "a": "permanent",
+        "b": "lasting",
+        "c": "erasable",
+        "d": "unforgettable"
+      },
+      "one_liner": "Antonyms of 'indelible' include 'temporary' and 'erasable', both suggesting that something can be removed or will not last.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

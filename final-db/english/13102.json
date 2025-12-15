@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quaff':",
+      "options": {
+        "a": "sip",
+        "b": "gulp",
+        "c": "nibble",
+        "d": "peck"
+      },
+      "one_liner": "'Quaff' means to drink heartily—words like 'gulp' and 'swig' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

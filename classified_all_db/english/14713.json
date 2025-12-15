@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'agog':",
+      "options": {
+        "a": "keen:dispassionate",
+        "b": "excited:bored",
+        "c": "curious:indifferent",
+        "d": "interested:unimpressed"
+      },
+      "one_liner": "'Keen' is a synonym of 'agog', while 'dispassionate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

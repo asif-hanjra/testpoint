@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abyss':",
+      "options": {
+        "a": "plateau",
+        "b": "gulf",
+        "c": "hill",
+        "d": "peak"
+      },
+      "one_liner": "'Abyss' refers to a deep or seemingly bottomless chasm, much like a 'gulf' or 'void'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'euphoric':",
+      "options": {
+        "a": "miserable",
+        "b": "ecstatic",
+        "c": "depressed",
+        "d": "sorrowful"
+      },
+      "one_liner": "'Euphoric' describes a feeling of intense happiness or elation, similar to 'ecstatic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stigma':",
+      "options": {
+        "a": "honor",
+        "b": "discredit",
+        "c": "praise",
+        "d": "acclaim"
+      },
+      "one_liner": "'Stigma' often refers to a mark of disgrace or infamy, similar to 'discredit' or 'shame'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

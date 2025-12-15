@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'profundity':",
+      "options": {
+        "a": "complexity",
+        "b": "intensity",
+        "c": "superficiality",
+        "d": "wisdom"
+      },
+      "one_liner": "The antonym of 'profundity', which implies deep understanding, would be 'superficiality', indicating a lack of depth.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

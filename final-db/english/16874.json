@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'blend':",
+      "options": {
+        "a": "merge",
+        "b": "combine",
+        "c": "separate",
+        "d": "mix"
+      },
+      "one_liner": "The antonym of 'blend' is 'separate', which means to cause to move or be apart.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

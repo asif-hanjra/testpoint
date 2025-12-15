@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ogle':",
+      "options": {
+        "a": "ignore",
+        "b": "leer",
+        "c": "glance",
+        "d": "peek"
+      },
+      "one_liner": "'Ogle' means to stare at in a lecherous manner, similar to 'leer' or 'gawk'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

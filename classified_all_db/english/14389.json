@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'auspicious':",
+      "options": {
+        "a": "ominous",
+        "b": "propitious",
+        "c": "inauspicious",
+        "d": "unlucky"
+      },
+      "one_liner": "'Auspicious' means favorable or promising, similar to 'propitious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

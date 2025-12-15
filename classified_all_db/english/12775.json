@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'petition':",
+      "options": {
+        "a": "appeal:rejection",
+        "b": "demand:offer",
+        "c": "plea:acceptance",
+        "d": "request:grant"
+      },
+      "one_liner": "'Appeal' is a synonym of 'petition', while 'rejection' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

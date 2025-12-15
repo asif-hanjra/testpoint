@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'guile':",
+      "options": {
+        "a": "honesty",
+        "b": "craftiness",
+        "c": "clarity",
+        "d": "simplicity"
+      },
+      "one_liner": "'Guile' refers to sly or cunning intelligence, similar to 'craftiness' or 'cunning'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

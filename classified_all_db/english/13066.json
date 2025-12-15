@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'corpus':",
+      "options": {
+        "a": "fragment",
+        "b": "compilation",
+        "c": "part",
+        "d": "individual"
+      },
+      "one_liner": "'Corpus' refers to a collection of written texts, and a synonym could be 'compilation'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

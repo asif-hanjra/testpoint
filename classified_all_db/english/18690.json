@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'atrocious':",
+      "options": {
+        "a": "mediocre",
+        "b": "appalling",
+        "c": "excellent",
+        "d": "decent"
+      },
+      "one_liner": "'Atrocious' describes something extremely bad or unpleasant, similar to 'appalling'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

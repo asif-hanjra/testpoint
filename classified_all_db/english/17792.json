@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'superb':",
+      "options": {
+        "a": "marvelous:ordinary",
+        "b": "excellent:poor",
+        "c": "splendid:great",
+        "d": "wonderful:superb"
+      },
+      "one_liner": "'Marvelous' is a synonym of 'superb', while 'ordinary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

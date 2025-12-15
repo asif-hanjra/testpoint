@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prone':",
+      "options": {
+        "a": "unlikely",
+        "b": "inclined",
+        "c": "averse",
+        "d": "unwilling"
+      },
+      "one_liner": "'Prone' means likely or susceptible, similar to 'inclined' or 'liable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

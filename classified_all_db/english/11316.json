@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'omnipotent':",
+      "options": {
+        "a": "impotent",
+        "b": "all-powerful",
+        "c": "weak",
+        "d": "helpless"
+      },
+      "one_liner": "'Omnipotent' refers to having unlimited power, making 'all-powerful' a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

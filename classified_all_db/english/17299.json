@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tall':",
+      "options": {
+        "a": "high:short",
+        "b": "long:wide",
+        "c": "elevated:flat",
+        "d": "towering:low"
+      },
+      "one_liner": "'High' is a synonym of 'tall', while 'short' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

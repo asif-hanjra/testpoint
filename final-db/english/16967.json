@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pusillanimous':",
+      "options": {
+        "a": "brave",
+        "b": "timid",
+        "c": "bold",
+        "d": "fearless"
+      },
+      "one_liner": "'Pusillanimous' describes someone who lacks courage, similar to being 'cowardly'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

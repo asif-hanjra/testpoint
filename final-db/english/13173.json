@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'keep':",
+      "options": {
+        "a": "discard",
+        "b": "maintain",
+        "c": "neglect",
+        "d": "abandon"
+      },
+      "one_liner": "'Keep' means to retain or hold onto something, similar to 'maintain' or 'preserve'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

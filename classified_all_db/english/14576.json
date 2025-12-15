@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hesitate':",
+      "options": {
+        "a": "falter:plunge",
+        "b": "proceed:pause",
+        "c": "waver:continue",
+        "d": "stagger:advance"
+      },
+      "one_liner": "'Falter' is a synonym of 'hesitate', while 'plunge' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

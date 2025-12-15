@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'loafer':",
+      "options": {
+        "a": "idler:industrious",
+        "b": "slacker:worker",
+        "c": "bum:busybody",
+        "d": "lazy:active"
+      },
+      "one_liner": "'Idler' is a synonym for 'loafer', while 'industrious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

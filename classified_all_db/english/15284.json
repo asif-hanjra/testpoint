@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'surmise':",
+      "options": {
+        "a": "confirm",
+        "b": "speculate",
+        "c": "deny",
+        "d": "know"
+      },
+      "one_liner": "'Surmise' means to suppose something is true without having evidence to confirm it, similar to 'speculate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

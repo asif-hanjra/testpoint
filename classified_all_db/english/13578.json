@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'onomatopoeia':",
+      "options": {
+        "a": "echoic:literal",
+        "b": "alliteration:figurative",
+        "c": "simile:symbolic",
+        "d": "metaphor:literal"
+      },
+      "one_liner": "'Echoic' is a synonym for 'onomatopoeia', while 'literal' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

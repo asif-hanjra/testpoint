@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'herbaceous':",
+      "options": {
+        "a": "woody",
+        "b": "floral",
+        "c": "lush",
+        "d": "green"
+      },
+      "one_liner": "The antonym of 'herbaceous' is 'woody', as it refers to plants with hard stems.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

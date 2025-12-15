@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'acrimony':",
+      "options": {
+        "a": "harmony",
+        "b": "animosity",
+        "c": "affection",
+        "d": "kindness"
+      },
+      "one_liner": "'Acrimony' refers to bitterness or harshness in manner or speech, similar to 'animosity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

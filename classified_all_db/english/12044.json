@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'perverse':",
+      "options": {
+        "a": "agreeable",
+        "b": "contrary",
+        "c": "compliant",
+        "d": "obedient"
+      },
+      "one_liner": "'Perverse' means showing a deliberate desire to behave in a way that is unreasonable or unacceptable, similar to 'contrary'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'frank':",
+      "options": {
+        "a": "evasive",
+        "b": "candid",
+        "c": "ambiguous",
+        "d": "vague"
+      },
+      "one_liner": "'Frank' means direct and unreserved in speech, similar to 'candid'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

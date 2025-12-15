@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'flirt':",
+      "options": {
+        "a": "coquet:faithful",
+        "b": "engage:aloof",
+        "c": "trifle:faithful",
+        "d": "dally:detached"
+      },
+      "one_liner": "'Trifle' is a synonym for 'flirt', while 'faithful' is its antonym, representing opposite approaches to relationships.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

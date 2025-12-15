@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intelligent':",
+      "options": {
+        "a": "bright:dim",
+        "b": "sharp:dull",
+        "c": "clever:smart",
+        "d": "wise:foolish"
+      },
+      "one_liner": "'Bright' is a synonym of 'intelligent', while 'dim' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

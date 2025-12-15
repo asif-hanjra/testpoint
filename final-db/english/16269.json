@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quiet':",
+      "options": {
+        "a": "loud",
+        "b": "hushed",
+        "c": "raucous",
+        "d": "boisterous"
+      },
+      "one_liner": "'Quiet' means silent or noiseless, similar to 'hushed' or 'muted'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

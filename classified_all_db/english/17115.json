@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'condemn':",
+      "options": {
+        "a": "approve",
+        "b": "criticize",
+        "c": "blame",
+        "d": "disparage"
+      },
+      "one_liner": "An antonym of 'condemn' is 'approve', which means to agree with or accept as satisfactory.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

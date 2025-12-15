@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ordinance':",
+      "options": {
+        "a": "law",
+        "b": "command",
+        "c": "recommendation",
+        "d": "rule"
+      },
+      "one_liner": "While 'ordinance' is a formal directive, a 'recommendation' is merely a suggestion and not binding, making it an antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

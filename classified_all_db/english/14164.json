@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'yearn':",
+      "options": {
+        "a": "dislike",
+        "b": "crave",
+        "c": "ignore",
+        "d": "reject"
+      },
+      "one_liner": "'Yearn' means to have a strong desire or longing for something, much like 'crave'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

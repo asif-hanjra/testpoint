@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'peer':",
+      "options": {
+        "a": "equal",
+        "b": "ally",
+        "c": "superior",
+        "d": "associate"
+      },
+      "one_liner": "The antonym of 'peer', meaning an equal, would be 'superior', which denotes someone of higher rank or status.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

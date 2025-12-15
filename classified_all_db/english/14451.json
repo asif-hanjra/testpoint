@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'immature':",
+      "options": {
+        "a": "mature",
+        "b": "juvenile",
+        "c": "adolescent",
+        "d": "infantile"
+      },
+      "one_liner": "The opposite of 'immature' is 'mature', which describes someone who is fully developed in body or mind.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

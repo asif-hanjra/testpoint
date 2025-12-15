@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mendacious':",
+      "options": {
+        "a": "deceitful:candid",
+        "b": "honest:deceptive",
+        "c": "false:truthful",
+        "d": "misleading:honest"
+      },
+      "one_liner": "'Deceitful' is a synonym of 'mendacious', while 'candid' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

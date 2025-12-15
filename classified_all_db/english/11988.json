@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He was ignorant ___ the whole situation.",
+      "options": {
+        "a": "to",
+        "b": "of",
+        "c": "for",
+        "d": "about"
+      },
+      "one_liner": "He was ignorant 'of' the whole situation.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tepid':",
+      "options": {
+        "a": "mild:hot",
+        "b": "warm:cold",
+        "c": "lukewarm:boiling",
+        "d": "cool:freezing"
+      },
+      "one_liner": "'Mild' is a synonym for 'tepid', while 'hot' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

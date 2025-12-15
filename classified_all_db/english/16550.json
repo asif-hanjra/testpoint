@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'capture':",
+      "options": {
+        "a": "seize",
+        "b": "hold",
+        "c": "release",
+        "d": "grasp"
+      },
+      "one_liner": "The antonym of 'capture' is 'release', which means to let go or set free.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

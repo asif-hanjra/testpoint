@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prescience':",
+      "options": {
+        "a": "ignorance",
+        "b": "foresight",
+        "c": "negligence",
+        "d": "heedlessness"
+      },
+      "one_liner": "'Prescience' refers to the ability to know something before it happens, much like 'foresight'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

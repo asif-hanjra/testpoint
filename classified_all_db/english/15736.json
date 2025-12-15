@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'contract':",
+      "options": {
+        "a": "constrict:enlarge",
+        "b": "narrow:broaden",
+        "c": "shorten:extend",
+        "d": "compress:expand"
+      },
+      "one_liner": "'Constrict' is a synonym of 'contract', while 'enlarge' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

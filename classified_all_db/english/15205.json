@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'arrival':",
+      "options": {
+        "a": "departure",
+        "b": "advent",
+        "c": "exit",
+        "d": "evasion"
+      },
+      "one_liner": "'Arrival' means the act of coming to a place, similar to 'advent' or 'appearance'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

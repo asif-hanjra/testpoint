@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'break':",
+      "options": {
+        "a": "snap:build",
+        "b": "rupture:repair",
+        "c": "split:fix",
+        "d": "crumble:construct"
+      },
+      "one_liner": "'Snap' is a synonym of 'break', while 'build' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

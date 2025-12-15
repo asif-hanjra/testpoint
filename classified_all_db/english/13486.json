@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'din':",
+      "options": {
+        "a": "quiet",
+        "b": "uproar",
+        "c": "tumult",
+        "d": "clatter"
+      },
+      "one_liner": "While 'din' signifies a loud noise, 'quiet' represents the absence of noise, making it an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

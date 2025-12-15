@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'judicious':",
+      "options": {
+        "a": "foolish",
+        "b": "wise",
+        "c": "careless",
+        "d": "reckless"
+      },
+      "one_liner": "'Judicious' implies having good judgment, similar to being 'wise' or 'sensible'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

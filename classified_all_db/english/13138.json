@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'apparel':",
+      "options": {
+        "a": "furniture",
+        "b": "attire",
+        "c": "hardware",
+        "d": "software"
+      },
+      "one_liner": "'Apparel' refers to clothing, similar to 'attire' and 'garments'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

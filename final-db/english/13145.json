@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ask':",
+      "options": {
+        "a": "answer",
+        "b": "inquire",
+        "c": "ignore",
+        "d": "command"
+      },
+      "one_liner": "'Ask' means to request information or guidance, similar to 'inquire'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

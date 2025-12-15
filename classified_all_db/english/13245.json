@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dispel':",
+      "options": {
+        "a": "accumulate",
+        "b": "eject",
+        "c": "expel",
+        "d": "dismiss"
+      },
+      "one_liner": "The antonym of 'dispel' is 'accumulate', which means to gather or collect rather than scatter.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

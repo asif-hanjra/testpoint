@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'putrefy':",
+      "options": {
+        "a": "spoil",
+        "b": "rot",
+        "c": "preserve",
+        "d": "wither"
+      },
+      "one_liner": "An antonym of 'putrefy' is 'preserve', which means to keep something in its original state or in good condition.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

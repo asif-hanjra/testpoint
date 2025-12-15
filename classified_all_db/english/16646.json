@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gamut':",
+      "options": {
+        "a": "fragment",
+        "b": "spectrum",
+        "c": "portion",
+        "d": "piece"
+      },
+      "one_liner": "'Gamut' refers to the complete range or scope of something, similar to 'spectrum'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

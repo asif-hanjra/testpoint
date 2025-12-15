@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'Non sequitur' imply when used in conversation?",
+      "options": {
+        "a": "A logical argument",
+        "b": "A statement that does not logically follow from the previous statement",
+        "c": "A universal truth",
+        "d": "A relevant question"
+      },
+      "one_liner": "'Non sequitur' refers to a statement that does not logically follow from what was previously said.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'victory':",
+      "options": {
+        "a": "defeat",
+        "b": "triumph",
+        "c": "loss",
+        "d": "failure"
+      },
+      "one_liner": "'Victory' is synonymous with 'triumph', both indicating a successful outcome in a contest or struggle.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

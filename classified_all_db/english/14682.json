@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'affliction':",
+      "options": {
+        "a": "comfort",
+        "b": "suffering",
+        "c": "joy",
+        "d": "pleasure"
+      },
+      "one_liner": "'Affliction' refers to a state of pain, distress, or grief—'suffering' is a synonym that conveys a similar sense of hardship.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

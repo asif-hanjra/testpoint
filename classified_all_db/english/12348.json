@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fluke':",
+      "options": {
+        "a": "accident",
+        "b": "randomness",
+        "c": "certainty",
+        "d": "luck"
+      },
+      "one_liner": "An antonym of 'fluke' is 'certainty', which implies a lack of randomness or chance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

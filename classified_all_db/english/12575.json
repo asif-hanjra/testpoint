@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'transmit':",
+      "options": {
+        "a": "dispatch",
+        "b": "convey",
+        "c": "receive",
+        "d": "send"
+      },
+      "one_liner": "The antonym of 'transmit' is 'receive', as it refers to the act of getting or accepting something that has been sent.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

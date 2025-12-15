@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'successful':",
+      "options": {
+        "a": "prosperous:fruitless",
+        "b": "triumphant:successful",
+        "c": "effective:ineffective",
+        "d": "flourishing:failing"
+      },
+      "one_liner": "'Prosperous' is a synonym of 'successful', while 'fruitless' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

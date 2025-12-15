@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'transparent':",
+      "options": {
+        "a": "clear",
+        "b": "lucid",
+        "c": "opaque",
+        "d": "visible"
+      },
+      "one_liner": "An antonym of 'transparent' is 'opaque', meaning not allowing light to pass through.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

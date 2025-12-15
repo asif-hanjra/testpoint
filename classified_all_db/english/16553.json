@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'courage':",
+      "options": {
+        "a": "fear",
+        "b": "bravery",
+        "c": "cowardice",
+        "d": "timidity"
+      },
+      "one_liner": "'Courage' is synonymous with 'bravery', as both words describe the quality of being fearless or bold.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

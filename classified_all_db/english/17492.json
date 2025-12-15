@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'small':",
+      "options": {
+        "a": "petite",
+        "b": "short",
+        "c": "large",
+        "d": "narrow"
+      },
+      "one_liner": "The opposite of 'small' is 'large', indicating a greater size.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

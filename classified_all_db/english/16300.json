@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'impervious':",
+      "options": {
+        "a": "permeable",
+        "b": "resistant",
+        "c": "absorbent",
+        "d": "porous"
+      },
+      "one_liner": "'Impervious' means not allowing fluid to pass through or being unaffected by something, similar to 'impenetrable' or 'resistant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

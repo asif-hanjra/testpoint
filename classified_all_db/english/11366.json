@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'practitioner':",
+      "options": {
+        "a": "professional:novice",
+        "b": "amateur:expert",
+        "c": "specialist:layman",
+        "d": "veteran:beginner"
+      },
+      "one_liner": "'Specialist' is a synonym of 'practitioner', while 'novice' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

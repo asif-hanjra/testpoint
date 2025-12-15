@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ban':",
+      "options": {
+        "a": "proscribe:authorize",
+        "b": "forbid:allow",
+        "c": "veto:permit",
+        "d": "restrict:liberate"
+      },
+      "one_liner": "'Proscribe' is a synonym of 'ban', while 'authorize' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

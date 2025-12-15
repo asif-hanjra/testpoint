@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'memorable':",
+      "options": {
+        "a": "noteworthy:extraordinary",
+        "b": "unforgettable:forgettable",
+        "c": "remarkable:mundane",
+        "d": "significant:insignificant"
+      },
+      "one_liner": "'Remarkable' is a synonym of 'memorable', while 'mundane' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

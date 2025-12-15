@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sick':",
+      "options": {
+        "a": "ailing",
+        "b": "unwell",
+        "c": "healthy",
+        "d": "diseased"
+      },
+      "one_liner": "Antonyms of 'sick' include 'healthy' and 'well', both implying good health.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

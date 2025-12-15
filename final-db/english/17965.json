@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'full':",
+      "options": {
+        "a": "empty",
+        "b": "brimming",
+        "c": "hollow",
+        "d": "vacant"
+      },
+      "one_liner": "'Full' means complete or filled to capacity, similar to 'brimming' or 'packed'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

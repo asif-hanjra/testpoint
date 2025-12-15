@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fantastic':",
+      "options": {
+        "a": "mediocre",
+        "b": "incredible",
+        "c": "wonderful",
+        "d": "amazing"
+      },
+      "one_liner": "The word 'fantastic' suggests something is great, whereas 'mediocre' implies it is only of moderate quality.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

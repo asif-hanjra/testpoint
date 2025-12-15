@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'malapropism':",
+      "options": {
+        "a": "solecism:appropriateness",
+        "b": "precision:blunder",
+        "c": "accuracy:misuse",
+        "d": "clarity:gaffe"
+      },
+      "one_liner": "'Solecism' is a synonym for 'malapropism', while 'appropriateness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

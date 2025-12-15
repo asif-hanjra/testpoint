@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gentle':",
+      "options": {
+        "a": "mild",
+        "b": "soft",
+        "c": "harsh",
+        "d": "delicate"
+      },
+      "one_liner": "The opposite of 'gentle' is 'harsh', which implies a more severe or abrasive quality.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

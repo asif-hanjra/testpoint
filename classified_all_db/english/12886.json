@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adept':",
+      "options": {
+        "a": "novice",
+        "b": "expert",
+        "c": "beginner",
+        "d": "amateur"
+      },
+      "one_liner": "'Adept' means highly skilled or proficient, similar to 'expert'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

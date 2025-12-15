@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'contrite':",
+      "options": {
+        "a": "remorseful",
+        "b": "repentant",
+        "c": "unrepentant",
+        "d": "ashamed"
+      },
+      "one_liner": "The opposite of feeling 'contrite' is feeling 'unrepentant', which means not feeling remorse or guilt.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'plead':",
+      "options": {
+        "a": "accept",
+        "b": "offer",
+        "c": "reject",
+        "d": "agree"
+      },
+      "one_liner": "An antonym of 'plead' is 'reject', as to plead is to earnestly ask for something, whereas to reject is to dismiss or refuse it.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

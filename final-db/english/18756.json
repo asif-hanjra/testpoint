@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'proclamation':",
+      "options": {
+        "a": "whisper",
+        "b": "declaration",
+        "c": "rumor",
+        "d": "secret"
+      },
+      "one_liner": "'Proclamation' is a formal or official announcement, akin to a 'declaration'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

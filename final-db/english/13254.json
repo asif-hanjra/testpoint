@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'chilly':",
+      "options": {
+        "a": "warm",
+        "b": "cool",
+        "c": "hot",
+        "d": "mild"
+      },
+      "one_liner": "'Chilly' means cold, so words like 'cool' and 'brisk' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

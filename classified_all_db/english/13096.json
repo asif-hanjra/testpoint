@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'macerate':",
+      "options": {
+        "a": "soak",
+        "b": "steep",
+        "c": "dehydrate",
+        "d": "moisten"
+      },
+      "one_liner": "Antonyms of 'macerate' include 'dehydrate' and 'desiccate', both implying removal of moisture.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

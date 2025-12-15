@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fallacy':",
+      "options": {
+        "a": "truth",
+        "b": "misconception",
+        "c": "fact",
+        "d": "reality"
+      },
+      "one_liner": "'Fallacy' refers to a mistaken belief, especially one based on unsound arguments, similar to 'misconception'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

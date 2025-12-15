@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'clot':",
+      "options": {
+        "a": "dissolve",
+        "b": "thicken",
+        "c": "solidify",
+        "d": "congeal"
+      },
+      "one_liner": "An antonym of 'clot' is 'dissolve', which means to become liquid or to disperse.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

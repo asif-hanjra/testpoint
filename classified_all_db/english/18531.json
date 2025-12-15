@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'salvage':",
+      "options": {
+        "a": "discard",
+        "b": "retrieve",
+        "c": "neglect",
+        "d": "ignore"
+      },
+      "one_liner": "'Salvage' means to save or recover, similar to 'rescue' or 'retrieve'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

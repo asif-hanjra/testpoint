@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deduct':",
+      "options": {
+        "a": "add",
+        "b": "subtract",
+        "c": "increase",
+        "d": "multiply"
+      },
+      "one_liner": "'Deduct' means to subtract or take away, similar to 'subtract' and 'remove'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

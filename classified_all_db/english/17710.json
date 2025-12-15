@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'average':",
+      "options": {
+        "a": "ordinary:extraordinary",
+        "b": "common:unusual",
+        "c": "mediocre:superior",
+        "d": "typical:average"
+      },
+      "one_liner": "'Ordinary' is a synonym of 'average', while 'extraordinary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

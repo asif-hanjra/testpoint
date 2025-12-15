@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'reverberate':",
+      "options": {
+        "a": "echo",
+        "b": "amplify",
+        "c": "dampen",
+        "d": "resound"
+      },
+      "one_liner": "Antonyms of 'reverberate' include 'muffle' and 'dampen', both implying a reduction in sound.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

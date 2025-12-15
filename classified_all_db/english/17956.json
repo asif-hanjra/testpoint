@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ragged':",
+      "options": {
+        "a": "shabby:immaculate",
+        "b": "neat:smooth",
+        "c": "tattered:polished",
+        "d": "worn:pristine"
+      },
+      "one_liner": "'Shabby' is a synonym of 'ragged', while 'immaculate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

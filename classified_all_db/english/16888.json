@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'temperate':",
+      "options": {
+        "a": "mild:harsh",
+        "b": "cool:warm",
+        "c": "moderate:extreme",
+        "d": "gentle:rough"
+      },
+      "one_liner": "'Mild' is a synonym of 'temperate', while 'harsh' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

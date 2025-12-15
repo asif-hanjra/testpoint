@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wisdom':",
+      "options": {
+        "a": "ignorance",
+        "b": "sagacity",
+        "c": "foolishness",
+        "d": "inexperience"
+      },
+      "one_liner": "'Wisdom' refers to the quality of having experience, knowledge, and good judgment, similar to 'sagacity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

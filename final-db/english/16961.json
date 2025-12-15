@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'open':",
+      "options": {
+        "a": "closed",
+        "b": "ajar",
+        "c": "unlocked",
+        "d": "open"
+      },
+      "one_liner": "The opposite of 'open' is 'closed', indicating that something is not accessible or is sealed.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

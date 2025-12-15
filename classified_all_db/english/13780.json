@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'garb':",
+      "options": {
+        "a": "costume:unclothe",
+        "b": "outfit:adorn",
+        "c": "clothing:garment",
+        "d": "apparel:attire"
+      },
+      "one_liner": "'Costume' is a synonym for 'garb', while 'unclothe' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

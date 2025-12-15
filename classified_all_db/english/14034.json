@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'callous':",
+      "options": {
+        "a": "insensitive:empathetic",
+        "b": "caring:indifferent",
+        "c": "harsh:gentle",
+        "d": "unfeeling:sensitive"
+      },
+      "one_liner": "'Insensitive' is a synonym of 'callous', while 'empathetic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

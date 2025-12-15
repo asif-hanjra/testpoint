@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'lackluster':",
+      "options": {
+        "a": "drab:radiant",
+        "b": "dull:shiny",
+        "c": "tedious:vibrant",
+        "d": "uninspiring:luminous"
+      },
+      "one_liner": "'Drab' is a synonym of 'lackluster', while 'radiant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'adamant':",
+      "options": {
+        "a": "unyielding",
+        "b": "inflexible",
+        "c": "stubborn",
+        "d": "compliant"
+      },
+      "one_liner": "An antonym of 'adamant' is 'compliant', which means willing to agree or yield.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

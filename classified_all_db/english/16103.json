@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'recondite':",
+      "options": {
+        "a": "clear",
+        "b": "complex",
+        "c": "complicated",
+        "d": "cryptic"
+      },
+      "one_liner": "An antonym of 'recondite' is 'clear', which suggests something is easy to understand.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

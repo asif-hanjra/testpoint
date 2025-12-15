@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abandon':",
+      "options": {
+        "a": "discard",
+        "b": "forsake",
+        "c": "retain",
+        "d": "surrender"
+      },
+      "one_liner": "The antonym of 'abandon' is 'retain', which means to keep or hold on to something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

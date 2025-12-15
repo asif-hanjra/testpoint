@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'proliferate':",
+      "options": {
+        "a": "expand",
+        "b": "escalate",
+        "c": "decrease",
+        "d": "surge"
+      },
+      "one_liner": "An antonym for 'proliferate', which means to grow or increase rapidly, would be 'decrease'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

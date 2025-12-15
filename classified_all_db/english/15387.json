@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'immaculate':",
+      "options": {
+        "a": "dirty",
+        "b": "pristine",
+        "c": "stained",
+        "d": "messy"
+      },
+      "one_liner": "'Immaculate' refers to something perfectly clean or spotless, similar to 'pristine'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

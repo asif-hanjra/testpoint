@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'forgive':",
+      "options": {
+        "a": "absolve",
+        "b": "pardon",
+        "c": "condemn",
+        "d": "exonerate"
+      },
+      "one_liner": "Antonyms of 'forgive' include 'condemn' and 'blame', both implying a refusal to pardon.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

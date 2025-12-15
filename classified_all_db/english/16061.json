@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tenable':",
+      "options": {
+        "a": "implausible",
+        "b": "sustainable",
+        "c": "unreasonable",
+        "d": "unbelievable"
+      },
+      "one_liner": "'Tenable' means defensible or justifiable—words like 'plausible' and 'sustainable' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'extant':",
+      "options": {
+        "a": "obsolete",
+        "b": "existing",
+        "c": "vanished",
+        "d": "bygone"
+      },
+      "one_liner": "'Extant' refers to something that is still in existence, similar to 'existing' or 'current'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

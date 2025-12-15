@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'realm':",
+      "options": {
+        "a": "kingdom:anarchy",
+        "b": "territory:order",
+        "c": "province:harmony",
+        "d": "domain:peace"
+      },
+      "one_liner": "'Kingdom' is a synonym of 'realm', while 'anarchy' is its antonym, indicating a state without a governing body.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

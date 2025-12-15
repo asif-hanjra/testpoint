@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'bottom':",
+      "options": {
+        "a": "top",
+        "b": "peak",
+        "c": "base",
+        "d": "summit"
+      },
+      "one_liner": "'Bottom' refers to the lowest part or point, similar to 'base' or 'foundation'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

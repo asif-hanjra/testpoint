@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vigorous':",
+      "options": {
+        "a": "robust:active",
+        "b": "dynamic:sluggish",
+        "c": "sturdy:lethargic",
+        "d": "energetic:frail"
+      },
+      "one_liner": "'Dynamic' is a synonym of 'vigorous', while 'sluggish' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

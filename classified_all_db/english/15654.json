@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mitigate':",
+      "options": {
+        "a": "alleviate:exacerbate",
+        "b": "intensify:lessen",
+        "c": "reduce:aggravate",
+        "d": "soothe:escalate"
+      },
+      "one_liner": "'Alleviate' is a synonym of 'mitigate', while 'exacerbate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

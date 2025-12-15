@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'turpitude':",
+      "options": {
+        "a": "integrity",
+        "b": "degeneracy",
+        "c": "honor",
+        "d": "virtue"
+      },
+      "one_liner": "'Turpitude' refers to depravity or wickedness, similar to 'degeneracy'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

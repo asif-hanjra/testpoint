@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'relevant':",
+      "options": {
+        "a": "appropriate:inapplicable",
+        "b": "pertinent:related",
+        "c": "significant:insignificant",
+        "d": "connected:disconnected"
+      },
+      "one_liner": "'Appropriate' is a synonym of 'relevant', while 'inapplicable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

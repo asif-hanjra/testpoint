@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "A cat differs ___ a dog.",
+      "options": {
+        "a": "of",
+        "b": "from",
+        "c": "with",
+        "d": "by"
+      },
+      "one_liner": "A cat differs 'from' a dog.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

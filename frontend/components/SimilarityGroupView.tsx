@@ -214,8 +214,13 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   }, [subject, fileStatusContext]);
 
   // Recalculate selections when checkAllMode changes
-  // IMPORTANT: Preserve existing autoSelections (user modifications) - only apply auto-selections for missing values
-  // FIX: Always override for saved/removed files (status-based rules), only preserve for unknown files
+  // IMPORTANT:
+  // - Always respect user-modified files (never override them here)
+  // - Always enforce saved/removed rules
+  // - For unknown files that are NOT user-modified, fully adopt the current mode:
+  //   * checkAllMode = true  -> check all non-removed files
+  //   * checkAllMode = false -> use preference-based autoSelectBestMCQ
+  // This effect only operates on the CURRENT PAGE (similarityRangeStart/End).
   useEffect(() => {
     if (!initializing && groups.length > 0) {
       const session = storage.loadSession(subject);
@@ -224,15 +229,16 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
       setAutoSelections(prev => {
         const updated: { [groupIndex: number]: { [filename: string]: boolean } } = { ...prev };
         
-        for (let groupIndex = 0; groupIndex < groups.length; groupIndex++) {
-          const groupFiles = groups[groupIndex].files;
+        // Only operate on groups that are actually visible on the current page
+        const groupsInPage = calculateGroupsInRange(similarityRangeStart, similarityRangeEnd);
+        
+        for (const groupIndex of groupsInPage) {
+          const groupFiles = groups[groupIndex]?.files || [];
+          if (groupFiles.length === 0) continue;
           
-          // Preserve existing selections (user modifications), but always override for saved/removed files
+          // Start from existing selections for this group
           const existingSelections = updated[groupIndex] || {};
           const merged: { [filename: string]: boolean } = { ...existingSelections };
-          
-          // First, check which files are user-modified and skip auto-selection for them
-          const userModifiedInGroup = groupFiles.filter(f => userModifiedFilesRef.current.has(f));
           
           // Only run auto-selection for files that are NOT user-modified
           const filesForAutoSelect = groupFiles.filter(f => !userModifiedFilesRef.current.has(f));
@@ -247,18 +253,15 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
               const newSelection = groupSelections[filename] ?? false;
               
               // Always override for saved/removed files (status-based rules must be enforced)
-              // These files are not user-modified, so apply rules
               if (status === 'saved' || status === 'removed') {
                 merged[filename] = newSelection;
-              } else if (!(filename in merged)) {
-                // Only preserve for unknown files if not already set
+              } else {
+                // For unknown files that are NOT user-modified (filtered above),
+                // always adopt the current mode's selection (Check All vs. preference-based).
                 merged[filename] = newSelection;
               }
             }
           }
-          
-          // For user-modified files, preserve their existing value (don't run auto-selection on them)
-          // Keep existing value - don't override
           
           updated[groupIndex] = merged;
         }
@@ -266,7 +269,7 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
         return updated;
       });
     }
-  }, [checkAllMode, groups, subject, autoSelectBestMCQ, initializing, fileStatusContext]);
+  }, [checkAllMode, groups, subject, autoSelectBestMCQ, initializing, fileStatusContext, similarityRangeStart, similarityRangeEnd]);
 
   const initializeGroups = async () => {
     setInitializing(true);
@@ -1465,7 +1468,7 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
       
       // Determine batch size based on total number of groups
       const totalGroups = groupsInPage.length;
-      const batchSize = totalGroups > 505 ? 30 : 5;
+      const batchSize = totalGroups > 505 ? 100 : 10;
       
       console.log(`Submitting ${totalGroups} groups with batch size of ${batchSize}`);
       

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'exemplify':",
+      "options": {
+        "a": "obscure",
+        "b": "illustrate",
+        "c": "confuse",
+        "d": "distort"
+      },
+      "one_liner": "'Exemplify' means to serve as a typical example of something, similar to 'illustrate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

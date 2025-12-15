@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sobriety':",
+      "options": {
+        "a": "abstinence:inebriation",
+        "b": "temperance:intoxication",
+        "c": "moderation:drunkenness",
+        "d": "excess:temperance"
+      },
+      "one_liner": "'Abstinence' is a synonym of 'sobriety', while 'inebriation' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

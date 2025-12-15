@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exceptional':",
+      "options": {
+        "a": "outstanding:mundane",
+        "b": "average:extraordinary",
+        "c": "remarkable:typical",
+        "d": "incredible:ordinary"
+      },
+      "one_liner": "'Outstanding' is a synonym of 'exceptional', while 'mundane' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

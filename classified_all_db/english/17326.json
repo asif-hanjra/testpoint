@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The man is poor ___ honest.",
+      "options": {
+        "a": "and",
+        "b": "but",
+        "c": "or",
+        "d": "so"
+      },
+      "one_liner": "The man is poor 'but' honest.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

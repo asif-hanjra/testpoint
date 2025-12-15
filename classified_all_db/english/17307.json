@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'certain':",
+      "options": {
+        "a": "doubtful",
+        "b": "definite",
+        "c": "uncertain",
+        "d": "unsure"
+      },
+      "one_liner": "'Certain' means sure or confident, similar to 'definite' or 'positive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

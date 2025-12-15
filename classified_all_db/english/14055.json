@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'martial':",
+      "options": {
+        "a": "soldierly",
+        "b": "warrior",
+        "c": "civilian",
+        "d": "combative"
+      },
+      "one_liner": "The antonym of 'martial', which pertains to war, is 'civilian', indicating a non-military person or aspect.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

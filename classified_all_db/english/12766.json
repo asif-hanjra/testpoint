@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'diminish':",
+      "options": {
+        "a": "contract:amplify",
+        "b": "reduce:expand",
+        "c": "lessen:increase",
+        "d": "narrow:broaden"
+      },
+      "one_liner": "'Contract' is a synonym of 'diminish', while 'amplify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

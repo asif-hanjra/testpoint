@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fallacious':",
+      "options": {
+        "a": "accurate",
+        "b": "deceptive",
+        "c": "truthful",
+        "d": "valid"
+      },
+      "one_liner": "'Fallacious' means based on a mistaken belief—words like 'misleading' and 'deceptive' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

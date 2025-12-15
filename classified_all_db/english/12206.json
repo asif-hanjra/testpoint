@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'allegation':",
+      "options": {
+        "a": "confirmation",
+        "b": "accusation",
+        "c": "endorsement",
+        "d": "approval"
+      },
+      "one_liner": "'Allegation' refers to a claim or assertion that someone has done something illegal or wrong, similar to an 'accusation'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fallacy':",
+      "options": {
+        "a": "delusion:verity",
+        "b": "error:fact",
+        "c": "illusion:reality",
+        "d": "misconception:truth"
+      },
+      "one_liner": "'Delusion' is a synonym of 'fallacy', while 'verity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

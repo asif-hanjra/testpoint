@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'capricious':",
+      "options": {
+        "a": "erratic:consistent",
+        "b": "steady:unpredictable",
+        "c": "whimsical:stable",
+        "d": "fickle:reliable"
+      },
+      "one_liner": "'Erratic' is a synonym of 'capricious', while 'consistent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

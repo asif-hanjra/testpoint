@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'amid':",
+      "options": {
+        "a": "among:apart",
+        "b": "inside:within",
+        "c": "between:among",
+        "d": "within:inside"
+      },
+      "one_liner": "'Among' is a synonym of 'amid', while 'apart' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

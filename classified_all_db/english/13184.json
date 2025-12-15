@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sketchy':",
+      "options": {
+        "a": "detailed",
+        "b": "superficial",
+        "c": "elaborate",
+        "d": "thorough"
+      },
+      "one_liner": "'Sketchy' means something that is not detailed or complete, similar to 'superficial' or 'shallow'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

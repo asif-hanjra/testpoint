@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'invert':",
+      "options": {
+        "a": "flip:uphold",
+        "b": "preserve:maintain",
+        "c": "reverse:rotate",
+        "d": "turn:stay"
+      },
+      "one_liner": "'Flip' is a synonym of 'invert', while 'uphold' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "It took me ages ___ find a space to park my car.",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "at",
+        "d": "by"
+      },
+      "one_liner": "It took me ages 'to' find a space to park my car.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

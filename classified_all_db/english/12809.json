@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'perfidy':",
+      "options": {
+        "a": "treachery:trustworthiness",
+        "b": "faithfulness:deception",
+        "c": "loyalty:betrayal",
+        "d": "honesty:duplicity"
+      },
+      "one_liner": "'Betrayal' is a synonym of 'perfidy', while 'trustworthiness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

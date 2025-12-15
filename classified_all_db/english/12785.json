@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'acquit':",
+      "options": {
+        "a": "exonerate",
+        "b": "absolve",
+        "c": "convict",
+        "d": "discharge"
+      },
+      "one_liner": "The opposite of 'acquit', which means to free from a charge, is 'convict', meaning to declare someone guilty.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

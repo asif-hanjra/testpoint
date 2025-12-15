@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dank':",
+      "options": {
+        "a": "dry",
+        "b": "arid",
+        "c": "damp",
+        "d": "desiccated"
+      },
+      "one_liner": "'Dank' refers to unpleasantly moist or humid conditions, similar to 'damp'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

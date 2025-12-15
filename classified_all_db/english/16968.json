@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'after':",
+      "options": {
+        "a": "subsequent:preceding",
+        "b": "following:before",
+        "c": "later:prior",
+        "d": "after:earlier"
+      },
+      "one_liner": "'Following' is a synonym of 'after', while 'preceding' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

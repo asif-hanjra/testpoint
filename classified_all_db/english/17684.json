@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'colossal':",
+      "options": {
+        "a": "immense:insignificant",
+        "b": "huge:enormous",
+        "c": "gigantic:massive",
+        "d": "large:colossal"
+      },
+      "one_liner": "'Immense' is a synonym of 'colossal', while 'insignificant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

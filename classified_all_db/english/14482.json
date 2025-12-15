@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dogmatic':",
+      "options": {
+        "a": "assertive",
+        "b": "authoritative",
+        "c": "open-minded",
+        "d": "unyielding"
+      },
+      "one_liner": "An antonym of 'dogmatic' is 'open-minded', which suggests a willingness to consider different ideas.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

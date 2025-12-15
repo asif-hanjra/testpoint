@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vigilant':",
+      "options": {
+        "a": "negligent",
+        "b": "attentive",
+        "c": "heedless",
+        "d": "inattentive"
+      },
+      "one_liner": "'Vigilant' means being watchful or alert, similar to 'attentive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

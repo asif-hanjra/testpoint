@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'covert':",
+      "options": {
+        "a": "surreptitious:explicit",
+        "b": "hidden:revealed",
+        "c": "secretive:public",
+        "d": "clandestine:open"
+      },
+      "one_liner": "'Surreptitious' is a synonym of 'covert', while 'explicit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

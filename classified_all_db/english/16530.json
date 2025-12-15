@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nausea':",
+      "options": {
+        "a": "well-being",
+        "b": "discomfort",
+        "c": "sickness",
+        "d": "illness"
+      },
+      "one_liner": "The opposite of feeling 'nausea' would be a sense of 'well-being' or not feeling sick.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

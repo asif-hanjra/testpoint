@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fuss':",
+      "options": {
+        "a": "calm",
+        "b": "commotion",
+        "c": "peace",
+        "d": "harmony"
+      },
+      "one_liner": "'Fuss' refers to unnecessary excitement or activity, similar to 'commotion' or 'ado'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'scanty':",
+      "options": {
+        "a": "abundant",
+        "b": "meager",
+        "c": "limited",
+        "d": "insufficient"
+      },
+      "one_liner": "An antonym of 'scanty' is 'abundant', which means present in large quantities.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

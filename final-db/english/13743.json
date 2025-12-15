@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'constantly':",
+      "options": {
+        "a": "occasionally",
+        "b": "continuously",
+        "c": "rarely",
+        "d": "intermittently"
+      },
+      "one_liner": "'Constantly' means perpetually or ceaselessly—words like 'continuously' and 'incessantly' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

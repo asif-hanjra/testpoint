@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'atone':",
+      "options": {
+        "a": "reconcile",
+        "b": "rectify",
+        "c": "offend",
+        "d": "amend"
+      },
+      "one_liner": "Antonyms of 'atone' include 'offend' and 'wrong', both implying the causing of a problem rather than making amends for one.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'independent':",
+      "options": {
+        "a": "dependent",
+        "b": "autonomous",
+        "c": "subordinate",
+        "d": "reliant"
+      },
+      "one_liner": "'Independent' means free from outside control or not depending on another's authority—words like 'autonomous' and 'self-sufficient' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

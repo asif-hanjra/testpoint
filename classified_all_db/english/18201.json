@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'foppish':",
+      "options": {
+        "a": "dapper:drab",
+        "b": "elegant:gaudy",
+        "c": "flashy:plain",
+        "d": "snazzy:stylish"
+      },
+      "one_liner": "'Dapper' is a synonym of 'foppish', while 'drab' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

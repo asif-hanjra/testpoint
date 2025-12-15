@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'loquacious':",
+      "options": {
+        "a": "reticent",
+        "b": "garrulous",
+        "c": "verbose",
+        "d": "talkative"
+      },
+      "one_liner": "The opposite of 'loquacious' is 'reticent', which means being silent or not speaking freely.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

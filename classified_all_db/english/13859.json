@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pebble':",
+      "options": {
+        "a": "stone:cliff",
+        "b": "gravel:boulder",
+        "c": "rock:mountain",
+        "d": "cobble:sand"
+      },
+      "one_liner": "A 'stone' is a synonym for 'pebble', while 'cliff' is an antonym, representing a large rock formation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

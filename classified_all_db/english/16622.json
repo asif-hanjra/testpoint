@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'furious':",
+      "options": {
+        "a": "calm",
+        "b": "irate",
+        "c": "pleased",
+        "d": "happy"
+      },
+      "one_liner": "'Furious' means extremely angry, similar to 'irate' or 'enraged'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

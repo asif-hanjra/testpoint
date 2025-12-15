@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'florid':",
+      "options": {
+        "a": "colorful",
+        "b": "elaborate",
+        "c": "austere",
+        "d": "vivid"
+      },
+      "one_liner": "An antonym of 'florid' would be 'austere', which implies a lack of decoration or adornment.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

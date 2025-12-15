@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'exemplify':",
+      "options": {
+        "a": "clarify",
+        "b": "obfuscate",
+        "c": "highlight",
+        "d": "demonstrate"
+      },
+      "one_liner": "The antonym of 'exemplify' could be 'obfuscate', which means to make something unclear or obscure.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

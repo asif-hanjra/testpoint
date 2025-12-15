@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'frenzy':",
+      "options": {
+        "a": "hysteria:composure",
+        "b": "agitation:peace",
+        "c": "fury:serenity",
+        "d": "madness:calm"
+      },
+      "one_liner": "'Hysteria' is a synonym of 'frenzy', while 'composure' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

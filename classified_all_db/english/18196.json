@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'momentous':",
+      "options": {
+        "a": "historic",
+        "b": "trivial",
+        "c": "significant",
+        "d": "noteworthy"
+      },
+      "one_liner": "Antonyms of 'momentous' include 'trivial' and 'inconsequential', both implying a lack of importance.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

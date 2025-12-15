@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'recompense':",
+      "options": {
+        "a": "indemnity:forfeit",
+        "b": "compensation:reward",
+        "c": "remuneration:reimburse",
+        "d": "repayment:penalize"
+      },
+      "one_liner": "'Indemnity' is a synonym for 'recompense', while 'forfeit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

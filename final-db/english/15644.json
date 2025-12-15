@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lull':",
+      "options": {
+        "a": "uproar",
+        "b": "respite",
+        "c": "noise",
+        "d": "tumult"
+      },
+      "one_liner": "'Lull' means a temporary period of quiet or calm, similar to 'respite' or 'pause'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

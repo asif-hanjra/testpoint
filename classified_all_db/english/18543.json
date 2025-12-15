@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'infiltrate':",
+      "options": {
+        "a": "permeate:withdraw",
+        "b": "invade:remain",
+        "c": "penetrate:stay",
+        "d": "sneak:confront"
+      },
+      "one_liner": "'Permeate' is a synonym of 'infiltrate', while 'withdraw' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

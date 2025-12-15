@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'swift':",
+      "options": {
+        "a": "speedy",
+        "b": "prompt",
+        "c": "sluggish",
+        "d": "hasty"
+      },
+      "one_liner": "An antonym of 'swift' is 'sluggish', which means slow-moving or inactive.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

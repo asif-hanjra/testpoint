@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'shove':",
+      "options": {
+        "a": "pull",
+        "b": "push",
+        "c": "embrace",
+        "d": "catch"
+      },
+      "one_liner": "'Shove' means to push roughly, so words like 'push' and 'thrust' are synonyms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

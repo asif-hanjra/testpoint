@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'special':",
+      "options": {
+        "a": "extraordinary",
+        "b": "distinctive",
+        "c": "ordinary",
+        "d": "unique"
+      },
+      "one_liner": "Antonyms of 'special' include 'ordinary' and 'common', both implying something that is not out of the ordinary.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

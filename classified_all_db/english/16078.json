@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reconcile':",
+      "options": {
+        "a": "dispute",
+        "b": "harmonize",
+        "c": "separate",
+        "d": "clash"
+      },
+      "one_liner": "'Reconcile' means to restore friendly relations or to make consistent, similar to 'harmonize'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

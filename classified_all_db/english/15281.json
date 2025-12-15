@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'wan':",
+      "options": {
+        "a": "pale:flushed",
+        "b": "pallid:flushed",
+        "c": "sickly:rosy",
+        "d": "ashen:ruddy"
+      },
+      "one_liner": "'Pallid' is a synonym of 'wan', while 'flushed' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

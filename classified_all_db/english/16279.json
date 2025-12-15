@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'morose':",
+      "options": {
+        "a": "cheerful",
+        "b": "melancholic",
+        "c": "jovial",
+        "d": "ecstatic"
+      },
+      "one_liner": "'Morose' describes someone who is sullen or gloomy, much like the word 'melancholic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

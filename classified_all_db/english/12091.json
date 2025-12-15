@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'anonymous':",
+      "options": {
+        "a": "famous",
+        "b": "nameless",
+        "c": "noted",
+        "d": "recognized"
+      },
+      "one_liner": "'Anonymous' means unnamed or unidentified, similar to 'nameless'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'grumble':",
+      "options": {
+        "a": "praise",
+        "b": "murmur",
+        "c": "applaud",
+        "d": "compliment"
+      },
+      "one_liner": "'Grumble' means to complain about something in a low and indistinct tone—words like 'murmur' and 'mutter' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

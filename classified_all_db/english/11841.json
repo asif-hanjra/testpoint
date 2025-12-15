@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'incidence':",
+      "options": {
+        "a": "frequency",
+        "b": "commonality",
+        "c": "rarity",
+        "d": "regularity"
+      },
+      "one_liner": "An antonym of 'incidence' is 'rarity', which indicates infrequency or uncommonness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

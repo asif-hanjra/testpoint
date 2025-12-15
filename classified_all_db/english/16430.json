@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'inspired':",
+      "options": {
+        "a": "creative",
+        "b": "motivated",
+        "c": "uninspired",
+        "d": "energized"
+      },
+      "one_liner": "The antonym of 'inspired' is 'uninspired', which means lacking motivation or creativity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

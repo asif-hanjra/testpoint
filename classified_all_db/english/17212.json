@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'static':",
+      "options": {
+        "a": "stagnant:active",
+        "b": "fixed:variable",
+        "c": "steady:mobile",
+        "d": "immobile:dynamic"
+      },
+      "one_liner": "'Stagnant' is a synonym for 'static', while 'active' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

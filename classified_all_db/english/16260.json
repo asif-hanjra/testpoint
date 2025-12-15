@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "He lived ___ Model Town in Lahore.",
+      "options": {
+        "a": "on",
+        "b": "at",
+        "c": "by",
+        "d": "to"
+      },
+      "one_liner": "He lived 'at' Model Town in Lahore.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

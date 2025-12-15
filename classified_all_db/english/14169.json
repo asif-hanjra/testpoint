@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gist':",
+      "options": {
+        "a": "core",
+        "b": "essence",
+        "c": "triviality",
+        "d": "substance"
+      },
+      "one_liner": "An antonym for 'gist' is 'triviality', which refers to something of little importance as opposed to the main point.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'magnificent':",
+      "options": {
+        "a": "ordinary",
+        "b": "splendid",
+        "c": "dull",
+        "d": "mediocre"
+      },
+      "one_liner": "'Magnificent' means extremely beautiful or grand, similar to 'splendid'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

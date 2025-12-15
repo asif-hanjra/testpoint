@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pusillanimous':",
+      "options": {
+        "a": "timid",
+        "b": "cowardly",
+        "c": "brave",
+        "d": "meek"
+      },
+      "one_liner": "An antonym for 'pusillanimous' is 'brave', which means showing courage.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

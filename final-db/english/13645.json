@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cry':",
+      "options": {
+        "a": "laugh",
+        "b": "scream",
+        "c": "yell",
+        "d": "bawl"
+      },
+      "one_liner": "The opposite of 'cry', which means to express grief or pain, would be 'laugh', indicating happiness or amusement.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

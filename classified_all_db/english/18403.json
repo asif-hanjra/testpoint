@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'insufficient':",
+      "options": {
+        "a": "abundant",
+        "b": "deficient",
+        "c": "sufficient",
+        "d": "plenty"
+      },
+      "one_liner": "'Insufficient' means not enough or inadequate, similar to 'deficient'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

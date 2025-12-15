@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vindicate':",
+      "options": {
+        "a": "condemn",
+        "b": "exonerate",
+        "c": "accuse",
+        "d": "incriminate"
+      },
+      "one_liner": "'Vindicate' means to clear from blame or suspicion, similar to 'exonerate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

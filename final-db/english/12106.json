@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'latitude':",
+      "options": {
+        "a": "restriction",
+        "b": "leeway",
+        "c": "limitation",
+        "d": "constraint"
+      },
+      "one_liner": "'Latitude' can mean freedom, so words like 'leeway' and 'flexibility' are synonyms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

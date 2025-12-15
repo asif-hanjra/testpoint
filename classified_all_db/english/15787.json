@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'drone':",
+      "options": {
+        "a": "noise",
+        "b": "roar",
+        "c": "silence",
+        "d": "scream"
+      },
+      "one_liner": "The antonym of 'drone' in the context of sound would be 'silence', which indicates the absence of sound.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

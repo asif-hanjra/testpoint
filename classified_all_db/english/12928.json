@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'burgeon':",
+      "options": {
+        "a": "thrive:atrophy",
+        "b": "prosper:expand",
+        "c": "bloom:flourish",
+        "d": "grow:escalate"
+      },
+      "one_liner": "'Thrive' is a synonym of 'burgeon', while 'atrophy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

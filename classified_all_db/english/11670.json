@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deluge':",
+      "options": {
+        "a": "flood:trickle",
+        "b": "inundation:drought",
+        "c": "torrent:overflow",
+        "d": "surge:shortage"
+      },
+      "one_liner": "'Flood' is a synonym of 'deluge', while 'trickle' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

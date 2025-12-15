@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I saw a person ___ one eye.",
+      "options": {
+        "a": "with",
+        "b": "of",
+        "c": "by",
+        "d": "in"
+      },
+      "one_liner": "I saw a person 'with' one eye.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

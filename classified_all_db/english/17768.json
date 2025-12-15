@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'obelisk':",
+      "options": {
+        "a": "mound",
+        "b": "tower",
+        "c": "spire",
+        "d": "skyscraper"
+      },
+      "one_liner": "An 'obelisk' is a tall monument, whereas a 'mound' is a low earthwork, making them antonyms in terms of structure height.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

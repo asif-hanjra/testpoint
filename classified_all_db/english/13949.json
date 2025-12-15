@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'recant':",
+      "options": {
+        "a": "retract",
+        "b": "disown",
+        "c": "affirm",
+        "d": "deny"
+      },
+      "one_liner": "An antonym of 'recant' is 'affirm', which means to state something as a fact.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

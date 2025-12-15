@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nausea':",
+      "options": {
+        "a": "happiness",
+        "b": "queasiness",
+        "c": "delight",
+        "d": "pleasure"
+      },
+      "one_liner": "'Nausea' often refers to a feeling of sickness with an inclination to vomit, similar to 'queasiness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

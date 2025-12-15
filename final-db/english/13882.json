@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'yield':",
+      "options": {
+        "a": "resist",
+        "b": "produce",
+        "c": "decline",
+        "d": "withstand"
+      },
+      "one_liner": "'Yield' can mean to produce or give way, so 'produce' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

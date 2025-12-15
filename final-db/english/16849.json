@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tenacious':",
+      "options": {
+        "a": "resolute",
+        "b": "stubborn",
+        "c": "yielding",
+        "d": "determined"
+      },
+      "one_liner": "The opposite of 'tenacious' is 'yielding', which means giving up or surrendering easily.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

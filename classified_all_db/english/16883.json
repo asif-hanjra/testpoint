@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'thrive':",
+      "options": {
+        "a": "wither",
+        "b": "flourish",
+        "c": "decline",
+        "d": "fail"
+      },
+      "one_liner": "'Thrive' means to prosper or flourish, which are synonyms that convey growth and success.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

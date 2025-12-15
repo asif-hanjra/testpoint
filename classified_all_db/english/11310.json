@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What do you call a person who is unable to read or write?",
+      "options": {
+        "a": "Innumerate",
+        "b": "Illiterate",
+        "c": "Ignorant",
+        "d": "Inarticulate"
+      },
+      "one_liner": "'Illiterate' refers to a person who cannot read or write.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "One Word Substitutions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

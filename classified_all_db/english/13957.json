@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'frown':",
+      "options": {
+        "a": "smile",
+        "b": "beam",
+        "c": "glower",
+        "d": "grin"
+      },
+      "one_liner": "'Frown' means to express displeasure or concentration, often with a facial expression—words like 'scowl' and 'glower' share similar meanings.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

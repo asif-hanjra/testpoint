@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'able':",
+      "options": {
+        "a": "unable",
+        "b": "strong",
+        "c": "skillful",
+        "d": "talented"
+      },
+      "one_liner": "The opposite of 'able', which means having the ability, is 'unable', indicating a lack of ability.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

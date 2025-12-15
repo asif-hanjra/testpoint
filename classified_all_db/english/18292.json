@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hyperbole':",
+      "options": {
+        "a": "exaggeration:literalness",
+        "b": "overstatement:fact",
+        "c": "embellishment:truth",
+        "d": "amplification:accuracy"
+      },
+      "one_liner": "'Exaggeration' is a synonym of 'hyperbole', while 'literalness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

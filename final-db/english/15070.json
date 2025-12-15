@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'determined':",
+      "options": {
+        "a": "uncertain",
+        "b": "resolute",
+        "c": "hesitant",
+        "d": "doubtful"
+      },
+      "one_liner": "'Determined' means resolute or unwavering, similar to 'resolute'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

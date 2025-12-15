@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'susceptible':",
+      "options": {
+        "a": "immune",
+        "b": "prone",
+        "c": "resistant",
+        "d": "invulnerable"
+      },
+      "one_liner": "'Susceptible' means easily influenced or vulnerable, similar to 'prone' or 'liable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

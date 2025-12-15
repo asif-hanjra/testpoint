@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hastened':",
+      "options": {
+        "a": "delayed",
+        "b": "accelerated",
+        "c": "slowed",
+        "d": "halted"
+      },
+      "one_liner": "'Hastened' means to speed something up, so 'accelerated' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

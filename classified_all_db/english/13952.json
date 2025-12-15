@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'manifest':",
+      "options": {
+        "a": "obscure",
+        "b": "apparent",
+        "c": "visible",
+        "d": "noticeable"
+      },
+      "one_liner": "The antonym of 'manifest', which means clear or obvious, is 'obscure', meaning not clear or hard to see.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

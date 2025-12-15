@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gainsay':",
+      "options": {
+        "a": "acknowledge",
+        "b": "refute",
+        "c": "deny",
+        "d": "dispute"
+      },
+      "one_liner": "An antonym of 'gainsay' would be 'acknowledge', which means to accept as true.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

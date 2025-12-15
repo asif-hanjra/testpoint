@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'infallible':",
+      "options": {
+        "a": "fallible",
+        "b": "unerring",
+        "c": "reliable",
+        "d": "trustworthy"
+      },
+      "one_liner": "The antonym of 'infallible' is 'fallible', which means capable of making mistakes.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

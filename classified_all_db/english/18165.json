@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'disinterested':",
+      "options": {
+        "a": "objective:biased",
+        "b": "unbiased:fair",
+        "c": "impartial:interested",
+        "d": "neutral:unprejudiced"
+      },
+      "one_liner": "'Objective' is a synonym of 'disinterested', while 'biased' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dispassionate':",
+      "options": {
+        "a": "unbiased",
+        "b": "impartial",
+        "c": "emotional",
+        "d": "indifferent"
+      },
+      "one_liner": "An antonym of 'dispassionate' is 'emotional', which implies being influenced by emotions.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

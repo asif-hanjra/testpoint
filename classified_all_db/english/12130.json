@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obstetrician':",
+      "options": {
+        "a": "midwife:pathologist",
+        "b": "nurse:pediatrician",
+        "c": "gynecologist:cardiologist",
+        "d": "physician:surgeon"
+      },
+      "one_liner": "'Midwife' is a synonym for 'obstetrician', while 'pathologist' is an antonym, focusing on diseases rather than childbirth.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

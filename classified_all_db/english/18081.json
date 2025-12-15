@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dichotomy':",
+      "options": {
+        "a": "similarity",
+        "b": "contrast",
+        "c": "union",
+        "d": "harmony"
+      },
+      "one_liner": "'Dichotomy' refers to a division or contrast between two things that are represented as being opposed or entirely different, similar to the word 'contrast'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

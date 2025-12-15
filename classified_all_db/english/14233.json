@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'augment':",
+      "options": {
+        "a": "boost:decrease",
+        "b": "expand:enhance",
+        "c": "increase:reduce",
+        "d": "enlarge:augment"
+      },
+      "one_liner": "'Boost' is a synonym of 'augment', while 'decrease' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

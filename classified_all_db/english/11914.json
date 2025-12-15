@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'perch':",
+      "options": {
+        "a": "ascend",
+        "b": "soar",
+        "c": "descend",
+        "d": "climb"
+      },
+      "one_liner": "The antonym of 'perch', which means to sit up high, would be 'descend', meaning to move down.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

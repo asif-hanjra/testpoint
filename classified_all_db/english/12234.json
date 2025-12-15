@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'deficient':",
+      "options": {
+        "a": "inadequate",
+        "b": "lacking",
+        "c": "adequate",
+        "d": "scarce"
+      },
+      "one_liner": "The opposite of 'deficient' is 'adequate', which means having enough or satisfactory.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

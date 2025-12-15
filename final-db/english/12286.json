@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'shuck':",
+      "options": {
+        "a": "attach",
+        "b": "husk",
+        "c": "embrace",
+        "d": "bind"
+      },
+      "one_liner": "'Shuck' means to remove the outer covering, similar to 'husk' or 'peel'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adumbrate':",
+      "options": {
+        "a": "sketch:disclose",
+        "b": "outline:clarify",
+        "c": "hint:reveal",
+        "d": "suggest:explain"
+      },
+      "one_liner": "'Sketch' is a synonym of 'adumbrate', while 'disclose' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

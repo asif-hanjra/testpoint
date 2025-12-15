@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hospitable':",
+      "options": {
+        "a": "cordial:unwelcoming",
+        "b": "unfriendly:warm",
+        "c": "welcoming:hostile",
+        "d": "kind:inhospitable"
+      },
+      "one_liner": "'Cordial' is a synonym of 'hospitable', while 'unwelcoming' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

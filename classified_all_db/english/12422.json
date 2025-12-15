@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'excite':",
+      "options": {
+        "a": "thrill",
+        "b": "arouse",
+        "c": "bore",
+        "d": "energize"
+      },
+      "one_liner": "The opposite of 'excite', which means to arouse enthusiasm, is 'bore', indicating a lack of interest.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

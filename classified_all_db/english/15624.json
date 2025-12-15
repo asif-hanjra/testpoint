@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'aqueous':",
+      "options": {
+        "a": "dry",
+        "b": "watery",
+        "c": "arid",
+        "d": "parched"
+      },
+      "one_liner": "'Aqueous' refers to something relating to water, similar to 'watery'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

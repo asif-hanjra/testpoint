@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prodigious':",
+      "options": {
+        "a": "monumental:minuscule",
+        "b": "tiny:colossal",
+        "c": "vast:enormous",
+        "d": "huge:petite"
+      },
+      "one_liner": "'Monumental' is a synonym of 'prodigious', while 'minuscule' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

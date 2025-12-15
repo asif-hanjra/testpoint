@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'desolate':",
+      "options": {
+        "a": "bleak:flourishing",
+        "b": "barren:populated",
+        "c": "empty:full",
+        "d": "vacant:occupied"
+      },
+      "one_liner": "'Bleak' is a synonym of 'desolate', while 'flourishing' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

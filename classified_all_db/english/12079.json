@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'culpable':",
+      "options": {
+        "a": "guilty:exonerated",
+        "b": "blameworthy:commendable",
+        "c": "responsible:praiseworthy",
+        "d": "liable:innocent"
+      },
+      "one_liner": "'Guilty' is a synonym of 'culpable', while 'exonerated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

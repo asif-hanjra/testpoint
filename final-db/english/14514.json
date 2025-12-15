@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'recant':",
+      "options": {
+        "a": "retract:assert",
+        "b": "disavow:confirm",
+        "c": "renounce:affirm",
+        "d": "withdraw:deny"
+      },
+      "one_liner": "'Retract' is a synonym of 'recant', while 'assert' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

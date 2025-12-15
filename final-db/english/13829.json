@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'complex':",
+      "options": {
+        "a": "simple",
+        "b": "complicated",
+        "c": "elaborate",
+        "d": "intricate"
+      },
+      "one_liner": "The word 'complex' implies something with many parts, whereas 'simple' suggests something easy to understand or without much complication.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

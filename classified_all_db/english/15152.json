@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'nondescript':",
+      "options": {
+        "a": "colorful",
+        "b": "plain",
+        "c": "distinctive",
+        "d": "vivid"
+      },
+      "one_liner": "'Nondescript' means lacking distinctive features, similar to 'unremarkable' or 'plain'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

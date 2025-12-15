@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'frightened':",
+      "options": {
+        "a": "alarmed:courageous",
+        "b": "scared:brave",
+        "c": "terrified:calm",
+        "d": "nervous:fearless"
+      },
+      "one_liner": "'Alarmed' is a synonym of 'frightened', while 'courageous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

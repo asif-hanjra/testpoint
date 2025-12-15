@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'enlarge':",
+      "options": {
+        "a": "amplify:diminish",
+        "b": "extend:contract",
+        "c": "broaden:narrow",
+        "d": "escalate:decline"
+      },
+      "one_liner": "'Amplify' is a synonym of 'enlarge', while 'diminish' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'abbreviation':",
+      "options": {
+        "a": "contraction:extension",
+        "b": "shortening:elongation",
+        "c": "reduction:expansion",
+        "d": "compression:amplification"
+      },
+      "one_liner": "'Contraction' is a synonym of 'abbreviation', while 'extension' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

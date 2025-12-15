@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'explicate':",
+      "options": {
+        "a": "clarify",
+        "b": "elucidate",
+        "c": "obfuscate",
+        "d": "explain"
+      },
+      "one_liner": "Antonyms of 'explicate' include 'obfuscate' and 'confuse', both implying making something less clear.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

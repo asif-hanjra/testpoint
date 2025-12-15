@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quibble':",
+      "options": {
+        "a": "cavil:concede",
+        "b": "bicker:harmonize",
+        "c": "nitpick:agree",
+        "d": "dispute:concur"
+      },
+      "one_liner": "'Cavil' is a synonym for 'quibble', while 'concede' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

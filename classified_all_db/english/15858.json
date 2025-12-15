@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'easy':",
+      "options": {
+        "a": "effortless:challenging",
+        "b": "simple:complex",
+        "c": "straightforward:complicated",
+        "d": "light:heavy"
+      },
+      "one_liner": "'Effortless' is a synonym of 'easy', while 'challenging' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

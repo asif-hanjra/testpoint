@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cessation':",
+      "options": {
+        "a": "continuation",
+        "b": "termination",
+        "c": "progress",
+        "d": "advancement"
+      },
+      "one_liner": "'Cessation' refers to the act of stopping or ending, similar to 'termination'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

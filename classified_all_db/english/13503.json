@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'retaliate':",
+      "options": {
+        "a": "reprisal:reconcile",
+        "b": "counter:make peace",
+        "c": "revenge:condone",
+        "d": "avenge:accept"
+      },
+      "one_liner": "'Reprisal' is a synonym of 'retaliate', while 'reconcile' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

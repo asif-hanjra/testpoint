@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'placate':",
+      "options": {
+        "a": "enrage",
+        "b": "appease",
+        "c": "aggravate",
+        "d": "antagonize"
+      },
+      "one_liner": "'Placate' means to make someone less angry or hostile, similar to 'appease' or 'pacify'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

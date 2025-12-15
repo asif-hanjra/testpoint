@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fluffy':",
+      "options": {
+        "a": "airy",
+        "b": "soft",
+        "c": "dense",
+        "d": "light"
+      },
+      "one_liner": "An antonym of 'fluffy' would be 'dense', which implies a lack of airiness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

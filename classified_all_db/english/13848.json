@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'omniscient':",
+      "options": {
+        "a": "ignorant",
+        "b": "unknowing",
+        "c": "all-knowing",
+        "d": "uninformed"
+      },
+      "one_liner": "'Omniscient' refers to having complete or unlimited knowledge, similar to being 'all-knowing'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

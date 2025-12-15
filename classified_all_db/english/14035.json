@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'zest':",
+      "options": {
+        "a": "passion:indifference",
+        "b": "excitement:enthusiasm",
+        "c": "vigor:energy",
+        "d": "ardor:zeal"
+      },
+      "one_liner": "'Passion' is a synonym of 'zest', while 'indifference' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

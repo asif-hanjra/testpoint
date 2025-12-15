@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'limpid':",
+      "options": {
+        "a": "transparent",
+        "b": "murky",
+        "c": "clear",
+        "d": "lucid"
+      },
+      "one_liner": "An antonym of 'limpid' is 'murky', which means not clear or hard to see through.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

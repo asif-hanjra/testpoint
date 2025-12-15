@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'decay':",
+      "options": {
+        "a": "preservation",
+        "b": "rot",
+        "c": "spoil",
+        "d": "degrade"
+      },
+      "one_liner": "The antonym of 'decay' is 'preservation', which means to maintain something in its original or existing state.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

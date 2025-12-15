@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gullible':",
+      "options": {
+        "a": "skeptical",
+        "b": "credulous",
+        "c": "distrustful",
+        "d": "wary"
+      },
+      "one_liner": "'Gullible' refers to someone who is easily deceived or naive, much like the word 'credulous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'skeptical':",
+      "options": {
+        "a": "distrustful:naive",
+        "b": "uncertain:believing",
+        "c": "wary:trusting",
+        "d": "hesitant:assured"
+      },
+      "one_liner": "'Distrustful' is a synonym of 'skeptical', while 'naive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

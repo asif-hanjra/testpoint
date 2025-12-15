@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'bewildered':",
+      "options": {
+        "a": "confused",
+        "b": "lost",
+        "c": "enlightened",
+        "d": "perplexed"
+      },
+      "one_liner": "An antonym of 'bewildered' is 'enlightened', which means having a clear understanding.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

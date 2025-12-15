@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'substantial':",
+      "options": {
+        "a": "insignificant",
+        "b": "trivial",
+        "c": "significant",
+        "d": "negligible"
+      },
+      "one_liner": "'Substantial' means considerable in quantity or size, similar to 'significant'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

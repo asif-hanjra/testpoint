@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conjecture':",
+      "options": {
+        "a": "theory",
+        "b": "hypothesis",
+        "c": "fact",
+        "d": "guess"
+      },
+      "one_liner": "The antonym of 'conjecture', which is a form of speculation, would be 'fact', representing something known to be true.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

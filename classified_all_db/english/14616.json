@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'recede':",
+      "options": {
+        "a": "retreat",
+        "b": "withdraw",
+        "c": "advance",
+        "d": "ebb"
+      },
+      "one_liner": "An antonym of 'recede' is 'advance', which means to move forward.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

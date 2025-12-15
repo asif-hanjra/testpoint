@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Our flight was diverted ___ Lahore to Islamabad.",
+      "options": {
+        "a": "by",
+        "b": "from",
+        "c": "at",
+        "d": "with"
+      },
+      "one_liner": "Our flight was diverted 'from' Lahore to Islamabad.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

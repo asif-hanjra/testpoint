@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'barbaric':",
+      "options": {
+        "a": "savage",
+        "b": "uncivilized",
+        "c": "civilized",
+        "d": "wild"
+      },
+      "one_liner": "The antonym of 'barbaric' is 'civilized', which refers to a state of advanced social development and organization.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

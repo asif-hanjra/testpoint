@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'smooth':",
+      "options": {
+        "a": "polished",
+        "b": "sleek",
+        "c": "rough",
+        "d": "glossy"
+      },
+      "one_liner": "The antonym of 'smooth' is 'rough', which describes a surface that is not even or refined.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

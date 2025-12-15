@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'comical':",
+      "options": {
+        "a": "hilarious:solemn",
+        "b": "funny:entertaining",
+        "c": "amusing:hilarious",
+        "d": "witty:serious"
+      },
+      "one_liner": "'Hilarious' is a synonym of 'comical', while 'solemn' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

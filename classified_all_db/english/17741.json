@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'opulence':",
+      "options": {
+        "a": "wealth",
+        "b": "luxury",
+        "c": "poverty",
+        "d": "richness"
+      },
+      "one_liner": "An antonym of 'opulence' is 'poverty', which signifies a lack of wealth.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

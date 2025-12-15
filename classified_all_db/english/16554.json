@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'antiseptic':",
+      "options": {
+        "a": "sterilizing:germy",
+        "b": "clean:contaminated",
+        "c": "disinfectant:sterile",
+        "d": "sanitary:dirty"
+      },
+      "one_liner": "'Sterilizing' is a synonym of 'antiseptic', while 'germy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

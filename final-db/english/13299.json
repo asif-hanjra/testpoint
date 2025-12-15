@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dogmatic':",
+      "options": {
+        "a": "flexible",
+        "b": "doctrinaire",
+        "c": "uncertain",
+        "d": "open-minded"
+      },
+      "one_liner": "'Dogmatic' implies being opinionated or assertive, much like 'doctrinaire'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

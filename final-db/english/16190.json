@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fake':",
+      "options": {
+        "a": "authentic",
+        "b": "bogus",
+        "c": "original",
+        "d": "real"
+      },
+      "one_liner": "'Fake' means not genuine or counterfeit, similar to the word 'bogus'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

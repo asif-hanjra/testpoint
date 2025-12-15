@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'diminish':",
+      "options": {
+        "a": "increase",
+        "b": "decrease",
+        "c": "expand",
+        "d": "enlarge"
+      },
+      "one_liner": "'Diminish' means to reduce or lessen, similar to 'decrease'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

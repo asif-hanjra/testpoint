@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'emissary':",
+      "options": {
+        "a": "ambassador:adversary",
+        "b": "ally:opponent",
+        "c": "delegate:associate",
+        "d": "envoy:friend"
+      },
+      "one_liner": "'Ambassador' is a synonym of 'emissary', while 'adversary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

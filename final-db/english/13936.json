@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'regular':",
+      "options": {
+        "a": "irregular",
+        "b": "standard",
+        "c": "typical",
+        "d": "normal"
+      },
+      "one_liner": "Antonyms of 'regular' include 'irregular' and 'unusual', both suggesting deviation from the norm.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'earnest':",
+      "options": {
+        "a": "serious:insincere",
+        "b": "genuine:frivolous",
+        "c": "sincere:serious",
+        "d": "honest:deceptive"
+      },
+      "one_liner": "'Serious' is a synonym of 'earnest', while 'insincere' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

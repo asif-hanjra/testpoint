@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin phrase 'De novo' mean in English?",
+      "options": {
+        "a": "Of the day",
+        "b": "From the beginning",
+        "c": "With honor",
+        "d": "Before the war"
+      },
+      "one_liner": "The phrase 'De novo' translates to 'From the beginning,' implying starting anew or afresh.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

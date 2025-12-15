@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conscientious':",
+      "options": {
+        "a": "careless",
+        "b": "meticulous",
+        "c": "negligent",
+        "d": "sloppy"
+      },
+      "one_liner": "'Conscientious' describes someone who is diligent and careful, much like someone who is 'meticulous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

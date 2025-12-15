@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'rarefy':",
+      "options": {
+        "a": "purify",
+        "b": "refine",
+        "c": "condense",
+        "d": "clarify"
+      },
+      "one_liner": "The antonym of 'rarefy' is 'condense', which means to make more dense or concentrated.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

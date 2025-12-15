@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'consensus':",
+      "options": {
+        "a": "discord",
+        "b": "accord",
+        "c": "disagreement",
+        "d": "conflict"
+      },
+      "one_liner": "'Consensus' refers to general agreement or harmony, similar to 'accord'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

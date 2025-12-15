@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'prejudiced':",
+      "options": {
+        "a": "partisan:neutral",
+        "b": "fair:biased",
+        "c": "impartial:partial",
+        "d": "objective:subjective"
+      },
+      "one_liner": "'Partisan' is a synonym of 'prejudiced', while 'neutral' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

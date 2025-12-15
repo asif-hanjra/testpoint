@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'intestate':",
+      "options": {
+        "a": "testate",
+        "b": "unwilled",
+        "c": "documented",
+        "d": "registered"
+      },
+      "one_liner": "'Intestate' refers to a person who has died without a will, similar to 'unwilled'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

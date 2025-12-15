@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'unbiased':",
+      "options": {
+        "a": "fair",
+        "b": "neutral",
+        "c": "partial",
+        "d": "impartial"
+      },
+      "one_liner": "An antonym of 'unbiased' is 'partial', indicating a preference or bias.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

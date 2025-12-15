@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vitality':",
+      "options": {
+        "a": "energy",
+        "b": "vigor",
+        "c": "listlessness",
+        "d": "strength"
+      },
+      "one_liner": "While 'vitality' suggests liveliness, its antonym 'listlessness' implies a lack of energy and enthusiasm.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

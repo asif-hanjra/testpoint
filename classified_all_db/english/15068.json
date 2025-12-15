@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'susceptible':",
+      "options": {
+        "a": "vulnerable",
+        "b": "liable",
+        "c": "immune",
+        "d": "exposed"
+      },
+      "one_liner": "An antonym of 'susceptible' is 'immune', which means not easily affected or harmed.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

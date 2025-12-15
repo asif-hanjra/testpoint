@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'verdant':",
+      "options": {
+        "a": "arid",
+        "b": "lush",
+        "c": "barren",
+        "d": "parched"
+      },
+      "one_liner": "'Verdant' describes something green with vegetation, much like the word 'lush'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

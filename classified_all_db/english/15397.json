@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'digress':",
+      "options": {
+        "a": "adhere",
+        "b": "deviate",
+        "c": "converge",
+        "d": "comply"
+      },
+      "one_liner": "'Digress' means to stray from the main subject in speech or writing, similar to 'deviate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

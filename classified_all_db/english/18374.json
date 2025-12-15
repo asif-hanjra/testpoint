@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'adjourn':",
+      "options": {
+        "a": "advance",
+        "b": "postpone",
+        "c": "hasten",
+        "d": "accelerate"
+      },
+      "one_liner": "'Adjourn' means to suspend proceedings to a later time or place, similar to 'postpone'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

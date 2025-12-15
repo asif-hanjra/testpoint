@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'endeavor':",
+      "options": {
+        "a": "pursue",
+        "b": "strive",
+        "c": "abandon",
+        "d": "attempt"
+      },
+      "one_liner": "An antonym of 'endeavor' is 'abandon', which means to give up completely.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

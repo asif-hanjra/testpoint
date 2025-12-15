@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I was astonished ___ his behavior.",
+      "options": {
+        "a": "in",
+        "b": "at",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "I was astonished 'at' his behavior.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

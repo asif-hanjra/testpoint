@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'matter':",
+      "options": {
+        "a": "substance:antimatter",
+        "b": "material:nothingness",
+        "c": "element:void",
+        "d": "energy:space"
+      },
+      "one_liner": "'Material' is a synonym for 'matter', while 'nothingness' is an antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

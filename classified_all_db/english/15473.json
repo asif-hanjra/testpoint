@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'glad':",
+      "options": {
+        "a": "happy:sad",
+        "b": "content:dismal",
+        "c": "cheerful:joyful",
+        "d": "elated:ecstatic"
+      },
+      "one_liner": "'Content' is a synonym of 'glad', while 'dismal' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

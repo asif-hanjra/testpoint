@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'shallow':",
+      "options": {
+        "a": "deep",
+        "b": "trivial",
+        "c": "surface",
+        "d": "slight"
+      },
+      "one_liner": "The antonym of 'shallow' is 'deep', indicating significant depth or complexity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

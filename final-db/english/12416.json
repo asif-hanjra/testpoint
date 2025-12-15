@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quit':",
+      "options": {
+        "a": "continue",
+        "b": "cease",
+        "c": "persist",
+        "d": "endure"
+      },
+      "one_liner": "'Quit' means to leave or stop doing something, similar to 'abandon' or 'cease'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

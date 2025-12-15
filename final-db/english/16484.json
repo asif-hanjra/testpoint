@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'reputable':",
+      "options": {
+        "a": "notorious",
+        "b": "honorable",
+        "c": "disreputable",
+        "d": "famous"
+      },
+      "one_liner": "A word that means the opposite of 'reputable' is 'disreputable', which implies a lack of good reputation.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

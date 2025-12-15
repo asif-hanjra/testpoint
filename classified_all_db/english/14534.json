@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'enthral':",
+      "options": {
+        "a": "charm",
+        "b": "captivate",
+        "c": "bore",
+        "d": "delight"
+      },
+      "one_liner": "The antonym of 'enthral' is 'bore', as it means to fail to capture interest.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

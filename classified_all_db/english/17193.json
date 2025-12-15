@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'convoluted':",
+      "options": {
+        "a": "simple",
+        "b": "intricate",
+        "c": "straightforward",
+        "d": "clear"
+      },
+      "one_liner": "'Convoluted' describes something that is extremely complex and difficult to follow, much like 'complicated' or 'intricate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

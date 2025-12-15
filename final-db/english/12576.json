@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'drab':",
+      "options": {
+        "a": "dull:bright",
+        "b": "cheerful:colorful",
+        "c": "dreary:vibrant",
+        "d": "gloomy:lively"
+      },
+      "one_liner": "'Dull' is a synonym of 'drab', while 'bright' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

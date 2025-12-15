@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'epitome':",
+      "options": {
+        "a": "quintessence:antithesis",
+        "b": "paragon:embodiment",
+        "c": "exemplar:opposite",
+        "d": "archetype:same"
+      },
+      "one_liner": "'Embodiment' is a synonym of 'epitome', while 'antithesis' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

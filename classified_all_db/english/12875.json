@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gaunt':",
+      "options": {
+        "a": "bony:corpulent",
+        "b": "emaciated:robust",
+        "c": "lean:plump",
+        "d": "skeletal:hefty"
+      },
+      "one_liner": "'Bony' is a synonym of 'gaunt', while 'corpulent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

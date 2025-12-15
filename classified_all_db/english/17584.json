@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'misnomer':",
+      "options": {
+        "a": "accuracy",
+        "b": "mislabeling",
+        "c": "truth",
+        "d": "propriety"
+      },
+      "one_liner": "'Misnomer' refers to an incorrect or inappropriate name, much like a 'mislabeling'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

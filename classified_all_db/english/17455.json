@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fickle':",
+      "options": {
+        "a": "steadfast",
+        "b": "volatile",
+        "c": "mercurial",
+        "d": "unpredictable"
+      },
+      "one_liner": "An antonym of 'fickle' is 'steadfast', which means firm and unwavering in purpose or loyalty.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

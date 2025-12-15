@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I should dip ___ my investments to pay charges.",
+      "options": {
+        "a": "on",
+        "b": "into",
+        "c": "in",
+        "d": "at"
+      },
+      "one_liner": "I should dip 'into' my investments to pay charges.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

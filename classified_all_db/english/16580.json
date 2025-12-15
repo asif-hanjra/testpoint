@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lope':",
+      "options": {
+        "a": "stroll",
+        "b": "gallop",
+        "c": "crawl",
+        "d": "amble"
+      },
+      "one_liner": "'Lope' refers to a long, bounding stride, similar to 'gallop' or 'trot'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

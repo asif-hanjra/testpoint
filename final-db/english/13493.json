@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'inquisitive':",
+      "options": {
+        "a": "indifferent",
+        "b": "inquiring",
+        "c": "uninterested",
+        "d": "dispassionate"
+      },
+      "one_liner": "'Inquisitive' describes someone who is very curious, much like someone who is 'inquiring'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'insufficient':",
+      "options": {
+        "a": "inadequate",
+        "b": "lacking",
+        "c": "adequate",
+        "d": "scarce"
+      },
+      "one_liner": "The word 'insufficient' has an antonym 'adequate', which means having enough or satisfactory.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

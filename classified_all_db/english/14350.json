@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pleasant':",
+      "options": {
+        "a": "delightful:agreeable",
+        "b": "enjoyable:disagreeable",
+        "c": "pleasing:unpleasant",
+        "d": "charming:harsh"
+      },
+      "one_liner": "'Enjoyable' is a synonym of 'pleasant', while 'disagreeable' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

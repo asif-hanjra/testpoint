@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'belie':",
+      "options": {
+        "a": "conceal",
+        "b": "distort",
+        "c": "obscure",
+        "d": "reveal"
+      },
+      "one_liner": "An antonym of 'belie' is 'reveal', which means to make known or to show plainly.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

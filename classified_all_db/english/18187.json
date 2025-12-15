@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'tacit':",
+      "options": {
+        "a": "unspoken:expressed",
+        "b": "silent:loud",
+        "c": "implicit:articulate",
+        "d": "inferred:vocal"
+      },
+      "one_liner": "'Unspoken' is a synonym of 'tacit', while 'expressed' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'platitude':",
+      "options": {
+        "a": "originality",
+        "b": "cliche",
+        "c": "novelty",
+        "d": "innovation"
+      },
+      "one_liner": "'Platitude' refers to a trite or banal remark, similar to a 'cliche'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

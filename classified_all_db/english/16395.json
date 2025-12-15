@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'denounce':",
+      "options": {
+        "a": "criticize:endorse",
+        "b": "accuse:support",
+        "c": "condemn:approve",
+        "d": "blame:praise"
+      },
+      "one_liner": "'Criticize' is a synonym of 'denounce', while 'endorse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

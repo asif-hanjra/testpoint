@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intestate':",
+      "options": {
+        "a": "unwilled:testate",
+        "b": "testate:unwilled",
+        "c": "documented:undocumented",
+        "d": "registered:unregistered"
+      },
+      "one_liner": "'Unwilled' is a synonym of 'intestate', while 'testate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

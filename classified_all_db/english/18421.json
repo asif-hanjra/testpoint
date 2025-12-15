@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'vogue':",
+      "options": {
+        "a": "fashionable:unpopular",
+        "b": "modern:classic",
+        "c": "trendy:timeless",
+        "d": "current:obsolete"
+      },
+      "one_liner": "'Fashionable' is a synonym of 'vogue', while 'unpopular' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

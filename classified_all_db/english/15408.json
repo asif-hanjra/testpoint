@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'philanthropist':",
+      "options": {
+        "a": "benefactor:selfish person",
+        "b": "donor:misanthrope",
+        "c": "adversary:ally",
+        "d": "opponent:proponent"
+      },
+      "one_liner": "'Humanitarian' is a synonym of 'philanthropist', while 'selfish person' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

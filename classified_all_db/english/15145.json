@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'rebate':",
+      "options": {
+        "a": "refund:surcharge",
+        "b": "premium:discount",
+        "c": "deduction:markup",
+        "d": "discount:premium"
+      },
+      "one_liner": "The word 'rebate' is synonymous with 'refund', and its antonym is 'surcharge'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

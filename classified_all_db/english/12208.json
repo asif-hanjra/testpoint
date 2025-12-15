@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'zealot':",
+      "options": {
+        "a": "extremist:moderate",
+        "b": "passionate:enthusiast",
+        "c": "fanatic:fan",
+        "d": "devotee:activist"
+      },
+      "one_liner": "'Extremist' is a synonym of 'zealot', while 'moderate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

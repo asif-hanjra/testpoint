@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pudgy':",
+      "options": {
+        "a": "plump:thin",
+        "b": "chubby:plump",
+        "c": "rotund:slender",
+        "d": "heavy:bulky"
+      },
+      "one_liner": "'Plump' is a synonym of 'pudgy', while 'thin' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

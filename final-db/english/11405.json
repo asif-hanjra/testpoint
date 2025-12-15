@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'literal':",
+      "options": {
+        "a": "figurative",
+        "b": "metaphorical",
+        "c": "verbatim",
+        "d": "symbolic"
+      },
+      "one_liner": "'Literal' means taking words in their usual or most basic sense without metaphor or exaggeration, similar to 'verbatim'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

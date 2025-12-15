@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'precipitate':",
+      "options": {
+        "a": "expedite:procrastinate",
+        "b": "hurry:accelerate",
+        "c": "rush:postpone",
+        "d": "quicken:advance"
+      },
+      "one_liner": "'Expedite' is a synonym of 'precipitate', while 'procrastinate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'olfactory':",
+      "options": {
+        "a": "visual",
+        "b": "aromatic",
+        "c": "auditory",
+        "d": "tactile"
+      },
+      "one_liner": "'Olfactory' relates to the sense of smell, similar to how 'aromatic' pertains to odors.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

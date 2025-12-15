@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'grizzly':",
+      "options": {
+        "a": "terrifying",
+        "b": "soothing",
+        "c": "frightening",
+        "d": "horrific"
+      },
+      "one_liner": "The antonym of 'grizzly', when used to describe something frightening, could be 'soothing' or 'comforting'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

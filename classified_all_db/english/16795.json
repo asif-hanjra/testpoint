@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Birds of a feather flock ___.",
+      "options": {
+        "a": "with",
+        "b": "together",
+        "c": "by",
+        "d": "among"
+      },
+      "one_liner": "Birds of a feather flock 'together.'",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

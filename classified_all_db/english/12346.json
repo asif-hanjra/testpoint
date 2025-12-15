@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'collision':",
+      "options": {
+        "a": "crash:harmony",
+        "b": "impact:agreement",
+        "c": "clash:peace",
+        "d": "bump:concord"
+      },
+      "one_liner": "'Crash' is a synonym of 'collision', while 'harmony' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

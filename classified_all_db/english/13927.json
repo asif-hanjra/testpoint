@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'mobile':",
+      "options": {
+        "a": "portable",
+        "b": "flexible",
+        "c": "immobile",
+        "d": "movable"
+      },
+      "one_liner": "An antonym of 'mobile' is 'immobile', which means not capable of movement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

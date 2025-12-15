@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'promptly':",
+      "options": {
+        "a": "rapidly",
+        "b": "quickly",
+        "c": "slowly",
+        "d": "swiftly"
+      },
+      "one_liner": "An antonym for 'promptly' is 'slowly', which indicates a lack of speed or urgency.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

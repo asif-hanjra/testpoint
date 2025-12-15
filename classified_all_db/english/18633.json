@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'foppish':",
+      "options": {
+        "a": "plain",
+        "b": "dandified",
+        "c": "modest",
+        "d": "simple"
+      },
+      "one_liner": "'Foppish' describes someone who is excessively concerned with fashion, similar to 'dandified'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

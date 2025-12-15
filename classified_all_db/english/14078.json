@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'win':",
+      "options": {
+        "a": "conquer",
+        "b": "succeed",
+        "c": "lose",
+        "d": "achieve"
+      },
+      "one_liner": "The opposite of 'win' is 'lose', which means to fail to win.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

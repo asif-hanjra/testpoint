@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'demolish':",
+      "options": {
+        "a": "wreck:repair",
+        "b": "destroy:build",
+        "c": "raze:erect",
+        "d": "demolish:construct"
+      },
+      "one_liner": "'Wreck' is a synonym of 'demolish', while 'repair' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'savant':",
+      "options": {
+        "a": "novice",
+        "b": "scholar",
+        "c": "beginner",
+        "d": "amateur"
+      },
+      "one_liner": "'Savant' refers to a learned person, much like a 'scholar'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

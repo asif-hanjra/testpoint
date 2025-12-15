@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'imbibe':",
+      "options": {
+        "a": "reject",
+        "b": "consume",
+        "c": "dehydrate",
+        "d": "repel"
+      },
+      "one_liner": "'Imbibe' means to drink or absorb, so 'consume' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

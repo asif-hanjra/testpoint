@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cozy':",
+      "options": {
+        "a": "spacious",
+        "b": "snug",
+        "c": "harsh",
+        "d": "cold"
+      },
+      "one_liner": "'Cozy' means comfortable and warm, similar to 'snug'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

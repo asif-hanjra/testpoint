@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'opaque':",
+      "options": {
+        "a": "transparent",
+        "b": "murky",
+        "c": "cloudy",
+        "d": "hazy"
+      },
+      "one_liner": "The antonym of 'opaque' is 'transparent', meaning allowing light to pass through so that objects behind can be distinctly seen.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

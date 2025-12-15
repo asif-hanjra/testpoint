@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'imminent':",
+      "options": {
+        "a": "distant",
+        "b": "impending",
+        "c": "remote",
+        "d": "delayed"
+      },
+      "one_liner": "'Imminent' refers to something about to happen, similar to 'impending'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

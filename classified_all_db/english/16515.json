@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'filthy':",
+      "options": {
+        "a": "grimy:spotless",
+        "b": "dirty:pristine",
+        "c": "squalid:clean",
+        "d": "unclean:immaculate"
+      },
+      "one_liner": "'Grimy' is a synonym for 'filthy', while 'spotless' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

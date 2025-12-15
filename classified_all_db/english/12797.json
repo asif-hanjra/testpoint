@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conscript':",
+      "options": {
+        "a": "volunteer",
+        "b": "enlistee",
+        "c": "recruit",
+        "d": "cadet"
+      },
+      "one_liner": "The opposite of a 'conscript', who is compelled to serve, is a 'volunteer', who serves by choice.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

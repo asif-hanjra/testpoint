@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'beautiful':",
+      "options": {
+        "a": "gorgeous",
+        "b": "pretty",
+        "c": "ugly",
+        "d": "handsome"
+      },
+      "one_liner": "The opposite of 'beautiful', which means pleasing to the senses, would be 'unattractive' or 'ugly'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

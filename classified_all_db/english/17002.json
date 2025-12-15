@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'defiant':",
+      "options": {
+        "a": "rebellious:docile",
+        "b": "submissive:obedient",
+        "c": "defiant:compliant",
+        "d": "insubordinate:submissive"
+      },
+      "one_liner": "'Rebellious' is a synonym for 'defiant', while 'docile' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'subsequent':",
+      "options": {
+        "a": "preceding",
+        "b": "following",
+        "c": "succeeding",
+        "d": "later"
+      },
+      "one_liner": "The antonym of 'subsequent' is 'preceding', which means coming before something in time or order.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

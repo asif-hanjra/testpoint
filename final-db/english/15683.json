@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'idiosyncrasy':",
+      "options": {
+        "a": "uniformity",
+        "b": "quirk",
+        "c": "conformity",
+        "d": "similarity"
+      },
+      "one_liner": "'Idiosyncrasy' refers to a peculiar habit or trait, similar to 'quirk'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

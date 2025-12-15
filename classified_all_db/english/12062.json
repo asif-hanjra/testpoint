@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'reveal':",
+      "options": {
+        "a": "hide",
+        "b": "disclose",
+        "c": "conceal",
+        "d": "mask"
+      },
+      "one_liner": "'Reveal' means to make known or uncover, similar to 'disclose'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

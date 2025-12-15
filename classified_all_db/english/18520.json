@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'torpor':",
+      "options": {
+        "a": "languor:activity",
+        "b": "stupor:energy",
+        "c": "lethargy:animation",
+        "d": "inactivity:vigor"
+      },
+      "one_liner": "'Languor' is a synonym of 'torpor', while 'activity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

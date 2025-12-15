@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'question':",
+      "options": {
+        "a": "query",
+        "b": "doubt",
+        "c": "answer",
+        "d": "interrogation"
+      },
+      "one_liner": "The antonym of 'question' is 'answer', as they represent opposite actions in a dialogue.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

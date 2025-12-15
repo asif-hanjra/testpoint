@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'disrobe':",
+      "options": {
+        "a": "strip",
+        "b": "dress",
+        "c": "bare",
+        "d": "uncover"
+      },
+      "one_liner": "The antonym of 'disrobe' is 'dress', which means to put on clothes.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

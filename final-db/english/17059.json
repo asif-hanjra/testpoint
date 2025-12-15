@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'specious':",
+      "options": {
+        "a": "invalid",
+        "b": "false",
+        "c": "valid",
+        "d": "illogical"
+      },
+      "one_liner": "An antonym of 'specious' is 'valid', which means sound or well-founded.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

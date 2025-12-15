@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'austere':",
+      "options": {
+        "a": "spartan:ornate",
+        "b": "harsh:gentle",
+        "c": "stern:plush",
+        "d": "rigid:soft"
+      },
+      "one_liner": "'Spartan' is a synonym of 'austere', while 'ornate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

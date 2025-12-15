@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'independent':",
+      "options": {
+        "a": "self-governing:subservient",
+        "b": "reliant:autonomous",
+        "c": "dependent:self-reliant",
+        "d": "subordinate:self-sufficient"
+      },
+      "one_liner": "'Self-governing' is a synonym of 'independent', while 'subservient' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'slander':",
+      "options": {
+        "a": "praise",
+        "b": "defamation",
+        "c": "libel",
+        "d": "vilification"
+      },
+      "one_liner": "The antonym of 'slander' is 'praise', which means expressing approval or admiration.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

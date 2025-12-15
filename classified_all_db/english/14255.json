@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'note':",
+      "options": {
+        "a": "remark:disregard",
+        "b": "memo:mention",
+        "c": "notation:observe",
+        "d": "record:ignore"
+      },
+      "one_liner": "'Remark' is a synonym of 'note', while 'disregard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

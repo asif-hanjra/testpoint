@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'iterate':",
+      "options": {
+        "a": "halt",
+        "b": "reiterate",
+        "c": "cease",
+        "d": "begin"
+      },
+      "one_liner": "'Iterate' means to repeat or do something again, similar to 'reiterate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

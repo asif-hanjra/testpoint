@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nostalgic':",
+      "options": {
+        "a": "sentimental:progressive",
+        "b": "melancholic:cheerful",
+        "c": "reflective:innovative",
+        "d": "pensive:modern"
+      },
+      "one_liner": "'Sentimental' is a synonym of 'nostalgic', while 'progressive' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

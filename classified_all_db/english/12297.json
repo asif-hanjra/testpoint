@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'eminent':",
+      "options": {
+        "a": "famous",
+        "b": "notable",
+        "c": "obscure",
+        "d": "renowned"
+      },
+      "one_liner": "The antonym of 'eminent' is 'obscure', which means not well-known or distinguished.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

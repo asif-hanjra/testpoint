@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'advocate':",
+      "options": {
+        "a": "opponent",
+        "b": "champion",
+        "c": "critic",
+        "d": "adversary"
+      },
+      "one_liner": "'Advocate' means to support or argue for a cause, similar to 'champion' or 'proponent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

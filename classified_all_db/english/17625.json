@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'continuous':",
+      "options": {
+        "a": "finite",
+        "b": "unending",
+        "c": "intermittent",
+        "d": "discrete"
+      },
+      "one_liner": "'Continuous' implies something that is unbroken or uninterrupted, similar to 'unending'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

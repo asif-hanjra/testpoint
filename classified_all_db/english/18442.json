@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'imposture':",
+      "options": {
+        "a": "fraud:sincerity",
+        "b": "deceit:honesty",
+        "c": "hoax:truth",
+        "d": "charade:integrity"
+      },
+      "one_liner": "'Fraud' is a synonym of 'imposture', while 'sincerity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'uprightness':",
+      "options": {
+        "a": "integrity",
+        "b": "honesty",
+        "c": "corruption",
+        "d": "honor"
+      },
+      "one_liner": "The opposite of 'uprightness' is 'corruption', which denotes a lack of integrity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'officious':",
+      "options": {
+        "a": "meddlesome",
+        "b": "assertive",
+        "c": "unobtrusive",
+        "d": "aggressive"
+      },
+      "one_liner": "An antonym of 'officious' is 'unobtrusive', which means not attracting attention or not assertive.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'contrite':",
+      "options": {
+        "a": "defiant",
+        "b": "penitent",
+        "c": "boastful",
+        "d": "arrogant"
+      },
+      "one_liner": "'Contrite' describes a feeling of remorse or guilt, similar to 'penitent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'interregnum':",
+      "options": {
+        "a": "disruption",
+        "b": "continuity",
+        "c": "gap",
+        "d": "cessation"
+      },
+      "one_liner": "An 'interregnum' is a pause in control, whereas 'continuity' represents an unbroken duration of governance.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

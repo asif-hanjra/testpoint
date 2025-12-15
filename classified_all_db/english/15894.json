@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the phrase 'to drive home':",
+      "options": {
+        "a": "reinforce:neglect",
+        "b": "underscore:highlight",
+        "c": "emphasize:remember",
+        "d": "clarify:confuse"
+      },
+      "one_liner": "'Reinforce' is a synonym for 'to drive home', while 'neglect' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

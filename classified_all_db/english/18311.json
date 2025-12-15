@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'kith':",
+      "options": {
+        "a": "enemies",
+        "b": "strangers",
+        "c": "companions",
+        "d": "opponents"
+      },
+      "one_liner": "'Kith' refers to one's friends or acquaintances, similar to 'companions' or 'associates'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

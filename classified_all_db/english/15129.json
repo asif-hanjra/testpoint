@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'auspicious':",
+      "options": {
+        "a": "fortunate",
+        "b": "lucky",
+        "c": "inauspicious",
+        "d": "favorable"
+      },
+      "one_liner": "An antonym of 'auspicious' is 'inauspicious', which suggests unfavorable conditions.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

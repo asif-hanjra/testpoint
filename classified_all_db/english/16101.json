@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'linen':",
+      "options": {
+        "a": "cotton",
+        "b": "polyester",
+        "c": "metal",
+        "d": "nylon"
+      },
+      "one_liner": "An antonym for 'linen', which is a type of fabric, would be 'metal', as it is not a fabric material.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

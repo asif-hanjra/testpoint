@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'laconic':",
+      "options": {
+        "a": "terse",
+        "b": "concise",
+        "c": "verbose",
+        "d": "brief"
+      },
+      "one_liner": "The antonym of 'laconic' is 'verbose', which means using more words than necessary.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

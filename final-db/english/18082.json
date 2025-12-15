@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wardrobe':",
+      "options": {
+        "a": "furniture",
+        "b": "apparel",
+        "c": "gadget",
+        "d": "utensil"
+      },
+      "one_liner": "'Wardrobe' refers to a person's collection of clothes, similar to 'apparel'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

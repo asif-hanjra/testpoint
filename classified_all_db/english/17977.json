@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'consign':",
+      "options": {
+        "a": "ship:keep",
+        "b": "dispatch:retain",
+        "c": "forward:collect",
+        "d": "send:hoard"
+      },
+      "one_liner": "'Ship' is a synonym of 'consign', while 'keep' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

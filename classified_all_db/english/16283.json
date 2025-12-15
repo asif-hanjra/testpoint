@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'catastrophic':",
+      "options": {
+        "a": "beneficial",
+        "b": "disastrous",
+        "c": "fortunate",
+        "d": "advantageous"
+      },
+      "one_liner": "'Catastrophic' means disastrous or calamitous, indicating a severe negative impact.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'concoct':",
+      "options": {
+        "a": "destroy",
+        "b": "fabricate",
+        "c": "dismantle",
+        "d": "erase"
+      },
+      "one_liner": "'Concoct' means to create or devise, often in reference to food or plans, making 'fabricate' a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

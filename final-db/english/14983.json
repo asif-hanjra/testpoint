@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'zealot':",
+      "options": {
+        "a": "moderate",
+        "b": "fanatic",
+        "c": "indifferent",
+        "d": "unenthusiastic"
+      },
+      "one_liner": "'Zealot' refers to someone who is fervently dedicated to a cause, similar to a 'fanatic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

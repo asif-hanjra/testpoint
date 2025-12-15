@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'flaw':",
+      "options": {
+        "a": "perfection",
+        "b": "blemish",
+        "c": "excellence",
+        "d": "virtue"
+      },
+      "one_liner": "'Flaw' refers to a defect or imperfection, similar to 'blemish' or 'fault'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

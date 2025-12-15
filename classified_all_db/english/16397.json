@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'scanty':",
+      "options": {
+        "a": "ample",
+        "b": "sparse",
+        "c": "abundant",
+        "d": "plentiful"
+      },
+      "one_liner": "'Scanty' refers to something insufficient or meager, similar to the word 'sparse'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

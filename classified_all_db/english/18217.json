@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hard':",
+      "options": {
+        "a": "strenuous:simple",
+        "b": "rigid:pliable",
+        "c": "firm:soft",
+        "d": "harsh:mild"
+      },
+      "one_liner": "'Strenuous' is a synonym of 'hard', while 'simple' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

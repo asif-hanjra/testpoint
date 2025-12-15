@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'erudite':",
+      "options": {
+        "a": "learned:ignorant",
+        "b": "scholarly:educated",
+        "c": "knowledgeable:uneducated",
+        "d": "informed:illiterate"
+      },
+      "one_liner": "'Learned' is a synonym of 'erudite', while 'ignorant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

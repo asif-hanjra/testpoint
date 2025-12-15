@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'anachronism':",
+      "options": {
+        "a": "modern",
+        "b": "ancient",
+        "c": "dated",
+        "d": "obsolete"
+      },
+      "one_liner": "An antonym of 'anachronism' is 'modern', which means belonging to the present time as opposed to the past.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

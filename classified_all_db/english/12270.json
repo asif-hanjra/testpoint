@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'whimsical':",
+      "options": {
+        "a": "serious",
+        "b": "capricious",
+        "c": "solemn",
+        "d": "staid"
+      },
+      "one_liner": "'Whimsical' means playfully quaint or fanciful, especially in an appealing and amusing way—words like 'capricious' and 'quirky' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

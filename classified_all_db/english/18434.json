@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the phrase 'heat up':",
+      "options": {
+        "a": "warm:cool",
+        "b": "hot:cold",
+        "c": "ignite:freeze",
+        "d": "boil:chill"
+      },
+      "one_liner": "'Warm' is a synonym for 'heat up', while 'cool' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

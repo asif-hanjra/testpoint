@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'easy':",
+      "options": {
+        "a": "complex",
+        "b": "simple",
+        "c": "hard",
+        "d": "intricate"
+      },
+      "one_liner": "'Easy' means not difficult or requiring little effort, similar to 'simple'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'achieve':",
+      "options": {
+        "a": "succeed",
+        "b": "attain",
+        "c": "fail",
+        "d": "complete"
+      },
+      "one_liner": "The antonym of 'achieve' is 'fail', as it means not to reach the desired objective or result.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

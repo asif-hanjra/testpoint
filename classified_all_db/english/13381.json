@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vulgar':",
+      "options": {
+        "a": "cultured",
+        "b": "obscene",
+        "c": "tasteless",
+        "d": "indecent"
+      },
+      "one_liner": "The word 'vulgar' is the opposite of 'cultured', which implies a high degree of refinement and good taste.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

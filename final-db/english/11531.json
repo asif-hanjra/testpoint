@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'guileless':",
+      "options": {
+        "a": "deceptive",
+        "b": "sincere",
+        "c": "cunning",
+        "d": "sly"
+      },
+      "one_liner": "'Guileless' means innocent or without deception, similar to 'sincere' or 'honest'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Smoking is bad ___ your health.",
+      "options": {
+        "a": "at",
+        "b": "for",
+        "c": "to",
+        "d": "with"
+      },
+      "one_liner": "Smoking is bad 'for' your health.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

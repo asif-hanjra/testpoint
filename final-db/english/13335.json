@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'indigent':",
+      "options": {
+        "a": "destitute",
+        "b": "needy",
+        "c": "wealthy",
+        "d": "poor"
+      },
+      "one_liner": "An antonym of 'indigent' is 'wealthy', which means having a lot of money or assets.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

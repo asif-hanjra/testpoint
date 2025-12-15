@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'diverse':",
+      "options": {
+        "a": "different",
+        "b": "distinct",
+        "c": "homogeneous",
+        "d": "unique"
+      },
+      "one_liner": "An antonym of 'diverse' is 'homogeneous', which means of the same kind or nature.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

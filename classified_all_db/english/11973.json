@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'chary':",
+      "options": {
+        "a": "cautious:bold",
+        "b": "careful:careless",
+        "c": "wary:reckless",
+        "d": "prudent:heedless"
+      },
+      "one_liner": "'Cautious' is a synonym of 'chary', while 'bold' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

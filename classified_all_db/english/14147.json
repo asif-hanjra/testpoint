@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ingrained':",
+      "options": {
+        "a": "deep-rooted:transient",
+        "b": "permanent:ephemeral",
+        "c": "entrenched:superficial",
+        "d": "fixed:unstable"
+      },
+      "one_liner": "'Deep-rooted' is a synonym of 'ingrained', while 'transient' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

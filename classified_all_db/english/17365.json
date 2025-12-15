@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'able':",
+      "options": {
+        "a": "competent:ineffective",
+        "b": "capable:strong",
+        "c": "skilled:talented",
+        "d": "efficient:inept"
+      },
+      "one_liner": "'Competent' is a synonym of 'able', while 'ineffective' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prior':",
+      "options": {
+        "a": "subsequent",
+        "b": "previous",
+        "c": "following",
+        "d": "after"
+      },
+      "one_liner": "'Prior' means earlier or preceding in time, similar to 'previous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pliable':",
+      "options": {
+        "a": "flexible:rigid",
+        "b": "malleable:elastic",
+        "c": "supple:stiff",
+        "d": "bendable:hard"
+      },
+      "one_liner": "'Flexible' is a synonym of 'pliable', while 'rigid' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

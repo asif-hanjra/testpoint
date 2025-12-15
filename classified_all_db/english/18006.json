@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'past':",
+      "options": {
+        "a": "historical:prospective",
+        "b": "bygone:ancient",
+        "c": "former:previous",
+        "d": "elapsed:upcoming"
+      },
+      "one_liner": "'Historical' is a synonym of 'past', while 'prospective' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ephemeral':",
+      "options": {
+        "a": "transient:enduring",
+        "b": "lasting:fleeting",
+        "c": "brief:permanent",
+        "d": "momentary:eternal"
+      },
+      "one_liner": "'Transient' is a synonym of 'ephemeral', while 'enduring' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

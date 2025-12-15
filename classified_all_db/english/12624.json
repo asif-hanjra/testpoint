@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'probable':",
+      "options": {
+        "a": "unlikely",
+        "b": "impossible",
+        "c": "certain",
+        "d": "likely"
+      },
+      "one_liner": "'Probable' means likely to happen or be true, similar to 'likely' in meaning.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

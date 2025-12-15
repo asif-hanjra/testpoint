@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pleasant':",
+      "options": {
+        "a": "enjoyable",
+        "b": "agreeable",
+        "c": "unpleasant",
+        "d": "delightful"
+      },
+      "one_liner": "The word 'unpleasant' is an antonym of 'pleasant', indicating something that is not enjoyable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'peculiar':",
+      "options": {
+        "a": "weird",
+        "b": "bizarre",
+        "c": "normal",
+        "d": "eccentric"
+      },
+      "one_liner": "The antonym of 'peculiar' is 'normal', which means conforming to a standard.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

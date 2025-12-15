@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mean':",
+      "options": {
+        "a": "extreme",
+        "b": "average",
+        "c": "unique",
+        "d": "final"
+      },
+      "one_liner": "'Mean' can imply something that is 'average' or 'intermediate' in value or rank.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

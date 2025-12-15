@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'diffident':",
+      "options": {
+        "a": "unsure",
+        "b": "shy",
+        "c": "confident",
+        "d": "hesitant"
+      },
+      "one_liner": "The opposite of 'diffident' is 'confident', which describes someone with self-assurance.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "This merchant deals ___ silk goods.",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "with",
+        "d": "at"
+      },
+      "one_liner": "This merchant deals 'in' silk goods.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

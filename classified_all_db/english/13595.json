@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gravity':",
+      "options": {
+        "a": "solemnity:frivolity",
+        "b": "seriousness:levity",
+        "c": "importance:significance",
+        "d": "gravity:levity"
+      },
+      "one_liner": "'Solemnity' is a synonym of 'gravity', while 'frivolity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

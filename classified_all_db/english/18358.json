@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'confidential':",
+      "options": {
+        "a": "private",
+        "b": "hidden",
+        "c": "public",
+        "d": "classified"
+      },
+      "one_liner": "The antonym of 'confidential' is 'public', which means open to everyone and not secret.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

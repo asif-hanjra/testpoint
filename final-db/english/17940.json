@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'superb':",
+      "options": {
+        "a": "magnificent",
+        "b": "excellent",
+        "c": "inferior",
+        "d": "marvelous"
+      },
+      "one_liner": "Antonyms of 'superb' include 'mediocre' and 'inferior', both implying a lack of excellence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

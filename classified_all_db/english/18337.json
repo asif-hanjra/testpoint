@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'presumptive':",
+      "options": {
+        "a": "speculative:confirmed",
+        "b": "conjectural:verified",
+        "c": "probable:uncertain",
+        "d": "hypothetical:doubtful"
+      },
+      "one_liner": "'Conjectural' is a synonym of 'presumptive', while 'verified' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

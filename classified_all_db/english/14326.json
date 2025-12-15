@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'prejudiced':",
+      "options": {
+        "a": "impartial",
+        "b": "unbiased",
+        "c": "fair",
+        "d": "biased"
+      },
+      "one_liner": "'Prejudiced' means having preconceived opinions or biases, similar to 'biased' or 'partial'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cover':",
+      "options": {
+        "a": "expose",
+        "b": "veil",
+        "c": "reveal",
+        "d": "uncover"
+      },
+      "one_liner": "'Cover' can mean to conceal or hide something, similar to 'veil' or 'cloak'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'outcast':",
+      "options": {
+        "a": "insider",
+        "b": "reject",
+        "c": "exile",
+        "d": "pariah"
+      },
+      "one_liner": "An 'outcast' is someone who is excluded, whereas an 'insider' is someone who is included or part of a group.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

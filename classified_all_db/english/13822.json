@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'once in a blue moon' mean?",
+      "options": {
+        "a": "Feeling very sad",
+        "b": "A very rare event",
+        "c": "An obvious lie",
+        "d": "A sudden change of weather"
+      },
+      "one_liner": "The idiom 'once in a blue moon' refers to something that happens very rarely.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

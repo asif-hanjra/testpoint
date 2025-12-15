@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'desperate':",
+      "options": {
+        "a": "calm",
+        "b": "frantic",
+        "c": "content",
+        "d": "pleased"
+      },
+      "one_liner": "'Desperate' implies a sense of hopelessness, similar to 'frantic' or 'dire'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

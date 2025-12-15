@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ascetic':",
+      "options": {
+        "a": "austere:indulgent",
+        "b": "spartan:sybaritic",
+        "c": "frugal:luxurious",
+        "d": "restrained:extravagant"
+      },
+      "one_liner": "'Spartan' is a synonym of 'ascetic', while 'sybaritic' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

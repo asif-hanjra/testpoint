@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'treacherous':",
+      "options": {
+        "a": "safe",
+        "b": "perilous",
+        "c": "secure",
+        "d": "harmless"
+      },
+      "one_liner": "'Treacherous' refers to something dangerously unstable and unpredictable, similar to 'perilous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

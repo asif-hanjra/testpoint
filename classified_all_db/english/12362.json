@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'perfect':",
+      "options": {
+        "a": "immaculate:defective",
+        "b": "flawless:impeccable",
+        "c": "ideal:flawed",
+        "d": "complete:incomplete"
+      },
+      "one_liner": "'Immaculate' is a synonym of 'perfect', while 'defective' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

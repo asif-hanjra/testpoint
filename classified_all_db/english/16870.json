@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'hypocrisy':",
+      "options": {
+        "a": "honesty",
+        "b": "insincerity",
+        "c": "integrity",
+        "d": "authenticity"
+      },
+      "one_liner": "'Hypocrisy' involves pretending to have virtues or beliefs that one does not truly possess, much like 'insincerity'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

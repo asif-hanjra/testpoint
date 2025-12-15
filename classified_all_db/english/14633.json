@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rude':",
+      "options": {
+        "a": "polite",
+        "b": "respectful",
+        "c": "impolite",
+        "d": "courteous"
+      },
+      "one_liner": "'Rude' behavior is often described as 'disrespectful' or 'impolite'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

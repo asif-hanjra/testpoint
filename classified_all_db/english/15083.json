@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'infuriate':",
+      "options": {
+        "a": "calm",
+        "b": "enrage",
+        "c": "soothe",
+        "d": "appease"
+      },
+      "one_liner": "'Infuriate' means to make someone extremely angry, similar to 'enrage'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

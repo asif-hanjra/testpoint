@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'waive':",
+      "options": {
+        "a": "uphold",
+        "b": "relinquish",
+        "c": "enforce",
+        "d": "maintain"
+      },
+      "one_liner": "'Waive' means to voluntarily give up a right or claim, similar to 'forgo' or 'relinquish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

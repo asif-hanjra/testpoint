@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'validate':",
+      "options": {
+        "a": "corroborate:discredit",
+        "b": "confirm:authenticate",
+        "c": "endorse:invalidate",
+        "d": "verify:refute"
+      },
+      "one_liner": "'Corroborate' is a synonym of 'validate', while 'discredit' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stoop':",
+      "options": {
+        "a": "straighten",
+        "b": "crouch",
+        "c": "rise",
+        "d": "lift"
+      },
+      "one_liner": "'Stoop' refers to bending the body forward and downward, similar to 'crouch' or 'bend'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

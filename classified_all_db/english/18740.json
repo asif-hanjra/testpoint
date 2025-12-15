@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'corporal':",
+      "options": {
+        "a": "mental",
+        "b": "bodily",
+        "c": "spiritual",
+        "d": "intellectual"
+      },
+      "one_liner": "'Corporal' pertains to the body, so 'bodily' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pedant':",
+      "options": {
+        "a": "novice",
+        "b": "stickler",
+        "c": "amateur",
+        "d": "enthusiast"
+      },
+      "one_liner": "'Pedant' refers to someone who is excessively concerned with minor details or rules, much like a 'stickler'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

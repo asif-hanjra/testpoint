@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'atrocity':",
+      "options": {
+        "a": "cruelty",
+        "b": "malevolence",
+        "c": "benevolence",
+        "d": "savagery"
+      },
+      "one_liner": "An antonym of 'atrocity' is 'benevolence', which signifies goodwill and kindness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

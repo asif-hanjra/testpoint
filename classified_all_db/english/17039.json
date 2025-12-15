@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'emblomatic':",
+      "options": {
+        "a": "indicative:unrelated",
+        "b": "emblematic:connected",
+        "c": "representative:nonsymbolic",
+        "d": "symbolic:irrelevant"
+      },
+      "one_liner": "'Symbolic' is a synonym of 'emblomatic', while 'unrelated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

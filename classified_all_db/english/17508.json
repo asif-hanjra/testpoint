@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'defiance':",
+      "options": {
+        "a": "rebellion:submission",
+        "b": "insubordination:compliance",
+        "c": "resistance:obedience",
+        "d": "defiance:conformity"
+      },
+      "one_liner": "'Rebellion' is a synonym of 'defiance', while 'submission' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'evil':",
+      "options": {
+        "a": "sinful:pure",
+        "b": "malevolent:kind",
+        "c": "wicked:evil",
+        "d": "bad:good"
+      },
+      "one_liner": "'Sinful' is a synonym of 'evil', while 'pure' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

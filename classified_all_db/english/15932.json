@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'jocular':",
+      "options": {
+        "a": "morose",
+        "b": "jovial",
+        "c": "solemn",
+        "d": "serious"
+      },
+      "one_liner": "'Jocular' describes someone who is humorous or playful, much like the word 'jovial'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

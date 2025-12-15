@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the phrase 'tress pass':",
+      "options": {
+        "a": "welcome",
+        "b": "intrude",
+        "c": "invite",
+        "d": "permit"
+      },
+      "one_liner": "'Tress pass' is often synonymous with 'intrude', as both refer to entering without permission.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

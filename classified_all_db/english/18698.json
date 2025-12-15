@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'captor':",
+      "options": {
+        "a": "victim",
+        "b": "kidnapper",
+        "c": "rescuer",
+        "d": "helper"
+      },
+      "one_liner": "'Captor' refers to someone who captures or takes someone else prisoner, similar to a 'kidnapper'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

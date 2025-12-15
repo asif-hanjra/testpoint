@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quell':",
+      "options": {
+        "a": "pacify:provoke",
+        "b": "stifle:encourage",
+        "c": "suppress:ignite",
+        "d": "subdue:quench"
+      },
+      "one_liner": "A synonym for 'quell' is 'pacify', while its antonym is 'provoke'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

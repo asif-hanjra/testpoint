@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "We need to buy more milk because we _______ all of it this morning.",
+      "options": {
+        "a": "ran into",
+        "b": "used up",
+        "c": "put off",
+        "d": "broke down"
+      },
+      "one_liner": "We 'used up' all of the milk this morning, so we need to buy more.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

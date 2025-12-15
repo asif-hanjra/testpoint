@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'proliferate':",
+      "options": {
+        "a": "diminish",
+        "b": "multiply",
+        "c": "reduce",
+        "d": "decline"
+      },
+      "one_liner": "'Proliferate' means to increase rapidly in numbers; a synonym could be 'multiply'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

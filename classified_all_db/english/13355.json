@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dilute':",
+      "options": {
+        "a": "weaken",
+        "b": "lessen",
+        "c": "concentrate",
+        "d": "reduce"
+      },
+      "one_liner": "An antonym of 'dilute' is 'concentrate', which means to increase the strength of a solution.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

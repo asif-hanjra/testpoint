@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dispel':",
+      "options": {
+        "a": "dissipate:harbor",
+        "b": "banish:collect",
+        "c": "scatter:gather",
+        "d": "expel:accumulate"
+      },
+      "one_liner": "'Dissipate' is a synonym of 'dispel', while 'harbor' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

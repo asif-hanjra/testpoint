@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'remarkable':",
+      "options": {
+        "a": "extraordinary",
+        "b": "noteworthy",
+        "c": "ordinary",
+        "d": "impressive"
+      },
+      "one_liner": "Antonyms of 'remarkable' include 'unremarkable' and 'ordinary', both implying something that does not stand out.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

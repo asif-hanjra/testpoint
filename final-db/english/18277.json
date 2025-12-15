@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'salvage':",
+      "options": {
+        "a": "abandon",
+        "b": "recover",
+        "c": "restore",
+        "d": "save"
+      },
+      "one_liner": "The antonym of 'salvage' is 'abandon', which means to give up on or leave behind.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

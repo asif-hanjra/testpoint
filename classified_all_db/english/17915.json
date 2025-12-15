@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'holster':",
+      "options": {
+        "a": "scabbard:display rack",
+        "b": "pouch:showcase",
+        "c": "case:exhibit",
+        "d": "sheath:revealer"
+      },
+      "one_liner": "A 'scabbard' is a synonym for 'holster', as both are types of protective cases, whereas 'display rack' is an antonym, meant for showing items openly.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

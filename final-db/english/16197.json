@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'usurp':",
+      "options": {
+        "a": "seize",
+        "b": "overthrow",
+        "c": "cede",
+        "d": "grab"
+      },
+      "one_liner": "An antonym of 'usurp' would be 'cede', which means to give up power or territory voluntarily.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

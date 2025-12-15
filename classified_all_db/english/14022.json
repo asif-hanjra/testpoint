@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'assert':",
+      "options": {
+        "a": "confirm",
+        "b": "affirm",
+        "c": "deny",
+        "d": "agree"
+      },
+      "one_liner": "The antonym of 'assert', which means to state something confidently, would be 'deny', meaning to state that one does not hold a particular position or belief.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

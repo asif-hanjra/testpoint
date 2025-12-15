@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'engender':",
+      "options": {
+        "a": "spawn:quell",
+        "b": "produce:generate",
+        "c": "initiate:begin",
+        "d": "create:establish"
+      },
+      "one_liner": "'Spawn' is a synonym for 'engender', while 'quell' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

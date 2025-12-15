@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'pernicious':",
+      "options": {
+        "a": "beneficial",
+        "b": "insidious",
+        "c": "harmless",
+        "d": "wholesome"
+      },
+      "one_liner": "'Pernicious' means harmful or destructive, similar to 'insidious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

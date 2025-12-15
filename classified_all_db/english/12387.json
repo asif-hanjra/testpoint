@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'wile':",
+      "options": {
+        "a": "artifice:truthfulness",
+        "b": "deceit:honesty",
+        "c": "cunning:openness",
+        "d": "guile:candor"
+      },
+      "one_liner": "'Artifice' is a synonym of 'wile', while 'truthfulness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

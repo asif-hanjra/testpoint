@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I wear glasses ___ reading.",
+      "options": {
+        "a": "at",
+        "b": "for",
+        "c": "by",
+        "d": "with"
+      },
+      "one_liner": "I wear glasses 'for' reading.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

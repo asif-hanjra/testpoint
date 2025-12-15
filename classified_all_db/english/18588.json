@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'congruent':",
+      "options": {
+        "a": "discordant",
+        "b": "compatible",
+        "c": "inconsistent",
+        "d": "clashing"
+      },
+      "one_liner": "'Congruent' means in agreement or harmony, similar to 'compatible'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

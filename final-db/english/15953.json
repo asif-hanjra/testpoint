@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'veracity':",
+      "options": {
+        "a": "deception",
+        "b": "truth",
+        "c": "dishonesty",
+        "d": "falsehood"
+      },
+      "one_liner": "'Veracity' refers to truthfulness, so 'truth' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

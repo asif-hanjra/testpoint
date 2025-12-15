@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'distract':",
+      "options": {
+        "a": "focus",
+        "b": "divert",
+        "c": "concentrate",
+        "d": "engage"
+      },
+      "one_liner": "'Distract' means to divert attention—words like 'divert' and 'sidetrack' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

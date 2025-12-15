@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'poor':",
+      "options": {
+        "a": "impoverished",
+        "b": "destitute",
+        "c": "needy",
+        "d": "wealthy"
+      },
+      "one_liner": "While 'poor' suggests having little, 'wealthy' implies having an abundance of financial resources.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

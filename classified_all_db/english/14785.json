@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'imbecile':",
+      "options": {
+        "a": "idiot:intellectual",
+        "b": "fool:genius",
+        "c": "moron:scholar",
+        "d": "dullard:savant"
+      },
+      "one_liner": "'Idiot' is a synonym of 'imbecile', while 'intellectual' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'standing':",
+      "options": {
+        "a": "falling",
+        "b": "erect",
+        "c": "lying",
+        "d": "reclining"
+      },
+      "one_liner": "'Standing' can mean remaining upright, similar to 'erect' or 'upright'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'annotate':",
+      "options": {
+        "a": "comment",
+        "b": "gloss",
+        "c": "ignore",
+        "d": "note"
+      },
+      "one_liner": "An antonym for 'annotate' is 'ignore', which means to refrain from noticing or recognizing.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

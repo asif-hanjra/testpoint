@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inane':",
+      "options": {
+        "a": "silly:intelligent",
+        "b": "absurd:wise",
+        "c": "foolish:sensible",
+        "d": "ridiculous:rational"
+      },
+      "one_liner": "'Silly' is a synonym of 'inane', while 'intelligent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impassive':",
+      "options": {
+        "a": "unfeeling",
+        "b": "indifferent",
+        "c": "emotional",
+        "d": "apathetic"
+      },
+      "one_liner": "An antonym of 'impassive' is 'emotional', indicating the display of feelings.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

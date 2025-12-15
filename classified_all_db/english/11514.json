@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cortege':",
+      "options": {
+        "a": "procession:scattering",
+        "b": "parade:convergence",
+        "c": "convoy:gathering",
+        "d": "motorcade:assembly"
+      },
+      "one_liner": "'Procession' is a synonym of 'cortege', while 'scattering' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'upset':",
+      "options": {
+        "a": "serene",
+        "b": "disturbed",
+        "c": "troubled",
+        "d": "agitated"
+      },
+      "one_liner": "An antonym of 'upset' is 'serene', which means calm and peaceful.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

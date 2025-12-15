@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'veritable':",
+      "options": {
+        "a": "authentic:spurious",
+        "b": "real:actual",
+        "c": "true:false",
+        "d": "factual:fictional"
+      },
+      "one_liner": "'Genuine' is a synonym of 'veritable', while 'spurious' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

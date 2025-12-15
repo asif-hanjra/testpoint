@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "I was amazed ___ his behavior.",
+      "options": {
+        "a": "by",
+        "b": "at",
+        "c": "with",
+        "d": "of"
+      },
+      "one_liner": "I was amazed 'at' his behavior.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

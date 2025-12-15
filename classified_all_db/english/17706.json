@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'advice':",
+      "options": {
+        "a": "warning",
+        "b": "counsel",
+        "c": "threat",
+        "d": "order"
+      },
+      "one_liner": "'Advice' refers to guidance or recommendations, similar to 'counsel' or 'suggestion'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

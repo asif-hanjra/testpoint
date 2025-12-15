@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dearth':",
+      "options": {
+        "a": "shortage",
+        "b": "lack",
+        "c": "abundance",
+        "d": "deficit"
+      },
+      "one_liner": "An antonym of 'dearth' is 'abundance', which signifies a great amount or plenty.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

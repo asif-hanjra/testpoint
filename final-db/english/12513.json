@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'majestic':",
+      "options": {
+        "a": "plain",
+        "b": "regal",
+        "c": "simple",
+        "d": "modest"
+      },
+      "one_liner": "'Majestic' implies grandeur and splendor, much like 'regal' and 'imposing'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

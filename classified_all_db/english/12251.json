@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conscious':",
+      "options": {
+        "a": "mindful:insensible",
+        "b": "aware:attentive",
+        "c": "alert:oblivious",
+        "d": "cognizant:aware"
+      },
+      "one_liner": "'Mindful' is a synonym of 'conscious', while 'insensible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

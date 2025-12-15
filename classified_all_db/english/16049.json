@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mundane':",
+      "options": {
+        "a": "commonplace:remarkable",
+        "b": "extraordinary:usual",
+        "c": "ordinary:unique",
+        "d": "typical:extraordinary"
+      },
+      "one_liner": "'Commonplace' is a synonym of 'mundane', while 'remarkable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

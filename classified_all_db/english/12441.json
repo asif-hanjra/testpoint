@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'clarity':",
+      "options": {
+        "a": "obscurity",
+        "b": "transparency",
+        "c": "confusion",
+        "d": "complexity"
+      },
+      "one_liner": "'Clarity' means clearness or lucidity, as in 'transparency' and 'lucidity' which also refer to the quality of being easily understood.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

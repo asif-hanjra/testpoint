@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'strut':",
+      "options": {
+        "a": "crawl",
+        "b": "swagger",
+        "c": "stumble",
+        "d": "limp"
+      },
+      "one_liner": "'Strut' can mean to walk with a pompous and defiant air, similar to 'swagger'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

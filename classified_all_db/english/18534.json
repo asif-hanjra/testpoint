@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'salvage':",
+      "options": {
+        "a": "recover:discard",
+        "b": "rescue:retain",
+        "c": "retrieve:preserve",
+        "d": "save:collect"
+      },
+      "one_liner": "'Recover' is a synonym of 'salvage', while 'discard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

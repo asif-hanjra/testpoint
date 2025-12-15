@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'yield':",
+      "options": {
+        "a": "generate:resist",
+        "b": "produce:submit",
+        "c": "create:concede",
+        "d": "give:accept"
+      },
+      "one_liner": "'Generate' is a synonym of 'yield', while 'resist' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

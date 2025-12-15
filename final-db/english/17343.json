@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'aberrant':",
+      "options": {
+        "a": "erratic:ordinary",
+        "b": "conventional:peculiar",
+        "c": "abnormal:weird",
+        "d": "strange:unusual"
+      },
+      "one_liner": "'Erratic' is a synonym of 'aberrant', while 'ordinary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

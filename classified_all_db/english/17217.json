@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'insufficient':",
+      "options": {
+        "a": "lacking:ample",
+        "b": "abundant:deficient",
+        "c": "enough:scarce",
+        "d": "plenty:inadequate"
+      },
+      "one_liner": "'Lacking' is a synonym for 'insufficient', while 'ample' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

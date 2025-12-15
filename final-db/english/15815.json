@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'clumsy':",
+      "options": {
+        "a": "graceful",
+        "b": "adept",
+        "c": "skillful",
+        "d": "bungling"
+      },
+      "one_liner": "'Clumsy' often describes someone who is awkward or uncoordinated, much like the word 'bungling'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

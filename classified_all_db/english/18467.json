@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cortege':",
+      "options": {
+        "a": "assembly",
+        "b": "congregation",
+        "c": "dispersal",
+        "d": "accumulation"
+      },
+      "one_liner": "An antonym of 'cortege' would be 'dispersal', as it implies scattering rather than coming together in a procession.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

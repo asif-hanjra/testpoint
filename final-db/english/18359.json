@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'herbaceous':",
+      "options": {
+        "a": "woody",
+        "b": "leafy",
+        "c": "barren",
+        "d": "arid"
+      },
+      "one_liner": "'Herbaceous' refers to plants that have non-woody stems, similar to 'leafy' and 'verdant'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mediocre':",
+      "options": {
+        "a": "excellent",
+        "b": "ordinary",
+        "c": "superior",
+        "d": "remarkable"
+      },
+      "one_liner": "'Mediocre' means of only average quality, similar to 'ordinary' or 'moderate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

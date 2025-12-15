@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nebulous':",
+      "options": {
+        "a": "obscure",
+        "b": "clear",
+        "c": "fuzzy",
+        "d": "blurry"
+      },
+      "one_liner": "The antonym of 'nebulous' is 'clear', which means easy to perceive, understand, or interpret.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

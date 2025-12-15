@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'repercussion':",
+      "options": {
+        "a": "consequence:source",
+        "b": "effect:cause",
+        "c": "outcome:initiation",
+        "d": "ramification:beginning"
+      },
+      "one_liner": "'Consequence' is a synonym for 'repercussion', while 'source' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

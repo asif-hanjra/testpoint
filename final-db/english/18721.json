@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'grill':",
+      "options": {
+        "a": "ignore",
+        "b": "interrogate",
+        "c": "support",
+        "d": "agree"
+      },
+      "one_liner": "'Grill' can mean to cook on a gridiron or to question intensely, so 'interrogate' is a synonym when referring to questioning.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

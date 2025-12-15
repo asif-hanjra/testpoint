@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tapestry':",
+      "options": {
+        "a": "mural",
+        "b": "bare wall",
+        "c": "drapery",
+        "d": "fresco"
+      },
+      "one_liner": "While 'tapestry' is a decorative fabric, its antonym could be 'bare wall', which signifies the absence of decoration.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

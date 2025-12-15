@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deficit':",
+      "options": {
+        "a": "shortage:abundance",
+        "b": "excess:shortfall",
+        "c": "deficiency:surplus",
+        "d": "lack:excess"
+      },
+      "one_liner": "'Shortage' is a synonym of 'deficit', while 'abundance' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

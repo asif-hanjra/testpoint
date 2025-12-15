@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fast':",
+      "options": {
+        "a": "quick:leisurely",
+        "b": "rapid:fast",
+        "c": "speedy:swift",
+        "d": "hurried:brisk"
+      },
+      "one_liner": "'Swift' is a synonym of 'fast', while 'leisurely' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'virtuous':",
+      "options": {
+        "a": "ethical:unprincipled",
+        "b": "moral:corrupt",
+        "c": "righteous:decent",
+        "d": "good:bad"
+      },
+      "one_liner": "'Ethical' is a synonym of 'virtuous', while 'unprincipled' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'strict':",
+      "options": {
+        "a": "rigid:relaxed",
+        "b": "severe:gentle",
+        "c": "harsh:harsher",
+        "d": "stern:sterner"
+      },
+      "one_liner": "'Rigid' is a synonym of 'strict', while 'relaxed' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'sorrow':",
+      "options": {
+        "a": "joy",
+        "b": "grief",
+        "c": "happiness",
+        "d": "delight"
+      },
+      "one_liner": "'Sorrow' means a feeling of deep distress caused by loss or disappointment, similar to 'grief'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

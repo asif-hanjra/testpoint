@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mesh':",
+      "options": {
+        "a": "solid",
+        "b": "netting",
+        "c": "opaque",
+        "d": "block"
+      },
+      "one_liner": "'Mesh' refers to a material made of a network of wire or thread, similar to 'netting'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

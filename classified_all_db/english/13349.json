@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'beneficial':",
+      "options": {
+        "a": "detrimental",
+        "b": "harmful",
+        "c": "advantageous",
+        "d": "unfavorable"
+      },
+      "one_liner": "'Beneficial' means helpful or advantageous, similar to 'advantageous'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

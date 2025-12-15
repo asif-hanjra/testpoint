@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stop':",
+      "options": {
+        "a": "cease:commence",
+        "b": "halt:continue",
+        "c": "end:begin",
+        "d": "pause:start"
+      },
+      "one_liner": "'Cease' is a synonym of 'stop', while 'commence' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

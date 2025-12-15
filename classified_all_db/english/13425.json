@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inquisitive':",
+      "options": {
+        "a": "curious:apathetic",
+        "b": "inquiring:enthusiastic",
+        "c": "interested:indifferent",
+        "d": "questioning:engaged"
+      },
+      "one_liner": "'Curious' is a synonym of 'inquisitive', while 'apathetic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

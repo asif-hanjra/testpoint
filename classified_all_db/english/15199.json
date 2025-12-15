@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'forthright':",
+      "options": {
+        "a": "evasive",
+        "b": "honest",
+        "c": "direct",
+        "d": "frank"
+      },
+      "one_liner": "An antonym of 'forthright' is 'evasive', which means avoiding commitment or self-revelation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fair':",
+      "options": {
+        "a": "equitable:biased",
+        "b": "just:impartial",
+        "c": "impartial:equitable",
+        "d": "fair:just"
+      },
+      "one_liner": "'Equitable' is a synonym of 'fair', while 'biased' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'catalyst':",
+      "options": {
+        "a": "inhibitor",
+        "b": "stimulant",
+        "c": "propellant",
+        "d": "instigator"
+      },
+      "one_liner": "An antonym for 'catalyst' is 'inhibitor', which slows down or prevents a process.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ferment':",
+      "options": {
+        "a": "instigate:quell",
+        "b": "provoke:calm",
+        "c": "foment:stabilize",
+        "d": "agitate:soothe"
+      },
+      "one_liner": "'Instigate' is a synonym of 'ferment', while 'quell' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

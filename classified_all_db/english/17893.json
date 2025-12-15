@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'expend':",
+      "options": {
+        "a": "waste",
+        "b": "utilize",
+        "c": "save",
+        "d": "spend"
+      },
+      "one_liner": "The antonym of 'expend' is 'save', which means to keep or store something rather than using it up.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

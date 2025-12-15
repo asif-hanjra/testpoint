@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'combine':",
+      "options": {
+        "a": "separate",
+        "b": "merge",
+        "c": "divide",
+        "d": "scatter"
+      },
+      "one_liner": "'Combine' means to unite or merge—words like 'merge' and 'blend' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

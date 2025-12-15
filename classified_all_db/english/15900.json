@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'presume':",
+      "options": {
+        "a": "doubt",
+        "b": "surmise",
+        "c": "disbelieve",
+        "d": "neglect"
+      },
+      "one_liner": "'Presume' means to take for granted or assume something without proof, similar to 'surmise'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

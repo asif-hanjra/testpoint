@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'cordial':",
+      "options": {
+        "a": "hostile",
+        "b": "amiable",
+        "c": "cold",
+        "d": "indifferent"
+      },
+      "one_liner": "'Cordial' means warm and friendly, similar to 'amiable'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

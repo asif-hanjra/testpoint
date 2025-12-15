@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'anxious':",
+      "options": {
+        "a": "calm",
+        "b": "nervous",
+        "c": "relaxed",
+        "d": "peaceful"
+      },
+      "one_liner": "'Anxious' describes a feeling of worry or unease, similar to being 'nervous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

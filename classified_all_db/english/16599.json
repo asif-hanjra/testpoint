@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'coy':",
+      "options": {
+        "a": "forthcoming",
+        "b": "bashful",
+        "c": "reticent",
+        "d": "timid"
+      },
+      "one_liner": "While 'coy' implies being reserved or shy, 'forthcoming' means being open and communicative.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

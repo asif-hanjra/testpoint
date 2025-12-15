@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'despair':",
+      "options": {
+        "a": "elation",
+        "b": "hopelessness",
+        "c": "joy",
+        "d": "contentment"
+      },
+      "one_liner": "'Despair' means a complete loss of hope, similar to 'hopelessness'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

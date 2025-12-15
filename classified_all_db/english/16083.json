@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'boor':",
+      "options": {
+        "a": "gentleman",
+        "b": "lout",
+        "c": "scholar",
+        "d": "diplomat"
+      },
+      "one_liner": "'Boor' refers to someone who is rude or insensitive, much like a 'lout' or 'churl'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

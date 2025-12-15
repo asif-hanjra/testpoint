@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'recompense':",
+      "options": {
+        "a": "reward",
+        "b": "compensate",
+        "c": "penalize",
+        "d": "reimburse"
+      },
+      "one_liner": "An antonym of 'recompense' is 'penalize', which means to subject to a penalty instead of providing compensation.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

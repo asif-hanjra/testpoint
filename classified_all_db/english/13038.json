@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'portion':",
+      "options": {
+        "a": "fraction:entirety",
+        "b": "segment:whole",
+        "c": "slice:part",
+        "d": "piece:whole"
+      },
+      "one_liner": "'Fraction' is a synonym of 'portion', while 'entirety' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

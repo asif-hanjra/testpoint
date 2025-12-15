@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gloomy':",
+      "options": {
+        "a": "melancholy:radiant",
+        "b": "joyous:cheerful",
+        "c": "depressing:uplifting",
+        "d": "bleak:bright"
+      },
+      "one_liner": "'Melancholy' is a synonym of 'gloomy', while 'radiant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dozard':",
+      "options": {
+        "a": "youthful",
+        "b": "senile",
+        "c": "vigorous",
+        "d": "sharp"
+      },
+      "one_liner": "'Dozard' is an old term for someone who is 'senile', indicating a decline in mental function due to age.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

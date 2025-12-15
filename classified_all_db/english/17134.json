@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vindictive':",
+      "options": {
+        "a": "forgiving",
+        "b": "spiteful",
+        "c": "benevolent",
+        "d": "generous"
+      },
+      "one_liner": "'Vindictive' means having a strong desire for revenge, similar to 'vengeful' or 'spiteful'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

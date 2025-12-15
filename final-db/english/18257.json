@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'parasite':",
+      "options": {
+        "a": "producer",
+        "b": "freeloader",
+        "c": "benefactor",
+        "d": "creator"
+      },
+      "one_liner": "'Parasite' refers to an organism that lives off another, similar to a 'freeloader'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

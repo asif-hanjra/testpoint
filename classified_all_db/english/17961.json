@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'traitor':",
+      "options": {
+        "a": "renegade:patriot",
+        "b": "betrayer:ally",
+        "c": "defector:supporter",
+        "d": "backstabber:friend"
+      },
+      "one_liner": "'Renegade' is a synonym for 'traitor', while 'patriot' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

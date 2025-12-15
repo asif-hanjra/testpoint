@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'pessimist':",
+      "options": {
+        "a": "gloomy:cheerful",
+        "b": "hopeful:despairing",
+        "c": "gloomy:hopeful",
+        "d": "despairing:optimistic"
+      },
+      "one_liner": "'Gloomy' is a synonym for 'pessimist', while 'hopeful' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

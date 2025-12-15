@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Change the voice: You will have finished this work by tomorrow.",
+      "options": {
+        "a": "This work will have been taken by tomorrow",
+        "b": "This work will have been finished by tomorrow",
+        "c": "This work will have finished tomorrow",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

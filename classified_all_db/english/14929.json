@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The issue is ___ the jurisdiction of the court.",
+      "options": {
+        "a": "above",
+        "b": "under",
+        "c": "over",
+        "d": "within"
+      },
+      "one_liner": "The issue is 'under' the jurisdiction of the court.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

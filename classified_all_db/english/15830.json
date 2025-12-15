@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'irrelevant':",
+      "options": {
+        "a": "pertinent",
+        "b": "immaterial",
+        "c": "related",
+        "d": "significant"
+      },
+      "one_liner": "'Irrelevant' means not connected with or relevant to something—words like 'immaterial' and 'inapplicable' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

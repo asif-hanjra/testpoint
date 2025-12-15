@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'traitor':",
+      "options": {
+        "a": "ally",
+        "b": "betrayer",
+        "c": "friend",
+        "d": "supporter"
+      },
+      "one_liner": "'Traitor' refers to someone who betrays trust, similar to a 'betrayer' or 'backstabber'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

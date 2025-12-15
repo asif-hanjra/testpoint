@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hallowed':",
+      "options": {
+        "a": "sacred",
+        "b": "blessed",
+        "c": "profane",
+        "d": "revered"
+      },
+      "one_liner": "An antonym of 'hallowed' is 'profane', which means not sacred or blasphemous.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

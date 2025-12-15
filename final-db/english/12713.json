@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'outcast':",
+      "options": {
+        "a": "insider",
+        "b": "pariah",
+        "c": "associate",
+        "d": "companion"
+      },
+      "one_liner": "'Outcast' refers to someone who is rejected or ostracized, similar to a 'pariah'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

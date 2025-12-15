@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gravity':",
+      "options": {
+        "a": "levity",
+        "b": "seriousness",
+        "c": "comedy",
+        "d": "humor"
+      },
+      "one_liner": "'Gravity' can also mean 'seriousness', as in situations that require solemnity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

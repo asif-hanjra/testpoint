@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mesh':",
+      "options": {
+        "a": "net:impermeable",
+        "b": "transparent:opaque",
+        "c": "open:closed",
+        "d": "grid:solid"
+      },
+      "one_liner": "'Net' is a synonym for 'mesh', while 'impermeable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

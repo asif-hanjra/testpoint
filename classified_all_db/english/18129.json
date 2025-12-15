@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'explicit':",
+      "options": {
+        "a": "implicit",
+        "b": "clear",
+        "c": "obvious",
+        "d": "distinct"
+      },
+      "one_liner": "The antonym of 'explicit' is 'implicit', which suggests something is understood or implied without being directly stated.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

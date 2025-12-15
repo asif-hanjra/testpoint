@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inadvertent':",
+      "options": {
+        "a": "unintentional:deliberate",
+        "b": "accidental:purposeful",
+        "c": "unplanned:intentional",
+        "d": "random:planned"
+      },
+      "one_liner": "'Accidental' is a synonym of 'inadvertent', while 'purposeful' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

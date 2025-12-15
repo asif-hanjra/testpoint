@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'simper':",
+      "options": {
+        "a": "beam",
+        "b": "grin",
+        "c": "glower",
+        "d": "smile"
+      },
+      "one_liner": "An antonym for 'simper', which means to smile affectedly, would be 'glower', meaning to have an angry or sullen look.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Not only students, but the teacher was laughing ___ the joke.",
+      "options": {
+        "a": "at",
+        "b": "on",
+        "c": "about",
+        "d": "for"
+      },
+      "one_liner": "Not only students, but the teacher was laughing 'on' the joke.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

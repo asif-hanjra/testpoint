@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fresh':",
+      "options": {
+        "a": "renewed:withered",
+        "b": "stale:rotten",
+        "c": "new:old",
+        "d": "current:outdated"
+      },
+      "one_liner": "'Renewed' is a synonym of 'fresh', while 'withered' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

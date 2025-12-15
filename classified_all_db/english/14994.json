@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'improvise':",
+      "options": {
+        "a": "plan",
+        "b": "extemporize",
+        "c": "rehearse",
+        "d": "prepare"
+      },
+      "one_liner": "'Improvise' means to create or perform spontaneously—words like 'ad-lib' and 'extemporize' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ally':",
+      "options": {
+        "a": "companion",
+        "b": "adversary",
+        "c": "partner",
+        "d": "friend"
+      },
+      "one_liner": "Antonyms of 'ally' include 'adversary' and 'foe', both implying opposition.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

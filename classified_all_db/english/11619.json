@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'urgent':",
+      "options": {
+        "a": "leisurely",
+        "b": "pressing",
+        "c": "delayed",
+        "d": "relaxed"
+      },
+      "one_liner": "'Urgent' implies something that requires immediate attention, similar to 'pressing'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

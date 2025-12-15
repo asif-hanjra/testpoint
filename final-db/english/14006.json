@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dictate':",
+      "options": {
+        "a": "suggest",
+        "b": "prescribe",
+        "c": "whisper",
+        "d": "request"
+      },
+      "one_liner": "'Dictate' means to give orders or to command, similar to 'prescribe' or 'instruct'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'aqueous':",
+      "options": {
+        "a": "moist",
+        "b": "humid",
+        "c": "dry",
+        "d": "damp"
+      },
+      "one_liner": "An antonym of 'aqueous' would be 'dry', which indicates a lack of water.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

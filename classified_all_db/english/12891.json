@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'remote':",
+      "options": {
+        "a": "near",
+        "b": "adjacent",
+        "c": "isolated",
+        "d": "close"
+      },
+      "one_liner": "'Remote' means far away or distant, similar to the word 'isolated'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

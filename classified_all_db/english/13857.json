@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'impervious':",
+      "options": {
+        "a": "impenetrable:vulnerable",
+        "b": "resistant:permeable",
+        "c": "sealed:open",
+        "d": "waterproof:absorbent"
+      },
+      "one_liner": "'Impenetrable' is a synonym of 'impervious', while 'vulnerable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'diffidence':",
+      "options": {
+        "a": "meekness:assertiveness",
+        "b": "shyness:bravery",
+        "c": "timidity:arrogance",
+        "d": "uncertainty:certainty"
+      },
+      "one_liner": "'Meekness' is a synonym of 'diffidence', while 'assertiveness' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

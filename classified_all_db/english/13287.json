@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'docile':",
+      "options": {
+        "a": "submissive:willful",
+        "b": "obedient:defiant",
+        "c": "compliant:stubborn",
+        "d": "gentle:aggressive"
+      },
+      "one_liner": "'Submissive' is a synonym of 'docile', while 'willful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

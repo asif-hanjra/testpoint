@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ecstasy':",
+      "options": {
+        "a": "elation:despair",
+        "b": "happiness:sorrow",
+        "c": "bliss:joy",
+        "d": "rapture:delight"
+      },
+      "one_liner": "'Elation' is a synonym of 'ecstasy', while 'despair' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

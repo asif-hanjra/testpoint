@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inundate':",
+      "options": {
+        "a": "flood:parch",
+        "b": "soak:dry",
+        "c": "deluge:hydrate",
+        "d": "drench:moisten"
+      },
+      "one_liner": "'Flood' is a synonym of 'inundate', while 'parch' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

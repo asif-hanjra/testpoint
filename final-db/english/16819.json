@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'immaculate':",
+      "options": {
+        "a": "clean",
+        "b": "spotless",
+        "c": "filthy",
+        "d": "pure"
+      },
+      "one_liner": "An antonym of 'immaculate' is 'filthy', which means very dirty.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

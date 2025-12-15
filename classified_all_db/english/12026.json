@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'oblique':",
+      "options": {
+        "a": "direct",
+        "b": "twisted",
+        "c": "diagonal",
+        "d": "curved"
+      },
+      "one_liner": "The opposite of 'oblique', which means slanted, would be 'direct' or 'straightforward'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

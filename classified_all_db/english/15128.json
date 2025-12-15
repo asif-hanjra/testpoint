@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'incursion':",
+      "options": {
+        "a": "invasion:retreat",
+        "b": "attack:alliance",
+        "c": "raid:harmony",
+        "d": "foray:assault"
+      },
+      "one_liner": "'Invasion' is a synonym for 'incursion', while 'retreat' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

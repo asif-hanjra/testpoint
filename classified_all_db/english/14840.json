@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'different':",
+      "options": {
+        "a": "similar",
+        "b": "distinct",
+        "c": "diverse",
+        "d": "unique"
+      },
+      "one_liner": "The antonym of 'different' is 'similar', which means resembling without being identical.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

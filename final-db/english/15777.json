@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'defer':",
+      "options": {
+        "a": "expedite",
+        "b": "prolong",
+        "c": "postpone",
+        "d": "delay"
+      },
+      "one_liner": "An antonym of 'defer' is 'expedite', which means to speed up or hasten.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'deposit':",
+      "options": {
+        "a": "lay:extract",
+        "b": "put:take",
+        "c": "drop:raise",
+        "d": "settle:remove"
+      },
+      "one_liner": "'Lay' is a synonym for 'deposit', while 'extract' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

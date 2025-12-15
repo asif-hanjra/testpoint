@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'debacle':",
+      "options": {
+        "a": "success",
+        "b": "victory",
+        "c": "fiasco",
+        "d": "achievement"
+      },
+      "one_liner": "'Debacle' refers to a complete failure or disaster, similar to a 'fiasco'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

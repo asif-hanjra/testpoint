@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'standing':",
+      "options": {
+        "a": "sitting",
+        "b": "walking",
+        "c": "running",
+        "d": "jumping"
+      },
+      "one_liner": "An antonym of 'standing' is 'sitting', which means being in a seated position as opposed to standing.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'harmony':",
+      "options": {
+        "a": "discord",
+        "b": "concord",
+        "c": "clash",
+        "d": "disagreement"
+      },
+      "one_liner": "'Harmony' suggests a pleasing combination or arrangement, similar to 'concord'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

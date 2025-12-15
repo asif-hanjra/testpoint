@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'guarded':",
+      "options": {
+        "a": "reckless",
+        "b": "wary",
+        "c": "negligent",
+        "d": "heedless"
+      },
+      "one_liner": "'Guarded' means cautious or careful, similar to 'wary' or 'circumspect'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

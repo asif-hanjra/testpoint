@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'rapid':",
+      "options": {
+        "a": "slow",
+        "b": "swift",
+        "c": "lethargic",
+        "d": "sluggish"
+      },
+      "one_liner": "'Rapid' describes something very fast, similar to 'swift'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

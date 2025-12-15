@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'canny':",
+      "options": {
+        "a": "astute:naive",
+        "b": "wise:shrewd",
+        "c": "sensible:foolish",
+        "d": "smart:clever"
+      },
+      "one_liner": "A synonym for 'canny' is 'astute', while 'naive' is an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

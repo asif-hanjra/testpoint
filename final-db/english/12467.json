@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fugitive':",
+      "options": {
+        "a": "runner",
+        "b": "migrant",
+        "c": "stationary",
+        "d": "evader"
+      },
+      "one_liner": "The opposite of a 'fugitive' is someone who is 'stationary' or not fleeing.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

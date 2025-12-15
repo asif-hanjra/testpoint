@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'irate':",
+      "options": {
+        "a": "calm",
+        "b": "furious",
+        "c": "pleased",
+        "d": "content"
+      },
+      "one_liner": "'Irate' describes someone who is very angry, similar to 'furious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

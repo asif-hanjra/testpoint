@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'consecutive':",
+      "options": {
+        "a": "intermittent",
+        "b": "successive",
+        "c": "isolated",
+        "d": "sporadic"
+      },
+      "one_liner": "'Consecutive' refers to things following one after another in sequence, similar to 'successive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'oratorio':",
+      "options": {
+        "a": "concerto",
+        "b": "song",
+        "c": "sonata",
+        "d": "suite"
+      },
+      "one_liner": "An 'oratorio' is a large musical work, whereas a 'song' is typically a much shorter and simpler piece of music.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'numerous':",
+      "options": {
+        "a": "scarce",
+        "b": "abundant",
+        "c": "few",
+        "d": "insufficient"
+      },
+      "one_liner": "'Numerous' means many or plentiful—words like 'abundant' and 'ample' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fledgling':",
+      "options": {
+        "a": "veteran",
+        "b": "novice",
+        "c": "expert",
+        "d": "professional"
+      },
+      "one_liner": "'Fledgling' refers to someone or something that is inexperienced or new, similar to 'novice'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

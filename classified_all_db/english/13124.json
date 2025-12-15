@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'orison':",
+      "options": {
+        "a": "supplication:hex",
+        "b": "benediction:curse",
+        "c": "invocation:praise",
+        "d": "plea:blessing"
+      },
+      "one_liner": "'Supplication' is a synonym for 'orison', while 'hex' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

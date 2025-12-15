@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'impervious':",
+      "options": {
+        "a": "invulnerable",
+        "b": "impenetrable",
+        "c": "susceptible",
+        "d": "immune"
+      },
+      "one_liner": "An antonym of 'impervious' is 'susceptible', which means easily influenced or harmed by something.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

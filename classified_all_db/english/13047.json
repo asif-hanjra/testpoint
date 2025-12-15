@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'dreadful':",
+      "options": {
+        "a": "wonderful",
+        "b": "frightening",
+        "c": "terrible",
+        "d": "appalling"
+      },
+      "one_liner": "The word 'dreadful' implies something very bad, making 'wonderful' its antonym, which means extremely good.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

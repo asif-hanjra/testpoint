@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'forgive':",
+      "options": {
+        "a": "condemn",
+        "b": "absolve",
+        "c": "blame",
+        "d": "accuse"
+      },
+      "one_liner": "'Forgive' means to pardon or excuse someone—words like 'absolve' and 'exonerate' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

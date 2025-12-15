@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'burlesque':",
+      "options": {
+        "a": "caricature:solemnity",
+        "b": "lampoon:humor",
+        "c": "spoof:parody",
+        "d": "mockery:comedy"
+      },
+      "one_liner": "'Caricature' is a synonym of 'burlesque', while 'solemnity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

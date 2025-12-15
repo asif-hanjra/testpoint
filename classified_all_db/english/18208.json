@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'savant':",
+      "options": {
+        "a": "genius",
+        "b": "expert",
+        "c": "ignoramus",
+        "d": "professional"
+      },
+      "one_liner": "An antonym of 'savant' is 'ignoramus', indicating someone who is uneducated or lacks knowledge.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

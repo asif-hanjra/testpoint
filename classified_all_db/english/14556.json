@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adult':",
+      "options": {
+        "a": "mature:minor",
+        "b": "grown-up:elderly",
+        "c": "developed:young",
+        "d": "ripe:infant"
+      },
+      "one_liner": "'Mature' is a synonym of 'adult', while 'minor' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

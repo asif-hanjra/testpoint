@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fake':",
+      "options": {
+        "a": "fictitious:genuine",
+        "b": "real:phony",
+        "c": "authentic:counterfeit",
+        "d": "original:imitation"
+      },
+      "one_liner": "'Fictitious' is a synonym for 'fake', while 'genuine' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

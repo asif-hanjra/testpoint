@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nice':",
+      "options": {
+        "a": "pleasant:nasty",
+        "b": "friendly:mean",
+        "c": "agreeable:disagreeable",
+        "d": "kind:unkind"
+      },
+      "one_liner": "'Pleasant' is a synonym of 'nice', while 'nasty' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

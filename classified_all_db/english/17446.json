@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'oligarchy':",
+      "options": {
+        "a": "aristocracy:democracy",
+        "b": "plutocracy:republic",
+        "c": "autocracy:anarchy",
+        "d": "monarchy:democracy"
+      },
+      "one_liner": "'Aristocracy' is a synonym of 'oligarchy', while 'democracy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'stint':",
+      "options": {
+        "a": "shorten",
+        "b": "prolong",
+        "c": "reduce",
+        "d": "limit"
+      },
+      "one_liner": "An antonym of 'stint' would be 'prolong', which means to extend the duration rather than limit it.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

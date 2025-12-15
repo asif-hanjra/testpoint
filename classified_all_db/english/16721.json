@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'pebble':",
+      "options": {
+        "a": "grain",
+        "b": "sand",
+        "c": "boulder",
+        "d": "dust"
+      },
+      "one_liner": "In terms of size, 'boulder' is an antonym of 'pebble', as it refers to a much larger rock.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

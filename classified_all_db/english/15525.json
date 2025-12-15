@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'erratic':",
+      "options": {
+        "a": "steady",
+        "b": "inconsistent",
+        "c": "uniform",
+        "d": "constant"
+      },
+      "one_liner": "'Erratic' behavior is unpredictable, similar to how 'unpredictable' and 'inconsistent' describe something that does not follow a pattern.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

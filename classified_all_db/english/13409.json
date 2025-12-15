@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'enervate':",
+      "options": {
+        "a": "weaken:fortify",
+        "b": "debilitate:energize",
+        "c": "drain:refresh",
+        "d": "sap:invigorate"
+      },
+      "one_liner": "'Weaken' is a synonym of 'enervate', while 'fortify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

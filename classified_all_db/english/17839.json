@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mobile':",
+      "options": {
+        "a": "movable:stationary",
+        "b": "fixed:portable",
+        "c": "flexible:rigid",
+        "d": "agile:immobile"
+      },
+      "one_liner": "'Movable' is a synonym of 'mobile', while 'stationary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

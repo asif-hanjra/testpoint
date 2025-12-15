@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "They went ___ the rain.",
+      "options": {
+        "a": "during",
+        "b": "despite",
+        "c": "under",
+        "d": "over"
+      },
+      "one_liner": "They went 'despite' the rain.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

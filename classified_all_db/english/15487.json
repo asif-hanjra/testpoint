@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sip':",
+      "options": {
+        "a": "guzzle",
+        "b": "taste",
+        "c": "nurse",
+        "d": "sample"
+      },
+      "one_liner": "The antonym of 'sip' is 'guzzle', which means to drink quickly and in large amounts.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

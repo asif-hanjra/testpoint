@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Students must _______ their assignments by Friday.",
+      "options": {
+        "a": "look after",
+        "b": "hand in",
+        "c": "take off",
+        "d": "run out"
+      },
+      "one_liner": "Students must 'hand in' their assignments by Friday.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Phrasal Verbs",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

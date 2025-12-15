@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adept':",
+      "options": {
+        "a": "skilled:clumsy",
+        "b": "expert:proficient",
+        "c": "master:amateur",
+        "d": "capable:inept"
+      },
+      "one_liner": "'Skilled' is a synonym of 'adept', while 'clumsy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

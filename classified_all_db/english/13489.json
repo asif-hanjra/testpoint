@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lavish':",
+      "options": {
+        "a": "spartan",
+        "b": "generous",
+        "c": "extravagant",
+        "d": "sumptuous"
+      },
+      "one_liner": "The word 'lavish' implies abundance and extravagance, making 'spartan' an antonym that suggests simplicity and austerity.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

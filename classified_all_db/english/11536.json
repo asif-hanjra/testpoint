@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gargle':",
+      "options": {
+        "a": "swill:retain",
+        "b": "rinse:expel",
+        "c": "swish:ingest",
+        "d": "wash:spit"
+      },
+      "one_liner": "'Swill' is a synonym of 'gargle', while 'expel' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

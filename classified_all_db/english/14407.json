@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'conflict':",
+      "options": {
+        "a": "discord",
+        "b": "strife",
+        "c": "harmony",
+        "d": "battle"
+      },
+      "one_liner": "The opposite of 'conflict' is 'harmony', which signifies a state of peace and agreement.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

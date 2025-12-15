@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Latin term 'Non-sequitur' imply when used in conversation?",
+      "options": {
+        "a": "A logical argument",
+        "b": "A statement that does not logically follow from the previous statement",
+        "c": "A sequence of events",
+        "d": "A relevant point"
+      },
+      "one_liner": "A 'Non-sequitur' is a statement that does not logically follow from the previous statement or context.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Foreign Phrases",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

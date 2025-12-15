@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'intelligent':",
+      "options": {
+        "a": "smart",
+        "b": "wise",
+        "c": "unintelligent",
+        "d": "knowledgeable"
+      },
+      "one_liner": "The opposite of 'intelligent' is 'unintelligent', which describes someone who is not very smart or clever.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'legible':",
+      "options": {
+        "a": "clear",
+        "b": "illegible",
+        "c": "distinct",
+        "d": "sharp"
+      },
+      "one_liner": "An antonym of 'legible' is 'illegible', which means not clear enough to read.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

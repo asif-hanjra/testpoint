@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'shun':",
+      "options": {
+        "a": "avoid:welcome",
+        "b": "reject:embrace",
+        "c": "eschew:accept",
+        "d": "neglect:seek"
+      },
+      "one_liner": "'Avoid' is a synonym of 'shun', while 'welcome' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

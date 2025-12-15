@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'florid':",
+      "options": {
+        "a": "plain",
+        "b": "ornate",
+        "c": "simple",
+        "d": "sparse"
+      },
+      "one_liner": "'Florid' means excessively ornate or flowery, similar to 'ornate' in style.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

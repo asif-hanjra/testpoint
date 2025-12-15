@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'grazing':",
+      "options": {
+        "a": "starving",
+        "b": "chewing",
+        "c": "munching",
+        "d": "nibbling"
+      },
+      "one_liner": "An antonym for 'grazing' could be 'starving', as it implies not eating.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

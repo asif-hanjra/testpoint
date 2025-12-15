@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'zenith':",
+      "options": {
+        "a": "acme:trough",
+        "b": "summit:peak",
+        "c": "apex:base",
+        "d": "top:bottom"
+      },
+      "one_liner": "'Acme' is a synonym for 'zenith', while 'trough' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

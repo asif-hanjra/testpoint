@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'refurbish':",
+      "options": {
+        "a": "restore:deteriorate",
+        "b": "renew:enhance",
+        "c": "revamp:upgrade",
+        "d": "rebuild:construct"
+      },
+      "one_liner": "'Restore' is a synonym of 'refurbish', while 'deteriorate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

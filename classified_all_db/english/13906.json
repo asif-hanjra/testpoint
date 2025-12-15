@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the term 'skeleton crew' refer to?",
+      "options": {
+        "a": "A group of archaeologists",
+        "b": "The minimum number of people needed to operate a ship",
+        "c": "A team of medical professionals",
+        "d": "A group of Halloween costume judges"
+      },
+      "one_liner": "The term 'skeleton crew' refers to the smallest number of people required to keep a service or operation running, often used in the context of ships or businesses.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

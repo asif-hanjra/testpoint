@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reduce':",
+      "options": {
+        "a": "lessen:expand",
+        "b": "diminish:inflate",
+        "c": "decrease:augment",
+        "d": "narrow:increase"
+      },
+      "one_liner": "'Decrease' is a synonym of 'reduce', while 'expand' is its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

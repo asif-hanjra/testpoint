@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vagrant':",
+      "options": {
+        "a": "settler",
+        "b": "drifter",
+        "c": "resident",
+        "d": "inhabitant"
+      },
+      "one_liner": "'Vagrant' refers to someone who is homeless or wandering, similar to a 'drifter'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

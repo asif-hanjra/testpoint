@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'demolish':",
+      "options": {
+        "a": "build",
+        "b": "raze",
+        "c": "construct",
+        "d": "erect"
+      },
+      "one_liner": "'Demolish' means to destroy or tear down, similar to 'raze'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

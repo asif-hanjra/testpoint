@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'insane':",
+      "options": {
+        "a": "sane",
+        "b": "mad",
+        "c": "rational",
+        "d": "balanced"
+      },
+      "one_liner": "'Insane' means mentally ill or extremely foolish, so 'mad' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'small':",
+      "options": {
+        "a": "large",
+        "b": "tiny",
+        "c": "huge",
+        "d": "gigantic"
+      },
+      "one_liner": "'Small' means of limited size, similar to 'tiny'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

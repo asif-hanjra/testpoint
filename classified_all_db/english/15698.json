@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'adamant':",
+      "options": {
+        "a": "resolute:flexible",
+        "b": "stubborn:pliant",
+        "c": "unyielding:yielding",
+        "d": "inflexible:adaptable"
+      },
+      "one_liner": "'Resolute' is a synonym of 'adamant', while 'flexible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'asylum':",
+      "options": {
+        "a": "prison",
+        "b": "sanctuary",
+        "c": "exposure",
+        "d": "danger"
+      },
+      "one_liner": "'Asylum' refers to a place of refuge or safety—words like 'sanctuary' and 'haven' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

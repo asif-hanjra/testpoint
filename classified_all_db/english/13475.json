@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'posit':",
+      "options": {
+        "a": "accept",
+        "b": "embrace",
+        "c": "reject",
+        "d": "agree"
+      },
+      "one_liner": "The antonym of 'posit', which means to put forward an idea, would be 'reject' or 'deny', which means to dismiss or refuse an idea.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

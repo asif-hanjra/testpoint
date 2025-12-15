@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'valor':",
+      "options": {
+        "a": "gallantry:timidity",
+        "b": "bravery:fearlessness",
+        "c": "heroism:courage",
+        "d": "strength:power"
+      },
+      "one_liner": "'Gallantry' is a synonym for 'valor', while 'timidity' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

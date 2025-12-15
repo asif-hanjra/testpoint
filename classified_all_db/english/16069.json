@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fine':",
+      "options": {
+        "a": "refined:coarse",
+        "b": "elegant:graceful",
+        "c": "superior:inferior",
+        "d": "delicate:robust"
+      },
+      "one_liner": "'Refined' is a synonym of 'fine', while 'coarse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'evil':",
+      "options": {
+        "a": "good",
+        "b": "wicked",
+        "c": "sinister",
+        "d": "nefarious"
+      },
+      "one_liner": "The antonym of 'evil' is 'good', which stands for moral righteousness.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

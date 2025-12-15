@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'luxurious':",
+      "options": {
+        "a": "plush:ascetic",
+        "b": "opulent:rich",
+        "c": "sumptuous:lavish",
+        "d": "grandiose:grand"
+      },
+      "one_liner": "'Plush' is a synonym of 'luxurious', while 'ascetic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

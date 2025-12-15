@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'levee':",
+      "options": {
+        "a": "embankment:reservoir",
+        "b": "floodwall:basin",
+        "c": "barrier:dam",
+        "d": "dike:channel"
+      },
+      "one_liner": "'Floodwall' is a synonym of 'levee', while 'basin' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

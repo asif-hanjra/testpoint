@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'intact':",
+      "options": {
+        "a": "unaltered:broken",
+        "b": "whole:complete",
+        "c": "undamaged:impaired",
+        "d": "unimpaired:intact"
+      },
+      "one_liner": "'Unaltered' is a synonym of 'intact', while 'broken' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

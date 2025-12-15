@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Identify the part of speech for 'and' in the sentence 'She likes apples and oranges.'",
+      "options": {
+        "a": "Adverb",
+        "b": "Conjunction",
+        "c": "Noun",
+        "d": "Verb"
+      },
+      "one_liner": "In the sentence 'She likes apples and oranges', the word 'and' is a conjunction because it connects two nouns.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

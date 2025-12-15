@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'Non-Religious':",
+      "options": {
+        "a": "secular:sacred",
+        "b": "irreligious:spiritual",
+        "c": "agnostic:devout",
+        "d": "atheistic:religious"
+      },
+      "one_liner": "'Secular' is a synonym of 'Non-Religious', while 'Sacred' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

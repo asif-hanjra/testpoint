@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'barbaric':",
+      "options": {
+        "a": "civilized",
+        "b": "savage",
+        "c": "refined",
+        "d": "polite"
+      },
+      "one_liner": "'Barbaric' actions are often described as 'savage' or 'brutal' due to their cruel nature.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

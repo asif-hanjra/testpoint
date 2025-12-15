@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reckless':",
+      "options": {
+        "a": "impulsive:considerate",
+        "b": "careful:cautious",
+        "c": "rash:prudent",
+        "d": "negligent:attentive"
+      },
+      "one_liner": "'Impulsive' is a synonym of 'reckless', while 'considerate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'gouge':",
+      "options": {
+        "a": "carve",
+        "b": "chisel",
+        "c": "fill",
+        "d": "scrape"
+      },
+      "one_liner": "An antonym of 'gouge' would be 'fill', which means to add material to a space rather than removing it.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'save':",
+      "options": {
+        "a": "squander",
+        "b": "hoard",
+        "c": "accumulate",
+        "d": "gather"
+      },
+      "one_liner": "The opposite of 'save' is 'squander', which means to waste something, especially money or time, in a reckless and foolish manner.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

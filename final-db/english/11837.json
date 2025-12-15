@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'agitate':",
+      "options": {
+        "a": "disturb",
+        "b": "excite",
+        "c": "calm",
+        "d": "provoke"
+      },
+      "one_liner": "The antonym of 'agitate' is 'calm', which means to bring peace or tranquility.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

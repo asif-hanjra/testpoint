@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'benevolent':",
+      "options": {
+        "a": "generous",
+        "b": "kind",
+        "c": "malevolent",
+        "d": "compassionate"
+      },
+      "one_liner": "The opposite of 'benevolent', which means kind, would be 'malevolent', meaning having or showing a wish to do evil.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

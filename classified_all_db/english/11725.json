@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ornithologist':",
+      "options": {
+        "a": "zoologist",
+        "b": "birdwatcher",
+        "c": "botanist",
+        "d": "entomologist"
+      },
+      "one_liner": "'Ornithologist' refers to a person who studies birds, similar to a 'birdwatcher' who also observes birds.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

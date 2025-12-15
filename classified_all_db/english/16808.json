@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'annul':",
+      "options": {
+        "a": "enforce",
+        "b": "invalidate",
+        "c": "establish",
+        "d": "confirm"
+      },
+      "one_liner": "'Annul' means to declare invalid, similar to 'invalidate' or 'void'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

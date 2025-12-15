@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ligneous':",
+      "options": {
+        "a": "metallic",
+        "b": "woody",
+        "c": "plastic",
+        "d": "glassy"
+      },
+      "one_liner": "'Ligneous' means made of or resembling wood, so 'woody' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

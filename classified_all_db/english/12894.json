@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'poor':",
+      "options": {
+        "a": "wealthy",
+        "b": "affluent",
+        "c": "impoverished",
+        "d": "prosperous"
+      },
+      "one_liner": "'Poor' is often associated with 'impoverished', both indicating a lack of wealth or resources.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

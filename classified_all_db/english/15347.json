@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'euphuism':",
+      "options": {
+        "a": "verbosity:conciseness",
+        "b": "pretentiousness:simplicity",
+        "c": "affectation:clarity",
+        "d": "floridness:directness"
+      },
+      "one_liner": "'Pretentiousness' is a synonym of 'euphuism', whereas 'simplicity' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

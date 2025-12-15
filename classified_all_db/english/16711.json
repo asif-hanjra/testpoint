@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'arable':",
+      "options": {
+        "a": "fertile",
+        "b": "productive",
+        "c": "barren",
+        "d": "fruitful"
+      },
+      "one_liner": "The antonym of 'arable' is 'barren', which means land that is not suitable for growing crops.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

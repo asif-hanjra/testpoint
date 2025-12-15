@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'Caesarian':",
+      "options": {
+        "a": "natural birth",
+        "b": "C-section",
+        "c": "home birth",
+        "d": "midwifery"
+      },
+      "one_liner": "'Caesarian' refers to a surgical procedure to deliver a baby, similar to 'C-section'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

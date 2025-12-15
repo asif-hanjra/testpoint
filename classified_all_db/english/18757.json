@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nervous':",
+      "options": {
+        "a": "tense:serene",
+        "b": "calm:anxious",
+        "c": "edgy:relaxed",
+        "d": "anxious:peaceful"
+      },
+      "one_liner": "'Tense' is a synonym of 'nervous', while 'serene' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

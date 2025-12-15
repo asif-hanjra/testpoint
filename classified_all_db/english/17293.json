@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'break':",
+      "options": {
+        "a": "mend",
+        "b": "fracture",
+        "c": "join",
+        "d": "attach"
+      },
+      "one_liner": "'Break' means to separate into pieces, similar to 'fracture'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'linen':",
+      "options": {
+        "a": "wool",
+        "b": "textile",
+        "c": "leather",
+        "d": "silk"
+      },
+      "one_liner": "'Linen' refers to a type of fabric or cloth, similar to 'textile'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

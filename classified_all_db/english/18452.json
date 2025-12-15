@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'loose':",
+      "options": {
+        "a": "tight",
+        "b": "slack",
+        "c": "rigid",
+        "d": "stiff"
+      },
+      "one_liner": "'Loose' can mean not tight or free, similar to 'slack' or 'lax'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

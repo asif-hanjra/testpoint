@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'divide':",
+      "options": {
+        "a": "partition:connect",
+        "b": "segregate:attach",
+        "c": "split:combine",
+        "d": "bisect:merge"
+      },
+      "one_liner": "'Partition' is a synonym of 'divide', while 'connect' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'strain':",
+      "options": {
+        "a": "relax",
+        "b": "stretch",
+        "c": "release",
+        "d": "ease"
+      },
+      "one_liner": "'Strain' can mean to exert or to stretch, so 'stretch' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

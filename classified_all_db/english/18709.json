@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'save':",
+      "options": {
+        "a": "conserve:dissipate",
+        "b": "protect:waste",
+        "c": "preserve:accumulate",
+        "d": "maintain:spend"
+      },
+      "one_liner": "'Preserve' is a synonym of 'save', while 'dissipate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lethargy':",
+      "options": {
+        "a": "energy",
+        "b": "languor",
+        "c": "vigor",
+        "d": "activity"
+      },
+      "one_liner": "'Lethargy' refers to a state of sluggishness or apathy—words like 'languor' and 'torpor' convey a similar sense of inactivity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

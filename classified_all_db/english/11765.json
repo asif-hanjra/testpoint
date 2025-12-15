@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'apparition':",
+      "options": {
+        "a": "ghost:illusion",
+        "b": "specter:being",
+        "c": "phantom:reality",
+        "d": "vision:clarity"
+      },
+      "one_liner": "'Specter' is a synonym of 'apparition', while 'being' is its antonym, referring to a real entity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

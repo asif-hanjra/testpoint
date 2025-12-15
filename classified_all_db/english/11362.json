@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vitality':",
+      "options": {
+        "a": "lethargy",
+        "b": "vigor",
+        "c": "weakness",
+        "d": "fatigue"
+      },
+      "one_liner": "'Vitality' refers to the state of being strong and active; 'vigor' is a synonym that conveys a similar sense of energy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

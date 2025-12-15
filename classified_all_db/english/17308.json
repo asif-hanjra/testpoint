@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stiff':",
+      "options": {
+        "a": "flexible",
+        "b": "rigid",
+        "c": "pliant",
+        "d": "supple"
+      },
+      "one_liner": "'Stiff' can mean rigid or inflexible, similar to 'rigid' and 'unbending'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

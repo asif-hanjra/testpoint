@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'oculist':",
+      "options": {
+        "a": "cardiologist",
+        "b": "optometrist",
+        "c": "dermatologist",
+        "d": "orthopedist"
+      },
+      "one_liner": "'Oculist' is another term for an 'eye doctor' or 'optometrist', professionals who specialize in eye care.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

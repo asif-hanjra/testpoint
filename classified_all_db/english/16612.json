@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'blooming':",
+      "options": {
+        "a": "flourishing:decaying",
+        "b": "expanding:contracting",
+        "c": "blossoming:blooming",
+        "d": "growing:withering"
+      },
+      "one_liner": "'Flourishing' is a synonym of 'blooming', while 'decaying' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

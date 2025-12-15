@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'delineate':",
+      "options": {
+        "a": "clarify",
+        "b": "illustrate",
+        "c": "obscure",
+        "d": "highlight"
+      },
+      "one_liner": "The antonym of 'delineate', which means to describe in detail, would be 'obscure', meaning to make unclear or difficult to understand.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

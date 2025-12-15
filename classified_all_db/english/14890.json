@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'harmony':",
+      "options": {
+        "a": "concord",
+        "b": "balance",
+        "c": "discord",
+        "d": "unity"
+      },
+      "one_liner": "The word 'harmony' implies agreement and balance, making 'discord' its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

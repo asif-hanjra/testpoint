@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'quash':",
+      "options": {
+        "a": "repeal:ratify",
+        "b": "enforce:annul",
+        "c": "nullify:confirm",
+        "d": "invalidate:uphold"
+      },
+      "one_liner": "'Repeal' is a synonym of 'quash', while 'ratify' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'mean':",
+      "options": {
+        "a": "median:outstanding",
+        "b": "average:typical",
+        "c": "common:unusual",
+        "d": "central:peripheral"
+      },
+      "one_liner": "'Median' is a synonym of 'mean', while 'outstanding' is its antonym, indicating something far from average.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

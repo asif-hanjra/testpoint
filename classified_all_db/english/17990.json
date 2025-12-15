@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'waver':",
+      "options": {
+        "a": "persist",
+        "b": "hesitate",
+        "c": "decide",
+        "d": "steady"
+      },
+      "one_liner": "'Waver' means to fluctuate or be indecisive, similar to 'hesitate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

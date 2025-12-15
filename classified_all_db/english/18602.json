@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'early':",
+      "options": {
+        "a": "late",
+        "b": "premature",
+        "c": "delayed",
+        "d": "postponed"
+      },
+      "one_liner": "'Early' means before the expected or usual time, similar to 'premature' or 'ahead of schedule'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lament':",
+      "options": {
+        "a": "celebrate",
+        "b": "mourn",
+        "c": "rejoice",
+        "d": "delight"
+      },
+      "one_liner": "'Lament' means to express sorrow or regret, similar to 'mourn' or 'grieve'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

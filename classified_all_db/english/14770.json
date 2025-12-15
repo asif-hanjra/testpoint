@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vanity':",
+      "options": {
+        "a": "humility",
+        "b": "modesty",
+        "c": "conceit",
+        "d": "simplicity"
+      },
+      "one_liner": "'Vanity' refers to excessive pride in oneself, similar to 'conceit'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

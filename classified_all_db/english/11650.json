@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'drought':",
+      "options": {
+        "a": "flood",
+        "b": "dry spell",
+        "c": "deluge",
+        "d": "downpour"
+      },
+      "one_liner": "'Drought' refers to a prolonged period without rain, similar to 'dry spell'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

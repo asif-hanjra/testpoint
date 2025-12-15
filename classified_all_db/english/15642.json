@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'proficient':",
+      "options": {
+        "a": "adept:amateur",
+        "b": "skilled:expert",
+        "c": "capable:proficient",
+        "d": "competent:skilled"
+      },
+      "one_liner": "'Adept' is a synonym of 'proficient', while 'amateur' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

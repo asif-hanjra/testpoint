@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quash':",
+      "options": {
+        "a": "uphold",
+        "b": "annul",
+        "c": "approve",
+        "d": "confirm"
+      },
+      "one_liner": "'Quash' means to reject or void, similar to 'nullify' or 'annul'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

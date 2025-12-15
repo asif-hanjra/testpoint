@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fraud':",
+      "options": {
+        "a": "honesty",
+        "b": "deception",
+        "c": "integrity",
+        "d": "truth"
+      },
+      "one_liner": "'Fraud' refers to deceit or trickery, similar to 'deception' and 'swindle'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

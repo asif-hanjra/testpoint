@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'grovel':",
+      "options": {
+        "a": "stand",
+        "b": "fawn",
+        "c": "dominate",
+        "d": "command"
+      },
+      "one_liner": "'Grovel' means to act in an obsequious manner to obtain forgiveness or favor, similar to 'fawn' or 'cringe'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

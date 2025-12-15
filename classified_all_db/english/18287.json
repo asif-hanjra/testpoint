@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'torpid':",
+      "options": {
+        "a": "lethargic:alert",
+        "b": "sluggish:energetic",
+        "c": "inactive:active",
+        "d": "dull:lively"
+      },
+      "one_liner": "'Lethargic' is a synonym for 'torpid', while 'alert' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

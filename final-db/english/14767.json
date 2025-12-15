@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Make hay ___ the sun shines.",
+      "options": {
+        "a": "during",
+        "b": "while",
+        "c": "since",
+        "d": "until"
+      },
+      "one_liner": "Make hay 'while' the sun shines.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

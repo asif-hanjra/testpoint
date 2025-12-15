@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'bottom':",
+      "options": {
+        "a": "top",
+        "b": "base",
+        "c": "depth",
+        "d": "floor"
+      },
+      "one_liner": "The antonym of 'bottom' is 'top', indicating the highest part or point.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'contingent':",
+      "options": {
+        "a": "dependent:independent",
+        "b": "conditional:absolute",
+        "c": "uncertain:certain",
+        "d": "probable:definite"
+      },
+      "one_liner": "'Dependent' is a synonym of 'contingent', while 'independent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

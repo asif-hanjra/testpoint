@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'ashamed':",
+      "options": {
+        "a": "humiliated:honored",
+        "b": "proud:embarrassed",
+        "c": "mortified:joyful",
+        "d": "guilty:elated"
+      },
+      "one_liner": "'Humiliated' is a synonym for 'ashamed', while 'honored' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

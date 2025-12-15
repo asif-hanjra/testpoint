@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stockade':",
+      "options": {
+        "a": "barricade",
+        "b": "freedom",
+        "c": "openness",
+        "d": "entrance"
+      },
+      "one_liner": "'Stockade' refers to a defensive barrier, similar to a 'fortification' or 'barricade'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'preamble':",
+      "options": {
+        "a": "conclusion",
+        "b": "preface",
+        "c": "epilogue",
+        "d": "afterword"
+      },
+      "one_liner": "'Preamble' refers to a preliminary statement, often used as an introduction, similar to a 'preface'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

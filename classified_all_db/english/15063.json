@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'valor':",
+      "options": {
+        "a": "fear",
+        "b": "bravery",
+        "c": "cowardice",
+        "d": "weakness"
+      },
+      "one_liner": "'Valor' is synonymous with 'courage' and 'bravery', representing heroic strength in the face of danger.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

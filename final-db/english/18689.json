@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'contract':",
+      "options": {
+        "a": "expand",
+        "b": "shrink",
+        "c": "narrow",
+        "d": "shorten"
+      },
+      "one_liner": "As an antonym, 'contract' meaning to reduce in size is opposed by 'expand', which means to increase in size.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

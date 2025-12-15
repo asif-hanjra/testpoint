@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'hypocritical':",
+      "options": {
+        "a": "duplicitous:authentic",
+        "b": "deceptive:genuine",
+        "c": "false:real",
+        "d": "phony:fake"
+      },
+      "one_liner": "'Duplicitous' is a synonym of 'hypocritical', while 'authentic' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

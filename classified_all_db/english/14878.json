@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conspicuous':",
+      "options": {
+        "a": "hidden",
+        "b": "prominent",
+        "c": "obscure",
+        "d": "inconspicuous"
+      },
+      "one_liner": "'Conspicuous' means easily seen or noticeable, similar to 'prominent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

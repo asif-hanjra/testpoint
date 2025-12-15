@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sway':",
+      "options": {
+        "a": "control:immobility",
+        "b": "influence:stability",
+        "c": "dominate:steadiness",
+        "d": "manipulate:fixity"
+      },
+      "one_liner": "'Control' is a synonym of 'sway', while 'immobility' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

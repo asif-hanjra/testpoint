@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'epitome':",
+      "options": {
+        "a": "embodiment",
+        "b": "exemplar",
+        "c": "opposite",
+        "d": "paragon"
+      },
+      "one_liner": "Antonyms of 'epitome' include 'opposite' and 'contrary', both implying something that is not representative.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

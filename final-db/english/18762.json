@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'crease':",
+      "options": {
+        "a": "smooth",
+        "b": "fold",
+        "c": "stretch",
+        "d": "flatten"
+      },
+      "one_liner": "'Crease' refers to a line or ridge produced on paper or cloth by folding or crushing, similar to a 'fold'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

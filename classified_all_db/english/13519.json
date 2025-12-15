@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stoop':",
+      "options": {
+        "a": "bow:erect",
+        "b": "bend:rise",
+        "c": "crouch:straighten",
+        "d": "lean:lift"
+      },
+      "one_liner": "'Bow' is a synonym for 'stoop', while 'erect' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

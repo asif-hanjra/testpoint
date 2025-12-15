@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fugitive':",
+      "options": {
+        "a": "settler",
+        "b": "escapee",
+        "c": "resident",
+        "d": "inhabitant"
+      },
+      "one_liner": "'Fugitive' refers to someone who is fleeing from capture, similar to an 'escapee'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

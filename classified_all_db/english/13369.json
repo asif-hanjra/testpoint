@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'divulge':",
+      "options": {
+        "a": "reveal",
+        "b": "disclose",
+        "c": "expose",
+        "d": "conceal"
+      },
+      "one_liner": "Antonyms of 'divulge' include 'conceal' and 'hide', both implying keeping information secret.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

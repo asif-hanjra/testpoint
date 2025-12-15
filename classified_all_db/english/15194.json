@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'valiant':",
+      "options": {
+        "a": "cowardly",
+        "b": "heroic",
+        "c": "fearful",
+        "d": "timid"
+      },
+      "one_liner": "'Valiant' describes someone who is brave and courageous, much like the word 'heroic'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

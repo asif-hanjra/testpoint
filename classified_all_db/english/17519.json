@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'nondescript':",
+      "options": {
+        "a": "generic:extraordinary",
+        "b": "plain:colorful",
+        "c": "unusual:typical",
+        "d": "common:unique"
+      },
+      "one_liner": "'Generic' is a synonym of 'nondescript', while 'extraordinary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

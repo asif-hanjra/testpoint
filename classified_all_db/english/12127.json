@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'abundant':",
+      "options": {
+        "a": "scarce",
+        "b": "plentiful",
+        "c": "meager",
+        "d": "insufficient"
+      },
+      "one_liner": "'Abundant' means plentiful or copious, indicating a large quantity of something.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'determined':",
+      "options": {
+        "a": "persistent:indecisive",
+        "b": "tenacious:wavering",
+        "c": "resolute:steady",
+        "d": "firm:unyielding"
+      },
+      "one_liner": "'Tenacious' is a synonym of 'determined', while 'wavering' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

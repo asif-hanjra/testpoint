@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'concoct':",
+      "options": {
+        "a": "devise:ruin",
+        "b": "create:preserve",
+        "c": "invent:develop",
+        "d": "formulate:build"
+      },
+      "one_liner": "'Devise' is a synonym of 'concoct', while 'ruin' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

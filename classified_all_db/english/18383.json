@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'Renaissance':",
+      "options": {
+        "a": "decline",
+        "b": "reawakening",
+        "c": "end",
+        "d": "fall"
+      },
+      "one_liner": "'Renaissance' refers to a period of revival or rebirth, similar to 'reawakening'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

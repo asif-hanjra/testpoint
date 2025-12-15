@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'preen':",
+      "options": {
+        "a": "groom",
+        "b": "tidy",
+        "c": "neglect",
+        "d": "adorn"
+      },
+      "one_liner": "An antonym of 'preen' would be 'neglect', which means to fail to care for properly.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

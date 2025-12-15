@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'gentle':",
+      "options": {
+        "a": "mild:brutal",
+        "b": "harsh:tender",
+        "c": "soft:rough",
+        "d": "calm:aggressive"
+      },
+      "one_liner": "'Mild' is a synonym of 'gentle', while 'brutal' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

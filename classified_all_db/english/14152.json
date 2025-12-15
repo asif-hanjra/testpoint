@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'courteous':",
+      "options": {
+        "a": "rude",
+        "b": "civil",
+        "c": "disrespectful",
+        "d": "uncivilized"
+      },
+      "one_liner": "'Courteous' means polite and respectful, similar to 'civil' in demeanor.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

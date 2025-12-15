@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'vigorous':",
+      "options": {
+        "a": "lethargic",
+        "b": "robust",
+        "c": "frail",
+        "d": "weak"
+      },
+      "one_liner": "'Vigorous' implies being strong and energetic, similar to 'robust'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

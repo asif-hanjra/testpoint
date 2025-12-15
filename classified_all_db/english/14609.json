@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'negligent':",
+      "options": {
+        "a": "diligent",
+        "b": "attentive",
+        "c": "remiss",
+        "d": "meticulous"
+      },
+      "one_liner": "'Negligent' means failing to take proper care, similar to 'careless' or 'remiss'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

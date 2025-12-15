@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'lavish':",
+      "options": {
+        "a": "modest",
+        "b": "luxurious",
+        "c": "sparse",
+        "d": "meager"
+      },
+      "one_liner": "'Lavish' means extravagant or opulent, with 'luxurious' being a synonym that conveys a similar sense of grandeur.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

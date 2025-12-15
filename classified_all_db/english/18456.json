@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'optional':",
+      "options": {
+        "a": "mandatory",
+        "b": "voluntary",
+        "c": "compulsory",
+        "d": "required"
+      },
+      "one_liner": "'Optional' means not mandatory, similar to 'voluntary' which also implies a choice.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

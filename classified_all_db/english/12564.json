@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'erudite':",
+      "options": {
+        "a": "ignorant",
+        "b": "scholarly",
+        "c": "uneducated",
+        "d": "illiterate"
+      },
+      "one_liner": "'Erudite' refers to someone who is very knowledgeable or learned, similar to 'scholarly'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

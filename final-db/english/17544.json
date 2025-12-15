@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'abeyance':",
+      "options": {
+        "a": "cessation",
+        "b": "discontinuation",
+        "c": "continuation",
+        "d": "interruption"
+      },
+      "one_liner": "The opposite of 'abeyance', which means a temporary halt, would be 'continuation', indicating ongoing activity.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

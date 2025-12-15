@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stable':",
+      "options": {
+        "a": "chaotic",
+        "b": "steady",
+        "c": "unpredictable",
+        "d": "inconsistent"
+      },
+      "one_liner": "'Stable' means steady or not likely to change, so 'steady' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

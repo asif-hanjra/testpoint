@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'cryptic':",
+      "options": {
+        "a": "arcane:transparent",
+        "b": "obvious:enigmatic",
+        "c": "mysterious:explicit",
+        "d": "hidden:clear"
+      },
+      "one_liner": "'Arcane' is a synonym of 'cryptic', while 'transparent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

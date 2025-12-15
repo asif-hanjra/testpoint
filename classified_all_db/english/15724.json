@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'earnest':",
+      "options": {
+        "a": "serious",
+        "b": "genuine",
+        "c": "frivolous",
+        "d": "sincere"
+      },
+      "one_liner": "The word 'earnest' is the opposite of 'frivolous', which implies a lack of seriousness.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

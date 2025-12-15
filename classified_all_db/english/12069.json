@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'onus':",
+      "options": {
+        "a": "burden",
+        "b": "duty",
+        "c": "privilege",
+        "d": "responsibility"
+      },
+      "one_liner": "An antonym for 'onus' is 'privilege', which implies a special right or advantage rather than a burden.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

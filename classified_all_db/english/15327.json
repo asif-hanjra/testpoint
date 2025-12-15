@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'convenient':",
+      "options": {
+        "a": "accessible:inaccessible",
+        "b": "handy:handicapped",
+        "c": "practical:impractical",
+        "d": "suitable:unsuitable"
+      },
+      "one_liner": "'Accessible' is a synonym of 'convenient', while 'inaccessible' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

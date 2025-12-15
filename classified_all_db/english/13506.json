@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'obsolete':",
+      "options": {
+        "a": "outmoded:contemporary",
+        "b": "archaic:innovative",
+        "c": "dated:modern",
+        "d": "old:new"
+      },
+      "one_liner": "'Outmoded' is a synonym of 'obsolete', while 'contemporary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

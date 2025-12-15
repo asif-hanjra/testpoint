@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'traitor':",
+      "options": {
+        "a": "loyalist",
+        "b": "betrayer",
+        "c": "rebel",
+        "d": "defector"
+      },
+      "one_liner": "A 'traitor' is the opposite of a 'loyalist', who remains faithful to an allegiance.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

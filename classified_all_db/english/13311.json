@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'accumulate':",
+      "options": {
+        "a": "gather",
+        "b": "hoard",
+        "c": "disperse",
+        "d": "amass"
+      },
+      "one_liner": "The antonym of 'accumulate' is 'disperse', which means to distribute or spread out.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

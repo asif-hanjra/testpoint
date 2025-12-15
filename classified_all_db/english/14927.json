@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fluid':",
+      "options": {
+        "a": "gaseous",
+        "b": "liquid",
+        "c": "solid",
+        "d": "vapor"
+      },
+      "one_liner": "The antonym of 'fluid' is 'solid', referring to a substance that maintains a fixed shape.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

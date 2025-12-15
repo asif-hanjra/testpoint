@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'savant':",
+      "options": {
+        "a": "expert:novice",
+        "b": "scholar:professional",
+        "c": "genius:amateur",
+        "d": "specialist:genius"
+      },
+      "one_liner": "'Expert' is a synonym of 'savant', while 'novice' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tacit':",
+      "options": {
+        "a": "implied",
+        "b": "inferred",
+        "c": "explicit",
+        "d": "silent"
+      },
+      "one_liner": "The antonym of 'tacit' is 'explicit', which means clearly expressed or stated.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

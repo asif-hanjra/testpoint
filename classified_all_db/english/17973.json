@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'idle':",
+      "options": {
+        "a": "busy",
+        "b": "inactive",
+        "c": "active",
+        "d": "engaged"
+      },
+      "one_liner": "'Idle' can mean inactive or not in use, similar to 'inactive'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

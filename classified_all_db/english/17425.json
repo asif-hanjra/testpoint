@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'console':",
+      "options": {
+        "a": "comfort:agitate",
+        "b": "soothe:reassure",
+        "c": "calm:disturb",
+        "d": "solace:encourage"
+      },
+      "one_liner": "'Comfort' is a synonym for 'console', while 'agitate' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

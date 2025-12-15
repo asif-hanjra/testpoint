@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'strive':",
+      "options": {
+        "a": "neglect",
+        "b": "endeavor",
+        "c": "ignore",
+        "d": "forget"
+      },
+      "one_liner": "'Strive' means to make great efforts or try hard, similar to 'endeavor'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

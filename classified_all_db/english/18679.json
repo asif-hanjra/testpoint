@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'total':",
+      "options": {
+        "a": "partial",
+        "b": "entire",
+        "c": "fragment",
+        "d": "piece"
+      },
+      "one_liner": "'Total' means the complete amount or sum, similar to 'entire' or 'whole'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'precious':",
+      "options": {
+        "a": "worthless",
+        "b": "priceless",
+        "c": "negligible",
+        "d": "common"
+      },
+      "one_liner": "'Precious' means valuable or cherished, similar to 'priceless' or 'treasured'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

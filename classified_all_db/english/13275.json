@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'oscillate':",
+      "options": {
+        "a": "stabilize",
+        "b": "fluctuate",
+        "c": "remain",
+        "d": "fixate"
+      },
+      "one_liner": "'Oscillate' means to swing back and forth, similar to 'vibrate' or 'fluctuate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

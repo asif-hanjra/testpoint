@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'magnanimity':",
+      "options": {
+        "a": "malevolence",
+        "b": "benevolence",
+        "c": "miserliness",
+        "d": "animosity"
+      },
+      "one_liner": "'Magnanimity' is characterized by generosity and nobility of spirit, much like 'benevolence'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

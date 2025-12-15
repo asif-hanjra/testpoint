@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'redeem':",
+      "options": {
+        "a": "squander",
+        "b": "save",
+        "c": "restore",
+        "d": "reclaim"
+      },
+      "one_liner": "To 'redeem' is to make amends or recover, whereas to 'squander' is to waste, making it an antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

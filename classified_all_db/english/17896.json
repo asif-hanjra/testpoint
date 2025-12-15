@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'last':",
+      "options": {
+        "a": "first",
+        "b": "final",
+        "c": "ultimate",
+        "d": "concluding"
+      },
+      "one_liner": "An antonym for 'last' is 'first', indicating the opposite position in a sequence.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

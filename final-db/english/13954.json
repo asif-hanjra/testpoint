@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sorrow':",
+      "options": {
+        "a": "joy",
+        "b": "grief",
+        "c": "anguish",
+        "d": "misery"
+      },
+      "one_liner": "An antonym of 'sorrow' is 'joy', which signifies a feeling of great pleasure and happiness.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'vogue':",
+      "options": {
+        "a": "stylish",
+        "b": "current",
+        "c": "outdated",
+        "d": "chic"
+      },
+      "one_liner": "An antonym of 'vogue' is 'outdated', which means no longer in fashion.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

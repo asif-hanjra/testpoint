@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'profundity':",
+      "options": {
+        "a": "shallowness",
+        "b": "depth",
+        "c": "simplicity",
+        "d": "surface"
+      },
+      "one_liner": "'Profundity' refers to deep insight or wisdom, similar to 'depth' in intellectual contexts.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

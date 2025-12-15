@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'verdant':",
+      "options": {
+        "a": "flourishing",
+        "b": "fertile",
+        "c": "barren",
+        "d": "green"
+      },
+      "one_liner": "The opposite of 'verdant', which means rich with greenery, would be 'barren', indicating a lack of vegetation.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

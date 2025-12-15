@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'combat':",
+      "options": {
+        "a": "peace",
+        "b": "battle",
+        "c": "agreement",
+        "d": "harmony"
+      },
+      "one_liner": "'Combat' refers to fighting or conflict, similar to 'battle' or 'struggle'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

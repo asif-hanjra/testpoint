@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'humble':",
+      "options": {
+        "a": "meek:boastful",
+        "b": "modest:arrogant",
+        "c": "submissive:proud",
+        "d": "shy:vain"
+      },
+      "one_liner": "'Meek' is a synonym of 'humble', while 'boastful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

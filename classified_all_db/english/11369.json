@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'dampen':",
+      "options": {
+        "a": "dry",
+        "b": "moisten",
+        "c": "dehydrate",
+        "d": "parch"
+      },
+      "one_liner": "'Dampen' means to make something slightly wet or to reduce the strength of something—words like 'moisten' and 'wet' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

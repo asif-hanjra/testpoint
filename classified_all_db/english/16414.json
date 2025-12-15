@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'beautiful' in the sentence 'The garden looks beautiful'?",
+      "options": {
+        "a": "Adjective",
+        "b": "Noun",
+        "c": "Verb",
+        "d": "Adverb"
+      },
+      "one_liner": "In the sentence 'The garden looks beautiful', the word 'beautiful' is an adjective because it describes the noun 'garden'.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

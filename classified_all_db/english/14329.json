@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'exemplary':",
+      "options": {
+        "a": "outstanding:subpar",
+        "b": "mediocre:commendable",
+        "c": "admirable:superior",
+        "d": "excellent:inferior"
+      },
+      "one_liner": "'Outstanding' is a synonym for 'exemplary', while 'subpar' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

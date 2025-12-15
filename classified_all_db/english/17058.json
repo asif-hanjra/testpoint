@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'passive':",
+      "options": {
+        "a": "active",
+        "b": "inactive",
+        "c": "aggressive",
+        "d": "energetic"
+      },
+      "one_liner": "'Passive' means not participating actively, similar to 'inactive' or 'uninvolved'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

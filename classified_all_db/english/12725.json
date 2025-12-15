@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'quickly' in the sentence 'He quickly ate his lunch'?",
+      "options": {
+        "a": "Adverb",
+        "b": "Verb",
+        "c": "Noun",
+        "d": "Adjective"
+      },
+      "one_liner": "In the sentence 'He quickly ate his lunch', the word 'quickly' is an adverb because it modifies the verb 'ate' by describing how the action was performed.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

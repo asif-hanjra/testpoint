@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'jocular':",
+      "options": {
+        "a": "amusing",
+        "b": "witty",
+        "c": "serious",
+        "d": "humorous"
+      },
+      "one_liner": "The word 'jocular' implies being funny, which is the opposite of being 'serious'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

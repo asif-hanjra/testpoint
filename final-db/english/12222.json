@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the idiom 'under the weather' mean?",
+      "options": {
+        "a": "To be physically fit",
+        "b": "To feel ill or not well",
+        "c": "To be under a lot of pressure",
+        "d": "To be outdoors regardless of the weather"
+      },
+      "one_liner": "The idiom 'under the weather' means to feel ill or not well, often used when someone is slightly sick.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Idioms",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'repulsive':",
+      "options": {
+        "a": "attractive",
+        "b": "revolting",
+        "c": "appealing",
+        "d": "charming"
+      },
+      "one_liner": "'Repulsive' means causing disgust or aversion, similar to 'revolting'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

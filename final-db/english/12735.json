@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'join':",
+      "options": {
+        "a": "merge",
+        "b": "unite",
+        "c": "separate",
+        "d": "attach"
+      },
+      "one_liner": "The opposite of 'join' is to 'separate' or 'disconnect', indicating a division.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

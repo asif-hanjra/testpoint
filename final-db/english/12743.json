@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'plausible':",
+      "options": {
+        "a": "improbable",
+        "b": "credible",
+        "c": "unlikely",
+        "d": "inconceivable"
+      },
+      "one_liner": "'Plausible' means believable or credible, so 'credible' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

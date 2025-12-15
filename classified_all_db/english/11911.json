@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'endeavour':",
+      "options": {
+        "a": "neglect",
+        "b": "effort",
+        "c": "laziness",
+        "d": "disregard"
+      },
+      "one_liner": "'Endeavour' means to attempt or strive for a goal, similar to 'attempt' or 'effort'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

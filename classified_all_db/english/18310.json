@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'posit':",
+      "options": {
+        "a": "neglect",
+        "b": "propose",
+        "c": "ignore",
+        "d": "withdraw"
+      },
+      "one_liner": "'Posit' means to assume or put forward as a basis of argument, similar to 'propose' or 'suggest'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

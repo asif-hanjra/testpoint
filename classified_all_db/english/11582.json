@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'grizzly':",
+      "options": {
+        "a": "pleasant",
+        "b": "horrific",
+        "c": "delightful",
+        "d": "cheerful"
+      },
+      "one_liner": "'Grizzly' can refer to something fear-inspiring or grisly, like a 'horrific' scene.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

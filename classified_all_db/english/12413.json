@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'evil':",
+      "options": {
+        "a": "good",
+        "b": "benevolent",
+        "c": "virtuous",
+        "d": "malevolent"
+      },
+      "one_liner": "'Evil' refers to something profoundly immoral or wicked, similar to 'malevolent'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

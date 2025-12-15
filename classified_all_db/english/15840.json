@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'circumlocution':",
+      "options": {
+        "a": "verbosity:conciseness",
+        "b": "verbiage:terseness",
+        "c": "prolixity:succinctness",
+        "d": "wordiness:brevity"
+      },
+      "one_liner": "'Verbiage' is a synonym for 'circumlocution', while 'terseness' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

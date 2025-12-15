@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'tangible':",
+      "options": {
+        "a": "concrete",
+        "b": "real",
+        "c": "intangible",
+        "d": "solid"
+      },
+      "one_liner": "An antonym of 'tangible' is 'intangible', which means something that cannot be touched or physically measured.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

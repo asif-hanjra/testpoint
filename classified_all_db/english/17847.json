@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "What part of speech is 'and' in the sentence 'She bought apples and oranges'?",
+      "options": {
+        "a": "Noun",
+        "b": "Conjunction",
+        "c": "Verb",
+        "d": "Adverb"
+      },
+      "one_liner": "In the sentence 'She bought apples and oranges', the word 'and' is a conjunction because it connects two nouns ('apples' and 'oranges').",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "",
+          "chapter": "Parts of Speech"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

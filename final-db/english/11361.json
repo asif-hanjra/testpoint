@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'minor':",
+      "options": {
+        "a": "insignificant",
+        "b": "major",
+        "c": "negligible",
+        "d": "unimportant"
+      },
+      "one_liner": "The word 'minor' has antonyms like 'major' and 'significant', which imply greater importance or size.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

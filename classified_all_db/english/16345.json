@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'benevolent':",
+      "options": {
+        "a": "altruistic:malignant",
+        "b": "kind:generous",
+        "c": "charitable:compassionate",
+        "d": "generous:kind"
+      },
+      "one_liner": "'Altruistic' is a synonym for 'benevolent', while 'malignant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

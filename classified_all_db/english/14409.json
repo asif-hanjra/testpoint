@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'drawl':",
+      "options": {
+        "a": "hurry",
+        "b": "twang",
+        "c": "shout",
+        "d": "whisper"
+      },
+      "one_liner": "'Drawl' refers to speaking in a slow, lazy way with prolonged vowel sounds, similar to 'twang'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "The terrorists have been setting off bombs ___ trains.",
+      "options": {
+        "a": "at",
+        "b": "in",
+        "c": "on",
+        "d": "by"
+      },
+      "one_liner": "The terrorists have been setting off bombs 'in' trains.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

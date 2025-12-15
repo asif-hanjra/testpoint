@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'approbation':",
+      "options": {
+        "a": "criticism",
+        "b": "commendation",
+        "c": "disapproval",
+        "d": "rejection"
+      },
+      "one_liner": "'Approbation' means approval or praise, similar to 'commendation'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nice':",
+      "options": {
+        "a": "kind",
+        "b": "pleasant",
+        "c": "unpleasant",
+        "d": "friendly"
+      },
+      "one_liner": "The word 'nice' is the opposite of 'unpleasant', which means not enjoyable or disagreeable.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

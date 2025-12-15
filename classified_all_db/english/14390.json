@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "You are angry ___ me on this matter.",
+      "options": {
+        "a": "to",
+        "b": "with",
+        "c": "at",
+        "d": "for"
+      },
+      "one_liner": "You are angry 'with' me on this matter.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

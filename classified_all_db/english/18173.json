@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Blow out the lamp when you go ___ bed.",
+      "options": {
+        "a": "in",
+        "b": "to",
+        "c": "at",
+        "d": "on"
+      },
+      "one_liner": "Blow out the lamp when you go 'to' bed.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'combine':",
+      "options": {
+        "a": "merge",
+        "b": "join",
+        "c": "separate",
+        "d": "unite"
+      },
+      "one_liner": "Antonyms of 'combine' include 'separate' and 'split', both implying division into parts.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

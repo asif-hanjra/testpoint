@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'gaudy':",
+      "options": {
+        "a": "understated",
+        "b": "garish",
+        "c": "subtle",
+        "d": "tasteful"
+      },
+      "one_liner": "'Gaudy' refers to something that is excessively showy or flashy, similar to 'garish'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'atrocious':",
+      "options": {
+        "a": "horrendous:marvelous",
+        "b": "awful:amazing",
+        "c": "dreadful:delightful",
+        "d": "terrible:terrific"
+      },
+      "one_liner": "'Horrendous' is a synonym of 'atrocious', while 'marvelous' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

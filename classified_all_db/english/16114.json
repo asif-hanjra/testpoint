@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'imminent':",
+      "options": {
+        "a": "approaching",
+        "b": "forthcoming",
+        "c": "remote",
+        "d": "near"
+      },
+      "one_liner": "The antonym of 'imminent' is 'remote', indicating something is far off in time or space.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

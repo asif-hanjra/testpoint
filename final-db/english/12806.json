@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'insipid':",
+      "options": {
+        "a": "spicy",
+        "b": "bland",
+        "c": "exciting",
+        "d": "savory"
+      },
+      "one_liner": "'Insipid' means lacking flavor or interest, similar to 'bland' or 'tasteless'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

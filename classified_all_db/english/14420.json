@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'worn':",
+      "options": {
+        "a": "old",
+        "b": "new",
+        "c": "used",
+        "d": "tattered"
+      },
+      "one_liner": "The opposite of 'worn' is 'new', indicating something that has not been used or worn out.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

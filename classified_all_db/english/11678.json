@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the phrase 'feel blue':",
+      "options": {
+        "a": "feel delighted",
+        "b": "feel downhearted",
+        "c": "feel ecstatic",
+        "d": "feel cheerful"
+      },
+      "one_liner": "'Feel blue' means to feel sad or depressed, similar to 'feel downhearted'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

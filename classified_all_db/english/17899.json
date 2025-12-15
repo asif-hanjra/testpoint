@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'fortuitous':",
+      "options": {
+        "a": "lucky:premeditated",
+        "b": "chance:calculated",
+        "c": "serendipitous:intentional",
+        "d": "accidental:deliberate"
+      },
+      "one_liner": "'Lucky' is a synonym of 'fortuitous', while 'premeditated' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

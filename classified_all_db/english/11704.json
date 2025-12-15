@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'maverick':",
+      "options": {
+        "a": "follower",
+        "b": "nonconformist",
+        "c": "conformist",
+        "d": "disciple"
+      },
+      "one_liner": "'Maverick' refers to someone who is independent-minded, similar to 'nonconformist'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

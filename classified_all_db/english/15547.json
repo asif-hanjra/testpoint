@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'inferior':",
+      "options": {
+        "a": "superior",
+        "b": "subordinate",
+        "c": "excellent",
+        "d": "outstanding"
+      },
+      "one_liner": "'Inferior' means lower in rank, status, or quality, similar to 'subordinate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

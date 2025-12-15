@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'sacrilegious':",
+      "options": {
+        "a": "irreverent:sacred",
+        "b": "devout:profane",
+        "c": "reverent:pious",
+        "d": "hallowed:impious"
+      },
+      "one_liner": "'Irreverent' is a synonym of 'sacrilegious', while 'sacred' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

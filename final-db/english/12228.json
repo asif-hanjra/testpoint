@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'deprive':",
+      "options": {
+        "a": "bestow",
+        "b": "dispossess",
+        "c": "grant",
+        "d": "provide"
+      },
+      "one_liner": "'Deprive' means to deny or take something away, similar to 'dispossess' or 'strip'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

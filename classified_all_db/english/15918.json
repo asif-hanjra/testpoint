@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'fiction':",
+      "options": {
+        "a": "fantasy",
+        "b": "fact",
+        "c": "myth",
+        "d": "fable"
+      },
+      "one_liner": "The antonym of 'fiction' is 'fact', which refers to something that is true or real.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

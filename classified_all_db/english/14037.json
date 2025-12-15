@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fastidious':",
+      "options": {
+        "a": "careless",
+        "b": "meticulous",
+        "c": "negligent",
+        "d": "sloppy"
+      },
+      "one_liner": "'Fastidious' describes someone who is very attentive to detail, similar to 'meticulous'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

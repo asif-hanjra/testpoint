@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'blithe':",
+      "options": {
+        "a": "gloomy",
+        "b": "cheerful",
+        "c": "sorrowful",
+        "d": "melancholy"
+      },
+      "one_liner": "'Blithe' suggests a carefree and lighthearted attitude, much like 'cheerful'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

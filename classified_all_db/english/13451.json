@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'scrupulous':",
+      "options": {
+        "a": "meticulous",
+        "b": "diligent",
+        "c": "careless",
+        "d": "conscientious"
+      },
+      "one_liner": "An antonym of 'scrupulous' is 'careless', which means not giving sufficient attention or thought to avoiding harm or errors.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

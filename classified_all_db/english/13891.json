@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fresh':",
+      "options": {
+        "a": "stale",
+        "b": "new",
+        "c": "old",
+        "d": "spoiled"
+      },
+      "one_liner": "'Fresh' often implies something that is 'new' or recently made, like 'newly baked bread'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

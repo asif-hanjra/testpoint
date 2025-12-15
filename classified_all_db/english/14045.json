@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'controversial':",
+      "options": {
+        "a": "debatable",
+        "b": "contentious",
+        "c": "uncontroversial",
+        "d": "polemical"
+      },
+      "one_liner": "The antonym of 'controversial' is 'uncontroversial', which means not likely to cause disagreement or dispute.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

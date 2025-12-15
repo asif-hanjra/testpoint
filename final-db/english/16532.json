@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'amnesty':",
+      "options": {
+        "a": "forgiveness",
+        "b": "pardon",
+        "c": "punishment",
+        "d": "absolution"
+      },
+      "one_liner": "An antonym of 'amnesty' is 'punishment', which refers to the imposition of a penalty as retribution for an offense.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

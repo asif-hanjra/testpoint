@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'brood':",
+      "options": {
+        "a": "ignore",
+        "b": "ponder",
+        "c": "forget",
+        "d": "neglect"
+      },
+      "one_liner": "'Brood' can mean to think deeply about something that makes one unhappy, similar to 'ponder' or 'mull over'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

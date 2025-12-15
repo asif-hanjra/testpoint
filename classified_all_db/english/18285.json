@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'odour':",
+      "options": {
+        "a": "color",
+        "b": "scent",
+        "c": "sound",
+        "d": "taste"
+      },
+      "one_liner": "'Odour' refers to a smell, which can also be described as a 'scent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

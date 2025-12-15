@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'assuage':",
+      "options": {
+        "a": "alleviate",
+        "b": "mitigate",
+        "c": "exacerbate",
+        "d": "relieve"
+      },
+      "one_liner": "An antonym of 'assuage' is 'exacerbate', which means to make a situation worse.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

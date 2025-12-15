@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'stifled':",
+      "options": {
+        "a": "muted:expressed",
+        "b": "repressed:voiced",
+        "c": "quenched:revealed",
+        "d": "hushed:articulated"
+      },
+      "one_liner": "'Muted' is a synonym of 'stifled', while 'expressed' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

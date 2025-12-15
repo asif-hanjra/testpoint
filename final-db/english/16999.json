@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'recompense':",
+      "options": {
+        "a": "penalty",
+        "b": "remuneration",
+        "c": "loss",
+        "d": "debt"
+      },
+      "one_liner": "'Recompense' means to compensate or reward, so 'remuneration' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

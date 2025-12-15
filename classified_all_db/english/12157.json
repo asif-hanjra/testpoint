@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'fickle':",
+      "options": {
+        "a": "steady",
+        "b": "capricious",
+        "c": "reliable",
+        "d": "constant"
+      },
+      "one_liner": "'Fickle' describes someone who is changeable or inconsistent, similar to 'capricious'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

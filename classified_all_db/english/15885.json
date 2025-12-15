@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'scarce':",
+      "options": {
+        "a": "infrequent:plentiful",
+        "b": "rare:common",
+        "c": "limited:abundant",
+        "d": "meager:copious"
+      },
+      "one_liner": "'Infrequent' is a synonym of 'scarce', while 'plentiful' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

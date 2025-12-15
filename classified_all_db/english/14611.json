@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'dozard':",
+      "options": {
+        "a": "decrepit:sprightly",
+        "b": "frail:robust",
+        "c": "senile:young",
+        "d": "feeble:energetic"
+      },
+      "one_liner": "'Decrepit' is a synonym of 'dozard', while 'sprightly' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

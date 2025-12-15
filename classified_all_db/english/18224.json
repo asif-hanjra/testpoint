@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'drastic':",
+      "options": {
+        "a": "mild",
+        "b": "extreme",
+        "c": "slight",
+        "d": "gentle"
+      },
+      "one_liner": "'Drastic' measures are often described as 'extreme' or 'radical' due to their significant and impactful nature.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

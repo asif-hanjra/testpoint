@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'oscillate':",
+      "options": {
+        "a": "fluctuate",
+        "b": "vibrate",
+        "c": "stabilize",
+        "d": "swing"
+      },
+      "one_liner": "An antonym of 'oscillate' would be 'stabilize', which means to make or become unlikely to give way or overturn.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'efficacious':",
+      "options": {
+        "a": "potent:futile",
+        "b": "strong:weak",
+        "c": "helpful:harmful",
+        "d": "capable:incapable"
+      },
+      "one_liner": "'Potent' is a synonym of 'efficacious', while 'futile' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

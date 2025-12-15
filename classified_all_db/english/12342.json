@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'inspired':",
+      "options": {
+        "a": "motivated:disheartened",
+        "b": "stimulated:excited",
+        "c": "encouraged:inspired",
+        "d": "enthused:uninterested"
+      },
+      "one_liner": "'Motivated' is a synonym of 'inspired', while 'disheartened' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

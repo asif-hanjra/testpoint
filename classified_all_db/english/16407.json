@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'tall':",
+      "options": {
+        "a": "short",
+        "b": "lofty",
+        "c": "flat",
+        "d": "low"
+      },
+      "one_liner": "'Tall' means having a greater than average height, similar to 'lofty' or 'elevated'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

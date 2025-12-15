@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'weary':",
+      "options": {
+        "a": "energetic",
+        "b": "fatigued",
+        "c": "vigorous",
+        "d": "lively"
+      },
+      "one_liner": "'Weary' means feeling tired or exhausted, similar to 'fatigued'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

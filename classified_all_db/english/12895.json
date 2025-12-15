@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'correct':",
+      "options": {
+        "a": "false",
+        "b": "exact",
+        "c": "inaccurate",
+        "d": "wrong"
+      },
+      "one_liner": "'Correct' means accurate or right, similar to 'exact' or 'true'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

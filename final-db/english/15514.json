@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'calm':",
+      "options": {
+        "a": "noisy",
+        "b": "serene",
+        "c": "loud",
+        "d": "boisterous"
+      },
+      "one_liner": "'Calm' suggests a state of peace or tranquility, much like 'serene'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

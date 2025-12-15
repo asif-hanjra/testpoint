@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'amalgamate':",
+      "options": {
+        "a": "separate",
+        "b": "merge",
+        "c": "divide",
+        "d": "scatter"
+      },
+      "one_liner": "'Amalgamate' means to combine or unite to form one organization or structure, similar to 'merge' or 'consolidate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

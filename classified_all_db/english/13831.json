@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'glib':",
+      "options": {
+        "a": "slick:earnest",
+        "b": "smooth:clumsy",
+        "c": "fluent:awkward",
+        "d": "suave:sincere"
+      },
+      "one_liner": "'Slick' is a synonym of 'glib', while 'earnest' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

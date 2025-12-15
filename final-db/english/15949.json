@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'ramification':",
+      "options": {
+        "a": "result",
+        "b": "effect",
+        "c": "consequence",
+        "d": "cause"
+      },
+      "one_liner": "An antonym of 'ramification' is 'cause', as it refers to the source rather than the consequence.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

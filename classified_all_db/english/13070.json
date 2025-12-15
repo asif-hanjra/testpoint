@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'insinuate':",
+      "options": {
+        "a": "declare",
+        "b": "intimate",
+        "c": "proclaim",
+        "d": "announce"
+      },
+      "one_liner": "'Insinuate' means to suggest or hint slyly, similar to 'imply' or 'intimate'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

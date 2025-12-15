@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'remorse':",
+      "options": {
+        "a": "indifference",
+        "b": "contrition",
+        "c": "joy",
+        "d": "pleasure"
+      },
+      "one_liner": "'Remorse' is a feeling of deep regret or guilt for a wrong committed, similar to 'contrition'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

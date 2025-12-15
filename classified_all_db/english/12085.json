@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'acquiesce':",
+      "options": {
+        "a": "comply",
+        "b": "submit",
+        "c": "resist",
+        "d": "agree"
+      },
+      "one_liner": "An antonym of 'acquiesce' is 'resist', which means to oppose or stand firm against.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

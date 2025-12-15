@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'acquiesce':",
+      "options": {
+        "a": "refuse",
+        "b": "consent",
+        "c": "disagree",
+        "d": "deny"
+      },
+      "one_liner": "'Acquiesce' means to agree or comply silently without protest, similar to 'consent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

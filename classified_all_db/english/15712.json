@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'birth':",
+      "options": {
+        "a": "commencement",
+        "b": "inception",
+        "c": "death",
+        "d": "beginning"
+      },
+      "one_liner": "The antonym of 'birth' is 'death', which signifies the cessation of life.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

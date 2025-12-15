@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'delicate':",
+      "options": {
+        "a": "fragile:durable",
+        "b": "gentle:harsh",
+        "c": "dainty:stout",
+        "d": "tender:robust"
+      },
+      "one_liner": "'Fragile' is a synonym for 'delicate', while 'durable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

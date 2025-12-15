@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'die':",
+      "options": {
+        "a": "live",
+        "b": "perish",
+        "c": "thrive",
+        "d": "flourish"
+      },
+      "one_liner": "'Die' means to cease living, similar to 'perish' or 'expire'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

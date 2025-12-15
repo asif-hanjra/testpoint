@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'infallible':",
+      "options": {
+        "a": "flawed",
+        "b": "foolproof",
+        "c": "defective",
+        "d": "imperfect"
+      },
+      "one_liner": "'Infallible' means incapable of making mistakes or being wrong, similar to 'foolproof'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

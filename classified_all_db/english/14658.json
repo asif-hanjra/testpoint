@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'steadfast':",
+      "options": {
+        "a": "unyielding:vacillating",
+        "b": "resolute:constant",
+        "c": "faithful:loyal",
+        "d": "firm:steady"
+      },
+      "one_liner": "'Unyielding' is a synonym of 'steadfast', while 'vacillating' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

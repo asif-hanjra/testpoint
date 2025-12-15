@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'libertine':",
+      "options": {
+        "a": "degenerate",
+        "b": "rake",
+        "c": "puritan",
+        "d": "hedonist"
+      },
+      "one_liner": "A 'libertine' is someone who disregards moral restraints, while a 'puritan' strictly adheres to moral rules.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'savage':",
+      "options": {
+        "a": "gentle",
+        "b": "barbaric",
+        "c": "tame",
+        "d": "mild"
+      },
+      "one_liner": "'Savage' means fierce or ferocious, similar to 'barbaric'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

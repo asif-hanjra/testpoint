@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'annex':",
+      "options": {
+        "a": "incorporate:release",
+        "b": "attach:connect",
+        "c": "append:detach",
+        "d": "add:remove"
+      },
+      "one_liner": "'Incorporate' is a synonym of 'annex', while 'release' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

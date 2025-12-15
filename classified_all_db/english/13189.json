@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'hard':",
+      "options": {
+        "a": "difficult",
+        "b": "easy",
+        "c": "sturdy",
+        "d": "solid"
+      },
+      "one_liner": "The antonym of 'hard' is 'easy', which means not difficult or requiring little effort.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

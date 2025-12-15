@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'anomalous':",
+      "options": {
+        "a": "irregular:standard",
+        "b": "typical:abnormal",
+        "c": "common:unusual",
+        "d": "ordinary:peculiar"
+      },
+      "one_liner": "'Irregular' is a synonym of 'anomalous', while 'standard' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

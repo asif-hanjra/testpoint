@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'respite':",
+      "options": {
+        "a": "halt",
+        "b": "pause",
+        "c": "continuation",
+        "d": "break"
+      },
+      "one_liner": "An antonym of 'respite' is 'continuation', which means to keep going without stopping or pausing.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'carnivore':",
+      "options": {
+        "a": "meat-eater:plant-eater",
+        "b": "predator:herbivore",
+        "c": "scavenger:omnivore",
+        "d": "hunter:gatherer"
+      },
+      "one_liner": "'Meat-eater' is a synonym of 'carnivore', while 'plant-eater' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

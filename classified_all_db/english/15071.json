@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'conflagration':",
+      "options": {
+        "a": "inferno:deluge",
+        "b": "blaze:drought",
+        "c": "flame:stream",
+        "d": "fire:flood"
+      },
+      "one_liner": "'Inferno' is a synonym of 'conflagration', while 'deluge' is its antonym, referring to a flood.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

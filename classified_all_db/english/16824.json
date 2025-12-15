@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'lope':",
+      "options": {
+        "a": "sprint",
+        "b": "jog",
+        "c": "plod",
+        "d": "dash"
+      },
+      "one_liner": "The antonym of 'lope', which means to move with a long bounding stride, would be 'plod', indicating slow, heavy steps.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

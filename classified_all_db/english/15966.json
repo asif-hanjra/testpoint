@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Every student is familiar ___ the name of Muhammad Ali Jinnah.",
+      "options": {
+        "a": "to",
+        "b": "with",
+        "c": "by",
+        "d": "at"
+      },
+      "one_liner": "Every student is familiar 'with' the name of Muhammad Ali Jinnah.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prepositions",
+          "chapter": "Vocabulary and Usage"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

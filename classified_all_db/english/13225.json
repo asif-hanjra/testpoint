@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'coagulant':",
+      "options": {
+        "a": "anticoagulant",
+        "b": "clotting agent",
+        "c": "thickener",
+        "d": "cohesive"
+      },
+      "one_liner": "An antonym for 'coagulant' would be 'anticoagulant', which prevents blood from clotting.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

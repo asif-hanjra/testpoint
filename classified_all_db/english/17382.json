@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'eternal':",
+      "options": {
+        "a": "everlasting:momentary",
+        "b": "timeless:perpetual",
+        "c": "infinite:eternal",
+        "d": "enduring:lasting"
+      },
+      "one_liner": "'Everlasting' is a synonym of 'eternal', while 'momentary' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'divide':",
+      "options": {
+        "a": "separate",
+        "b": "disjoin",
+        "c": "detach",
+        "d": "unite"
+      },
+      "one_liner": "Antonyms of 'divide' include 'unite' and 'merge', both implying bringing together or combining.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

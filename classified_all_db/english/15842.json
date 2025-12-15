@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'inextricable':",
+      "options": {
+        "a": "intertwined",
+        "b": "linked",
+        "c": "separable",
+        "d": "connected"
+      },
+      "one_liner": "The word 'inextricable' implies a complex connection, making 'separable' its antonym.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'plaintiff':",
+      "options": {
+        "a": "claimant:defendant",
+        "b": "complainant:judge",
+        "c": "litigant:witness",
+        "d": "prosecutor:defender"
+      },
+      "one_liner": "A 'claimant' is a synonym for 'plaintiff', while 'defendant' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'bilk':",
+      "options": {
+        "a": "defraud:reimburse",
+        "b": "swindle:reward",
+        "c": "cheat:honor",
+        "d": "con:praise"
+      },
+      "one_liner": "'Defraud' is a synonym of 'bilk', while 'reimburse' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

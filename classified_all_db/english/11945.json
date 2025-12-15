@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'envisage':",
+      "options": {
+        "a": "ignore",
+        "b": "envision",
+        "c": "forget",
+        "d": "neglect"
+      },
+      "one_liner": "'Envisage' means to foresee or imagine, similar to 'envision'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

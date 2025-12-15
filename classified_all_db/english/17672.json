@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'magnificent':",
+      "options": {
+        "a": "plain",
+        "b": "gorgeous",
+        "c": "impressive",
+        "d": "stunning"
+      },
+      "one_liner": "An antonym of 'magnificent' would be 'plain', which suggests a lack of grandeur or beauty.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

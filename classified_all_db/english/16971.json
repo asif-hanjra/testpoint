@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'omnivorous':",
+      "options": {
+        "a": "carnivorous",
+        "b": "herbivorous",
+        "c": "all-eating",
+        "d": "insectivorous"
+      },
+      "one_liner": "An antonym of 'omnivorous' is 'herbivorous', which describes an organism that eats only plants.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

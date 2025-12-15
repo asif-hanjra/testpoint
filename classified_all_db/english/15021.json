@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'stark':",
+      "options": {
+        "a": "ornate",
+        "b": "bleak",
+        "c": "adorned",
+        "d": "decorated"
+      },
+      "one_liner": "'Stark' can mean bare or harsh, similar to 'bleak' or 'austere'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

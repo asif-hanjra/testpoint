@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'infer':",
+      "options": {
+        "a": "ignore",
+        "b": "deduce",
+        "c": "disregard",
+        "d": "neglect"
+      },
+      "one_liner": "'Infer' means to deduce or conclude information from evidence and reasoning rather than from explicit statements, similar to 'deduce' or 'conclude'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

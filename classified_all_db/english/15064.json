@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'expiate':",
+      "options": {
+        "a": "forgive",
+        "b": "blame",
+        "c": "absolve",
+        "d": "pardon"
+      },
+      "one_liner": "An antonym for 'expiate' would be 'blame', as it implies assigning responsibility for a fault or wrong rather than seeking to atone for it.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'culpable':",
+      "options": {
+        "a": "guilty",
+        "b": "responsible",
+        "c": "innocent",
+        "d": "liable"
+      },
+      "one_liner": "An antonym of 'culpable' is 'innocent', which means not deserving blame.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

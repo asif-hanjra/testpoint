@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'nag':",
+      "options": {
+        "a": "soothe",
+        "b": "harass",
+        "c": "bother",
+        "d": "irritate"
+      },
+      "one_liner": "An antonym of 'nag' is 'soothe', which means to calm or placate.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

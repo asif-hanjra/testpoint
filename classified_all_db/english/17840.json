@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'extol':",
+      "options": {
+        "a": "applaud",
+        "b": "commend",
+        "c": "denounce",
+        "d": "acclaim"
+      },
+      "one_liner": "An antonym for 'extol' is 'denounce', which means to publicly declare to be wrong or evil.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

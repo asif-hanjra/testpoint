@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'discrete':",
+      "options": {
+        "a": "connected",
+        "b": "individual",
+        "c": "continuous",
+        "d": "joint"
+      },
+      "one_liner": "'Discrete' means separate or distinct, similar to 'individual' in meaning.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

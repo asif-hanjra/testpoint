@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'breach':",
+      "options": {
+        "a": "violation",
+        "b": "rift",
+        "c": "compliance",
+        "d": "transgression"
+      },
+      "one_liner": "The opposite of 'breach', which means a break or violation, would be 'compliance' or 'adherence'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

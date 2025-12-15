@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'sophomoric':",
+      "options": {
+        "a": "childish",
+        "b": "foolish",
+        "c": "mature",
+        "d": "silly"
+      },
+      "one_liner": "The word 'sophomoric' is often contrasted with 'mature', which signifies a more grown-up and responsible behavior.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

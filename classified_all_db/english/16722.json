@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'conservative':",
+      "options": {
+        "a": "radical",
+        "b": "progressive",
+        "c": "liberal",
+        "d": "traditionalist"
+      },
+      "one_liner": "'Conservative' implies being traditional or resistant to change, much like 'traditionalist'.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

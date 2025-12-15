@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'obelisk':",
+      "options": {
+        "a": "plateau",
+        "b": "column",
+        "c": "fountain",
+        "d": "arch"
+      },
+      "one_liner": "'Obelisk' refers to a tall, four-sided, narrow tapering monument which ends in a pyramid-like shape at the top, similar to a 'pillar' or 'column'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

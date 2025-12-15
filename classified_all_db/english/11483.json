@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'ensign':",
+      "options": {
+        "a": "emblem",
+        "b": "banner",
+        "c": "symbol",
+        "d": "insignia"
+      },
+      "one_liner": "'Ensign' refers to a flag or standard, especially a military or naval one, similar to 'banner'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

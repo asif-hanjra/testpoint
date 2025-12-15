@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'apparent':",
+      "options": {
+        "a": "hidden",
+        "b": "obvious",
+        "c": "unclear",
+        "d": "secret"
+      },
+      "one_liner": "'Apparent' means clearly visible or understood; 'evident' and 'obvious' are synonyms that convey the same sense of clarity.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

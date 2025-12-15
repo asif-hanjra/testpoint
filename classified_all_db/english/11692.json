@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'encumber':",
+      "options": {
+        "a": "hamper:enable",
+        "b": "assist:burden",
+        "c": "hinder:expedite",
+        "d": "block:facilitate"
+      },
+      "one_liner": "'Hamper' is a synonym for 'encumber', while 'enable' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

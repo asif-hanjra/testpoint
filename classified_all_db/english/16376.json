@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'reluctant':",
+      "options": {
+        "a": "hesitant:keen",
+        "b": "unwilling:eager",
+        "c": "tentative:willing",
+        "d": "averse:enthusiastic"
+      },
+      "one_liner": "'Hesitant' is a synonym of 'reluctant', while 'keen' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

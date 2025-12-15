@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'unequivocal':",
+      "options": {
+        "a": "ambiguous",
+        "b": "unambiguous",
+        "c": "vague",
+        "d": "obscure"
+      },
+      "one_liner": "'Unequivocal' means leaving no doubt or being clear, so 'unambiguous' is a synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

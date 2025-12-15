@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'quell':",
+      "options": {
+        "a": "ignite",
+        "b": "subdue",
+        "c": "encourage",
+        "d": "start"
+      },
+      "one_liner": "'Quell' means to suppress or put an end to something, making 'subdue' a fitting synonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

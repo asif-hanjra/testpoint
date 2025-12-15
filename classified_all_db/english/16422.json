@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'entice':",
+      "options": {
+        "a": "allure:encourage",
+        "b": "tempt:discourage",
+        "c": "seduce:attract",
+        "d": "charm:repel"
+      },
+      "one_liner": "'Allure' is a synonym of 'entice', while 'discourage' is its antonym.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

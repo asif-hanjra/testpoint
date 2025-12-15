@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'eloquence':",
+      "options": {
+        "a": "clarity",
+        "b": "fluency",
+        "c": "inarticulateness",
+        "d": "persuasiveness"
+      },
+      "one_liner": "The opposite of 'eloquence' is 'inarticulateness', which denotes a lack of skill in expressing oneself clearly.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

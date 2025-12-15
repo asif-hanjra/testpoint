@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'meticulous':",
+      "options": {
+        "a": "painstaking:negligent",
+        "b": "thorough:careful",
+        "c": "detailed:meticulous",
+        "d": "exact:precise"
+      },
+      "one_liner": "'Painstaking' is a synonym of 'meticulous', while 'negligent' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

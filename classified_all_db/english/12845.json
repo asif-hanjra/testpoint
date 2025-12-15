@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'cower':",
+      "options": {
+        "a": "confront",
+        "b": "flinch",
+        "c": "recoil",
+        "d": "shrink"
+      },
+      "one_liner": "The opposite of 'cower' is to 'confront', which means to face or deal with something head-on.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

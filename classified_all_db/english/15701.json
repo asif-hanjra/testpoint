@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'bogus':",
+      "options": {
+        "a": "phony",
+        "b": "authentic",
+        "c": "fake",
+        "d": "fraudulent"
+      },
+      "one_liner": "An antonym for 'bogus' is 'authentic', which means genuine or real.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

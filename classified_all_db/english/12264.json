@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'malign':",
+      "options": {
+        "a": "praise",
+        "b": "slander",
+        "c": "compliment",
+        "d": "flatter"
+      },
+      "one_liner": "'Malign' means to speak harmful untruths about someone, similar to 'slander'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

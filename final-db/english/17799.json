@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'proficient':",
+      "options": {
+        "a": "inexperienced",
+        "b": "competent",
+        "c": "clumsy",
+        "d": "inept"
+      },
+      "one_liner": "'Proficient' implies being skilled or adept, similar to 'competent'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'mollify':",
+      "options": {
+        "a": "aggravate",
+        "b": "soothe",
+        "c": "enrage",
+        "d": "anger"
+      },
+      "one_liner": "'Mollify' means to appease or calm down, similar to 'soothe' or 'pacify'.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

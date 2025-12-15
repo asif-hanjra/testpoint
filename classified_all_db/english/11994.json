@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the correct pair of synonym:antonym for the word 'shuffled':",
+      "options": {
+        "a": "muddled:tidy",
+        "b": "clear:confused",
+        "c": "disordered:arranged",
+        "d": "messy:neat"
+      },
+      "one_liner": "'Muddled' is a synonym for 'shuffled', while 'tidy' is its antonym.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Combined Vocabulary",
+          "chapter": "Combined Vocabulary"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the synonym of the word 'wise':",
+      "options": {
+        "a": "foolish",
+        "b": "sagacious",
+        "c": "ignorant",
+        "d": "silly"
+      },
+      "one_liner": "'Wise' means having or showing experience, knowledge, and good judgment—words like 'sagacious' and 'intelligent' share similar meanings.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Synonyms",
+          "chapter": "Synonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

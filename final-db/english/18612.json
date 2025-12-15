@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "Select the antonym of the word 'after':",
+      "options": {
+        "a": "subsequent",
+        "b": "following",
+        "c": "before",
+        "d": "later"
+      },
+      "one_liner": "The antonym of 'after' is 'before', which indicates a time or sequence that comes earlier.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Antonyms",
+          "chapter": "Antonyms"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}
