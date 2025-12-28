@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote the Green Book, the constitution of the Muslim League?",
+      "options": {
+        "a": "Maulana Mohammad Ali Jauhar",
+        "b": "Sir Agha Khan III",
+        "c": "Syed Ameer Ali",
+        "d": "Nawab Khwaja Salimullah"
+      },
+      "one_liner": "The Green Book, the constitution of the Muslim League, was written by **Maulana Mohammad Ali Jauhar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

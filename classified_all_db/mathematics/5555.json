@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the derivative of x³ ln(x) with respect to x?",
+      "options": {
+        "a": "3x² ln(x) + x²",
+        "b": "x² + 3x² ln(x)",
+        "c": "x³ + ln(x)",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

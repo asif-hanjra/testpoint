@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who successfully developed the world's first vaccine in 1796?",
+      "options": {
+        "a": "Louis Pasteur",
+        "b": "Alexander Fleming",
+        "c": "Edward Jenner",
+        "d": "Robert Koch"
+      },
+      "one_liner": "The world's first vaccine was successfully developed by **Edward Jenner** in 1796.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

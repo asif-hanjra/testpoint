@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Islamic institution was threatened with abolition after World War 1?",
+      "options": {
+        "a": "Mughal Empire",
+        "b": "Ottoman Khilafat",
+        "c": "Safavid Dynasty",
+        "d": "None of these"
+      },
+      "one_liner": "The **Ottoman Khilafat** was threatened with abolition after World War 1.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

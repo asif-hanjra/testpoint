@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many years did Shah Jehan spend his life in the jail of Agra Fort?",
+      "options": {
+        "a": "Five years",
+        "b": "Six years",
+        "c": "Eight years",
+        "d": "Ten years"
+      },
+      "one_liner": "Shah Jehan spent **eight years** imprisoned in the jail of Agra Fort.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which side were the Mughals successors of Timur?",
+      "options": {
+        "a": "Mother's side",
+        "b": "Father's side",
+        "c": "Both sides",
+        "d": "None of these"
+      },
+      "one_liner": "On their father's side, the Mughals were the successors of **Timur**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Alexander’s Invasion",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

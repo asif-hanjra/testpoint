@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who introduced gunpowder firearms and field artillery in the First Battle of Panipat?",
+      "options": {
+        "a": "Rajputs",
+        "b": "Mughals",
+        "c": "Marathas",
+        "d": "British"
+      },
+      "one_liner": "It was the **Mughals** who introduced gunpowder firearms and field artillery in the First Battle of Panipat.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

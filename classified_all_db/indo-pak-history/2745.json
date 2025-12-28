@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Sheikh Abdul Qadir Jilani die?",
+      "options": {
+        "a": "Damascus, Syria",
+        "b": "Baghdad, Iraq",
+        "c": "Cairo, Egypt",
+        "d": "Mecca, Saudi Arabia"
+      },
+      "one_liner": "Sheikh Abdul Qadir Jilani died in **Baghdad, Iraq**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

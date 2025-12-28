@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If a matrix has its inverse then it is ______ matrix.",
+      "options": {
+        "a": "Singular",
+        "b": "Symmetric",
+        "c": "Non-singular",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

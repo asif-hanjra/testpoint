@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "For which Mughal emperor was the Peacock Throne made?",
+      "options": {
+        "a": "Akbar",
+        "b": "Aurangzeb",
+        "c": "Shahjahan",
+        "d": "Bahadur Shah Zafar"
+      },
+      "one_liner": "The famous Peacock Throne was specially crafted for the Mughal emperor **Shahjahan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

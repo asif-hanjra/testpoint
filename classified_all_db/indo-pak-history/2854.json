@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the founder of the Ghaznavid dynasty?",
+      "options": {
+        "a": "Sabuktigin",
+        "b": "Mahmud of Ghazni",
+        "c": "Alp Tigin",
+        "d": "None of these"
+      },
+      "one_liner": "The Ghaznavid dynasty was founded by **Sabuktigin**, who ruled from 977 to 997 AD.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

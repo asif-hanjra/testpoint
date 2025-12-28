@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is credited with inventing the lightning rod?",
+      "options": {
+        "a": "Michael Faraday",
+        "b": "Nikola Tesla",
+        "c": "Benjamin Franklin",
+        "d": "James Watt"
+      },
+      "one_liner": "The invention of the lightning rod is credited to **Benjamin Franklin**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

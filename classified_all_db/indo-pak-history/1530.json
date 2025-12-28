@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the first headquarter of the All India Muslim League established?",
+      "options": {
+        "a": "Dhaka",
+        "b": "Delhi",
+        "c": "Lucknow",
+        "d": "Karachi"
+      },
+      "one_liner": "The first headquarter of the All India Muslim League was set up in **Lucknow**, reflecting its early organizational base.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

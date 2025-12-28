@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A ∪ (B ∩ C) = _____?",
+      "options": {
+        "a": "(A ∪ B) ∩ (B ∪ A)",
+        "b": "(A ∪ B) ∩ (A ∪ C)",
+        "c": "(A ∪ B) ∪ (A ∪ C)",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

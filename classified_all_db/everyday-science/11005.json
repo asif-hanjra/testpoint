@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many adrenal glands are present in the human body and where are they located?",
+      "options": {
+        "a": "Two, on top of each kidney",
+        "b": "One, in the lower neck",
+        "c": "Two, in the brain",
+        "d": "One, in the chest"
+      },
+      "one_liner": "There are two adrenal glands in the human body, each sitting on top of a kidney and playing a key role in stress response and metabolism.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

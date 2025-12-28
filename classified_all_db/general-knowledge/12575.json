@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the parliament of Pakistan?",
+      "options": {
+        "a": "Majlis-e-Shoora",
+        "b": "Grand National Assembly",
+        "c": "National Diet",
+        "d": "Folketinget"
+      },
+      "one_liner": "The parliament of Pakistan is called the **Majlis-e-Shoora**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

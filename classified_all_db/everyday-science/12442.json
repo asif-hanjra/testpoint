@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following best describes sulfur?",
+      "options": {
+        "a": "Metal",
+        "b": "Non-metal",
+        "c": "Metalloid",
+        "d": "None of these"
+      },
+      "one_liner": "Sulfur is classified as a **non-metal element** in the periodic table.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

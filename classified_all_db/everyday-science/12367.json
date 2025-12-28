@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT an ingredient in gun powder?",
+      "options": {
+        "a": "Sulphur",
+        "b": "Charcoal",
+        "c": "Nitre",
+        "d": "Copper"
+      },
+      "one_liner": "Gun powder does not contain **copper**, as its main ingredients are sulphur, charcoal, and nitre.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

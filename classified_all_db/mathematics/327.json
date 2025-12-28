@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If 4 is more than 9 write a as your answer otherwise write b?",
+      "options": {
+        "a": "C",
+        "b": "A",
+        "c": "B",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

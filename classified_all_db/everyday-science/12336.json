@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered vitamins?",
+      "options": {
+        "a": "Pasteur",
+        "b": "Funk",
+        "c": "Curie",
+        "d": "Lavoisier"
+      },
+      "one_liner": "The discovery of vitamins is credited to **Funk**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the Great Granary of the Indus Valley Civilization discovered?",
+      "options": {
+        "a": "Harappa",
+        "b": "Mohenjo-Daro",
+        "c": "Lothal",
+        "d": "Kalibangan"
+      },
+      "one_liner": "The Great Granary of the Indus Valley Civilization was discovered at **Mohenjo-Daro**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which leader from the United Provinces seconded the Lahore Resolution in 1940?",
+      "options": {
+        "a": "Zafar Ali Khan",
+        "b": "Chaudhry Khaliquzzaman",
+        "c": "Sardar Aurangzeb Khan",
+        "d": "Qazi Muhammad Essa"
+      },
+      "one_liner": "Chaudhry Khaliquzzaman from the United Provinces seconded the **Lahore Resolution in 1940**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

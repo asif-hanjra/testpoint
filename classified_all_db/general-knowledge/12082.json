@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the only athlete to have won 3 Gold medals in the 100 meters race at the Olympic Games?",
+      "options": {
+        "a": "Carl Lewis",
+        "b": "Justin Gatlin",
+        "c": "Usain Bolt",
+        "d": "Tyson Gay"
+      },
+      "one_liner": "The only athlete to have won 3 Gold medals in the 100 meters race at the Olympic Games is **Usain Bolt**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

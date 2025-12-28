@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who presented the 'poor man's budget' in 1946?",
+      "options": {
+        "a": "Liaqat Ali Khan",
+        "b": "Muhammad Ali Jinnah",
+        "c": "Chaudhry Rehmat Ali",
+        "d": "Allama Iqbal"
+      },
+      "one_liner": "In 1946, the 'poor man's budget' was presented by **Liaqat Ali Khan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Day of Deliverance",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

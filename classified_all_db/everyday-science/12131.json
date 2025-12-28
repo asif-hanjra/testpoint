@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following functions are regulated by hormones released from gonads?",
+      "options": {
+        "a": "Growth of reproductive organs",
+        "b": "Deepening voice",
+        "c": "Growth of hair",
+        "d": "All of these"
+      },
+      "one_liner": "Hormones from the **gonads** regulate the growth of reproductive organs, deepening of the voice, and hair growth.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

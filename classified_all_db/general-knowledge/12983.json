@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is referred to as the respondent in legal proceedings?",
+      "options": {
+        "a": "The person who files the petition",
+        "b": "The judge",
+        "c": "The person on whom a petition is served",
+        "d": "None of these"
+      },
+      "one_liner": "In legal proceedings, the person on whom a petition or originating application is served is known as the **respondent**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

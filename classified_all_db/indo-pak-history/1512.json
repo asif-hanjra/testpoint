@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which years did Lord Wavell serve as Viceroy of India?",
+      "options": {
+        "a": "1942-1945",
+        "b": "1943-1946",
+        "c": "1944-1947",
+        "d": "1945-1948"
+      },
+      "one_liner": "Lord Wavell served as Viceroy of India from **1944 to 1947**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Shimla Conference",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Wavell Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Shimla Conference",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

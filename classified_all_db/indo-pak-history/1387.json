@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who founded the Sayyid Dynasty in 1414?",
+      "options": {
+        "a": "Sayyid Khizr Khan",
+        "b": "Bahlul Khan Lodi",
+        "c": "Muhammad-bin-Farid",
+        "d": "Timur"
+      },
+      "one_liner": "The Sayyid Dynasty was founded by **Sayyid Khizr Khan** in 1414.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

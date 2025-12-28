@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the election symbol of the All-India Muslim League?",
+      "options": {
+        "a": "Lion",
+        "b": "Crescent and Star",
+        "c": "Palm Tree",
+        "d": "Book"
+      },
+      "one_liner": "The election symbol of the All-India Muslim League was a **Crescent and a Star**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Lotte World Tower located?",
+      "options": {
+        "a": "Tokyo, Japan",
+        "b": "Seoul, South Korea",
+        "c": "Shanghai, China",
+        "d": "Bangkok, Thailand"
+      },
+      "one_liner": "Lotte World Tower is situated in **Seoul, South Korea**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

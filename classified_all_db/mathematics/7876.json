@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the minimum number of toothpicks necessary to spell the word ‘HAT’. (You are not allowed to break or bend any toothpicks)?",
+      "options": {
+        "a": "8",
+        "b": "6",
+        "c": "12",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

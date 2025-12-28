@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "خبر کی جمع کیا ہے؟",
+      "options": {
+        "a": "اخبار",
+        "b": "خبریں",
+        "c": "خبرات",
+        "d": "ان میں سے کوئی نہیں"
+      },
+      "one_liner": "اردو زبان میں لفظ 'خبر' کی جمع **اخبار** ہے۔",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

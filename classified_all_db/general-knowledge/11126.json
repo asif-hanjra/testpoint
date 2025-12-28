@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the original capital of Pakistan before it was moved to Islamabad in 1967?",
+      "options": {
+        "a": "Lahore",
+        "b": "Karachi",
+        "c": "Peshawar",
+        "d": "Quetta"
+      },
+      "one_liner": "Before moving to Islamabad in 1967, Pakistan's capital was **Karachi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who founded the Mughal dynasty by defeating the Lodhis?",
+      "options": {
+        "a": "Sher Shah Suri",
+        "b": "Zahir-ud-Din Babur",
+        "c": "Akbar",
+        "d": "Ibrahim Lodhi"
+      },
+      "one_liner": "The Mughal dynasty was founded by **Zahir-ud-Din Babur** after he defeated the Lodhis.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

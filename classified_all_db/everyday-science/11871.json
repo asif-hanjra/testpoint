@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does nuclear fusion mean?",
+      "options": {
+        "a": "To combine",
+        "b": "To split",
+        "c": "To evaporate",
+        "d": "None of these"
+      },
+      "one_liner": "Nuclear fusion means to combine two atoms together, releasing energy in the process.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

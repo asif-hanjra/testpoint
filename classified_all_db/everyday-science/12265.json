@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How can Zika virus be transmitted to humans?",
+      "options": {
+        "a": "Only through mosquito bites",
+        "b": "Only through sexual contact",
+        "c": "Through mosquito bites or sexual contact",
+        "d": "None of these"
+      },
+      "one_liner": "Zika virus can be transmitted to humans either through the bite of an infected mosquito or via sexual contact with an infected individual, making both routes significant for its spread.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

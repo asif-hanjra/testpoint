@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city is the Blue Mosque located?",
+      "options": {
+        "a": "Ankara",
+        "b": "Izmir",
+        "c": "Istanbul",
+        "d": "Bursa"
+      },
+      "one_liner": "The Blue Mosque is located in the city of **Istanbul**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blue Mosque: Istanbul",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Blue Mosque: Istanbul",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

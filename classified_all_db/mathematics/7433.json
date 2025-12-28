@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Transpose of the product of matrices AB is equal to?",
+      "options": {
+        "a": "Transpose of A multiplied by Transpose of B",
+        "b": "Transpose of B multiplied by Transpose of A",
+        "c": "AB itself",
+        "d": "Inverse of AB"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

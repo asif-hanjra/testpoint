@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did the British first open their factories in India?",
+      "options": {
+        "a": "Bombay",
+        "b": "Madras",
+        "c": "Orissa",
+        "d": "Punjab"
+      },
+      "one_liner": "The British first established their factories in the eastern part of India, specifically in **Orissa**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

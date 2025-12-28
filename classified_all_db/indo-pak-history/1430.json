@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Were any judicial reforms made in these reforms?",
+      "options": {
+        "a": "Yes, major reforms",
+        "b": "Yes, minor reforms",
+        "c": "No judicial reforms",
+        "d": "None of these"
+      },
+      "one_liner": "No judicial reforms were made as part of these reforms; **no judicial reforms were introduced**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

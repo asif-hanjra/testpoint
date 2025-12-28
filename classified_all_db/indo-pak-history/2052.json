@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the profession of A.O. Hume before founding the All India National Congress?",
+      "options": {
+        "a": "Lawyer",
+        "b": "Teacher",
+        "c": "Retired Civil Servant",
+        "d": "Businessman"
+      },
+      "one_liner": "A.O. Hume, the founder of the All India National Congress, was a **retired Civil Servant** before establishing the party.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the leader of the Muslim League delegation at the First Round Table Conference?",
+      "options": {
+        "a": "Maulana Muhammad Ali Jauhar",
+        "b": "Sir Aga Khan",
+        "c": "Muhammad Ali Jinnah",
+        "d": "Zafarullah Khan"
+      },
+      "one_liner": "**Sir Aga Khan** led the Muslim League delegation at the First Round Table Conference.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

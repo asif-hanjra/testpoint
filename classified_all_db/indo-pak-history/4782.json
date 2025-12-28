@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major Islamic legal text was being compiled during Shah Waliullah Dehlawi's time?",
+      "options": {
+        "a": "Fatawa-e-Alamgiri",
+        "b": "Hidayah",
+        "c": "Fatawa-e-Razvia",
+        "d": "None of these"
+      },
+      "one_liner": "The major Islamic legal text being compiled during Shah Waliullah Dehlawi's era was **Fatawa-e-Alamgiri**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which statement about water-soluble vitamins is correct?",
+      "options": {
+        "a": "They are stored in fat",
+        "b": "They are excreted in urine",
+        "c": "They are stored in the liver",
+        "d": "None of these"
+      },
+      "one_liner": "Water-soluble vitamins do not stay in the body for long and are **excreted in urine**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

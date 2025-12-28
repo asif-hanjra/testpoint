@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two gases primarily make up Liquefied Petroleum Gas (LPG)?",
+      "options": {
+        "a": "Butane and Propane",
+        "b": "Methane and Ethane",
+        "c": "Oxygen and Nitrogen",
+        "d": "Hydrogen and Helium"
+      },
+      "one_liner": "Liquefied petroleum gas (LPG) is mainly composed of the gases **butane** and **propane**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

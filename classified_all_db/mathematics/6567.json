@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "If k ≤ x ≤ 3k + 12, which of the following must be true? I. x - 12 ≤ 3k II. k ≥ -6 III. x - k ≥ 0",
+      "options": {
+        "a": "I only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II, and III"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

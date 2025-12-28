@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The Swadeshi movement was launched as a reaction to which event in 1905?",
+      "options": {
+        "a": "Jallianwala Bagh Massacre",
+        "b": "Partition of Bengal",
+        "c": "Simon Commission Arrival",
+        "d": "Rowlatt Act"
+      },
+      "one_liner": "The **Partition of Bengal in 1905** was the event that triggered the launch of the Swadeshi movement by Hindus.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

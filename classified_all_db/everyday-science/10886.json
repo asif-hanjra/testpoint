@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Sulfuric acid produced from sulfur is mainly used in which of the following applications?",
+      "options": {
+        "a": "Lead-acid batteries and fertilizers",
+        "b": "Plastic bottles",
+        "c": "Textiles",
+        "d": "None of these"
+      },
+      "one_liner": "A significant portion of sulfuric acid is used in **lead-acid batteries (car batteries)** and in the production of fertilizers.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

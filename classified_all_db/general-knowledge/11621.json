@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Jal is the airline of which country?",
+      "options": {
+        "a": "China",
+        "b": "Japan",
+        "c": "South Korea",
+        "d": "Vietnam"
+      },
+      "one_liner": "Jal, also known as Japan Airlines, is the flag carrier of **Japan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

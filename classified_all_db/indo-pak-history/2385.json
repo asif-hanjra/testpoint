@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who succeeded Walid bin Abdul Malik-I as the Caliph?",
+      "options": {
+        "a": "Suleman bin Abdul Malik",
+        "b": "Yazid bin Muawiya",
+        "c": "Harun al-Rashid",
+        "d": "None of these"
+      },
+      "one_liner": "After the death of Walid bin Abdul Malik-I, the caliphate was succeeded by **Suleman bin Abdul Malik**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Arrival of Muhammad bin Qasim to Subcontinent (712)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Abbasi Rulers (750-977)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Arrival of Muhammad bin Qasim to Subcontinent (712)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

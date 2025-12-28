@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "WAM is the news agency of which country?",
+      "options": {
+        "a": "Qatar",
+        "b": "UAE",
+        "c": "Kuwait",
+        "d": "Bahrain"
+      },
+      "one_liner": "WAM is the official news agency of the **UAE**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous News Agencies",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who presided over the Annual session of the Muslim League in 1916?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Quaid-e-Azam",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The Annual session of the Muslim League in 1916 was presided over by **Quaid-e-Azam**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

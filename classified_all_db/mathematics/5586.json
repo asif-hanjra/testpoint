@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Reading a value that lies outside the two extreme points is called _____?",
+      "options": {
+        "a": "Estimation",
+        "b": "Interpolation",
+        "c": "Extrapolation",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

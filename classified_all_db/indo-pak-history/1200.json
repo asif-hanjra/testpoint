@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was Dinna, the daughter of Muhammad Ali Jinnah, born?",
+      "options": {
+        "a": "14th August, 1919",
+        "b": "14th August, 1947",
+        "c": "25th December, 1876",
+        "d": "None of these"
+      },
+      "one_liner": "Dinna, the daughter of Muhammad Ali Jinnah, was born on **14th August, 1919**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

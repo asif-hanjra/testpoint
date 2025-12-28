@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many years after the partition did the British Government announce the annulment of Bengal's partition?",
+      "options": {
+        "a": "4 years",
+        "b": "5 years",
+        "c": "6 years",
+        "d": "7 years"
+      },
+      "one_liner": "The British Government announced the annulment of the partition of Bengal after **6 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Calcutta to Delhi Shift / Annulment of Partition (1911)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Calcutta to Delhi Shift / Annulment of Partition (1911)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

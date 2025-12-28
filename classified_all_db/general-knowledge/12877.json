@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country replaced the Soviet Union in December 1991?",
+      "options": {
+        "a": "Russian Federation",
+        "b": "United States",
+        "c": "China",
+        "d": "None of these"
+      },
+      "one_liner": "In December 1991, the Soviet Union was replaced by the **Russian Federation**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

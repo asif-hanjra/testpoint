@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "To which blood group(s) can group A donate blood?",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "AB",
+        "d": "O"
+      },
+      "one_liner": "Blood group A can donate blood to individuals with **group A** blood.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

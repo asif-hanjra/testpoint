@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many total seats were demanded in the Imperial Legislative Council according to the Lucknow Pact?",
+      "options": {
+        "a": "100",
+        "b": "120",
+        "c": "150",
+        "d": "200"
+      },
+      "one_liner": "The Lucknow Pact demanded a total of **150 seats** in the Imperial Legislative Council.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

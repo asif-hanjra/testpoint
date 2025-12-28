@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which religious tradition considers the Tripitakas as their sacred books?",
+      "options": {
+        "a": "Hinduism",
+        "b": "Buddhism",
+        "c": "Jainism",
+        "d": "Christianity"
+      },
+      "one_liner": "The sacred texts known as the Tripitakas are revered in the **Buddhist** tradition.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

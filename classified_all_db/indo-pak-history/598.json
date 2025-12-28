@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the Sultan after the death of the first Lodhi ruler in 1489?",
+      "options": {
+        "a": "Nizam Khan",
+        "b": "Ibrahim Lodhi",
+        "c": "Zaheeruddin Babur",
+        "d": "Bahlul Lodhi"
+      },
+      "one_liner": "After the death of the first Lodhi ruler in 1489, his son **Nizam Khan** became the next Sultan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

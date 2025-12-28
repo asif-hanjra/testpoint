@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are the main structural components of the heart?",
+      "options": {
+        "a": "Chambers and valves",
+        "b": "Bones and muscles",
+        "c": "Veins and arteries",
+        "d": "Skin and cartilage"
+      },
+      "one_liner": "The main parts of the heart are its **chambers and valves**, which work together to regulate blood flow.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

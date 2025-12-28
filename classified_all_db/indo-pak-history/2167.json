@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of the pamphlet in which the word 'Pakistan' was first used?",
+      "options": {
+        "a": "Pakistan Declaration",
+        "b": "Now or Never",
+        "c": "Muslim Manifesto",
+        "d": "None of these"
+      },
+      "one_liner": "The word 'Pakistan' was first used in the pamphlet titled **'Now or Never'** issued by Ch Rehmat Ali in 1933.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

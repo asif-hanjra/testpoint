@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who founded the city of Agra?",
+      "options": {
+        "a": "Babur",
+        "b": "Sikandar Lodhi",
+        "c": "Sher Shah Suri",
+        "d": "Akbar"
+      },
+      "one_liner": "The city of Agra was established by **Sikandar Lodhi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

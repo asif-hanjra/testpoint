@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the ruler of Mysore during the Third Anglo-Mysore War (1790-1792)?",
+      "options": {
+        "a": "Haider Ali",
+        "b": "Tipu Sultan",
+        "c": "Nawab of Oudh",
+        "d": "Mir Qasim"
+      },
+      "one_liner": "During the Third Anglo-Mysore War, the ruler of Mysore was **Tipu Sultan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

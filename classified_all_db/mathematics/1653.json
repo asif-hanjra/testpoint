@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If ∪ = set of natural numbers up to 15, A = set of even numbers up to 15 and B = set of odd numbers up to 15, then find A' ∪ B'?",
+      "options": {
+        "a": "A ∪ B",
+        "b": "B ∪ A",
+        "c": "∪",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

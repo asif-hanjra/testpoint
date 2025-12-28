@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who ruled the Sikh Dynasty immediately after Ranjit Singh's death in 1839?",
+      "options": {
+        "a": "Sher Singh",
+        "b": "Kharak Singh",
+        "c": "Nau Nihal Singh",
+        "d": "Duleep Singh"
+      },
+      "one_liner": "After the death of Ranjit Singh in 1839, his successor was **Kharak Singh**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

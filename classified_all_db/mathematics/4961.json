@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "∂f/∂x = lim(h → 0) [f(x + h, y) - f(x, y)]/h, if exists, is called the partial derivative of f with respect to _____?",
+      "options": {
+        "a": "x at (x, y)",
+        "b": "x at (a, b)",
+        "c": "y at (a, b)",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

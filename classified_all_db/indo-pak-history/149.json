@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who formed the All India Muslim Students Federation in 1937?",
+      "options": {
+        "a": "Sir Syed Ahmed Khan",
+        "b": "Raja Sahib of Mehmudabad",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The All India Muslim Students Federation was established in 1937 by **Raja Sahib of Mehmudabad**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

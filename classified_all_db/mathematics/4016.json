@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A is father of C and D is son of B.E is brother of A. If C is sister of D, how is B related to E?",
+      "options": {
+        "a": "Sister In Law",
+        "b": "Brother",
+        "c": "Father",
+        "d": "Mother"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

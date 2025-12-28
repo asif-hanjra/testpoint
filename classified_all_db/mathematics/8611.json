@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The function which is to be maximized or minimized is called?",
+      "options": {
+        "a": "Linear function",
+        "b": "Objective function",
+        "c": "Decision function",
+        "d": "Binary function"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

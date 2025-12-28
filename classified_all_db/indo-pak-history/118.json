@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which side did Mir Qasim initially support before the Battle of Buxar?",
+      "options": {
+        "a": "French East India Company",
+        "b": "British East India Company",
+        "c": "Dutch East India Company",
+        "d": "None of these"
+      },
+      "one_liner": "Before the Battle of Buxar, Mir Qasim was initially supported by the **British East India Company**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

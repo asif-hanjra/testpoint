@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who represented the British Raj in the agreement that established the Durand Line in 1893?",
+      "options": {
+        "a": "Lord Curzon",
+        "b": "Sir Mortimer Durand",
+        "c": "Lord Mountbatten",
+        "d": "Sir Syed Ahmed Khan"
+      },
+      "one_liner": "Sir Mortimer Durand, a British diplomat and civil servant, represented the British Raj in the 1893 agreement that established the **Durand Line**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

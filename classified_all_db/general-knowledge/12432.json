@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following locations is NOT mentioned as a site where artificial forests are being maintained?",
+      "options": {
+        "a": "Chichawatini",
+        "b": "Changa Manga",
+        "c": "Kotla Adeeb Shahid",
+        "d": "None of these"
+      },
+      "one_liner": "Artificial forests are being maintained at **Chichawatini, Changa Manga, and Kotla Adeeb Shahid**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

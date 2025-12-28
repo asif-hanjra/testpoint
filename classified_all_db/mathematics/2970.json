@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "If the initial population of rats was 20 and grew to 25 after the second year, which of the following functions best models the population of rats P with respect to the number of years t if the population growth of rats is considered to be exponential?",
+      "options": {
+        "a": "P=20(5)t",
+        "b": "P=5t^2+20",
+        "c": "P=20(1.25)^t",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2022
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is delirium?",
+      "options": {
+        "a": "A type of phobia",
+        "b": "A brain condition causing confusion",
+        "c": "A digestive disorder",
+        "d": "None of these"
+      },
+      "one_liner": "Delirium is a brain condition that causes mental confusion and makes it difficult to think, remember, sleep, and pay attention.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Phobia Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

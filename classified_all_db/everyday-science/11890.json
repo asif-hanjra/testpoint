@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Is a fission reaction classified as a chemical reaction?",
+      "options": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Sometimes",
+        "d": "None of these"
+      },
+      "one_liner": "A fission reaction is not a chemical reaction; it is a type of **nuclear reaction**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

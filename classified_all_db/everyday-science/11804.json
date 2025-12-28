@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary function of White Blood Cells in the human body?",
+      "options": {
+        "a": "Transport oxygen",
+        "b": "Protect against disease",
+        "c": "Clot blood",
+        "d": "Provide energy"
+      },
+      "one_liner": "White Blood Cells play a crucial role in the human body by protecting it against **disease**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

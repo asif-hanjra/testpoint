@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which diseases are caused by more lethal varieties of coronaviruses?",
+      "options": {
+        "a": "SARS, MERS, and COVID-19",
+        "b": "Influenza and measles",
+        "c": "Chickenpox and mumps",
+        "d": "None of these"
+      },
+      "one_liner": "More lethal varieties of coronaviruses are responsible for **SARS, MERS, and COVID-19**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

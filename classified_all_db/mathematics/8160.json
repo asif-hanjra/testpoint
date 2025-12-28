@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A boy is asked to put in a basket one mango when ordered 'one', One orange when ordered 'two', one apple when ordered 'three' and asked to take out from basket one mango and an orange out of the basket, when ordered 'four'. How many oranges are there in the basket if the sequence of orders is as follow: 1 2 3 3 2 1 4 2 3 1 4 2 2 3 3 1 4 1 1 3 2 3 4?",
+      "options": {
+        "a": "4",
+        "b": "2",
+        "c": "1",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

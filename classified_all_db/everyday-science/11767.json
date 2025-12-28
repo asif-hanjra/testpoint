@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of the body is responsible for producing blood cells?",
+      "options": {
+        "a": "Liver",
+        "b": "Bone-marrow",
+        "c": "Heart",
+        "d": "Kidney"
+      },
+      "one_liner": "Blood cells in the human body are produced by the **bone-marrow**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Plasma",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

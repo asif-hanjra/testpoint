@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the major language spoken in Egypt?",
+      "options": {
+        "a": "French",
+        "b": "Arabic",
+        "c": "English",
+        "d": "Greek"
+      },
+      "one_liner": "The primary language spoken in Egypt is **Arabic**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

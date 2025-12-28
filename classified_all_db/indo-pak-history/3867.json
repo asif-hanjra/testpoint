@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Akbar die and at what age?",
+      "options": {
+        "a": "Delhi, 60",
+        "b": "Lahore, 70",
+        "c": "Fatehpur Sikri, 63",
+        "d": "Agra Fort, 65"
+      },
+      "one_liner": "Akbar died at the age of **63** at Fatehpur Sikri, Agra.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

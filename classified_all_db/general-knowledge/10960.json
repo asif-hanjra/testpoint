@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which animal was highlighted in the international theme for the year 2009?",
+      "options": {
+        "a": "Gorilla",
+        "b": "Tiger",
+        "c": "Elephant",
+        "d": "Panda"
+      },
+      "one_liner": "The year 2009 was designated as the Year of the **Gorilla** by international organizations.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

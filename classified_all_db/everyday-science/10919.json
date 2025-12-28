@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which blood group is known as the universal donor?",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "O",
+        "d": "AB"
+      },
+      "one_liner": "The O blood group is referred to as the **universal donor** because it can donate to all other groups.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Groups",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

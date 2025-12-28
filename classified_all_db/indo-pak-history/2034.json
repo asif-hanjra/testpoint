@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the father of Jawaharlal Nehru?",
+      "options": {
+        "a": "Motilal Nehru",
+        "b": "Gopal Krishna Gokhale",
+        "c": "Mahatma Gandhi",
+        "d": "Dadabhai Naoroji"
+      },
+      "one_liner": "Jawaharlal Nehru was the son of **Motilal Nehru**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

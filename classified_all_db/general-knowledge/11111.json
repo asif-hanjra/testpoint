@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How is each half of a hockey ground divided?",
+      "options": {
+        "a": "25 yards line",
+        "b": "30 yards line",
+        "c": "20 yards line",
+        "d": "None of these"
+      },
+      "one_liner": "Each half of a hockey ground is divided by a **25 yards line**, creating four parts in total.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

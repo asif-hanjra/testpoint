@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is known as the father of civil services in British India?",
+      "options": {
+        "a": "Lord Cornwallis",
+        "b": "Lord Dalhousie",
+        "c": "Lord Canning",
+        "d": "Lord Lytton"
+      },
+      "one_liner": "**Lord Cornwallis** is regarded as the father of civil services in British India.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

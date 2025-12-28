@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "If the height of a triangle is 4 cm less than its base, and the hypotenuse is 10 cm, find the other sides?",
+      "options": {
+        "a": "Base = 10 cm, Height = 6 cm",
+        "b": "Base = 8 cm, Height = 4 cm",
+        "c": "Base = 12 cm, Height = 8 cm",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

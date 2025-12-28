@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which report did the Muslim League reject at its 20th session in Calcutta in 1928?",
+      "options": {
+        "a": "Simon Report",
+        "b": "Nehru Report",
+        "c": "Cabinet Mission Plan",
+        "d": "Cripps Mission"
+      },
+      "one_liner": "At its 20th session in Calcutta, the Muslim League rejected the **Nehru Report** in 1928.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

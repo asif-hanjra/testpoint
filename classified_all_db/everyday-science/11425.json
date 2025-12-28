@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who invented Ultra Sound in 1950?",
+      "options": {
+        "a": "Wilhelm Roentgen",
+        "b": "Ian Donald",
+        "c": "Marie Curie",
+        "d": "None of these"
+      },
+      "one_liner": "Ultra Sound was invented in **1950** by **Ian Donald**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

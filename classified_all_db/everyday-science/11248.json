@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the central part of the coloured part of the eye called?",
+      "options": {
+        "a": "Iris",
+        "b": "Cornea",
+        "c": "Pupil",
+        "d": "Lens"
+      },
+      "one_liner": "The central part of the coloured part of the eye is called the **pupil**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

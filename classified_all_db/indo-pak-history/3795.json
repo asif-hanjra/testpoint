@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which reforms were to be conducted according to the Communal Award of 1932?",
+      "options": {
+        "a": "Punjab",
+        "b": "NWFP",
+        "c": "Bengal",
+        "d": "Madras"
+      },
+      "one_liner": "The Communal Award of 1932 stated that reforms would be conducted in **NWFP**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Communal Award",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Communal Award",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

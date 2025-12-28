@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of sculpture is the Statue of Liberty?",
+      "options": {
+        "a": "Modern abstract",
+        "b": "Baroque",
+        "c": "Neoclassical",
+        "d": "Gothic"
+      },
+      "one_liner": "The Statue of Liberty is a **colossal neoclassical sculpture**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Statue of Liberty",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

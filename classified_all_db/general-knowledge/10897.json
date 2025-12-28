@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Vienna International Airport is located in which European country?",
+      "options": {
+        "a": "Switzerland",
+        "b": "Austria",
+        "c": "Germany",
+        "d": "Hungary"
+      },
+      "one_liner": "Vienna International Airport is located in **Austria**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Airports",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airports",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

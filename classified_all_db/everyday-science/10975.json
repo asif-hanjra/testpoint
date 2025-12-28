@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a transistor?",
+      "options": {
+        "a": "A type of resistor",
+        "b": "A semiconductor device",
+        "c": "A mechanical switch",
+        "d": "None of these"
+      },
+      "one_liner": "A transistor is a **semiconductor device** with three or more terminals that controls current flow between electrodes using voltage or current applied to specific terminals.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

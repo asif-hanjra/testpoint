@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which department was headed by John Mathai in the Interim Government of 1946-1947?",
+      "options": {
+        "a": "Department of Defence",
+        "b": "Department of Commerce",
+        "c": "Department of Industries and Supplies",
+        "d": "Department of Railways and Transport"
+      },
+      "one_liner": "John Mathai was responsible for the **Department of Industries and Supplies** in the Interim Government of 1946-1947.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

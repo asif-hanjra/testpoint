@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the nickname of the South African cricket team?",
+      "options": {
+        "a": "Baggy Greens",
+        "b": "Proteas",
+        "c": "Black Caps",
+        "d": "Men in Blue"
+      },
+      "one_liner": "The South African cricket team is commonly referred to as the **Proteas**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

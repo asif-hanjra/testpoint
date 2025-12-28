@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If P(2, 1) and Q(8, 1) are two of the vertices of a rectangle, which of the following could not be another of the vertices?",
+      "options": {
+        "a": "(2, 8)",
+        "b": "(8, 2)",
+        "c": "(2, -8)",
+        "d": "(-2, 8)"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Suppose A = BC, where A has the dimension L/M and C has the dimension L/T. Then B has the dimension:",
+      "options": {
+        "a": "T/M",
+        "b": "L²/TM",
+        "c": "TM/L²",
+        "d": "M/L²T"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

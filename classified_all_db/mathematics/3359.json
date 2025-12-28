@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "a x a x a in index citation?",
+      "options": {
+        "a": "a²",
+        "b": "a³",
+        "c": "3a",
+        "d": "a + a + a"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

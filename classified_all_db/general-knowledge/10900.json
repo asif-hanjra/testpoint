@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How long after the attack on Pearl Harbor did the Battle of Midway occur?",
+      "options": {
+        "a": "One year",
+        "b": "Six months",
+        "c": "Three months",
+        "d": "None of these"
+      },
+      "one_liner": "The Battle of Midway occurred **six months after the Japanese attack on Pearl Harbor**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "American Revolution (1765-1783)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

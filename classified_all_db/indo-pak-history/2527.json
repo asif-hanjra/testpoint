@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Cabinet Mission arrive in India?",
+      "options": {
+        "a": "1942",
+        "b": "1946",
+        "c": "1947",
+        "d": "1945"
+      },
+      "one_liner": "The Cabinet Mission arrived in India in **1946** to discuss the transfer of power from British rule.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

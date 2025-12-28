@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mosque in Ayodhya was built on the direction of Babur?",
+      "options": {
+        "a": "Jama Masjid",
+        "b": "Babri Masjid",
+        "c": "Badshahi Masjid",
+        "d": "Fatehpuri Masjid"
+      },
+      "one_liner": "The **Babri Masjid** in Ayodhya was constructed on the direction of Babur.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the outcome of the Malabar Riot of 1921?",
+      "options": {
+        "a": "Victory for Mappilas",
+        "b": "British defeated",
+        "c": "Mappilas defeated",
+        "d": "None of these"
+      },
+      "one_liner": "The Malabar Riot of 1921 ended with the **defeat of the Mappilas** by the British authorities.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Malabar Riot",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Malabar Riot",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Oxygen, silicon, aluminum, and iron together account for what percentage of the Earth's crust by mass?",
+      "options": {
+        "a": "11.9%",
+        "b": "88.1%",
+        "c": "46.6%",
+        "d": "95%"
+      },
+      "one_liner": "Oxygen, silicon, aluminum, and iron collectively make up **88.1%** of the Earth's crust by mass.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

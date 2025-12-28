@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The following correctly represents De Morgan's first law?",
+      "options": {
+        "a": "(AUB)' = A'∩B'",
+        "b": "(A∩B)' = A'UB'",
+        "c": "(AUB) = A∩B",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

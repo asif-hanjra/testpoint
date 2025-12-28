@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date was Liaquat Ali Khan assassinated?",
+      "options": {
+        "a": "August 14, 1947",
+        "b": "September 11, 1948",
+        "c": "October 16, 1951",
+        "d": "March 23, 1956"
+      },
+      "one_liner": "**Liaquat Ali Khan** was assassinated on **October 16, 1951**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary function of the heart's structure?",
+      "options": {
+        "a": "To digest food",
+        "b": "To pump blood",
+        "c": "To produce hormones",
+        "d": "To filter waste"
+      },
+      "one_liner": "The heart is composed of several smaller parts that work together to pump **blood** throughout the body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Types of Blood Vessels",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

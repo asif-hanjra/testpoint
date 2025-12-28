@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How often are European elections held to elect new Members of the European Parliament?",
+      "options": {
+        "a": "Three years",
+        "b": "Four years",
+        "c": "Five years",
+        "d": "Six years"
+      },
+      "one_liner": "European elections to elect new Members of the European Parliament are held every **five years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "European Union (EU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "The EU and its Member States",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

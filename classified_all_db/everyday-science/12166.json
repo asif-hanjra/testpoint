@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary function of a transformer?",
+      "options": {
+        "a": "To transfer alternating current between circuits",
+        "b": "To store electrical energy",
+        "c": "To convert AC to DC",
+        "d": "To generate electricity"
+      },
+      "one_liner": "A transformer is a device that transfers alternating current from one circuit to another, typically changing the voltage level in the process.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mosque in Peshawar was built during the reign of Shah Jahan?",
+      "options": {
+        "a": "Shah Faisal Mosque",
+        "b": "Mahabat Khan Mosque",
+        "c": "Wazir Khan Mosque",
+        "d": "None of these"
+      },
+      "one_liner": "The Mahabat Khan Mosque in Peshawar was built during the reign of **Shah Jahan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

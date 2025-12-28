@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the Gandhara Civilization located?",
+      "options": {
+        "a": "Between Indus and Jhelum",
+        "b": "Between Ravi and Chenab",
+        "c": "Between Ganges and Yamuna",
+        "d": "None of these"
+      },
+      "one_liner": "The Gandhara Civilization was situated between the rivers **Indus and Jhelum**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

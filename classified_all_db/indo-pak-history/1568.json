@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who recommended joint efforts for the independence of British India before considering partition during the Jinnah-Gandhi Talks of 1944?",
+      "options": {
+        "a": "Jinnah",
+        "b": "Gandhi",
+        "c": "Nehru",
+        "d": "None of these"
+      },
+      "one_liner": "During the Jinnah-Gandhi Talks of 1944, it was **Gandhi** who recommended joint efforts for independence before partitioning British India.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jinnah-Gandhi Talks",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Jinnah-Gandhi Talks",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the normal temperature of the human body on the Kelvin scale?",
+      "options": {
+        "a": "273",
+        "b": "310",
+        "c": "373",
+        "d": "None of these"
+      },
+      "one_liner": "The normal temperature of the human body is **310 Kelvin** on the Kelvin scale.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

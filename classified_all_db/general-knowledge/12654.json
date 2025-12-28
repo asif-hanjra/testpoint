@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the headquarters of the World Trade Organization (WTO) located?",
+      "options": {
+        "a": "Geneva",
+        "b": "New York",
+        "c": "Paris",
+        "d": "London"
+      },
+      "one_liner": "The headquarters of the World Trade Organization (WTO) is situated in **Geneva**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "By what other name is the Western Wall in Jerusalem known?",
+      "options": {
+        "a": "Golden Gate",
+        "b": "Wailing Wall",
+        "c": "Stone of Unction",
+        "d": "None of these"
+      },
+      "one_liner": "The Western Wall in Jerusalem is also known as the **Wailing Wall**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

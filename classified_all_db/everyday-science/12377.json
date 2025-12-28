@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is brighter than any other planet in our solar system?",
+      "options": {
+        "a": "Mercury",
+        "b": "Venus",
+        "c": "Jupiter",
+        "d": "Mars"
+      },
+      "one_liner": "**Venus** is brighter than any other planet in our solar system.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

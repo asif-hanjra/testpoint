@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which type of mirror is used in the headlights of cars and torch lights?",
+      "options": {
+        "a": "Convex mirror",
+        "b": "Concave mirror",
+        "c": "Plane mirror",
+        "d": "None of these"
+      },
+      "one_liner": "A **concave mirror** is used in the headlights of cars and torch lights to focus the beam of light.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

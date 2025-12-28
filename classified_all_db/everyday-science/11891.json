@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which hormones are produced by the pancreas to control blood glucose levels?",
+      "options": {
+        "a": "Insulin and glucagon",
+        "b": "Adrenaline and cortisol",
+        "c": "Thyroxine and calcitonin",
+        "d": "Estrogen and progesterone"
+      },
+      "one_liner": "The pancreas produces the hormones **insulin** and **glucagon** to regulate blood glucose levels.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

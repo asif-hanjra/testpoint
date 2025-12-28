@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organization set the Sustainable Development Goals (SDGs)?",
+      "options": {
+        "a": "World Bank",
+        "b": "UNESCO",
+        "c": "United Nations General Assembly",
+        "d": "WHO"
+      },
+      "one_liner": "The **United Nations General Assembly** set the Sustainable Development Goals (SDGs).",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Sustainable Development Goals (SDGs)",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Sustainable Development Goals (SDGs)",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

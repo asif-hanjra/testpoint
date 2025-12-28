@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What are atoms of the same element with the same number of protons but different numbers of neutrons called?",
+      "options": {
+        "a": "Isotopes",
+        "b": "Isobars",
+        "c": "Isotones",
+        "d": "None of these"
+      },
+      "one_liner": "Atoms of the same element that have the same number of protons but differ in their number of neutrons are known as **isotopes**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

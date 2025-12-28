@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'Awaz-e-Dost'?",
+      "options": {
+        "a": "Mukhtar Masood",
+        "b": "Qudrat Ullah Shahab",
+        "c": "Ashfaq Ahmed",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'Awaz-e-Dost' was authored by **Mukhtar Masood**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which antibiotic, like cephalosporin, is effective against bacteria not controlled by penicillin?",
+      "options": {
+        "a": "Erythromycin",
+        "b": "Tetracycline",
+        "c": "Penicillin",
+        "d": "Aspirin"
+      },
+      "one_liner": "**Erythromycin** is also effective against bacteria that are not controlled by penicillin, similar to cephalosporin.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

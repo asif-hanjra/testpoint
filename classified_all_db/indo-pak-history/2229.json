@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was given the title of 'Hindu-Muslim Ambassador'?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Sir Syed Ahmed Khan",
+        "c": "Quaid-e-Azam",
+        "d": "Liaquat Ali Khan"
+      },
+      "one_liner": "Quaid-e-Azam was famously known as the **Hindu-Muslim Ambassador** for his efforts in promoting unity between the two communities.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

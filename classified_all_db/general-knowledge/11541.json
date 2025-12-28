@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which football award is also known as the Golden Ball?",
+      "options": {
+        "a": "Golden Shoe",
+        "b": "Golden Ball",
+        "c": "Silver Ball",
+        "d": "None of these"
+      },
+      "one_liner": "The **Golden Ball** is one of the most prestigious individual awards in football, often given to the best player in a tournament or season.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

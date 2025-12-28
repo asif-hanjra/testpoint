@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Hansraj, the pet antelope of Prince Salim, buried?",
+      "options": {
+        "a": "Shalimar Gardens",
+        "b": "Hiran Minar",
+        "c": "Badshahi Mosque",
+        "d": "None of these"
+      },
+      "one_liner": "Hansraj, the pet antelope of Prince Salim, is buried at **Hiran Minar**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

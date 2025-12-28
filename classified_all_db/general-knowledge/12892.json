@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the shrine of Sultan Bahu located?",
+      "options": {
+        "a": "Shorkot",
+        "b": "Multan",
+        "c": "Garh Maharaja, district Jhang",
+        "d": "Lahore"
+      },
+      "one_liner": "The shrine of Sultan Bahu is situated in **Garh Maharaja, district Jhang**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Sultan Bahu",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

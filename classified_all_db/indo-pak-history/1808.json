@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Did Shah Waliullah Dehlawi participate in the compilation of Fatawa-e-Alamgiri?",
+      "options": {
+        "a": "Yes, for a short period",
+        "b": "No, never",
+        "c": "Yes, for the entire project",
+        "d": "None of these"
+      },
+      "one_liner": "Shah Waliullah Dehlawi joined the team compiling **Fatawa-e-Alamgiri** for a short period before leaving the task.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

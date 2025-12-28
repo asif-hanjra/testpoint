@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Cataract is a disease that affects which part of the human body?",
+      "options": {
+        "a": "Ear",
+        "b": "Eye",
+        "c": "Nose",
+        "d": "Throat"
+      },
+      "one_liner": "Cataract is a disease that specifically affects the **eye** in humans.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who introduced the famous Two-Nation Theory?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Sir Syed Ahmad Khan",
+        "c": "Quaid-e-Azam",
+        "d": "None of these"
+      },
+      "one_liner": "The famous Two-Nation Theory was introduced by **Sir Syed Ahmad Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the Muhammadan Education Conference in 1906 held?",
+      "options": {
+        "a": "Aligarh",
+        "b": "Israt Manzil Palace, Dhaka",
+        "c": "Karachi",
+        "d": "Delhi"
+      },
+      "one_liner": "The Muhammadan Education Conference in 1906 was held at **Israt Manzil Palace, Dhaka**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

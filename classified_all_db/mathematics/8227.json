@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If, a = 5 and b = 7 then 2 − a + 2 < b - 1?",
+      "options": {
+        "a": "Equal",
+        "b": "True",
+        "c": "False",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

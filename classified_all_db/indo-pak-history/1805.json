@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Qutub Minar, the world's tallest brick minaret, located?",
+      "options": {
+        "a": "Lahore",
+        "b": "Delhi",
+        "c": "Agra",
+        "d": "Karachi"
+      },
+      "one_liner": "Qutub Minar, recognized as the world's tallest brick minaret, is located in **Delhi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

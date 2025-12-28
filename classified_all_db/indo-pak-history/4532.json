@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which battle during the Second Anglo-Sikh War is considered one of the bloodiest fought by the British East India Company?",
+      "options": {
+        "a": "Battle of Multan",
+        "b": "Battle of Chillianwala",
+        "c": "Battle of Gujrat",
+        "d": "None of these"
+      },
+      "one_liner": "The Battle of **Chillianwala** is regarded as one of the bloodiest battles fought by the British East India Company during the Second Anglo-Sikh War.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

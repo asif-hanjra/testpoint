@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose reign did Vasco da Gama's first Portuguese Armada arrive in India?",
+      "options": {
+        "a": "Mughals",
+        "b": "Lodhis",
+        "c": "Tughlaqs",
+        "d": "Sayyids"
+      },
+      "one_liner": "Vasco da Gama's first Portuguese Armada reached India during the reign of the **Lodhis**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

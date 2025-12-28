@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city was destroyed in the 1935 earthquake?",
+      "options": {
+        "a": "Lahore",
+        "b": "Karachi",
+        "c": "Quetta",
+        "d": "Peshawar"
+      },
+      "one_liner": "The city that was destroyed in the 1935 earthquake was **Quetta**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Day of Deliverance",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major Indian political party opposed the Simon Commission?",
+      "options": {
+        "a": "Indian National Congress",
+        "b": "Muslim League",
+        "c": "Hindu Mahasabha",
+        "d": "None of these"
+      },
+      "one_liner": "The Indian National Congress was among the major political parties that **opposed the Simon Commission**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

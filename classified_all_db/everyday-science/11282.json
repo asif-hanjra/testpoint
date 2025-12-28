@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of the kidney in the human body?",
+      "options": {
+        "a": "Remove waste products",
+        "b": "Produce hormones",
+        "c": "Regulate body temperature",
+        "d": "Digest food"
+      },
+      "one_liner": "The main function of the kidney is to remove **waste products** from the body.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

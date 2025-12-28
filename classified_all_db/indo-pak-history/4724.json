@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Bahadur Shah Zafar exiled after the War of Independence, 1857?",
+      "options": {
+        "a": "Andaman Islands",
+        "b": "Rangoon in Burma (Myanmar)",
+        "c": "London",
+        "d": "Calcutta"
+      },
+      "one_liner": "After the War of Independence in 1857, Bahadur Shah Zafar was exiled to **Rangoon in British-controlled Burma (now Myanmar)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

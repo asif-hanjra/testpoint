@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of the Earth's crust is made up of igneous and metamorphic rocks?",
+      "options": {
+        "a": "95%",
+        "b": "4%",
+        "c": "0.75%",
+        "d": "0.25%"
+      },
+      "one_liner": "Igneous and metamorphic rocks together make up about **95%** of the Earth's crust by volume.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

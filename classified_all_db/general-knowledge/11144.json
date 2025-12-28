@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the highest military award in Israel?",
+      "options": {
+        "a": "Medal of Valour",
+        "b": "Order of the Rising Sun",
+        "c": "Nishan-e-Haider",
+        "d": "War Cross with Sword"
+      },
+      "one_liner": "The highest military award in Israel is the **Medal of Valour**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

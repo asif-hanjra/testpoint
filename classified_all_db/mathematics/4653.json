@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For each integer n ≥ 1, the ∑100 = S(100) = 1 + 2 + 3 + ⋯ + 100 = 5050, then What is the value of S(200)?",
+      "options": {
+        "a": "15050",
+        "b": "20100",
+        "c": "15150",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

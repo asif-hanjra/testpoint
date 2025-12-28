@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the time difference corresponding to one degree of longitude?",
+      "options": {
+        "a": "2 minutes",
+        "b": "4 minutes",
+        "c": "6 minutes",
+        "d": "8 minutes"
+      },
+      "one_liner": "The time difference for every one degree of longitude is **4 minutes**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

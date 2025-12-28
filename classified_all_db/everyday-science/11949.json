@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of water does milk contain?",
+      "options": {
+        "a": "60%",
+        "b": "70%",
+        "c": "80%",
+        "d": "90%"
+      },
+      "one_liner": "Milk is composed of approximately **80% water**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

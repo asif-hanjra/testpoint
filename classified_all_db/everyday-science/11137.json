@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which food is a rich source of Vitamin A?",
+      "options": {
+        "a": "Egg",
+        "b": "Rice",
+        "c": "Potato",
+        "d": "Wheat"
+      },
+      "one_liner": "Eggs are a rich source of **Vitamin A**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

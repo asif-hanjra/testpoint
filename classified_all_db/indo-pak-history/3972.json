@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the Secretary of Aligarh Institute?",
+      "options": {
+        "a": "Sir Syed Ahmed Khan",
+        "b": "Waqar-ul-Mulk",
+        "c": "Nawab Mohsin-ul-Mulk",
+        "d": "None of these"
+      },
+      "one_liner": "Waqar-ul-Mulk held the position of Secretary at the Aligarh Institute, playing a significant role in its administration.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

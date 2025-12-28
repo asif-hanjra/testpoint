@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which party had won only a few Muslim reserved seats in the 1937 elections but established itself as the sole representative of Muslims in 1946?",
+      "options": {
+        "a": "Congress",
+        "b": "Muslim League",
+        "c": "Unionist Party",
+        "d": "Akali Dal"
+      },
+      "one_liner": "The **Muslim League** had won only a few Muslim reserved seats in 1937 but established itself as the sole representative of Muslims in 1946.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

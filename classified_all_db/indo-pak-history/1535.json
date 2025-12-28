@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major national leader called off the Non-Cooperation Movement after the Chauri Chaura incident?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Gandhi",
+        "d": "Sardar Patel"
+      },
+      "one_liner": "After the Chauri Chaura incident, **Gandhi** decided to call off the Non-Cooperation Movement in 1922.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

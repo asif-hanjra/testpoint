@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times do the hands of a clock coincide in a day?",
+      "options": {
+        "a": "22",
+        "b": "24",
+        "c": "12",
+        "d": "None of these"
+      },
+      "one_liner": "The hands of a clock coincide exactly **22 times** in a 24-hour period.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

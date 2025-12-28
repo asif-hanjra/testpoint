@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote the popular romantic story of Sindh, Sassi Punnun?",
+      "options": {
+        "a": "Shah Abdul Latif Bhittai",
+        "b": "Bulleh Shah",
+        "c": "Sachal Sarmast",
+        "d": "None of these"
+      },
+      "one_liner": "The famous Sindhi romantic tale Sassi Punnun was written by **Shah Abdul Latif Bhittai**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Shah Abdul Latif Bhittai",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Shah Abdul Latif Bhittai",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

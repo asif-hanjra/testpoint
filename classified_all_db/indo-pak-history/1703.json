@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the area between the Ravi and Beas rivers called?",
+      "options": {
+        "a": "Bari Doab",
+        "b": "Sindh Sagar Doab",
+        "c": "Rachna Doab",
+        "d": "None of these"
+      },
+      "one_liner": "The region situated between the Ravi and Beas rivers is known as the **Bari Doab**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

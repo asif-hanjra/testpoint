@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If you add up the numbers 1 - 200 consecutively (1+2+3+4+5 ..... + 200) the total is?",
+      "options": {
+        "a": "20200",
+        "b": "20050",
+        "c": "20100",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

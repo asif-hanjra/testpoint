@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Prime Minister from the Congress side in the Interim Government of 1946-1947?",
+      "options": {
+        "a": "Vallabhbhai Patel",
+        "b": "Jawaharlal Nehru",
+        "c": "Rajendra Prasad",
+        "d": "John Mathai"
+      },
+      "one_liner": "**Jawaharlal Nehru** served as the Prime Minister from the Congress side in the Interim Government of 1946-1947.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

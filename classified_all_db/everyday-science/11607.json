@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many naturally occurring isotopes does uranium have?",
+      "options": {
+        "a": "Three",
+        "b": "Two",
+        "c": "Four",
+        "d": "Five"
+      },
+      "one_liner": "Naturally occurring uranium consists of **three** isotopes: uranium-234, uranium-235, and uranium-238.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

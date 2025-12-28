@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Bahadur Shah Zafar buried?",
+      "options": {
+        "a": "Delhi",
+        "b": "Lahore",
+        "c": "Rangoon",
+        "d": "Agra"
+      },
+      "one_liner": "Bahadur Shah Zafar, the last Mughal emperor, is buried in **Rangoon**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

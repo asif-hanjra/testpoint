@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does FBI stand for?",
+      "options": {
+        "a": "Federal Bureau of Investigation USA",
+        "b": "Federal Bureau of Inquiry",
+        "c": "Federal Bureau of Intelligence",
+        "d": "Federal Bureau of Inspection"
+      },
+      "one_liner": "FBI is an abbreviation for the **Federal Bureau of Investigation USA**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

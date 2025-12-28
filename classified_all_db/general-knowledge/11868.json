@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which event led to the United States declaring war against Japan during World War II?",
+      "options": {
+        "a": "Attack on Berlin",
+        "b": "Attack on Moscow",
+        "c": "Attack on Pearl Harbor",
+        "d": "Attack on Paris"
+      },
+      "one_liner": "The United States declared war against **Japan** after the surprise attack on Pearl Harbor in December 1941.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Universal Declaration of Human Rights (1948)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1526,7 +1526,7 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
       
       // Determine batch size based on total number of groups
       const totalGroups = groupsInPage.length;
-      const batchSize = totalGroups > 505 ? 30 : 5;
+      const batchSize = totalGroups > 505 ? 100 : 10;
       
       console.log(`Submitting ${totalGroups} groups with batch size of ${batchSize}`);
       

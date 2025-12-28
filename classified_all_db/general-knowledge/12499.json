@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which bird is recognized as the national bird of Pakistan?",
+      "options": {
+        "a": "Peacock",
+        "b": "Chakor",
+        "c": "Sparrow",
+        "d": "Crow"
+      },
+      "one_liner": "The Chakor is officially recognized as the **national bird of Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which United Nations organization is primarily related to culture and heritage?",
+      "options": {
+        "a": "UNESCO",
+        "b": "UNICEF",
+        "c": "WHO",
+        "d": "IMF"
+      },
+      "one_liner": "The United Nations organization that deals with culture and heritage is **UNESCO**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

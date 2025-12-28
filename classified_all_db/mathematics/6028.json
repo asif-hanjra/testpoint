@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What does a Half Adder do when both inputs A = 1 and B = 1?",
+      "options": {
+        "a": "Sum = 0, Carry = 0",
+        "b": "Sum = 1, Carry = 0",
+        "c": "Sum = 1, Carry = 1",
+        "d": "Sum = 0, Carry = 1"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

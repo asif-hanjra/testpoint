@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who succeeded Qutbuddin Aibak as the ruler of the Delhi Sultanate?",
+      "options": {
+        "a": "Iltutmish",
+        "b": "Aram Shah",
+        "c": "Razia Sultana",
+        "d": "Ghiyasuddin Balban"
+      },
+      "one_liner": "After the death of Qutbuddin Aibak, his successor was **Aram Shah**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

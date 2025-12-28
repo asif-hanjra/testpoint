@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who abolished the Khilafat in Turkey?",
+      "options": {
+        "a": "Mustafa Kamal",
+        "b": "Sultan Abdul Hamid",
+        "c": "Enver Pasha",
+        "d": "None of these"
+      },
+      "one_liner": "The Khilafat in Turkey was abolished by **Mustafa Kamal**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

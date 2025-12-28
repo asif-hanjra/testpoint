@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who were the main leaders from Mysore who fought against the British and Marathas in the Anglo-Mysore Wars?",
+      "options": {
+        "a": "Hyder Ali and Tipu Sultan",
+        "b": "Siraj-ud-Daulah and Mir Jafar",
+        "c": "Ranjit Singh and Hari Singh Nalwa",
+        "d": "None of these"
+      },
+      "one_liner": "The Anglo-Mysore Wars saw **Hyder Ali** and his successor **Tipu Sultan** as the main leaders from Mysore who fought against the British and Marathas.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

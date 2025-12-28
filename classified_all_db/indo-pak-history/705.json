@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which prominent female leader fought against the British East India Company during the War of Independence?",
+      "options": {
+        "a": "Begum Hazrat Mahal",
+        "b": "Rani Lakshmibai",
+        "c": "Begum Zeenat Mahal",
+        "d": "None of these"
+      },
+      "one_liner": "**Begum Hazrat Mahal** was a prominent female leader who fought against the British East India Company during the War of Independence.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

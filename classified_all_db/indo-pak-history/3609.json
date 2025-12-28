@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many Muslim League members were included in the interim government formed before independence?",
+      "options": {
+        "a": "Four",
+        "b": "Six",
+        "c": "Eight",
+        "d": "None of these"
+      },
+      "one_liner": "The interim government formed before independence included **six** members from the Muslim League.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

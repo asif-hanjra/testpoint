@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first emperor to join selective stretches of the Great Wall of China?",
+      "options": {
+        "a": "Han Wudi",
+        "b": "Qin Shi Huang",
+        "c": "Kublai Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Qin Shi Huang, the first emperor of China, is known for joining selective stretches of the Great Wall between 220-206 BC, making **Qin Shi Huang** the emperor responsible for this unification.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Great Wall of China",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Great Wall of China",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the Lahore Resolution commonly called by the Hindu Press?",
+      "options": {
+        "a": "Pakistan Resolution",
+        "b": "Delhi Resolution",
+        "c": "Lucknow Resolution",
+        "d": "None of these"
+      },
+      "one_liner": "The Lahore Resolution was referred to as the **Pakistan Resolution** by the Hindu Press.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

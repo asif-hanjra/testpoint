@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Muhammad Ali Jauhar buried after his death in London?",
+      "options": {
+        "a": "Delhi",
+        "b": "London",
+        "c": "Jerusalem",
+        "d": "Cairo"
+      },
+      "one_liner": "After his death in London, **Muhammad Ali Jauhar** was buried in Jerusalem, Palestine.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

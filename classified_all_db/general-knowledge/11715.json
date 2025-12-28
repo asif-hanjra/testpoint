@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which centuries did the Renaissance Movement spread across Western Europe?",
+      "options": {
+        "a": "12th to 14th",
+        "b": "13th to 15th",
+        "c": "14th to 16th",
+        "d": "15th to 17th"
+      },
+      "one_liner": "The Renaissance Movement spread across Western Europe from the **14th century to the 16th century**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "French Revolution (1789-1799)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Napoleon Bonaparte",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

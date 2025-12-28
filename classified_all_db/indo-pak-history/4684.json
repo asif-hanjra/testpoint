@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was emergency imposed in India by Indira Gandhi?",
+      "options": {
+        "a": "1971",
+        "b": "1975",
+        "c": "1980",
+        "d": "1965"
+      },
+      "one_liner": "The year **1975** marks the imposition of emergency in India by Indira Gandhi.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

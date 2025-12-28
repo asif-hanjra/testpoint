@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who put forward the Psycho-analytical theory of crime?",
+      "options": {
+        "a": "Sigmund Freud",
+        "b": "Karl Marx",
+        "c": "Emile Durkheim",
+        "d": "None of these"
+      },
+      "one_liner": "The Psycho-analytical theory of crime was put forward by **Sigmund Freud**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

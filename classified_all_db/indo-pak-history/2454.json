@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who else, apart from Mulla Do Piyaza, was labeled as an Advisor in Akbar's court according to the visual representation?",
+      "options": {
+        "a": "Birbal",
+        "b": "Todar Mal",
+        "c": "Man Singh",
+        "d": "Fakiri"
+      },
+      "one_liner": "Birbal is also labeled as an **Advisor** in Akbar's court along with Mulla Do Piyaza in the visual representation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

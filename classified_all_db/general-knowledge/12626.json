@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times has the International Committee of the Red Cross (ICRC) been awarded the Nobel Peace Prize?",
+      "options": {
+        "a": "Once",
+        "b": "Twice",
+        "c": "Three times",
+        "d": "Four times"
+      },
+      "one_liner": "The International Committee of the Red Cross (ICRC) has been honored with the Nobel Peace Prize on **three** separate occasions.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

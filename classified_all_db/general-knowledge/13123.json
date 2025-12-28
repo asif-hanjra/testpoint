@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Emperor of the Russian Empire who abdicated during the February Revolution?",
+      "options": {
+        "a": "Nicholas I",
+        "b": "Alexander II",
+        "c": "Peter the Great",
+        "d": "Nicholas II"
+      },
+      "one_liner": "The Emperor of the Russian Empire who abdicated during the February Revolution was **Nicholas II**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Vladimir Lenin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

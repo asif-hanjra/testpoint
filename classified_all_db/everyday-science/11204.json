@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Penicillin invented?",
+      "options": {
+        "a": "1912",
+        "b": "1928",
+        "c": "1945",
+        "d": "1936"
+      },
+      "one_liner": "Penicillin was invented in the year **1928**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

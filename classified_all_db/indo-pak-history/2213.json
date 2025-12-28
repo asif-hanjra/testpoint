@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Indian Khilafat deputation visit England to record their protest before Lloyd George?",
+      "options": {
+        "a": "1919",
+        "b": "1920",
+        "c": "1921",
+        "d": "1922"
+      },
+      "one_liner": "The Indian Khilafat deputation visited England in **1920** to record their protest before Lloyd George.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

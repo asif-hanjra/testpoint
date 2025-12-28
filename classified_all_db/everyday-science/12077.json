@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Anaemia can also be caused by the deficiency of which mineral?",
+      "options": {
+        "a": "Iodine",
+        "b": "Iron",
+        "c": "Copper",
+        "d": "Calcium"
+      },
+      "one_liner": "A lack of **iron** in the diet can lead to anaemia.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

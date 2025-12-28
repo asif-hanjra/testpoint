@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Dr Abdus Salam win the Nobel Prize in Physics?",
+      "options": {
+        "a": "1975",
+        "b": "1979",
+        "c": "1982",
+        "d": "1985"
+      },
+      "one_liner": "Dr Abdus Salam was awarded the Nobel Prize in Physics in **1979** for his significant contributions to science.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

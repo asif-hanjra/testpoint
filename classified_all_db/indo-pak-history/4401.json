@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Governor General of India when the Government of India Act (1935) was passed?",
+      "options": {
+        "a": "Lord Linlithgow",
+        "b": "Lord Willingdon",
+        "c": "Lord Dalhousie",
+        "d": "Lord Canning"
+      },
+      "one_liner": "The Government of India Act (1935) was passed during the tenure of **Lord Willingdon** as Governor General.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who fought in the Battle of Kamal?",
+      "options": {
+        "a": "Aurangzeb and Ahmad Shah Abdali",
+        "b": "Muhammad Shah and Nadir Shah",
+        "c": "Akbar and Rana Pratap",
+        "d": "None of these"
+      },
+      "one_liner": "The Battle of Kamal was fought between **Mughal Emperor Muhammad Shah** and **Nadir Shah**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

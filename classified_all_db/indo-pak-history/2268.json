@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Sayyid Ahmad Shaheed martyred along with his friends in 1831?",
+      "options": {
+        "a": "Delhi",
+        "b": "Balakot",
+        "c": "Lucknow",
+        "d": "None of these"
+      },
+      "one_liner": "Sayyid Ahmad Shaheed and his companions were martyred at **Balakot** in 1831.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A = {1,2,3,4,6} B= {2,4,5,7} then B-A =?",
+      "options": {
+        "a": "{2,3,4}",
+        "b": "{4,5,7}",
+        "c": "{2,6,4}",
+        "d": "none"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was depicted as a Singer in Akbar's court in the visual representation?",
+      "options": {
+        "a": "Tansen",
+        "b": "Faizi",
+        "c": "Man Singh",
+        "d": "Birbal"
+      },
+      "one_liner": "Tansen is shown as the **Singer** in Akbar's court according to the visual representation.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

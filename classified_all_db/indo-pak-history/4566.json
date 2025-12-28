@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the Bengali novel Ananda Math, from which 'Vande Mataram' was taken?",
+      "options": {
+        "a": "Rabindranath Tagore",
+        "b": "Bankim Chandra Chatterjee",
+        "c": "Sarat Chandra Chattopadhyay",
+        "d": "None of these"
+      },
+      "one_liner": "The author of the Bengali novel 'Ananda Math', from which 'Vande Mataram' was taken, is **Bankim Chandra Chatterjee**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who founded the Rashtriya Swayam Sevak Sangh (RSS) and where was it established in 1925?",
+      "options": {
+        "a": "B.S. Moonje at Pune",
+        "b": "K.B. Hedgewar at Nagpur",
+        "c": "M.S. Golwalkar at Delhi",
+        "d": "None of these"
+      },
+      "one_liner": "The Rashtriya Swayam Sevak Sangh (RSS) was founded by **K.B. Hedgewar at Nagpur in 1925**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Malabar Riot",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

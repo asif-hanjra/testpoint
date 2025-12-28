@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What reforms were proposed for the North West Frontier Province and Baluchistan in the Delhi Proposals?",
+      "options": {
+        "a": "No reforms",
+        "b": "Reforms only in NWFP",
+        "c": "Reforms on the same footing as other provinces",
+        "d": "None of these"
+      },
+      "one_liner": "The Delhi Proposals called for **reforms in the North West Frontier Province and Baluchistan on the same footing as any other province of India**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

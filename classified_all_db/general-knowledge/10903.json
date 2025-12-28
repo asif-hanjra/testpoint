@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is a duty in the context of international trade?",
+      "options": {
+        "a": "A tax on property",
+        "b": "A tax on imports and exports",
+        "c": "A tax on income",
+        "d": "None of these"
+      },
+      "one_liner": "A duty refers to a tax that is imposed on **imports and exports** in international trade.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

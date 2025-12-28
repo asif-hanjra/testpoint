@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If b^n = b^m, then what values of m and n satisfies the equation, (for b ≠ 0)?",
+      "options": {
+        "a": "m = 0 and n = 0",
+        "b": "n = 1 and m = 0",
+        "c": "n = 0 and m = 1",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

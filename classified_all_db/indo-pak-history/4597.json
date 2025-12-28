@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the significance of Vasco da Gama's first voyage to India?",
+      "options": {
+        "a": "Discovery of America",
+        "b": "Discovery of Australia",
+        "c": "Discovery of the sea route to India via the Cape of Good Hope",
+        "d": "Discovery of the Pacific Ocean"
+      },
+      "one_liner": "Vasco da Gama's first voyage to India was significant because it resulted in the **discovery of the sea route to India via the Cape of Good Hope**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

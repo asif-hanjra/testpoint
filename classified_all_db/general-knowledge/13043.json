@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who formally elects the president and vice president of the United States after the general election?",
+      "options": {
+        "a": "Supreme Court",
+        "b": "Electoral College",
+        "c": "Congress",
+        "d": "Senate"
+      },
+      "one_liner": "After the general election, the president and vice president of the United States are formally elected by the **Electoral College**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which direction does a compass needle always point?",
+      "options": {
+        "a": "East",
+        "b": "West",
+        "c": "South",
+        "d": "North"
+      },
+      "one_liner": "A compass needle always points towards the **North** direction.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

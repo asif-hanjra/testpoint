@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many members were proposed for the Upper House (Council of the State) in the Nehru Report?",
+      "options": {
+        "a": "200",
+        "b": "300",
+        "c": "150",
+        "d": "None of these"
+      },
+      "one_liner": "According to the Nehru Report, the Upper House (Council of the State) was to have **200 members**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

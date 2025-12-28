@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city is known as the City of Saints?",
+      "options": {
+        "a": "Lahore",
+        "b": "Multan",
+        "c": "Karachi",
+        "d": "Peshawar"
+      },
+      "one_liner": "Multan is famously referred to as the **City of Saints** due to its historical association with Sufi shrines and spiritual leaders.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Shah Rukn-e-Alam",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Bahauddin Zakariya",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

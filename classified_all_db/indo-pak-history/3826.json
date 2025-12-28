@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Viceroy of India during the formation of the Muslim League?",
+      "options": {
+        "a": "Lord Minto",
+        "b": "Lord Linlithgow",
+        "c": "Lord Lytton",
+        "d": "Lord Canning"
+      },
+      "one_liner": "The Viceroy of India at the time of the formation of the Muslim League was **Lord Minto**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

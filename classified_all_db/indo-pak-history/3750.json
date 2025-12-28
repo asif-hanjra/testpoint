@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "After the British conquest of Delhi, where was Bahadur Shah Zafar exiled?",
+      "options": {
+        "a": "Rangoon",
+        "b": "Calcutta",
+        "c": "Lahore",
+        "d": "Hyderabad"
+      },
+      "one_liner": "Following the British conquest of Delhi, Bahadur Shah Zafar was exiled to **Rangoon**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

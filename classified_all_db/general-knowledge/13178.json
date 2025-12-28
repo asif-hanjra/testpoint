@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the term 'hung parliament' refer to?",
+      "options": {
+        "a": "A parliament with no opposition",
+        "b": "A parliament with no majority party",
+        "c": "A parliament with only one party",
+        "d": "None of these"
+      },
+      "one_liner": "A hung parliament refers to a situation where **no single party has a majority in the house**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

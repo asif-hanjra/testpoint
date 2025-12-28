@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many years did Humayun live in exile after being ousted?",
+      "options": {
+        "a": "10 years",
+        "b": "12 years",
+        "c": "15 years",
+        "d": "20 years"
+      },
+      "one_liner": "After being ousted, Humayun lived in exile for **15 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which region did Moinuddin Chisti originate?",
+      "options": {
+        "a": "Delhi",
+        "b": "Sistan",
+        "c": "Baghdad",
+        "d": "Samarkand"
+      },
+      "one_liner": "Moinuddin Chisti originated from **Sistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

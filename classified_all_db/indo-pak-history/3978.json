@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who acted as regent for Duleep Singh when he was five years old?",
+      "options": {
+        "a": "Ranjit Singh",
+        "b": "Jind Kaur",
+        "c": "Queen Victoria",
+        "d": "None of these"
+      },
+      "one_liner": "Duleep Singh's mother, **Jind Kaur**, served as regent during his early childhood.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

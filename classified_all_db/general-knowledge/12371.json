@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote the novel 'Sense and Sensibility'?",
+      "options": {
+        "a": "Charlotte Bronte",
+        "b": "Jane Austen",
+        "c": "Emily Dickinson",
+        "d": "None of these"
+      },
+      "one_liner": "The famous novel 'Sense and Sensibility' was authored by **Jane Austen**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

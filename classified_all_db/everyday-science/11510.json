@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Ultra Sound invented by Ian Donald?",
+      "options": {
+        "a": "1945",
+        "b": "1950",
+        "c": "1960",
+        "d": "1970"
+      },
+      "one_liner": "The invention of Ultra Sound by Ian Donald took place in the year **1950**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

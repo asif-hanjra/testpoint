@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the legislative assembly in Tajikistan?",
+      "options": {
+        "a": "Majlis-e-Shura",
+        "b": "Majlisi Oli",
+        "c": "Supreme Soviet",
+        "d": "None of these"
+      },
+      "one_liner": "The legislative assembly of Tajikistan is known as the **Majlisi Oli**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

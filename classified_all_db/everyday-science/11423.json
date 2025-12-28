@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the thyroid gland situated?",
+      "options": {
+        "a": "Neck",
+        "b": "Chest",
+        "c": "Brain",
+        "d": "Abdomen"
+      },
+      "one_liner": "The thyroid gland is found in the **neck**, just below the Adam's apple.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

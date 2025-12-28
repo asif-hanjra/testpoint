@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was a prominent Sufi saint of the Suhrawardia order?",
+      "options": {
+        "a": "Moinuddin Chishti",
+        "b": "Baha-ud-Din Zakariya",
+        "c": "Data Ganj Bakhsh",
+        "d": "Shah Waliullah"
+      },
+      "one_liner": "A prominent Sufi saint of the Suhrawardia order was **Baha-ud-Din Zakariya**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

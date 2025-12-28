@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who fired the first bullet in the War of Independence?",
+      "options": {
+        "a": "Bahadur Shah Zafar",
+        "b": "Mangal Panday",
+        "c": "Tantia Tope",
+        "d": "None of these"
+      },
+      "one_liner": "The first bullet in the War of Independence was fired by **Mangal Panday**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

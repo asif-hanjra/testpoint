@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the SAARC summit held in Dhaka, Bangladesh?",
+      "options": {
+        "a": "2003",
+        "b": "2005",
+        "c": "2007",
+        "d": "2010"
+      },
+      "one_liner": "The SAARC summit took place in Dhaka, Bangladesh, in the year **2005**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "South Asian Association for Regional Cooperation (SAARC)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

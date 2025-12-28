@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of religious site are the Katas Raj Temples in Pakistan?",
+      "options": {
+        "a": "Buddhist temples",
+        "b": "Mosques",
+        "c": "Hindu temples",
+        "d": "Churches"
+      },
+      "one_liner": "The Katas Raj Temples in Pakistan are a group of **Hindu temples**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Vedic Age",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

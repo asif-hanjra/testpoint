@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the founder of Jamiat Ulema-e-Islam?",
+      "options": {
+        "a": "Maulana Maududi",
+        "b": "Allama Shabir Ahmad Usmani",
+        "c": "Maulana Shaukat Ali",
+        "d": "None of these"
+      },
+      "one_liner": "Jamiat Ulema-e-Islam was founded by **Allama Shabir Ahmad Usmani**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

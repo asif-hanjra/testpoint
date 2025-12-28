@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which one of the following is not true about the empty set?",
+      "options": {
+        "a": "Empty set is the sub set of itself",
+        "b": "Empty set is not the sub set of every set",
+        "c": "The intersection with any set is empty set",
+        "d": "Empty set is the sub set of every set"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

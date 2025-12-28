@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Chaudhry Rehmat Ali, the person who proposed the name Pakistan, buried?",
+      "options": {
+        "a": "Lahore",
+        "b": "Islamabad",
+        "c": "Cambridge",
+        "d": "Karachi"
+      },
+      "one_liner": "Chaudhry Rehmat Ali, who coined the name Pakistan, is buried in **Cambridge**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

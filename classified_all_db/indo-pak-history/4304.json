@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which newspaper did Maulana Muhammad Ali Jauhar publish in Urdu?",
+      "options": {
+        "a": "The Comrade",
+        "b": "Hamdard",
+        "c": "Zamindar",
+        "d": "Al-Hilal"
+      },
+      "one_liner": "Maulana Muhammad Ali Jauhar published the Urdu newspaper **Hamdard**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

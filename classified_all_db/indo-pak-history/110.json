@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which language was the book Kashf Al Mahjub written?",
+      "options": {
+        "a": "Arabic",
+        "b": "Urdu",
+        "c": "Persian",
+        "d": "None of these"
+      },
+      "one_liner": "The book Kashf Al Mahjub was written in the **Persian** language by Hazrat Data Ganj Bakhsh.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

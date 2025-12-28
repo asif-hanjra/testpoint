@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the term 'small talk' refer to?",
+      "options": {
+        "a": "A lengthy debate",
+        "b": "A brief discussion",
+        "c": "A formal meeting",
+        "d": "None of these"
+      },
+      "one_liner": "The term 'small talk' refers to a **brief discussion** between people, often about non-essential topics.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

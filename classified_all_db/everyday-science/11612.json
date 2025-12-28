@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What factor does the boiling point of water depend upon?",
+      "options": {
+        "a": "Atmospheric pressure",
+        "b": "Volume of water",
+        "c": "Color of container",
+        "d": "Type of salt added"
+      },
+      "one_liner": "The boiling point of water is influenced by the **atmospheric pressure** present at a given location.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

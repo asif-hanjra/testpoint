@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "If 1 < x  2, then the value of √(x - 1)^2 + √(3 - x)^2?",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "2",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2021
+}

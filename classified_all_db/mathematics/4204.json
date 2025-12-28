@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A ∪ B= {a, c, e, i, m, n, o} and A ∩ B={e, i, o}. Then AΔB is _____?",
+      "options": {
+        "a": "{a, c, m, n}",
+        "b": "{a, m, n}",
+        "c": "{a, c, e}",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

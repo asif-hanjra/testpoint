@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many seats did the All India Muslim League win in the provincial elections of 1945-1946?",
+      "options": {
+        "a": "428",
+        "b": "396",
+        "c": "500",
+        "d": "None of these"
+      },
+      "one_liner": "In the provincial elections of 1945-1946, the All India Muslim League secured a total of **428 seats**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

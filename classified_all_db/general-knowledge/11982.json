@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Khawaja Ghulam Farid perform Hajj?",
+      "options": {
+        "a": "1870",
+        "b": "1876",
+        "c": "1880",
+        "d": "1890"
+      },
+      "one_liner": "Khawaja Ghulam Farid performed Hajj in the year **1876**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

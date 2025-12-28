@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which empire fell as a result of the Second Anglo-Sikh War?",
+      "options": {
+        "a": "Mughal Empire",
+        "b": "Sikh Empire",
+        "c": "Maratha Empire",
+        "d": "None of these"
+      },
+      "one_liner": "The **Sikh Empire** collapsed following its defeat in the Second Anglo-Sikh War.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

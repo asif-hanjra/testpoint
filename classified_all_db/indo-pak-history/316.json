@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many lists of subjects were introduced under the Government of India Act, 1935?",
+      "options": {
+        "a": "Two",
+        "b": "Three",
+        "c": "Four",
+        "d": "Five"
+      },
+      "one_liner": "The Government of India Act, 1935 introduced **three lists of subjects: federal, provincial, and concurrent**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

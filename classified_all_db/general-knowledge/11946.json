@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which nationality did William Shakespeare belong to?",
+      "options": {
+        "a": "French",
+        "b": "English",
+        "c": "German",
+        "d": "Italian"
+      },
+      "one_liner": "The famous poet and playwright William Shakespeare was of **English** nationality.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

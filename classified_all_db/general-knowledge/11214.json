@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city is the headquarters of the International Monetary Fund (IMF) located?",
+      "options": {
+        "a": "New York, USA",
+        "b": "Washington D.C., USA",
+        "c": "Beijing, China",
+        "d": "Manila, Philippines"
+      },
+      "one_liner": "The International Monetary Fund (IMF) is headquartered in **Washington D.C., USA**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "BRICS",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

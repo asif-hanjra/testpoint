@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the main outcome of the Second Round Table Conference?",
+      "options": {
+        "a": "Complete agreement",
+        "b": "Many disagreements, conference deemed a failure",
+        "c": "Immediate independence",
+        "d": "None of these"
+      },
+      "one_liner": "The Second Round Table Conference was considered a failure due to **many disagreements among the participants**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

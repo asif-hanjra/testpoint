@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who started the 'Quit India Movement'?",
+      "options": {
+        "a": "Jinnah",
+        "b": "Gandhi",
+        "c": "Nehru",
+        "d": "Patel"
+      },
+      "one_liner": "The 'Quit India Movement' was started by the Congress party under the leadership of **Gandhi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

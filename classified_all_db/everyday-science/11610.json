@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a source of Vitamin E?",
+      "options": {
+        "a": "Almonds",
+        "b": "Eggs",
+        "c": "Leafy green vegetables",
+        "d": "Citrus fruits"
+      },
+      "one_liner": "Eggs, almonds, and leafy green vegetables are all sources of **Vitamin E**, but citrus fruits are not.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

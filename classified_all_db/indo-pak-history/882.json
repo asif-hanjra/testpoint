@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to the Wavell Plan of 1945, what was the British government's intention regarding constitutional reforms in India?",
+      "options": {
+        "a": "Introduce reforms without Indian input",
+        "b": "Introduce constitutional reforms with consent of Indian political powers",
+        "c": "Delay reforms indefinitely",
+        "d": "None of these"
+      },
+      "one_liner": "The Wavell Plan of 1945 proposed that the British government would introduce constitutional reforms in India with the consent of Indian political powers, highlighting the importance of local agreement in the reform process.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Wavell Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Wavell Plan",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

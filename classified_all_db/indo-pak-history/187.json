@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Why did Quaid-e-Azam resign from the membership of the Imperial Legislative Council?",
+      "options": {
+        "a": "Rowlatt Act",
+        "b": "Simon Commission",
+        "c": "Nehru Report",
+        "d": "None of these"
+      },
+      "one_liner": "Quaid-e-Azam resigned from the Imperial Legislative Council due to the passage of the **Rowlatt Act**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

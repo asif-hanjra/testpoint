@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which medicine is commonly used to treat malaria?",
+      "options": {
+        "a": "Chloroquine",
+        "b": "Paracetamol",
+        "c": "Ibuprofen",
+        "d": "None of these"
+      },
+      "one_liner": "The medicine most commonly used for the treatment of malaria is **Chloroquine**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Devices Used for Diagnosis or Treatment",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Three cars start off from the same point. Car ‘A’ drove 20 kms towards East, car ‘B’ drove 20kms towards West and car ‘C’ drove 30 kms towards North. Car ‘A’ turned and drove 30 kms to North and car ‘C’ drove 20 kms to East. How far Car ‘A’ is from Car ‘B’?",
+      "options": {
+        "a": "50 kms",
+        "b": "30 kms",
+        "c": "40 kms",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is known as Sultan-ul-Hind and is the most famous Sufi saint of the Chishti Order in the Indian Subcontinent?",
+      "options": {
+        "a": "Nizamuddin Auliya",
+        "b": "Moinuddin Chisti",
+        "c": "Bahauddin Zakariya",
+        "d": "None of these"
+      },
+      "one_liner": "The title of Sultan-ul-Hind, the most renowned Sufi saint of the Chishti Order in the Indian Subcontinent, belongs to **Moinuddin Chisti**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

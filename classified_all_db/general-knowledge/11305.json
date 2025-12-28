@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which port in Pakistan handles nearly 60% of the country's national shipments?",
+      "options": {
+        "a": "Gwadar Port",
+        "b": "Karachi Port & Harbour",
+        "c": "Port Muhammad Bin Qasim",
+        "d": "Gadani Harbour"
+      },
+      "one_liner": "Karachi Port & Harbour is the busiest in Pakistan, handling approximately **60% of the nation's shipments**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Important Seaports of the World",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

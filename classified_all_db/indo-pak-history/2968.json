@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Quaid-e-Azam Muhammad Ali Jinnah start his law practice?",
+      "options": {
+        "a": "Lahore",
+        "b": "Karachi",
+        "c": "Delhi",
+        "d": "Mumbai"
+      },
+      "one_liner": "Quaid-e-Azam Muhammad Ali Jinnah began his law practice in **Mumbai**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

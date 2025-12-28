@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "اکیلے شعر کو کیا کہا جاتا ہے؟",
+      "options": {
+        "a": "فرد",
+        "b": "قطعہ",
+        "c": "غزل",
+        "d": "ان میں سے کوئی نہیں"
+      },
+      "one_liner": "اکیلے شعر کو **فرد** کہا جاتا ہے۔",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "اردوشاعری کی اصناف"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

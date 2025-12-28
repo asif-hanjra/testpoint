@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For what value of λ the system [1 3, 3 λ][x y] = [1 3] has infinitely many solutions?",
+      "options": {
+        "a": "λ = 9",
+        "b": "λ = 6",
+        "c": "λ = 8",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

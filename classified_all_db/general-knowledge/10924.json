@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two countries declared war on Germany after it invaded Poland?",
+      "options": {
+        "a": "Italy and Japan",
+        "b": "France and United Kingdom",
+        "c": "Soviet Union and USA",
+        "d": "China and Soviet Union"
+      },
+      "one_liner": "After Germany invaded Poland, **France and the United Kingdom** declared war on Germany.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "League of Nations (1920)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

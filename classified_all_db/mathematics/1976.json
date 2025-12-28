@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A∪B=A, then we can interpret this as _____?",
+      "options": {
+        "a": "B⊃A",
+        "b": "A∩B=A",
+        "c": "A∩B=B",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

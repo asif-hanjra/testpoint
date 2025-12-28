@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Molana Jalal ud Din Roomi born?",
+      "options": {
+        "a": "Balkh (Afghanistan)",
+        "b": "Baghdad (Iraq)",
+        "c": "Konya (Turkey)",
+        "d": "Damascus (Syria)"
+      },
+      "one_liner": "Molana Jalal ud Din Roomi was born in **Balkh, Afghanistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

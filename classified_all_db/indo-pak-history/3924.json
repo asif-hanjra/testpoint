@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Maharaja Ranjit Singh capture Lahore, marking the beginning of the Sikh Empire?",
+      "options": {
+        "a": "1799",
+        "b": "1801",
+        "c": "1849",
+        "d": "1780"
+      },
+      "one_liner": "Maharaja Ranjit Singh captured Lahore in **1799**, marking the beginning of the Sikh Empire.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which acid is present in the gastric juice of our stomach and aids in food breakdown?",
+      "options": {
+        "a": "Sulphuric acid",
+        "b": "Hydrochloric acid",
+        "c": "Acetic acid",
+        "d": "Citric acid"
+      },
+      "one_liner": "The acid that helps break down food in our stomach is **hydrochloric acid**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

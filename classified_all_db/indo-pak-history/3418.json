@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the main objective of the plan announced by Lord Mountbatten on 3rd June 1947?",
+      "options": {
+        "a": "Formation of Indian National Congress",
+        "b": "Partition of the Subcontinent",
+        "c": "Quit India Movement",
+        "d": "None of these"
+      },
+      "one_liner": "The main objective of the plan announced by Lord Mountbatten on 3rd June 1947 was the **partition of the Subcontinent**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

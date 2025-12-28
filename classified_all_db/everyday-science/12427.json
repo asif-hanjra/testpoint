@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the average lifespan of Red Blood Cells in the human body?",
+      "options": {
+        "a": "60 days",
+        "b": "90 days",
+        "c": "120 days",
+        "d": "150 days"
+      },
+      "one_liner": "The average lifespan of Red Blood Cells in the human body is **120 days**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

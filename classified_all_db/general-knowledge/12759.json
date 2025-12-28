@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book \"Conversations With Myself\"?",
+      "options": {
+        "a": "Barack Obama",
+        "b": "Nelson Mandela",
+        "c": "Mahatma Gandhi",
+        "d": "None of these"
+      },
+      "one_liner": "The book \"Conversations With Myself\" was authored by **Nelson Mandela**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

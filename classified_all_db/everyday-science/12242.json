@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the general chemical equation for photosynthesis?",
+      "options": {
+        "a": "Water + CO2 + Sunlight = Glucose + O2",
+        "b": "O2 + Glucose = Water + CO2",
+        "c": "CO2 + O2 = Water + Glucose",
+        "d": "None of these"
+      },
+      "one_liner": "The general chemical equation for photosynthesis is **Water (H2O) + Carbon dioxide (CO2) + Sunlight = Glucose (sugars) + Oxygen (O2)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Chemical Reactions",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

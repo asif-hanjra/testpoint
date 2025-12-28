@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Quetta struck by a devastating earthquake?",
+      "options": {
+        "a": "1929",
+        "b": "1935",
+        "c": "1947",
+        "d": "1956"
+      },
+      "one_liner": "Quetta experienced a major earthquake in the year **1935**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

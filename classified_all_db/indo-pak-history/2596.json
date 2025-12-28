@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which provinces saw Congress ministries formed after the 1946 elections?",
+      "options": {
+        "a": "Assam, Bihar, Bombay, Central Provinces, Madras, NWFP (Coalition), Orissa, United Provinces",
+        "b": "Bengal, Sind, Punjab, Assam, Bihar",
+        "c": "Punjab, Bengal, Sind, NWFP, Orissa",
+        "d": "None of these"
+      },
+      "one_liner": "After the 1946 elections, Congress ministries were formed in **Assam, Bihar, Bombay, Central Provinces, Madras, NWFP (Coalition), Orissa, and United Provinces**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

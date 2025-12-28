@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Badshahi Mosque constructed under Aurangzeb's rule?",
+      "options": {
+        "a": "1658",
+        "b": "1674",
+        "c": "1707",
+        "d": "1666"
+      },
+      "one_liner": "The Badshahi Mosque was constructed in **1674** during the reign of Aurangzeb.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

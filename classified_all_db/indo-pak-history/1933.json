@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is regarded as the founder of modern Afghanistan?",
+      "options": {
+        "a": "Ahmad Shah Durrani",
+        "b": "Dost Mohammad Khan",
+        "c": "Abdur Rahman Khan",
+        "d": "Zahir Shah"
+      },
+      "one_liner": "The person widely regarded as the founder of modern Afghanistan is **Ahmad Shah Durrani**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year did the Jallianwala Bagh massacre occur?",
+      "options": {
+        "a": "March 1919",
+        "b": "April 1919",
+        "c": "May 1919",
+        "d": "June 1919"
+      },
+      "one_liner": "The Jallianwala Bagh massacre took place in **April 1919**, when British troops fired on unarmed civilians in Amritsar.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

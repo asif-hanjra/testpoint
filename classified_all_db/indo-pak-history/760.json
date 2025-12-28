@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the original nature of the Hindu Mahasabha when it began?",
+      "options": {
+        "a": "A full-fledged political party",
+        "b": "A socio-religious movement",
+        "c": "A military organization",
+        "d": "None of these"
+      },
+      "one_liner": "The Hindu Mahasabha initially began as a **socio-religious movement** before evolving politically.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "In matrices (AB)-¹ = ____?",
+      "options": {
+        "a": "1-AB",
+        "b": "B-¹.A-¹",
+        "c": "A-¹.B-¹",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

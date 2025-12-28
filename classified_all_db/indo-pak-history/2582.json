@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two books of Allama Iqbal were translated into Arabic by Dr. Abdul Wahab Azzam?",
+      "options": {
+        "a": "Bang-e-Dra and Bal-e-Jibril",
+        "b": "Zarab-e-Kalim and Payam-e-Mashriq",
+        "c": "Asrar-e-Khudi and Rumuz-e-Bekhudi",
+        "d": "None of these"
+      },
+      "one_liner": "The books Zarab-e-Kalim and Payam-e-Mashriq by Allama Iqbal were translated into Arabic by **Dr. Abdul Wahab Azzam**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcq": [
+    {
+      "statement": "غالب کہاں دفن ہیں؟",
+      "options": {
+        "a": "لاہور",
+        "b": "جھنگ",
+        "c": "دہلی",
+        "d": "ان میں سے کوئی نہیں"
+      },
+      "one_liner": "غالب کو **دہلی** میں دفن کیا گیا ہے۔",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

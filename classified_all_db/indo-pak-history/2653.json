@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which theory did Allama Iqbal support in his Allahabad Address of 1930?",
+      "options": {
+        "a": "One Nation Theory",
+        "b": "Communal Award",
+        "c": "Two Nation Theory",
+        "d": "None of these"
+      },
+      "one_liner": "In his Allahabad Address of 1930, Allama Iqbal supported the **Two Nation Theory**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Allahabad Address 1930",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Allahabad Address 1930",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

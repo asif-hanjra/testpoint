@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a part of the middle ear?",
+      "options": {
+        "a": "Hammer",
+        "b": "Anvil",
+        "c": "Stirrup",
+        "d": "Cochlea"
+      },
+      "one_liner": "The **Cochlea** is not a part of the middle ear; it belongs to the inner ear.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Ear",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

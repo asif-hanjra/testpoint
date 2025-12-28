@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A matrix have order m × n and B matrix order of n × p then the order of product A.B is?",
+      "options": {
+        "a": "n × p",
+        "b": "m × p",
+        "c": "p × n",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

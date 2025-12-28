@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who authored the book 'Humayun Nama'?",
+      "options": {
+        "a": "Bega Begum",
+        "b": "Gulbadan Begum",
+        "c": "Hamida Banu Begum",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'Humayun Nama' was written by Humayun's sister, **Gulbadan Begum**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

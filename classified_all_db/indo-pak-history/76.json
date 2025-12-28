@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the cause of Maharaja Ranjeet Singh's left eye infection?",
+      "options": {
+        "a": "Small Pox",
+        "b": "Battle injury",
+        "c": "Congenital defect",
+        "d": "None of these"
+      },
+      "one_liner": "Maharaja Ranjeet Singh's left eye was infected due to **Small Pox**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

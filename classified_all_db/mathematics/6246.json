@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Given that 10^0.48 = x, 10^0.70 = y and x^z = y^2, then the value of z is closest to _____?",
+      "options": {
+        "a": "2.9",
+        "b": "1.45",
+        "c": "1.88",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2021
+}

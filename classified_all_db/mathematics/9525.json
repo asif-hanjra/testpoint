@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "[2x²(1 + 3x) - {(1 + 4x² - 2x) (5x - 1)}]=?",
+      "options": {
+        "a": "-14x³ + 16x² - 7x + 1",
+        "b": "-14x³ + 16x² - 5x + 1",
+        "c": "-14x³ + 16x² + 5x + 1",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

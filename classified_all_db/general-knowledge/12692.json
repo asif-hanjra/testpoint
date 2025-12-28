@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was Dwight D. Eisenhower's profession before becoming President?",
+      "options": {
+        "a": "Lawyer",
+        "b": "Army General",
+        "c": "Scientist",
+        "d": "Businessman"
+      },
+      "one_liner": "Before becoming President, **Dwight D. Eisenhower** was an American army general.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country does the 'Al-Amal Mission' belong to?",
+      "options": {
+        "a": "Saudi Arabia",
+        "b": "United Arab Emirates",
+        "c": "Qatar",
+        "d": "Egypt"
+      },
+      "one_liner": "The 'Al-Amal Mission' is a space mission that belongs to the **United Arab Emirates**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

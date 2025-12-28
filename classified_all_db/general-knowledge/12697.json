@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is Hagia Sophia significant?",
+      "options": {
+        "a": "Modern architecture",
+        "b": "Cultural and historical importance",
+        "c": "Religious festivals",
+        "d": "None of these"
+      },
+      "one_liner": "Hagia Sophia is significant for its **cultural and historical importance**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Hagia Sophia",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Blue Mosque: Istanbul",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Hagia Sophia",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

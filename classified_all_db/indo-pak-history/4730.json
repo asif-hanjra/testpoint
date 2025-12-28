@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who started the construction of Qutab Minar in Delhi?",
+      "options": {
+        "a": "Iltutmish",
+        "b": "Qutb ud-Din Aibak",
+        "c": "Alauddin Khilji",
+        "d": "Firoz Shah Tughlaq"
+      },
+      "one_liner": "The construction of Qutab Minar in Delhi was initiated by **Qutb ud-Din Aibak**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

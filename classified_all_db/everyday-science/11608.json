@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a solid non-metal element?",
+      "options": {
+        "a": "Carbon",
+        "b": "Hydrogen",
+        "c": "Oxygen",
+        "d": "Argon"
+      },
+      "one_liner": "Among non-metal elements, **carbon** is notable for being a solid at room temperature.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which combination of chromosomes is present in females?",
+      "options": {
+        "a": "XX",
+        "b": "XY",
+        "c": "YY",
+        "d": "None of these"
+      },
+      "one_liner": "In humans, the combination of chromosomes present in females is **XX**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

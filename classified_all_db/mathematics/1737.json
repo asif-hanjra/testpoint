@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A is non-singular square matrix, then AA⁻¹ equals ____?",
+      "options": {
+        "a": "A'",
+        "b": "A",
+        "c": "I",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who reunited Bengal in 1911?",
+      "options": {
+        "a": "Lord Curzon",
+        "b": "Lord Minto",
+        "c": "Lord Hardinge",
+        "d": "None of these"
+      },
+      "one_liner": "Bengal was reunited in 1911 by **Lord Hardinge**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

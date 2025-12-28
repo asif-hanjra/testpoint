@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the required uniform bounce height of a table tennis ball on the table?",
+      "options": {
+        "a": "15 cm",
+        "b": "20 cm",
+        "c": "23 cm",
+        "d": "None of these"
+      },
+      "one_liner": "The uniform bounce height of a table tennis ball on the table should be **23 cm (9.1 inches)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For any non-empty set A, a function f: A → A is called ____ function. If domain = range.",
+      "options": {
+        "a": "Bijective",
+        "b": "Injective",
+        "c": "Surjective",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

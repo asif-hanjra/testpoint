@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which hormone is produced by the thyroid gland?",
+      "options": {
+        "a": "Insulin",
+        "b": "Thyroxin",
+        "c": "Adrenaline",
+        "d": "Estrogen"
+      },
+      "one_liner": "The thyroid gland produces the hormone known as **Thyroxin**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

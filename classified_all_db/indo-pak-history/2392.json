@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the All India Muslim League session held in September 1906?",
+      "options": {
+        "a": "Delhi",
+        "b": "Aligarh",
+        "c": "Lucknow",
+        "d": "Lahore"
+      },
+      "one_liner": "The All India Muslim League session in September 1906 was held in **Lucknow**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

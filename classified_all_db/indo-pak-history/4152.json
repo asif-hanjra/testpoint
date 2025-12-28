@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who led the Non-Cooperation Movement after the Jallianwala Bagh Massacre of 1919?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Mahatma Gandhi",
+        "c": "Sardar Patel",
+        "d": "Subhas Chandra Bose"
+      },
+      "one_liner": "The Non-Cooperation Movement was led by **Mahatma Gandhi** following the Jallianwala Bagh Massacre of 1919.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

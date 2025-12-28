@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In the Provincial Elections of 1946, which party won the majority of the general seats?",
+      "options": {
+        "a": "Congress",
+        "b": "Muslim League",
+        "c": "Unionist Party",
+        "d": "Akali Dal"
+      },
+      "one_liner": "In the 1946 Provincial Elections, the majority of general seats were won by the **Congress** party.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What action did Muslims take in the movement that involved leaving their positions in government offices?",
+      "options": {
+        "a": "Resignation from government posts",
+        "b": "Boycott of British goods",
+        "c": "Withdrawal from schools",
+        "d": "None of these"
+      },
+      "one_liner": "Muslims resigned from government posts as part of their protest during the movement.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Malabar Riot",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

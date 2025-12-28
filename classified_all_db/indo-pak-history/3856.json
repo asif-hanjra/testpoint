@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Mirza Ghalib, the famous poet of the sub-continent, die?",
+      "options": {
+        "a": "1857",
+        "b": "1797",
+        "c": "1869",
+        "d": "1800"
+      },
+      "one_liner": "The famous poet Mirza Ghalib died in the year **1797**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

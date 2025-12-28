@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became a rival of Humayun after his defeat from Sher Shah Suri?",
+      "options": {
+        "a": "Kamran Mirza",
+        "b": "Hindal Mirza",
+        "c": "Gulbadan Begum",
+        "d": "Nasir-ud-Din Muhammad"
+      },
+      "one_liner": "After Humayun's defeat by Sher Shah Suri, **Kamran Mirza** became his rival.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

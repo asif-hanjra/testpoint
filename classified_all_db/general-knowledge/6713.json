@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Name the function which is used to find the length of string",
+      "options": {
+        "a": "slen",
+        "b": "length",
+        "c": "strlen()",
+        "d": "none"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

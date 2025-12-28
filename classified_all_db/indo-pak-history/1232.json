@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was proposed as the official language of India in the Nehru Report?",
+      "options": {
+        "a": "English with local languages in provinces",
+        "b": "Hindi only",
+        "c": "Urdu only",
+        "d": "None of these"
+      },
+      "one_liner": "The Nehru Report proposed that **English would be the official language of India, with local languages used in provinces**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

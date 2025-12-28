@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first Malaysian Prime Minister who worked for Malaysia's freedom from the British?",
+      "options": {
+        "a": "Tunku Abdul Rahman",
+        "b": "Mahathir Mohamad",
+        "c": "Najib Razak",
+        "d": "Abdul Razak Hussein"
+      },
+      "one_liner": "The first Malaysian Prime Minister who played a key role in securing Malaysia's freedom from the British was **Tunku Abdul Rahman**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

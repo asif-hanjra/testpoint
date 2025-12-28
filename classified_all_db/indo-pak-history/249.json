@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the first meeting of the Khilafat Committee held?",
+      "options": {
+        "a": "23 November 1919",
+        "b": "11 August 1920",
+        "c": "5 June 1918",
+        "d": "None of these"
+      },
+      "one_liner": "The first meeting of the Khilafat Committee took place on **23 November 1919**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

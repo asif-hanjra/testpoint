@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In response to which report did Quaid-e-Azam Muhammad Ali Jinnah present his 14 Points in 1929?",
+      "options": {
+        "a": "Simon Commission Report",
+        "b": "Nehru Report",
+        "c": "Cripps Mission",
+        "d": "Cabinet Mission"
+      },
+      "one_liner": "Quaid-e-Azam Muhammad Ali Jinnah presented his 14 Points in response to the **Nehru Report** in 1929.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

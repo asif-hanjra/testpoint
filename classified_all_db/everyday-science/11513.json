@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What can ringworm infection cause if it is on the head or hands?",
+      "options": {
+        "a": "Hair fall and nail deformity",
+        "b": "Weight gain",
+        "c": "Malnutrition",
+        "d": "None of these"
+      },
+      "one_liner": "If ringworm infection is on the head, it can cause **hair fall**, and if on the hands, it can **deform nails**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "x + 1/x = 3   We need to find: x³ + 1/x³",
+      "options": {
+        "a": "9",
+        "b": "18",
+        "c": "21",
+        "d": "27"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

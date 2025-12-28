@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who laid the foundation of the Muslim Indo Empire?",
+      "options": {
+        "a": "Qutb Uddin Aibak",
+        "b": "Iltutmish",
+        "c": "Muhammad Ghori",
+        "d": "Alauddin Khilji"
+      },
+      "one_liner": "The foundation of the Muslim Indo Empire was laid by **Qutb Uddin Aibak**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mamluk/Slave Dynasty (1206-1290)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

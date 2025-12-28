@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a conductor of electricity?",
+      "options": {
+        "a": "Water",
+        "b": "Plastic",
+        "c": "Rubber",
+        "d": "Wood"
+      },
+      "one_liner": "**Water** can conduct electricity, especially when it contains dissolved salts or minerals.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

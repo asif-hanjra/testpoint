@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of structure is Big Ben?",
+      "options": {
+        "a": "Bridge",
+        "b": "Palace",
+        "c": "Clock Tower",
+        "d": "Museum"
+      },
+      "one_liner": "Big Ben is a well-known **clock tower**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

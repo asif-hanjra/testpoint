@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If a and b are two integers. ab = -5, and a - b > 0, which of the following is must be true?",
+      "options": {
+        "a": "a > -1",
+        "b": "b is odd",
+        "c": "Both A and B",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

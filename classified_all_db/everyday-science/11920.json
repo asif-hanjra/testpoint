@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the correct meaning of torque?",
+      "options": {
+        "a": "A force that tends to cause rotation",
+        "b": "A force that tends to cause translation",
+        "c": "A force that tends to cause vibration",
+        "d": "None of these"
+      },
+      "one_liner": "Torque refers to a force that tends to cause an object to rotate, making **rotation** its defining effect.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

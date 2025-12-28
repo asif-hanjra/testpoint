@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year did Michael Jackson die?",
+      "options": {
+        "a": "July 2008",
+        "b": "June 2009",
+        "c": "May 2010",
+        "d": "August 2007"
+      },
+      "one_liner": "Michael Jackson passed away in **June 2009**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

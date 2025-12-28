@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which planet is the third from the Sun?",
+      "options": {
+        "a": "Venus",
+        "b": "Earth",
+        "c": "Mars",
+        "d": "Jupiter"
+      },
+      "one_liner": "**Earth** is the third planet from the Sun.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

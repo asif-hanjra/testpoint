@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What system was introduced in the provinces by the Government of India Act, 1919?",
+      "options": {
+        "a": "Federalism",
+        "b": "Bicameralism",
+        "c": "Dyarchy",
+        "d": "None of these"
+      },
+      "one_liner": "The Government of India Act, 1919 introduced the system of **dyarchy** in the provinces.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

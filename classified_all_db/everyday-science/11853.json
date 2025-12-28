@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the main function of the auditory nerve in the ear?",
+      "options": {
+        "a": "Transmits sound waves",
+        "b": "Balances the body",
+        "c": "Carries sound information to the brain",
+        "d": "Protects the ear"
+      },
+      "one_liner": "The **Auditory Nerve** carries sound information from the cochlea to the brain.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Ear",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

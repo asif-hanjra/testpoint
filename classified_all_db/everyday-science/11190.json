@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered the blood circulatory system?",
+      "options": {
+        "a": "William Harvey",
+        "b": "Alexander Fleming",
+        "c": "Louis Pasteur",
+        "d": "Edward Jenner"
+      },
+      "one_liner": "The blood circulatory system was discovered by **William Harvey**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

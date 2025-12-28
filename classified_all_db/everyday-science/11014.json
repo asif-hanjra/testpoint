@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the chemical name for baking soda?",
+      "options": {
+        "a": "Sodium bicarbonate",
+        "b": "Sodium carbonate",
+        "c": "Sodium chloride",
+        "d": "Potassium bicarbonate"
+      },
+      "one_liner": "Baking soda is chemically referred to as **sodium bicarbonate (NaHCO3)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

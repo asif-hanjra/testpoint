@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which famous French leader was defeated at the Battle of Waterloo?",
+      "options": {
+        "a": "Louis XVI",
+        "b": "Napoleon",
+        "c": "Charles de Gaulle",
+        "d": "None of these"
+      },
+      "one_liner": "The famous French leader defeated at the Battle of Waterloo was **Napoleon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Battle of Waterloo (1815)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Napoleon Bonaparte",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Battle of Waterloo (1815)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who launched the 'Divide and Quit India Movement' in response to Gandhi's Quit India Movement?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Muhammad Ali Jinnah",
+        "d": "Maulana Azad"
+      },
+      "one_liner": "In response to Gandhi's Quit India Movement, **Muhammad Ali Jinnah** launched the 'Divide and Quit India Movement'.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quit India Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who fought the Opium War with China?",
+      "options": {
+        "a": "French",
+        "b": "British",
+        "c": "Portuguese",
+        "d": "Dutch"
+      },
+      "one_liner": "The British were the main opponents of China in the Opium War.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

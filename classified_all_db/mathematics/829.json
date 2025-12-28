@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the derivative of sin²x?",
+      "options": {
+        "a": "cos²x",
+        "b": "2 sin x",
+        "c": "sin(2x)",
+        "d": "2 sin x · cos x"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

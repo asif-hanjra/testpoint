@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where are the Katas Raj Temples located in Pakistan?",
+      "options": {
+        "a": "Lahore",
+        "b": "Chakwal District",
+        "c": "Karachi",
+        "d": "Multan"
+      },
+      "one_liner": "The Katas Raj Temples are situated in the **Chakwal District** of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Vedic Age",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

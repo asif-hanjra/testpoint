@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was the first to implement the Goods and Services Tax (GST)?",
+      "options": {
+        "a": "India",
+        "b": "France",
+        "c": "Australia",
+        "d": "Germany"
+      },
+      "one_liner": "France was the first country to implement the Goods and Services Tax, making it a pioneer in GST adoption.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

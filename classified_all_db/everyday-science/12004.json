@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the smallest bone in the human body and where is it located?",
+      "options": {
+        "a": "Femur in the leg",
+        "b": "Stirrup in the middle ear",
+        "c": "Ulna in the arm",
+        "d": "Tibia in the leg"
+      },
+      "one_liner": "The stirrup, found in the middle ear, is the smallest bone in the human body.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Ear",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

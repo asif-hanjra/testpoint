@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the largest producer of spices in the world?",
+      "options": {
+        "a": "India",
+        "b": "China",
+        "c": "Brazil",
+        "d": "Indonesia"
+      },
+      "one_liner": "India is recognized as the world's largest producer of **spices**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

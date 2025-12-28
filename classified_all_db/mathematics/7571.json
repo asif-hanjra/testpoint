@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If a>b, b>c, and d>a then?",
+      "options": {
+        "a": "b<d",
+        "b": "a<c",
+        "c": "b>d",
+        "d": "c>d"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

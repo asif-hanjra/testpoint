@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the longest cell in the human body?",
+      "options": {
+        "a": "Neuron",
+        "b": "Red blood cell",
+        "c": "Muscle cell",
+        "d": "Epithelial cell"
+      },
+      "one_liner": "The longest cell found in the human body is the **neuron**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Nervous System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

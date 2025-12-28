@@ -8,10 +8,11 @@ import asyncio
 class FileManager:
     """Manages file operations for MCQ database"""
     
-    def __init__(self, classified_path: str, final_path: str, removed_path: str):
+    def __init__(self, classified_path: str, final_path: str = None, removed_path: str = None):
         self.classified_path = Path(classified_path)
-        self.final_path = Path(final_path)
-        self.removed_path = Path(removed_path)
+        # final_path and removed_path are deprecated but kept for backward compatibility
+        self.final_path = Path(final_path) if final_path else None
+        self.removed_path = Path(removed_path) if removed_path else None
         # Calculate project root (parent of classified_path's parent)
         # classified_path is like: project_root/classified_all_db
         self.project_root = self.classified_path.parent
@@ -75,93 +76,40 @@ class FileManager:
         
         return statements
     
-    def copy_all_files(self, subject: str) -> Tuple[int, List[str]]:
-        """Copy all files from classified_db to final_db"""
-        source_path = self.classified_path / subject
-        dest_path = self.final_path / subject
-        
-        # Create destination directory
-        dest_path.mkdir(parents=True, exist_ok=True)
-        
-        copied_files = []
-        errors = []
-        
-        for json_file in source_path.glob("*.json"):
-            try:
-                dest_file = dest_path / json_file.name
-                shutil.copy2(json_file, dest_file)
-                copied_files.append(json_file.name)
-            except Exception as e:
-                errors.append(f"{json_file.name}: {e}")
-        
-        return len(copied_files), errors
-    
-    def move_file(self, subject: str, filename: str, to_removed: bool) -> bool:
-        """Move file between final_db and removed-track (removed_db folder not used)"""
-        try:
-            if to_removed:
-                # Remove from final_db (removed-track will be updated by caller)
-                source = self.final_path / subject / filename
-                if source.exists():
-                    source.unlink()
-                    return True
-            else:
-                # Copy from classified_db to final_db (removed-track will be updated by caller)
-                source = self.classified_path / subject / filename
-                dest_dir = self.final_path / subject
-                dest_dir.mkdir(parents=True, exist_ok=True)
-                dest = dest_dir / filename
-                
-                if source.exists() and not dest.exists():
-                    shutil.copy2(str(source), str(dest))
-                    return True
-                elif dest.exists():
-                    return True  # Already exists
-            
-            return False
-        except Exception as e:
-            return False
-    
-    def copy_file_to_final(self, subject: str, filename: str) -> bool:
-        """Copy file from classified_db to final_db"""
-        try:
-            source = self.classified_path / subject / filename
-            dest_dir = self.final_path / subject
-            dest_dir.mkdir(parents=True, exist_ok=True)
-            dest = dest_dir / filename
-            
-            if source.exists() and not dest.exists():
-                shutil.copy2(str(source), str(dest))
-                return True
-            return False
-        except Exception as e:
-            return False
+    # Obsolete functions removed: copy_all_files, move_file, copy_file_to_final
+    # Now using final-track JSON instead of copying files to final-db
     
     def get_file_status(self, subject: str, filename: str) -> str:
-        """Get current status of file (saved/removed/unknown)"""
-        final_file = self.final_path / subject / filename
-        classified_file = self.classified_path / subject / filename
+        """Get current status of file (saved/removed/unknown)
         
-        # Check if file is in removed-track JSON (instead of removed_db folder)
+        Priority: removed-track > final-track > saved-track > unknown
+        """
+        # Check all tracking files
         removed_files = set(self.load_removed_tracking(subject))
+        final_files = set(self.load_final_tracking(subject))
+        saved_files = set(self.load_saved_tracking(subject))
         
-        # Priority: removed > saved > unknown (removed takes priority)
+        # Priority: removed > final > saved > unknown
         if filename in removed_files:
             return "removed"
-        elif final_file.exists():
+        elif filename in final_files:
             return "saved"
-        elif classified_file.exists():
-            return "unknown"
+        elif filename in saved_files:
+            return "saved"
         else:
             return "unknown"
     
     def get_statistics(self, subject: str) -> Dict:
-        """Get statistics for subject"""
-        final_dir = self.final_path / subject
+        """Get statistics for subject from tracking JSON files"""
+        # Count from tracking JSONs (no file system access needed)
+        final_files = self.load_final_tracking(subject)
+        saved_files = self.load_saved_tracking(subject)
+        removed_files = self.load_removed_tracking(subject)
         
-        final_count = len(list(final_dir.glob("*.json"))) if final_dir.exists() else 0
-        # Count removed files from removed-track JSON (not from removed_db folder)
-        removed_count = len(self.load_removed_tracking(subject))
+        # Total saved = final-track + saved-track (union to avoid duplicates)
+        all_saved = set(final_files).union(set(saved_files))
+        final_count = len(all_saved)
+        removed_count = len(removed_files)
         
         return {
             "final_count": final_count,
@@ -170,45 +118,40 @@ class FileManager:
         }
     
     def clear_subject_files(self, subject: str) -> Tuple[int, int]:
-        """Clear all files from final-db for a subject (removed_duplicates_db not used)"""
-        final_dir = self.final_path / subject
+        """Clear final-track JSON for a subject (no file deletion needed)"""
+        final_track_file = self.project_root / "final-track" / f"{subject}.json"
         
-        final_deleted = 0
+        final_count = 0
         
-        # Delete all files from final-db
-        if final_dir.exists():
-            for json_file in final_dir.glob("*.json"):
-                try:
-                    json_file.unlink()
-                    final_deleted += 1
-                except Exception:
-                    pass
+        # Clear final-track JSON
+        if final_track_file.exists():
+            try:
+                # Count before clearing
+                final_files = self.load_final_tracking(subject)
+                final_count = len(final_files)
+                
+                # Write empty list
+                with open(final_track_file, 'w', encoding='utf-8') as f:
+                    json.dump([], f, indent=2)
+                
+                print(f"[FileManager] Cleared {final_count} files from final-track")
+            except Exception as e:
+                print(f"[FileManager] Error clearing final-track: {e}")
         
-        # Remove directory if it's empty (optional cleanup)
-        try:
-            if final_dir.exists() and not any(final_dir.iterdir()):
-                final_dir.rmdir()
-        except Exception:
-            pass
-        
-        # removed_duplicates_db is not used, so removed_deleted is always 0
-        return final_deleted, 0
+        # Return counts (removed_deleted is always 0)
+        return final_count, 0
     
     def load_mcq_data(self, subject: str, filename: str) -> Dict:
-        """Load MCQ data from file"""
-        # Try final_db first, then classified_db (removed_db folder not used)
-        paths = [
-            self.final_path / subject / filename,
-            self.classified_path / subject / filename
-        ]
+        """Load MCQ data from file (only from classified_db)"""
+        # Load from classified_db only (single source of truth)
+        path = self.classified_path / subject / filename
         
-        for path in paths:
-            if path.exists():
-                try:
-                    with open(path, 'r', encoding='utf-8') as f:
-                        return json.load(f)
-                except Exception as e:
-                    pass
+        if path.exists():
+            try:
+                with open(path, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except Exception as e:
+                print(f"[FileManager] Error loading MCQ data from {path}: {e}")
         
         return {}
     
@@ -322,6 +265,84 @@ class FileManager:
             print(f"[FileManager] Error saving saved tracking file: {e}")
         
         return saved_files
+    
+    def load_final_tracking(self, subject: str) -> List[str]:
+        """Load list of final (manually kept) files from tracking JSON file"""
+        tracking_file = self.project_root / "final-track" / f"{subject}.json"
+        
+        if not tracking_file.exists():
+            return []
+        
+        try:
+            with open(tracking_file, 'r', encoding='utf-8') as f:
+                final_files = json.load(f)
+                if isinstance(final_files, list):
+                    return final_files
+                return []
+        except Exception as e:
+            print(f"[FileManager] Error loading final tracking file: {e}")
+            return []
+    
+    def save_final_tracking(self, subject: str, new_final_files: List[str]) -> List[str]:
+        """Save list of final (manually kept) files to tracking JSON file (merges with existing)"""
+        tracking_path = self.project_root / "final-track"
+        tracking_file = tracking_path / f"{subject}.json"
+        
+        # Create tracking directory if it doesn't exist
+        tracking_path.mkdir(parents=True, exist_ok=True)
+        
+        # Load existing tracking file first (preserve history)
+        existing_final = set(self.load_final_tracking(subject))
+        print(f"[FileManager] Found {len(existing_final)} files in existing final tracking")
+        
+        # Merge: combine existing + new (union) to preserve all final files
+        new_final_set = set(new_final_files)
+        all_final = existing_final.union(new_final_set)
+        print(f"[FileManager] Merged total: {len(all_final)} final files (existing: {len(existing_final)}, new: {len(new_final_set)}, newly added: {len(new_final_set - existing_final)})")
+        
+        # Convert to sorted list for consistent ordering
+        final_files = sorted(list(all_final))
+        
+        # Save merged list to JSON file
+        try:
+            with open(tracking_file, 'w', encoding='utf-8') as f:
+                json.dump(final_files, f, indent=2)
+            print(f"[FileManager] Saved {len(final_files)} final files to tracking: {tracking_file}")
+        except Exception as e:
+            print(f"[FileManager] Error saving final tracking file: {e}")
+        
+        return final_files
+    
+    def remove_from_final_tracking(self, subject: str, files_to_remove: List[str]) -> List[str]:
+        """Remove files from final-track JSON"""
+        tracking_path = self.project_root / "final-track"
+        tracking_file = tracking_path / f"{subject}.json"
+        
+        # Load existing tracking
+        existing_final = set(self.load_final_tracking(subject))
+        
+        if not existing_final:
+            return []
+        
+        # Remove specified files
+        files_to_remove_set = set(files_to_remove)
+        updated_final = existing_final - files_to_remove_set
+        
+        print(f"[FileManager] Removing {len(files_to_remove_set)} files from final-track (was: {len(existing_final)}, now: {len(updated_final)})")
+        
+        # Convert to sorted list
+        final_files = sorted(list(updated_final))
+        
+        # Save updated list
+        tracking_path.mkdir(parents=True, exist_ok=True)
+        try:
+            with open(tracking_file, 'w', encoding='utf-8') as f:
+                json.dump(final_files, f, indent=2)
+            print(f"[FileManager] Updated final-track: {tracking_file}")
+        except Exception as e:
+            print(f"[FileManager] Error updating final tracking file: {e}")
+        
+        return final_files
     
     def get_preparation_stats(self, subject: str) -> Dict:
         """Get statistics about files before preparation (for display)"""

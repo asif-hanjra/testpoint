@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the law of conservation of energy state?",
+      "options": {
+        "a": "Energy can be created",
+        "b": "Energy can be destroyed",
+        "c": "Energy can be transformed from one form to another",
+        "d": "None of these"
+      },
+      "one_liner": "The law of conservation of energy states that energy can never be created or destroyed, but it can be **transformed from one form to another**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Law of Conservation of Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

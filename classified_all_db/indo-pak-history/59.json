@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which significant event, led by Mahatma Gandhi, took place in 1930 during Lord Irwin's tenure as Viceroy?",
+      "options": {
+        "a": "Quit India Movement",
+        "b": "Dandi March",
+        "c": "Khilafat Movement",
+        "d": "Partition of Bengal"
+      },
+      "one_liner": "The Dandi March, a significant event led by Mahatma Gandhi, took place in **1930** during Lord Irwin's tenure as Viceroy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

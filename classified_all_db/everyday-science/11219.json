@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many oxygen atoms are present in a molecule of carbon dioxide (CO2)?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "one_liner": "Each molecule of carbon dioxide contains **2 oxygen atoms**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

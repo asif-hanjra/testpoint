@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the financial record that lists an organization's assets and the claims against those assets?",
+      "options": {
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Cash Flow Statement",
+        "d": "Trial Balance"
+      },
+      "one_liner": "A financial record that lists both assets and claims against those assets is known as a **Balance Sheet**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Great Recession",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

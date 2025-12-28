@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The expression a³ + b³ is equivalent to _____?",
+      "options": {
+        "a": "(a + b) (a-b)(a-b)",
+        "b": "(a + b)³ - 3ab (a+b)",
+        "c": "(a + b)³ - ab(a+b)",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

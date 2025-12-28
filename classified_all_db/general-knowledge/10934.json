@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the Security Council call upon parties to a dispute to do?",
+      "options": {
+        "a": "Use military force",
+        "b": "Settle by peaceful means",
+        "c": "Withdraw from the UN",
+        "d": "Impose economic sanctions"
+      },
+      "one_liner": "The Security Council calls upon parties to a dispute to **settle it by peaceful means**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

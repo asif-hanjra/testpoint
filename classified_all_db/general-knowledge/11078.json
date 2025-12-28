@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Mian Muhammad Bakhsh born?",
+      "options": {
+        "a": "1820",
+        "b": "1830",
+        "c": "1840",
+        "d": "1850"
+      },
+      "one_liner": "Mian Muhammad Bakhsh was born in the year **1830**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

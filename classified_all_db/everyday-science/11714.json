@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two gases are primarily found in cooking gas?",
+      "options": {
+        "a": "Methane and Carbon dioxide",
+        "b": "Oxygen and Nitrogen",
+        "c": "Hydrogen and Helium",
+        "d": "None of these"
+      },
+      "one_liner": "Cooking gas is commonly composed of a mixture of **Methane and Carbon dioxide**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which isotope of uranium is fissionable and used for nuclear power?",
+      "options": {
+        "a": "Uranium-235",
+        "b": "Uranium-234",
+        "c": "Uranium-238",
+        "d": "Uranium-233"
+      },
+      "one_liner": "Of uranium's isotopes, only **uranium-235** is fissionable and used for nuclear power.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

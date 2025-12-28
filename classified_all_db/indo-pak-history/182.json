@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the joint session of Congress and All India Muslim League take place in Lucknow?",
+      "options": {
+        "a": "1919",
+        "b": "1916",
+        "c": "1920",
+        "d": "1915"
+      },
+      "one_liner": "The joint session of Congress and All India Muslim League was held in Lucknow in the year **1916**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

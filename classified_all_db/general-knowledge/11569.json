@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which modern country was formerly known as the Sassanid Empire?",
+      "options": {
+        "a": "Iran",
+        "b": "Iraq",
+        "c": "Turkey",
+        "d": "Afghanistan"
+      },
+      "one_liner": "The modern country that was once the Sassanid Empire is **Iran**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

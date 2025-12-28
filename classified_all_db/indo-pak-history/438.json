@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which century did Moinuddin Chishti settle in the Indian subcontinent?",
+      "options": {
+        "a": "10th century",
+        "b": "11th century",
+        "c": "12th century",
+        "d": "13th century"
+      },
+      "one_liner": "Moinuddin Chishti made his way to the Indian subcontinent in the **early 13th century**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

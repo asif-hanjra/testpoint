@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is considered the cheapest source of electricity?",
+      "options": {
+        "a": "Thermal",
+        "b": "Nuclear",
+        "c": "Hydel",
+        "d": "Solar"
+      },
+      "one_liner": "Hydel power is regarded as the cheapest source of electricity, making it a preferred option for cost-effective energy production.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

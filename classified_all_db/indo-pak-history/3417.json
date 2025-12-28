@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the reason for Quaid-i-Azam's resignation from the Imperial Legislative Council on March 28, 1919?",
+      "options": {
+        "a": "Simon Commission",
+        "b": "Jallianwala Bagh Massacre",
+        "c": "Promulgation of Rowlatt Act",
+        "d": "Partition of Bengal"
+      },
+      "one_liner": "Quaid-i-Azam resigned from the Imperial Legislative Council in protest against the **promulgation of the Rowlatt Act**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

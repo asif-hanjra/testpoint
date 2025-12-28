@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the United Nations Framework Convention on Climate Change (UNFCCC) enter into force?",
+      "options": {
+        "a": "1992",
+        "b": "1994",
+        "c": "1995",
+        "d": "1997"
+      },
+      "one_liner": "The United Nations Framework Convention on Climate Change (UNFCCC) entered into force in **1994**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Initiatives for Environment at International Level",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

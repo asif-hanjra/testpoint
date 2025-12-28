@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If 'Football' is called 'Cricket', 'Cricket' is called 'Basketball', 'Basketball' is called 'Badminton', 'Badminton' is called 'Volleyball', 'Volleyball' is called 'Hockey' and 'Hockey' is called 'Golf', then which of the following games is not played using a ball?",
+      "options": {
+        "a": "Hockey",
+        "b": "Volleyball",
+        "c": "Basketball",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

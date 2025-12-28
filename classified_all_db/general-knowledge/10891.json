@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which crop was highlighted in the International Year of Quinoa?",
+      "options": {
+        "a": "Rice",
+        "b": "Wheat",
+        "c": "Quinoa",
+        "d": "Maize"
+      },
+      "one_liner": "The United Nations declared **quinoa** as the focus of the International Year of Quinoa in 2013.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

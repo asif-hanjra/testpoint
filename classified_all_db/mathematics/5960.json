@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The general term for the sequence -5, 7, 19, 31 is?",
+      "options": {
+        "a": "aₙ = -5 + 12(n - 1)",
+        "b": "aₙ = -5 + 12(n + 1)",
+        "c": "aₙ = -5 - 12(n - 1)",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

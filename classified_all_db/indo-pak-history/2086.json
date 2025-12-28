@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the British Secretary of State for India who led the Cabinet Mission in 1946?",
+      "options": {
+        "a": "Lord Mountbatten",
+        "b": "Lord Wavell",
+        "c": "Lord Lawrence",
+        "d": "Lord Irwin"
+      },
+      "one_liner": "The British Secretary of State for India who led the Cabinet Mission in 1946 was **Lord Lawrence**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

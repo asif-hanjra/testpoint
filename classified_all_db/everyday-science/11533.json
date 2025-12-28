@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the natural source of Vitamin D for humans?",
+      "options": {
+        "a": "Sunlight",
+        "b": "Water",
+        "c": "Milk",
+        "d": "Meat"
+      },
+      "one_liner": "Sunlight is the primary natural source of **Vitamin D** for humans.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the party formed by Allama Shabir Ahmad Usmani?",
+      "options": {
+        "a": "Jamaat-e-Islami",
+        "b": "Jamiat Ulema-e-Islam",
+        "c": "Muslim League",
+        "d": "None of these"
+      },
+      "one_liner": "The party formed by Allama Shabir Ahmad Usmani is called **Jamiat Ulema-e-Islam**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

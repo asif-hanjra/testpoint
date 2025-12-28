@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote the world's first charter of human rights in 539 BC?",
+      "options": {
+        "a": "Darius the Great",
+        "b": "Alexander the Great",
+        "c": "Cyrus the Great",
+        "d": "Nebuchadnezzar II"
+      },
+      "one_liner": "The world's first charter of human rights was written by **Cyrus the Great** in 539 BC.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Universal Declaration of Human Rights (1948)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Universal Declaration of Human Rights (1948)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

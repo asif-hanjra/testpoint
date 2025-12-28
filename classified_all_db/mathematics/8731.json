@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Last In First Out (LIFO) is used for?",
+      "options": {
+        "a": "Queue management",
+        "b": "Sorting algorithms",
+        "c": "Stack operations",
+        "d": "File storage"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

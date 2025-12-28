@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered the thermometer?",
+      "options": {
+        "a": "Sir Thomas Allbutt",
+        "b": "Isaac Newton",
+        "c": "Galileo Galilei",
+        "d": "James Watt"
+      },
+      "one_liner": "The thermometer was discovered by **Sir Thomas Allbutt**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

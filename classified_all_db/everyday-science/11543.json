@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary function of the ozone layer in the atmosphere?",
+      "options": {
+        "a": "Absorbs visible light",
+        "b": "Absorbs ultraviolet rays",
+        "c": "Produces oxygen",
+        "d": "Reflects infrared rays"
+      },
+      "one_liner": "The ozone layer acts as a protective shield by absorbing most of the Sun's **ultraviolet rays** before they reach the Earth.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

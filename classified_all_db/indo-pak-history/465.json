@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who attended the First Round Table Conference in London despite his failing health?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Muhammad Ali Jauhar",
+        "c": "Mahatma Gandhi",
+        "d": "Maulana Azad"
+      },
+      "one_liner": "Despite his deteriorating health, **Muhammad Ali Jauhar** attended the First Round Table Conference in London.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

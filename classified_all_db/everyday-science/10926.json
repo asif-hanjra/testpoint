@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a source of Vitamin C?",
+      "options": {
+        "a": "Oranges",
+        "b": "Eggs",
+        "c": "Almonds",
+        "d": "Wheat germ"
+      },
+      "one_liner": "Citrus fruits, such as oranges, are a well-known source of **Vitamin C**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

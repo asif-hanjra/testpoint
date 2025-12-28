@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What did the Shimla Deputation demand about Muslim seats in the legislative assembly?",
+      "options": {
+        "a": "Equal seats as per population",
+        "b": "No seats",
+        "c": "More than population seats",
+        "d": "Fewer seats than population"
+      },
+      "one_liner": "The Shimla Deputation insisted that Muslims should have **more than their population proportion of seats in the legislative assembly**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

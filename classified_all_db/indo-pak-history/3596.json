@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which movement was launched in 1930 during the tenure of Lord Irwin as Viceroy of India?",
+      "options": {
+        "a": "Non-Cooperation Movement",
+        "b": "Civil Disobedience Movement",
+        "c": "Quit India Movement",
+        "d": "Swadeshi Movement"
+      },
+      "one_liner": "The Civil Disobedience movement was launched in **1930** during the tenure of Lord Irwin as Viceroy of India.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

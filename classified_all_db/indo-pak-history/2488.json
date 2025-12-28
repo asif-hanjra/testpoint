@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Sufi saint is associated with the Dargah Sharif in Ajmer?",
+      "options": {
+        "a": "Nizamuddin Auliya",
+        "b": "Moinuddin Chishti",
+        "c": "Bahauddin Zakariya",
+        "d": "Data Ganj Bakhsh"
+      },
+      "one_liner": "The Dargah Sharif in Ajmer is dedicated to the Sufi saint **Moinuddin Chishti**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

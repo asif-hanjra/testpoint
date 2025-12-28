@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was Syed Ali bin Usman Hajweri popularly known as?",
+      "options": {
+        "a": "Hazrat Data Ganj Baksh",
+        "b": "Khawaja Moinuddin Chishti",
+        "c": "Baba Farid",
+        "d": "None of these"
+      },
+      "one_liner": "Syed Ali bin Usman Hajweri was popularly known as **Hazrat Data Ganj Baksh**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

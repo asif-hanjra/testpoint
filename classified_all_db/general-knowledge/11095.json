@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who presented the theory of Clash of Civilizations?",
+      "options": {
+        "a": "Francis Fukuyama",
+        "b": "Samuel P Huntington",
+        "c": "Edward Said",
+        "d": "None of these"
+      },
+      "one_liner": "The theory of Clash of Civilizations was presented by **Samuel P Huntington**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

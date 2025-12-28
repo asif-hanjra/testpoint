@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which hormone produced by the thyroid gland contains iodine as a component?",
+      "options": {
+        "a": "Insulin",
+        "b": "Thyroxin",
+        "c": "Adrenaline",
+        "d": "Estrogen"
+      },
+      "one_liner": "The hormone thyroxin, produced by the thyroid gland, contains **iodine** as a component.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

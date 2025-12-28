@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organization serves as the regulatory authority of the Stock Market in Pakistan?",
+      "options": {
+        "a": "SECP",
+        "b": "SBP",
+        "c": "FBR",
+        "d": "NAB"
+      },
+      "one_liner": "The regulatory authority of the Stock Market in Pakistan is the **SECP**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Prominent Parliaments of the World",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

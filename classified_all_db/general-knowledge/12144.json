@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which professions is William Shakespeare best known for?",
+      "options": {
+        "a": "Scientist and explorer",
+        "b": "Poet and playwright",
+        "c": "Painter and sculptor",
+        "d": "Philosopher and mathematician"
+      },
+      "one_liner": "William Shakespeare is best known as an **English poet and playwright**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

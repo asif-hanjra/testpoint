@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "p : 4 < 7, q : 6 > 11, the disjunction p ∨ q is?",
+      "options": {
+        "a": "Not valid",
+        "b": "False",
+        "c": "True",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

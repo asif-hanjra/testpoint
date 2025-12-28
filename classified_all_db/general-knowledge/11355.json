@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Incheon International Airport is found in which country?",
+      "options": {
+        "a": "Japan",
+        "b": "South Korea",
+        "c": "China",
+        "d": "Thailand"
+      },
+      "one_liner": "Incheon International Airport is found in **South Korea**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Airports",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airports",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the playground for playing baseball commonly called?",
+      "options": {
+        "a": "Court",
+        "b": "Field",
+        "c": "Diamond",
+        "d": "Pitch"
+      },
+      "one_liner": "The playground for playing baseball is known as a **diamond**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which food is known to contain the highest quality food protein?",
+      "options": {
+        "a": "Milk",
+        "b": "Eggs",
+        "c": "Chicken",
+        "d": "Fish"
+      },
+      "one_liner": "**Eggs** are recognized for containing the highest quality food protein known.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the stance of the Nehru Report regarding the role of religion in Indian politics?",
+      "options": {
+        "a": "No role for religion in politics",
+        "b": "Religion would dominate politics",
+        "c": "Religion would have a minor role",
+        "d": "None of these"
+      },
+      "one_liner": "The Nehru Report stated that **religion would have no role in Indian politics**, eliminating reserved seats for Muslims in provinces.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

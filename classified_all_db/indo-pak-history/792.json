@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was taken to Rangoon by the British after the conquest of Delhi?",
+      "options": {
+        "a": "Tipu Sultan",
+        "b": "Bahadur Shah Zafar",
+        "c": "Siraj-ud-Daulah",
+        "d": "Nana Sahib"
+      },
+      "one_liner": "After the British captured Delhi, they exiled **Bahadur Shah Zafar** to Rangoon.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for the Golden Temple in Amritsar?",
+      "options": {
+        "a": "Harmandir Sahab",
+        "b": "Akshardham",
+        "c": "Jama Masjid",
+        "d": "None of these"
+      },
+      "one_liner": "The Golden Temple in Amritsar is also known as **Harmandir Sahab**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Famous Landmarks",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

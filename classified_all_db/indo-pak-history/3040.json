@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "To which Sufi order did Baba Farid belong?",
+      "options": {
+        "a": "Qadiri Order",
+        "b": "Chishti Order",
+        "c": "Naqshbandi Order",
+        "d": "Suhrawardi Order"
+      },
+      "one_liner": "Baba Farid was associated with the **Chishti Order** of South Asia as a Sufi preacher and saint.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

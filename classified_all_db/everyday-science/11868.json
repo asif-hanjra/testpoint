@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many carbon atoms are present in one molecule of carbon dioxide (CO2)?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "None of these"
+      },
+      "one_liner": "A molecule of carbon dioxide (CO2) contains **1 carbon atom**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

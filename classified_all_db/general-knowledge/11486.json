@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is boxing commonly referred to as?",
+      "options": {
+        "a": "The king of sports",
+        "b": "The noble art of self-defence",
+        "c": "The art of war",
+        "d": "None of these"
+      },
+      "one_liner": "Boxing is widely known as the **noble art of self-defence**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

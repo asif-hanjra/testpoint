@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who supervised the construction of the Badshahi Mosque built by Aurangzeb in 1674?",
+      "options": {
+        "a": "Ustad Ahmad Lahori",
+        "b": "Fida-i-Koka",
+        "c": "Mirza Ghiyas Beg",
+        "d": "None of these"
+      },
+      "one_liner": "The construction of the Badshahi Mosque in 1674 under Aurangzeb was supervised by **Fida-i-Koka**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

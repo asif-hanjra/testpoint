@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was given the Ministry of Finance in the interim government of 1946?",
+      "options": {
+        "a": "Sardar Patel",
+        "b": "Liaquat Ali Khan",
+        "c": "Jawaharlal Nehru",
+        "d": "None of these"
+      },
+      "one_liner": "In the interim government of 1946, the Ministry of Finance was handed over to **Liaquat Ali Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

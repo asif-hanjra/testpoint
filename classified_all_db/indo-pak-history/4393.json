@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who among Akbar's court members was labeled as a Poet in addition to Faizi in the visual representation?",
+      "options": {
+        "a": "Birbal",
+        "b": "Abdul Rahim",
+        "c": "Man Singh",
+        "d": "Fakiri"
+      },
+      "one_liner": "Abdul Rahim is also depicted as a **Poet** in Akbar's court besides Faizi in the visual representation.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

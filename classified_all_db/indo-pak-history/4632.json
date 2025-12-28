@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the final plan for the partition of the Subcontinent?",
+      "options": {
+        "a": "Mountbatten Plan",
+        "b": "3rd June Plan",
+        "c": "Cabinet Mission Plan",
+        "d": "None of these"
+      },
+      "one_liner": "The final plan for the partition of the Subcontinent is known as the **3rd June Plan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

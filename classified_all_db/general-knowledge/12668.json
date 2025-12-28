@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The U-2 incident is associated with which major Cold War event in 1962?",
+      "options": {
+        "a": "Berlin Blockade",
+        "b": "Cuban Missile Crisis",
+        "c": "Vietnam War",
+        "d": "Korean War"
+      },
+      "one_liner": "The U-2 incident is closely associated with the **Cuban Missile Crisis of 1962** during the Cold War.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Secret Intelligence Agencies",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

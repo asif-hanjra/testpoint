@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the only Muslim woman to attend the Round Table Conference?",
+      "options": {
+        "a": "Fatima Jinnah",
+        "b": "Begum Jahanara Shahnawaz",
+        "c": "Begum Ra'ana Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The only Muslim woman who attended the Round Table Conference was **Begum Jahanara Shahnawaz**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

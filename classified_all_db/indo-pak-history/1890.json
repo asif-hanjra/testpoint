@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who acted as regent of the Sikh Dynasty from 1843 to 1849?",
+      "options": {
+        "a": "Jind Kaur",
+        "b": "Chand Kaur",
+        "c": "Duleep Singh",
+        "d": "Sher Singh"
+      },
+      "one_liner": "From 1843 to 1849, **Jind Kaur** acted as the regent of the Sikh Dynasty.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

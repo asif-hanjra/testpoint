@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "If ABCD is a square where A(2,3), B(6,7), C(10,1), then D=?:",
+      "options": {
+        "a": "(6,3)",
+        "b": "(-6,-3)",
+        "c": "(6,-3)",
+        "d": "(6,5)"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2025
+}

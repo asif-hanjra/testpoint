@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Loga (m × n) = _____?",
+      "options": {
+        "a": "loga (m + n)",
+        "b": "Loga m + loga n",
+        "c": "Loga m - log a n",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

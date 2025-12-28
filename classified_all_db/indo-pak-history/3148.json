@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Mughal Emperor involved in the Battle of Buxar?",
+      "options": {
+        "a": "Bahadur Shah Zafar",
+        "b": "Akbar II",
+        "c": "Shah Alam II",
+        "d": "Aurangzeb"
+      },
+      "one_liner": "The Mughal Emperor involved in the Battle of Buxar was **Shah Alam II**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

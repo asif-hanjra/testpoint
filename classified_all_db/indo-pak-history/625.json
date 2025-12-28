@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the British Prime Minister before whom the Indian Khilafat deputation recorded their protest in 1920?",
+      "options": {
+        "a": "Winston Churchill",
+        "b": "David Lloyd George",
+        "c": "Ramsay MacDonald",
+        "d": "Stanley Baldwin"
+      },
+      "one_liner": "The Indian Khilafat deputation recorded their protest before British Prime Minister **Lloyd George** in 1920.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

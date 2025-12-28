@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for Mohenjo-Daro?",
+      "options": {
+        "a": "City of Gold",
+        "b": "Mound of the Dead",
+        "c": "Land of Rivers",
+        "d": "None of these"
+      },
+      "one_liner": "Mohenjo-Daro is also known as the **Mound of the Dead**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

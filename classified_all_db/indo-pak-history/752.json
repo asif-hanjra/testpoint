@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Sindh Sagar Doab is considered one of how many major doabs in Punjab province?",
+      "options": {
+        "a": "Three",
+        "b": "Four",
+        "c": "Five",
+        "d": "Six"
+      },
+      "one_liner": "Sindh Sagar Doab is recognized as one of the **five** major doabs in Punjab province.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

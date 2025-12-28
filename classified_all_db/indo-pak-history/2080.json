@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Quaid-e-Azam join the Indian National Congress?",
+      "options": {
+        "a": "1913",
+        "b": "1906",
+        "c": "1920",
+        "d": "1940"
+      },
+      "one_liner": "Quaid-e-Azam became a member of the Indian National Congress in **1906**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

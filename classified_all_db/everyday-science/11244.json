@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why is the Prime Meridian also called the Greenwich Meridian?",
+      "options": {
+        "a": "It runs through Greenwich, England",
+        "b": "It runs through Paris, France",
+        "c": "It runs through New York, USA",
+        "d": "None of these"
+      },
+      "one_liner": "The Prime Meridian is often referred to as the **Greenwich Meridian** because it passes through Greenwich, England.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Few Other Important Terms",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Planets of Our Solar System",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

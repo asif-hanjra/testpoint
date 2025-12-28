@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many seats in the Imperial Legislative Council were demanded to be reserved for British officials according to the Lucknow Pact?",
+      "options": {
+        "a": "20",
+        "b": "30",
+        "c": "40",
+        "d": "50"
+      },
+      "one_liner": "According to the Lucknow Pact, **30 seats** in the Imperial Legislative Council were to be reserved for British officials.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

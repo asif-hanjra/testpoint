@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who presented the 'Deal of the Century' related to the Palestine issue?",
+      "options": {
+        "a": "US President Joe Biden",
+        "b": "US President Barack Obama",
+        "c": "US President Donald Trump",
+        "d": "None of these"
+      },
+      "one_liner": "The 'Deal of the Century' regarding the Palestine issue was presented by **US President Donald Trump**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

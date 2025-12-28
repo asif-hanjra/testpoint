@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Partition of Bengal take place, dividing it into two provinces?",
+      "options": {
+        "a": "1903",
+        "b": "1907",
+        "c": "1905",
+        "d": "1911"
+      },
+      "one_liner": "The Partition of Bengal, dividing it into two provinces, took place in **1905**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

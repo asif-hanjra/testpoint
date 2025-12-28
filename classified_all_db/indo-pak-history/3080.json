@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the permanent President of All India Muslim League in 1934?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Sir Syed Ahmed Khan",
+        "c": "Quaid-e-Azam",
+        "d": "Allama Iqbal"
+      },
+      "one_liner": "In 1934, **Quaid-e-Azam** became the permanent President of All India Muslim League.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

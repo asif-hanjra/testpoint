@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major international financial institution was created after the Bretton Woods Conference?",
+      "options": {
+        "a": "World Bank",
+        "b": "International Monetary Fund",
+        "c": "World Trade Organization",
+        "d": "None of these"
+      },
+      "one_liner": "The International Monetary Fund was established as a result of the Bretton Woods Conference, making the correct answer **International Monetary Fund**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which dynasty ended after the death of Allauddin?",
+      "options": {
+        "a": "Tughlaq",
+        "b": "Khilji",
+        "c": "Sayyid",
+        "d": "Lodi"
+      },
+      "one_liner": "The **Khilji dynasty** came to an end following the death of Allauddin.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

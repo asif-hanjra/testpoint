@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "محصورین کا کیا مطلب ہے؟",
+      "options": {
+        "a": "آزاد لوگ",
+        "b": "گھرے ہوئے",
+        "c": "مسافر",
+        "d": "ان میں سے کوئی نہیں"
+      },
+      "one_liner": "لفظ محصورین سے مراد **گھرے ہوئے** لوگ ہیں۔",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

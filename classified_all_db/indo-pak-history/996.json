@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Allama Iqbal pass away?",
+      "options": {
+        "a": "March 23, 1940",
+        "b": "April 21, 1938",
+        "c": "December 25, 1876",
+        "d": "None of these"
+      },
+      "one_liner": "Allama Iqbal died on **April 21, 1938**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

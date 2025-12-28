@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the result of the Greenhouse effect on global temperature?",
+      "options": {
+        "a": "Decrease in temperature",
+        "b": "Increase in global temperature",
+        "c": "No change in temperature",
+        "d": "None of these"
+      },
+      "one_liner": "The Greenhouse effect leads to an **increase in global temperature**, a phenomenon commonly referred to as global warming.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Greenhouse Gases, Greenhouse Effect and Global Warming",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

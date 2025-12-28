@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the value of (i^25 - (1/i)^32)^2?",
+      "options": {
+        "a": "2i",
+        "b": "-2i",
+        "c": "1",
+        "d": "-1"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

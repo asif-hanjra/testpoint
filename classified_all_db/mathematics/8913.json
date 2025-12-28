@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a tautology?",
+      "options": {
+        "a": "p∧∼p",
+        "b": "p∨∼p",
+        "c": "∼(p∨p)",
+        "d": "p∧q"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

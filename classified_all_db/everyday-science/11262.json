@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which subatomic particle has a positive charge?",
+      "options": {
+        "a": "Proton",
+        "b": "Neutron",
+        "c": "Electron",
+        "d": "None of these"
+      },
+      "one_liner": "The subatomic particle that carries a positive charge is the **proton**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Atoms",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Kilowatt hour is a unit of which physical quantity?",
+      "options": {
+        "a": "Electrical resistance",
+        "b": "Electrical power",
+        "c": "Energy",
+        "d": "Current"
+      },
+      "one_liner": "The **kilowatt hour** is a unit used to measure electrical power consumption.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

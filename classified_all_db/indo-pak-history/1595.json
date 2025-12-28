@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is considered the oldest Mughal monument in Pakistan?",
+      "options": {
+        "a": "Shalimar Gardens",
+        "b": "Wah Gardens",
+        "c": "Lahore Fort",
+        "d": "None of these"
+      },
+      "one_liner": "The oldest Mughal monument in Pakistan is the **Wah Gardens**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

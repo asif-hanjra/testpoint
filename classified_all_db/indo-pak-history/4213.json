@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the first session of the Khilafat Conference held in December 1919?",
+      "options": {
+        "a": "Delhi",
+        "b": "Amritsar",
+        "c": "Lahore",
+        "d": "Lucknow"
+      },
+      "one_liner": "The first session of the Khilafat Conference took place in **Amritsar** in December 1919.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

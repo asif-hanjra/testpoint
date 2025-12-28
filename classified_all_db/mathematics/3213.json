@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Jerry estimates that there are m marbles in a jar. Harry, who knows the actual number of marbles in the jar, notes that the actual number, n, is within 10 marbles (inclusive) of Jerry's estimate. Which of the following inequalities represents the relationship between Jerry's estimate and the actual number of marbles in the jar?",
+      "options": {
+        "a": "n ≤ m ≤ 10n",
+        "b": "m/10 ≤ n ≤ 10m",
+        "c": "n + 10 ≤ m ≤ n - 10",
+        "d": "m - 10 ≤ n ≤ m + 10"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who presided over the annual meeting of the All-India Muslim League in 1930, known as the Allahabad Address?",
+      "options": {
+        "a": "Allama Muhammad Iqbal",
+        "b": "Quaid-e-Azam",
+        "c": "Liaquat Ali Khan",
+        "d": "Sir Syed Ahmed Khan"
+      },
+      "one_liner": "The annual meeting of the All-India Muslim League in 1930, famous for the Allahabad Address, was presided over by **Allama Muhammad Iqbal**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Allahabad Address 1930",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Allahabad Address 1930",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the last prime minister of United Punjab before partition?",
+      "options": {
+        "a": "Sir Malik Khizar Tiwana",
+        "b": "Sir Sikandar Hayat Khan",
+        "c": "Chaudhry Muhammad Ali",
+        "d": "None of these"
+      },
+      "one_liner": "The last prime minister of United Punjab before partition was **Sir Malik Khizar Tiwana**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

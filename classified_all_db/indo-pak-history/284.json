@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose reign did Sir Thomas Roe and Captain Hawkins visit the Mughal court?",
+      "options": {
+        "a": "Akbar",
+        "b": "Aurangzeb",
+        "c": "Jehangir",
+        "d": "Shah Jahan"
+      },
+      "one_liner": "It was during the reign of **Jehangir** that Sir Thomas Roe and Captain Hawkins visited the Mughal court to seek commercial privileges for the British.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

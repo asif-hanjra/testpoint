@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which gas is present in the atmosphere at about 0.009%?",
+      "options": {
+        "a": "Neon",
+        "b": "Argon",
+        "c": "Oxygen",
+        "d": "Krypton"
+      },
+      "one_liner": "Neon is found in the atmosphere at a concentration of about **0.009%**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Layers of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which isotope of uranium is most commonly found in nature?",
+      "options": {
+        "a": "Uranium-235",
+        "b": "Uranium-238",
+        "c": "Uranium-234",
+        "d": "None of these"
+      },
+      "one_liner": "The most abundant uranium isotope occurring naturally is **Uranium-238**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

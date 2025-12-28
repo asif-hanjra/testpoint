@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "(3x³ - 19x² + 10x + 50) ÷ (x - 5) =?",
+      "options": {
+        "a": "3x² + 4x + 10",
+        "b": "3x² - 4x - 10",
+        "c": "3x² - 4x + 10",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

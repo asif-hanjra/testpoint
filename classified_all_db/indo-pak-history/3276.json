@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What electoral system was suggested in the Nehru Report for India?",
+      "options": {
+        "a": "Joint electorate based on adult franchise",
+        "b": "Separate electorate",
+        "c": "Limited franchise",
+        "d": "None of these"
+      },
+      "one_liner": "The Nehru Report advocated for a **joint electorate system based on adult franchise**, allowing all adults to vote.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

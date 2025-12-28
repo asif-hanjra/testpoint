@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of the human ear is responsible for collecting sound waves from the environment?",
+      "options": {
+        "a": "Pinna",
+        "b": "Cochlea",
+        "c": "Stirrup",
+        "d": "Ear Drum"
+      },
+      "one_liner": "The part of the human ear that collects sound waves from the environment is the **Pinna**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Ear",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

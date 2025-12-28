@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What title did Mussolini hold from 1919 until his execution in 1945?",
+      "options": {
+        "a": "Il Presidente",
+        "b": "Duce",
+        "c": "Führer",
+        "d": "Caesar"
+      },
+      "one_liner": "From 1919 until his execution in 1945, Mussolini held the title of **Duce** in Italy.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

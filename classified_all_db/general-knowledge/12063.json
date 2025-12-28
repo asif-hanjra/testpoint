@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Ali bin Usman Al-Hajveri was born in which empire?",
+      "options": {
+        "a": "Mughal Empire",
+        "b": "Ghaznavid Empire",
+        "c": "Ottoman Empire",
+        "d": "None of these"
+      },
+      "one_liner": "Ali bin Usman Al-Hajveri was born in the **Ghaznavid Empire**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Ali bin Usman Al-Hajveri",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Moin Uddin Chishti",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Ali bin Usman Al-Hajveri",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

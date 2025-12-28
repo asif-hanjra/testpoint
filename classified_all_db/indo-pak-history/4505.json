@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote Tarikhi-I-Sher to honor Shah Suri's administrative achievements?",
+      "options": {
+        "a": "Abbas Sarwani",
+        "b": "Abul Fazl",
+        "c": "Badauni",
+        "d": "None of these"
+      },
+      "one_liner": "Tarikhi-I-Sher was authored by **Abbas Sarwani** to acknowledge Shah Suri's administrative successes.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

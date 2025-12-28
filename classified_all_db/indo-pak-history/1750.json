@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is mentioned in the context of commenting on the fate of the Nehru Report?",
+      "options": {
+        "a": "Mahatma Gandhi",
+        "b": "Mr. Jinnah",
+        "c": "Maulana Azad",
+        "d": "Liaquat Ali Khan"
+      },
+      "one_liner": "**Mr. Jinnah** is noted for commenting on the fate of the Nehru Report.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

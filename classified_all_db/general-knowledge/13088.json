@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Why did Britain declare war on Germany and Austria-Hungary during World War I?",
+      "options": {
+        "a": "France",
+        "b": "Serbia",
+        "c": "Belgium",
+        "d": "Russia"
+      },
+      "one_liner": "Britain declared war on Germany and Austria-Hungary because of its defense agreement with **Belgium**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Treaty of Versailles (1919)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

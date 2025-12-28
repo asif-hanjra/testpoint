@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the common name for solid carbon dioxide?",
+      "options": {
+        "a": "Dry ice",
+        "b": "Baking soda",
+        "c": "Quicklime",
+        "d": "None of these"
+      },
+      "one_liner": "Solid carbon dioxide is commonly known as **dry ice**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

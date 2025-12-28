@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who standardized the silver coin to the weight of 178 grams and named the currency as rupee?",
+      "options": {
+        "a": "Akbar",
+        "b": "Sher Shah Suri",
+        "c": "Babur",
+        "d": "Aurangzeb"
+      },
+      "one_liner": "It was **Sher Shah Suri** who standardized the silver coin to 178 grams and introduced the term 'rupee' based on an ancient Sanskrit word for silver.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Maurya Empire",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

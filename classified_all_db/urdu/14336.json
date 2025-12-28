@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "پنجاب کی پہلی یونیورسٹی کہاں واقع ہے؟",
+      "options": {
+        "a": "ملتان",
+        "b": "راولپنڈی",
+        "c": "لاہور",
+        "d": "فیصل آباد"
+      },
+      "one_liner": "پنجاب کی پہلی یونیورسٹی **لاہور** میں واقع ہے۔",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Mughal king made Lahore his capital for 14 years?",
+      "options": {
+        "a": "Babur",
+        "b": "Akbar",
+        "c": "Aurangzeb",
+        "d": "Shah Jahan"
+      },
+      "one_liner": "It was **Akbar** who made Lahore his capital for a period of 14 years.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did Jawaharlal Nehru represent when he commented on the Lahore Resolution of 1940?",
+      "options": {
+        "a": "All India Muslim League",
+        "b": "Indian National Congress",
+        "c": "Hindu Mahasabha",
+        "d": "None of these"
+      },
+      "one_liner": "At the time he criticized the Lahore Resolution of 1940, Jawaharlal Nehru was a leader of the **Indian National Congress**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

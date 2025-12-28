@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the thyroid gland located in the human body?",
+      "options": {
+        "a": "At the front of neck",
+        "b": "At the back of head",
+        "c": "In the chest",
+        "d": "In the abdomen"
+      },
+      "one_liner": "The thyroid gland is situated at the front of the neck in the human body.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

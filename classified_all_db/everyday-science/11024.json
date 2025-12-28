@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who proposed the Special Theory of Relativity?",
+      "options": {
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Galileo Galilei",
+        "d": "Niels Bohr"
+      },
+      "one_liner": "The Special Theory of Relativity was proposed by **Albert Einstein**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

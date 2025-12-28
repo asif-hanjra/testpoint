@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party joined the interim government in 1946?",
+      "options": {
+        "a": "Indian National Congress",
+        "b": "Hindu Mahasabha",
+        "c": "Muslim League",
+        "d": "None of these"
+      },
+      "one_liner": "It was the **Muslim League** that joined the interim government in 1946.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

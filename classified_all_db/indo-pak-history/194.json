@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which educational institution was founded by Sahibzada Abdul Qayyum in Khyber Pakhtunkhwa (formerly NWFP)?",
+      "options": {
+        "a": "Edwards College Peshawar",
+        "b": "Islamia High School Peshawar",
+        "c": "Government College Peshawar",
+        "d": "None of these"
+      },
+      "one_liner": "Sahibzada Abdul Qayyum established the **Islamia High School Peshawar** in Khyber Pakhtunkhwa, which was previously known as NWFP.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

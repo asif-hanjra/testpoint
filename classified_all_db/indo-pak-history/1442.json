@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During his reign, in whose name did Sayyid Khizr Khan rule?",
+      "options": {
+        "a": "Babur",
+        "b": "Timur",
+        "c": "Bahlul Khan Lodi",
+        "d": "None of these"
+      },
+      "one_liner": "Sayyid Khizr Khan ruled in the name of **Timur** during his reign.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

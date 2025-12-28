@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the North West Frontier Province (NWFP) formed as a separate province?",
+      "options": {
+        "a": "1901",
+        "b": "1911",
+        "c": "1921",
+        "d": "1931"
+      },
+      "one_liner": "The North West Frontier Province (NWFP) was established as a separate province in **1901**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "اساطیر کس علم کو کہا جاتا ہے؟",
+      "options": {
+        "a": "اساطیر",
+        "b": "فلسفہ",
+        "c": "تاریخ",
+        "d": "ادب"
+      },
+      "one_liner": "دیو ملائی، ساحری اور مذہب کے باہمی رشتوں کے متعلق علم کو **اساطیر** کہا جاتا ہے۔",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

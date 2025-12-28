@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who holds the record for scoring the most runs in a single innings in a Test match?",
+      "options": {
+        "a": "Sachin Tendulkar",
+        "b": "Brian Lara",
+        "c": "Ricky Ponting",
+        "d": "Don Bradman"
+      },
+      "one_liner": "Brian Lara set the record for the highest individual score in a single Test innings, making him the top scorer in this category with **Brian Lara**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

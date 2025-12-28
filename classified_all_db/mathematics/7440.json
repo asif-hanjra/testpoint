@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Power set of a nonempty set X is?",
+      "options": {
+        "a": "A topology on X",
+        "b": "An empty set",
+        "c": "Not topology on X",
+        "d": "An infinite set"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

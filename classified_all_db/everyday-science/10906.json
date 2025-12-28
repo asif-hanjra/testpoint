@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is in a liquid state at normal room temperature?",
+      "options": {
+        "a": "Gallium",
+        "b": "Iron",
+        "c": "Copper",
+        "d": "Aluminum"
+      },
+      "one_liner": "Gallium is unique among metals because it remains in a **liquid state at normal room temperature**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which sport is Lionel Messi famously associated with?",
+      "options": {
+        "a": "Cricket",
+        "b": "Tennis",
+        "c": "Football",
+        "d": "Basketball"
+      },
+      "one_liner": "Lionel Messi is widely recognized as a legendary player in the sport of **Football**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

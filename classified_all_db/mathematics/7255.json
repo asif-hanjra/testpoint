@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "sin a = _____?",
+      "options": {
+        "a": "1 + tan²a",
+        "b": "2 sin a cos a",
+        "c": "2 sin a/2 cos a/2",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

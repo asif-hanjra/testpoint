@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of 'The Reconstruction of Religious Thought in Islam'?",
+      "options": {
+        "a": "Sir Syed Ahmed Khan",
+        "b": "Allama Iqbal",
+        "c": "Maulana Maududi",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'The Reconstruction of Religious Thought in Islam' was authored by **Allama Iqbal**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

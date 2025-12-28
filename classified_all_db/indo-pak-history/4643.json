@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "With which European ruler did Tipu Sultan establish diplomatic relations?",
+      "options": {
+        "a": "George III",
+        "b": "Napoleon",
+        "c": "Louis XIV",
+        "d": "None of these"
+      },
+      "one_liner": "Tipu Sultan notably established diplomatic relations with the French king, **Napoleon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

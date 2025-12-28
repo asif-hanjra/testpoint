@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many Anglo-Mysore Wars were fought between the British and Mysore?",
+      "options": {
+        "a": "Two",
+        "b": "Three",
+        "c": "Four",
+        "d": "Five"
+      },
+      "one_liner": "There were a total of **four** Anglo-Mysore Wars fought between the British and Mysore.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

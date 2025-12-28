@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Chinese astronaut is renowned for walking in space?",
+      "options": {
+        "a": "Yang Liwei",
+        "b": "Wang Yaping",
+        "c": "Liu Yang",
+        "d": "None of these"
+      },
+      "one_liner": "The Chinese astronaut who gained fame for walking in space is **Wang Yaping**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "China",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

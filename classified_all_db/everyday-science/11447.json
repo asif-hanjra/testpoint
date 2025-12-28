@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mosquito species is responsible for transmitting dengue fever, also known as breakbone fever?",
+      "options": {
+        "a": "Anopheles stephensi",
+        "b": "Aedes aegypti",
+        "c": "Culex pipiens",
+        "d": "None of these"
+      },
+      "one_liner": "Dengue fever, also called breakbone fever, is transmitted by the female mosquito of the species **Aedes aegypti**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Blood Cells",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Blood",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

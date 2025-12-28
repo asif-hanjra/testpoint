@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "In Mathematica, which command is used to get a numerical solution?",
+      "options": {
+        "a": "NSolve",
+        "b": "Simplify",
+        "c": "DSolve",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

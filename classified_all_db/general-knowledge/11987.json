@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote 'Antony and Cleopatra'?",
+      "options": {
+        "a": "William Shakespeare",
+        "b": "George Bernard Shaw",
+        "c": "Jonathan Swift",
+        "d": "Charles Dickens"
+      },
+      "one_liner": "The play 'Antony and Cleopatra' was penned by **William Shakespeare**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

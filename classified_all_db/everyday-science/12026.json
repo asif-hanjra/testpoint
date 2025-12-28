@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following animals are classified as amphibians?",
+      "options": {
+        "a": "Frogs",
+        "b": "Toads",
+        "c": "Salamanders and newts",
+        "d": "All of these"
+      },
+      "one_liner": "Frogs, toads, salamanders, and newts are all classified as **amphibians**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Classes of Animals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

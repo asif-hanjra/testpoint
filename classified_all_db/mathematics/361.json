@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Find d/dx of (2x + 3)⁴:",
+      "options": {
+        "a": "4(2x + 3)³",
+        "b": "8(2x + 3)³",
+        "c": "16(2x + 3)³",
+        "d": "(2x + 3)³"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

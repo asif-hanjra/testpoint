@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Khwaja Syed Muhammad Qutuddin Bakhtiar Kaki born?",
+      "options": {
+        "a": "1173",
+        "b": "1200",
+        "c": "1235",
+        "d": "1100"
+      },
+      "one_liner": "Khwaja Syed Muhammad Qutuddin Bakhtiar Kaki was born in **1173**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghurids Dynasty (1186-1215)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

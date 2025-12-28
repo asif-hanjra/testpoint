@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many members made up the Executive Council of the Governor General, and how many of them were Indians?",
+      "options": {
+        "a": "Eight members, three Indians",
+        "b": "Ten members, four Indians",
+        "c": "Six members, two Indians",
+        "d": "None of these"
+      },
+      "one_liner": "The Executive Council of the Governor General consisted of eight members, out of which **three were Indians**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Aurangzeb finally defeat Dara Shakoh in the battle of Samugarh?",
+      "options": {
+        "a": "1657 AD",
+        "b": "1658 AD",
+        "c": "1659 AD",
+        "d": "1660 AD"
+      },
+      "one_liner": "Aurangzeb defeated Dara Shakoh in the battle of Samugarh in **1659 AD**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If a and b are two integers, which of the following is NOT necessarily an integer?",
+      "options": {
+        "a": "a⁷",
+        "b": "b*",
+        "c": "a * b",
+        "d": "2a – 5b"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

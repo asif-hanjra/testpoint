@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When milk is churned, what force causes the cream to separate from it?",
+      "options": {
+        "a": "Centripetal Force",
+        "b": "Gravitational Force",
+        "c": "Centrifugal Force",
+        "d": "Frictional Force"
+      },
+      "one_liner": "When milk is churned, the cream separates from it due to the action of the **centrifugal force**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Energy",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

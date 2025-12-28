@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for Badminton?",
+      "options": {
+        "a": "Squash",
+        "b": "Ping Pong",
+        "c": "Tennis",
+        "d": "None of these"
+      },
+      "one_liner": "Badminton is sometimes incorrectly referred to as **Ping Pong**, although Ping Pong is actually another name for table tennis.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

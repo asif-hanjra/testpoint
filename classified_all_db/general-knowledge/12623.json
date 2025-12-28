@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Baba Farid buried?",
+      "options": {
+        "a": "Kothewal",
+        "b": "Lahore",
+        "c": "Pakpatan",
+        "d": "None of these"
+      },
+      "one_liner": "The burial place of Baba Farid is **Pakpatan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Fariduddin Masud Gunj Shakar",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

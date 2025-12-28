@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party's ban was lifted as a result of the Gandhi-Irwin Pact?",
+      "options": {
+        "a": "Muslim League",
+        "b": "Congress",
+        "c": "Hindu Mahasabha",
+        "d": "None of these"
+      },
+      "one_liner": "The ban on the **Congress** party was lifted as a result of the Gandhi-Irwin Pact.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

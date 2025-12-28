@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If order of a matrix A is 2x3 and of matrix B is 3x3 then order of AB is?",
+      "options": {
+        "a": "3x2",
+        "b": "2x2",
+        "c": "2x3",
+        "d": "3x3"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

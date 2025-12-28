@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote 'Quaid-e-Azam Jinnah: The Story of a Nation'?",
+      "options": {
+        "a": "G. Allana",
+        "b": "Stanley Wolpert",
+        "c": "I. H. Qureshi",
+        "d": "K. K. Aziz"
+      },
+      "one_liner": "The book 'Quaid-e-Azam Jinnah: The Story of a Nation' was authored by **G. Allana**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

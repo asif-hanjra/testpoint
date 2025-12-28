@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The output of an OR gate will be high when ______?",
+      "options": {
+        "a": "Any of the inputs is high",
+        "b": "All inputs are low",
+        "c": "None of the inputs is high",
+        "d": "All inputs are high"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

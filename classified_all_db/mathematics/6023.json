@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A and B are two non-empty sets then A ∪ B = _____?",
+      "options": {
+        "a": "{x|x ∈ A or x ∈ B}",
+        "b": "{x|x ∈ A and x ∈ B}",
+        "c": "{x ∈ A or x ∈ B}",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

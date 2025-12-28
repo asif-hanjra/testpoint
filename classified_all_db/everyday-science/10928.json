@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the composition of the inner core of an optical fibre?",
+      "options": {
+        "a": "Metal",
+        "b": "Glass or Plastic",
+        "c": "Rubber",
+        "d": "None of these"
+      },
+      "one_liner": "The inner core of an optical fibre is typically made of **glass or plastic** to facilitate light transmission.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Lenses",
+          "chapter": "Physics in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

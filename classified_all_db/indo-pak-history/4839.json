@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date was Fort William College founded?",
+      "options": {
+        "a": "18 August 1800",
+        "b": "15 August 1857",
+        "c": "26 January 1801",
+        "d": "None of these"
+      },
+      "one_liner": "Fort William College was founded on **18 August 1800** by Lord Wellesley.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

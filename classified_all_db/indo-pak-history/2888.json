@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which city was 'The Dawn' initially published?",
+      "options": {
+        "a": "Lahore",
+        "b": "Delhi",
+        "c": "Karachi",
+        "d": "None of these"
+      },
+      "one_liner": "*The Dawn* was first published from **Delhi** in 1941 under the leadership of Quaid-e-Azam.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Khawaja Ghulam Farid buried?",
+      "options": {
+        "a": "Chachran Town",
+        "b": "Multan",
+        "c": "Mithankot",
+        "d": "Bahawalpur"
+      },
+      "one_liner": "Khawaja Ghulam Farid is buried at **Mithankot, district Rajanpur**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Khawaja Ghulam Farid",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Sheikh Abdul Qadir Jilani buried?",
+      "options": {
+        "a": "Baghdad",
+        "b": "Lahore",
+        "c": "Delhi",
+        "d": "Istanbul"
+      },
+      "one_liner": "Sheikh Abdul Qadir Jilani's final resting place is in **Baghdad**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

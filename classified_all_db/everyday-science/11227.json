@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which element is used in solar panels for producing electricity?",
+      "options": {
+        "a": "Silicon",
+        "b": "Aluminum",
+        "c": "Copper",
+        "d": "Iron"
+      },
+      "one_liner": "Solar panels that generate electricity are mainly made from **silicon**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

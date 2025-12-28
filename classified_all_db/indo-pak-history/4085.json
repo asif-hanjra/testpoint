@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year of Hijra was the Charter of Medina established?",
+      "options": {
+        "a": "1st year of Hijra",
+        "b": "2nd year of Hijra",
+        "c": "3rd year of Hijra",
+        "d": "None of these"
+      },
+      "one_liner": "The Charter of Medina was established in the **1st year of Hijra**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

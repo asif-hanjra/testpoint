@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Gun powder is a mixture of which three substances?",
+      "options": {
+        "a": "Sulphur, charcoal, and nitre",
+        "b": "Sulphur, iron, and copper",
+        "c": "Charcoal, zinc, and nitre",
+        "d": "Nitre, copper, and sulphur"
+      },
+      "one_liner": "The three main ingredients of gun powder are **sulphur, charcoal, and nitre**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to the Montagu-Chelmsford Reforms of 1919, after how many years was the British government supposed to send a commission to India to suggest further reforms?",
+      "options": {
+        "a": "Five years",
+        "b": "Ten years",
+        "c": "Fifteen years",
+        "d": "Twenty years"
+      },
+      "one_liner": "The Montagu-Chelmsford Reforms of 1919 stipulated that a commission would be sent to India after **ten years** to recommend further reforms.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

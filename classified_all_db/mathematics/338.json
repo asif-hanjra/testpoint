@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Expression: (x + 1/x)(x − 1/x) = ?",
+      "options": {
+        "a": "x² − 1/x²",
+        "b": "x² + 1/x²",
+        "c": "x − 1/x",
+        "d": "x² − 1/x"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

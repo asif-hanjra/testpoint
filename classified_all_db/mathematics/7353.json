@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "I went 15 km to the North, then turned West and covered 10 km. Then I turned South and covered 5 km, and then I turned East and covered 10 km. In which direction am I going and how far from starting point?",
+      "options": {
+        "a": "East, 14.14 km",
+        "b": "North, 10 km",
+        "c": "South, 5 km",
+        "d": "West, 15 km"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which art movement coexisted with the Age of Enlightenment in the 18th century?",
+      "options": {
+        "a": "Romanticism",
+        "b": "Impressionism",
+        "c": "Neoclassicism",
+        "d": "Baroque"
+      },
+      "one_liner": "Neoclassicism was an art movement that **coexisted with the Age of Enlightenment in the 18th century**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "French Revolution (1789-1799)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Napoleon Bonaparte",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

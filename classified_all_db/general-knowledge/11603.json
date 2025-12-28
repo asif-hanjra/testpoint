@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happened to Italy's resources as a result of Mussolini's campaigns in World War II?",
+      "options": {
+        "a": "They increased",
+        "b": "They remained the same",
+        "c": "They were reduced",
+        "d": "None of these"
+      },
+      "one_liner": "Due to Mussolini's campaigns, **Italy's resources were significantly reduced during World War II**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Adolf Hitler",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

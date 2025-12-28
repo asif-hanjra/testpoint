@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The volume of a cylinder is to be calculated using the formula V = πr²L.   If the radius (r) is 3 cm and the length (L) is 10 cm, what is the volume?",
+      "options": {
+        "a": "90π cm³",
+        "b": "100π cm³",
+        "c": "120π cm³",
+        "d": "75π cm³"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

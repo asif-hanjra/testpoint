@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the value of cos(sin⁻¹x)?",
+      "options": {
+        "a": "√(1 − x²)",
+        "b": "1 − x²",
+        "c": "1 / √(1 − x²)",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the derivative of tan(x)",
+      "options": {
+        "a": "sec²(x)",
+        "b": "cos²(x)",
+        "c": "sin(x)/cos(x)",
+        "d": "-sec²(x)"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

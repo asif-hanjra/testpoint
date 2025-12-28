@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the construction of the Taj Mahal completed?",
+      "options": {
+        "a": "1638",
+        "b": "1648",
+        "c": "1658",
+        "d": "1668"
+      },
+      "one_liner": "The construction of the Taj Mahal was completed in **1648 AD**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

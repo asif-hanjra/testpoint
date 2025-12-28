@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which title is associated with Mahmud of Ghazni due to his conquest of a famous temple?",
+      "options": {
+        "a": "Conqueror of Delhi",
+        "b": "Conqueror of Temple Somnat",
+        "c": "Conqueror of Lahore",
+        "d": "None of these"
+      },
+      "one_liner": "Mahmud of Ghazni is famously known as the **Conqueror of Temple Somnat** for his invasion of the Somnat temple.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

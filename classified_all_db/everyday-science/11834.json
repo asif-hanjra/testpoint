@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two metals are combined to make bronze?",
+      "options": {
+        "a": "Copper and zinc",
+        "b": "Copper and tin",
+        "c": "Iron and carbon",
+        "d": "None of these"
+      },
+      "one_liner": "Bronze is created by combining **copper and tin** as its main metallic elements.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Element",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Alloys",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

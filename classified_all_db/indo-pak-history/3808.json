@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who assisted Quaid-e-Azam in the preparation of his 14 points?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Maulana Muhammad Ali Jauhar",
+        "c": "Sir Syed Ahmed Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Quaid-e-Azam received assistance from **Maulana Muhammad Ali Jauhar** in preparing his famous 14 points.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

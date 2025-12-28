@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to the Lucknow Pact, what percentage of the Governor General's Executive Council was demanded to be Indian?",
+      "options": {
+        "a": "25%",
+        "b": "50%",
+        "c": "75%",
+        "d": "100%"
+      },
+      "one_liner": "The Lucknow Pact demanded that **50%** of the Governor General's Executive Council should be Indian members.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

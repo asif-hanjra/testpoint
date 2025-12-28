@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who were the main participants in the Malabar Riot of 1921?",
+      "options": {
+        "a": "Sikhs",
+        "b": "Mappilas",
+        "c": "Marathas",
+        "d": "Bengalis"
+      },
+      "one_liner": "The main participants in the Malabar Riot of 1921 were the **Mappilas** of southern India.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Malabar Riot",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Malabar Riot",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

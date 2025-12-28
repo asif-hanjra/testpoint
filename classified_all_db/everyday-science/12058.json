@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What percentage of Earth's water is fresh water?",
+      "options": {
+        "a": "Less than 1%",
+        "b": "10%",
+        "c": "25%",
+        "d": "50%"
+      },
+      "one_liner": "Less than one per cent of Earth's water is considered **fresh water**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

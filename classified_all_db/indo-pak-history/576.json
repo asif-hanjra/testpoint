@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose viceroyalty did the Cripps Mission visit India?",
+      "options": {
+        "a": "Lord Linlithgow",
+        "b": "Lord Willingdon",
+        "c": "Lord Canning",
+        "d": "Lord Lytton"
+      },
+      "one_liner": "The Cripps Mission visited India during the viceroyalty of **Lord Linlithgow**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Cripps Mission",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

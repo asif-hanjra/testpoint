@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Indian Councils Act enforced?",
+      "options": {
+        "a": "1858",
+        "b": "1861",
+        "c": "1892",
+        "d": "1909"
+      },
+      "one_liner": "The Indian Councils Act was enforced in **1861**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Indian Councils Act (1892)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Indian Councils Act (1892)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

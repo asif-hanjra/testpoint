@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the famous book written by Hazrat Data Ganj Bakhsh?",
+      "options": {
+        "a": "Futuh al-Ghaib",
+        "b": "Kashf Al Mahjub",
+        "c": "Awarif ul-Maarif",
+        "d": "None of these"
+      },
+      "one_liner": "The famous book written by Hazrat Data Ganj Bakhsh is called **Kashf Al Mahjub**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

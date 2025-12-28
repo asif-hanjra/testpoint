@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who imposed emergency in India in 1975?",
+      "options": {
+        "a": "Indira Gandhi",
+        "b": "Jawaharlal Nehru",
+        "c": "Rajiv Gandhi",
+        "d": "None of these"
+      },
+      "one_liner": "The emergency in India in 1975 was imposed by **Indira Gandhi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

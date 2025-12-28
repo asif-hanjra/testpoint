@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the outcome of the First Battle of Panipat in 1526?",
+      "options": {
+        "a": "End of Lodhi dynasty",
+        "b": "Start of British rule",
+        "c": "Rise of Marathas",
+        "d": "None of these"
+      },
+      "one_liner": "The First Battle of Panipat in 1526 resulted in the defeat of Ibrahim Lodi and the end of the **Lodhi dynasty**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

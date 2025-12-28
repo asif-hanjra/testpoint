@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the famous poet Ghalib born?",
+      "options": {
+        "a": "Delhi",
+        "b": "Agra",
+        "c": "Lucknow",
+        "d": "Hyderabad"
+      },
+      "one_liner": "The renowned poet Ghalib was born in **Agra**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

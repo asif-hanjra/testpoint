@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who presided over the Muslim League session in 1940?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Liaquat Ali Khan",
+        "c": "Quaid-e-Azam",
+        "d": "None of these"
+      },
+      "one_liner": "The Muslim League session in 1940 was presided over by **Quaid-e-Azam**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

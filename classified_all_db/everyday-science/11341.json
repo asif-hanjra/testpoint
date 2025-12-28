@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the second most abundant metal in the Earth's crust?",
+      "options": {
+        "a": "Iron",
+        "b": "Copper",
+        "c": "Aluminum",
+        "d": "Zinc"
+      },
+      "one_liner": "Iron is recognized as the **second most abundant metal** in the Earth's crust, following aluminum.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

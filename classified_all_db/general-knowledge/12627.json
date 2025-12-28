@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "With which sport was Jahangir Khan associated?",
+      "options": {
+        "a": "Cricket",
+        "b": "Squash",
+        "c": "Hockey",
+        "d": "Tennis"
+      },
+      "one_liner": "Jahangir Khan is renowned for his outstanding achievements in the sport of **Squash**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

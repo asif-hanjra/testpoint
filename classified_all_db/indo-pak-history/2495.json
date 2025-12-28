@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Muhammad bin Qasim die after being recalled by the new caliph?",
+      "options": {
+        "a": "712 AD",
+        "b": "715 AD",
+        "c": "720 AD",
+        "d": "718 AD"
+      },
+      "one_liner": "Muhammad bin Qasim died in **715 AD** after being recalled by the new caliph.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Arrival of Muhammad bin Qasim to Subcontinent (712)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Abbasi Rulers (750-977)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Arrival of Muhammad bin Qasim to Subcontinent (712)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

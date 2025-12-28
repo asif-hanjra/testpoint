@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which lists of subjects were included in the Government of India Act, 1935?",
+      "options": {
+        "a": "Federal and Provincial only",
+        "b": "Federal and Concurrent only",
+        "c": "Provincial and Concurrent only",
+        "d": "Federal, Provincial, and Concurrent"
+      },
+      "one_liner": "The Government of India Act, 1935 included **federal, provincial, and concurrent lists of subjects**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

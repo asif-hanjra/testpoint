@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which part of the ear is responsible for maintaining balance?",
+      "options": {
+        "a": "Cochlea",
+        "b": "Semicircular Canals",
+        "c": "Ear Drum",
+        "d": "Auditory Canal"
+      },
+      "one_liner": "The **Semicircular Canals** in the inner ear are responsible for maintaining balance.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Ear",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Heart",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the status of Donbas in relation to Russia and Ukraine?",
+      "options": {
+        "a": "A disputed territory",
+        "b": "A neutral zone",
+        "c": "A Russian province",
+        "d": "A Ukrainian city"
+      },
+      "one_liner": "Donbas is considered a disputed territory between **Russia** and **Ukraine**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

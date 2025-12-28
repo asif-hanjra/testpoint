@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the main method used during the Salt March in 1930?",
+      "options": {
+        "a": "Armed rebellion",
+        "b": "Nonviolent civil disobedience",
+        "c": "Political negotiation",
+        "d": "Economic boycott"
+      },
+      "one_liner": "The main method used during the Salt March in 1930 was **nonviolent civil disobedience**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

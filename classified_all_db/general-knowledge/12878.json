@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Brazilian engineer was responsible for building the Christ the Redeemer statue?",
+      "options": {
+        "a": "Albert Caquot",
+        "b": "Heitor da Silva Costa",
+        "c": "Paul Landowski",
+        "d": "None of these"
+      },
+      "one_liner": "The Brazilian engineer who built the Christ the Redeemer statue was **Heitor da Silva Costa**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Christ the Redeemer",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Christ the Redeemer",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

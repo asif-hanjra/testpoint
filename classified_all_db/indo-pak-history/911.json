@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the founder of the Sur Empire in India?",
+      "options": {
+        "a": "Babur",
+        "b": "Sher Shah Suri",
+        "c": "Akbar",
+        "d": "None of these"
+      },
+      "one_liner": "The Sur Empire in India was founded by **Sher Shah Suri**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

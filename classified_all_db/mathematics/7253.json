@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If the roots of ax² + bx + c = 0 (a > 0) be greater than unity, then?",
+      "options": {
+        "a": "a + b + c < 0",
+        "b": "a + b + c > 0",
+        "c": "a + b + c = 0",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who gave a comprehensive economic policy for the first time in the Delhi Sultanate?",
+      "options": {
+        "a": "Iltutmish",
+        "b": "Alauddin Khalji",
+        "c": "Firoz Shah Tughlaq",
+        "d": "None of these"
+      },
+      "one_liner": "The first comprehensive economic policy in the Delhi Sultanate was introduced by **Alauddin Khalji**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

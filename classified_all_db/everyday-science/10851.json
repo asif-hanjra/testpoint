@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How much less was Al-Biruni's estimated Earth radius compared to the modern value?",
+      "options": {
+        "a": "15 km less",
+        "b": "50 km less",
+        "c": "100 km less",
+        "d": "None of these"
+      },
+      "one_liner": "Al-Biruni's estimate of the Earth's radius was only **15 km less** than the modern value of 6,353 km.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

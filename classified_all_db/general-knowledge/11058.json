@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did William Jefferson Clinton belong to during his presidency?",
+      "options": {
+        "a": "Republican Party",
+        "b": "Democratic Party",
+        "c": "Libertarian Party",
+        "d": "None of these"
+      },
+      "one_liner": "William Jefferson Clinton was affiliated with the **Democratic Party** during his presidency.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Some Famous Prime Ministers of United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

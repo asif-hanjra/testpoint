@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'Thoughts on Pakistan'?",
+      "options": {
+        "a": "Maulana Azad",
+        "b": "B. R. Ambedkar",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'Thoughts on Pakistan' was authored by **B. R. Ambedkar**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major announcement was made during the coronation ceremony held in Delhi in 1911?",
+      "options": {
+        "a": "Annulment of Partition of Bengal",
+        "b": "Shifting of capital from Calcutta to Delhi",
+        "c": "Both a and b",
+        "d": "None of these"
+      },
+      "one_liner": "During the 1911 coronation ceremony in Delhi, the British king announced the **shifting of the capital from Calcutta to Delhi and the annulment of the Partition of Bengal**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Calcutta to Delhi Shift / Annulment of Partition (1911)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Partition of Bengal (1905)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Calcutta to Delhi Shift / Annulment of Partition (1911)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

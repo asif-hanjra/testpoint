@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the founder of the Mughal Empire?",
+      "options": {
+        "a": "Zahiruddin Babur",
+        "b": "Humayun",
+        "c": "Akbar",
+        "d": "Aurangzeb"
+      },
+      "one_liner": "The Mughal Empire was founded by **Zahiruddin Babur**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Second Battle of Panipat (1556)",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

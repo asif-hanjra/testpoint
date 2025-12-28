@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two religious groups consider the Dome of the Rock to be sacred?",
+      "options": {
+        "a": "Muslims and Christians",
+        "b": "Jews and Christians",
+        "c": "Muslims and Jews",
+        "d": "None of these"
+      },
+      "one_liner": "The Dome of the Rock holds religious significance for both **Muslims and Jews**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

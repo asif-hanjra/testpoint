@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who established the Muslim League in Baluchistan in 1939?",
+      "options": {
+        "a": "Qazi Essa Khan",
+        "b": "Liaquat Ali Khan",
+        "c": "Abdul Rab Nishtar",
+        "d": "None of these"
+      },
+      "one_liner": "The Muslim League was established in **Baluchistan** in 1939 by Qazi Essa Khan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

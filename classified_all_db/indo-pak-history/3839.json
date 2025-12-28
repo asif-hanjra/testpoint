@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many reserved seats for Muslims did the Congress win in the 1946 provincial elections?",
+      "options": {
+        "a": "None",
+        "b": "One",
+        "c": "Two",
+        "d": "Three"
+      },
+      "one_liner": "In the 1946 provincial elections, the Congress did not win **even a single reserved seat for Muslims**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Lahore Resolution 1940",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

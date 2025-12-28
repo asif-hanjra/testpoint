@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "For how many years did Mughal King Akbar make Lahore his capital?",
+      "options": {
+        "a": "10 years",
+        "b": "14 years",
+        "c": "20 years",
+        "d": "None of these"
+      },
+      "one_liner": "Mughal King Akbar made Lahore his capital for **14 years** during his reign.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

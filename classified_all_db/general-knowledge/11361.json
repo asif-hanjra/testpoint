@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which airline is considered the oldest in the world?",
+      "options": {
+        "a": "KLM",
+        "b": "Qantas",
+        "c": "Lufthansa",
+        "d": "PIA"
+      },
+      "one_liner": "KLM is widely regarded as the **oldest airline in the world**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Airlines",
+          "chapter": "Media, Airlines & Airports"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

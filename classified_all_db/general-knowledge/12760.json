@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the last Maharaja of the Sikh Empire?",
+      "options": {
+        "a": "Ranjit Singh",
+        "b": "Sher Singh",
+        "c": "Duleep Singh",
+        "d": "None of these"
+      },
+      "one_liner": "The last Maharaja of the Sikh Empire was **Duleep Singh**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

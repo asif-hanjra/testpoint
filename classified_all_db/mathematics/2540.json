@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "For triangle ABC, if a² + b² < c² then the triangle is _____?",
+      "options": {
+        "a": "Acute triangle",
+        "b": "Obtuse triangle",
+        "c": "Right triangle",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

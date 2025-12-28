@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Thakht Bhai located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "KPK",
+        "d": "Balochistan"
+      },
+      "one_liner": "Thakht Bhai is an ancient site situated in **Khyber Pakhtunkhwa (KPK)** province of Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

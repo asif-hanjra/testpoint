@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Find gof, if f(t) = 1/t and g(t) = t³?",
+      "options": {
+        "a": "gof (t) = 1/t³",
+        "b": "gof (t) = 1/2",
+        "c": "gof (t) = 1/t",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Approximately how many calories are stored in each pound of body fat?",
+      "options": {
+        "a": "1500",
+        "b": "2500",
+        "c": "3500",
+        "d": "4500"
+      },
+      "one_liner": "Each pound of body fat stores roughly **3500 calories**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

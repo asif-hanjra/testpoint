@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who among the following was not a supporter of the Two Nations Theory?",
+      "options": {
+        "a": "Abul Kalam Azad",
+        "b": "Allama Iqbal",
+        "c": "Muhammad Ali Jinnah",
+        "d": "Liaquat Ali Khan"
+      },
+      "one_liner": "Abul Kalam Azad was notable for being **not a supporter** of the Two Nations Theory.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

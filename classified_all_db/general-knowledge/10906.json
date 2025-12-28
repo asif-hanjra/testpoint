@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many liters are there in one US gallon?",
+      "options": {
+        "a": "2.5 liters",
+        "b": "3.785 liters",
+        "c": "4.5 liters",
+        "d": "5 liters"
+      },
+      "one_liner": "One US gallon is equivalent to **3.785 liters**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Currencies of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

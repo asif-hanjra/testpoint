@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which years did Ahmad Shah Durrani carry out his invasions of India?",
+      "options": {
+        "a": "1707 to 1720",
+        "b": "1748 to 1767",
+        "c": "1757 to 1780",
+        "d": "1760 to 1785"
+      },
+      "one_liner": "The invasions of India by Ahmad Shah Durrani occurred between **1748 and 1767**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

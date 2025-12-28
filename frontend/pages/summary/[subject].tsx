@@ -151,7 +151,7 @@ export default function SummaryPage() {
                   </h3>
                   <div className="grid grid-cols-2 gap-4">
                     <div>
-                      <p className="text-sm text-gray-600">✓ Saved to final-db</p>
+                      <p className="text-sm text-gray-600">✓ Saved (kept)</p>
                       <p className="text-3xl font-bold text-green-600">
                         {summary.final_saved}
                       </p>
@@ -176,22 +176,28 @@ export default function SummaryPage() {
                 </div>
               </div>
 
-              {/* File locations */}
+              {/* File tracking info */}
               <div className="mt-8 bg-blue-50 rounded-lg p-6">
                 <h3 className="font-semibold text-gray-800 mb-3">
-                  📁 File Locations
+                  📁 File Tracking
                 </h3>
                 <div className="space-y-2 text-sm">
                   <div>
-                    <span className="text-gray-600">Saved MCQs:</span>
+                    <span className="text-gray-600">Source files:</span>
                     <code className="ml-2 bg-white px-2 py-1 rounded text-xs">
-                      /Users/mac/testpoint/final-db/{subject}/
+                      classified_db/{subject}/
                     </code>
                   </div>
                   <div>
-                    <span className="text-gray-600">Removed duplicates:</span>
+                    <span className="text-gray-600">Saved tracking:</span>
                     <code className="ml-2 bg-white px-2 py-1 rounded text-xs">
-                      /Users/mac/testpoint/removed_duplicates_db/{subject}/
+                      saved-track/{subject}.json, final-track/{subject}.json
+                    </code>
+                  </div>
+                  <div>
+                    <span className="text-gray-600">Removed tracking:</span>
+                    <code className="ml-2 bg-white px-2 py-1 rounded text-xs">
+                      removed-track/{subject}.json
                     </code>
                   </div>
                 </div>

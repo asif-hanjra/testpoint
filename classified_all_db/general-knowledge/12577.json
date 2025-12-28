@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is another name for the United Nations Conference on Environment and Development (UNCED)?",
+      "options": {
+        "a": "Kyoto Protocol",
+        "b": "Paris Agreement",
+        "c": "Rio Summit",
+        "d": "Stockholm Conference"
+      },
+      "one_liner": "The United Nations Conference on Environment and Development is also widely known as the **Rio Summit**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

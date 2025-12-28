@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If D = 1*10*100 the sum of the digits of D/8 + D/5 + D/4 + D/2 is?",
+      "options": {
+        "a": "14",
+        "b": "107",
+        "c": "1075",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

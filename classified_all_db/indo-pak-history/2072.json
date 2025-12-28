@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the Emperor of India after the battle of Samugarh?",
+      "options": {
+        "a": "Shah Jahan",
+        "b": "Dara Shakoh",
+        "c": "Aurangzeb",
+        "d": "Bahadur Shah"
+      },
+      "one_liner": "After the battle of Samugarh, **Aurangzeb** became the Emperor of India.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

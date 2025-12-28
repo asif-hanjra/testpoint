@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the normal body temperature of a healthy human in degrees Celsius?",
+      "options": {
+        "a": "36.9°C",
+        "b": "37.9°C",
+        "c": "35.9°C",
+        "d": "38.9°C"
+      },
+      "one_liner": "The normal body temperature of a healthy human is typically **36.9°C**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

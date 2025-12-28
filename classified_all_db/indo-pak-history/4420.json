@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did the Khilafat Movement against the British begin under the leadership of the Ali Brothers?",
+      "options": {
+        "a": "1919",
+        "b": "1920",
+        "c": "1922",
+        "d": "1930"
+      },
+      "one_liner": "The Khilafat Movement, led by the Ali Brothers, began against the British in the year **1920**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

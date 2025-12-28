@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Mughal emperor was responsible for the construction of Bibi Ka Maqbara in Aurangabad?",
+      "options": {
+        "a": "Akbar",
+        "b": "Aurangzeb",
+        "c": "Shah Jahan",
+        "d": "Bahadur Shah I"
+      },
+      "one_liner": "The tomb of Rabia Daurani, known as Bibi Ka Maqbara in Aurangabad, was built by **Aurangzeb**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

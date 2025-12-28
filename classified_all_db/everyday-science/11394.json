@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the common name for artificial silk?",
+      "options": {
+        "a": "Nylon",
+        "b": "Rayon",
+        "c": "Polyester",
+        "d": "Silk"
+      },
+      "one_liner": "Artificial silk is commonly referred to as **rayon**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Chemistry",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

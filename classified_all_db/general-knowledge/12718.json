@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city was previously known as Angora?",
+      "options": {
+        "a": "Oslo",
+        "b": "Ankara",
+        "c": "Beijing",
+        "d": "Mumbai"
+      },
+      "one_liner": "The city once called Angora is now known as **Ankara**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

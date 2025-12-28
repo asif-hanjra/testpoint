@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ruler's territories did the Mongols fail to capture during his 20-year reign, marking the dynasty's golden age?",
+      "options": {
+        "a": "Alauddin Khalji",
+        "b": "Balban",
+        "c": "Iltutmish",
+        "d": "Ghiyasuddin Tughlaq"
+      },
+      "one_liner": "During his 20-year reign, the Mongols failed to capture the territories of **Alauddin Khalji**, marking the dynasty's golden age.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

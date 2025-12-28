@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If (Z, ∗) is a group with a ∗ b = a + b + 1, ∀a, b ∈ Z. The inverse of a is?",
+      "options": {
+        "a": "-a -2",
+        "b": "a - 2",
+        "c": "-2",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the name of Ceylon officially changed to Sri Lanka?",
+      "options": {
+        "a": "1948",
+        "b": "1965",
+        "c": "1972",
+        "d": "1980"
+      },
+      "one_liner": "The country formerly known as Ceylon officially changed its name to **Sri Lanka** in 1972.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Changed Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

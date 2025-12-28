@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Beri-beri is caused due to the deficiency of which vitamin?",
+      "options": {
+        "a": "Vitamin B2 (Riboflavin)",
+        "b": "Vitamin B12 (Cyanocobalamin)",
+        "c": "Vitamin B1 (Thiamine)",
+        "d": "Vitamin K (Phylloquinone)"
+      },
+      "one_liner": "The disease Beri-beri results from a deficiency of **Vitamin B1 (Thiamine)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

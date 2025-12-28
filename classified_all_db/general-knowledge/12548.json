@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the book written by Abu Jafar Altusi?",
+      "options": {
+        "a": "Al-Ibtisar",
+        "b": "Al-Kafi",
+        "c": "Al-Muwatta",
+        "d": "None of these"
+      },
+      "one_liner": "The book authored by Abu Jafar Altusi is known as **Al-Ibtisar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

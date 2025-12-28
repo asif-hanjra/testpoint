@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the main purpose of the Trusteeship Council?",
+      "options": {
+        "a": "Economic development",
+        "b": "Military protection",
+        "c": "Self-government and independence",
+        "d": "Cultural exchange"
+      },
+      "one_liner": "The main purpose of the Trusteeship Council was to ensure that Trust Territories were prepared for **self-government and independence**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was born at the time of Mumtaz Mahal's death?",
+      "options": {
+        "a": "Jahanara Begum",
+        "b": "Roshanara Begum",
+        "c": "Gauhara Begum",
+        "d": "Zeb-un-Nisa"
+      },
+      "one_liner": "Gauhara Begum, daughter of Shah Jahan and Mumtaz Mahal, was born at the time of Mumtaz Mahal's death.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

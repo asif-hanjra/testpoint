@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of the famous throne made by Tipu Sultan?",
+      "options": {
+        "a": "Peacock Throne",
+        "b": "Tukhtay-Huma",
+        "c": "Takht-e-Taus",
+        "d": "None of these"
+      },
+      "one_liner": "Tipu Sultan crafted a renowned throne known as the **Tukhtay-Huma**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the old name of table tennis?",
+      "options": {
+        "a": "Ping pong",
+        "b": "Shuttlecock",
+        "c": "Badminton",
+        "d": "None of these"
+      },
+      "one_liner": "The old name for table tennis was **Ping pong**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Facts about Sports",
+          "chapter": "Sports"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Table Tennis",
+          "chapter": "Sports"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

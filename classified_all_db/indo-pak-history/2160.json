@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "The Durand Line serves as the international border between which two countries?",
+      "options": {
+        "a": "Pakistan and India",
+        "b": "Pakistan and China",
+        "c": "Pakistan and Afghanistan",
+        "d": "Afghanistan and Iran"
+      },
+      "one_liner": "The Durand Line is the international border demarcating **Pakistan and Afghanistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

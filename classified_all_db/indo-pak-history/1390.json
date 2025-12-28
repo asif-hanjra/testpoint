@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year did the War of Independence 1857 officially end?",
+      "options": {
+        "a": "November 1857",
+        "b": "November 1858",
+        "c": "December 1858",
+        "d": "October 1858"
+      },
+      "one_liner": "The War of Independence 1857 officially ended in **November 1858**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

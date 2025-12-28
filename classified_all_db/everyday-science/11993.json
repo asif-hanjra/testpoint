@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the only woman to have won the Nobel Prize twice?",
+      "options": {
+        "a": "Marie Curie",
+        "b": "Irène Joliot-Curie",
+        "c": "Elizabeth Blackburn",
+        "d": "All of these"
+      },
+      "one_liner": "The only woman to have won the Nobel Prize twice is **Marie Curie**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Three Best-Known Greek Philosophers",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

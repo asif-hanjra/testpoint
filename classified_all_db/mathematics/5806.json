@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the factorized form of the expression: x² + 5x + 4?",
+      "options": {
+        "a": "(x + 4)(x + 1)",
+        "b": "(x + 3)(x + 2)",
+        "c": "(x + 5)(x - 1)",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "What did the C. R. formula primarily recommend regarding India's future?",
+      "options": {
+        "a": "Immediate partition of India",
+        "b": "Joint efforts for independence",
+        "c": "Formation of a separate Muslim state",
+        "d": "None of these"
+      },
+      "one_liner": "The C. R. formula primarily recommended **joint efforts for the independence of India** rather than explicitly discussing partition.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

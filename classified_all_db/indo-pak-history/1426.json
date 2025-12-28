@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who started the Faraizi movement in the Indian subcontinent?",
+      "options": {
+        "a": "Syed Ahmad Barelvi",
+        "b": "Haji Shariatullah",
+        "c": "Shah Waliullah",
+        "d": "Sir Syed Ahmed Khan"
+      },
+      "one_liner": "The Faraizi movement in the Indian subcontinent was initiated by **Haji Shariatullah**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "The solution of (1+1/x) (1+1/x+1) (1+1/x+2) (1 + 1/x + 3) is?",
+      "options": {
+        "a": "x + 6/x",
+        "b": "x + 8/x",
+        "c": "x + 4/x",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2021
+}

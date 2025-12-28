@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "HCF and LCM of two polynomials are x - 2 and x³ + 3x² - 6x - 8 respectively. If one polynomial is x² - x - 2, find the second polynomial?",
+      "options": {
+        "a": "x² + 2x - 8",
+        "b": "x² - 2x - 8",
+        "c": "x² - 2x + 8",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

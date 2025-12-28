@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who emerged victorious in the First Battle of Panipat?",
+      "options": {
+        "a": "Ibrahim Lodi",
+        "b": "Sher Shah Suri",
+        "c": "Babur",
+        "d": "Akbar"
+      },
+      "one_liner": "**Babur** emerged victorious in the First Battle of Panipat by defeating Ibrahim Lodi.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

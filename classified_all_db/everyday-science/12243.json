@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organ is responsible for storing bile in the human body?",
+      "options": {
+        "a": "Liver",
+        "b": "Gall bladder",
+        "c": "Pancreas",
+        "d": "Stomach"
+      },
+      "one_liner": "The organ that stores bile in the human body is the **gall bladder**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Digestive System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

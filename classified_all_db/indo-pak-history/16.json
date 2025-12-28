@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose rule was Rohtas Fort constructed in Pakistan?",
+      "options": {
+        "a": "Humayun",
+        "b": "Sher Shah Suri",
+        "c": "Babur",
+        "d": "All of these"
+      },
+      "one_liner": "The construction of Rohtas Fort in Pakistan took place under the rule of **Sher Shah Suri**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

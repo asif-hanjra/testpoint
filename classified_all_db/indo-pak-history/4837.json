@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Mughal emperor enforced Din-i-Ilahi?",
+      "options": {
+        "a": "Akbar",
+        "b": "Aurangzeb",
+        "c": "Babur",
+        "d": "Jahangir"
+      },
+      "one_liner": "The Mughal emperor who enforced Din-i-Ilahi was **Akbar**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

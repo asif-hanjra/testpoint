@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following best describes Khwaja Syed Muhammad Qutuddin Bakhtiar Kaki?",
+      "options": {
+        "a": "A Mughal emperor",
+        "b": "A Sufi mystic, saint, and scholar",
+        "c": "A British colonial officer",
+        "d": "A Sikh leader"
+      },
+      "one_liner": "Khwaja Syed Muhammad Qutuddin Bakhtiar Kaki was a **renowned Muslim Sufi mystic, saint, and scholar**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Ghurids Dynasty (1186-1215)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of the armed group formed by Bolsheviks and socialists after the Provisional Government refused to end the war?",
+      "options": {
+        "a": "White Army",
+        "b": "Red Guards",
+        "c": "Green Army",
+        "d": "None of these"
+      },
+      "one_liner": "After the Provisional Government refused to end the war, Bolsheviks and socialists formed the **Red Guards**, later known as the Red Army.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "World War I (1914-1918)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Vladimir Lenin",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Russian Revolution (1917-1922)",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

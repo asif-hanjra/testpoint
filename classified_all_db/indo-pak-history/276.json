@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who built the Derawar Fort?",
+      "options": {
+        "a": "Raj Jaya Bhatti",
+        "b": "Sher Shah Suri",
+        "c": "Aurangzeb",
+        "d": "None of these"
+      },
+      "one_liner": "Derawar Fort was constructed by **Raj Jaya Bhatti**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

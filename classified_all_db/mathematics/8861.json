@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The LCM of two prime numbers a and b is?",
+      "options": {
+        "a": "a + b",
+        "b": "a/b",
+        "c": "ab",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

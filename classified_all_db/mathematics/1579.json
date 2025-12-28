@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The cardinality of the power set of {x: x ∈ N, x ≤ 10} is?",
+      "options": {
+        "a": "2023",
+        "b": "2048",
+        "c": "1024",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

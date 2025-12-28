@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the Governor-General of British India when Fort William College was founded?",
+      "options": {
+        "a": "Lord Cornwallis",
+        "b": "Lord Wellesley",
+        "c": "Lord Dalhousie",
+        "d": "None of these"
+      },
+      "one_liner": "**Lord Wellesley** was the Governor-General of British India at the time of Fort William College's founding in 1800.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

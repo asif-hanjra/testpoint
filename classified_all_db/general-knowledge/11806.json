@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country is the largest producer of hydroelectricity?",
+      "options": {
+        "a": "United States",
+        "b": "Brazil",
+        "c": "China",
+        "d": "Canada"
+      },
+      "one_liner": "China holds the distinction of being the world's largest producer of hydroelectricity, surpassing all other nations in hydroelectric output.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "China",
+          "chapter": "Countries of the World"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

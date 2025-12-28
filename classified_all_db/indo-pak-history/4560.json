@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is considered the chief architect of the Taj Mahal?",
+      "options": {
+        "a": "Ustad Isa",
+        "b": "Ahmad Lahauri",
+        "c": "Shah Jahan",
+        "d": "None of these"
+      },
+      "one_liner": "The chief architect of the Taj Mahal is widely regarded as **Ahmad Lahauri**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

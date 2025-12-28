@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries were on the winning side in World War 1 from 1914 to 1918?",
+      "options": {
+        "a": "Britain, France, America, and Russia",
+        "b": "Germany, Austria, and Turkey",
+        "c": "Italy, Spain, and Japan",
+        "d": "None of these"
+      },
+      "one_liner": "During World War 1, the winning countries included **Britain, France, America, and Russia**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

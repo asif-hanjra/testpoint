@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ruler is known for increasing taxes during his reign in the Delhi Sultanate?",
+      "options": {
+        "a": "Iltutmish",
+        "b": "Muhammad-bin-Tughlaq",
+        "c": "Balban",
+        "d": "Qutb-ud-din Aibak"
+      },
+      "one_liner": "The ruler who is known for increasing taxes during his reign was **Muhammad-bin-Tughlaq**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

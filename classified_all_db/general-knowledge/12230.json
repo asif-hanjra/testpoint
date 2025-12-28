@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to French historians, when did the Enlightenment period begin and end?",
+      "options": {
+        "a": "1600 to 1700",
+        "b": "1715 to 1789",
+        "c": "1750 to 1800",
+        "d": "1700 to 1750"
+      },
+      "one_liner": "French historians mark the Enlightenment period as lasting from **1715 to the French Revolution in 1789**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "French Revolution (1789-1799)",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Napoleon Bonaparte",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

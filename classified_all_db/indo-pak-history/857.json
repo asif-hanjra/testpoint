@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'The Charismatic Leader: Quaid-i-Azam Mohammad Ali'?",
+      "options": {
+        "a": "Sir Sikandar Hayat",
+        "b": "Stanley Wolpert",
+        "c": "Ayesha Jalal",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'The Charismatic Leader: Quaid-i-Azam Mohammad Ali' was authored by **Sir Sikandar Hayat**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

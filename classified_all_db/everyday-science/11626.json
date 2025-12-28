@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In the human eye, which part is analogous to the film in a camera?",
+      "options": {
+        "a": "Cornea",
+        "b": "Retina",
+        "c": "Lens",
+        "d": "Iris"
+      },
+      "one_liner": "Just as the film in a camera captures images, the **retina** in the human eye serves a similar function by receiving and processing light to form visual images.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Instruments",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Eye",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

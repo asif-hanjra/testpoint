@@ -283,7 +283,7 @@ async def process_subject(subject: str):
             print(f"ERROR: Math doesn't add up! Missing {total_files - (len(files_in_groups) + len(non_duplicate_files))} files")
         
         # Save non-duplicates to saved-track (merge with existing, sort by number)
-        # NOTE: Files are NOT automatically copied to final-db - user must save manually
+        # NOTE: Files are tracked in saved-track JSON only (no file copying)
         if non_duplicate_files:
             print(f"[MAIN] Saving {len(non_duplicate_files)} non-duplicates to saved-track...")
             saved_tracking_list = file_manager.save_saved_tracking(subject, non_duplicate_files)
@@ -296,9 +296,9 @@ async def process_subject(subject: str):
             "non_duplicate_count": non_duplicate_count,
             "similar_count": total_files - non_duplicate_count,
             "group_count": len(groups_pairwise),
-            "auto_saved_count": 0,  # No auto-save to final-db
-            "already_saved_count": 0,  # No auto-save to final-db
-            "actual_saved_count": 0,  # No auto-save to final-db
+            "auto_saved_count": 0,  # No auto-save (tracked in saved-track only)
+            "already_saved_count": 0,  # No auto-save (tracked in saved-track only)
+            "actual_saved_count": 0,  # No auto-save (tracked in saved-track only)
             "errors": 0,  # No file copy errors
             "error_details": [],  # No file copy errors
             "similarity_bins": similarity_bins
@@ -313,9 +313,11 @@ async def process_subject(subject: str):
 
 @app.post("/api/save-all")
 async def save_all_files(request: SaveAllRequest):
-    """Copy all files to final-db"""
+    """DEPRECATED: This endpoint is no longer needed with final-track system"""
     try:
-        copied_count, errors = file_manager.copy_all_files(request.subject)
+        # This endpoint is deprecated but kept for backward compatibility
+        # With final-track, files are automatically tracked via submit-group
+        # No file copying is needed
         
         # Update session to mark files as saved (metadata only)
         session = session_manager.load_session(request.subject)
@@ -328,8 +330,9 @@ async def save_all_files(request: SaveAllRequest):
         
         return {
             "success": True,
-            "copied_count": copied_count,
-            "errors": errors
+            "copied_count": 0,
+            "errors": [],
+            "message": "Deprecated: Using final-track system, no file copying needed"
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -389,26 +392,20 @@ async def get_groups(subject: str):
 
 @app.post("/api/toggle-mcq")
 async def toggle_mcq(request: ToggleMCQRequest):
-    """Toggle MCQ between saved and removed"""
+    """Toggle MCQ between saved and removed (using tracking JSONs only)"""
     try:
-        # Determine direction: checked=True means save (remove from removed-track)
+        # Determine direction: checked=True means save (add to final-track)
         to_removed = not request.checked
         
-        success = file_manager.move_file(request.subject, request.filename, to_removed)
-        
-        if not success and to_removed:
-            # If moving to removed and file doesn't exist in final_db, that's okay
-            # Just update removed-track
-            pass
-        elif not success:
-            raise HTTPException(status_code=400, detail="Failed to move file")
-        
-        # Update removed-track JSON
+        # Update tracking JSONs (no file operations)
         if to_removed:
-            # Add to removed-track
+            # Add to removed-track and remove from final-track
             file_manager.save_removed_tracking(request.subject, [request.filename])
+            file_manager.remove_from_final_tracking(request.subject, [request.filename])
+            print(f"[MAIN] Toggled {request.filename} to removed")
         else:
-            # Remove from removed-track
+            # Add to final-track and remove from removed-track
+            file_manager.save_final_tracking(request.subject, [request.filename])
             current_removed = set(file_manager.load_removed_tracking(request.subject))
             if request.filename in current_removed:
                 updated_removed = current_removed - {request.filename}
@@ -418,6 +415,7 @@ async def toggle_mcq(request: ToggleMCQRequest):
                 try:
                     with open(tracking_file, 'w', encoding='utf-8') as f:
                         json.dump(sorted(list(updated_removed)), f, indent=2)
+                    print(f"[MAIN] Toggled {request.filename} to saved")
                 except Exception as e:
                     print(f"[MAIN] Warning: Failed to update removed-track: {e}")
         
@@ -490,77 +488,51 @@ async def submit_group(request: SubmitGroupRequest):
         kept_files = []
         removed_files = []
         
-        # Process each file in group
+        # Process each file in group using final-track (no file copying)
         for filename in group_files:
             is_checked = filename in request.checked_files
             current_status = file_manager.get_file_status(request.subject, filename)
             
-            # New behavior: Only save/remove on submit
+            # New behavior: Update tracking JSONs only (no file operations)
             if is_checked:
-                # File is checked - should be in final_db
+                # File is checked - should be in final-track
                 if current_status == "unknown":
-                    # File is in classified_db only - COPY to final_db (don't move)
-                    if file_manager.copy_file_to_final(request.subject, filename):
-                        saved_count += 1
-                        newly_added_to_saved += 1
-                        kept_files.append(filename)
-                    else:
-                        # Already exists or copy failed
-                        saved_count += 1
-                        kept_files.append(filename)
+                    # File is in classified_db only - add to final-track
+                    saved_count += 1
+                    newly_added_to_saved += 1
+                    kept_files.append(filename)
+                    print(f"Adding {filename} to final-track (was unknown)")
                 elif current_status == "removed":
-                    # File was previously removed - remove from removed-track and copy to final_db
-                    # File is in classified_db, just copy to final_db (removed-track will be updated below)
-                    source = file_manager.classified_path / request.subject / filename
-                    dest_dir = file_manager.final_path / request.subject
-                    dest_dir.mkdir(parents=True, exist_ok=True)
-                    dest = dest_dir / filename
-                    
-                    if source.exists() and not dest.exists():
-                        import shutil
-                        shutil.copy2(str(source), str(dest))
-                        saved_count += 1
-                        newly_added_to_saved += 1
-                        kept_files.append(filename)
-                        print(f"Copied checked file {filename} from classified_db to final_db (was in removed-track)")
-                    elif dest.exists():
-                        saved_count += 1
-                        kept_files.append(filename)
-                    else:
-                        saved_count += 1
-                        kept_files.append(filename)
+                    # File was previously removed - will be removed from removed-track and added to final-track
+                    saved_count += 1
+                    newly_added_to_saved += 1
+                    kept_files.append(filename)
+                    print(f"Adding {filename} to final-track (was in removed-track)")
                 elif current_status == "saved":
-                    # File already saved - no action needed
+                    # File already saved (in final-track or saved-track) - no action needed
                     saved_count += 1
                     kept_files.append(filename)
             else:
-                # File is unchecked - should be in removed_db
+                # File is unchecked - should be in removed-track
                 if current_status == "saved":
-                    # File was previously saved - remove from final_db (removed-track will be updated below)
-                    source = file_manager.final_path / request.subject / filename
-                    if source.exists():
-                        try:
-                            source.unlink()
-                            print(f"Removed unchecked file {filename} from final_db (will be added to removed-track)")
-                        except Exception as e:
-                            print(f"Warning: Failed to delete {filename} from final_db: {e}")
+                    # File was previously saved - will be added to removed-track and removed from final-track
                     removed_count += 1
                     moved_to_removed += 1
                     unchecked_from_saved += 1
                     newly_added_to_removed += 1
                     removed_files.append(filename)
+                    print(f"Adding {filename} to removed-track (was saved)")
                 elif current_status == "removed":
                     # File already removed - no action needed
                     removed_count += 1
                     unchecked_from_saved += 1
                     removed_files.append(filename)
                 elif current_status == "unknown":
-                    # File is in classified_db only - just mark as removed (no file copy needed)
-                    # File stays in classified_db, just added to removed-track JSON
+                    # File is in classified_db only - add to removed-track
                     removed_count += 1
                     newly_added_to_removed += 1
                     removed_files.append(filename)
-                    print(f"Marked unchecked file {filename} as removed (added to removed-track, file stays in classified_db)")
+                    print(f"Adding {filename} to removed-track (was unknown)")
         
         # Mark group as completed in session (metadata only)
         session = session_manager.load_session(request.subject)
@@ -639,30 +611,34 @@ async def submit_group(request: SubmitGroupRequest):
             if request.subject in sessions:
                 sessions[request.subject].update(session_metadata)
         
-        # Update removed-track JSON with newly removed files (if any)
-        if removed_files:
-            print(f"[MAIN] Updating removed-track with {len(removed_files)} removed files...")
-            file_manager.save_removed_tracking(request.subject, removed_files)
-        
-        # Remove files from removed-track if they were checked (un-removed)
+        # Update final-track JSON with kept files (if any)
         if kept_files:
-            # Load current removed-track
-            current_removed = set(file_manager.load_removed_tracking(request.subject))
+            print(f"[MAIN] Updating final-track with {len(kept_files)} kept files...")
+            file_manager.save_final_tracking(request.subject, kept_files)
+            
             # Remove kept files from removed-track (they're no longer removed)
-            files_to_remove_from_tracking = [f for f in kept_files if f in current_removed]
-            if files_to_remove_from_tracking:
-                updated_removed = current_removed - set(files_to_remove_from_tracking)
-                print(f"[MAIN] Removing {len(files_to_remove_from_tracking)} files from removed-track (they were checked/kept)...")
-                # Save updated list (convert to list and sort)
+            current_removed = set(file_manager.load_removed_tracking(request.subject))
+            files_to_remove_from_removed = [f for f in kept_files if f in current_removed]
+            if files_to_remove_from_removed:
+                updated_removed = current_removed - set(files_to_remove_from_removed)
+                print(f"[MAIN] Removing {len(files_to_remove_from_removed)} files from removed-track...")
                 tracking_path = file_manager.project_root / "removed-track"
                 tracking_file = tracking_path / f"{request.subject}.json"
                 tracking_path.mkdir(parents=True, exist_ok=True)
                 try:
                     with open(tracking_file, 'w', encoding='utf-8') as f:
                         json.dump(sorted(list(updated_removed)), f, indent=2)
-                    print(f"[MAIN] Updated removed-track: removed {len(files_to_remove_from_tracking)} files")
+                    print(f"[MAIN] Updated removed-track")
                 except Exception as e:
                     print(f"[MAIN] Warning: Failed to update removed-track: {e}")
+        
+        # Update removed-track JSON with newly removed files (if any)
+        if removed_files:
+            print(f"[MAIN] Updating removed-track with {len(removed_files)} removed files...")
+            file_manager.save_removed_tracking(request.subject, removed_files)
+            
+            # Remove removed files from final-track (they're no longer kept)
+            file_manager.remove_from_final_tracking(request.subject, removed_files)
         
         return {
             "success": True,
@@ -870,7 +846,7 @@ async def clear_session(subject: str):
         # Clear cache
         cache_manager.clear_cache(subject)
         
-        # Delete all files from final-db and removed_duplicates_db
+        # Clear final-track JSON (no file deletion needed)
         final_deleted, removed_deleted = file_manager.clear_subject_files(subject)
         
         
@@ -916,7 +892,7 @@ async def prepare_and_process(subject: str, resume_sbert: bool = Query(False)):
         if not resume_sbert:
             raise HTTPException(status_code=400, detail="resume_sbert parameter must be true")
         
-        # Clear session, cache, groups, final-db, and removed-db (same as Start Again)
+        # Clear session, cache, groups, and final-track (same as Start Again)
         print(f"[MAIN] Clearing session, cache, groups, and databases for {subject}...")
         
         # Clear in-memory session
@@ -932,9 +908,9 @@ async def prepare_and_process(subject: str, resume_sbert: bool = Query(False)):
         # Clear groups
         groups_manager.clear_groups(subject)
         
-        # Delete all files from final-db and removed_duplicates_db
+        # Clear final-track JSON (no file deletion needed)
         final_deleted, removed_deleted = file_manager.clear_subject_files(subject)
-        print(f"[MAIN] Cleared {final_deleted} files from final-db, {removed_deleted} files from removed-db")
+        print(f"[MAIN] Cleared {final_deleted} files from final-track")
         
         # Prepare subject: copy non-removed files from master copy to working folder
         print(f"[MAIN] Preparing subject {subject} for SBERT (excluding removed files)...")

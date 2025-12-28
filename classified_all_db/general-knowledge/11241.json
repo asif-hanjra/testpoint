@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date did the Trusteeship Council adopt a resolution to amend its rules of procedure regarding meetings?",
+      "options": {
+        "a": "1 November 1994",
+        "b": "25 May 1994",
+        "c": "1 January 1994",
+        "d": "15 August 1994"
+      },
+      "one_liner": "The Trusteeship Council adopted a resolution to amend its meeting rules on **25 May 1994**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "History of United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Main Bodies of United Nations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

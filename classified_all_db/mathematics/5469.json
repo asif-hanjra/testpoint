@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A rectangle has a length of x³ - x + 2 and a width of x + x². What is the area of the rectangle when x = 2?",
+      "options": {
+        "a": "36 square units",
+        "b": "24 square units",
+        "c": "48 square units",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the First Round Table Conference held?",
+      "options": {
+        "a": "12 November 1930-19 January 1931",
+        "b": "07 September 1931-01 December 1931",
+        "c": "17 November 1932-24 December 1932",
+        "d": "None of these"
+      },
+      "one_liner": "The First Round Table Conference was held from **12 November 1930 to 19 January 1931** in London.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

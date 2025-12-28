@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was Sheikh Abdul Qadir al-Jilani born?",
+      "options": {
+        "a": "18 March 1077",
+        "b": "10 Muharram 680",
+        "c": "15 July 1099",
+        "d": "1 Ramadan 570"
+      },
+      "one_liner": "The birth date of Sheikh Abdul Qadir al-Jilani is **18 March 1077**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

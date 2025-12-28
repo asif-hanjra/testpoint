@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What do Jews traditionally do at the Western Wall in Jerusalem?",
+      "options": {
+        "a": "Offer sacrifices",
+        "b": "Dance",
+        "c": "Pray and weep",
+        "d": "Light candles"
+      },
+      "one_liner": "Jews traditionally pray and weep at the **Western Wall** in Jerusalem.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who founded Jamat-e-Islami?",
+      "options": {
+        "a": "Syed Abul Ala Maududi",
+        "b": "Allama Iqbal",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Jamat-e-Islami was founded by **Syed Abul Ala Maududi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

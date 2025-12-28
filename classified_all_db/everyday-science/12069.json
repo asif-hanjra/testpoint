@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which vaccines have been developed for the COVID-19 pandemic?",
+      "options": {
+        "a": "Moderna and Pfizer",
+        "b": "Sinovac and Sinopharm",
+        "c": "All of these",
+        "d": "None of these"
+      },
+      "one_liner": "Vaccines for the COVID-19 pandemic include **Moderna, Pfizer, Sinovac, and Sinopharm**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

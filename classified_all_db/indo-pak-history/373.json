@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Shah Jahan buried after his death in January 1666?",
+      "options": {
+        "a": "Red Fort",
+        "b": "Jama Masjid",
+        "c": "Taj Mahal, Agra",
+        "d": "None of these"
+      },
+      "one_liner": "Shah Jahan was buried at the **Taj Mahal in Agra** after his death in 1666.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

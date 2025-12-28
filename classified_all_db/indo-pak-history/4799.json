@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Aurangzeb Alamgir buried?",
+      "options": {
+        "a": "Delhi",
+        "b": "Agra",
+        "c": "Khuldabad",
+        "d": "Lahore"
+      },
+      "one_liner": "Aurangzeb Alamgir is buried in **Khuldabad**, which is located in present-day Maharashtra, India.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

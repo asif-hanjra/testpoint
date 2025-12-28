@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which architectural team completed the Sydney Opera House after Jørn Utzon?",
+      "options": {
+        "a": "Gustave Eiffel",
+        "b": "Peter Hall",
+        "c": "Frank Gehry",
+        "d": "None of these"
+      },
+      "one_liner": "An Australian architectural team headed by **Peter Hall** completed the Sydney Opera House after Jørn Utzon.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Sydney Opera House",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Eiffel Tower",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

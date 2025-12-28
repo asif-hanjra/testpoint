@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If set A contains 2 elements and set B contains 3 elements, how many relations can be formed from A × B?",
+      "options": {
+        "a": "64",
+        "b": "16",
+        "c": "32",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

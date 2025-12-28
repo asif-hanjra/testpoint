@@ -1,0 +1,23 @@
+{
+  "mcq": [
+    {
+      "statement": "انجمن ترقی اُردو کا دفتر کہاں واقع ہے؟",
+      "options": {
+        "a": "لاہور",
+        "b": "اسلام آباد",
+        "c": "کراچی",
+        "d": "پشاور"
+      },
+      "one_liner": "انجمن ترقی اُردو کا دفتر **کراچی** میں واقع ہے۔",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

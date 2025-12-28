@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the average weight of a male brain?",
+      "options": {
+        "a": "56 ounces",
+        "b": "46 ounces",
+        "c": "66 ounces",
+        "d": "None of these"
+      },
+      "one_liner": "The average weight of a male brain is approximately **56 ounces**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

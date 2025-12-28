@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote the book 'Hayat-e-Javed' about the life of Sir Syed Ahmad Khan?",
+      "options": {
+        "a": "Altaf Hussain Hali",
+        "b": "Shibli Nomani",
+        "c": "Maulana Azad",
+        "d": "None of these"
+      },
+      "one_liner": "The biography 'Hayat-e-Javed' about Sir Syed Ahmad Khan was authored by **Altaf Hussain Hali**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

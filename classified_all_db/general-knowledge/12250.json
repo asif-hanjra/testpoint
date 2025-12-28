@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is recognized as the national poet of Afghanistan?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Khushal Khan Khattak",
+        "c": "Rehman Baba",
+        "d": "None of these"
+      },
+      "one_liner": "Khushal Khan Khattak is recognized as the **national poet of Afghanistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Khushal Khan Khattak",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Khushal Khan Khattak",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

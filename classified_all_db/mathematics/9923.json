@@ -1,0 +1,17 @@
+{
+  "mcq": [
+    {
+      "statement": "Considering the following pattern 2² + 1 = 5, 3² + 1 = 10, 4² + 17, 5² + 1 = 26, . . . . . . ., the 8th line in the pattern is?",
+      "options": {
+        "a": "8² + 1 = 64",
+        "b": "10² + 1 = 101",
+        "c": "7² + 1 = 50",
+        "d": "9² + 1 = 82"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ],
+  "year": 2024
+}

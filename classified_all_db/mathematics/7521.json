@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A = [ 1  0, 0  1] is called _____?",
+      "options": {
+        "a": "Unit",
+        "b": "Scalar",
+        "c": "Diagonal",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

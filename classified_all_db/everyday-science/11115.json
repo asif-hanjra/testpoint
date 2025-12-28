@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following are made of proteins?",
+      "options": {
+        "a": "Hair",
+        "b": "Finger nails",
+        "c": "Hoofs",
+        "d": "All of these"
+      },
+      "one_liner": "Structures such as **hair, finger nails, and hoofs** are all composed of proteins.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

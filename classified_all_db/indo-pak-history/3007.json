@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Was the Rowlatt Act of 1919 ever actually implemented in British India?",
+      "options": {
+        "a": "Yes, it was fully enforced",
+        "b": "No, it was never actually implemented",
+        "c": "It was partially implemented",
+        "d": "None of these"
+      },
+      "one_liner": "Despite its passage, the Rowlatt Act of 1919 was **never actually implemented** in British India.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Jallianwala Bagh Massacre",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Rowlatt Act",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

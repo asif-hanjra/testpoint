@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many members were proposed for the Lower House (Indian Legislative Assembly) in the Nehru Report?",
+      "options": {
+        "a": "300",
+        "b": "200",
+        "c": "500",
+        "d": "None of these"
+      },
+      "one_liner": "The Nehru Report proposed that the Lower House, or Indian Legislative Assembly, should have **300 members**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

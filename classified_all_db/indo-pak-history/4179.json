@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Tipu Sultan's allegiance was associated with which country?",
+      "options": {
+        "a": "Portugal",
+        "b": "France",
+        "c": "Netherlands",
+        "d": "Spain"
+      },
+      "one_liner": "Tipu Sultan's allegiance was notably associated with **France**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

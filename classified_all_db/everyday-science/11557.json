@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which shape best describes the thyroid gland?",
+      "options": {
+        "a": "Bow tie or butterfly",
+        "b": "Pea",
+        "c": "Bean",
+        "d": "Circle"
+      },
+      "one_liner": "The thyroid gland is shaped like a bow tie or butterfly, distinguishing it from other glands in the endocrine system.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Eliminate t from x = t and y = t²?",
+      "options": {
+        "a": "y = x",
+        "b": "x² = y",
+        "c": "x = y²",
+        "d": "y = 2x"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

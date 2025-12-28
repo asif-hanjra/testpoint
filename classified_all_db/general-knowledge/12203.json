@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the president of Egypt mentioned in the statement?",
+      "options": {
+        "a": "Anwar Sadat",
+        "b": "Hosni Mubarak",
+        "c": "Gamal Abdel Nasser",
+        "d": "Mohamed Morsi"
+      },
+      "one_liner": "Anwar Sadat served as the president of **Egypt**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

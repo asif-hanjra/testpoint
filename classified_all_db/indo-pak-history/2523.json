@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which member of Akbar's court was labeled as General in the visual representation?",
+      "options": {
+        "a": "Birbal",
+        "b": "Todar Mal",
+        "c": "Man Singh",
+        "d": "Abul Faizi Ibn Mubarak"
+      },
+      "one_liner": "Man Singh is presented as the **General** in the visual depiction of Akbar's court.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

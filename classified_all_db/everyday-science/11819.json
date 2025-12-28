@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered vitamins in 1912?",
+      "options": {
+        "a": "Casimir Funk",
+        "b": "Louis Pasteur",
+        "c": "Alexander Fleming",
+        "d": "Edward Jenner"
+      },
+      "one_liner": "The discovery of vitamins in 1912 is credited to **Casimir Funk**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

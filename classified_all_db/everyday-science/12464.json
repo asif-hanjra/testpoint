@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Approximately what percentage of Earth's water is contained in the oceans?",
+      "options": {
+        "a": "3%",
+        "b": "50%",
+        "c": "97%",
+        "d": "100%"
+      },
+      "one_liner": "The oceans contain about **97%** of all the water found on Earth.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Composition of Atmosphere",
+          "chapter": "Environment & Ecology"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

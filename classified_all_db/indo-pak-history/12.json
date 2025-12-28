@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was Nizam uddin Auliya born?",
+      "options": {
+        "a": "1325",
+        "b": "1206",
+        "c": "1238",
+        "d": "1400"
+      },
+      "one_liner": "Nizam uddin Auliya was born in the year **1238**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the time period of the Third Anglo-Maratha War?",
+      "options": {
+        "a": "1757-1761",
+        "b": "1761-1771",
+        "c": "1805-1818",
+        "d": "1818-1830"
+      },
+      "one_liner": "The Third Anglo-Maratha War took place from **1805 to 1818**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Third Battle of Panipat (1761)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which animal is the Labrador a famous breed of?",
+      "options": {
+        "a": "Cats",
+        "b": "Dogs",
+        "c": "Horses",
+        "d": "Rabbits"
+      },
+      "one_liner": "The Labrador is a famous breed of **dogs**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "United Kingdom",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

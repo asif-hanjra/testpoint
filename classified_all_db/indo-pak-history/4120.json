@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Mohenjo Daro located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Balochistan",
+        "d": "Khyber Pakhtunkhwa"
+      },
+      "one_liner": "The ancient city of Mohenjo Daro is situated in **Sindh** province of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

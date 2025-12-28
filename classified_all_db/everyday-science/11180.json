@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which vitamin is water-soluble and its deficiency may cause scurvy?",
+      "options": {
+        "a": "Vitamin E",
+        "b": "Vitamin K",
+        "c": "Vitamin B",
+        "d": "Vitamin C"
+      },
+      "one_liner": "**Vitamin C** is a water-soluble vitamin whose deficiency can lead to scurvy.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

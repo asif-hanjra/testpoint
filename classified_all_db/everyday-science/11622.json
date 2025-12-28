@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "From which country did Muhammad Ibn e Zakaria Al-Razi originate?",
+      "options": {
+        "a": "Egypt",
+        "b": "Iran",
+        "c": "India",
+        "d": "Greece"
+      },
+      "one_liner": "Muhammad Ibn e Zakaria Al-Razi, a celebrated figure in science and philosophy, originated from **Iran**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

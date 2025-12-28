@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the standardized weight of the silver coin introduced by Sher Shah Suri?",
+      "options": {
+        "a": "100 grams",
+        "b": "150 grams",
+        "c": "178 grams",
+        "d": "200 grams"
+      },
+      "one_liner": "The standardized weight of the silver coin introduced by Sher Shah Suri was **178 grams**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Maurya Empire",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

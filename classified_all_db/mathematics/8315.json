@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The set of points (x,y) such that: a - δ ≤ x ≤ a + δ, b − δ ≤ y ≤ b + δ determines?",
+      "options": {
+        "a": "A triangle",
+        "b": "A circle",
+        "c": "A square",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which major event was Charles John Canning the Governor-General of India?",
+      "options": {
+        "a": "Partition of Bengal",
+        "b": "Indian War of Independence",
+        "c": "Quit India Movement",
+        "d": "None of these"
+      },
+      "one_liner": "Charles John Canning was the Governor-General of India during the Indian War of Independence, also known as the Revolt of 1857.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "War of Independence 1857 and associated personalities",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

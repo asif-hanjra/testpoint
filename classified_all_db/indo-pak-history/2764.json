@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Bambhore located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Balochistan",
+        "c": "Sindh",
+        "d": "Khyber Pakhtunkhwa"
+      },
+      "one_liner": "Bambhore is an ancient city situated in **Sindh**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Indus Valley Civilization",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

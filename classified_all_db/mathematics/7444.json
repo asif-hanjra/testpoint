@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A is a matrix, then what is true about the transpose and complement of A?",
+      "options": {
+        "a": "The transpose of the complement of A is equal to -A.",
+        "b": "The complement of the transpose of A is equal to A.",
+        "c": "The complement of the transpose of A is equal to -A.",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

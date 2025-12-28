@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who laid the foundation stone of the Golden Temple in Amritsar?",
+      "options": {
+        "a": "Guru Nanak",
+        "b": "Hazrat Mian Mir",
+        "c": "Guru Gobind Singh",
+        "d": "None of these"
+      },
+      "one_liner": "The foundation stone of the Golden Temple in Amritsar was laid by the Muslim Saint **Hazrat Mian Mir**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Famous Landmarks",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

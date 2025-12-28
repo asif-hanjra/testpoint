@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What did the Nehru Report propose regarding separate electorates for Muslims?",
+      "options": {
+        "a": "Abolish separate electorates; introduce joint electorates",
+        "b": "Continue separate electorates",
+        "c": "Introduce communal electorates",
+        "d": "None of these"
+      },
+      "one_liner": "The Nehru Report recommended that **separate electorates should be abolished and replaced with joint electorates based on adult franchise**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

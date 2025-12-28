@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which prisoners were excluded from release according to the Gandhi-Irwin Pact of 1931?",
+      "options": {
+        "a": "All political prisoners",
+        "b": "Prisoners guilty of violence",
+        "c": "Foreign prisoners",
+        "d": "None of these"
+      },
+      "one_liner": "The Gandhi-Irwin Pact of 1931 excluded prisoners guilty of **violence** from release.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Salt March",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Civil Disobedience Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

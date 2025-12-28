@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What causes each type of hepatitis?",
+      "options": {
+        "a": "The same virus",
+        "b": "Different viruses",
+        "c": "Bacteria",
+        "d": "None of these"
+      },
+      "one_liner": "Each type of hepatitis is caused by a **different virus**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

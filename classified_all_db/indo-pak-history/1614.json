@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which year did Sabuktigin rule the Ghaznavid dynasty?",
+      "options": {
+        "a": "997 AD",
+        "b": "977 AD",
+        "c": "1001 AD",
+        "d": "1186 AD"
+      },
+      "one_liner": "**Sabuktigin** began his rule over the Ghaznavid dynasty in 977 AD.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Ghaznavid Dynasty (977-1186)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

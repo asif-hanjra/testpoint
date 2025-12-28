@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organelle is known as the power house of the cell?",
+      "options": {
+        "a": "Nucleus",
+        "b": "Mitochondria",
+        "c": "Ribosome",
+        "d": "Golgi apparatus"
+      },
+      "one_liner": "The organelle commonly referred to as the power house of the cell is the **Mitochondria**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "DNA",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

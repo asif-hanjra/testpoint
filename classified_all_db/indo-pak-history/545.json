@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of constitution did Quaid-e-Azam demand in his 14 Points?",
+      "options": {
+        "a": "Unitary constitution",
+        "b": "Federal constitution with residuary powers to provinces",
+        "c": "Confederation",
+        "d": "None of these"
+      },
+      "one_liner": "Quaid-e-Azam demanded a **federal constitution with residuary powers vested in the provinces** in his 14 Points.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

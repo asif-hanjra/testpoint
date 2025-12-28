@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Let A1, A2, A3, ..., An be narithmetic means between a and b, then A1 + A2 + A3 + ... + An = _____?",
+      "options": {
+        "a": "n(a + b)/2",
+        "b": "n(a - b)/2",
+        "c": "n(a ÷ b)/2",
+        "d": "None of these"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

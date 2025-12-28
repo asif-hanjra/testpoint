@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political parties and communities fully agreed with Lord Mountbatten on the Indian Independence Act of 1947?",
+      "options": {
+        "a": "Muslim League, Congress, and Sikh",
+        "b": "Only Muslim League and Congress",
+        "c": "Only Congress and Sikh",
+        "d": "None of these"
+      },
+      "one_liner": "The Indian Independence Act of 1947 received full agreement from the **Muslim League, Congress, and Sikh community** with Lord Mountbatten.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Mountbatten Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the width of the outstretched arms of Christ the Redeemer?",
+      "options": {
+        "a": "20 metres",
+        "b": "28 metres",
+        "c": "35 metres",
+        "d": "None of these"
+      },
+      "one_liner": "The outstretched arms of Christ the Redeemer span **28 metres (92 ft) wide**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Christ the Redeemer",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Christ the Redeemer",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the architectural shape of the Spiral Minaret at Samarra?",
+      "options": {
+        "a": "Rectangular",
+        "b": "Cylindrical",
+        "c": "Spiral conical",
+        "d": "None of these"
+      },
+      "one_liner": "The Spiral Minaret at Samarra is renowned for its **spiral conical shape**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Geographical Tags Attached with Names of Different Countries and Cities",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

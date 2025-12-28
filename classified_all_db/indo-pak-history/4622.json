@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the First Round Table Conference held?",
+      "options": {
+        "a": "Delhi",
+        "b": "Paris",
+        "c": "London",
+        "d": "Karachi"
+      },
+      "one_liner": "The First Round Table Conference took place in **London**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Round Table Conferences",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

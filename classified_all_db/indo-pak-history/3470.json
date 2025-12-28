@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Baba Farid buried?",
+      "options": {
+        "a": "Ajmer, India",
+        "b": "Pakpattan, Punjab, Pakistan",
+        "c": "Multan, Pakistan",
+        "d": "Delhi, India"
+      },
+      "one_liner": "Baba Farid's final resting place is in **Pakpattan, Punjab, Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

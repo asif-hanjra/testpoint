@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The pituitary gland is found in which part of the body?",
+      "options": {
+        "a": "Brain",
+        "b": "Neck",
+        "c": "Chest",
+        "d": "Abdomen"
+      },
+      "one_liner": "The pituitary gland is located at the base of the **brain**, often referred to as the master gland of the endocrine system.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Largest and Smallest in Human Body",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

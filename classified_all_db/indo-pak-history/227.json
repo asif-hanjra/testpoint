@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which individual in Akbar's court was labeled as a Poet in the visual representation?",
+      "options": {
+        "a": "Tansen",
+        "b": "Faizi",
+        "c": "Man Singh",
+        "d": "Todar Mal"
+      },
+      "one_liner": "Faizi is recognized as a **Poet** in the visual depiction of Akbar's court.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "The currency 'rupee' introduced by Sher Shah Suri was named based on which ancient language's term for silver?",
+      "options": {
+        "a": "Arabic",
+        "b": "Persian",
+        "c": "Sanskrit",
+        "d": "Greek"
+      },
+      "one_liner": "The currency 'rupee' introduced by Sher Shah Suri derived its name from the **ancient Sanskrit** term for silver.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Maurya Empire",
+          "chapter": "Ancient Empires"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

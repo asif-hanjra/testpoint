@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which district is the village Nandna, where Al-Biruni established his laboratory, located?",
+      "options": {
+        "a": "District Jehlum",
+        "b": "District Lahore",
+        "c": "District Karachi",
+        "d": "None of these"
+      },
+      "one_liner": "The village Nandna, where Al-Biruni established his laboratory, is located in **District Jehlum**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

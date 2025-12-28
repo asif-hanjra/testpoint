@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which treaty ended the Third Anglo-Mysore War in 1792?",
+      "options": {
+        "a": "Treaty of Allahabad",
+        "b": "Treaty of Seringapatam",
+        "c": "Treaty of Bassein",
+        "d": "Treaty of Amritsar"
+      },
+      "one_liner": "The Third Anglo-Mysore War ended with the signing of the **Treaty of Seringapatam** in 1792.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

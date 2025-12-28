@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a subset of {b, c, d}?",
+      "options": {
+        "a": "{b}",
+        "b": "{}",
+        "c": "Both A and B",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

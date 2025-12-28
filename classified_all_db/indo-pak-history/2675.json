@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Moinuddin Chisti, the famous Sufi saint, born?",
+      "options": {
+        "a": "536 A.H./1141 CE",
+        "b": "600 A.H./1203 CE",
+        "c": "500 A.H./1106 CE",
+        "d": "None of these"
+      },
+      "one_liner": "Moinuddin Chisti, the eminent Sufi saint, was born in **536 A.H./1141 CE**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Gandhara Civilization",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Early Islamic Rule in Sub-continent",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

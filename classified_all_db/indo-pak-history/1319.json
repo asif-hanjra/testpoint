@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the ruler of the Sikh Dynasty after Kharak Singh in 1839?",
+      "options": {
+        "a": "Sher Singh",
+        "b": "Nau Nihal Singh",
+        "c": "Duleep Singh",
+        "d": "Chand Kaur"
+      },
+      "one_liner": "Following Kharak Singh in 1839, **Nau Nihal Singh** became the ruler of the Sikh Dynasty.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

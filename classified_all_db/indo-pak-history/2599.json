@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who succeeded Muhammad bin Tughlaq as the ruler of the Tughlaq dynasty in 1351?",
+      "options": {
+        "a": "Ghiyasuddin Tughlaq",
+        "b": "Feroz Shah Tughlaq",
+        "c": "Nasiruddin Mahmud",
+        "d": "Alauddin Khilji"
+      },
+      "one_liner": "**Feroz Shah Tughlaq** succeeded Muhammad bin Tughlaq as ruler in 1351.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Khilji Dynasty (1290-1320)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Sayyid Dynasty (1414-1451)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

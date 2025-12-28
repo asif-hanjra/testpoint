@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date is the International Day to End Corporal Punishment of Children observed?",
+      "options": {
+        "a": "30 April",
+        "b": "10 December",
+        "c": "20 November",
+        "d": "15 June"
+      },
+      "one_liner": "The International Day to End Corporal Punishment of Children is observed annually on **30 April**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "List of International Days",
+          "chapter": "International Days & Modern Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

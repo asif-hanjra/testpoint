@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which language did Allama Iqbal deliver his presidential address?",
+      "options": {
+        "a": "Urdu",
+        "b": "Persian",
+        "c": "English",
+        "d": "Arabic"
+      },
+      "one_liner": "Allama Iqbal delivered his presidential address in the **English language**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Allahabad Address 1930",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Allahabad Address 1930",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

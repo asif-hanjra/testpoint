@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who selected the governor of a province under the Government of India Act 1919?",
+      "options": {
+        "a": "Governor General",
+        "b": "Provincial Assembly",
+        "c": "Crown of Britain",
+        "d": "None of these"
+      },
+      "one_liner": "Under the Government of India Act 1919, the governor of a province was selected by the **Crown of Britain** instead of the Governor General.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

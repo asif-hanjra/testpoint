@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mineral is most important for bone health?",
+      "options": {
+        "a": "Calcium",
+        "b": "Magnesium",
+        "c": "Iron",
+        "d": "Potassium"
+      },
+      "one_liner": "For maintaining bone health, the most important mineral is **calcium**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Non-metal Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

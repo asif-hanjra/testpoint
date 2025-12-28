@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Ahmad Shah Durrani is also known by which other name?",
+      "options": {
+        "a": "Ahmad Shah Bahadur",
+        "b": "Ahmad Shah Abdali",
+        "c": "Ahmad Shah Mirza",
+        "d": "Ahmad Shah Safavi"
+      },
+      "one_liner": "Ahmad Shah Durrani is also referred to as **Ahmad Shah Abdali** in historical records.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Decline: Ahmad Sirhindi, Shah Waliullah, Maratha Empire 1674-1818",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

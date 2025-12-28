@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who established the Muslim Students Federation (women wing) in Delhi in 1941?",
+      "options": {
+        "a": "Begum Shaista Ikram-ullah",
+        "b": "Fatima Jinnah",
+        "c": "Begum Rana Liaquat Ali Khan",
+        "d": "Begum Jahan Ara Shahnawaz"
+      },
+      "one_liner": "The Muslim Students Federation (women wing) was established in Delhi in 1941 by **Begum Shaista Ikram-ullah** on the advice of Quaid-i-Azam.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

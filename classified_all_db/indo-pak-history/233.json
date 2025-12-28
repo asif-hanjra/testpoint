@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who introduced the concept of Qawwali in the 13th century?",
+      "options": {
+        "a": "Amir Khusro",
+        "b": "Baba Farid",
+        "c": "Nizamuddin Auliya",
+        "d": "None of these"
+      },
+      "one_liner": "The concept of Qawwali was introduced in the 13th century by **Amir Khusro**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

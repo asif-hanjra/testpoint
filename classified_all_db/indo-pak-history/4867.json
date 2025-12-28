@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which financial demand was made regarding the pay of the Secretary of State for Indian Affairs?",
+      "options": {
+        "a": "Should be paid by Indian resources",
+        "b": "Should not be taken from Indian resources",
+        "c": "Should be paid by the British Crown",
+        "d": "None of these"
+      },
+      "one_liner": "It was demanded that the pay of the British minister, the Secretary of State for Indian Affairs, should **not be taken from Indian resources**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Lucknow Pact (1916)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

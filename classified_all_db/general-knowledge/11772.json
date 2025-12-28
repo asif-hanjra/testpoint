@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which years was the Harry Potter Series published?",
+      "options": {
+        "a": "1988-1998",
+        "b": "1997-2007",
+        "c": "2001-2011",
+        "d": "1964-1974"
+      },
+      "one_liner": "The **Harry Potter Series** was published between **1997 and 2007**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

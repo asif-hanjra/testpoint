@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was in charge of military affairs during the Mughal rule?",
+      "options": {
+        "a": "Diwan",
+        "b": "Bakhshi",
+        "c": "Mir Saman",
+        "d": "Wazir"
+      },
+      "one_liner": "During the Mughal rule, the official responsible for military affairs was known as the **Bakhshi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

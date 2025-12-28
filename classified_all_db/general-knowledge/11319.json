@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the National Command and Operation Center (NCOC) formed?",
+      "options": {
+        "a": "January 2019",
+        "b": "April 2020",
+        "c": "March 2021",
+        "d": "December 2020"
+      },
+      "one_liner": "The National Command and Operation Center (NCOC) was established in **April 2020** to coordinate Pakistan's COVID-19 response.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

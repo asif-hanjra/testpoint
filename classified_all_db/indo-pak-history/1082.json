@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which clause was included in the Treaty of Madras after the First Anglo-Mysore War?",
+      "options": {
+        "a": "Britain would cede territory to Mysore",
+        "b": "Britain would assist Hyder Ali if attacked by neighbouring States",
+        "c": "Hyder Ali would pay war indemnity",
+        "d": "None of these"
+      },
+      "one_liner": "The Treaty of Madras included a clause that **Britain would assist Hyder Ali if he was attacked by neighbouring States**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

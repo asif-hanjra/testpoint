@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mineral is involved in the formation of haemoglobin?",
+      "options": {
+        "a": "Calcium",
+        "b": "Iodine",
+        "c": "Iron",
+        "d": "Fluoride"
+      },
+      "one_liner": "Iron is the mineral involved in the formation of **haemoglobin**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

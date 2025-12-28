@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first secretary of the Trustee of Aligarh College?",
+      "options": {
+        "a": "Sir Syed Ahmed Khan",
+        "b": "Nawab Mohsin-ul-Mulk",
+        "c": "Maulana Shibli Nomani",
+        "d": "None of these"
+      },
+      "one_liner": "The first secretary of the Trustee of Aligarh College was **Sir Syed Ahmed Khan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

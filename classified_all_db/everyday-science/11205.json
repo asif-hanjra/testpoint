@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What condition can result from a lack of iodine in the diet?",
+      "options": {
+        "a": "Diabetes",
+        "b": "Goiter",
+        "c": "Rickets",
+        "d": "Scurvy"
+      },
+      "one_liner": "A deficiency of iodine in the diet can lead to **goiter**, which is a swelling of the thyroid gland.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Endocrine System",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "List of Some Important Deficiency Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Some Important Elements",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

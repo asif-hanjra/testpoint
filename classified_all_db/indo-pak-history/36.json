@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When did the Muslim League join the interim government?",
+      "options": {
+        "a": "1945",
+        "b": "1946",
+        "c": "1947",
+        "d": "None of these"
+      },
+      "one_liner": "The Muslim League became part of the interim government in **1946**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Cabinet Mission Plan",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Interim Government",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

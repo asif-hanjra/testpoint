@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "After how many years did Morocco rejoin the African Union?",
+      "options": {
+        "a": "10 years",
+        "b": "20 years",
+        "c": "33 years",
+        "d": "50 years"
+      },
+      "one_liner": "Morocco rejoined the African Union after a gap of almost **33 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "African Union (AU)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

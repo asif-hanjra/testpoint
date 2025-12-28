@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who came into power in Italy?",
+      "options": {
+        "a": "Hitler",
+        "b": "Stalin",
+        "c": "Mussolini",
+        "d": "Churchill"
+      },
+      "one_liner": "The leader who came into power in Italy was **Mussolini**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Philosophical Movements",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Benito Mussolini",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

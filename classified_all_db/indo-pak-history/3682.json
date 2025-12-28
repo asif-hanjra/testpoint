@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "From which country did Ibn Batuta originate?",
+      "options": {
+        "a": "Egypt",
+        "b": "Morocco",
+        "c": "Turkey",
+        "d": "Persia"
+      },
+      "one_liner": "Ibn Batuta, the famous traveler who visited India, was originally from **Morocco**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Delhi Sultanate (1206-1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Tughlaq Dynasty (1320-1413)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

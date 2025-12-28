@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which sugar is considered the sweetest among natural sugars?",
+      "options": {
+        "a": "Glucose",
+        "b": "Fructose",
+        "c": "Sucrose",
+        "d": "Lactose"
+      },
+      "one_liner": "Among all natural sugars, **fructose** is recognized as the sweetest.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Vitamins",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Minerals",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Human Nutrition",
+          "chapter": "Living World and Human Biology"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What system was introduced in the provinces by the Montague-Chelmsford Reforms of 1919?",
+      "options": {
+        "a": "Federalism",
+        "b": "Diarchy",
+        "c": "Autocracy",
+        "d": "None of these"
+      },
+      "one_liner": "The Montague-Chelmsford Reforms of 1919 introduced the system of **Diarchy** in the provinces.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

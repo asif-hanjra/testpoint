@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the outcome of the First Anglo-Mysore War (1767-1769)?",
+      "options": {
+        "a": "Treaty of Seringapatam",
+        "b": "Treaty of Madras",
+        "c": "Treaty of Allahabad",
+        "d": "None of these"
+      },
+      "one_liner": "The First Anglo-Mysore War (1767-1769) concluded with the signing of the **Treaty of Madras**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

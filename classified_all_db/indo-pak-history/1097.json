@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who led the Shimla Deputation that met the viceroy in 1906?",
+      "options": {
+        "a": "Sir Aga Khan",
+        "b": "Allama Iqbal",
+        "c": "Sir Syed Ahmed Khan",
+        "d": "Liaquat Ali Khan"
+      },
+      "one_liner": "The Shimla Deputation of 1906 was led by **Sir Aga Khan**, who represented the interests of Muslim leaders before the viceroy.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

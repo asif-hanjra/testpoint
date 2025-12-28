@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is credited with suggesting the name 'Pakistan' for a separate Muslim homeland in South Asia?",
+      "options": {
+        "a": "Chaudhry Rahmat Ali",
+        "b": "Sir Syed Ahmad Khan",
+        "c": "Allama Iqbal",
+        "d": "None of these"
+      },
+      "one_liner": "The name 'Pakistan' for a separate Muslim homeland in South Asia was first suggested by **Chaudhry Rahmat Ali**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the national animal of South Africa?",
+      "options": {
+        "a": "Lion",
+        "b": "Springbok",
+        "c": "Elephant",
+        "d": "Leopard"
+      },
+      "one_liner": "The national animal of South Africa is the **Springbok**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "United States of America",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

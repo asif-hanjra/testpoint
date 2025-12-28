@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the Muslim League hold its 20th session in 1928?",
+      "options": {
+        "a": "December 31, 1928",
+        "b": "December 20, 1928",
+        "c": "January 1, 1929",
+        "d": "November 20, 1928"
+      },
+      "one_liner": "The Muslim League's 20th session was held on **December 20, 1928**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

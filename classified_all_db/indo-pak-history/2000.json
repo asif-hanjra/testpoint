@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who succeeded Shah Jahan as the Mughal emperor?",
+      "options": {
+        "a": "Bahadur Shah I",
+        "b": "Aurangzeb",
+        "c": "Jahangir",
+        "d": "Akbar"
+      },
+      "one_liner": "After the reign of Shah Jahan, the Mughal throne was taken over by **Aurangzeb**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Muhi-ud-Din Muhammad/ Aurangzeb Alamgir 1658 - 1707",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Shah Jahan / Kamran 1628 - 1658",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

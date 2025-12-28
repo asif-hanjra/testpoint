@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who started the jihad movement against the Sikh government?",
+      "options": {
+        "a": "Syed Ahmad Shaheed",
+        "b": "Sir Syed Ahmed Khan",
+        "c": "Shah Waliullah",
+        "d": "None of these"
+      },
+      "one_liner": "The jihad movement against the Sikh government was started by **Syed Ahmad Shaheed**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Darul Uloom Deoband (1866)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

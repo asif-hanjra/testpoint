@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If a variable 'y' depends upon a variable 'x' in such a way that each value of 'x' determines exactly one value of 'y', then we say that",
+      "options": {
+        "a": "y is a function of x",
+        "b": "x is a function of y",
+        "c": "x is real valued function",
+        "d": "y is independent variable"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

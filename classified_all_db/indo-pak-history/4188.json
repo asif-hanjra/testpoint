@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city was Fort William College established as a centre of learning in 1800?",
+      "options": {
+        "a": "Delhi",
+        "b": "Bombay",
+        "c": "Calcutta",
+        "d": "Madras"
+      },
+      "one_liner": "Fort William College was established as a centre of learning in **Calcutta** in 1800.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Charles John Canning",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

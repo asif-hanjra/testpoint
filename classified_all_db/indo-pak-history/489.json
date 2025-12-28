@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the Sindh Madrassah-tul-Islam established by Syed Hasan Ali Afandi?",
+      "options": {
+        "a": "Lahore",
+        "b": "Delhi",
+        "c": "Karachi",
+        "d": "Hyderabad"
+      },
+      "one_liner": "Syed Hasan Ali Afandi established the Sindh Madrassah-tul-Islam in **Karachi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

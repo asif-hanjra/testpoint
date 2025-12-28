@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two countries joined ASEAN on 23 July 1997?",
+      "options": {
+        "a": "Vietnam and Cambodia",
+        "b": "Brunei and Singapore",
+        "c": "Lao PDR and Myanmar",
+        "d": "Malaysia and Thailand"
+      },
+      "one_liner": "**Lao PDR and Myanmar** both joined ASEAN on 23 July 1997.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Association of Southeast Asian Nations (ASEAN)",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

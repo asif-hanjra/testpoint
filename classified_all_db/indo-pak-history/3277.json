@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of 'Aab-e-Hayat'?",
+      "options": {
+        "a": "Sir Syed Ahmed Khan",
+        "b": "Altaf Hussain Hali",
+        "c": "Muhammad Hussain Azad",
+        "d": "Shibli Nomani"
+      },
+      "one_liner": "The famous literary work 'Aab-e-Hayat' was authored by **Muhammad Hussain Azad**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Anjuman Himayat-i-Islam (1884)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

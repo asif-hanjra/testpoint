@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the historical work 'Humayun Nama'?",
+      "options": {
+        "a": "Abul Fazl",
+        "b": "Gulbadan Begum",
+        "c": "Badauni",
+        "d": "None of these"
+      },
+      "one_liner": "The historical book 'Humayun Nama' was authored by **Gulbadan Begum**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Nasir-ud-Din Muhammad Humayun 1530 - 1540",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

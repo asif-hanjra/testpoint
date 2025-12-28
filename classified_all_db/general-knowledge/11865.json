@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which dynasty did pharaoh Khufu rule?",
+      "options": {
+        "a": "Third Dynasty",
+        "b": "Fourth Dynasty",
+        "c": "Fifth Dynasty",
+        "d": "Sixth Dynasty"
+      },
+      "one_liner": "Pharaoh Khufu ruled during Egypt's **Fourth Dynasty**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Great Pyramid of Giza",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Great Pyramid of Giza",
+          "chapter": "World Historic Landmarks & Buildings"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

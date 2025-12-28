@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who discovered Penicillin?",
+      "options": {
+        "a": "Alexander Fleming",
+        "b": "Louis Pasteur",
+        "c": "Marie Curie",
+        "d": "None of these"
+      },
+      "one_liner": "The discovery of Penicillin is credited to **Alexander Fleming**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

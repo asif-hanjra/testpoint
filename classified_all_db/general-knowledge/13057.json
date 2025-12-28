@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Khalil Gibran was a native of which country?",
+      "options": {
+        "a": "Egypt",
+        "b": "Syria",
+        "c": "Lebanon",
+        "d": "Iraq"
+      },
+      "one_liner": "Khalil Gibran, the celebrated literary figure, was originally from **Lebanon**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Capitals of Countries",
+          "chapter": "Countries of the World"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

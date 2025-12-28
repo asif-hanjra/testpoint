@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Which provincial branch of the Muslim League passed a resolution in favour of the partition of India in 1939?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sind",
+        "c": "Bengal",
+        "d": "NWFP"
+      },
+      "one_liner": "The Muslim League branch in **Sind** passed a resolution in favour of the partition of India in 1939.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Resignation of Congress Ministries",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Quaid-e-Azam as President of Muslim League",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

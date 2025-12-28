@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was Muhammad Ibn e Zakaria Al-Razi?",
+      "options": {
+        "a": "An Italian mathematician",
+        "b": "A Chinese astronomer",
+        "c": "A polymath physician, alchemist and philosopher from Iran",
+        "d": "None of these"
+      },
+      "one_liner": "Muhammad Ibn e Zakaria Al-Razi was a renowned polymath, physician, alchemist, and philosopher from **Iran**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Scientists of the World",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Pakistani Scientists",
+          "chapter": "Prominent Scientists"
+        },
+        {
+          "topic": "Prominent Muslim Scientists",
+          "chapter": "Prominent Scientists"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

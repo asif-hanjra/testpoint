@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A triangle cannot be drawn with the following three sides?",
+      "options": {
+        "a": "3m, 4m, 8m",
+        "b": "2m, 3m, 4m",
+        "c": "4m, 6m, 9m",
+        "d": "5m, 7m, 10m"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

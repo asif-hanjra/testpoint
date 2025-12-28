@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Medical social work is primarily associated with which field?",
+      "options": {
+        "a": "Education",
+        "b": "Health and care",
+        "c": "Engineering",
+        "d": "Law"
+      },
+      "one_liner": "Medical social work is directly connected to the field of **Health and care**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        },
+        {
+          "topic": "Worldwide Important Happenings till Date",
+          "chapter": "International Days & Modern Events"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

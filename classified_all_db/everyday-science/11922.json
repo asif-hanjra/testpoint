@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the SI unit of length?",
+      "options": {
+        "a": "Metre (m)",
+        "b": "Second (s)",
+        "c": "Joule (J)",
+        "d": "Watt (W)"
+      },
+      "one_liner": "The SI unit of length is the **metre (m)**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Work",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "List of SI Units",
+          "chapter": "Introduction to Everyday Science"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

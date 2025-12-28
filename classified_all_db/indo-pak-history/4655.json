@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many seats were filled in the 1945 Central Elections under the Government of India Act, 1919?",
+      "options": {
+        "a": "375",
+        "b": "102",
+        "c": "59",
+        "d": "30"
+      },
+      "one_liner": "In the 1945 Central Elections, only **102 seats** were filled under the Government of India Act, 1919, instead of the 375 seats proposed by the 1935 Act.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Elections of 1945–46",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Govt. of India Act 1935",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Govt. of India Act 1919",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Elections of 1945-46",
+          "chapter": "Road to Independence"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What kind of administrative system did Akbar establish?",
+      "options": {
+        "a": "Feudal system",
+        "b": "Decentralized administration",
+        "c": "Centralized system of administration",
+        "d": "None of these"
+      },
+      "one_liner": "Akbar established a **centralized system of administration** during his reign.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

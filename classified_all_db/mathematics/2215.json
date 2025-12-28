@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the correct MATLAB command to solve the linear system Ax = b?",
+      "options": {
+        "a": "inv(A)*b",
+        "b": "A\\b",
+        "c": "solve(A, b)",
+        "d": "None of these"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

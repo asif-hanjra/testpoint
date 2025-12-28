@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary function of the reaction between sulphuric acid and lead plates in car batteries?",
+      "options": {
+        "a": "Heat",
+        "b": "Electricity",
+        "c": "Light",
+        "d": "Sound"
+      },
+      "one_liner": "The reaction between sulphuric acid and lead plates in car batteries is essential for generating **electricity**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Acids Used in Everyday Life",
+          "chapter": "Chemistry in Everyday Life"
+        },
+        {
+          "topic": "Methods of Electric Energy Production",
+          "chapter": "Physics in Everyday Life"
+        },
+        {
+          "topic": "Some Important Compounds",
+          "chapter": "Chemistry in Everyday Life"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

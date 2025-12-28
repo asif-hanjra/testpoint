@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following organizations is known for its work in children's welfare and is abbreviated as UNICEF?",
+      "options": {
+        "a": "United Nations International Children's Emergency Fund",
+        "b": "United Nations Institute for Children",
+        "c": "United Nations International Council for Education",
+        "d": "None of these"
+      },
+      "one_liner": "UNICEF is an international organization dedicated to children's welfare, known as the **United Nations International Children's Emergency Fund**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "United Nations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Headquarters of International Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

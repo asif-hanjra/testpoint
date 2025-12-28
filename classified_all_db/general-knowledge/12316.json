@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the Fall of Constantinople occur?",
+      "options": {
+        "a": "29 May 1453",
+        "b": "15 July 1492",
+        "c": "12 October 1492",
+        "d": "1 January 1500"
+      },
+      "one_liner": "The Fall of Constantinople took place on **29 May 1453**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "World War II",
+          "chapter": "International Relations and World History"
+        },
+        {
+          "topic": "Hagia Sophia",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Worldwide Famous Historic Buildings",
+          "chapter": "World Historic Landmarks & Buildings"
+        },
+        {
+          "topic": "Miscellaneous Facts of GK",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

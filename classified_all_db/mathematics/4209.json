@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "If A or B is zero in the equation Ax² + By² + Gx + Fy + c = 0, then the conic is?",
+      "options": {
+        "a": "Circle",
+        "b": "Parabola",
+        "c": "Ellipse",
+        "d": "Hyperbola"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

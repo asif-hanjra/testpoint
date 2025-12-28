@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country does NASA belong to?",
+      "options": {
+        "a": "Russia",
+        "b": "China",
+        "c": "USA",
+        "d": "India"
+      },
+      "one_liner": "NASA is the space agency responsible for space activities in the **USA**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Solar System",
+          "chapter": "Astronomy & Universe"
+        },
+        {
+          "topic": "Important Scientific Terms and Branches of Science",
+          "chapter": "Introduction to Everyday Science"
+        },
+        {
+          "topic": "Universe",
+          "chapter": "Astronomy & Universe"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

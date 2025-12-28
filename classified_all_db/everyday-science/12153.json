@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a bacterial disease?",
+      "options": {
+        "a": "Tuberculosis",
+        "b": "Cholera",
+        "c": "Tetanus",
+        "d": "Measles"
+      },
+      "one_liner": "Diseases such as tuberculosis, cholera, tetanus, diphtheria, and whooping cough are all caused by bacteria, while **measles** is not a bacterial disease.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Medicines",
+          "chapter": "Diseases, Health, & Medicine"
+        },
+        {
+          "topic": "Human Physiology",
+          "chapter": "Living World and Human Biology"
+        },
+        {
+          "topic": "Diseases",
+          "chapter": "Diseases, Health, & Medicine"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

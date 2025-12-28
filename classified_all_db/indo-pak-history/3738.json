@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which movement did Mahatma Gandhi also lead after launching the Non-Cooperation Movement?",
+      "options": {
+        "a": "Civil Disobedience Movement",
+        "b": "Quit India Movement",
+        "c": "Khilafat Movement",
+        "d": "None of these"
+      },
+      "one_liner": "After launching the Non-Cooperation Movement, Mahatma Gandhi also led the **Khilafat Movement**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Chauri Chaura Incident",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Khilafat Movement",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Non-Cooperation Movement",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

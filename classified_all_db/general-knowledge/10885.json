@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of 'Bagh-o-Bahar'?",
+      "options": {
+        "a": "Mir Aman Dehalvi",
+        "b": "Syed Abul A'ala Maudoodi",
+        "c": "Benazir Bhutto",
+        "d": "Z. A. Bhutto"
+      },
+      "one_liner": "The famous Urdu work 'Bagh-o-Bahar' was written by **Mir Aman Dehalvi**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Famous Sufis and Poets",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Some Famous Philanthropists and Humanitarians",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        },
+        {
+          "topic": "Prominent Books and their Authors",
+          "chapter": "Famous Personalities, Authors, Sufis & Poets"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

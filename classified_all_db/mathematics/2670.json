@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which shape has a finite perimeter but an infinite area?",
+      "options": {
+        "a": "Square",
+        "b": "Circle",
+        "c": "Koch snowflake",
+        "d": "Triangle"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

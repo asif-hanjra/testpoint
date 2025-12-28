@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "A group (G, *) is said to be abelian if a * b = ____?",
+      "options": {
+        "a": "a * b",
+        "b": "a - b",
+        "c": "b * a",
+        "d": "None of these"
+      },
+      "correct_option": "c",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

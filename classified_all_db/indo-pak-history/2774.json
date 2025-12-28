@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "From which institution did Quaid-e-Azam pass his Bar-at-Law examination?",
+      "options": {
+        "a": "Gray's Inn",
+        "b": "Lincoln's Inn",
+        "c": "Inner Temple",
+        "d": "Middle Temple"
+      },
+      "one_liner": "Quaid-e-Azam passed his Bar-at-Law examination from **Lincoln's Inn** in England.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Notable Leaders of Pakistan Movement",
+          "chapter": "Road to Independence"
+        },
+        {
+          "topic": "Muslim League (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Muhammad Ali Jinnah and Muslim League (1913)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

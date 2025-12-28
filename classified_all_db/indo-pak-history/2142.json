@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who organized the first meeting of the Indian National Congress in 1885?",
+      "options": {
+        "a": "Dadabhai Naoroji",
+        "b": "A.O. Hume",
+        "c": "Gopal Krishna Gokhale",
+        "d": "None of these"
+      },
+      "one_liner": "The first meeting of the Indian National Congress in 1885 was organized by **A.O. Hume**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Indian Councils Act (1892)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Shimla Deputation (1906)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        },
+        {
+          "topic": "Congress (1885)",
+          "chapter": "Political Organizations & Muslim Struggle"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

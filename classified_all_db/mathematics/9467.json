@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "The matrix product AB = O, where O represent null matrix, then ______?",
+      "options": {
+        "a": "A is null matrix",
+        "b": "A = O or B = O",
+        "c": "A = 0 and B = O",
+        "d": "All of these"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

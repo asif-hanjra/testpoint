@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which language was the first translation of the Quran in the Subcontinent made?",
+      "options": {
+        "a": "Punjabi",
+        "b": "Sindhi",
+        "c": "Urdu",
+        "d": "Persian"
+      },
+      "one_liner": "The first translation of the Quran in the Subcontinent was done in **Sindhi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Famous Newspapers",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Services of Sir Syed Ahmad Khan (1817-1898)",
+          "chapter": "Socio-Religious Reform Movements"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

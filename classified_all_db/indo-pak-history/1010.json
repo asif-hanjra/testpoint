@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to the Nehru Report, where were the residuary powers to be vested in the proposed federal constitution?",
+      "options": {
+        "a": "In the Centre",
+        "b": "In the Provinces",
+        "c": "In the Governor-General",
+        "d": "None of these"
+      },
+      "one_liner": "The Nehru Report proposed that in the future federal constitution, **residuary powers would be vested in the Centre** rather than the provinces.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Fourteen Points of Quaid-e-Azam",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Simon Commission",
+          "chapter": "Constitutional & Political Developments"
+        },
+        {
+          "topic": "Nehru Report",
+          "chapter": "Constitutional & Political Developments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

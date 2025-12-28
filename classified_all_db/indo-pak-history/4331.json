@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who made an alliance with France during the Fourth Anglo-Mysore War?",
+      "options": {
+        "a": "Tipu Sultan",
+        "b": "Haider Ali",
+        "c": "Siraj-ud-Daulah",
+        "d": "Nawab of Oudh"
+      },
+      "one_liner": "During the Fourth Anglo-Mysore War, **Tipu Sultan** formed an alliance with France.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Plassey (1757)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Battle of Buxar (1764)",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Anglo-Mysore Wars (1767-1799)",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

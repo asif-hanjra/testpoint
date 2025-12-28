@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which fort was built during Akbar's reign to protect the passage of the River Indus?",
+      "options": {
+        "a": "Lahore Fort",
+        "b": "Attock Fort",
+        "c": "Red Fort",
+        "d": "Agra Fort"
+      },
+      "one_liner": "The **Attock Fort** was constructed during Akbar's reign to safeguard the passage of the River Indus.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Mughals 1526 - 1857",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jahangir / Salim 1605 - 1627",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Jalal-ud-Din Muhammad Akbar 1556 - 1605",
+          "chapter": "Mughal Era and Decline"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

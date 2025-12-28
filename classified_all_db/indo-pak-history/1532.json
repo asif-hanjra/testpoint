@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who were the main opponents in the First Battle of Panipat?",
+      "options": {
+        "a": "Babur and Humayun",
+        "b": "Babur and Sher Shah Suri",
+        "c": "Babur and Ibrahim Lodi",
+        "d": "Ibrahim Lodi and Akbar"
+      },
+      "one_liner": "The First Battle of Panipat was fought between **Babur and Ibrahim Lodi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "Zahir-ud-Din Babur 1526 - 1530",
+          "chapter": "Mughal Era and Decline"
+        },
+        {
+          "topic": "Lodhi Dynasty (1451-1526)",
+          "chapter": "Ancient Empires"
+        },
+        {
+          "topic": "First Battle of Panipat (1526)",
+          "chapter": "Early Islamic and Medieval Period"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

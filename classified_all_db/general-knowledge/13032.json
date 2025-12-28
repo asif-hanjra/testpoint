@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The International North-South Transport Corridor (INSTC) connects which of the following countries?",
+      "options": {
+        "a": "India, Iran, Russia, and Azerbaijan",
+        "b": "India, China, Russia, and Iran",
+        "c": "India, Pakistan, Russia, and Iran",
+        "d": "India, Iran, Turkey, and Russia"
+      },
+      "one_liner": "The International North-South Transport Corridor (INSTC) is a multi-nation initiative connecting **India, Iran, Russia, and Azerbaijan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Shanghai Cooperation Organisation (SCO)",
+          "chapter": "International Organizations"
+        },
+        {
+          "topic": "Famous International Boundary Lines",
+          "chapter": "Geography, Boundaries & Places"
+        },
+        {
+          "topic": "Famous Regional Organizations",
+          "chapter": "International Organizations"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

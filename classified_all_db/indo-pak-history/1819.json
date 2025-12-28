@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who succeeded Chand Kaur as the ruler of the Sikh Dynasty in 1841?",
+      "options": {
+        "a": "Sher Singh",
+        "b": "Ranjit Singh",
+        "c": "Duleep Singh",
+        "d": "Jind Kaur"
+      },
+      "one_liner": "After Chand Kaur, **Sher Singh** became the ruler of the Sikh Dynasty in 1841.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Duleep Singh and Jind Kaur",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "British Expansion and Resistance"
+        },
+        {
+          "topic": "Sikh Dynasty, First/Second Anglo-Sikh War & Rulers",
+          "chapter": "British Expansion and Resistance"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

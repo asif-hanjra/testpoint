@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "[a b c] is a?",
+      "options": {
+        "a": "zero matrix",
+        "b": "diagonal matrix",
+        "c": "column matrix",
+        "d": "row matrix"
+      },
+      "correct_option": "d",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}
