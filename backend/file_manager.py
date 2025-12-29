@@ -82,33 +82,31 @@ class FileManager:
     def get_file_status(self, subject: str, filename: str) -> str:
         """Get current status of file (saved/removed/unknown)
         
-        Priority: removed-track > final-track > saved-track > unknown
+        Priority: final-track (removed) > saved-track > unknown
+        Note: final-track now stores removed files (changed from saved files)
         """
         # Check all tracking files
-        removed_files = set(self.load_removed_tracking(subject))
-        final_files = set(self.load_final_tracking(subject))
+        removed_files = set(self.load_removed_tracking(subject))  # Reads from final-track
         saved_files = set(self.load_saved_tracking(subject))
         
-        # Priority: removed > final > saved > unknown
+        # Priority: removed (from final-track) > saved > unknown
         if filename in removed_files:
             return "removed"
-        elif filename in final_files:
-            return "saved"
         elif filename in saved_files:
             return "saved"
         else:
             return "unknown"
     
     def get_statistics(self, subject: str) -> Dict:
-        """Get statistics for subject from tracking JSON files"""
+        """Get statistics for subject from tracking JSON files
+        Note: final-track now stores removed files (changed from saved files)
+        """
         # Count from tracking JSONs (no file system access needed)
-        final_files = self.load_final_tracking(subject)
         saved_files = self.load_saved_tracking(subject)
-        removed_files = self.load_removed_tracking(subject)
+        removed_files = self.load_removed_tracking(subject)  # Reads from final-track
         
-        # Total saved = final-track + saved-track (union to avoid duplicates)
-        all_saved = set(final_files).union(set(saved_files))
-        final_count = len(all_saved)
+        # Total saved = saved-track only (final-track is now for removed files)
+        final_count = len(saved_files)
         removed_count = len(removed_files)
         
         return {
@@ -118,28 +116,31 @@ class FileManager:
         }
     
     def clear_subject_files(self, subject: str) -> Tuple[int, int]:
-        """Clear final-track JSON for a subject (no file deletion needed)"""
+        """Clear final-track JSON for a subject (no file deletion needed)
+        Note: final-track now stores removed files (changed from saved files)
+        """
         final_track_file = self.project_root / "final-track" / f"{subject}.json"
         
-        final_count = 0
+        removed_count = 0
         
-        # Clear final-track JSON
+        # Clear final-track JSON (which now stores removed files)
         if final_track_file.exists():
             try:
                 # Count before clearing
-                final_files = self.load_final_tracking(subject)
-                final_count = len(final_files)
+                removed_files = self.load_removed_tracking(subject)  # Reads from final-track
+                removed_count = len(removed_files)
                 
                 # Write empty list
                 with open(final_track_file, 'w', encoding='utf-8') as f:
                     json.dump([], f, indent=2)
                 
-                print(f"[FileManager] Cleared {final_count} files from final-track")
+                print(f"[FileManager] Cleared {removed_count} removed files from final-track")
             except Exception as e:
                 print(f"[FileManager] Error clearing final-track: {e}")
         
-        # Return counts (removed_deleted is always 0)
-        return final_count, 0
+        # Return counts: (saved_count, removed_count)
+        # Since we're only clearing removed files from final-track, saved_count is 0
+        return 0, removed_count
     
     def load_mcq_data(self, subject: str, filename: str) -> Dict:
         """Load MCQ data from file (only from classified_db)"""
@@ -156,8 +157,10 @@ class FileManager:
         return {}
     
     def save_removed_tracking(self, subject: str, new_removed_files: List[str] = None) -> List[str]:
-        """Save list of removed files to tracking JSON file (merges with existing tracking)"""
-        tracking_path = self.project_root / "removed-track"
+        """Save list of removed files to tracking JSON file (merges with existing tracking)
+        Note: Now writes to final-track (changed from removed-track)
+        """
+        tracking_path = self.project_root / "final-track"
         tracking_file = tracking_path / f"{subject}.json"
         
         # Create tracking directory if it doesn't exist
@@ -191,8 +194,10 @@ class FileManager:
         return removed_files
     
     def load_removed_tracking(self, subject: str) -> List[str]:
-        """Load list of removed files from tracking JSON file"""
-        tracking_file = self.project_root / "removed-track" / f"{subject}.json"
+        """Load list of removed files from tracking JSON file
+        Note: Now reads from final-track (changed from removed-track)
+        """
+        tracking_file = self.project_root / "final-track" / f"{subject}.json"
         
         if not tracking_file.exists():
             return []
@@ -267,82 +272,56 @@ class FileManager:
         return saved_files
     
     def load_final_tracking(self, subject: str) -> List[str]:
-        """Load list of final (manually kept) files from tracking JSON file"""
-        tracking_file = self.project_root / "final-track" / f"{subject}.json"
+        """DEPRECATED: Load list of final (manually kept) files from tracking JSON file
+        Note: final-track now stores removed files. Use load_saved_tracking() instead.
+        This function is kept for backward compatibility but now returns saved-track data.
+        """
+        # Return saved-track data instead (final-track is now for removed files)
+        return self.load_saved_tracking(subject)
+    
+    def save_final_tracking(self, subject: str, new_final_files: List[str]) -> List[str]:
+        """DEPRECATED: Save list of final (manually kept) files to tracking JSON file
+        Note: final-track now stores removed files. This now saves to saved-track instead.
+        """
+        # Save to saved-track instead (final-track is now for removed files)
+        return self.save_saved_tracking(subject, new_final_files)
+    
+    def remove_from_final_tracking(self, subject: str, files_to_remove: List[str]) -> List[str]:
+        """DEPRECATED: Remove files from final-track JSON
+        Note: final-track now stores removed files. This now removes from saved-track instead.
+        """
+        # Remove from saved-track instead (final-track is now for removed files)
+        tracking_file = self.project_root / "saved-track" / f"{subject}.json"
         
         if not tracking_file.exists():
             return []
         
-        try:
-            with open(tracking_file, 'r', encoding='utf-8') as f:
-                final_files = json.load(f)
-                if isinstance(final_files, list):
-                    return final_files
-                return []
-        except Exception as e:
-            print(f"[FileManager] Error loading final tracking file: {e}")
-            return []
-    
-    def save_final_tracking(self, subject: str, new_final_files: List[str]) -> List[str]:
-        """Save list of final (manually kept) files to tracking JSON file (merges with existing)"""
-        tracking_path = self.project_root / "final-track"
-        tracking_file = tracking_path / f"{subject}.json"
-        
-        # Create tracking directory if it doesn't exist
-        tracking_path.mkdir(parents=True, exist_ok=True)
-        
-        # Load existing tracking file first (preserve history)
-        existing_final = set(self.load_final_tracking(subject))
-        print(f"[FileManager] Found {len(existing_final)} files in existing final tracking")
-        
-        # Merge: combine existing + new (union) to preserve all final files
-        new_final_set = set(new_final_files)
-        all_final = existing_final.union(new_final_set)
-        print(f"[FileManager] Merged total: {len(all_final)} final files (existing: {len(existing_final)}, new: {len(new_final_set)}, newly added: {len(new_final_set - existing_final)})")
-        
-        # Convert to sorted list for consistent ordering
-        final_files = sorted(list(all_final))
-        
-        # Save merged list to JSON file
-        try:
-            with open(tracking_file, 'w', encoding='utf-8') as f:
-                json.dump(final_files, f, indent=2)
-            print(f"[FileManager] Saved {len(final_files)} final files to tracking: {tracking_file}")
-        except Exception as e:
-            print(f"[FileManager] Error saving final tracking file: {e}")
-        
-        return final_files
-    
-    def remove_from_final_tracking(self, subject: str, files_to_remove: List[str]) -> List[str]:
-        """Remove files from final-track JSON"""
-        tracking_path = self.project_root / "final-track"
-        tracking_file = tracking_path / f"{subject}.json"
-        
         # Load existing tracking
-        existing_final = set(self.load_final_tracking(subject))
+        existing_saved = set(self.load_saved_tracking(subject))
         
-        if not existing_final:
+        if not existing_saved:
             return []
         
         # Remove specified files
         files_to_remove_set = set(files_to_remove)
-        updated_final = existing_final - files_to_remove_set
+        updated_saved = existing_saved - files_to_remove_set
         
-        print(f"[FileManager] Removing {len(files_to_remove_set)} files from final-track (was: {len(existing_final)}, now: {len(updated_final)})")
+        print(f"[FileManager] Removing {len(files_to_remove_set)} files from saved-track (was: {len(existing_saved)}, now: {len(updated_saved)})")
         
         # Convert to sorted list
-        final_files = sorted(list(updated_final))
+        saved_files = sorted(list(updated_saved))
         
         # Save updated list
+        tracking_path = self.project_root / "saved-track"
         tracking_path.mkdir(parents=True, exist_ok=True)
         try:
             with open(tracking_file, 'w', encoding='utf-8') as f:
-                json.dump(final_files, f, indent=2)
-            print(f"[FileManager] Updated final-track: {tracking_file}")
+                json.dump(saved_files, f, indent=2)
+            print(f"[FileManager] Updated saved-track: {tracking_file}")
         except Exception as e:
-            print(f"[FileManager] Error updating final tracking file: {e}")
+            print(f"[FileManager] Error updating saved tracking file: {e}")
         
-        return final_files
+        return saved_files
     
     def get_preparation_stats(self, subject: str) -> Dict:
         """Get statistics about files before preparation (for display)"""

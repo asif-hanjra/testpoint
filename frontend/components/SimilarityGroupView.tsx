@@ -74,6 +74,10 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
   const [keptAppearanceOrder, setKeptAppearanceOrder] = useState<{ [removedFilename: string]: { [keptFilename: string]: number } }>({});
   const [checkAllMode, setCheckAllMode] = useState<boolean>(false); // Toggle for check all mode
   
+  // Background submission state (submit without rendering)
+  const [backgroundSubmitting, setBackgroundSubmitting] = useState(false);
+  const [backgroundProgress, setBackgroundProgress] = useState({ current: 0, total: 0 });
+  
   // Track user-modified files at SimilarityGroupView level (for saved/removed file sync)
   // When user manually changes a file, we respect their choice even for saved/removed files
   const userModifiedFilesRef = useRef<Set<string>>(new Set());
@@ -250,8 +254,9 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
               // These files are not user-modified, so apply rules
               if (status === 'saved' || status === 'removed') {
                 merged[filename] = newSelection;
-              } else if (!(filename in merged)) {
-                // Only preserve for unknown files if not already set
+              } else {
+                // For unknown files: always apply new selection when checkAllMode changes
+                // This ensures toggle works correctly - override existing selection with new one
                 merged[filename] = newSelection;
               }
             }
@@ -397,8 +402,9 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
               // These files are not user-modified, so apply rules
               if (status === 'saved' || status === 'removed') {
                 merged[filename] = newSelection;
-              } else if (!(filename in merged)) {
-                // Only preserve for unknown files if not already set
+              } else {
+                // For unknown files: always apply new selection when checkAllMode changes
+                // This ensures toggle works correctly - override existing selection with new one
                 merged[filename] = newSelection;
               }
             }
@@ -1722,6 +1728,185 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
     }
   };
 
+  // Background submission: Submit all groups without rendering them
+  const handleBackgroundSubmitAll = async () => {
+    setBackgroundSubmitting(true);
+    setBackgroundProgress({ current: 0, total: 0 });
+    
+    try {
+      // Ensure groups are available
+      if (!groups || groups.length === 0) {
+        alert('Groups are still loading. Please wait a moment and try again.');
+        setBackgroundSubmitting(false);
+        return;
+      }
+      
+      // Get counts BEFORE submission
+      let savedCountBefore = 0;
+      let removedCountBefore = 0;
+      try {
+        const summaryBefore = await api.getSummary(subject);
+        savedCountBefore = summaryBefore.final_saved || 0;
+        removedCountBefore = summaryBefore.final_removed || 0;
+        console.log(`[Background] Before submission - Saved: ${savedCountBefore}, Removed: ${removedCountBefore}`);
+      } catch (error) {
+        console.error('[Background] Failed to get summary before:', error);
+      }
+      
+      // Get all groups in current range
+      const groupsInRange = calculateGroupsInRange(similarityRangeStart, similarityRangeEnd);
+      const totalGroups = groupsInRange.length;
+      
+      if (totalGroups === 0) {
+        alert('No groups found in the current range.');
+        setBackgroundSubmitting(false);
+        return;
+      }
+      
+      console.log(`[Background] Submitting ${totalGroups} groups without rendering`);
+      setBackgroundProgress({ current: 0, total: totalGroups });
+      
+      // Load metadata for auto-selection
+      const session = storage.loadSession(subject);
+      const metadata = session?.mcqMetadata || {};
+      
+      // Calculate final state for each file across all groups (same logic as normal submit)
+      const fileFinalStates: { [filename: string]: boolean } = {};
+      
+      // First pass: Initialize all files to false
+      for (const groupIndex of groupsInRange) {
+        const group = groups[groupIndex];
+        for (const filename of group.files) {
+          if (!(filename in fileFinalStates)) {
+            fileFinalStates[filename] = false;
+          }
+        }
+      }
+      
+      // Second pass: Run auto-selection and set to true if checked in any group
+      for (const groupIndex of groupsInRange) {
+        const group = groups[groupIndex];
+        const groupFiles = group.files;
+        
+        // Run auto-selection for this group
+        const groupSelections = autoSelectBestMCQ(groupFiles, metadata, checkAllMode);
+        
+        for (const filename of groupFiles) {
+          const isChecked = groupSelections[filename] ?? false;
+          if (isChecked) {
+            fileFinalStates[filename] = true;
+          }
+        }
+      }
+      
+      let totalMovedToRemoved = 0;
+      let totalUncheckedFromSaved = 0;
+      let totalNewlyAddedToSaved = 0;
+      let totalGroupsSubmitted = 0;
+      
+      // Determine batch size
+      const batchSize = totalGroups > 505 ? 100 : 10;
+      console.log(`[Background] Using batch size of ${batchSize}`);
+      
+      // Helper function to process a single group
+      const processGroup = async (groupIndex: number) => {
+        const group = groups[groupIndex];
+        
+        // Build checkedFiles list based on final state
+        const checkedFiles: string[] = [];
+        for (const filename of group.files) {
+          const finalState = fileFinalStates[filename];
+          if (finalState === true) {
+            checkedFiles.push(filename);
+          }
+        }
+        
+        const response = await api.submitGroup(subject, groupIndex, checkedFiles);
+        return response;
+      };
+      
+      // Process groups in batches
+      for (let i = 0; i < groupsInRange.length; i += batchSize) {
+        const batch = groupsInRange.slice(i, i + batchSize);
+        const batchNumber = Math.floor(i / batchSize) + 1;
+        const totalBatches = Math.ceil(groupsInRange.length / batchSize);
+        
+        console.log(`[Background] Processing batch ${batchNumber}/${totalBatches} (${batch.length} groups)`);
+        
+        // Process all groups in the current batch in parallel
+        const batchPromises = batch.map(groupIndex => processGroup(groupIndex));
+        const batchResponses = await Promise.all(batchPromises);
+        
+        // Accumulate statistics
+        for (const response of batchResponses) {
+          totalGroupsSubmitted++;
+          
+          if (response.moved_to_removed) {
+            totalMovedToRemoved += response.moved_to_removed;
+          }
+          if (response.unchecked_from_saved) {
+            totalUncheckedFromSaved += response.unchecked_from_saved;
+          }
+          if (response.newly_added_to_saved) {
+            totalNewlyAddedToSaved += response.newly_added_to_saved;
+          }
+        }
+        
+        // Update progress
+        setBackgroundProgress({ current: totalGroupsSubmitted, total: totalGroups });
+        
+        console.log(`[Background] Batch ${batchNumber}/${totalBatches} completed. Total submitted: ${totalGroupsSubmitted}`);
+      }
+      
+      console.log(`[Background] Total - Moved to removed: ${totalMovedToRemoved}, Unchecked from saved: ${totalUncheckedFromSaved}, Newly added to saved: ${totalNewlyAddedToSaved}, Groups: ${totalGroupsSubmitted}`);
+      
+      // Get current folder counts AFTER submission
+      let savedCountAfter = 0;
+      let removedCountAfter = 0;
+      try {
+        const summaryAfter = await api.getSummary(subject);
+        savedCountAfter = summaryAfter.final_saved || 0;
+        removedCountAfter = summaryAfter.final_removed || 0;
+        console.log(`[Background] After submission - Saved: ${savedCountAfter}, Removed: ${removedCountAfter}`);
+      } catch (error) {
+        console.error('[Background] Failed to get summary after:', error);
+      }
+      
+      // Calculate actual changes
+      const actualRemovedFromSaved = savedCountBefore - savedCountAfter;
+      const actualAddedToRemoved = removedCountAfter - removedCountBefore;
+      
+      console.log(`[Background] Actual changes - Removed from saved: ${actualRemovedFromSaved}, Added to removed: ${actualAddedToRemoved}`);
+      
+      // Show success modal
+      if (totalGroupsSubmitted > 0) {
+        const removedFromSaved = actualRemovedFromSaved > 0 ? actualRemovedFromSaved : totalMovedToRemoved;
+        const addedToSaved = totalNewlyAddedToSaved;
+        const addedToRemoved = actualAddedToRemoved > 0 ? actualAddedToRemoved : totalMovedToRemoved;
+        
+        setSuccessStats({
+          movedToRemoved: removedFromSaved,
+          addedToSaved: addedToSaved,
+          addedToRemoved: addedToRemoved,
+          savedCount: savedCountAfter,
+          removedCount: removedCountAfter
+        });
+        
+        setShowSuccessModal(true);
+        setPageCompleted(true);
+        
+        // Notify parent
+        onGroupsSubmitted();
+      }
+      
+      setBackgroundSubmitting(false);
+    } catch (error) {
+      console.error('[Background] Failed to submit groups:', error);
+      alert('Error submitting groups in background');
+      setBackgroundSubmitting(false);
+    }
+  };
+
   if (initializing) {
     return (
       <div className="flex justify-center items-center py-24">
@@ -1751,6 +1936,59 @@ const SimilarityGroupViewInner = forwardRef<SimilarityGroupViewHandle, Similarit
               <p className="text-gray-600">
                 {submitting ? 'Please wait while groups are being processed' : 'Preparing next page for review'}
               </p>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Background Submission Progress Modal */}
+      {backgroundSubmitting && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-[110]">
+          <div className="bg-white rounded-2xl shadow-2xl p-8 max-w-lg mx-4">
+            <div className="text-center">
+              <div className="mb-6">
+                <svg className="w-20 h-20 mx-auto text-purple-600 animate-pulse" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
+              </div>
+              <h2 className="text-2xl font-bold text-gray-800 mb-4">
+                Submitting Without Rendering
+              </h2>
+              <p className="text-gray-600 mb-6">
+                Processing groups in the background...
+              </p>
+              
+              {/* Progress Bar */}
+              <div className="mb-4">
+                <div className="flex justify-between text-sm text-gray-600 mb-2">
+                  <span>Progress</span>
+                  <span className="font-bold">
+                    {backgroundProgress.current.toLocaleString()} / {backgroundProgress.total.toLocaleString()}
+                  </span>
+                </div>
+                <div className="w-full bg-gray-200 rounded-full h-4 overflow-hidden">
+                  <div 
+                    className="bg-purple-600 h-full rounded-full transition-all duration-300"
+                    style={{ 
+                      width: backgroundProgress.total > 0 
+                        ? `${(backgroundProgress.current / backgroundProgress.total) * 100}%` 
+                        : '0%' 
+                    }}
+                  />
+                </div>
+                <p className="text-xs text-gray-500 mt-2">
+                  {backgroundProgress.total > 0 
+                    ? `${Math.round((backgroundProgress.current / backgroundProgress.total) * 100)}% complete`
+                    : 'Initializing...'}
+                </p>
+              </div>
+              
+              <div className="bg-purple-50 rounded-lg p-4 text-sm text-gray-700">
+                <p className="font-semibold mb-1">⚡ Fast Mode Active</p>
+                <p className="text-xs">
+                  Groups are being submitted without rendering for maximum speed
+                </p>
+              </div>
             </div>
           </div>
         </div>
