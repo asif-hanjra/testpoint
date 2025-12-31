@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which club did Lionel Messi play for before leaving recently?",
+      "options": {
+        "a": "Real Madrid",
+        "b": "FC Barcelona",
+        "c": "Manchester United",
+        "d": "Juventus"
+      },
+      "one_liner": "Lionel Messi played for **FC Barcelona** before leaving the club recently.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

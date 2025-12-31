@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which chapter of the 1973 Constitution of Pakistan deals with Fundamental Rights?",
+      "options": {
+        "a": "Chapter 1",
+        "b": "Chapter 2",
+        "c": "Chapter 3",
+        "d": "Chapter 4"
+      },
+      "one_liner": "Chapter 1 of the 1973 Constitution of Pakistan specifically addresses **Fundamental Rights**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

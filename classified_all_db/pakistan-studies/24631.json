@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country assisted in the establishment of Pakistan Steel Mills?",
+      "options": {
+        "a": "USA",
+        "b": "UK",
+        "c": "China",
+        "d": "USSR"
+      },
+      "one_liner": "The establishment of Pakistan Steel Mills was made possible with the assistance of the **USSR**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the famous Faisal Mosque of Islamabad completed?",
+      "options": {
+        "a": "1976",
+        "b": "1980",
+        "c": "1986",
+        "d": "1990"
+      },
+      "one_liner": "The famous Faisal Mosque of Islamabad was completed in **1986**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

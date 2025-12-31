@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was elected as the President of the Constituent Assembly of Pakistan on 11th August 1947?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Allama Iqbal",
+        "c": "Muhammad Ali Jinnah",
+        "d": "Fatima Jinnah"
+      },
+      "one_liner": "On 11th August 1947, **Muhammad Ali Jinnah** was elected as the President of the Constituent Assembly of Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

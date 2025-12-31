@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the fourth census of Pakistan conducted?",
+      "options": {
+        "a": "1972",
+        "b": "1981",
+        "c": "1991",
+        "d": "1998"
+      },
+      "one_liner": "The fourth census of Pakistan was conducted in **March 1981**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who holds the position of head of government in Pakistan?",
+      "options": {
+        "a": "President",
+        "b": "Prime Minister",
+        "c": "Chief Minister",
+        "d": "Governor"
+      },
+      "one_liner": "The **Prime Minister** is the head of government in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

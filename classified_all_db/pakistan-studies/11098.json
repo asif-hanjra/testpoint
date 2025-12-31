@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How was the decision for North West Frontier Province's accession to Pakistan determined?",
+      "options": {
+        "a": "Legislative vote",
+        "b": "Referendum",
+        "c": "Royal decree",
+        "d": "Boundary Commission"
+      },
+      "one_liner": "The decision for North West Frontier Province to join Pakistan was determined by a **referendum**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

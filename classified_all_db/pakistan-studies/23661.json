@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who translated Javed Nama into Latin under the title II Poema Celeste?",
+      "options": {
+        "a": "Professor Hell",
+        "b": "Professor Alessander Busani",
+        "c": "Professor Smith",
+        "d": "None of these"
+      },
+      "one_liner": "Javed Nama was translated into Latin as II Poema Celeste by **Professor Alessander Busani**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

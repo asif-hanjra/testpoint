@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which city served as Pakistan's temporary capital in 1960?",
+      "options": {
+        "a": "Karachi",
+        "b": "Lahore",
+        "c": "Rawalpindi",
+        "d": "Islamabad"
+      },
+      "one_liner": "In 1960, the city that acted as Pakistan's temporary capital was **Rawalpindi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

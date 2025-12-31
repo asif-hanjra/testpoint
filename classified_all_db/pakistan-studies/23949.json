@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a state labeled on the map besides Jammu & Kashmir?",
+      "options": {
+        "a": "Kopurthala State",
+        "b": "Hyderabad State",
+        "c": "Junagadh State",
+        "d": "None of these"
+      },
+      "one_liner": "Besides Jammu & Kashmir, **Kopurthala State** is also labeled on the map.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

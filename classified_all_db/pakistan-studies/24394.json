@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Umar Ata Bandial was sworn in as which number Chief Justice of Pakistan?",
+      "options": {
+        "a": "25th",
+        "b": "27th",
+        "c": "28th",
+        "d": "30th"
+      },
+      "one_liner": "Umar Ata Bandial was sworn in as the **28th Chief Justice of Pakistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

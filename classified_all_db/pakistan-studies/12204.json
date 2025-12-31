@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year did the first phase of education reforms begin during Bhutto's government?",
+      "options": {
+        "a": "January 1971",
+        "b": "October 1972",
+        "c": "March 1973",
+        "d": "December 1974"
+      },
+      "one_liner": "The first phase of education reforms during Bhutto's government began in **October 1972**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

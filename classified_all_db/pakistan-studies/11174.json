@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the official broadcaster for PSL-9 (2024)?",
+      "options": {
+        "a": "PTV Sports",
+        "b": "A Sports",
+        "c": "Ten Sports",
+        "d": "Geo Super"
+      },
+      "one_liner": "A Sports was the official broadcaster for **PSL-9 (2024)**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "PSL (Pakistan Super league)",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "PSL (Pakistan Super League)",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

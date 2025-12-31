@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who did Lahore Qalandars defeat in the PSL-8 (2023) final?",
+      "options": {
+        "a": "Multan Sultans",
+        "b": "Islamabad United",
+        "c": "Peshawar Zalmi",
+        "d": "Quetta Gladiators"
+      },
+      "one_liner": "Lahore Qalandars defeated **Multan Sultans** in the PSL-8 (2023) final.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "PSL (Pakistan Super league)",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "PSL (Pakistan Super League)",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

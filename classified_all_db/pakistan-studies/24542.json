@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the name of NWFP officially changed to Khyber Pakhtunkhwa?",
+      "options": {
+        "a": "2008",
+        "b": "2009",
+        "c": "2010",
+        "d": "2011"
+      },
+      "one_liner": "The official renaming of NWFP to **Khyber Pakhtunkhwa** took place in 2010.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "18th Amendment",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

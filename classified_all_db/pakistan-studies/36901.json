@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When were the first general elections under the 1973 constitution held in Pakistan?",
+      "options": {
+        "a": "1970",
+        "b": "1973",
+        "c": "1977",
+        "d": "1985"
+      },
+      "one_liner": "The first general elections under the 1973 constitution in Pakistan were held in **1977**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

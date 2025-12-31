@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the main purpose of the referendum held in Pakistan on April 30, 2002?",
+      "options": {
+        "a": "To elect a new prime minister",
+        "b": "To approve a new constitution",
+        "c": "To allow Pervez Musharraf to continue as president for five years",
+        "d": "None of these"
+      },
+      "one_liner": "The main purpose of the referendum held in Pakistan on April 30, 2002, was to decide if **Pervez Musharraf should continue as president for five years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

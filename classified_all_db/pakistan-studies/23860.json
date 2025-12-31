@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first Chairman of the Senate of Pakistan?",
+      "options": {
+        "a": "Wasim Sajjad",
+        "b": "Habib Ullah Khan",
+        "c": "Ghulam Ishaq Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The first Chairman of the Senate of Pakistan was **Habib Ullah Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

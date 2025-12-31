@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two leaders held talks at the Agra Summit in 2001 over long-standing issues?",
+      "options": {
+        "a": "Pervez Musharraf and Atal Bihari Vajpayee",
+        "b": "Nawaz Sharif and Manmohan Singh",
+        "c": "Benazir Bhutto and Indira Gandhi",
+        "d": "None of these"
+      },
+      "one_liner": "The Agra Summit in 2001 featured talks between **President Pervez Musharraf and Indian Prime Minister Vajpayee** on long-standing issues.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

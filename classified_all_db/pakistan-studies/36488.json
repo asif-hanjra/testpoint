@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "According to the 2017 Census, what was the population of Karachi?",
+      "options": {
+        "a": "12,000,000",
+        "b": "16,024,894",
+        "c": "18,000,000",
+        "d": "None of these"
+      },
+      "one_liner": "According to the 2017 Census, Karachi had a population of **16,024,894**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

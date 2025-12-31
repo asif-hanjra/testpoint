@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which princely state was the first to formally accede to Pakistan?",
+      "options": {
+        "a": "Bahawalpur",
+        "b": "Kalat",
+        "c": "Khairpur",
+        "d": "Swat"
+      },
+      "one_liner": "The first princely state to formally accede to Pakistan was **Bahawalpur**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

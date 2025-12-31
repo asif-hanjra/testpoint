@@ -164,26 +164,56 @@ async def get_subjects():
 async def process_subject(subject: str):
     """Process subject with SBERT and auto-save non-duplicates"""
     try:
-        # Load saved-track files to exclude from processing
-        saved_files = set(file_manager.load_saved_tracking(subject))
-        if saved_files:
-            print(f"[MAIN] Excluding {len(saved_files)} saved (finalized) files from SBERT processing")
+        # Load files to exclude from processing
+        # Note: final-track files are NOT excluded - they will be cleared when SBERT runs
+        removed_files = set(file_manager.load_removed_tracking(subject))  # User removed files
+        saved_files = set(file_manager.load_saved_tracking(subject))  # SBERT auto-saved non-duplicates
         
-        # Load MCQ files
+        # Combine excluded files (only removed and saved, NOT final-track)
+        excluded_files = removed_files | saved_files
+        
+        if excluded_files:
+            print(f"[MAIN] Excluding {len(removed_files)} removed and {len(saved_files)} saved (auto-saved) files from SBERT processing")
+        
+        # Clear final-track when SBERT runs (user decisions are reset)
+        final_track_file = file_manager.project_root / "final-track" / f"{subject}.json"
+        if final_track_file.exists():
+            try:
+                final_files = file_manager.load_final_tracking(subject)
+                if final_files:
+                    print(f"[MAIN] Clearing {len(final_files)} files from final-track (SBERT is running, user decisions reset)")
+                    with open(final_track_file, 'w', encoding='utf-8') as f:
+                        json.dump([], f, indent=2)
+                    print(f"[MAIN] Cleared final-track for {subject}")
+            except Exception as e:
+                print(f"[MAIN] Warning: Failed to clear final-track: {e}")
+        
+        # IMPORTANT: Always prepare working folder from original folder first
+        # This ensures we only process files that should be processed
+        print(f"[MAIN] Preparing working folder from original folder (excluding removed and saved files)...")
+        copied_count, skipped_count = file_manager.prepare_subject_for_sbert(subject)
+        
+        if copied_count == 0:
+            raise HTTPException(status_code=404, detail=f"No files to process for subject: {subject}")
+        
+        print(f"[MAIN] Prepared {copied_count} files in working folder, skipped {skipped_count} files")
+        
+        # Load MCQ files from prepared working folder (now only has files to process)
         all_mcqs = file_manager.load_mcq_files(subject)
         
         if not all_mcqs:
             raise HTTPException(status_code=404, detail=f"No files found for subject: {subject}")
         
-        # Exclude saved-track files from processing
-        mcqs = {filename: data for filename, data in all_mcqs.items() if filename not in saved_files}
+        # Verify count matches expected (should be equal to copied_count)
+        if len(all_mcqs) != copied_count:
+            print(f"[MAIN] Warning: Working folder has {len(all_mcqs)} files but expected {copied_count} files")
         
-        if not mcqs:
-            raise HTTPException(status_code=404, detail=f"No files to process after excluding saved-track files for subject: {subject}")
+        # All files in working folder are already filtered (removed and saved excluded)
+        # So we can use all_mcqs directly
+        mcqs = all_mcqs
         
-        excluded_count = len(all_mcqs) - len(mcqs)
-        if excluded_count > 0:
-            print(f"[MAIN] Excluded {excluded_count} files from saved-track, processing {len(mcqs):,} files")
+        total_files = len(mcqs)
+        print(f"[MAIN] Processing {total_files:,} files with SBERT (already filtered from original folder)")
         
         total_files = len(mcqs)
         
@@ -846,7 +876,7 @@ async def clear_session(subject: str):
         # Clear cache
         cache_manager.clear_cache(subject)
         
-        # Clear final-track JSON (no file deletion needed)
+        # Clear final-track JSON only (saved-track and removed-track persist)
         final_deleted, removed_deleted = file_manager.clear_subject_files(subject)
         
         
@@ -854,7 +884,7 @@ async def clear_session(subject: str):
             "success": True,
             "final_deleted": final_deleted,
             "removed_deleted": removed_deleted,
-            "message": f"Cleared {final_deleted + removed_deleted} files"
+            "message": f"Cleared {final_deleted} files from final-track (saved-track and removed-track preserved)"
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -908,12 +938,25 @@ async def prepare_and_process(subject: str, resume_sbert: bool = Query(False)):
         # Clear groups
         groups_manager.clear_groups(subject)
         
-        # Clear final-track JSON (no file deletion needed)
-        final_deleted, removed_deleted = file_manager.clear_subject_files(subject)
-        print(f"[MAIN] Cleared {final_deleted} files from final-track")
+        # Clear final-track JSON when SBERT runs (user decisions are reset)
+        final_track_file = file_manager.project_root / "final-track" / f"{subject}.json"
+        if final_track_file.exists():
+            try:
+                final_files = file_manager.load_final_tracking(subject)
+                if final_files:
+                    print(f"[MAIN] Clearing {len(final_files)} files from final-track (SBERT is running, user decisions reset)")
+                    with open(final_track_file, 'w', encoding='utf-8') as f:
+                        json.dump([], f, indent=2)
+                    print(f"[MAIN] Cleared final-track for {subject}")
+            except Exception as e:
+                print(f"[MAIN] Warning: Failed to clear final-track: {e}")
         
-        # Prepare subject: copy non-removed files from master copy to working folder
-        print(f"[MAIN] Preparing subject {subject} for SBERT (excluding removed files)...")
+        # DO NOT clear removed-track or saved-track - they persist across SBERT runs
+        # Only final-track is cleared (already done above)
+        
+        # Prepare subject: copy non-removed and non-saved files from master copy to working folder
+        # Note: final-track files are included (already cleared above)
+        print(f"[MAIN] Preparing subject {subject} for SBERT (excluding removed and saved files)...")
         copied_count, skipped_count = file_manager.prepare_subject_for_sbert(subject)
         
         if copied_count == 0:

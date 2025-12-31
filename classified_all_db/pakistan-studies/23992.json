@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which region of Pakistan is the precious gemstone \"Emerald\" found?",
+      "options": {
+        "a": "Swat",
+        "b": "Chitral",
+        "c": "Gilgit",
+        "d": "Quetta"
+      },
+      "one_liner": "The precious gemstone **Emerald** is found in the Swat region of Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

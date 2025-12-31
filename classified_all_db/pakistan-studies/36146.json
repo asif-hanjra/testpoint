@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first governor of East Bengal?",
+      "options": {
+        "a": "Federick Bourne",
+        "b": "Ghulam Muhammad",
+        "c": "Iskander Mirza",
+        "d": "None of these"
+      },
+      "one_liner": "The first governor of East Bengal was **Federick Bourne**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1947-1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

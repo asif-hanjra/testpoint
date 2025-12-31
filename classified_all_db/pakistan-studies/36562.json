@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the founder of Pakistan People's Party?",
+      "options": {
+        "a": "Benazir Bhutto",
+        "b": "Zulifkar Ali Bhutto",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The founder of Pakistan People's Party is **Zulifkar Ali Bhutto**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

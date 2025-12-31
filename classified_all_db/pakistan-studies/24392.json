@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which company operates the Qadirpur Gas Field, the second largest gas field in Pakistan?",
+      "options": {
+        "a": "OGDCL",
+        "b": "PPL",
+        "c": "OCGDL",
+        "d": "SNGPL"
+      },
+      "one_liner": "The Qadirpur Gas Field, recognized as the second largest gas field in Pakistan, is operated by **OCGDL**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "More Facts about Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

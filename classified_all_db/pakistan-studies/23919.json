@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Cristiano Ronaldo is the captain of which national team?",
+      "options": {
+        "a": "Spain",
+        "b": "Brazil",
+        "c": "Argentina",
+        "d": "Portugal"
+      },
+      "one_liner": "Cristiano Ronaldo serves as the captain of the **Portugal national team**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

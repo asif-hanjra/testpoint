@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'Jinnah of Pakistan'?",
+      "options": {
+        "a": "Stanley Wolpert",
+        "b": "Ayesha Jalal",
+        "c": "Hector Bolitho",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'Jinnah of Pakistan' was authored by **Stanley Wolpert**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

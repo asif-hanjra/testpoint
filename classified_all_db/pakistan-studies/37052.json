@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the 1973 Constitution of Pakistan ratified?",
+      "options": {
+        "a": "10 April 1973",
+        "b": "14 August 1973",
+        "c": "23 March 1973",
+        "d": "1 July 1973"
+      },
+      "one_liner": "The 1973 Constitution of Pakistan was ratified on **14 August 1973**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constitution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

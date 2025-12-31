@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which constitution was the bicameral system of legislature introduced in Pakistan?",
+      "options": {
+        "a": "Constitution of 1956",
+        "b": "Constitution of 1962",
+        "c": "Constitution of 1973",
+        "d": "None of these"
+      },
+      "one_liner": "The bicameral system of legislature in Pakistan was introduced under the **Constitution of 1973**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

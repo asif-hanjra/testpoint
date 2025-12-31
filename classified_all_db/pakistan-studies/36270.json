@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "Tirch Mir is located in which mountain range?",
+      "options": {
+        "a": "Hindu Kush",
+        "b": "Karakoram",
+        "c": "Himalayas",
+        "d": "None of these"
+      },
+      "one_liner": "Tirch Mir, the highest peak of the Hindu Kush, is not part of the **Karakoram Range**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

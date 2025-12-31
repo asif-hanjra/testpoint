@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the chief minister of Punjab in 1985?",
+      "options": {
+        "a": "Benazir Bhutto",
+        "b": "Shahbaz Sharif",
+        "c": "Nawaz Sharif",
+        "d": "Chaudhry Pervaiz Elahi"
+      },
+      "one_liner": "In **1985**, Nawaz Sharif became the chief minister of Punjab.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

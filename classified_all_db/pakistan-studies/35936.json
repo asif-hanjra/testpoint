@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which ministerial position did Zulfiqar Ali Bhutto first hold in his political career?",
+      "options": {
+        "a": "Minister of Commerce",
+        "b": "Minister of Defence",
+        "c": "Minister of Foreign Affairs",
+        "d": "Minister of Interior"
+      },
+      "one_liner": "Zulfiqar Ali Bhutto's initial ministerial role was as the **Minister of Commerce**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

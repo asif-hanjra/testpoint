@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Pakistan leave CENTO?",
+      "options": {
+        "a": "1971",
+        "b": "1979",
+        "c": "1985",
+        "d": "1965"
+      },
+      "one_liner": "Pakistan withdrew from CENTO in **1979**, marking the end of its participation in the alliance.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

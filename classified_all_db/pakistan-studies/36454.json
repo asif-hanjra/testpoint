@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the famous poet imprisoned for his alleged role in the Rawalpindi Conspiracy Case?",
+      "options": {
+        "a": "Allama Iqbal",
+        "b": "Josh Malihabadi",
+        "c": "Faiz Ahmad Faiz",
+        "d": "None of these"
+      },
+      "one_liner": "The renowned poet **Faiz Ahmad Faiz** was imprisoned for his alleged role in the Rawalpindi Conspiracy Case.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

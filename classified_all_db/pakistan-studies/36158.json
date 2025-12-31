@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How are the seats reserved for non-Muslims in the National Assembly of Pakistan filled?",
+      "options": {
+        "a": "Direct election",
+        "b": "Nomination",
+        "c": "Lottery",
+        "d": "None of these"
+      },
+      "one_liner": "The seats reserved for non-Muslims in the National Assembly of Pakistan are filled through **nomination** rather than direct election.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

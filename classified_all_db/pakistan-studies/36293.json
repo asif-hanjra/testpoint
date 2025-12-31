@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Quaid-i-Azam hint that Urdu would be the sole language of Pakistan?",
+      "options": {
+        "a": "1947",
+        "b": "1948",
+        "c": "1956",
+        "d": "1962"
+      },
+      "one_liner": "In **1948**, Quaid-i-Azam indicated that Urdu would be the only language of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

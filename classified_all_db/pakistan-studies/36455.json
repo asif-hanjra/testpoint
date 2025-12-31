@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Zafarullah Khan Jamali serve as Prime Minister of Pakistan?",
+      "options": {
+        "a": "2001-2002",
+        "b": "2002-2004",
+        "c": "2004-2006",
+        "d": "None of these"
+      },
+      "one_liner": "Zafarullah Khan Jamali served as Prime Minister of Pakistan from **November 23, 2002 to June 26, 2004**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

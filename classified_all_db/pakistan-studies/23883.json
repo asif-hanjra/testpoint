@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Nazia Hassan, the famous Pakistani singer, awarded the Pride of Performance medal?",
+      "options": {
+        "a": "1999",
+        "b": "2002",
+        "c": "2005",
+        "d": "2010"
+      },
+      "one_liner": "Nazia Hassan, the renowned Pakistani singer, received the Pride of Performance medal in **2002**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Honors",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

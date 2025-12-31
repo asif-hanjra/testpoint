@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who holds the record for the highest number of wickets in ODI cricket?",
+      "options": {
+        "a": "Wasim Akram",
+        "b": "Muttiah Muralitharan",
+        "c": "Waqar Younis",
+        "d": "Shahid Afridi"
+      },
+      "one_liner": "The record for the highest number of wickets in ODI cricket is held by **Muttiah Muralitharan** with 534 wickets.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

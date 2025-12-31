@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did SUPARCO launch Pakistan's first weather rocket, Rehbar-I?",
+      "options": {
+        "a": "1960",
+        "b": "1961",
+        "c": "1962",
+        "d": "1963"
+      },
+      "one_liner": "Pakistan's first weather rocket, **Rehbar-I**, was launched by SUPARCO in 1962.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

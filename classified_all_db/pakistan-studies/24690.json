@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the total length of the Karakoram Highway?",
+      "options": {
+        "a": "810 miles",
+        "b": "600 miles",
+        "c": "1000 miles",
+        "d": "500 miles"
+      },
+      "one_liner": "The Karakoram Highway stretches for a total length of **810 miles**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

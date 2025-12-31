@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country hosted the FIFA World Cup in 2022?",
+      "options": {
+        "a": "Qatar",
+        "b": "Russia",
+        "c": "USA",
+        "d": "France"
+      },
+      "one_liner": "Qatar was the host of the **2022** FIFA World Cup.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

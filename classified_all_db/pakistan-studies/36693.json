@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was Muhammad Ali Jinnah born?",
+      "options": {
+        "a": "August 14, 1947",
+        "b": "December 25, 1876",
+        "c": "September 11, 1948",
+        "d": "July 01, 1948"
+      },
+      "one_liner": "Muhammad Ali Jinnah was born on **December 25, 1876**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

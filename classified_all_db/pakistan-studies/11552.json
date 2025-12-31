@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which language is the National Anthem of Pakistan written?",
+      "options": {
+        "a": "Urdu",
+        "b": "Arabic",
+        "c": "Persian",
+        "d": "None of these"
+      },
+      "one_liner": "The National Anthem of Pakistan is written in **Persian** language.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1950)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

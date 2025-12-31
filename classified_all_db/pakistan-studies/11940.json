@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who successfully defended and defeated the opposing army in the Indo-Pak War of 1965?",
+      "options": {
+        "a": "Indian army",
+        "b": "Pakistan army",
+        "c": "Bangladesh army",
+        "d": "None of these"
+      },
+      "one_liner": "The **Pakistan army** not only defended but also defeated the Indian army during the Indo-Pak War of 1965.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

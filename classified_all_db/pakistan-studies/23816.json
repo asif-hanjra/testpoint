@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was Sachal Sarmast?",
+      "options": {
+        "a": "Sindhi language",
+        "b": "Punjabi language",
+        "c": "Balochi language",
+        "d": "Pashto language"
+      },
+      "one_liner": "Sachal Sarmast is renowned as a famous poet of the **Sindhi language**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

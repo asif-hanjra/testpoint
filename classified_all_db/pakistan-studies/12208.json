@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is a constitutional body in Pakistan that includes the Prime Minister, all Provincial Chief Ministers, and three members nominated by the Prime Minister?",
+      "options": {
+        "a": "Council of Common Interests (CCI)",
+        "b": "National Assembly",
+        "c": "Senate",
+        "d": "Election Commission"
+      },
+      "one_liner": "The Council of Common Interests (CCI) is a constitutional body in Pakistan comprising the Prime Minister, all Provincial Chief Ministers, and three members nominated by the Prime Minister.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

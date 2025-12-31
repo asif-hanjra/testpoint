@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city will the Asian Games 2022 be held?",
+      "options": {
+        "a": "Tokyo",
+        "b": "Hangzhou",
+        "c": "Beijing",
+        "d": "Seoul"
+      },
+      "one_liner": "The Asian Games 2022 are scheduled to be held in **Hangzhou**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

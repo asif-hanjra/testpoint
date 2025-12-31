@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which assembly presented the draft that was finally approved as the Constitution of 1956?",
+      "options": {
+        "a": "First Constituent Assembly",
+        "b": "Second Constituent Assembly",
+        "c": "National Assembly",
+        "d": "Provincial Assembly"
+      },
+      "one_liner": "The **Second Constituent Assembly** presented the draft that was finally approved as the Constitution of 1956.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party does Mian Shehbaz Sharif represent in his current tenure as Prime Minister starting March 2024?",
+      "options": {
+        "a": "Pakistan Tehreek-e-Insaf",
+        "b": "Pakistan Muslim League (N)",
+        "c": "Pakistan Peoples Party",
+        "d": "None of these"
+      },
+      "one_liner": "In his current tenure as Prime Minister starting March 2024, **Mian Shehbaz Sharif** represents the Pakistan Muslim League (N).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

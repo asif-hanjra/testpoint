@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the first nuclear power plant in Pakistan established?",
+      "options": {
+        "a": "Lahore",
+        "b": "Islamabad",
+        "c": "Karachi",
+        "d": "Multan"
+      },
+      "one_liner": "Pakistan's first nuclear power plant was established in **Karachi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

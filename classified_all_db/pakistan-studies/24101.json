@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the old name of the Lahore High Court?",
+      "options": {
+        "a": "Supreme Court of Punjab",
+        "b": "Chief Court of Punjab",
+        "c": "Punjab Judicial Council",
+        "d": "None of these"
+      },
+      "one_liner": "The Lahore High Court was previously known as the **Chief Court of Punjab**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who supervised the signing of the Karachi Agreement between India and Pakistan?",
+      "options": {
+        "a": "International Court of Justice",
+        "b": "United Nations Commission for India and Pakistan",
+        "c": "Commonwealth of Nations",
+        "d": "None of these"
+      },
+      "one_liner": "The Karachi Agreement between India and Pakistan was supervised by the **United Nations Commission for India and Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

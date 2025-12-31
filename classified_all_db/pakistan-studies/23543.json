@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the Seventh Five-Year Plan of Pakistan in effect?",
+      "options": {
+        "a": "1983-1988",
+        "b": "1988-1993",
+        "c": "1993-1998",
+        "d": "2001-2011"
+      },
+      "one_liner": "The Seventh Five-Year Plan of Pakistan was in effect from **1988 to 1993**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

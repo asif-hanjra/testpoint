@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which President of Pakistan held office from October 27, 1958 to March 25, 1969?",
+      "options": {
+        "a": "Ayub Khan",
+        "b": "Yahya Khan",
+        "c": "Iskander Mirza",
+        "d": "Muhammad Zia-ul-Haq"
+      },
+      "one_liner": "Ayub Khan served as President of Pakistan from **October 27, 1958 to March 25, 1969**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

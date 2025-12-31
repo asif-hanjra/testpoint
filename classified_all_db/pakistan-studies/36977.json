@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the Pakistan People's Party (PPP) launched?",
+      "options": {
+        "a": "August 14, 1947",
+        "b": "March 23, 1956",
+        "c": "November 30, 1967",
+        "d": "December 16, 1971"
+      },
+      "one_liner": "The Pakistan People's Party was launched on **November 30, 1967**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who among the following also died in 2006, besides Ahmed Nadeem Qasmi?",
+      "options": {
+        "a": "Nawab Akbar Bugti",
+        "b": "Allama Iqbal",
+        "c": "Liaquat Ali Khan",
+        "d": "None of these"
+      },
+      "one_liner": "**Nawab Akbar Bugti** also died in 2006, the same year as Ahmed Nadeem Qasmi.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

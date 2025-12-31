@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was Ismail Gulgee born?",
+      "options": {
+        "a": "October 25, 1926",
+        "b": "August 14, 1947",
+        "c": "March 23, 1956",
+        "d": "December 16, 1971"
+      },
+      "one_liner": "Ismail Gulgee was born on **October 25, 1926** in Peshawar.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

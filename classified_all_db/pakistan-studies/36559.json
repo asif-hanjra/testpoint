@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Clifton, the famous beach of Pakistan, located?",
+      "options": {
+        "a": "Lahore",
+        "b": "Islamabad",
+        "c": "Karachi",
+        "d": "Quetta"
+      },
+      "one_liner": "Clifton, the renowned beach in Pakistan, is situated near **Karachi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

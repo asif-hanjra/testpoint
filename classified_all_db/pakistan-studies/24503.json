@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the Balochi tribe join Pakistan?",
+      "options": {
+        "a": "14 August 1947",
+        "b": "29 June 1947",
+        "c": "3 June 1947",
+        "d": "None of these"
+      },
+      "one_liner": "The Balochi tribe officially joined Pakistan on **29 June 1947**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

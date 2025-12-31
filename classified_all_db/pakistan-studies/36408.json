@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who proclaimed martial law in Pakistan in 1958, leading to the abrogation of the constitution?",
+      "options": {
+        "a": "General Ayub Khan",
+        "b": "General Yahya Khan",
+        "c": "General Zia-ul-Haq",
+        "d": "None of these"
+      },
+      "one_liner": "General **Ayub Khan** proclaimed martial law in Pakistan in 1958, resulting in the abrogation of the constitution.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

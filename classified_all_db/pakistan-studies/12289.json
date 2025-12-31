@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date were the general elections to elect the Members of the 16th National Assembly held in Pakistan?",
+      "options": {
+        "a": "8 February 2024",
+        "b": "15 December 2023",
+        "c": "25 July 2018",
+        "d": "None of these"
+      },
+      "one_liner": "The general elections to elect the Members of the 16th National Assembly in Pakistan were held on **8 February 2024**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

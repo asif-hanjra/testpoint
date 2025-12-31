@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which article of the Constitution of Pakistan states that no person shall be deprived of life or liberty save in accordance with law?",
+      "options": {
+        "a": "Article 8",
+        "b": "Article 9",
+        "c": "Article 10",
+        "d": "Article 11"
+      },
+      "one_liner": "The right to life and liberty, protected under Article **9** of the Constitution of Pakistan, ensures that no person can be deprived of these rights except in accordance with the law.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

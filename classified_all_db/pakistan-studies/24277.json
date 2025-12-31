@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which province of Pakistan is the Bolan Pass located?",
+      "options": {
+        "a": "Punjab",
+        "b": "Sindh",
+        "c": "Balochistan",
+        "d": "Khyber Pakhtunkhwa"
+      },
+      "one_liner": "The Bolan Pass is situated in the province of **Balochistan** in Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

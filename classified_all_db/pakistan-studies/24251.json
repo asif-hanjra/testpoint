@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country withdrew from SEATO in 1973?",
+      "options": {
+        "a": "India",
+        "b": "Bangladesh",
+        "c": "Pakistan",
+        "d": "Afghanistan"
+      },
+      "one_liner": "The country that withdrew from SEATO in 1973 was **Pakistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which national day commemorates Pakistan's achievement of nuclear status?",
+      "options": {
+        "a": "Pakistan Day",
+        "b": "Defence Day",
+        "c": "Yom-e-Takbir",
+        "d": "None of these"
+      },
+      "one_liner": "The national day that commemorates Pakistan's achievement of nuclear status is called **Yom-e-Takbir**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "More Facts about Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

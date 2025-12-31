@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city was the 2017 PSL final played?",
+      "options": {
+        "a": "Karachi",
+        "b": "Lahore",
+        "c": "Islamabad",
+        "d": "Dubai"
+      },
+      "one_liner": "The 2017 PSL final was played in **Lahore**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "PSL (Pakistan Super league)",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "PSL (Pakistan Super League)",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

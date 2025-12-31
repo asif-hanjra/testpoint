@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Rakh Ghulaman Livestock Farm located?",
+      "options": {
+        "a": "Multan",
+        "b": "Bhakkar",
+        "c": "Lahore",
+        "d": "Sahiwal"
+      },
+      "one_liner": "The Rakh Ghulaman Livestock Farm is situated in **Bhakkar**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

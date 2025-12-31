@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which civilian honour was awarded to Ustad Rais by the government of Pakistan?",
+      "options": {
+        "a": "Nishan-e-Imtiaz",
+        "b": "Hilal-i-Imtiaz",
+        "c": "Sitara-i-Imtiaz",
+        "d": "Tamgha-e-Imtiaz"
+      },
+      "one_liner": "Ustad Rais was honoured with Pakistan's third highest civilian award, the **Sitara-i-Imtiaz**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

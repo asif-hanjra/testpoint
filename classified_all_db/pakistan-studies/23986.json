@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which nationality was the firm that drew the master plan of Islamabad?",
+      "options": {
+        "a": "Greek",
+        "b": "British",
+        "c": "American",
+        "d": "French"
+      },
+      "one_liner": "The master plan of Islamabad was drawn by a **Greek** firm.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

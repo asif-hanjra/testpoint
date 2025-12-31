@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which prestigious award was given to Havaldar Lalak Jan shaheed for his bravery?",
+      "options": {
+        "a": "Sitara-e-Jurat",
+        "b": "Nishan-e-Haider",
+        "c": "Tamgha-e-Shujaat",
+        "d": "Hilal-e-Imtiaz"
+      },
+      "one_liner": "The highest military award of Pakistan, the **Nishan-e-Haider**, was conferred upon Havaldar Lalak Jan shaheed for his acts of bravery.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

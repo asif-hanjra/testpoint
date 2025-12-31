@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following is NOT a component of the Majlis-e-Shoora (Parliament) of Pakistan?",
+      "options": {
+        "a": "President",
+        "b": "National Assembly",
+        "c": "Senate",
+        "d": "Supreme Court"
+      },
+      "one_liner": "The Majlis-e-Shoora (Parliament) of Pakistan is composed of the **President, National Assembly, and Senate**.",
+      "correct_option": "d",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

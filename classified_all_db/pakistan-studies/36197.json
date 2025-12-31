@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did Nawaz Sharif represent during his tenure as Prime Minister of Pakistan?",
+      "options": {
+        "a": "Pakistan Peoples Party",
+        "b": "Muslim League (N)",
+        "c": "Pakistan Tehreek-e-Insaf",
+        "d": "None of these"
+      },
+      "one_liner": "During his tenure as Prime Minister, Nawaz Sharif represented the **Muslim League (N)** political party.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

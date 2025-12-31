@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two countries jointly hosted the Cricket World Cup in 1987?",
+      "options": {
+        "a": "Pakistan and Sri Lanka",
+        "b": "India and Bangladesh",
+        "c": "Pakistan and India",
+        "d": "India and England"
+      },
+      "one_liner": "The Cricket World Cup of 1987 was jointly hosted by **Pakistan and India**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which article of the Constitution of Pakistan grants the Supreme Court Suo Motu powers?",
+      "options": {
+        "a": "Article 184(3)",
+        "b": "Article 199",
+        "c": "Article 175",
+        "d": "None of these"
+      },
+      "one_liner": "The Suo Motu powers of the Supreme Court of Pakistan are provided under **Article 184(3)** of the Constitution.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Pakistan win its first Hockey World Cup?",
+      "options": {
+        "a": "1971",
+        "b": "1975",
+        "c": "1978",
+        "d": "1982"
+      },
+      "one_liner": "Pakistan won its first Hockey World Cup in **1971**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

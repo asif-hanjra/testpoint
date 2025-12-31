@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the agreement for the Line of Control signed?",
+      "options": {
+        "a": "1965",
+        "b": "1971",
+        "c": "1972",
+        "d": "1974"
+      },
+      "one_liner": "The agreement for the Line of Control was signed in **1972**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

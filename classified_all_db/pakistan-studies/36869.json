@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the oldest university in Pakistan?",
+      "options": {
+        "a": "Punjab University",
+        "b": "Karachi University",
+        "c": "Peshawar University",
+        "d": "None of these"
+      },
+      "one_liner": "The oldest university in Pakistan is **Punjab University**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

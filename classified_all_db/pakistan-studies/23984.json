@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is the Batura Glacier located?",
+      "options": {
+        "a": "India",
+        "b": "Nepal",
+        "c": "Pakistan",
+        "d": "China"
+      },
+      "one_liner": "The Batura Glacier is located in **Pakistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

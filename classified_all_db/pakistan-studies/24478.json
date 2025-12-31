@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which prestigious award was Naik Saif Ali Janjua Shaheed honored with for his bravery?",
+      "options": {
+        "a": "Hilal-e-Kashmir",
+        "b": "Sitara-e-Jurat",
+        "c": "Nishan-e-Imtiaz",
+        "d": "None of these"
+      },
+      "one_liner": "Naik Saif Ali Janjua Shaheed was honored with the **Hilal-e-Kashmir**, which is considered equivalent to Nishan-i-Haider.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of organization was the RCD?",
+      "options": {
+        "a": "Non-governmental organization",
+        "b": "Multi-governmental organization",
+        "c": "Private company",
+        "d": "None of these"
+      },
+      "one_liner": "The RCD was a **multi-governmental organization** aimed at regional cooperation.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

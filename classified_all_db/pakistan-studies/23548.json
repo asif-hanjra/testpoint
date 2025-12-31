@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "During which dates was the ICC Men's T20 World Cup 2024 held?",
+      "options": {
+        "a": "1 to 29 May 2024",
+        "b": "1 to 29 June 2024",
+        "c": "1 to 29 July 2024",
+        "d": "1 to 29 August 2024"
+      },
+      "one_liner": "The ICC Men's T20 World Cup 2024 took place from **1 to 29 June 2024**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

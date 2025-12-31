@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who signed the Tripartite Agreement of 9 April 1974 on behalf of Pakistan?",
+      "options": {
+        "a": "Zulfikar Ali Bhutto",
+        "b": "Aziz Ahmed",
+        "c": "Yahya Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Aziz Ahmed represented Pakistan by signing the Tripartite Agreement of 9 April 1974.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

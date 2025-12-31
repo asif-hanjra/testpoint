@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which of the following cities is NOT labeled on the map showing the conflicted border area?",
+      "options": {
+        "a": "Lahore",
+        "b": "Amritsar",
+        "c": "Karachi",
+        "d": "Gujranwala"
+      },
+      "one_liner": "Among the listed cities, **Karachi** is not labeled on the map of the conflicted border area.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

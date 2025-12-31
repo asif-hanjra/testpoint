@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the most common type of family system in Pakistan?",
+      "options": {
+        "a": "Nuclear family",
+        "b": "Single-parent family",
+        "c": "Joint family",
+        "d": "Extended family"
+      },
+      "one_liner": "The most prevalent family structure in Pakistan is the **Joint family** system.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

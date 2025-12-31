@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Pakistan joined the International Monetary Fund (IMF) in which month and year?",
+      "options": {
+        "a": "September 1947",
+        "b": "July 1950",
+        "c": "1979",
+        "d": "1985"
+      },
+      "one_liner": "Pakistan joined the International Monetary Fund (IMF) in **July 1950**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

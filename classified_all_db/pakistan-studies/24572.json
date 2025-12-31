@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of Pakistan's national space agency?",
+      "options": {
+        "a": "SUPARCO",
+        "b": "PAEC",
+        "c": "NDC",
+        "d": "NESCOM"
+      },
+      "one_liner": "The national space agency of Pakistan is called **SUPARCO**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

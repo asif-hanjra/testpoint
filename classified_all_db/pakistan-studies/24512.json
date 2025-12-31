@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Quaid-e-Azam address the Constituent Assembly of Pakistan for the first time?",
+      "options": {
+        "a": "14th August 1947",
+        "b": "11th August 1947",
+        "c": "15th August 1947",
+        "d": "12th August 1947"
+      },
+      "one_liner": "Quaid-e-Azam delivered his first address to the Constituent Assembly of Pakistan on **11th August 1947**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

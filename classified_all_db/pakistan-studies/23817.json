@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which province of Pakistan announced Sindhi as its official language in 1972?",
+      "options": {
+        "a": "Punjab",
+        "b": "Khyber Pakhtunkhwa",
+        "c": "Sindh",
+        "d": "Balochistan"
+      },
+      "one_liner": "The province that declared Sindhi as its official language in 1972 was **Sindh**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

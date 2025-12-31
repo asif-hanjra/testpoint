@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was the draft of the 1956 constitution passed by the Constituent Assembly?",
+      "options": {
+        "a": "14 August 1947",
+        "b": "23 March 1956",
+        "c": "29 February 1956",
+        "d": "1 March 1956"
+      },
+      "one_liner": "The draft of the 1956 constitution was passed by the Constituent Assembly on **29 February 1956**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

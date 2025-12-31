@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the famous book 'The Idea of Pakistan'?",
+      "options": {
+        "a": "Stephen Philip Cohen",
+        "b": "Stanley Wolpert",
+        "c": "Ayesha Jalal",
+        "d": "None of these"
+      },
+      "one_liner": "The renowned book 'The Idea of Pakistan' was authored by **Stephen Philip Cohen**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

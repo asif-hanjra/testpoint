@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Pakistani hockey player is famously known as the 'Flying Horse'?",
+      "options": {
+        "a": "Sohail Abbas",
+        "b": "Samiullah Khan",
+        "c": "Shahbaz Ahmed",
+        "d": "None of these"
+      },
+      "one_liner": "The Pakistani hockey player who earned the nickname 'Flying Horse' is **Samiullah Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

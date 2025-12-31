@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who are the founders associated with the Panama Papers?",
+      "options": {
+        "a": "Jurgen Mossack & Ramon Fonseca",
+        "b": "John Perkins & David Cameron",
+        "c": "Edward Snowden & Julian Assange",
+        "d": "None of these"
+      },
+      "one_liner": "The founders linked to the Panama Papers are **Jurgen Mossack and Ramon Fonseca**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

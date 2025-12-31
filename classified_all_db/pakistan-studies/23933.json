@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which year was the inaugural FIFA World Cup held?",
+      "options": {
+        "a": "1928",
+        "b": "1930",
+        "c": "1942",
+        "d": "1950"
+      },
+      "one_liner": "The inaugural FIFA World Cup was held in **1930**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Football",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

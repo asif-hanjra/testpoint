@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Although the fifth census of Pakistan was due in 1991, when was it actually held?",
+      "options": {
+        "a": "1991",
+        "b": "1995",
+        "c": "1998",
+        "d": "2001"
+      },
+      "one_liner": "Although the fifth census of Pakistan was due in 1991, it was actually held in **1998** due to specific circumstances.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the governor of West Pakistan in 1960?",
+      "options": {
+        "a": "Nawab Malik Amir Mohammad Khan",
+        "b": "Ayub Khan",
+        "c": "Ghulam Muhammad",
+        "d": "None of these"
+      },
+      "one_liner": "In 1960, the position of governor of West Pakistan was held by **Nawab Malik Amir Mohammad Khan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

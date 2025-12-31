@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the area of Pakistan including GB and AJK?",
+      "options": {
+        "a": "700,000 sq km",
+        "b": "881,913 sq km",
+        "c": "1,000,000 sq km",
+        "d": "None of these"
+      },
+      "one_liner": "The total area of Pakistan, including GB and AJK, is **881,913 square kilometres**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

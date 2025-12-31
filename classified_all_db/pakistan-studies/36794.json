@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was the National Anthem of Pakistan first broadcast on Radio Pakistan?",
+      "options": {
+        "a": "14th August 1947",
+        "b": "23rd March 1956",
+        "c": "13th August 1954",
+        "d": "25th December 1949"
+      },
+      "one_liner": "The National Anthem of Pakistan was first broadcast on Radio Pakistan on **13th August 1954**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

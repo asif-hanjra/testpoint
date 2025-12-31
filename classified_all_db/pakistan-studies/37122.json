@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Pakistan is approximately equal in land area to which two European countries combined?",
+      "options": {
+        "a": "France and Germany",
+        "b": "France and the United Kingdom",
+        "c": "Italy and Spain",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan's land area is approximately equal to the combined areas of **France and the United Kingdom**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did Imran Khan represent as Prime Minister?",
+      "options": {
+        "a": "Pakistan Muslim League (N)",
+        "b": "Pakistan Peoples Party",
+        "c": "Pakistan Tehreek-e-Insaf",
+        "d": "None of these"
+      },
+      "one_liner": "As Prime Minister, **Imran Khan** represented the Pakistan Tehreek-e-Insaf (PTI).",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

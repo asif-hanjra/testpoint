@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the headquarters of CENTO located?",
+      "options": {
+        "a": "Islamabad",
+        "b": "Baghdad",
+        "c": "Tehran",
+        "d": "London"
+      },
+      "one_liner": "The headquarters of CENTO was located in **Baghdad, Iraq** during the Cold War.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

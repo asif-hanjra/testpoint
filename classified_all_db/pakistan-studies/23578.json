@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the old name of Sukkur Barrage?",
+      "options": {
+        "a": "Kotri Barrage",
+        "b": "Lloyd Barrage",
+        "c": "Sadiq Barrage",
+        "d": "None of these"
+      },
+      "one_liner": "The old name of Sukkur Barrage was **Lloyd Barrage**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "More Facts about Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

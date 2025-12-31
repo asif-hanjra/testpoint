@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date did Pakistan test its Ghauri-II missile in 1999?",
+      "options": {
+        "a": "1 May 1999",
+        "b": "15 April 1999",
+        "c": "28 May 1999",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan conducted the Ghauri-II missile test on **15 April 1999**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which town is located in South Waziristan?",
+      "options": {
+        "a": "Wana",
+        "b": "Miramshah",
+        "c": "Tank",
+        "d": "Bannu"
+      },
+      "one_liner": "The town of **Wana** is located in South Waziristan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

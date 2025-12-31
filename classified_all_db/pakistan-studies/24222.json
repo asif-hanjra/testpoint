@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which two leaders signed the Lahore Declaration in 1999?",
+      "options": {
+        "a": "Benazir Bhutto and Atal Bihari Vajpayee",
+        "b": "Nawaz Sharif and A. B. Vajpayee",
+        "c": "Pervez Musharraf and Manmohan Singh",
+        "d": "None of these"
+      },
+      "one_liner": "The Lahore Declaration in 1999 was signed by **PM Nawaz Sharif and Indian PM A. B. Vajpayee**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

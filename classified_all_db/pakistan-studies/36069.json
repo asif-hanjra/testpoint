@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "On what date did the Election Commission of Pakistan announce the detailed schedule for the 2024 general elections?",
+      "options": {
+        "a": "8 February 2024",
+        "b": "25 July 2018",
+        "c": "15 December 2023",
+        "d": "None of these"
+      },
+      "one_liner": "The Election Commission of Pakistan announced the detailed schedule for the 2024 general elections on **15 December 2023**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

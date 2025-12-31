@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the author of the book 'The Charismatic Leader: Quaid-i-Azam Mohammad Ali Jinnah and the Creation of Pakistan'?",
+      "options": {
+        "a": "Sikandar Hayat",
+        "b": "Stanley Wolpert",
+        "c": "Ayesha Jalal",
+        "d": "None of these"
+      },
+      "one_liner": "The book 'The Charismatic Leader: Quaid-i-Azam Mohammad Ali Jinnah and the Creation of Pakistan' was authored by **Sikandar Hayat**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date was General Pervaiz Musharraf elected as President of Pakistan through a referendum?",
+      "options": {
+        "a": "March 23, 2002",
+        "b": "April 30, 2002",
+        "c": "May 12, 2002",
+        "d": "June 1, 2002"
+      },
+      "one_liner": "General Pervaiz Musharraf was elected as President of Pakistan through a referendum held on **April 30, 2002**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

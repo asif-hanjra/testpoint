@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Panama Papers compiled data from which years regarding offshore companies?",
+      "options": {
+        "a": "1980 to 2010",
+        "b": "1970 to 2015",
+        "c": "1990 to 2015",
+        "d": "2000 to 2015"
+      },
+      "one_liner": "The Panama Papers covered data spanning from **1970 to 2015** about offshore companies.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which law firm provided services for the Panama Papers?",
+      "options": {
+        "a": "Baker McKenzie",
+        "b": "Mossack Fonseca",
+        "c": "Clifford Chance",
+        "d": "None of these"
+      },
+      "one_liner": "The law firm that provided services for the Panama Papers was **Mossack Fonseca**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

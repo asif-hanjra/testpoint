@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which language was declared as the official language by Sindh in July 1972?",
+      "options": {
+        "a": "Punjabi",
+        "b": "Urdu",
+        "c": "Sindhi",
+        "d": "Pashto"
+      },
+      "one_liner": "In July 1972, the official language declared by Sindh was **Sindhi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

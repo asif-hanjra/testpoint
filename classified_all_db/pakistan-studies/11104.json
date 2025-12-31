@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The Sultan Azian Shah Cup is associated with which sport?",
+      "options": {
+        "a": "Cricket",
+        "b": "Football",
+        "c": "Hockey",
+        "d": "Tennis"
+      },
+      "one_liner": "The Sultan Azian Shah Cup is an international tournament related to **Hockey**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

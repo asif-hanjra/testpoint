@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Pervez Musharraf and Vajpayee meet in 2004 to discuss bilateral issues?",
+      "options": {
+        "a": "Lahore",
+        "b": "Islamabad",
+        "c": "Karachi",
+        "d": "Delhi"
+      },
+      "one_liner": "In 2004, Pervez Musharraf and Vajpayee met in **Islamabad** to discuss bilateral issues.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

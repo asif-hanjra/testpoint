@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Under what circumstance does the President of Pakistan issue an Ordinance?",
+      "options": {
+        "a": "When Parliament is in session",
+        "b": "During elections",
+        "c": "When Parliament is not in session",
+        "d": "During a national emergency"
+      },
+      "one_liner": "The President of Pakistan issues an Ordinance when the **Parliament is not in session**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

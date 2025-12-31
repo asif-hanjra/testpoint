@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which regiment of the Pakistan Army has received the maximum number of Nishan-e-Haider awards?",
+      "options": {
+        "a": "Punjab Regiment",
+        "b": "Baloch Regiment",
+        "c": "Sindh Regiment",
+        "d": "Frontier Force Regiment"
+      },
+      "one_liner": "The regiment with the highest number of Nishan-e-Haider recipients in the Pakistan Army is the **Punjab Regiment**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which important departments were transferred to the provinces as a result of the 18th Amendment?",
+      "options": {
+        "a": "Education, police, health",
+        "b": "Foreign affairs, defense, currency",
+        "c": "Judiciary, foreign affairs, defense",
+        "d": "None of these"
+      },
+      "one_liner": "After the 18th Amendment, provinces in Pakistan took over key departments such as **Education, police, and health**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Pakistan formally leave SEATO?",
+      "options": {
+        "a": "1971",
+        "b": "1972",
+        "c": "1973",
+        "d": "1974"
+      },
+      "one_liner": "Pakistan officially withdrew from SEATO in **1973** due to dissatisfaction with the organization's support.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

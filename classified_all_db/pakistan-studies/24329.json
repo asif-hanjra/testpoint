@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Pakistan install its first nuclear power station?",
+      "options": {
+        "a": "Lahore",
+        "b": "Islamabad",
+        "c": "Karachi",
+        "d": "Quetta"
+      },
+      "one_liner": "Pakistan installed its first nuclear power station in **Karachi** with the cooperation of Canada.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

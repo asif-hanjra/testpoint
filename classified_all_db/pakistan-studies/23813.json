@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Warsak Dam, with a capacity of 243 MW, was constructed on which river?",
+      "options": {
+        "a": "Indus River",
+        "b": "Kabul River",
+        "c": "Jhelum River",
+        "d": "Chenab River"
+      },
+      "one_liner": "Warsak Dam, which has a capacity of 243 MW, was constructed on the **Kabul River**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

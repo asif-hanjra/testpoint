@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which corridor separates Pakistan from Tajikistan?",
+      "options": {
+        "a": "Khyber Pass",
+        "b": "Wakhan Corridor",
+        "c": "Silk Route",
+        "d": "None of these"
+      },
+      "one_liner": "The **Wakhan Corridor** of Afghanistan separates Pakistan from Tajikistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

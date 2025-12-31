@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the site in Rawalpindi where Liaquat Ali Khan was assassinated?",
+      "options": {
+        "a": "Minar-e-Pakistan",
+        "b": "Liaquat Bagh",
+        "c": "Jinnah Park",
+        "d": "Parade Ground"
+      },
+      "one_liner": "The site in Rawalpindi where Liaquat Ali Khan was assassinated is known as **Liaquat Bagh**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

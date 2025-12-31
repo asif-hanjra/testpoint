@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country rejected Pakistan's proposal for international arbitration over the Sir Creek issue?",
+      "options": {
+        "a": "Bangladesh",
+        "b": "Afghanistan",
+        "c": "India",
+        "d": "Nepal"
+      },
+      "one_liner": "India rejected Pakistan's proposal to resolve the Sir Creek issue through **international arbitration**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

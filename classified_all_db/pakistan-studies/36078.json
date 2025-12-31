@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is currently Pakistan's top professional tennis player?",
+      "options": {
+        "a": "Aisam-ul-Haq",
+        "b": "Roger Federer",
+        "c": "Novak Djokovic",
+        "d": "None of these"
+      },
+      "one_liner": "**Aisam-ul-Haq** is recognized as Pakistan's top professional tennis player.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Tennis",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Tennis",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

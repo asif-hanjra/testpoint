@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the second Pakistani to win the Nobel Peace Prize in 2014?",
+      "options": {
+        "a": "Abdus Salam",
+        "b": "Malala Yousafzai",
+        "c": "Benazir Bhutto",
+        "d": "Sharmeen Obaid"
+      },
+      "one_liner": "In 2014, **Malala Yousafzai** became the second Pakistani to win the Nobel Peace Prize for her advocacy of girls' education.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "PSL (Pakistan Super league)",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

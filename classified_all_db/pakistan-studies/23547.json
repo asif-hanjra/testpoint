@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which renowned poet, writer, and columnist died in Lahore in 2006?",
+      "options": {
+        "a": "Faiz Ahmed Faiz",
+        "b": "Ahmed Nadeem Qasmi",
+        "c": "Habib Jalib",
+        "d": "Parveen Shakir"
+      },
+      "one_liner": "In 2006, the famous literary figure **Ahmed Nadeem Qasmi** passed away in Lahore.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

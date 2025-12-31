@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "The Tashkent Pact was signed between which two countries after the 1965 war?",
+      "options": {
+        "a": "India and China",
+        "b": "Pakistan and Afghanistan",
+        "c": "India and Pakistan",
+        "d": "None of these"
+      },
+      "one_liner": "The Tashkent Pact was an agreement signed between **India and Pakistan** following the 1965 war.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

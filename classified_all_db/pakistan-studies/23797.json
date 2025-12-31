@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who elects the President of Pakistan?",
+      "options": {
+        "a": "Only National Assembly",
+        "b": "Only Senate",
+        "c": "National Assembly, Senate, and Provincial Assemblies",
+        "d": "None of these"
+      },
+      "one_liner": "The President of Pakistan is elected by an electoral college consisting of the **National Assembly, Senate, and Provincial Assemblies**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the cause of Quaid-i-Azam Muhammad Ali Jinnah's death?",
+      "options": {
+        "a": "Tuberculosis",
+        "b": "Heart attack",
+        "c": "Cancer",
+        "d": "None of these"
+      },
+      "one_liner": "Quaid-i-Azam Muhammad Ali Jinnah died due to **tuberculosis**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

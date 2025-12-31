@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many members does each province have in the Senate of Pakistan?",
+      "options": {
+        "a": "23",
+        "b": "20",
+        "c": "25",
+        "d": "18"
+      },
+      "one_liner": "Each province in the Senate of Pakistan is represented by **23 members**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

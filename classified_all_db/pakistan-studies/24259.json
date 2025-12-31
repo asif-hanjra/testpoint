@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Pakistan's first English language film, 'Beyond the Last Mountain', released?",
+      "options": {
+        "a": "1975",
+        "b": "1977",
+        "c": "1980",
+        "d": "1985"
+      },
+      "one_liner": "The first English language film of Pakistan, **Beyond the Last Mountain**, was released in 1977.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

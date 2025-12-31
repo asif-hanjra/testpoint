@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Pakistan officially recognize China?",
+      "options": {
+        "a": "1947",
+        "b": "1949",
+        "c": "1951",
+        "d": "1955"
+      },
+      "one_liner": "Pakistan officially recognized China in **1949**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What title is Ustad Abdul Sattar (Tari) Khan known by in Pakistan?",
+      "options": {
+        "a": "King of Ghazal",
+        "b": "Prince of Tabla",
+        "c": "Master of Sitar",
+        "d": "Queen of Melody"
+      },
+      "one_liner": "Ustad Abdul Sattar (Tari) Khan is popularly known as the **Prince of Tabla** in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

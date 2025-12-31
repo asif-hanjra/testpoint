@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In whose era did Zulifqar Ali Bhutto begin his political career?",
+      "options": {
+        "a": "Ayub Khan",
+        "b": "Iskandar Mirza",
+        "c": "Yahya Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Zulifqar Ali Bhutto began his political career during the era of **Iskandar Mirza**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

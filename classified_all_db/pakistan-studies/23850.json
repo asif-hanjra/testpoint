@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did India take the Kashmir issue to the United Nations Security Council?",
+      "options": {
+        "a": "1947",
+        "b": "1948",
+        "c": "1949",
+        "d": "1950"
+      },
+      "one_liner": "India brought the Kashmir issue before the United Nations Security Council in **1948**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

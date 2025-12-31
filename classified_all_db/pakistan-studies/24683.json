@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who hijacked the Indian Airlines aeroplane that landed at Lahore Airport in 1971?",
+      "options": {
+        "a": "Two Kashmiri separatists",
+        "b": "Indian army personnel",
+        "c": "Pakistani militants",
+        "d": "None of these"
+      },
+      "one_liner": "The Indian Airlines aeroplane that landed at Lahore Airport in 1971 was hijacked by **two Kashmiri separatists**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

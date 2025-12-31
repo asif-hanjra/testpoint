@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose tenure was Pakistan Steel Mills established?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Zulfikar Ali Bhutto",
+        "c": "Benazir Bhutto",
+        "d": "Pervez Musharraf"
+      },
+      "one_liner": "Pakistan Steel Mills was established during the tenure of **Zulfikar Ali Bhutto**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

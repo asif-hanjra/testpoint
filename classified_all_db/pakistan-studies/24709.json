@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Pakistan officially join the United Nations?",
+      "options": {
+        "a": "14 August 1947",
+        "b": "11 September 1948",
+        "c": "30 September 1947",
+        "d": "24 October 1945"
+      },
+      "one_liner": "Pakistan became a member of the United Nations on **30 September 1947**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

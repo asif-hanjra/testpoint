@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which region held a referendum that resulted in its attachment with East Bengal (Pakistan)?",
+      "options": {
+        "a": "Quetta",
+        "b": "Sylhet",
+        "c": "Sindh",
+        "d": "Punjab"
+      },
+      "one_liner": "A referendum in **Sylhet** resulted in its attachment with East Bengal (Pakistan).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

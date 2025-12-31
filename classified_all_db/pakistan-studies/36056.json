@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who serves as the returning officer for the presidential election in Pakistan?",
+      "options": {
+        "a": "Chief Justice of Pakistan",
+        "b": "Chief Election Commissioner",
+        "c": "Speaker of National Assembly",
+        "d": "None of these"
+      },
+      "one_liner": "The Chief Election Commissioner acts as the returning officer for the presidential election in **Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

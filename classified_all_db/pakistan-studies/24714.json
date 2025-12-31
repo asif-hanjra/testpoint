@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "The Rann of Kutch, whose maps were finalized in 1969, is shared between which two regions?",
+      "options": {
+        "a": "Punjab and Rajasthan",
+        "b": "Gujarat and Sindh",
+        "c": "Balochistan and Maharashtra",
+        "d": "Khyber Pakhtunkhwa and Haryana"
+      },
+      "one_liner": "The Rann of Kutch, finalized in 1969, is a salt marsh shared between **Gujarat, India and Sindh, Pakistan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

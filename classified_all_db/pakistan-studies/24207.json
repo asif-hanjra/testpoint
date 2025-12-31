@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was arrested in the Maskhel area of Pakistan?",
+      "options": {
+        "a": "Ajmal Kasab",
+        "b": "Kulbushan Jadhav",
+        "c": "Abhinandan Varthaman",
+        "d": "None of these"
+      },
+      "one_liner": "The person arrested in the Maskhel area of Pakistan was **Kulbushan Jadhav**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

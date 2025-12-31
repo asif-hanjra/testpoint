@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many times has Pakistan won the Blind Cricket World Cup?",
+      "options": {
+        "a": "One time",
+        "b": "Two times",
+        "c": "Three times",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan has won the Blind Cricket World Cup **two times**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

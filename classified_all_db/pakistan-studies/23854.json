@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who inaugurated the Pakistan Television Lahore Station and when?",
+      "options": {
+        "a": "Zulfikar Ali Bhutto in 1963",
+        "b": "Ayub Khan on November 26, 1964",
+        "c": "Liaquat Ali Khan in 1958",
+        "d": "None of these"
+      },
+      "one_liner": "President **Ayub Khan** inaugurated the Pakistan Television Lahore Station on **November 26, 1964**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constitution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

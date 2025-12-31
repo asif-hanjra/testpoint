@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Nishan-e-Haider awarded to Lalak Jan Shaheed?",
+      "options": {
+        "a": "1997",
+        "b": "1998",
+        "c": "1999",
+        "d": "2000"
+      },
+      "one_liner": "Lalak Jan Shaheed was awarded the prestigious Nishan-e-Haider in **1999**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

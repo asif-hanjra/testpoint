@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who dismissed the first government of Nawaz Sharif (1990-1993)?",
+      "options": {
+        "a": "Farooq Leghari",
+        "b": "Ghulam Ishaq Khan",
+        "c": "Pervez Musharraf",
+        "d": "None of these"
+      },
+      "one_liner": "The first government of Nawaz Sharif, from 1990 to 1993, was dismissed by President **Ghulam Ishaq Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When did Pakistan issue its first coin?",
+      "options": {
+        "a": "14th August 1947",
+        "b": "3rd January 1948",
+        "c": "1st July 1948",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan issued its first coin on **3rd January 1948**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

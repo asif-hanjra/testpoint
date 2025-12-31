@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many MNAs voted in favour of Shehbaz Sharif's election as prime minister?",
+      "options": {
+        "a": "160",
+        "b": "180",
+        "c": "174",
+        "d": "200"
+      },
+      "one_liner": "A total of **174 MNAs** voted in favour of Shehbaz Sharif's election as prime minister.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

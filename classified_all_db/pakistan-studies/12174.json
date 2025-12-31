@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is popularly known as the Asian Bradman among Pakistani former cricket players?",
+      "options": {
+        "a": "Javed Miandad",
+        "b": "Zaheer Abbas",
+        "c": "Imran Khan",
+        "d": "Wasim Akram"
+      },
+      "one_liner": "Zaheer Abbas, a legendary Pakistani cricketer, is famously known as the **Asian Bradman** for his exceptional batting skills.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

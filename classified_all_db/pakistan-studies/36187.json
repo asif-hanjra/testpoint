@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first non-Muslim test cricketer of Pakistan?",
+      "options": {
+        "a": "Wallis Mathias",
+        "b": "Duncan Sharpe",
+        "c": "Anil Dalpat",
+        "d": "None of these"
+      },
+      "one_liner": "Wallis Mathias made history as the first **non-Muslim test cricketer** to represent Pakistan.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

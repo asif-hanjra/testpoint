@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who were the two Muslim League representatives in the Boundary Commission?",
+      "options": {
+        "a": "Din Muhammad and Muhammad Munir",
+        "b": "Mehr Chand Mahajan and Teja Singh",
+        "c": "Radcliffe and Din Muhammad",
+        "d": "Teja Singh and Muhammad Munir"
+      },
+      "one_liner": "The Muslim League was represented in the Boundary Commission by **Din Muhammad and Muhammad Munir**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

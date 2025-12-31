@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which constitutional amendment was the name of North West Frontier Province (NWFP) changed to Khyber Pakhtunkhwa?",
+      "options": {
+        "a": "16th amendment",
+        "b": "17th amendment",
+        "c": "18th amendment",
+        "d": "19th amendment"
+      },
+      "one_liner": "The name of North West Frontier Province was changed to **Khyber Pakhtunkhwa** under the 18th amendment of the Constitution in 2010.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "18th Amendment",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

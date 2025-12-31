@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Muslim-majority districts were illegally awarded to India at the time of partition?",
+      "options": {
+        "a": "Gurdaspur and Ferozepur",
+        "b": "Lahore and Amritsar",
+        "c": "Jalandhar and Ludhiana",
+        "d": "None of these"
+      },
+      "one_liner": "At the time of partition, the Muslim-majority districts of **Gurdaspur and Ferozepur** were illegally awarded to India.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

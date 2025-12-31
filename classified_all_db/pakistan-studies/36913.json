@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "To which country was Nawaz Sharif and his family sent into exile in 2000?",
+      "options": {
+        "a": "United Arab Emirates",
+        "b": "United Kingdom",
+        "c": "Saudi Arabia",
+        "d": "Turkey"
+      },
+      "one_liner": "Nawaz Sharif and his family were sent into exile to **Saudi Arabia** in 2000.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

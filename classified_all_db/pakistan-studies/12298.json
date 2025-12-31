@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "When does the financial year of Pakistan begin?",
+      "options": {
+        "a": "1st January",
+        "b": "1st March",
+        "c": "1st July",
+        "d": "1st October"
+      },
+      "one_liner": "The financial year in Pakistan officially begins on **1st July** each year.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

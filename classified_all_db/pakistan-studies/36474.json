@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the State of Swat formally included in Pakistan?",
+      "options": {
+        "a": "1955",
+        "b": "1969",
+        "c": "1972",
+        "d": "1947"
+      },
+      "one_liner": "The State of Swat was officially incorporated into Pakistan in **1969**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

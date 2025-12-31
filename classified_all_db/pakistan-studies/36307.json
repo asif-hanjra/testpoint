@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which international cricket team was attacked by militants in Pakistan in 2009?",
+      "options": {
+        "a": "Australian cricket team",
+        "b": "Sri Lankan cricket team",
+        "c": "Indian cricket team",
+        "d": "South African cricket team"
+      },
+      "one_liner": "In 2009, militants attacked the bus carrying the **Sri Lankan cricket team** in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

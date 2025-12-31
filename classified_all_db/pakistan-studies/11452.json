@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "For which case was Faiz Ahmad Faiz imprisoned?",
+      "options": {
+        "a": "Lahore Resolution Case",
+        "b": "Rawalpindi Conspiracy Case",
+        "c": "Hyderabad Tribunal Case",
+        "d": "None of these"
+      },
+      "one_liner": "Faiz Ahmad Faiz was imprisoned due to his alleged involvement in the **Rawalpindi Conspiracy Case**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

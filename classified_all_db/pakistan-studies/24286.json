@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who succeeded Iskander Mirza as President of Pakistan in 1958?",
+      "options": {
+        "a": "Yahya Khan",
+        "b": "Ayub Khan",
+        "c": "Zulfikar Ali Bhutto",
+        "d": "Fazal Ilahi Chaudhry"
+      },
+      "one_liner": "Ayub Khan succeeded Iskander Mirza as President of Pakistan on **October 27, 1958**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

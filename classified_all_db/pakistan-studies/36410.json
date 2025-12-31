@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of Quaid-e-Azam's daughter?",
+      "options": {
+        "a": "Fatima",
+        "b": "Dina",
+        "c": "Shireen",
+        "d": "None of these"
+      },
+      "one_liner": "The daughter of Quaid-e-Azam was named **Dina**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

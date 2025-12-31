@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Muhammad Ali Jinnah train as a barrister?",
+      "options": {
+        "a": "Oxford University",
+        "b": "Lincoln's Inn in London",
+        "c": "Cambridge University",
+        "d": "None of these"
+      },
+      "one_liner": "Muhammad Ali Jinnah received his barrister training at **Lincoln's Inn in London**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

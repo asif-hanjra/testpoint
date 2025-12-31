@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who created the character of Tout Batoot?",
+      "options": {
+        "a": "Sufi Gulam Mustafa Tabbasum",
+        "b": "Allama Iqbal",
+        "c": "Faiz Ahmed Faiz",
+        "d": "None of these"
+      },
+      "one_liner": "The character of Tout Batoot was created by **Sufi Gulam Mustafa Tabbasum**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

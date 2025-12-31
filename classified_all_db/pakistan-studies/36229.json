@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which famous poet was arrested in connection with the Rawalpindi Conspiracy Case?",
+      "options": {
+        "a": "Faiz Ahmad Faiz",
+        "b": "Allama Iqbal",
+        "c": "Ahmed Faraz",
+        "d": "None of these"
+      },
+      "one_liner": "The legendary poet **Faiz Ahmad Faiz** was among those arrested in the Rawalpindi Conspiracy Case.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

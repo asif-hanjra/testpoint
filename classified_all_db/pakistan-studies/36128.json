@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party won the general elections in Pakistan held on July 25, 2018?",
+      "options": {
+        "a": "Pakistan Muslim League (N)",
+        "b": "Pakistan Peoples Party",
+        "c": "Pakistan Tehrik-e-Insaaf",
+        "d": "Muttahida Qaumi Movement"
+      },
+      "one_liner": "The political party that secured victory in the July 25, 2018 general elections was **Pakistan Tehrik-e-Insaaf**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

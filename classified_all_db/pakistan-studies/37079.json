@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who is the current Chief Justice of Pakistan as of now?",
+      "options": {
+        "a": "Asif Saeed Khosa",
+        "b": "Gulzar Ahmed",
+        "c": "Umar Ata Bandial",
+        "d": "None of these"
+      },
+      "one_liner": "The current Chief Justice of Pakistan is **Umar Ata Bandial**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

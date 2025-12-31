@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What does CENTO stand for?",
+      "options": {
+        "a": "Central Treaty Organization",
+        "b": "Central European Treaty Organization",
+        "c": "Central Economic Treaty Organization",
+        "d": "None of these"
+      },
+      "one_liner": "CENTO is an abbreviation for the **Central Treaty Organization**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

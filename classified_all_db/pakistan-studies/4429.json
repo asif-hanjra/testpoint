@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "Which technology is commonly used by NHMP for electronic toll collection on highways?",
+      "options": {
+        "a": "RFID (Radio Frequency Identification)",
+        "b": "NFC (Near Field Communication)",
+        "c": "GPS (General Pointing System)",
+        "d": "QR Code (Quick Response Code)"
+      },
+      "correct_option": "a",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

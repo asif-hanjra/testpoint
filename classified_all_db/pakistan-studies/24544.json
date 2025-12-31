@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What did the Karachi Agreement establish in Kashmir?",
+      "options": {
+        "a": "Trade route",
+        "b": "Cease-fire line",
+        "c": "New government",
+        "d": "None of these"
+      },
+      "one_liner": "The Karachi Agreement established a **cease-fire line** in Kashmir.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

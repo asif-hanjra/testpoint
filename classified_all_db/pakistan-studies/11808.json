@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first Commander-in-Chief of the Pakistan Army?",
+      "options": {
+        "a": "Gen Sir Frank Messervy",
+        "b": "Gen Douglas Gracey",
+        "c": "Gen Ayub Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The first Commander-in-Chief of the Pakistan Army was **Gen Sir Frank Messervy**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

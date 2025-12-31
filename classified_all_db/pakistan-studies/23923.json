@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Ms. Fatima Jinnah die, and in which city?",
+      "options": {
+        "a": "1966, Lahore",
+        "b": "1967, Karachi",
+        "c": "1968, Islamabad",
+        "d": "1969, Quetta"
+      },
+      "one_liner": "Ms. Fatima Jinnah passed away in **1967** in **Karachi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

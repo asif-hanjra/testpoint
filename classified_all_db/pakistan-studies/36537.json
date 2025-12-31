@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What position did Khawaja Nazimuddin hold in Bengal in 1947 until 1948?",
+      "options": {
+        "a": "Governor",
+        "b": "Chief Minister",
+        "c": "Prime Minister",
+        "d": "None of these"
+      },
+      "one_liner": "From 1947 until 1948, Khawaja Nazimuddin held the position of **Chief Minister of Bengal**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

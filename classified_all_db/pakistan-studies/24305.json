@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the term length for the office of the Election Commissioner of Pakistan?",
+      "options": {
+        "a": "3 years",
+        "b": "4 years",
+        "c": "5 years",
+        "d": "6 years"
+      },
+      "one_liner": "The term of office for the Election Commissioner of Pakistan is **5 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many members were in the Constituent Assembly of Pakistan of which Jogendranath Mandal was a part?",
+      "options": {
+        "a": "72",
+        "b": "96",
+        "c": "120",
+        "d": "None of these"
+      },
+      "one_liner": "Jogendranath Mandal was one of the 96 members of the Constituent Assembly of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

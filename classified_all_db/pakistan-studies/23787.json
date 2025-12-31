@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What were the start and end dates of Nawaz Sharif's tenure as Prime Minister of Pakistan in 1993?",
+      "options": {
+        "a": "May 26, 1993 – July 08, 1993",
+        "b": "June 01, 1992 – August 10, 1993",
+        "c": "March 15, 1993 – May 25, 1993",
+        "d": "None of these"
+      },
+      "one_liner": "Nawaz Sharif served as Prime Minister of Pakistan from **May 26, 1993 to July 08, 1993**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

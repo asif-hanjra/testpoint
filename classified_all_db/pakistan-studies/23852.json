@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who designed the National Flag of Pakistan?",
+      "options": {
+        "a": "Amir-uddin Kidwai",
+        "b": "Liaquat Ali Khan",
+        "c": "Chaudhry Rehmat Ali",
+        "d": "None of these"
+      },
+      "one_liner": "The National Flag of Pakistan was designed by **Amir-uddin Kidwai**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

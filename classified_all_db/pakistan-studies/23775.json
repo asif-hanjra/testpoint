@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "On which river was the Aswan Dam constructed?",
+      "options": {
+        "a": "Amazon",
+        "b": "Indus",
+        "c": "Nile",
+        "d": "Yangtze"
+      },
+      "one_liner": "The Aswan Dam was constructed on the **Nile River**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is considered the major dispute between Pakistan and India?",
+      "options": {
+        "a": "Kashmir issue",
+        "b": "Water dispute",
+        "c": "Trade barriers",
+        "d": "None of these"
+      },
+      "one_liner": "The primary conflict between Pakistan and India centers around the **Kashmir issue**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the Prime Minister of Pakistan in 1985?",
+      "options": {
+        "a": "Benazir Bhutto",
+        "b": "Zulfiqar Ali Bhutto",
+        "c": "Muhammad Khan Junejo",
+        "d": "Nawaz Sharif"
+      },
+      "one_liner": "In **1985**, Muhammad Khan Junejo was appointed as the Prime Minister of Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was Pakistan International Airlines (PIA) founded?",
+      "options": {
+        "a": "1947",
+        "b": "1954",
+        "c": "1965",
+        "d": "1971"
+      },
+      "one_liner": "Pakistan International Airlines (PIA) was founded in **1954**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

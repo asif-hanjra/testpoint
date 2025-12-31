@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which mountain ranges are located in the northern highlands of Pakistan?",
+      "options": {
+        "a": "Karakoram, Hindu Kush, Pamir",
+        "b": "Himalayas, Alps, Andes",
+        "c": "Zagros, Taurus, Elburz",
+        "d": "None of these"
+      },
+      "one_liner": "The northern highlands of Pakistan contain the **Karakoram, Hindu Kush, and Pamir mountain ranges**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

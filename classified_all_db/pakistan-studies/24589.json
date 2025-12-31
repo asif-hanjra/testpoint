@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many days did the India-Pakistan war of 1965 last?",
+      "options": {
+        "a": "10 days",
+        "b": "17 days",
+        "c": "21 days",
+        "d": "30 days"
+      },
+      "one_liner": "The India-Pakistan war of 1965 continued for a total of **17 days**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

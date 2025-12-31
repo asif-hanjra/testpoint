@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did Muhammad Rafiq Tarar represent as President of Pakistan?",
+      "options": {
+        "a": "Pakistan People’s Party",
+        "b": "Pakistan Muslim League (N)",
+        "c": "Republican Party",
+        "d": "Pakistan Tehreek-e-Insaaf"
+      },
+      "one_liner": "Muhammad Rafiq Tarar represented the **Pakistan Muslim League (N)** as President of Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

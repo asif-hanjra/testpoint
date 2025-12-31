@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was the first Radio Station established in Pakistan after its creation?",
+      "options": {
+        "a": "Lahore",
+        "b": "Karachi",
+        "c": "Islamabad",
+        "d": "Peshawar"
+      },
+      "one_liner": "The first Radio Station in Pakistan after independence was established in **Karachi**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

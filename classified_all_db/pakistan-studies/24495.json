@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country was the first to recognize Pakistan?",
+      "options": {
+        "a": "Saudi Arabia",
+        "b": "Iran",
+        "c": "Turkey",
+        "d": "Egypt"
+      },
+      "one_liner": "**Iran** was the first country to recognize Pakistan after its independence.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

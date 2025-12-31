@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which amendment increased the number of senior judges in the judicial commission to four?",
+      "options": {
+        "a": "18th Amendment",
+        "b": "19th Amendment",
+        "c": "20th Amendment",
+        "d": "21st Amendment"
+      },
+      "one_liner": "The **19th Amendment** raised the number of senior judges in the judicial commission to four.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

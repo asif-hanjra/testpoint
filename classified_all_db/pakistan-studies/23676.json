@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who designed the flag of Pakistan?",
+      "options": {
+        "a": "Ameerudin Qadwani",
+        "b": "Liaquat Ali Khan",
+        "c": "Chaudhry Rahmat Ali",
+        "d": "None of these"
+      },
+      "one_liner": "The national flag of Pakistan was designed by **Ameerudin Qadwani**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

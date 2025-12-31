@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What happened to the people arrested in the Rawalpindi Conspiracy Case?",
+      "options": {
+        "a": "They were executed",
+        "b": "They were exiled",
+        "c": "They were released later",
+        "d": "None of these"
+      },
+      "one_liner": "All individuals arrested in the Rawalpindi Conspiracy Case were **released later**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

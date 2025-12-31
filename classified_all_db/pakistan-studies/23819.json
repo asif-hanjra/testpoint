@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who has scored the most runs in Test cricket for Pakistan?",
+      "options": {
+        "a": "Younas Khan",
+        "b": "Javed Miandad",
+        "c": "Inzamam-ul-Haq",
+        "d": "Mohammad Yousuf"
+      },
+      "one_liner": "The record for most runs in Test cricket for Pakistan is held by **Younas Khan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "More Facts about Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

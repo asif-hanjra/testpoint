@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who translated Payam-e-Mashriq into German?",
+      "options": {
+        "a": "Professor Hell",
+        "b": "Professor Alessander Busani",
+        "c": "Professor Smith",
+        "d": "None of these"
+      },
+      "one_liner": "Payam-e-Mashriq was translated into German by **Professor Hell**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What type of legislature was established under the constitution?",
+      "options": {
+        "a": "Bicameral National Assembly",
+        "b": "Unicameral National Assembly",
+        "c": "Senate only",
+        "d": "None of these"
+      },
+      "one_liner": "A unicameral legislature known as the **National Assembly** with equal seats from East and West Pakistan was established by the constitution.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constitution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Zulfiqar Ali Bhutto become the foreign minister of Pakistan?",
+      "options": {
+        "a": "1958",
+        "b": "1963",
+        "c": "1971",
+        "d": "1969"
+      },
+      "one_liner": "Zulfiqar Ali Bhutto assumed the office of Pakistan's foreign minister in **1963**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

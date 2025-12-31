@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the only vice-president of Pakistan?",
+      "options": {
+        "a": "Noor-ul-Amin",
+        "b": "Zulfikar Ali Bhutto",
+        "c": "Fazal Ilahi Chaudhry",
+        "d": "None of these"
+      },
+      "one_liner": "Noor-ul-Amin holds the distinction of being the **only vice-president of Pakistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

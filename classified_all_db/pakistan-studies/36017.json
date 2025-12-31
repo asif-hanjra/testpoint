@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which countries were the founding members of CENTO in 1955?",
+      "options": {
+        "a": "Pakistan, India, Iran, Turkey, UK",
+        "b": "Iran, Iraq, Pakistan, Turkey, United Kingdom",
+        "c": "Pakistan, Afghanistan, Turkey, UK, Iran",
+        "d": "None of these"
+      },
+      "one_liner": "The founding members of CENTO in 1955 were **Iran, Iraq, Pakistan, Turkey, and United Kingdom**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

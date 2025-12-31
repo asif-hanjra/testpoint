@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city is the Pakistan Military Academy located?",
+      "options": {
+        "a": "Rawalpindi",
+        "b": "Lahore",
+        "c": "Abbottabad",
+        "d": "Karachi"
+      },
+      "one_liner": "The Pakistan Military Academy is situated in the city of **Abbottabad**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

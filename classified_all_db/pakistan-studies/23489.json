@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the tenure period of Muhammad Ali Bogra as Prime Minister of Pakistan?",
+      "options": {
+        "a": "1951-1953",
+        "b": "1953-1955",
+        "c": "1955-1957",
+        "d": "None of these"
+      },
+      "one_liner": "**Muhammad Ali Bogra** served as Prime Minister of Pakistan from April 17, 1953 to August 11, 1955.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

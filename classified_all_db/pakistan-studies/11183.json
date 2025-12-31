@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "How many points are included in the National Action Plan to counter terrorism?",
+      "options": {
+        "a": "10",
+        "b": "15",
+        "c": "20",
+        "d": "25"
+      },
+      "one_liner": "The National Action Plan to counter terrorism in Pakistan consists of a **20-point** agenda.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

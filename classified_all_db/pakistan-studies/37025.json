@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where did Pervaiz Musharaf and Vajpayee meet for talks in July 2001?",
+      "options": {
+        "a": "Islamabad",
+        "b": "Delhi",
+        "c": "Agra",
+        "d": "Lahore"
+      },
+      "one_liner": "Pervaiz Musharaf and Vajpayee held their meeting in **Agra** in July 2001.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

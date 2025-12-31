@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which three countries were parties to the Delhi Agreement of 1973?",
+      "options": {
+        "a": "India, Pakistan, and China",
+        "b": "India, Pakistan, and Bangladesh",
+        "c": "Pakistan, Bangladesh, and Sri Lanka",
+        "d": "India, Bangladesh, and Nepal"
+      },
+      "one_liner": "The Delhi Agreement of 1973 was a trilateral accord signed by **India, Pakistan, and Bangladesh**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

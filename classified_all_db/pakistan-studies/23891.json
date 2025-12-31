@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the ruler of Jammu & Kashmir at the time of partition in 1947?",
+      "options": {
+        "a": "Hari Singh",
+        "b": "Zahir Shah",
+        "c": "Ranjit Singh",
+        "d": "None of these"
+      },
+      "one_liner": "At the time of partition in 1947, the ruler of Jammu & Kashmir was **Hari Singh**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

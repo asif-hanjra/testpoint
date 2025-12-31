@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the age of Quaid-e-Azam at the time of his death?",
+      "options": {
+        "a": "65 years",
+        "b": "71 years 8 months",
+        "c": "75 years",
+        "d": "None of these"
+      },
+      "one_liner": "At the time of his death, Quaid-e-Azam was **71 years and 8 months** old.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

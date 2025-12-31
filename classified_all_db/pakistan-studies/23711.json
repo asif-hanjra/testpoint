@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did Iran and Pakistan establish diplomatic relations?",
+      "options": {
+        "a": "14th August, 1947",
+        "b": "22nd August, 1947",
+        "c": "1st September, 1947",
+        "d": "None of these"
+      },
+      "one_liner": "Iran and Pakistan officially established diplomatic relations on **22nd August, 1947**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1947)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

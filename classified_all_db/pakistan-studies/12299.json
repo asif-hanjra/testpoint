@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "At what age do judges of the Supreme Court of Pakistan retire?",
+      "options": {
+        "a": "60 years",
+        "b": "62 years",
+        "c": "65 years",
+        "d": "70 years"
+      },
+      "one_liner": "Judges of the Supreme Court of Pakistan retire upon reaching the age of **65 years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "During whose reign was the 18th amendment passed in Pakistan?",
+      "options": {
+        "a": "Pakistan Muslim League (N)",
+        "b": "Pakistan Tehreek-e-Insaf",
+        "c": "Pakistan People's Party (PPP)",
+        "d": "None of these"
+      },
+      "one_liner": "The 18th amendment was passed during the government of the **Pakistan People's Party (PPP)**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "18th Amendment",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

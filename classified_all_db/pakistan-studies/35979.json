@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Pakistan became a signatory to which international declaration in 1978 related to health?",
+      "options": {
+        "a": "Geneva Declaration",
+        "b": "Alma Ata Declaration",
+        "c": "Ottawa Charter",
+        "d": "Jakarta Declaration"
+      },
+      "one_liner": "Pakistan became a signatory to the **Alma Ata Declaration** in 1978, which emphasized primary health care.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

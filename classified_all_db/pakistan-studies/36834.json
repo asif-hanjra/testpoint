@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the total height of Minar-e-Pakistan including its base?",
+      "options": {
+        "a": "62 meters",
+        "b": "70 meters",
+        "c": "80 meters",
+        "d": "90 meters"
+      },
+      "one_liner": "The total height of Minar-e-Pakistan, including its base, is **70 meters** (62 meters tower plus 8 meters base).",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the population of Pakistan at the time of its birth in 1947?",
+      "options": {
+        "a": "32 million",
+        "b": "22 million",
+        "c": "42 million",
+        "d": "52 million"
+      },
+      "one_liner": "At the time of its birth in 1947, the population of Pakistan was **32 million**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

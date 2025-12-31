@@ -1,0 +1,30 @@
+{
+  "mcq": [
+    {
+      "statement": "Why was the third census of Pakistan conducted in 1972 instead of 1971?",
+      "options": {
+        "a": "Due to economic crisis",
+        "b": "Due to political environment and war with India",
+        "c": "Due to natural disaster",
+        "d": "None of these"
+      },
+      "one_liner": "The third census of Pakistan was conducted in **1972 instead of 1971 due to the political environment and war with India**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

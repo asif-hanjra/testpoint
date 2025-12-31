@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which Pakistani actor died in 2011 at the age of 60 after suffering a heart attack?",
+      "options": {
+        "a": "Umer Sharif",
+        "b": "Moin Akhtar",
+        "c": "Amjad Sabri",
+        "d": "Anwar Maqsood"
+      },
+      "one_liner": "The renowned Pakistani actor **Moin Akhtar** passed away in 2011 at the age of 60 due to a heart attack.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "PSL (Pakistan Super league)",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

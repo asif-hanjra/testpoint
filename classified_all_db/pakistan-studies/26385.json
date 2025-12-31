@@ -1,0 +1,16 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the correct formula to calculate a winner’s election percentage?",
+      "options": {
+        "a": "(Total votes × Winner’s votes) ÷ 100",
+        "b": "(Winner’s votes ÷ Total votes) × 100",
+        "c": "Total votes ÷ Winner’s votes) × 100",
+        "d": "(Winner’s votes − Total votes) × 100"
+      },
+      "correct_option": "b",
+      "one_liner": "",
+      "suggestions": []
+    }
+  ]
+}

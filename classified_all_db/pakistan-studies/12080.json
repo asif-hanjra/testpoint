@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the primary purpose of the Indus River System Authority (IRSA)?",
+      "options": {
+        "a": "Regulating electricity supply",
+        "b": "Monitoring forest reserves",
+        "c": "Regulating and monitoring distribution of Indus River water sources",
+        "d": "Supervising oil pipelines"
+      },
+      "one_liner": "The primary purpose of the Indus River System Authority (IRSA) is to regulate and monitor the distribution of water sources from the **Indus Rivers**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

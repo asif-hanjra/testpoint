@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which provinces formed the Federation of Pakistan under the 1973 Constitution?",
+      "options": {
+        "a": "Sind, Punjab, N.W.F.P, Baluchistan",
+        "b": "Sind, Punjab, Kashmir, Baluchistan",
+        "c": "Sind, Punjab, Gilgit-Baltistan, Baluchistan",
+        "d": "None of these"
+      },
+      "one_liner": "The Federation of Pakistan under the 1973 Constitution consists of **Sind, Punjab, N.W.F.P, and Baluchistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Initial Constitution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

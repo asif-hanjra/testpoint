@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which major issue was explicitly included in the discussions between Pakistan and India during the Lahore Declaration?",
+      "options": {
+        "a": "Water dispute",
+        "b": "Kashmir",
+        "c": "Trade",
+        "d": "None of these"
+      },
+      "one_liner": "During the Lahore Declaration, the leaders of Pakistan and India explicitly discussed the major issue of **Kashmir**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

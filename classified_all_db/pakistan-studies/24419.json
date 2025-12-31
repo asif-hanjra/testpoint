@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which constitutional amendment was provincial autonomy granted in Pakistan?",
+      "options": {
+        "a": "16th amendment",
+        "b": "17th amendment",
+        "c": "18th amendment",
+        "d": "19th amendment"
+      },
+      "one_liner": "Provincial autonomy in Pakistan was granted under the **18th amendment** to the Constitution.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "18th Amendment",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

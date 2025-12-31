@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which mountain range is K-2 located?",
+      "options": {
+        "a": "Himalayas",
+        "b": "Hindu Kush",
+        "c": "Karakorum",
+        "d": "Sulaiman"
+      },
+      "one_liner": "K-2, the second highest peak in the world, is located in the **Karakorum** mountain range.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

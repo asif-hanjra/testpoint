@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was Pakistan's first ambassador to the United States?",
+      "options": {
+        "a": "Abdul Hassan Isphani",
+        "b": "Liaquat Ali Khan",
+        "c": "Zafarullah Khan",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan's first ambassador to the United States was **Abdul Hassan Isphani**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did PIA (Pakistan International Airlines) start its first flight?",
+      "options": {
+        "a": "1947",
+        "b": "1955",
+        "c": "1965",
+        "d": "1971"
+      },
+      "one_liner": "PIA began its first flight operations in **1955**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

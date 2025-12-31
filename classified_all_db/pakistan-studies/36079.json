@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which city did Pakistan win its first hockey gold medal?",
+      "options": {
+        "a": "London",
+        "b": "Rome",
+        "c": "Tokyo",
+        "d": "None of these"
+      },
+      "one_liner": "Pakistan secured its first hockey gold medal at the Olympics held in **Rome**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

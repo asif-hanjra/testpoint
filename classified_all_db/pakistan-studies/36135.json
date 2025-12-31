@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Where was Pakistan's Prime Minister Liaquat Ali Khan assassinated?",
+      "options": {
+        "a": "Lahore",
+        "b": "Karachi",
+        "c": "Rawalpindi",
+        "d": "Islamabad"
+      },
+      "one_liner": "Liaquat Ali Khan, the Prime Minister of Pakistan, was assassinated in **Rawalpindi**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

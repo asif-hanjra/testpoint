@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which animal breed is known as Nili Ravi?",
+      "options": {
+        "a": "Cow",
+        "b": "Goat",
+        "c": "Buffalo",
+        "d": "Camel"
+      },
+      "one_liner": "The Nili Ravi is a well-known breed of **Buffalo**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

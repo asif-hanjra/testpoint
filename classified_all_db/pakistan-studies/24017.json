@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which border area is depicted as being divided unfairly on the map?",
+      "options": {
+        "a": "Jammu & Kashmir State",
+        "b": "Sindh",
+        "c": "Balochistan",
+        "d": "None of these"
+      },
+      "one_liner": "The map highlights the unfair division of the border area of **Jammu & Kashmir State**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

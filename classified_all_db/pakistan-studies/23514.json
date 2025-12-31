@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first Chief Justice of Pakistan?",
+      "options": {
+        "a": "Sir Abdur Rashid",
+        "b": "Justice Munir",
+        "c": "Justice Cornelius",
+        "d": "None of these"
+      },
+      "one_liner": "Sir Abdur Rashid served as the first Chief Justice of **Pakistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

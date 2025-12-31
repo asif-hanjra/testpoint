@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which leader played a vital role in the making of Pakistan?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Allama Iqbal",
+        "c": "Muhammad Ali Jinnah",
+        "d": "None of these"
+      },
+      "one_liner": "**Muhammad Ali Jinnah** played a vital role in the making of Pakistan.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first Chief Minister of West Pakistan?",
+      "options": {
+        "a": "Abdul Jabbar Khan",
+        "b": "Nawab Mushtaq Ahmed Gurmani",
+        "c": "Ayub Khan",
+        "d": "None of these"
+      },
+      "one_liner": "The first Chief Minister of West Pakistan was **Abdul Jabbar Khan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

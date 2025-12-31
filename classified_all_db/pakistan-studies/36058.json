@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which three countries were the founding members of the Regional Cooperation for Development (RCD)?",
+      "options": {
+        "a": "Iran, Pakistan, and Afghanistan",
+        "b": "Iran, Pakistan, and Turkey",
+        "c": "Pakistan, Turkey, and Iraq",
+        "d": "None of these"
+      },
+      "one_liner": "The founding members of the Regional Cooperation for Development (RCD) were **Iran, Pakistan, and Turkey**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

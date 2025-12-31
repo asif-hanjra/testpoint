@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which amendment allowed changes in constituencies after the 2017 census?",
+      "options": {
+        "a": "23rd Amendment",
+        "b": "24th Amendment",
+        "c": "25th Amendment",
+        "d": "26th Amendment"
+      },
+      "one_liner": "The **24th Amendment** allowed for changes in constituencies following the 2017 census in Pakistan.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Amendment",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of Pakistan's first weather rocket launched by SUPARCO?",
+      "options": {
+        "a": "Badr-I",
+        "b": "Rehbar-I",
+        "c": "Shaheen-I",
+        "d": "None of these"
+      },
+      "one_liner": "The first weather rocket launched by SUPARCO was named **Rehbar-I**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which additional office did Noor-ul-Amin hold besides being Prime Minister?",
+      "options": {
+        "a": "Speaker of the National Assembly",
+        "b": "Chief Justice",
+        "c": "Vice President",
+        "d": "None of these"
+      },
+      "one_liner": "In addition to being Prime Minister, Noor-ul-Amin also served as the **vice president of Pakistan**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

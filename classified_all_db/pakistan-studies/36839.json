@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first Governor of the State Bank of Pakistan?",
+      "options": {
+        "a": "Zahid Hussain",
+        "b": "Ghulam Ishaq Khan",
+        "c": "Shaukat Aziz",
+        "d": "None of these"
+      },
+      "one_liner": "The first Governor of the State Bank of Pakistan was **Zahid Hussain**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

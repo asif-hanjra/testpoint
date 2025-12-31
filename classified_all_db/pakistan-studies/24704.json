@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which cities are scheduled to host the Winter Olympics in 2026?",
+      "options": {
+        "a": "Beijing and Shanghai",
+        "b": "Tokyo and Osaka",
+        "c": "Milan and Cortina",
+        "d": "Paris and Lyon"
+      },
+      "one_liner": "The Winter Olympics in 2026 are scheduled to be hosted by the Italian cities of **Milan and Cortina**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Olympics",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Olympics",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

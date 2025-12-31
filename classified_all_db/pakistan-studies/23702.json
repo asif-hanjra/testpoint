@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which militant group was targeted by Operation Rah-e-Rast in Swat Valley in 2009?",
+      "options": {
+        "a": "Al-Qaeda",
+        "b": "Tehrik-e-Taliban Pakistan (TTP)",
+        "c": "Lashkar-e-Taiba",
+        "d": "None of these"
+      },
+      "one_liner": "Operation Rah-e-Rast in 2009 targeted the **Tehrik-e-Taliban Pakistan (TTP)** in Swat Valley.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Cricket",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

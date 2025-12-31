@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was the name of the Indian military operation in 1984 that involved moving into the Siachen Glacier region?",
+      "options": {
+        "a": "Operation Blue Star",
+        "b": "Operation Meghdoot",
+        "c": "Operation Vijay",
+        "d": "Operation Parakram"
+      },
+      "one_liner": "The Indian military operation in 1984 involving the Siachen Glacier was called **Operation Meghdoot**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Hockey",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

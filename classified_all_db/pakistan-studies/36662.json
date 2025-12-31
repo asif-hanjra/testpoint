@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which international organization published the report ranking Pakistan third among countries facing acute water shortage?",
+      "options": {
+        "a": "World Bank",
+        "b": "IMF",
+        "c": "UNESCO",
+        "d": "WHO"
+      },
+      "one_liner": "The report ranking Pakistan third in acute water shortage was published by the **IMF**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

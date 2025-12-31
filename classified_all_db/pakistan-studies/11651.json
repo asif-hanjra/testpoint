@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Karachi Agreement, establishing a cease-fire line in Kashmir, signed?",
+      "options": {
+        "a": "1947",
+        "b": "1948",
+        "c": "1949",
+        "d": "1950"
+      },
+      "one_liner": "The Karachi Agreement, which established a cease-fire line in Kashmir, was signed in **1949**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

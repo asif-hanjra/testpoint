@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which three tehsils of Gurdaspur, despite being a Muslim majority area, were handed over to India by the Boundary Commission?",
+      "options": {
+        "a": "Gurdaspur, Pathankot, Batala",
+        "b": "Gurdaspur, Amritsar, Batala",
+        "c": "Pathankot, Lahore, Batala",
+        "d": "None of these"
+      },
+      "one_liner": "The Boundary Commission handed over the Muslim majority tehsils of **Gurdaspur, Pathankot, and Batala** to India, facilitating access to Jammu and Kashmir.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

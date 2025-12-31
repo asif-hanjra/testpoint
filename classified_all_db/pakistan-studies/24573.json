@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which is the longest river in Pakistan?",
+      "options": {
+        "a": "River Jhelum",
+        "b": "River Chenab",
+        "c": "River Indus",
+        "d": "River Ravi"
+      },
+      "one_liner": "The longest river in Pakistan is the **River Indus**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

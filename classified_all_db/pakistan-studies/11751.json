@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which sport is considered the most famous in Gilgit Baltistan?",
+      "options": {
+        "a": "Polo",
+        "b": "Cricket",
+        "c": "Football",
+        "d": "Hockey"
+      },
+      "one_liner": "Polo holds the distinction of being the most famous sport in **Gilgit Baltistan**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

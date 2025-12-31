@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was appointed as the chairman of the boundary commission for Punjab and Bengal during the partition of India?",
+      "options": {
+        "a": "Sir Cyril Radcliffe",
+        "b": "Lord Mountbatten",
+        "c": "Sir Stafford Cripps",
+        "d": "None of these"
+      },
+      "one_liner": "Sir Cyril Radcliffe was appointed as the chairman of the boundary commission for Punjab and Bengal during the partition of India.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Indian Independence Act 1947",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Radcliffe Award and Boundary Demarcation",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

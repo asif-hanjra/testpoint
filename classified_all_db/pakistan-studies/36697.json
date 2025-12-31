@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who served as the President of the UN General Assembly during 1962-1963?",
+      "options": {
+        "a": "Sir Zafarullah Khan",
+        "b": "Liaquat Ali Khan",
+        "c": "Chaudhry Muhammad Ali",
+        "d": "None of these"
+      },
+      "one_liner": "Sir Zafarullah Khan held the distinguished position of President of the UN General Assembly in **1962-1963**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

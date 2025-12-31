@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Jamshed Marker is famous for his contributions in which field?",
+      "options": {
+        "a": "Fiction writing",
+        "b": "Politics",
+        "c": "Science",
+        "d": "Sports"
+      },
+      "one_liner": "Jamshed Marker is renowned for his work in the field of **Fiction writing**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

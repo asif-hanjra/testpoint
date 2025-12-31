@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which section is the legal definition of rioting provided?",
+      "options": {
+        "a": "Section 144",
+        "b": "Section 145",
+        "c": "Section 146",
+        "d": "Section 147"
+      },
+      "one_liner": "The legal definition of rioting is provided under **section 146**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "1973 Constitution",
+          "chapter": "Constitution & Amendments"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

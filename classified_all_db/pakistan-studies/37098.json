@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which was the first princely state to accede to Pakistan after partition?",
+      "options": {
+        "a": "Bahawalpur",
+        "b": "Swat",
+        "c": "Kalat",
+        "d": "Khairpur"
+      },
+      "one_liner": "The first princely state to join Pakistan after the partition was **Swat**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Partition and Migration Crisis",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Creation of Pakistan (14 August 1947)",
+          "chapter": "Independence and Events of 1947"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

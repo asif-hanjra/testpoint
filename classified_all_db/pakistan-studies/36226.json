@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who became the Prime Minister of Pakistan in June 2004, succeeding Zafarullah Khan Jamali?",
+      "options": {
+        "a": "Shaukat Aziz",
+        "b": "Yousaf Raza Gillani",
+        "c": "Chaudhary Shujaat Hussain",
+        "d": "Benazir Bhutto"
+      },
+      "one_liner": "In June 2004, **Chaudhary Shujaat Hussain** took office as the Prime Minister of Pakistan after Zafarullah Khan Jamali's resignation.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

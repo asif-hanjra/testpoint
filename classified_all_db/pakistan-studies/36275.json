@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which political party did Zafarullah Khan Jamali belong to during his tenure as Prime Minister?",
+      "options": {
+        "a": "Pakistan Peoples Party",
+        "b": "Pakistan Muslim League (N)",
+        "c": "Pakistan Muslim League (Q)",
+        "d": "None of these"
+      },
+      "one_liner": "Zafarullah Khan Jamali was affiliated with the **Pakistan Muslim League (Q)** during his time as Prime Minister.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

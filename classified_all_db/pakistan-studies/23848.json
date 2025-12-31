@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What was established in Kashmir as a result of the Karachi Agreement of 1949?",
+      "options": {
+        "a": "Trade route",
+        "b": "Cease-fire line",
+        "c": "New state",
+        "d": "None of these"
+      },
+      "one_liner": "The Karachi Agreement of 1949 established a **cease-fire line in Kashmir** following the Indo-Pakistani War of 1947.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Accession of Junagadh and Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Pakistan’s Admission to the United Nations",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "Important Events (1949)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

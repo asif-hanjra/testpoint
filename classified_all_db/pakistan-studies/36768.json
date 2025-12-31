@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who wrote the famous Qisa Sohni Mahiwal?",
+      "options": {
+        "a": "Waris Shah",
+        "b": "Fazal Shah",
+        "c": "Bulleh Shah",
+        "d": "None of these"
+      },
+      "one_liner": "The famous Qisa Sohni Mahiwal was authored by **Fazal Shah**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

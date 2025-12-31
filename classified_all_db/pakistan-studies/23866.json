@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the Continental Shelf limit of Pakistan?",
+      "options": {
+        "a": "200 Nautical Miles",
+        "b": "250 Nautical Miles",
+        "c": "350 Nautical Miles",
+        "d": "None of these"
+      },
+      "one_liner": "The Continental Shelf limit of Pakistan extends up to **350 Nautical Miles** from its coastline.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "More Facts about Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

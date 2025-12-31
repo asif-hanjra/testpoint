@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was awarded the Nishan-e-Haider in 1971?",
+      "options": {
+        "a": "Shabbir Sharif",
+        "b": "Rashid Minhas",
+        "c": "Muhammad Mahfuz",
+        "d": "None of these"
+      },
+      "one_liner": "The Nishan-e-Haider was awarded to **Rashid Minhas** in 1971 for his heroic actions.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "At which court did Muhammad Ali Jinnah enroll upon returning to British India?",
+      "options": {
+        "a": "Lahore High Court",
+        "b": "Bombay High Court",
+        "c": "Sindh High Court",
+        "d": "Delhi High Court"
+      },
+      "one_liner": "Upon returning to British India, Muhammad Ali Jinnah enrolled at the **Bombay High Court**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Governor Generals",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1948)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

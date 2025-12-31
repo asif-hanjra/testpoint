@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Faiz Ahmad Faiz receive the Lenin award?",
+      "options": {
+        "a": "1958",
+        "b": "1962",
+        "c": "1965",
+        "d": "1970"
+      },
+      "one_liner": "Faiz Ahmad Faiz was honored with the prestigious Lenin award in **1962**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Nishan-e-Haider",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

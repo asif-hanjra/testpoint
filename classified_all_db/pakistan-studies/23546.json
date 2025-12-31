@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "On which date did the ceasefire of the Indo-Pak War 1965 take effect?",
+      "options": {
+        "a": "September 6, 1965",
+        "b": "September 10, 1965",
+        "c": "September 22, 1965",
+        "d": "January 10, 1966"
+      },
+      "one_liner": "The ceasefire that ended the Indo-Pak War of 1965 took effect on **September 22, 1965**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Kashmir Conflict",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

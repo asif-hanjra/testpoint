@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Who was the first foreign minister of Pakistan?",
+      "options": {
+        "a": "Liaquat Ali Khan",
+        "b": "Zafarullah Khan",
+        "c": "Khawaja Nazimuddin",
+        "d": "None of these"
+      },
+      "one_liner": "The first foreign minister of Pakistan was **Zafarullah Khan**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Eligibility of Government Officials",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Personalities",
+          "chapter": "Political Structure and Leadership"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

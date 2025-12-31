@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which country did Pakistan purchase Gwadar from?",
+      "options": {
+        "a": "Iran",
+        "b": "Oman",
+        "c": "Saudi Arabia",
+        "d": "United Arab Emirates"
+      },
+      "one_liner": "Pakistan acquired Gwadar by purchasing it from **Oman**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Division of Assets and Administrative Setup",
+          "chapter": "Independence and Events of 1947"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

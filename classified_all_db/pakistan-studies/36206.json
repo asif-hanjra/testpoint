@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How many offshore companies were mentioned in the Panama Papers?",
+      "options": {
+        "a": "100,000",
+        "b": "150,000",
+        "c": "214,000",
+        "d": "300,000"
+      },
+      "one_liner": "A total of **214,000 offshore companies** were mentioned in the Panama Papers.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

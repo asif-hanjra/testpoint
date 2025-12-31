@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "How often are the Thomas Cup championships held?",
+      "options": {
+        "a": "Every year",
+        "b": "Every three years",
+        "c": "Every two years",
+        "d": "None of these"
+      },
+      "one_liner": "The Thomas Cup championships in badminton are conducted every **two years**.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

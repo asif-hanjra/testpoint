@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year did Pakistan rejoin the Commonwealth after a period of absence?",
+      "options": {
+        "a": "1985",
+        "b": "1988",
+        "c": "1989",
+        "d": "1990"
+      },
+      "one_liner": "Pakistan rejoined the **Commonwealth in 1989** after a period of absence.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Important Events (1981-1990)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

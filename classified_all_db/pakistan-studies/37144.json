@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "What is the name of the natural gas discovered in Pakistan in 1952?",
+      "options": {
+        "a": "Mari Gas",
+        "b": "Sui Gas",
+        "c": "LPG",
+        "d": "None of these"
+      },
+      "one_liner": "The natural gas discovered in Pakistan in 1952 is known as **Sui Gas**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1951-1960)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

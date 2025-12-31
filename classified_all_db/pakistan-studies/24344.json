@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "In which month and year did Pakistan successfully test its nuclear devices?",
+      "options": {
+        "a": "May 1998",
+        "b": "August 1947",
+        "c": "September 1965",
+        "d": "December 1971"
+      },
+      "one_liner": "Pakistan conducted its successful nuclear tests in **May 1998**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1991-2000)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

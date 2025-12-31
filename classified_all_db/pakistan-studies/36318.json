@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "When was the One Unit system of West Pakistan abolished and the provinces restored?",
+      "options": {
+        "a": "1965",
+        "b": "1970",
+        "c": "1972",
+        "d": "1975"
+      },
+      "one_liner": "The One Unit system of West Pakistan was abolished and the provinces were restored in **1970**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (1971-1980)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

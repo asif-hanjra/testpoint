@@ -1,0 +1,31 @@
+{
+  "mcq": [
+    {
+      "statement": "Deosai National Park is notable for being which of the following?",
+      "options": {
+        "a": "Largest desert in Pakistan",
+        "b": "Highest plateau in the world",
+        "c": "Oldest national park in Pakistan",
+        "d": "None of these"
+      },
+      "one_liner": "Deosai National Park is notable for being one of the **highest plateaus in the world**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

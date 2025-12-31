@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which beach in Pakistan is renowned for its ship breaking industry?",
+      "options": {
+        "a": "Clifton Beach",
+        "b": "Gaddani Beach",
+        "c": "Hawke's Bay",
+        "d": "Sandspit Beach"
+      },
+      "one_liner": "Gaddani Beach in Pakistan is well-known for its **ship breaking industry**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

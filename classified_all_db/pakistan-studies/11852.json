@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Which organization oversees the Thomas Cup?",
+      "options": {
+        "a": "International Olympic Committee",
+        "b": "Badminton World Federation",
+        "c": "Asian Badminton Confederation",
+        "d": "None of these"
+      },
+      "one_liner": "The Thomas Cup is overseen by the **Badminton World Federation**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Badminton",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Sports at a Glance",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Badminton",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

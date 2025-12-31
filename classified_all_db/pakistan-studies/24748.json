@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "What does the acronym TAPI stand for in the context of the gas pipeline agreement?",
+      "options": {
+        "a": "Turkey, Afghanistan, Pakistan, Iran",
+        "b": "Turkmenistan, Afghanistan, Pakistan, India",
+        "c": "Tajikistan, Afghanistan, Pakistan, India",
+        "d": "None of these"
+      },
+      "one_liner": "TAPI refers to the gas pipeline agreement involving **Turkmenistan, Afghanistan, Pakistan, and India**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Five-Year Plans of Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

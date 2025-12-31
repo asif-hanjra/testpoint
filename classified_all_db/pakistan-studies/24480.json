@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Where is Minar-e-Pakistan located?",
+      "options": {
+        "a": "Badshahi Mosque",
+        "b": "Shalimar Gardens",
+        "c": "Greater Iqbal Park",
+        "d": "Liberty Market"
+      },
+      "one_liner": "Minar-e-Pakistan is situated in the middle of **Greater Iqbal Park** in Lahore.",
+      "correct_option": "c",
+      "suggestions": [
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Pakistani Culture",
+          "chapter": "Culture, Sports & Pakistani Honors"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

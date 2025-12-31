@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Under which section of the Criminal Procedure Code (CrPC) can a police officer arrest without a warrant?",
+      "options": {
+        "a": "Section 54",
+        "b": "Section 144",
+        "c": "Section 302",
+        "d": "Section 161"
+      },
+      "one_liner": "According to the Criminal Procedure Code, a police officer is empowered to arrest without a warrant under **Section 54**.",
+      "correct_option": "a",
+      "suggestions": [
+        {
+          "topic": "Initial Constittution Making Hurdles",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Constitution",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "First 17 Amendments",
+          "chapter": "Constitution & Amendments"
+        },
+        {
+          "topic": "Miscellaneous",
+          "chapter": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}

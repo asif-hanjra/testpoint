@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "Who imposed emergency in Pakistan in 2007, leading to the ousting of most senior Supreme Court judges?",
+      "options": {
+        "a": "Shaukat Aziz",
+        "b": "Pervez Musharraf",
+        "c": "Yousaf Raza Gillani",
+        "d": "Asif Ali Zardari"
+      },
+      "one_liner": "In 2007, **Pervez Musharraf** imposed emergency in Pakistan, resulting in the removal of most senior Supreme Court judges.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "List of All Prime Ministers",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "List of All Presidents",
+          "chapter": "Political Structure and Leadership"
+        },
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

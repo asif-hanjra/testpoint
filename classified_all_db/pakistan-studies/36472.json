@@ -1,0 +1,34 @@
+{
+  "mcq": [
+    {
+      "statement": "In which year was the Regional Cooperation for Development (RCD) established?",
+      "options": {
+        "a": "1955",
+        "b": "1964",
+        "c": "1971",
+        "d": "1980"
+      },
+      "one_liner": "The Regional Cooperation for Development (RCD) was established in **1964** by Iran, Pakistan, and Turkey.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (1961-1970)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "First in Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Joining of International Organizations by Pakistan",
+          "chapter": "Economy, Development & Policies"
+        }
+      ]
+    }
+  ],
+  "is_new": true
+}

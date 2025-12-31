@@ -1,0 +1,35 @@
+{
+  "mcq": [
+    {
+      "statement": "Which terrorist leader was claimed to be killed in the US operation codenamed Neptune Spear?",
+      "options": {
+        "a": "Ayman al-Zawahiri",
+        "b": "Osama bin Laden",
+        "c": "Abu Bakr al-Baghdadi",
+        "d": "Mullah Omar"
+      },
+      "one_liner": "The US operation codenamed Neptune Spear claimed to have killed the terrorist leader **Osama bin Laden**.",
+      "correct_option": "b",
+      "suggestions": [
+        {
+          "topic": "Important Events (2001-2010)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        },
+        {
+          "topic": "Fast Facts About Pakistan",
+          "chapter": "Economy, Development & Policies"
+        },
+        {
+          "topic": "Important Events (2011-2022)",
+          "chapter": "Early State Formation and Events"
+        }
+      ]
+    }
+  ],
+  "is_new": true,
+  "year": 2001
+}
